@@ -21,9 +21,17 @@ The app stores selected plans in the URL, for example:
 
 `?plan=dance,wmi_percussion`
 
+Views are also shareable:
+
+- `?view=today`
+- `?view=week`
+- `?view=month`
+
 ## Data
 
-The current first pass uses curated Bryant Park listings and latest non-sponsored The Skint digest posts from The Skint's public WordPress API.
+The current first pass uses curated Bryant Park listings, latest non-sponsored The Skint digest posts from The Skint's public WordPress API, and nearby source cards for NYC Parks, Jersey City Cultural Affairs, and Visit Hudson.
+
+Month view is a compact agenda grouped by date. Week and Today use the time-grid calendar view.
 
 ## Refresh Frequency
 

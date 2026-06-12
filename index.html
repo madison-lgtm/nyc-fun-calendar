@@ -243,7 +243,7 @@
 
     .view-switch {
       display: inline-grid;
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
       border: 1px solid var(--line);
       border-radius: 8px;
       overflow: hidden;
@@ -388,6 +388,41 @@
     .cluster {
       border: 1px dashed #99a5a7;
       background: #fff;
+    }
+
+    .month-agenda {
+      min-width: min(760px, 100%);
+      display: grid;
+      gap: 10px;
+      padding: 12px;
+      background: #fff;
+    }
+
+    .month-day {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      overflow: hidden;
+      background: #fff;
+    }
+
+    .month-day h3 {
+      margin: 0;
+      padding: 10px 12px;
+      background: #f8f7f3;
+      border-bottom: 1px solid var(--line);
+      font-size: 14px;
+    }
+
+    .month-events {
+      display: grid;
+      gap: 8px;
+      padding: 10px;
+    }
+
+    .month-empty {
+      color: var(--muted);
+      font-size: 13px;
+      padding: 10px;
     }
 
     .plan-head {
@@ -691,6 +726,7 @@
           <div class="view-switch" aria-label="Calendar view">
             <button id="todayView" aria-pressed="true">Today</button>
             <button id="weekView" aria-pressed="false">Week</button>
+            <button id="monthView" aria-pressed="false">Month</button>
           </div>
           <button class="icon-btn" title="Next week">&gt;</button>
           <button class="primary-btn" id="copyPlanTop">Share Plan</button>
@@ -826,7 +862,15 @@
       </button>`;
     }
 
+    function dayKeyFor(event) {
+      return event.date || event.day;
+    }
+
     function renderCalendar() {
+      if (state.view === "month") {
+        renderMonthAgenda();
+        return;
+      }
       const visibleDays = state.view === "today" ? weekDays.filter(day => day.key === todayKey) : weekDays;
       calendar.style.setProperty("--day-count", visibleDays.length);
       calendar.style.setProperty("--calendar-min-width", state.view === "today" ? "520px" : "1220px");
@@ -836,22 +880,22 @@
 
       const byCell = {};
       Object.entries(events).forEach(([id, event]) => {
-        const key = `${event.time}|${event.day}`;
+        const key = `${event.time}|${dayKeyFor(event)}`;
         if (!byCell[key]) byCell[key] = [];
         byCell[key].push(id);
       });
       const clusterByCell = {};
       Object.entries(clusters).forEach(([clusterId, eventIds]) => {
         const first = events[eventIds[0]];
-        if (first) clusterByCell[`${first.time}|${first.day}`] = clusterId;
+        if (first) clusterByCell[`${first.time}|${dayKeyFor(first)}`] = clusterId;
       });
 
       let html = "";
       times.forEach(time => {
         html += `<div class="time">${time}</div>`;
         visibleDays.forEach(day => {
-          const ids = byCell[`${time}|${day.key}`] || [];
-          const clusterId = clusterByCell[`${time}|${day.key}`] || "";
+          const ids = byCell[`${time}|${day.iso || day.key}`] || byCell[`${time}|${day.key}`] || [];
+          const clusterId = clusterByCell[`${time}|${day.iso || day.key}`] || clusterByCell[`${time}|${day.key}`] || "";
           html += `<div class="slot">`;
           if (clusterId) {
             const visibleCount = clusters[clusterId].filter(id => eventMatches(events[id])).length;
@@ -869,6 +913,28 @@
         });
       });
       grid.innerHTML = html;
+    }
+
+    function renderMonthAgenda() {
+      const visibleDays = dataMeta.monthDays || weekDays;
+      calendar.style.setProperty("--day-count", 1);
+      calendar.style.setProperty("--calendar-min-width", "min(760px, 100%)");
+      calendarDays.innerHTML = "";
+
+      const cards = visibleDays.map(day => {
+        const dayIds = Object.entries(events)
+          .filter(([, event]) => (event.date && event.date === day.iso) || (!event.date && event.day === day.key))
+          .filter(([, event]) => eventMatches(event))
+          .sort((a, b) => a[1].sort - b[1].sort)
+          .map(([id]) => eventButton(id))
+          .join("");
+        return `<section class="month-day">
+          <h3>${day.label}, ${day.date}</h3>
+          ${dayIds ? `<div class="month-events">${dayIds}</div>` : `<div class="month-empty">No source-backed events yet.</div>`}
+        </section>`;
+      }).join("");
+
+      grid.innerHTML = `<div class="month-agenda">${cards}</div>`;
     }
 
     function renderQuickList() {
@@ -1009,7 +1075,7 @@
       if (extraEventId) url.searchParams.set("event", extraEventId);
       if (state.plan.length) url.searchParams.set("plan", state.plan.join(","));
       else url.searchParams.delete("plan");
-      if (state.view === "week") url.searchParams.set("view", "week");
+      if (state.view !== "today") url.searchParams.set("view", state.view);
       else url.searchParams.delete("view");
       return url.toString();
     }
@@ -1045,7 +1111,7 @@
       const url = new URL(location.href);
       if (state.plan.length) url.searchParams.set("plan", state.plan.join(","));
       else url.searchParams.delete("plan");
-      if (state.view === "week") url.searchParams.set("view", "week");
+      if (state.view !== "today") url.searchParams.set("view", state.view);
       else url.searchParams.delete("view");
       history.replaceState(null, "", url);
     }
@@ -1053,6 +1119,7 @@
     function loadSharedState() {
       const params = new URLSearchParams(location.search);
       if (params.get("view") === "week") state.view = "week";
+      if (params.get("view") === "month") state.view = "month";
       const sharedPlan = params.get("plan");
       const savedPlan = localStorage.getItem("nycFunPlan");
       const source = sharedPlan || savedPlan || "";
@@ -1064,6 +1131,7 @@
     function renderViewButtons() {
       document.querySelector("#todayView").setAttribute("aria-pressed", String(state.view === "today"));
       document.querySelector("#weekView").setAttribute("aria-pressed", String(state.view === "week"));
+      document.querySelector("#monthView").setAttribute("aria-pressed", String(state.view === "month"));
     }
 
     function setView(view) {
@@ -1071,7 +1139,7 @@
       renderViewButtons();
       renderCalendar();
       const url = new URL(location.href);
-      if (state.view === "week") url.searchParams.set("view", "week");
+      if (state.view !== "today") url.searchParams.set("view", state.view);
       else url.searchParams.delete("view");
       history.replaceState(null, "", url);
     }
@@ -1111,6 +1179,7 @@
 
     document.querySelector("#todayView").addEventListener("click", () => setView("today"));
     document.querySelector("#weekView").addEventListener("click", () => setView("week"));
+    document.querySelector("#monthView").addEventListener("click", () => setView("month"));
 
     function wireToggle(id, prop) {
       document.querySelector(id).addEventListener("click", event => {

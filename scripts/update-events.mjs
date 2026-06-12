@@ -59,6 +59,20 @@ function buildWeekDays(startDate = new Date()) {
     const date = new Date(startDate.getTime() + index * DAY_MS);
     const parts = nyDateParts(date);
     return {
+      iso: date.toISOString().slice(0, 10),
+      key: parts.weekday,
+      label: parts.weekday,
+      date: `${parts.month} ${parts.day}`
+    };
+  });
+}
+
+function buildMonthDays(startDate = new Date()) {
+  return Array.from({ length: 31 }, (_, index) => {
+    const date = new Date(startDate.getTime() + index * DAY_MS);
+    const parts = nyDateParts(date);
+    return {
+      iso: date.toISOString().slice(0, 10),
       key: parts.weekday,
       label: parts.weekday,
       date: `${parts.month} ${parts.day}`
@@ -96,6 +110,7 @@ function skintDigestEvent(post, index) {
     type: "art",
     label: "Daily picks",
     day,
+    date: date.toISOString().slice(0, 10),
     time: "10 AM",
     sort: 10 + index / 100,
     when: `${day} · Latest Skint digest`,
@@ -116,6 +131,65 @@ async function fetchSkintEvents() {
     .filter(post => /SKINT|TUES|THURS|FRI|SAT|SUN|MON|WEEKEND|\d+\/\d+/.test(decodeHtml(post.title?.rendered).toUpperCase()))
     .slice(0, 4)
     .map(skintDigestEvent);
+}
+
+function nearbySourceEvents() {
+  const today = new Date();
+  const day = nyDateParts(today).weekday;
+  const date = today.toISOString().slice(0, 10);
+  return {
+    nyc_parks_today: {
+      title: "NYC Parks events near you",
+      type: "park",
+      label: "Parks",
+      day,
+      date,
+      time: "10 AM",
+      sort: 10.1,
+      when: `${day} · Latest NYC Parks calendar`,
+      price: "Mostly free",
+      free: true,
+      place: "NYC parks",
+      source: "NYC Parks",
+      link: "https://www.nycgovparks.org/events",
+      map: "https://maps.google.com/?q=NYC+Parks+events",
+      summary: "Official NYC Parks calendar. Use the source link for the latest concerts, movies, tours, fitness, and outdoor events."
+    },
+    jersey_city_culture: {
+      title: "Jersey City cultural events",
+      type: "art",
+      label: "Jersey City",
+      day,
+      date,
+      time: "12 PM",
+      sort: 12.1,
+      when: `${day} · Latest Jersey City calendar`,
+      price: "Varies",
+      free: true,
+      place: "Jersey City",
+      source: "Jersey City Cultural Affairs",
+      link: "https://www.jerseycityculture.org/",
+      map: "https://maps.google.com/?q=Jersey+City+events",
+      summary: "Nearby Jersey City arts and culture source. This keeps the app useful for local plans while we add deeper event parsing."
+    },
+    visit_hudson: {
+      title: "Hudson County events",
+      type: "food",
+      label: "Nearby",
+      day,
+      date,
+      time: "3 PM",
+      sort: 15.1,
+      when: `${day} · Latest Hudson County listings`,
+      price: "Varies",
+      free: true,
+      place: "Hudson County / Jersey City area",
+      source: "Visit Hudson",
+      link: "https://www.visithudson.org/events/",
+      map: "https://maps.google.com/?q=Hudson+County+NJ+events",
+      summary: "Nearby event source for Jersey City and Hudson County. Good for markets, festivals, food, and community events."
+    }
+  };
 }
 
 function buildClusters(events) {
@@ -155,7 +229,8 @@ async function main() {
 
   const events = {
     ...curated.events,
-    ...Object.fromEntries(skintEntries)
+    ...Object.fromEntries(skintEntries),
+    ...nearbySourceEvents()
   };
 
   const checked = new Intl.DateTimeFormat("en-US", {
@@ -171,9 +246,10 @@ async function main() {
   const data = {
     meta: {
       checked,
-      coverage: "Curated Bryant Park listings plus latest non-sponsored The Skint digest posts",
+      coverage: "Curated Bryant Park listings plus latest non-sponsored The Skint digest posts, NYC Parks, and Jersey City nearby source links",
       refresh: "Checks for updated events.json every 30 minutes while open.",
       weekDays: buildWeekDays(),
+      monthDays: buildMonthDays(),
       todayKey: nyDateParts(new Date()).weekday,
       times: buildTimes(events)
     },
