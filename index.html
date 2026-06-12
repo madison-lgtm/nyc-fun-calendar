@@ -923,6 +923,7 @@
       });
 
       let html = "";
+      let visibleEventCount = 0;
       times.forEach(time => {
         html += `<div class="time">${time}</div>`;
         visibleDays.forEach(day => {
@@ -939,11 +940,17 @@
             }
           }
           ids.sort((a, b) => events[a].sort - events[b].sort).forEach(id => {
+            if (eventMatches(events[id])) visibleEventCount += 1;
             if (!clusterId || !clusters[clusterId].includes(id)) html += eventButton(id);
           });
           html += `</div>`;
         });
       });
+      if (!visibleEventCount) {
+        html += `<div class="time"></div><div class="slot" style="grid-column: span ${visibleDays.length};">
+          <div class="empty">No source-backed events loaded for this period yet. Try Today, Month, or open the source links from the current week while we add deeper parsers.</div>
+        </div>`;
+      }
       grid.innerHTML = html;
     }
 

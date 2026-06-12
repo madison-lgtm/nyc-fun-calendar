@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jun 12, 2026, 12:17 AM EDT",
+    "checked": "Jun 12, 2026, 12:28 AM EDT",
     "coverage": "Curated Bryant Park listings plus latest non-sponsored The Skint digest posts, NYC Parks, and Jersey City nearby source links",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -261,7 +261,8 @@
       "source": "Bryant Park",
       "link": "https://bryantpark.org/calendar",
       "map": "https://maps.google.com/?q=Bryant+Park+Carrousel",
-      "summary": "Official Bryant Park listing. A small, easy Midtown stop if you are already nearby."
+      "summary": "Official Bryant Park listing. A small, easy Midtown stop if you are already nearby.",
+      "date": "2026-06-11"
     },
     "shop_bryant": {
       "title": "Shop Bryant Park",
@@ -277,7 +278,8 @@
       "source": "Bryant Park",
       "link": "https://bryantpark.org/calendar",
       "map": "https://maps.google.com/?q=Bryant+Park+Allee",
-      "summary": "Official Bryant Park listing for open-air shopping in the park."
+      "summary": "Official Bryant Park listing for open-air shopping in the park.",
+      "date": "2026-06-11"
     },
     "garden_explorers": {
       "title": "Garden Explorers",
@@ -293,7 +295,8 @@
       "source": "Bryant Park",
       "link": "https://bryantpark.org/calendar",
       "map": "https://maps.google.com/?q=Bryant+Park+Reading+Room",
-      "summary": "Official Bryant Park children's nature program listing."
+      "summary": "Official Bryant Park children's nature program listing.",
+      "date": "2026-06-11"
     },
     "sensory_tour": {
       "title": "Sensory Tour of Bryant Park",
@@ -309,7 +312,8 @@
       "source": "Bryant Park",
       "link": "https://bryantpark.org/calendar",
       "map": "https://maps.google.com/?q=Bryant+Park+Visitor+Info+Kiosk",
-      "summary": "Official Bryant Park listing for a guided sensory tour."
+      "summary": "Official Bryant Park listing for a guided sensory tour.",
+      "date": "2026-06-11"
     },
     "juggling": {
       "title": "Juggling",
@@ -325,7 +329,8 @@
       "source": "Bryant Park",
       "link": "https://bryantpark.org/calendar",
       "map": "https://maps.google.com/?q=Bryant+Park+40th+Street+Plaza",
-      "summary": "Official Bryant Park drop-in juggling program."
+      "summary": "Official Bryant Park drop-in juggling program.",
+      "date": "2026-06-11"
     },
     "ted_rosenthal": {
       "title": "Piano in Bryant Park: Ted Rosenthal",
@@ -341,7 +346,8 @@
       "source": "Bryant Park",
       "link": "https://bryantpark.org/calendar",
       "map": "https://maps.google.com/?q=Bryant+Park+Upper+Terrace",
-      "summary": "Official Bryant Park listing for pianist Ted Rosenthal."
+      "summary": "Official Bryant Park listing for pianist Ted Rosenthal.",
+      "date": "2026-06-11"
     },
     "ink_drawing": {
       "title": "Drawing in Bryant Park: Ink Illustrations",
@@ -357,7 +363,8 @@
       "source": "Bryant Park",
       "link": "https://bryantpark.org/calendar",
       "map": "https://maps.google.com/?q=Bryant+Park+Art+Cart",
-      "summary": "Official Bryant Park art-class listing."
+      "summary": "Official Bryant Park art-class listing.",
+      "date": "2026-06-11"
     },
     "mahjongg": {
       "title": "Mah Jongg",
@@ -373,7 +380,8 @@
       "source": "Bryant Park",
       "link": "https://bryantpark.org/calendar",
       "map": "https://maps.google.com/?q=Bryant+Park+Reading+Room",
-      "summary": "Official Bryant Park games listing."
+      "summary": "Official Bryant Park games listing.",
+      "date": "2026-06-11"
     },
     "muay": {
       "title": "Muay Thai",
@@ -389,7 +397,8 @@
       "source": "Bryant Park",
       "link": "https://bryantpark.org/calendar",
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
-      "summary": "Official Bryant Park fitness listing."
+      "summary": "Official Bryant Park fitness listing.",
+      "date": "2026-06-11"
     },
     "dance": {
       "title": "Picnic Performances: Contemporary Dance",
@@ -405,7 +414,8 @@
       "source": "Bryant Park / The Skint",
       "link": "https://bryantpark.org/calendar",
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
-      "summary": "Listed by Bryant Park and The Skint as a free Picnic Performances program."
+      "summary": "Listed by Bryant Park and The Skint as a free Picnic Performances program.",
+      "date": "2026-06-11"
     },
     "wmi_percussion": {
       "title": "Picnic Performances: World of Percussion Re-Imagined",
@@ -421,7 +431,25 @@
       "source": "The Skint / Bryant Park",
       "link": "https://bryantpark.org/calendar",
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
-      "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI."
+      "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
+      "date": "2026-06-12"
+    },
+    "skint_fri_mon_6_12_15_skint_weekend": {
+      "title": "FRI-MON, 6/12-15: SKINT WEEKEND",
+      "type": "art",
+      "label": "Daily picks",
+      "day": "Fri",
+      "date": "2026-06-12",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Fri · Latest Skint digest",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "NYC",
+      "source": "The Skint",
+      "link": "https://www.theskint.com/fri-mon-6-12-15-skint-weekend/",
+      "map": "https://maps.google.com/?q=New+York+City",
+      "summary": "Automatically pulled from The Skint's public WordPress API. Open the source for the full list of picks and details."
     },
     "skint_tues_thurs_6_9_11_museum_mile_fest_summerstage_summe": {
       "title": "TUES-THURS, 6/9-11: MUSEUM MILE FEST, SUMMERSTAGE, SUMMER FOR THE CITY, AND MORE",
@@ -430,7 +458,7 @@
       "day": "Tue",
       "date": "2026-06-09",
       "time": "10 AM",
-      "sort": 10,
+      "sort": 10.01,
       "when": "Tue · Latest Skint digest",
       "price": "Free / cheap",
       "free": true,
@@ -447,7 +475,7 @@
       "day": "Fri",
       "date": "2026-06-05",
       "time": "10 AM",
-      "sort": 10.01,
+      "sort": 10.02,
       "when": "Fri · Latest Skint digest",
       "price": "Free / cheap",
       "free": true,
@@ -464,30 +492,13 @@
       "day": "Tue",
       "date": "2026-06-02",
       "time": "10 AM",
-      "sort": 10.02,
+      "sort": 10.03,
       "when": "Tue · Latest Skint digest",
       "price": "Free / cheap",
       "free": true,
       "place": "NYC",
       "source": "The Skint",
       "link": "https://www.theskint.com/tues-thurs-6-2-4-tribeca-festival-celebrate-brooklyn-dine-around-downtown-and-more/",
-      "map": "https://maps.google.com/?q=New+York+City",
-      "summary": "Automatically pulled from The Skint's public WordPress API. Open the source for the full list of picks and details."
-    },
-    "skint_fri_mon_5_29_6_1_skint_weekend": {
-      "title": "FRI-MON, 5/29-6/1: SKINT WEEKEND",
-      "type": "art",
-      "label": "Daily picks",
-      "day": "Fri",
-      "date": "2026-05-29",
-      "time": "10 AM",
-      "sort": 10.03,
-      "when": "Fri · Latest Skint digest",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "NYC",
-      "source": "The Skint",
-      "link": "https://www.theskint.com/fri-mon-5-29-6-1-skint-weekend/",
       "map": "https://maps.google.com/?q=New+York+City",
       "summary": "Automatically pulled from The Skint's public WordPress API. Open the source for the full list of picks and details."
     },
@@ -553,14 +564,14 @@
       "juggling",
       "ted_rosenthal"
     ],
+    "cluster_fri_10_am": [
+      "skint_fri_mon_6_12_15_skint_weekend",
+      "skint_fri_mon_6_5_8_skint_weekend",
+      "nyc_parks_today"
+    ],
     "cluster_tue_10_am": [
       "skint_tues_thurs_6_9_11_museum_mile_fest_summerstage_summe",
       "skint_tues_thurs_6_2_4_tribeca_festival_celebrate_brooklyn"
-    ],
-    "cluster_fri_10_am": [
-      "skint_fri_mon_6_5_8_skint_weekend",
-      "skint_fri_mon_5_29_6_1_skint_weekend",
-      "nyc_parks_today"
     ]
   }
 }
