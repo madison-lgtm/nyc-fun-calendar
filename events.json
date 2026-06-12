@@ -1,7 +1,7 @@
 {
   "meta": {
-    "checked": "Jun 12, 2026, 4:48 PM EDT",
-    "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and NYU Tandon events",
+    "checked": "Jun 12, 2026, 4:51 PM EDT",
+    "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
@@ -2252,23 +2252,6 @@
       "map": "https://maps.google.com/?q=Verci%20Flatiron%20NYC",
       "summary": "Luma NYC: new interfaces, Pauline Wee, Verci"
     },
-    "nyu_tandon_2026_06_12_master_s_application_demonstration_online_programs": {
-      "title": "Master's Application Demonstration: Online Programs",
-      "type": "tech",
-      "label": "Information Session",
-      "day": "Fri",
-      "date": "2026-06-12",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Fri, 06/12 · 1:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/06/12/masters-application-demonstration-online-programs",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Information Session"
-    },
     "nyu_tandon_2026_06_15_cryoelectronics_for_scalable_ion_trap_quantum_contro": {
       "title": "Cryoelectronics for Scalable Ion-Trap Quantum Control",
       "type": "tech",
@@ -2285,91 +2268,6 @@
       "link": "https://engineering.nyu.edu/events/2026/06/15/cryoelectronics-scalable-ion-trap-quantum-control",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_06_16_bioinformatics_m_s_information_session": {
-      "title": "Bioinformatics M.S. Information Session",
-      "type": "tech",
-      "label": "Information Session",
-      "day": "Tue",
-      "date": "2026-06-16",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Tue, 06/16 · 1:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/06/16/bioinformatics-ms-information-session",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Information Session"
-    },
-    "nyu_tandon_2026_06_17_industrial_engineering_m_s_curriculum_preview": {
-      "title": "Industrial Engineering M.S. - Curriculum Preview",
-      "type": "tech",
-      "label": "Information Session",
-      "day": "Wed",
-      "date": "2026-06-17",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Wed, 06/17 · 12:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/06/17/industrial-engineering-ms-curriculum-preview",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Information Session"
-    },
-    "nyu_tandon_2026_06_19_cybersecurity_m_s_information_session": {
-      "title": "Cybersecurity M.S. Information Session",
-      "type": "tech",
-      "label": "Information Session",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Fri, 06/19 · 1:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/06/19/cybersecurity-ms-information-session",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Information Session"
-    },
-    "nyu_tandon_2026_06_25_2026_nyu_tandon_paa_annual_meeting": {
-      "title": "2026 NYU Tandon PAA Annual Meeting",
-      "type": "tech",
-      "label": "Annual Event",
-      "day": "Thu",
-      "date": "2026-06-25",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 06/25 · 6:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/06/25/2026-nyu-tandon-paa-annual-meeting",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Annual Event"
-    },
-    "nyu_tandon_2026_06_30_management_of_technology_m_s_information_session": {
-      "title": "Management of Technology M.S. Information Session",
-      "type": "tech",
-      "label": "Information Session",
-      "day": "Tue",
-      "date": "2026-06-30",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Tue, 06/30 · 1:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/06/30/management-technology-ms-information-session",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Information Session"
     },
     "nyc_parks_today": {
       "title": "NYC Parks events near you",
@@ -3250,10 +3148,6 @@
     "cluster_2026_06_13_2_pm": [
       "gary_2026_06_13_ai_product_mgmt_demos",
       "gary_2026_06_13_nj_code_coffee"
-    ],
-    "cluster_2026_06_16_1_pm": [
-      "gary_2026_06_16_civic_health_forum",
-      "nyu_tandon_2026_06_16_bioinformatics_m_s_information_session"
     ],
     "cluster_2026_06_16_6_pm": [
       "gary_2026_06_16_aws_summit_welcome_party_agents_at_scale",

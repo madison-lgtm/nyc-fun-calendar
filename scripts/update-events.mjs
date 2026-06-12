@@ -509,6 +509,7 @@ function parseNyuTandonEvents(html) {
     const dayTime = decodeHtml(block.match(/<div class="day-time">([\s\S]*?)<\/div>/)?.[1]);
     const date = dateFromMonthDay(monthDay);
     if (!href || !title || !isWithinLookahead(date)) continue;
+    if (/information session|application demonstration|curriculum preview|admissions?|degree program|m\.s\.|master'?s|annual meeting/i.test(`${title} ${category}`)) continue;
     const timeText = dayTime.split(",").slice(1).join(",").trim() || "12:00 PM";
     const time = normalizeTime(timeText);
     const day = nyDateParts(new Date(`${date}T12:00:00Z`)).weekday;
@@ -685,7 +686,7 @@ async function main() {
   const data = {
     meta: {
       checked,
-      coverage: "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and NYU Tandon events",
+      coverage: "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
       refresh: "Checks for updated events.json every 30 minutes while open.",
       weekDays: buildWeekDays(),
       monthDays: buildMonthDays(),
