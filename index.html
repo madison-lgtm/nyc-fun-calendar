@@ -847,7 +847,8 @@
       search: "",
       view: "today",
       dayOffset: 0,
-      plan: []
+      plan: [],
+      activeCluster: null
     };
 
     const grid = document.querySelector("#calendarGrid");
@@ -1055,6 +1056,7 @@
     function closeDrawer() {
       drawer.classList.remove("open");
       scrim.classList.remove("open");
+      state.activeCluster = null;
       if (location.search.includes("event=")) {
         history.replaceState(null, "", shareUrl());
       }
@@ -1075,10 +1077,11 @@
       if (events[id]) renderEvent(id, false);
     }
 
-    function renderEvent(id, updateUrl = true) {
+    function renderEvent(id, updateUrl = true, clusterId = null) {
       const event = events[id];
       drawerTitle.textContent = event.title;
       drawerBody.innerHTML = `
+        ${clusterId ? `<button class="btn" data-back-cluster="${clusterId}">Back to time bucket</button>` : ""}
         <div class="pill-row">
           <span class="pill">${event.label}</span>
           <span class="pill">${event.price}</span>
@@ -1109,6 +1112,7 @@
 
     function renderCluster(id) {
       const ids = clusters[id].filter(eventId => eventMatches(events[eventId]));
+      state.activeCluster = id;
       drawerTitle.textContent = `${ids.length} events at the same time`;
       drawerBody.innerHTML = `
         <p class="summary">Instead of cramming everything into one calendar cell, this groups the overlap so you can compare the options.</p>
@@ -1237,9 +1241,14 @@
     document.addEventListener("click", event => {
       const eventButton = event.target.closest("[data-event]");
       const clusterButton = event.target.closest("[data-cluster]");
+      const backClusterButton = event.target.closest("[data-back-cluster]");
       const planButton = event.target.closest("[data-plan]");
       const shareEventButton = event.target.closest("[data-share-event]");
 
+      if (backClusterButton) {
+        renderCluster(backClusterButton.dataset.backCluster);
+        return;
+      }
       if (planButton) {
         togglePlan(planButton.dataset.plan);
         return;
@@ -1248,7 +1257,7 @@
         copyText(planText(shareEventButton.dataset.shareEvent), "Event copied");
         return;
       }
-      if (eventButton) renderEvent(eventButton.dataset.event);
+      if (eventButton) renderEvent(eventButton.dataset.event, true, eventButton.classList.contains("drawer-event") ? state.activeCluster : null);
       if (clusterButton) renderCluster(clusterButton.dataset.cluster);
     });
 

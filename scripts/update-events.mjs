@@ -100,37 +100,140 @@ function inferDayFromTitle(title, fallbackDate) {
   return nyDateParts(fallbackDate).weekday;
 }
 
-function skintDigestEvent(post, index) {
-  const title = decodeHtml(post.title?.rendered || "The Skint NYC picks");
-  const date = new Date(post.date_gmt ? `${post.date_gmt}Z` : post.date);
-  const day = inferDayFromTitle(title, date);
-  const id = `skint_${slug(title) || post.id}`;
-  return [id, {
-    title: title.replace(/\s+/g, " "),
-    type: "art",
-    label: "Daily picks",
-    day,
-    date: date.toISOString().slice(0, 10),
-    time: "10 AM",
-    sort: 10 + index / 100,
-    when: `${day} · Latest Skint digest`,
-    price: "Free / cheap",
-    free: true,
-    place: "NYC",
-    source: "The Skint",
-    link: post.link,
-    map: "https://maps.google.com/?q=New+York+City",
-    summary: "Automatically pulled from The Skint's public WordPress API. Open the source for the full list of picks and details."
-  }];
+function postDateMap(title, fallbackDate) {
+  const year = fallbackDate.getUTCFullYear();
+  const match = title.match(/(\d{1,2})\/(\d{1,2})(?:-(\d{1,2}))?/);
+  if (!match) {
+    const parts = nyDateParts(fallbackDate);
+    return { [parts.weekday.toLowerCase()]: fallbackDate.toISOString().slice(0, 10) };
+  }
+
+  const month = Number(match[1]);
+  const startDay = Number(match[2]);
+  const endDay = Number(match[3] || match[2]);
+  const map = {};
+  for (let day = startDay; day <= endDay; day += 1) {
+    const date = new Date(Date.UTC(year, month - 1, day, 12));
+    map[nyDateParts(date).weekday.toLowerCase()] = date.toISOString().slice(0, 10);
+  }
+  return map;
+}
+
+function normalizeTime(timeText) {
+  const compact = timeText.toLowerCase().replace(/\s+/g, "");
+  const match = compact.match(/(\d{1,2})(?::(\d{2}))?(am|pm)?/);
+  if (!match) return { bucket: "10 AM", label: timeText.trim() };
+  let hour = Number(match[1]);
+  const minute = match[2] || "";
+  let period = match[3] || "";
+  if (!period) {
+    const laterPeriod = compact.match(/(?:-|–|to)\d{1,2}(?::\d{2})?(am|pm)/);
+    period = laterPeriod?.[1] || "pm";
+  }
+  if (period === "pm" && hour !== 12) hour += 12;
+  if (period === "am" && hour === 12) hour = 0;
+  const displayHour = hour % 12 || 12;
+  const displayPeriod = hour >= 12 ? "PM" : "AM";
+  return {
+    bucket: minute ? `${displayHour}:${minute} ${displayPeriod}` : `${displayHour} ${displayPeriod}`,
+    label: timeText.trim()
+  };
+}
+
+function sortForTime(bucket) {
+  const match = bucket.match(/^(\d{1,2})(?::(\d{2}))?\s(AM|PM)$/);
+  if (!match) return 10;
+  let hour = Number(match[1]);
+  if (match[3] === "PM" && hour !== 12) hour += 12;
+  if (match[3] === "AM" && hour === 12) hour = 0;
+  return hour + Number(match[2] || 0) / 60;
+}
+
+function inferType(title, categoryText = "") {
+  const text = `${title} ${categoryText}`.toLowerCase();
+  if (/film|movie|screening|cinema/.test(text)) return ["film", "Movie"];
+  if (/concert|music|jazz|opera|dj|band|dance party/.test(text)) return ["music", "Live music"];
+  if (/food|market|fair|festival|bazaar|shopping|street/.test(text)) return ["food", "Market"];
+  if (/park|garden|outdoor|walk|tour/.test(text)) return ["park", "Outdoor"];
+  return ["art", "Arts"];
+}
+
+function extractLink(html) {
+  const match = html.match(/href="([^"]+)"/i);
+  return match ? decodeHtml(match[1]) : "https://www.theskint.com/";
+}
+
+function paragraphBlocks(html) {
+  return [...html.matchAll(/<p[\s\S]*?<\/p>/gi)].map(match => match[0]);
+}
+
+function parseSkintPost(post) {
+  const postTitle = decodeHtml(post.title?.rendered || "The Skint NYC picks");
+  const postDate = new Date(post.date_gmt ? `${post.date_gmt}Z` : post.date);
+  const dates = postDateMap(postTitle, postDate);
+  let category = "Daily picks";
+  const entries = [];
+
+  for (const block of paragraphBlocks(post.content?.rendered || "")) {
+    const text = decodeHtml(block).replace(/\s+/g, " ").trim();
+    if (!text) continue;
+
+    if (!text.startsWith("►")) {
+      if (!text.includes(">>") && text.length < 140) category = text.replace(/:$/, "");
+      continue;
+    }
+
+    const listing = text.replace(/^►\s*/, "").replace(/\s*>>\s*$/, "");
+    const match = listing.match(/^(fri|sat|sun|mon|tues?|wed|thu(?:rs)?)(?:day)?\s+([^:]+):\s+(.+)$/i);
+    if (!match) continue;
+
+    const dayToken = match[1].slice(0, 3).toLowerCase();
+    const date = dates[dayToken];
+    if (!date) continue;
+
+    const titleMatch = block.match(/<b[^>]*>([\s\S]*?)<\/b>/i);
+    const title = decodeHtml(titleMatch ? titleMatch[1] : match[3].split(":")[0]).replace(/\s+/g, " ");
+    if (!title || title.length < 4) continue;
+
+    const afterTitle = match[3].replace(title, "").replace(/^[:\s]+/, "");
+    const place = afterTitle.split(".")[0].replace(/\s+/g, " ").trim() || "NYC";
+    const priceMatch = listing.match(/(?:^|[. ])(\$\d+(?:\.\d{2})?(?:\s*(?:adv|door|suggested|admission)?)?|free admission|free)(?:[. ]|$)/i);
+    const price = priceMatch ? priceMatch[1].replace(/^./, char => char.toUpperCase()) : "Free / cheap";
+    const time = normalizeTime(match[2]);
+    const [type, label] = inferType(title, category);
+    const day = nyDateParts(new Date(`${date}T12:00:00Z`)).weekday;
+    const id = `skint_${post.id}_${entries.length}_${slug(title)}`;
+
+    entries.push([id, {
+      title,
+      type,
+      label,
+      day,
+      date,
+      time: time.bucket,
+      sort: sortForTime(time.bucket),
+      when: `${day}, ${date.slice(5).replace("-", "/")} · ${time.label}`,
+      price,
+      free: !price.includes("$"),
+      place,
+      source: "The Skint",
+      link: extractLink(block) || post.link,
+      map: `https://maps.google.com/?q=${encodeURIComponent(place + " NYC")}`,
+      summary: `${category}. Pulled from The Skint's public article feed: ${listing}`
+    }]);
+  }
+
+  return entries;
 }
 
 async function fetchSkintEvents() {
   const posts = await getJson("https://www.theskint.com/wp-json/wp/v2/posts?per_page=12");
-  return posts
+  const parsed = posts
     .filter(post => !decodeHtml(post.title?.rendered).toUpperCase().includes("SPONSORED"))
     .filter(post => /SKINT|TUES|THURS|FRI|SAT|SUN|MON|WEEKEND|\d+\/\d+/.test(decodeHtml(post.title?.rendered).toUpperCase()))
     .slice(0, 4)
-    .map(skintDigestEvent);
+    .flatMap(parseSkintPost);
+  return parsed.slice(0, 80);
 }
 
 function nearbySourceEvents() {
@@ -195,7 +298,7 @@ function nearbySourceEvents() {
 function buildClusters(events) {
   const byCell = {};
   for (const [id, event] of Object.entries(events)) {
-    const key = `${event.day}|${event.time}`;
+    const key = `${event.date || event.day}|${event.time}`;
     byCell[key] = byCell[key] || [];
     byCell[key].push(id);
   }
