@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jun 12, 2026, 12:28 AM EDT",
+    "checked": "Jun 12, 2026, 9:59 AM EDT",
     "coverage": "Curated Bryant Park listings plus latest non-sponsored The Skint digest posts, NYC Parks, and Jersey City nearby source links",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
