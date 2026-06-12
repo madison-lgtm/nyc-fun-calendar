@@ -1,14 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 11, 2026, 11:36 PM EDT",
+    "checked": "Jun 12, 2026, 12:07 AM EDT",
     "coverage": "Curated Bryant Park listings plus latest non-sponsored The Skint digest posts",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "key": "Thu",
-        "label": "Thu",
-        "date": "Jun 11"
-      },
       {
         "key": "Fri",
         "label": "Fri",
@@ -38,9 +33,14 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Jun 17"
+      },
+      {
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Jun 18"
       }
     ],
-    "todayKey": "Thu",
+    "todayKey": "Fri",
     "times": [
       "10 AM",
       "11:30 AM",
