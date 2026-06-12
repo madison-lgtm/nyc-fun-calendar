@@ -4,6 +4,7 @@ import https from "https";
 const ROOT = new URL("../", import.meta.url);
 const curatedPath = new URL("data/curated-events.json", ROOT);
 const outputPath = new URL("events.json", ROOT);
+const indexPath = new URL("index.html", ROOT);
 
 const DAY_MS = 24 * 60 * 60 * 1000;
 const TIME_ZONE = "America/New_York";
@@ -520,6 +521,25 @@ function dedupeEntries(entries) {
   });
 }
 
+function scriptSafeJson(data) {
+  return JSON.stringify(data)
+    .replace(/</g, "\\u003c")
+    .replace(/>/g, "\\u003e")
+    .replace(/&/g, "\\u0026");
+}
+
+async function writeEmbeddedEventData(data) {
+  const html = await fs.readFile(indexPath, "utf8");
+  const next = html.replace(
+    /<script id="embeddedEventData" type="application\/json">[\s\S]*?<\/script>/,
+    `<script id="embeddedEventData" type="application/json">${scriptSafeJson(data)}</script>`
+  );
+  if (next === html) {
+    throw new Error("Could not find embeddedEventData script tag in index.html");
+  }
+  await fs.writeFile(indexPath, next);
+}
+
 function fallbackNearbySourceEvents() {
   const today = new Date();
   const day = nyDateParts(today).weekday;
@@ -648,6 +668,7 @@ async function main() {
   };
 
   await fs.writeFile(outputPath, `${JSON.stringify(data, null, 2)}\n`);
+  await writeEmbeddedEventData(data);
   console.log(`Wrote ${Object.keys(events).length} events to ${outputPath.pathname}`);
 }
 
