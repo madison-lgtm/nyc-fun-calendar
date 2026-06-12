@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jun 12, 2026, 4:40 PM EDT",
+    "checked": "Jun 12, 2026, 4:44 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and NYU Tandon events",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
