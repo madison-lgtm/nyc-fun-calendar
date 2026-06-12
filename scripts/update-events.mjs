@@ -215,14 +215,14 @@ function formatTimeFromDetails(details = {}) {
 
 function inferType(title, categoryText = "") {
   const text = `${title} ${categoryText}`.toLowerCase();
-  if (/\bai\b|artificial intelligence|\bagent\b|agentic|tech|startup|founder|\bvc\b|venture|cloud|\bdata\b|developer|engineering|engineer|product|business|fintech|crypto|web3|quantum|robot|software|snowflake|\baws\b|\bnyse\b|seminar|lecture|panel|讲座/.test(text)) return ["tech", "Tech / AI"];
-  if (/look-?alike|competition|contest|game show|trivia|swap|block party|cookout|picnic|party|meetup|social|hangout|bazaar|underground|oddball|weird|quirky|strange|nonsense|zine|propaganda fair|mini ball|\bdrag\b|burlesque|variety show/.test(text)) return ["weird", "Weird / Social"];
-  if (/film|movie|screening|cinema/.test(text)) return ["film", "Movie"];
+  if (/\bai\b|artificial intelligence|\bagent\b|agentic|cloud|\bdata\b|developer|\bdev\b|engineering|engineer|quantum|robot|software|snowflake|\baws\b|seminar|lecture|panel|讲座/.test(text)) return ["tech", "Tech / AI"];
+  if (/startup|founder|\bvc\b|venture|investor|funders?|business|fintech|\bproduct\b|growth|gtm|operator|entrepreneur/.test(text)) return ["startup", "Startup / Business"];
+  if (/look-?alike|competition|contest|game show|trivia|underground|oddball|weird|quirky|strange|nonsense|mini ball|horror society|burlesque|variety show/.test(text)) return ["weird", "Weird / Social"];
+  if (/film|movie|screening|cinema|concert|music|jazz|opera|dj|band|dance party/.test(text)) return ["entertainment", "Music / Movies"];
+  if (/food|market|fair|festival|bazaar|shopping|street|farmers|swap|block party|cookout|picnic/.test(text)) return ["market", "Festival / Market"];
   if (/comedy/.test(text)) return ["art", "Comedy"];
-  if (/concert|music|jazz|opera|dj|band|dance party|performance/.test(text)) return ["music", "Live music"];
-  if (/food|market|fair|festival|bazaar|shopping|street|farmers/.test(text)) return ["food", "Market"];
-  if (/park|garden|outdoor|walk|tour/.test(text)) return ["park", "Outdoor"];
-  return ["art", "Arts"];
+  if (/park|garden|outdoor|walk|tour/.test(text)) return ["park", "Parks / Outdoor"];
+  return ["art", "Art / Culture"];
 }
 
 function extractLink(html) {
@@ -431,6 +431,24 @@ function extractGaryDetailSummary(html) {
     .trim();
 }
 
+function inferTechBusinessType(title, details = "") {
+  const titleText = decodeHtml(title).toLowerCase();
+  const allText = `${titleText} ${decodeHtml(details).toLowerCase()}`;
+  if (/\bai\b|artificial intelligence|\bagent\b|agentic|developer|\bdev\b|engineering|engineer|cloud|\bdata\b|quantum|robot|software|snowflake|\baws\b|technical|coding|code|hackathon/.test(titleText)) {
+    return ["tech", /data|cloud|snowflake|aws|quantum|developer|\bdev\b|engineering|code/i.test(titleText) ? "Tech / AI" : "Tech / AI"];
+  }
+  if (/startup|founder|\bvc\b|venture|investor|funders?|business|fintech|\bproduct\b|growth|gtm|operator|entrepreneur/.test(titleText)) {
+    return ["startup", "Startup / Business"];
+  }
+  if (/developer meetup|developer event|technical workshop|coding workshop|code workshop|hackathon|engineer(?:ing)? meetup|data summit|cloud summit|software conference/.test(allText)) {
+    return ["tech", "Tech / AI"];
+  }
+  if (/startup|founder|\bvc\b|venture|investor|funders?|business|fintech|\bproduct\b|growth|gtm|operator|entrepreneur/.test(allText)) {
+    return ["startup", "Startup / Business"];
+  }
+  return null;
+}
+
 function parseGaryGuideEvents(html) {
   const entries = [];
   const rowPattern = /<td align='center' valign='top' width='48'><b>([^<]+)<\/b><br\/>([^<]+)<\/td>[\s\S]*?<td align='center' width='37' valign='top'>([\s\S]*?)<\/td>[\s\S]*?<font class='ftitle'><a[^>]+href='([^']+)'[^>]*><b>([\s\S]*?)<\/b><\/a>[\s\S]*?<font class='fdescription'><br\/><b>([\s\S]*?)<\/b>([\s\S]*?)<\/font>(?:<br\/><font class='fgray'>([\s\S]*?)<\/font>)?/g;
@@ -448,11 +466,14 @@ function parseGaryGuideEvents(html) {
     const place = [venue, address].filter(Boolean).join(", ") || "NYC";
     if (/palo alto|san francisco|mountain view|california/i.test(place)) continue;
     const details = decodeHtml(match[8] || "");
+    if (/civic health forum|health forum/i.test(`${title} ${details}`)) continue;
+    const typeInfo = inferTechBusinessType(title, details);
+    if (!typeInfo) continue;
     const id = `gary_${slug(date)}_${slug(title)}`;
     entries.push([id, {
       title,
-      type: "tech",
-      label: /ai|agent|data|cloud|snowflake|aws/i.test(`${title} ${details}`) ? "AI / Data" : "Tech / Business",
+      type: typeInfo[0],
+      label: typeInfo[1],
       day,
       date,
       time: time.bucket,
@@ -514,7 +535,8 @@ function parseLumaEvents(html) {
       const event = itemWrapper.item;
       if (!event || event["@type"] !== "Event") continue;
       const haystack = `${event.name || ""} ${event.description || ""} ${(event.organizer || []).map(org => org.name).join(" ")}`;
-      if (!/\bai\b|artificial intelligence|agentic|tech|startup|founder|enterprise|cloud|\bdata\b|developer|\bdev\b|business|fintech|investor|\bvc\b|\bproduct\b|interface|\baws\b|snowflake|\bnyse\b/i.test(haystack)) continue;
+      const typeInfo = inferTechBusinessType(event.name || "", haystack);
+      if (!typeInfo) continue;
       const start = new Date(event.startDate);
       if (Number.isNaN(start.getTime())) continue;
       const date = start.toISOString().slice(0, 10);
@@ -526,8 +548,8 @@ function parseLumaEvents(html) {
       const id = `luma_${slug(date)}_${slug(event.name)}`;
       entries.push([id, {
         title: decodeHtml(event.name),
-        type: "tech",
-        label: /ai|agentic|cloud|data|aws|snowflake/i.test(haystack) ? "AI / Tech" : "Business / Tech",
+        type: typeInfo[0],
+        label: typeInfo[1],
         day: parts.weekday,
         date,
         time: time.bucket,
@@ -595,7 +617,11 @@ async function fetchUniversityEvents() {
 function dedupeEntries(entries) {
   const seen = new Set();
   return entries.filter(([, event]) => {
-    const titleKey = slug(event.title).split("_").slice(0, 7).join("_");
+    const titleKey = slug(event.title)
+      .split("_")
+      .filter(word => !["the", "a", "an", "and", "at", "in", "on", "with"].includes(word))
+      .slice(0, 7)
+      .join("_");
     const key = `${event.date}|${titleKey}`;
     if (seen.has(key)) return false;
     seen.add(key);
@@ -620,48 +646,6 @@ async function writeEmbeddedEventData(data) {
     throw new Error("Could not find embeddedEventData script tag in index.html");
   }
   await fs.writeFile(indexPath, next);
-}
-
-function fallbackNearbySourceEvents() {
-  const today = new Date();
-  const day = nyDateParts(today).weekday;
-  const date = today.toISOString().slice(0, 10);
-  return {
-    nyc_parks_today: {
-      title: "NYC Parks events near you",
-      type: "park",
-      label: "Parks",
-      day,
-      date,
-      time: "10 AM",
-      sort: 10.1,
-      when: `${day} · Latest NYC Parks calendar`,
-      price: "Mostly free",
-      free: true,
-      place: "NYC parks",
-      source: "NYC Parks",
-      link: "https://www.nycgovparks.org/events",
-      map: "https://maps.google.com/?q=NYC+Parks+events",
-      summary: "Official NYC Parks calendar. Use the source link for the latest concerts, movies, tours, fitness, and outdoor events."
-    },
-    jersey_city_culture: {
-      title: "Jersey City events source",
-      type: "art",
-      label: "Jersey City",
-      day,
-      date,
-      time: "12 PM",
-      sort: 12.1,
-      when: `${day} · Jersey City calendar unavailable`,
-      price: "Varies",
-      free: true,
-      place: "Jersey City",
-      source: "Jersey City Cultural Affairs",
-      link: "https://www.jerseycityculture.org/events/",
-      map: "https://maps.google.com/?q=Jersey+City+events",
-      summary: "The Jersey City event feed could not be parsed on the latest refresh, so this source link is included as a fallback."
-    }
-  };
 }
 
 function buildClusters(events) {
@@ -712,12 +696,6 @@ async function main() {
     console.warn(`University event update failed: ${error.message}`);
     return [];
   });
-  const nearbyEvents = {
-    ...fallbackNearbySourceEvents(),
-    ...Object.fromEntries(jerseyCityEntries)
-  };
-  if (jerseyCityEntries.length) delete nearbyEvents.jersey_city_culture;
-
   const events = {
     ...curated.events,
     ...Object.fromEntries(dedupeEntries([
@@ -727,7 +705,7 @@ async function main() {
       ...lumaEntries,
       ...universityEntries
     ])),
-    ...nearbyEvents
+    ...Object.fromEntries(jerseyCityEntries)
   };
 
   const checked = new Intl.DateTimeFormat("en-US", {

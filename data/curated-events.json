@@ -19,8 +19,8 @@
     },
     "shop_bryant": {
       "title": "Shop Bryant Park",
-      "type": "food",
-      "label": "Market",
+      "type": "market",
+      "label": "Festival / Market",
       "day": "Thu",
       "time": "10 AM",
       "sort": 10,
@@ -87,8 +87,8 @@
     },
     "ted_rosenthal": {
       "title": "Piano in Bryant Park: Ted Rosenthal",
-      "type": "music",
-      "label": "Live music",
+      "type": "entertainment",
+      "label": "Music / Movies",
       "day": "Thu",
       "time": "12 PM",
       "sort": 12.5,
@@ -172,8 +172,8 @@
     },
     "wmi_percussion": {
       "title": "Picnic Performances: World of Percussion Re-Imagined",
-      "type": "music",
-      "label": "Live music",
+      "type": "entertainment",
+      "label": "Music / Movies",
       "day": "Fri",
       "time": "7 PM",
       "sort": 19,
