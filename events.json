@@ -1,43 +1,238 @@
 {
   "meta": {
-    "checked": "Jun 12, 2026, 12:07 AM EDT",
-    "coverage": "Curated Bryant Park listings plus latest non-sponsored The Skint digest posts",
+    "checked": "Jun 12, 2026, 12:17 AM EDT",
+    "coverage": "Curated Bryant Park listings plus latest non-sponsored The Skint digest posts, NYC Parks, and Jersey City nearby source links",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
+        "iso": "2026-06-12",
         "key": "Fri",
         "label": "Fri",
         "date": "Jun 12"
       },
       {
+        "iso": "2026-06-13",
         "key": "Sat",
         "label": "Sat",
         "date": "Jun 13"
       },
       {
+        "iso": "2026-06-14",
         "key": "Sun",
         "label": "Sun",
         "date": "Jun 14"
       },
       {
+        "iso": "2026-06-15",
         "key": "Mon",
         "label": "Mon",
         "date": "Jun 15"
       },
       {
+        "iso": "2026-06-16",
         "key": "Tue",
         "label": "Tue",
         "date": "Jun 16"
       },
       {
+        "iso": "2026-06-17",
         "key": "Wed",
         "label": "Wed",
         "date": "Jun 17"
       },
       {
+        "iso": "2026-06-18",
         "key": "Thu",
         "label": "Thu",
         "date": "Jun 18"
+      }
+    ],
+    "monthDays": [
+      {
+        "iso": "2026-06-12",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Jun 12"
+      },
+      {
+        "iso": "2026-06-13",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Jun 13"
+      },
+      {
+        "iso": "2026-06-14",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Jun 14"
+      },
+      {
+        "iso": "2026-06-15",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Jun 15"
+      },
+      {
+        "iso": "2026-06-16",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Jun 16"
+      },
+      {
+        "iso": "2026-06-17",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Jun 17"
+      },
+      {
+        "iso": "2026-06-18",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Jun 18"
+      },
+      {
+        "iso": "2026-06-19",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Jun 19"
+      },
+      {
+        "iso": "2026-06-20",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Jun 20"
+      },
+      {
+        "iso": "2026-06-21",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Jun 21"
+      },
+      {
+        "iso": "2026-06-22",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Jun 22"
+      },
+      {
+        "iso": "2026-06-23",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Jun 23"
+      },
+      {
+        "iso": "2026-06-24",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Jun 24"
+      },
+      {
+        "iso": "2026-06-25",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Jun 25"
+      },
+      {
+        "iso": "2026-06-26",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Jun 26"
+      },
+      {
+        "iso": "2026-06-27",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Jun 27"
+      },
+      {
+        "iso": "2026-06-28",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Jun 28"
+      },
+      {
+        "iso": "2026-06-29",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Jun 29"
+      },
+      {
+        "iso": "2026-06-30",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Jun 30"
+      },
+      {
+        "iso": "2026-07-01",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Jul 1"
+      },
+      {
+        "iso": "2026-07-02",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Jul 2"
+      },
+      {
+        "iso": "2026-07-03",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Jul 3"
+      },
+      {
+        "iso": "2026-07-04",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Jul 4"
+      },
+      {
+        "iso": "2026-07-05",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Jul 5"
+      },
+      {
+        "iso": "2026-07-06",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Jul 6"
+      },
+      {
+        "iso": "2026-07-07",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Jul 7"
+      },
+      {
+        "iso": "2026-07-08",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Jul 8"
+      },
+      {
+        "iso": "2026-07-09",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Jul 9"
+      },
+      {
+        "iso": "2026-07-10",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Jul 10"
+      },
+      {
+        "iso": "2026-07-11",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Jul 11"
+      },
+      {
+        "iso": "2026-07-12",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Jul 12"
       }
     ],
     "todayKey": "Fri",
@@ -233,6 +428,7 @@
       "type": "art",
       "label": "Daily picks",
       "day": "Tue",
+      "date": "2026-06-09",
       "time": "10 AM",
       "sort": 10,
       "when": "Tue · Latest Skint digest",
@@ -249,6 +445,7 @@
       "type": "art",
       "label": "Daily picks",
       "day": "Fri",
+      "date": "2026-06-05",
       "time": "10 AM",
       "sort": 10.01,
       "when": "Fri · Latest Skint digest",
@@ -265,6 +462,7 @@
       "type": "art",
       "label": "Daily picks",
       "day": "Tue",
+      "date": "2026-06-02",
       "time": "10 AM",
       "sort": 10.02,
       "when": "Tue · Latest Skint digest",
@@ -281,6 +479,7 @@
       "type": "art",
       "label": "Daily picks",
       "day": "Fri",
+      "date": "2026-05-29",
       "time": "10 AM",
       "sort": 10.03,
       "when": "Fri · Latest Skint digest",
@@ -291,6 +490,57 @@
       "link": "https://www.theskint.com/fri-mon-5-29-6-1-skint-weekend/",
       "map": "https://maps.google.com/?q=New+York+City",
       "summary": "Automatically pulled from The Skint's public WordPress API. Open the source for the full list of picks and details."
+    },
+    "nyc_parks_today": {
+      "title": "NYC Parks events near you",
+      "type": "park",
+      "label": "Parks",
+      "day": "Fri",
+      "date": "2026-06-12",
+      "time": "10 AM",
+      "sort": 10.1,
+      "when": "Fri · Latest NYC Parks calendar",
+      "price": "Mostly free",
+      "free": true,
+      "place": "NYC parks",
+      "source": "NYC Parks",
+      "link": "https://www.nycgovparks.org/events",
+      "map": "https://maps.google.com/?q=NYC+Parks+events",
+      "summary": "Official NYC Parks calendar. Use the source link for the latest concerts, movies, tours, fitness, and outdoor events."
+    },
+    "jersey_city_culture": {
+      "title": "Jersey City cultural events",
+      "type": "art",
+      "label": "Jersey City",
+      "day": "Fri",
+      "date": "2026-06-12",
+      "time": "12 PM",
+      "sort": 12.1,
+      "when": "Fri · Latest Jersey City calendar",
+      "price": "Varies",
+      "free": true,
+      "place": "Jersey City",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://www.jerseycityculture.org/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "Nearby Jersey City arts and culture source. This keeps the app useful for local plans while we add deeper event parsing."
+    },
+    "visit_hudson": {
+      "title": "Hudson County events",
+      "type": "food",
+      "label": "Nearby",
+      "day": "Fri",
+      "date": "2026-06-12",
+      "time": "3 PM",
+      "sort": 15.1,
+      "when": "Fri · Latest Hudson County listings",
+      "price": "Varies",
+      "free": true,
+      "place": "Hudson County / Jersey City area",
+      "source": "Visit Hudson",
+      "link": "https://www.visithudson.org/events/",
+      "map": "https://maps.google.com/?q=Hudson+County+NJ+events",
+      "summary": "Nearby event source for Jersey City and Hudson County. Good for markets, festivals, food, and community events."
     }
   },
   "clusters": {
@@ -309,7 +559,8 @@
     ],
     "cluster_fri_10_am": [
       "skint_fri_mon_6_5_8_skint_weekend",
-      "skint_fri_mon_5_29_6_1_skint_weekend"
+      "skint_fri_mon_5_29_6_1_skint_weekend",
+      "nyc_parks_today"
     ]
   }
 }
