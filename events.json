@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jun 12, 2026, 5:00 PM EDT",
+    "checked": "Jun 12, 2026, 5:15 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -259,7 +259,8 @@
       "7 PM",
       "7:30 PM",
       "8 PM",
-      "8:30 PM"
+      "8:30 PM",
+      "10 PM"
     ]
   },
   "events": {
@@ -1748,9 +1749,9 @@
       "label": "AI / Tech",
       "day": "Fri",
       "date": "2026-06-12",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 06/12 · 10am",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Fri, 06/12 · 2pm",
       "price": "Free",
       "free": true,
       "place": "New York, New York",
@@ -1765,9 +1766,9 @@
       "label": "Business / Tech",
       "day": "Mon",
       "date": "2026-06-15",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Mon, 06/15 · 4pm",
+      "time": "8 PM",
+      "sort": 20,
+      "when": "Mon, 06/15 · 8pm",
       "price": "Free",
       "free": true,
       "place": "New York, NY",
@@ -1782,9 +1783,9 @@
       "label": "AI / Tech",
       "day": "Tue",
       "date": "2026-06-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 06/16 · 6pm",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Tue, 06/16 · 10pm",
       "price": "Free",
       "free": true,
       "place": "Bar Cima",
@@ -1799,9 +1800,9 @@
       "label": "Business / Tech",
       "day": "Tue",
       "date": "2026-06-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 06/16 · 6pm",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Tue, 06/16 · 10pm",
       "price": "Free",
       "free": true,
       "place": "Verci Flatiron",
@@ -2665,7 +2666,6 @@
     "cluster_2026_06_12_10_am": [
       "skint_88068_26_portraits_by_an_artist_the_cinematic_visions_of_juli",
       "gary_2026_06_12_alpha_nyse_agentic_enterprise_summit",
-      "luma_2026_06_12_alpha_nyse_the_agentic_enterprise_summit",
       "nyc_parks_today"
     ],
     "cluster_2026_06_12_6_pm": [
@@ -2680,9 +2680,7 @@
     ],
     "cluster_2026_06_16_6_pm": [
       "gary_2026_06_16_aws_summit_welcome_party_agents_at_scale",
-      "gary_2026_06_16_inference_in_the_clouds_rooftop_happy_hour",
-      "luma_2026_06_16_inference_in_the_clouds_a_rooftop_happy_hour_at_aws_",
-      "luma_2026_06_16_new_interfaces_003"
+      "gary_2026_06_16_inference_in_the_clouds_rooftop_happy_hour"
     ],
     "cluster_2026_06_17_6_pm": [
       "gary_2026_06_17_building_ai_agents_w_n8n",
@@ -2702,6 +2700,10 @@
     "cluster_2026_06_25_5_pm": [
       "gary_2026_06_25_founders_investors_rooftop_soiree",
       "gary_2026_06_25_platformcon_social"
+    ],
+    "cluster_2026_06_16_10_pm": [
+      "luma_2026_06_16_inference_in_the_clouds_a_rooftop_happy_hour_at_aws_",
+      "luma_2026_06_16_new_interfaces_003"
     ],
     "cluster_2026_06_20_12_pm": [
       "jc_culture_37047_2026_06_20_african_cultural_arts_juneteenth_family_festival_202",
