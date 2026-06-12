@@ -276,7 +276,21 @@
     }
 
     .btn { padding: 0 13px; }
-    .icon-btn { width: 40px; display: grid; place-items: center; font-size: 18px; }
+    .icon-btn {
+      min-width: 72px;
+      padding: 0 12px;
+      display: grid;
+      place-items: center;
+      font-size: 14px;
+    }
+
+    .range-label {
+      display: block;
+      margin-top: 4px;
+      color: var(--teal);
+      font-size: 13px;
+      font-weight: 850;
+    }
 
     .primary-btn {
       border-color: var(--teal);
@@ -726,15 +740,16 @@
         <div class="date-title">
           <h2>Real NYC Events</h2>
           <p>Verified from public source pages. Click an event, add it to a plan, then share the shortlist.</p>
+          <span class="range-label" id="rangeLabel">Loading dates...</span>
         </div>
         <div class="controls">
-          <button class="icon-btn" id="prevPeriod" title="Previous period">&lt;</button>
+          <button class="icon-btn" id="prevPeriod" title="Previous period">Prev</button>
           <div class="view-switch" aria-label="Calendar view">
             <button id="todayView" aria-pressed="true">Today</button>
             <button id="weekView" aria-pressed="false">Week</button>
             <button id="monthView" aria-pressed="false">Month</button>
           </div>
-          <button class="icon-btn" id="nextPeriod" title="Next period">&gt;</button>
+          <button class="icon-btn" id="nextPeriod" title="Next period">Next</button>
           <button class="primary-btn" id="copyPlanTop">Share Plan</button>
         </div>
       </header>
@@ -846,6 +861,7 @@
     const planCount = document.querySelector("#planCount");
     const toast = document.querySelector("#toast");
     const dataStatus = document.querySelector("#dataStatus");
+    const rangeLabel = document.querySelector("#rangeLabel");
 
     function renderDataStatus(source = "embedded fallback") {
       dataStatus.textContent = `Source-backed listings checked ${dataMeta.checked}. Coverage: ${dataMeta.coverage}. Loaded from ${source}. ${dataMeta.refresh}`;
@@ -896,6 +912,19 @@
       return days.slice(clampOffset(state.dayOffset), clampOffset(state.dayOffset) + 31);
     }
 
+    function renderRangeLabel(days) {
+      if (!days.length) {
+        rangeLabel.textContent = "";
+        return;
+      }
+      const first = days[0];
+      const last = days[days.length - 1];
+      const viewName = state.view[0].toUpperCase() + state.view.slice(1);
+      rangeLabel.textContent = first === last
+        ? `${viewName}: ${first.label}, ${first.date}`
+        : `${viewName}: ${first.date} - ${last.date}`;
+    }
+
     function renderCalendar() {
       state.dayOffset = clampOffset(state.dayOffset);
       if (state.view === "month") {
@@ -904,6 +933,7 @@
       }
       grid.classList.remove("month-mode");
       const visibleDays = visibleDaysForCurrentView();
+      renderRangeLabel(visibleDays);
       calendar.style.setProperty("--day-count", visibleDays.length);
       calendar.style.setProperty("--calendar-min-width", state.view === "today" ? "520px" : "1220px");
       calendarDays.innerHTML = `<div></div>` + visibleDays.map(day => `
@@ -956,6 +986,7 @@
 
     function renderMonthAgenda() {
       const visibleDays = visibleDaysForCurrentView();
+      renderRangeLabel(visibleDays);
       grid.classList.add("month-mode");
       calendar.style.setProperty("--day-count", 1);
       calendar.style.setProperty("--calendar-min-width", "min(760px, 100%)");
