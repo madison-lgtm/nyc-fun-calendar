@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "checked": "Jun 11, 2026, 11:36 PM EDT",
+    "coverage": "Curated Bryant Park listings plus latest non-sponsored The Skint digest posts",
+    "refresh": "Checks for updated events.json every 30 minutes while open.",
+    "weekDays": [
+      {
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Jun 11"
+      },
+      {
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Jun 12"
+      },
+      {
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Jun 13"
+      },
+      {
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Jun 14"
+      },
+      {
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Jun 15"
+      },
+      {
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Jun 16"
+      },
+      {
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Jun 17"
+      }
+    ],
+    "todayKey": "Thu",
+    "times": [
+      "10 AM",
+      "11:30 AM",
+      "12 PM",
+      "2:30 PM",
+      "3 PM",
+      "6 PM",
+      "7 PM"
+    ]
+  },
+  "events": {
+    "carrousel": {
+      "title": "Le Carrousel",
+      "type": "park",
+      "label": "Park activity",
+      "day": "Thu",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Thu, Jun 11 · 10:00 AM",
+      "price": "$4",
+      "free": false,
+      "place": "Bryant Park, 40th St. side",
+      "source": "Bryant Park",
+      "link": "https://bryantpark.org/calendar",
+      "map": "https://maps.google.com/?q=Bryant+Park+Carrousel",
+      "summary": "Official Bryant Park listing. A small, easy Midtown stop if you are already nearby."
+    },
+    "shop_bryant": {
+      "title": "Shop Bryant Park",
+      "type": "food",
+      "label": "Market",
+      "day": "Thu",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Thu, Jun 11 · 10:00 AM",
+      "price": "Free to browse",
+      "free": true,
+      "place": "Bryant Park, Allée",
+      "source": "Bryant Park",
+      "link": "https://bryantpark.org/calendar",
+      "map": "https://maps.google.com/?q=Bryant+Park+Allee",
+      "summary": "Official Bryant Park listing for open-air shopping in the park."
+    },
+    "garden_explorers": {
+      "title": "Garden Explorers",
+      "type": "park",
+      "label": "Family",
+      "day": "Thu",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Thu, Jun 11 · 10:00 AM",
+      "price": "Free",
+      "free": true,
+      "place": "Bryant Park, Reading Room",
+      "source": "Bryant Park",
+      "link": "https://bryantpark.org/calendar",
+      "map": "https://maps.google.com/?q=Bryant+Park+Reading+Room",
+      "summary": "Official Bryant Park children's nature program listing."
+    },
+    "sensory_tour": {
+      "title": "Sensory Tour of Bryant Park",
+      "type": "park",
+      "label": "Tour",
+      "day": "Thu",
+      "time": "11:30 AM",
+      "sort": 11.5,
+      "when": "Thu, Jun 11 · 11:30 AM",
+      "price": "Free",
+      "free": true,
+      "place": "Bryant Park, Visitor Info Kiosk",
+      "source": "Bryant Park",
+      "link": "https://bryantpark.org/calendar",
+      "map": "https://maps.google.com/?q=Bryant+Park+Visitor+Info+Kiosk",
+      "summary": "Official Bryant Park listing for a guided sensory tour."
+    },
+    "juggling": {
+      "title": "Juggling",
+      "type": "park",
+      "label": "Class",
+      "day": "Thu",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Thu, Jun 11 · 12:00 PM",
+      "price": "Free",
+      "free": true,
+      "place": "Bryant Park, 40th St. Plaza",
+      "source": "Bryant Park",
+      "link": "https://bryantpark.org/calendar",
+      "map": "https://maps.google.com/?q=Bryant+Park+40th+Street+Plaza",
+      "summary": "Official Bryant Park drop-in juggling program."
+    },
+    "ted_rosenthal": {
+      "title": "Piano in Bryant Park: Ted Rosenthal",
+      "type": "music",
+      "label": "Live music",
+      "day": "Thu",
+      "time": "12 PM",
+      "sort": 12.5,
+      "when": "Thu, Jun 11 · 12:30 PM",
+      "price": "Free",
+      "free": true,
+      "place": "Bryant Park, Upper Terrace",
+      "source": "Bryant Park",
+      "link": "https://bryantpark.org/calendar",
+      "map": "https://maps.google.com/?q=Bryant+Park+Upper+Terrace",
+      "summary": "Official Bryant Park listing for pianist Ted Rosenthal."
+    },
+    "ink_drawing": {
+      "title": "Drawing in Bryant Park: Ink Illustrations",
+      "type": "art",
+      "label": "Art class",
+      "day": "Thu",
+      "time": "2:30 PM",
+      "sort": 14.5,
+      "when": "Thu, Jun 11 · 2:30 PM",
+      "price": "Free",
+      "free": true,
+      "place": "Bryant Park, Art Cart",
+      "source": "Bryant Park",
+      "link": "https://bryantpark.org/calendar",
+      "map": "https://maps.google.com/?q=Bryant+Park+Art+Cart",
+      "summary": "Official Bryant Park art-class listing."
+    },
+    "mahjongg": {
+      "title": "Mah Jongg",
+      "type": "park",
+      "label": "Games",
+      "day": "Thu",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Thu, Jun 11 · 3:00 PM",
+      "price": "Free",
+      "free": true,
+      "place": "Bryant Park, Reading Room",
+      "source": "Bryant Park",
+      "link": "https://bryantpark.org/calendar",
+      "map": "https://maps.google.com/?q=Bryant+Park+Reading+Room",
+      "summary": "Official Bryant Park games listing."
+    },
+    "muay": {
+      "title": "Muay Thai",
+      "type": "park",
+      "label": "Fitness",
+      "day": "Thu",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, Jun 11 · 6:00 PM",
+      "price": "Free",
+      "free": true,
+      "place": "Bryant Park, Lawn",
+      "source": "Bryant Park",
+      "link": "https://bryantpark.org/calendar",
+      "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
+      "summary": "Official Bryant Park fitness listing."
+    },
+    "dance": {
+      "title": "Picnic Performances: Contemporary Dance",
+      "type": "art",
+      "label": "Dance",
+      "day": "Thu",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Thu, Jun 11 · 7:00 PM",
+      "price": "Free",
+      "free": true,
+      "place": "Bryant Park, Lawn",
+      "source": "Bryant Park / The Skint",
+      "link": "https://bryantpark.org/calendar",
+      "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
+      "summary": "Listed by Bryant Park and The Skint as a free Picnic Performances program."
+    },
+    "wmi_percussion": {
+      "title": "Picnic Performances: World of Percussion Re-Imagined",
+      "type": "music",
+      "label": "Live music",
+      "day": "Fri",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Fri, Jun 12 · 7:00 PM",
+      "price": "Free",
+      "free": true,
+      "place": "Bryant Park, Lawn",
+      "source": "The Skint / Bryant Park",
+      "link": "https://bryantpark.org/calendar",
+      "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
+      "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI."
+    },
+    "skint_tues_thurs_6_9_11_museum_mile_fest_summerstage_summe": {
+      "title": "TUES-THURS, 6/9-11: MUSEUM MILE FEST, SUMMERSTAGE, SUMMER FOR THE CITY, AND MORE",
+      "type": "art",
+      "label": "Daily picks",
+      "day": "Tue",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Tue · Latest Skint digest",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "NYC",
+      "source": "The Skint",
+      "link": "https://www.theskint.com/tues-thurs-6-9-11-museum-mile-fest-summerstage-summer-for-the-city-and-more/",
+      "map": "https://maps.google.com/?q=New+York+City",
+      "summary": "Automatically pulled from The Skint's public WordPress API. Open the source for the full list of picks and details."
+    },
+    "skint_fri_mon_6_5_8_skint_weekend": {
+      "title": "FRI-MON, 6/5-8: SKINT WEEKEND",
+      "type": "art",
+      "label": "Daily picks",
+      "day": "Fri",
+      "time": "10 AM",
+      "sort": 10.01,
+      "when": "Fri · Latest Skint digest",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "NYC",
+      "source": "The Skint",
+      "link": "https://www.theskint.com/fri-mon-6-5-8-skint-weekend/",
+      "map": "https://maps.google.com/?q=New+York+City",
+      "summary": "Automatically pulled from The Skint's public WordPress API. Open the source for the full list of picks and details."
+    },
+    "skint_tues_thurs_6_2_4_tribeca_festival_celebrate_brooklyn": {
+      "title": "TUES-THURS, 6/2-4: TRIBECA FESTIVAL, CELEBRATE BROOKLYN, DINE AROUND DOWNTOWN, AND MORE",
+      "type": "art",
+      "label": "Daily picks",
+      "day": "Tue",
+      "time": "10 AM",
+      "sort": 10.02,
+      "when": "Tue · Latest Skint digest",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "NYC",
+      "source": "The Skint",
+      "link": "https://www.theskint.com/tues-thurs-6-2-4-tribeca-festival-celebrate-brooklyn-dine-around-downtown-and-more/",
+      "map": "https://maps.google.com/?q=New+York+City",
+      "summary": "Automatically pulled from The Skint's public WordPress API. Open the source for the full list of picks and details."
+    },
+    "skint_fri_mon_5_29_6_1_skint_weekend": {
+      "title": "FRI-MON, 5/29-6/1: SKINT WEEKEND",
+      "type": "art",
+      "label": "Daily picks",
+      "day": "Fri",
+      "time": "10 AM",
+      "sort": 10.03,
+      "when": "Fri · Latest Skint digest",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "NYC",
+      "source": "The Skint",
+      "link": "https://www.theskint.com/fri-mon-5-29-6-1-skint-weekend/",
+      "map": "https://maps.google.com/?q=New+York+City",
+      "summary": "Automatically pulled from The Skint's public WordPress API. Open the source for the full list of picks and details."
+    }
+  },
+  "clusters": {
+    "cluster_thu_10_am": [
+      "carrousel",
+      "shop_bryant",
+      "garden_explorers"
+    ],
+    "cluster_thu_12_pm": [
+      "juggling",
+      "ted_rosenthal"
+    ],
+    "cluster_tue_10_am": [
+      "skint_tues_thurs_6_9_11_museum_mile_fest_summerstage_summe",
+      "skint_tues_thurs_6_2_4_tribeca_festival_celebrate_brooklyn"
+    ],
+    "cluster_fri_10_am": [
+      "skint_fri_mon_6_5_8_skint_weekend",
+      "skint_fri_mon_5_29_6_1_skint_weekend"
+    ]
+  }
+}

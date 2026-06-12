@@ -1,0 +1,1146 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NYC Fun Calendar</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #172124;
+      --muted: #617073;
+      --line: #d7dddd;
+      --paper: #fbfaf6;
+      --panel: #ffffff;
+      --soft: #f2eee5;
+      --teal: #0f766e;
+      --teal-soft: #d8f0ed;
+      --rose: #b9385d;
+      --rose-soft: #f7dbe4;
+      --gold: #a66a00;
+      --gold-soft: #f7e7bd;
+      --blue: #3565b8;
+      --blue-soft: #dce8ff;
+      --green: #407335;
+      --green-soft: #dff0d8;
+      --shadow: 0 18px 46px rgba(29, 37, 38, .14);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      letter-spacing: 0;
+    }
+
+    button, input { font: inherit; }
+
+    .app {
+      min-height: 100vh;
+      display: grid;
+      grid-template-columns: 292px minmax(0, 1fr) 306px;
+    }
+
+    .sidebar, .plan {
+      background: var(--soft);
+      padding: 22px 18px;
+    }
+
+    .sidebar { border-right: 1px solid var(--line); }
+    .plan { border-left: 1px solid var(--line); }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    .mark {
+      width: 42px;
+      height: 42px;
+      display: grid;
+      place-items: center;
+      border-radius: 8px;
+      background: var(--ink);
+      color: #fff;
+      font-weight: 900;
+    }
+
+    h1, h2, h3, p { margin-top: 0; }
+
+    .brand h1 {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.05;
+    }
+
+    .brand p {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .search {
+      width: 100%;
+      min-height: 42px;
+      border: 1px solid #cbd3d2;
+      border-radius: 8px;
+      background: #fff;
+      padding: 0 12px;
+      color: var(--ink);
+      margin-bottom: 14px;
+    }
+
+    .section-title {
+      margin: 22px 0 10px;
+      color: #687579;
+      font-size: 12px;
+      font-weight: 900;
+      text-transform: uppercase;
+    }
+
+    .filters, .quick-list, .plan-list {
+      display: grid;
+      gap: 8px;
+    }
+
+    .filter {
+      min-height: 38px;
+      border: 1px solid transparent;
+      border-radius: 8px;
+      background: rgba(255,255,255,.68);
+      color: var(--ink);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 0 10px;
+      cursor: pointer;
+    }
+
+    .filter[aria-pressed="true"] {
+      border-color: var(--teal);
+      background: var(--teal-soft);
+    }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 999px;
+      flex: 0 0 auto;
+    }
+
+    .dot.music { background: var(--rose); }
+    .dot.film { background: var(--blue); }
+    .dot.park { background: var(--green); }
+    .dot.art { background: var(--gold); }
+    .dot.food { background: var(--teal); }
+
+    .toggle-row {
+      display: grid;
+      gap: 8px;
+    }
+
+    .toggle {
+      min-height: 42px;
+      border: 1px solid transparent;
+      border-radius: 8px;
+      background: rgba(255,255,255,.68);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 10px;
+    }
+
+    .switch {
+      width: 42px;
+      height: 24px;
+      border-radius: 999px;
+      background: var(--teal);
+      padding: 3px;
+      display: flex;
+      justify-content: flex-end;
+    }
+
+    .switch.off {
+      background: #a7b0b2;
+      justify-content: flex-start;
+    }
+
+    .switch span {
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: #fff;
+      box-shadow: 0 1px 3px rgba(0,0,0,.24);
+    }
+
+    .quick-card, .plan-card {
+      border: 1px solid rgba(215,221,221,.95);
+      border-radius: 8px;
+      background: rgba(255,255,255,.7);
+      padding: 10px;
+    }
+
+    .quick-card strong, .plan-card strong {
+      display: block;
+      font-size: 13px;
+      line-height: 1.25;
+    }
+
+    .quick-card span, .plan-card span {
+      display: block;
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.3;
+    }
+
+    main {
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .topbar {
+      min-height: 78px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      padding: 18px 22px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(251,250,246,.9);
+      position: sticky;
+      top: 0;
+      z-index: 3;
+      backdrop-filter: blur(14px);
+    }
+
+    .date-title h2 {
+      margin: 0;
+      font-size: 24px;
+      line-height: 1.1;
+    }
+
+    .date-title p {
+      margin: 5px 0 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 8px;
+    }
+
+    .view-switch {
+      display: inline-grid;
+      grid-template-columns: 1fr 1fr;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      overflow: hidden;
+      background: #fff;
+    }
+
+    .view-switch button {
+      min-height: 38px;
+      border: 0;
+      background: #fff;
+      color: var(--ink);
+      padding: 0 12px;
+      cursor: pointer;
+      font-weight: 800;
+    }
+
+    .view-switch button[aria-pressed="true"] {
+      background: var(--teal);
+      color: #fff;
+    }
+
+    .btn, .icon-btn, .primary-btn {
+      min-height: 38px;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: #fff;
+      color: var(--ink);
+      cursor: pointer;
+      font-weight: 750;
+    }
+
+    .btn { padding: 0 13px; }
+    .icon-btn { width: 40px; display: grid; place-items: center; font-size: 18px; }
+
+    .primary-btn {
+      border-color: var(--teal);
+      background: var(--teal);
+      color: #fff;
+      padding: 0 14px;
+    }
+
+    .calendar-wrap {
+      padding: 18px 22px 28px;
+      overflow: auto;
+    }
+
+    .calendar {
+      min-width: var(--calendar-min-width, 980px);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      overflow: hidden;
+      box-shadow: 0 10px 28px rgba(31,36,36,.06);
+    }
+
+    .days, .grid {
+      display: grid;
+      grid-template-columns: 72px repeat(var(--day-count, 2), minmax(150px, 1fr));
+    }
+
+    .days {
+      border-bottom: 1px solid var(--line);
+      background: #f8f7f3;
+    }
+
+    .day {
+      min-height: 60px;
+      border-left: 1px solid var(--line);
+      padding: 10px;
+    }
+
+    .day strong {
+      display: block;
+      font-size: 14px;
+    }
+
+    .day span {
+      display: block;
+      color: var(--muted);
+      font-size: 12px;
+      margin-top: 2px;
+    }
+
+    .time {
+      min-height: 92px;
+      border-bottom: 1px solid var(--line);
+      padding: 10px 8px;
+      text-align: right;
+      color: #6e797b;
+      font-size: 12px;
+      background: #faf9f5;
+    }
+
+    .slot {
+      min-height: 92px;
+      border-left: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+      padding: 6px;
+      display: grid;
+      gap: 5px;
+      align-content: start;
+      background:
+        linear-gradient(to bottom, transparent 45px, rgba(216,221,221,.45) 46px, transparent 47px);
+    }
+
+    .event, .cluster {
+      width: 100%;
+      min-height: 54px;
+      border-radius: 7px;
+      padding: 7px 8px;
+      text-align: left;
+      cursor: pointer;
+      color: var(--ink);
+      display: grid;
+      gap: 2px;
+      box-shadow: 0 1px 2px rgba(31,36,36,.08);
+    }
+
+    .event {
+      border: 1px solid transparent;
+    }
+
+    .event[hidden] { display: none; }
+
+    .event strong, .cluster strong {
+      font-size: 12px;
+      line-height: 1.18;
+      overflow-wrap: anywhere;
+    }
+
+    .event span, .cluster span {
+      font-size: 11px;
+      color: #465254;
+    }
+
+    .event.music { background: var(--rose-soft); border-color: #eeb2c3; }
+    .event.film { background: var(--blue-soft); border-color: #afc7f5; }
+    .event.park { background: var(--green-soft); border-color: #b8d9ad; }
+    .event.art { background: var(--gold-soft); border-color: #e2c36e; }
+    .event.food { background: var(--teal-soft); border-color: #a8d5cf; }
+
+    .cluster {
+      border: 1px dashed #99a5a7;
+      background: #fff;
+    }
+
+    .plan-head {
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .plan h2 {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.1;
+    }
+
+    .plan-head span {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .count-badge {
+      min-width: 30px;
+      height: 30px;
+      border-radius: 999px;
+      background: var(--ink);
+      color: #fff;
+      display: grid;
+      place-items: center;
+      font-weight: 900;
+    }
+
+    .empty {
+      border: 1px dashed #a7b0b2;
+      border-radius: 8px;
+      padding: 14px;
+      color: var(--muted);
+      background: rgba(255,255,255,.55);
+      line-height: 1.4;
+      font-size: 14px;
+    }
+
+    .plan-actions {
+      display: grid;
+      gap: 8px;
+      margin-top: 12px;
+    }
+
+    .toast {
+      position: fixed;
+      left: 50%;
+      bottom: 18px;
+      transform: translateX(-50%) translateY(24px);
+      background: var(--ink);
+      color: #fff;
+      padding: 10px 14px;
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity .18s ease, transform .18s ease;
+      z-index: 30;
+      font-weight: 750;
+      font-size: 14px;
+    }
+
+    .toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
+    .drawer {
+      position: fixed;
+      inset: 0 0 0 auto;
+      width: min(430px, 100vw);
+      background: #fff;
+      border-left: 1px solid var(--line);
+      box-shadow: var(--shadow);
+      transform: translateX(100%);
+      transition: transform .22s ease;
+      z-index: 20;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .drawer.open { transform: translateX(0); }
+
+    .drawer-head {
+      padding: 18px;
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      justify-content: space-between;
+      align-items: start;
+      gap: 14px;
+    }
+
+    .drawer-head h3 {
+      margin: 0;
+      font-size: 21px;
+      line-height: 1.15;
+    }
+
+    .drawer-body {
+      padding: 18px;
+      overflow: auto;
+      display: grid;
+      gap: 16px;
+    }
+
+    .close {
+      width: 36px;
+      height: 36px;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: #fff;
+      cursor: pointer;
+      font-size: 18px;
+      line-height: 1;
+    }
+
+    .pill-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .pill {
+      border-radius: 999px;
+      background: #eef2f2;
+      padding: 5px 9px;
+      color: #344043;
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .summary {
+      color: #354144;
+      line-height: 1.5;
+      margin: 0;
+    }
+
+    .detail-grid {
+      display: grid;
+      gap: 10px;
+    }
+
+    .detail {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 11px;
+      display: grid;
+      gap: 3px;
+    }
+
+    .detail span {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 850;
+      text-transform: uppercase;
+    }
+
+    .detail strong, .detail a {
+      color: var(--ink);
+      font-size: 14px;
+    }
+
+    .action-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+
+    .action-row a, .action-row button {
+      min-height: 42px;
+      border-radius: 8px;
+      display: grid;
+      place-items: center;
+      text-decoration: none;
+      font-weight: 850;
+      border: 1px solid var(--line);
+      color: var(--ink);
+      background: #fff;
+      cursor: pointer;
+    }
+
+    .action-row .main-action {
+      background: var(--teal);
+      border-color: var(--teal);
+      color: #fff;
+    }
+
+    .drawer-list {
+      display: grid;
+      gap: 8px;
+    }
+
+    .drawer-event {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #fff;
+      padding: 10px;
+      text-align: left;
+      cursor: pointer;
+      display: grid;
+      gap: 3px;
+    }
+
+    .drawer-event strong { font-size: 14px; }
+    .drawer-event span { color: var(--muted); font-size: 12px; }
+
+    .scrim {
+      position: fixed;
+      inset: 0;
+      background: rgba(20,27,28,.18);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity .22s ease;
+      z-index: 19;
+    }
+
+    .scrim.open {
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    @media (max-width: 1120px) {
+      .app { grid-template-columns: 260px minmax(0, 1fr); }
+      .plan {
+        grid-column: 1 / -1;
+        border-left: 0;
+        border-top: 1px solid var(--line);
+      }
+      .plan-list {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 760px) {
+      .app { grid-template-columns: 1fr; }
+      .sidebar {
+        border-right: 0;
+        border-bottom: 1px solid var(--line);
+      }
+      .filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .topbar {
+        align-items: flex-start;
+        flex-direction: column;
+        padding: 16px;
+      }
+      .controls { justify-content: flex-start; }
+      .calendar-wrap { padding: 12px 16px 20px; }
+      .plan-list { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="mark">NY</div>
+        <div>
+          <h1>NYC Fun Calendar</h1>
+          <p>Source-backed NYC events.</p>
+        </div>
+      </div>
+
+      <input class="search" id="search" type="search" placeholder="Search music, parks, film...">
+
+      <div class="section-title">Event Types</div>
+      <div class="filters" id="filters">
+        <button class="filter" data-filter="music" aria-pressed="true"><span class="dot music"></span>Live music</button>
+        <button class="filter" data-filter="film" aria-pressed="true"><span class="dot film"></span>Movies</button>
+        <button class="filter" data-filter="park" aria-pressed="true"><span class="dot park"></span>Parks</button>
+        <button class="filter" data-filter="art" aria-pressed="true"><span class="dot art"></span>Art</button>
+        <button class="filter" data-filter="food" aria-pressed="true"><span class="dot food"></span>Food</button>
+      </div>
+
+      <div class="section-title">Quick Mode</div>
+      <div class="toggle-row">
+        <button class="toggle" id="freeOnly" aria-pressed="false"><span>Free only</span><span class="switch off"><span></span></span></button>
+        <button class="toggle" id="nightMode" aria-pressed="false"><span>After work</span><span class="switch off"><span></span></span></button>
+      </div>
+
+      <div class="section-title">Good First Picks</div>
+      <div class="quick-list" id="quickList"></div>
+
+      <div class="section-title">Data</div>
+      <div class="empty" id="dataStatus">
+        Loading source-backed listings...
+      </div>
+    </aside>
+
+    <main>
+      <header class="topbar">
+        <div class="date-title">
+          <h2>Real NYC Events</h2>
+          <p>Verified from public source pages. Click an event, add it to a plan, then share the shortlist.</p>
+        </div>
+        <div class="controls">
+          <button class="icon-btn" title="Previous week">&lt;</button>
+          <div class="view-switch" aria-label="Calendar view">
+            <button id="todayView" aria-pressed="true">Today</button>
+            <button id="weekView" aria-pressed="false">Week</button>
+          </div>
+          <button class="icon-btn" title="Next week">&gt;</button>
+          <button class="primary-btn" id="copyPlanTop">Share Plan</button>
+        </div>
+      </header>
+
+      <section class="calendar-wrap" aria-label="Calendar view">
+        <div class="calendar">
+          <div class="days" id="calendarDays"></div>
+          <div class="grid" id="calendarGrid"></div>
+        </div>
+      </section>
+    </main>
+
+    <aside class="plan">
+      <div class="plan-head">
+        <div>
+          <h2>Friend Plan</h2>
+          <span>Pick 1 to 4 options to compare.</span>
+        </div>
+        <div class="count-badge" id="planCount">0</div>
+      </div>
+      <div id="planList" class="plan-list"></div>
+      <div class="plan-actions">
+        <button class="primary-btn" id="copyPlan">Copy Share Text</button>
+        <button class="btn" id="copyLink">Copy Share Link</button>
+        <button class="btn" id="clearPlan">Clear Plan</button>
+      </div>
+    </aside>
+  </div>
+
+  <div class="scrim" id="scrim"></div>
+  <aside class="drawer" id="drawer" aria-live="polite" aria-label="Event details">
+    <div class="drawer-head">
+      <h3 id="drawerTitle">Event details</h3>
+      <button class="close" id="closeDrawer" aria-label="Close details">x</button>
+    </div>
+    <div class="drawer-body" id="drawerBody"></div>
+  </aside>
+  <div class="toast" id="toast">Copied</div>
+
+  <script>
+    let weekDays = [
+      { key: "Thu", label: "Thu", date: "Jun 11" },
+      { key: "Fri", label: "Fri", date: "Jun 12" },
+      { key: "Sat", label: "Sat", date: "Jun 13" },
+      { key: "Sun", label: "Sun", date: "Jun 14" },
+      { key: "Mon", label: "Mon", date: "Jun 15" },
+      { key: "Tue", label: "Tue", date: "Jun 16" },
+      { key: "Wed", label: "Wed", date: "Jun 17" }
+    ];
+    let todayKey = "Fri";
+    let times = ["10 AM", "11:30 AM", "12 PM", "2:30 PM", "3 PM", "5 PM", "6 PM", "6:30 PM", "7 PM", "8 PM", "8:30 PM"];
+
+    let dataMeta = {
+      checked: "Jun 12, 2026",
+      coverage: "Bryant Park and The Skint entries for Jun 11-12",
+      refresh: "Checks for updated events.json every 30 minutes while open."
+    };
+
+    let events = {
+      carrousel: { title: "Le Carrousel", type: "park", label: "Park activity", day: "Thu", time: "10 AM", sort: 10, when: "Thu, Jun 11 · 10:00 AM", price: "$4", free: false, place: "Bryant Park, 40th St. side", source: "Bryant Park", link: "https://bryantpark.org/calendar", map: "https://maps.google.com/?q=Bryant+Park+Carrousel", summary: "Official Bryant Park listing. A small, easy Midtown stop if you are already nearby." },
+      shop_bryant: { title: "Shop Bryant Park", type: "food", label: "Market", day: "Thu", time: "10 AM", sort: 10, when: "Thu, Jun 11 · 10:00 AM", price: "Free to browse", free: true, place: "Bryant Park, Allée", source: "Bryant Park", link: "https://bryantpark.org/calendar", map: "https://maps.google.com/?q=Bryant+Park+Allee", summary: "Official Bryant Park listing for open-air shopping in the park." },
+      garden_explorers: { title: "Garden Explorers", type: "park", label: "Family", day: "Thu", time: "10 AM", sort: 10, when: "Thu, Jun 11 · 10:00 AM", price: "Free", free: true, place: "Bryant Park, Reading Room", source: "Bryant Park", link: "https://bryantpark.org/calendar", map: "https://maps.google.com/?q=Bryant+Park+Reading+Room", summary: "Official Bryant Park children's nature program listing." },
+      sensory_tour: { title: "Sensory Tour of Bryant Park", type: "park", label: "Tour", day: "Thu", time: "11:30 AM", sort: 11.5, when: "Thu, Jun 11 · 11:30 AM", price: "Free", free: true, place: "Bryant Park, Visitor Info Kiosk", source: "Bryant Park", link: "https://bryantpark.org/calendar", map: "https://maps.google.com/?q=Bryant+Park+Visitor+Info+Kiosk", summary: "Official Bryant Park listing for a guided sensory tour." },
+      road_broadway: { title: "Road to Broadway", type: "music", label: "Live music", day: "Thu", time: "12 PM", sort: 12, when: "Thu, Jun 11 · 12:00 PM", price: "Free", free: true, place: "Rockefeller Center, South Plaza", source: "The Skint", link: "https://www.theskint.com/", map: "https://maps.google.com/?q=Rockefeller+Center+South+Plaza", summary: "The Skint lists a free lunchtime Broadway concert series at Rockefeller Center." },
+      juggling: { title: "Juggling", type: "park", label: "Class", day: "Thu", time: "12 PM", sort: 12, when: "Thu, Jun 11 · 12:00 PM", price: "Free", free: true, place: "Bryant Park, 40th St. Plaza", source: "Bryant Park", link: "https://bryantpark.org/calendar", map: "https://maps.google.com/?q=Bryant+Park+40th+Street+Plaza", summary: "Official Bryant Park drop-in juggling program." },
+      ted_rosenthal: { title: "Piano in Bryant Park: Ted Rosenthal", type: "music", label: "Live music", day: "Thu", time: "12 PM", sort: 12.5, when: "Thu, Jun 11 · 12:30 PM", price: "Free", free: true, place: "Bryant Park, Upper Terrace", source: "Bryant Park", link: "https://bryantpark.org/calendar", map: "https://maps.google.com/?q=Bryant+Park+Upper+Terrace", summary: "Official Bryant Park listing for pianist Ted Rosenthal." },
+      ink_drawing: { title: "Drawing in Bryant Park: Ink Illustrations", type: "art", label: "Art class", day: "Thu", time: "2:30 PM", sort: 14.5, when: "Thu, Jun 11 · 2:30 PM", price: "Free", free: true, place: "Bryant Park, Art Cart", source: "Bryant Park", link: "https://bryantpark.org/calendar", map: "https://maps.google.com/?q=Bryant+Park+Art+Cart", summary: "Official Bryant Park art-class listing." },
+      mahjongg: { title: "Mah Jongg", type: "park", label: "Games", day: "Thu", time: "3 PM", sort: 15, when: "Thu, Jun 11 · 3:00 PM", price: "Free", free: true, place: "Bryant Park, Reading Room", source: "Bryant Park", link: "https://bryantpark.org/calendar", map: "https://maps.google.com/?q=Bryant+Park+Reading+Room", summary: "Official Bryant Park games listing." },
+      icp: { title: "ICP Thursday Evening Exhibitions", type: "art", label: "Museum", day: "Thu", time: "5 PM", sort: 17, when: "Thu, Jun 11 · 5:00-8:00 PM", price: "$5", free: false, place: "International Center of Photography, LES", source: "The Skint", link: "https://www.theskint.com/", map: "https://maps.google.com/?q=International+Center+of+Photography+NYC", summary: "The Skint lists Thursday evening access to ICP exhibitions for $5." },
+      know_it_alls: { title: "Know It Alls: Science Comedy Game Show", type: "art", label: "Comedy", day: "Thu", time: "6 PM", sort: 18, when: "Thu, Jun 11 · 6:00 PM", price: "Free", free: true, place: "Baker Falls, East Village", source: "The Skint", link: "https://www.theskint.com/", map: "https://maps.google.com/?q=Baker+Falls+East+Village", summary: "The Skint lists this science-themed comedy/game show as a free event." },
+      muay: { title: "Muay Thai", type: "park", label: "Fitness", day: "Thu", time: "6 PM", sort: 18, when: "Thu, Jun 11 · 6:00 PM", price: "Free", free: true, place: "Bryant Park, Lawn", source: "Bryant Park", link: "https://bryantpark.org/calendar", map: "https://maps.google.com/?q=Bryant+Park+Lawn", summary: "Official Bryant Park fitness listing." },
+      uncle_vanya_thu: { title: "Uncle Vanya", type: "art", label: "Theater", day: "Thu", time: "6:30 PM", sort: 18.5, when: "Thu, Jun 11 · 6:30 PM", price: "Free", free: true, place: "Castle Clinton, Battery Park", source: "The Skint", link: "https://www.theskint.com/", map: "https://maps.google.com/?q=Castle+Clinton+Battery+Park", summary: "The Skint lists Hedgepig Ensemble Theatre's free outdoor production, running Thursdays through Sundays." },
+      dance: { title: "Picnic Performances: Contemporary Dance", type: "art", label: "Dance", day: "Thu", time: "7 PM", sort: 19, when: "Thu, Jun 11 · 7:00 PM", price: "Free", free: true, place: "Bryant Park, Lawn", source: "Bryant Park / The Skint", link: "https://bryantpark.org/calendar", map: "https://maps.google.com/?q=Bryant+Park+Lawn", summary: "Listed by Bryant Park and The Skint as a free Picnic Performances program." },
+      magic: { title: "The NYC Magic Ensemble", type: "art", label: "Magic", day: "Thu", time: "7 PM", sort: 19, when: "Thu, Jun 11 · 7:00 PM", price: "$10", free: false, place: "QED Astoria", source: "The Skint", link: "https://www.theskint.com/", map: "https://maps.google.com/?q=QED+Astoria", summary: "The Skint lists this Queens magic show with a $10 ticket." },
+      honeyjoon: { title: "Honeyjoon", type: "music", label: "Live music", day: "Thu", time: "7 PM", sort: 19, when: "Thu, Jun 11 · 7:00 PM", price: "$18", free: false, place: "Housing Works Bookstore Cafe", source: "The Skint", link: "https://www.theskint.com/", map: "https://maps.google.com/?q=Housing+Works+Bookstore+Cafe", summary: "The Skint lists this live music event at Housing Works Bookstore Cafe." },
+      tip_top: { title: "Tip Top Tits", type: "art", label: "Comedy", day: "Thu", time: "8 PM", sort: 20, when: "Thu, Jun 11 · 8:00 PM", price: "Free", free: true, place: "Young Ethel's, Park Slope", source: "The Skint", link: "https://www.theskint.com/", map: "https://maps.google.com/?q=Young+Ethels+Brooklyn", summary: "The Skint lists this free comedy show in Park Slope." },
+      savage_comedy: { title: "Savage Comedy Show", type: "art", label: "Comedy", day: "Thu", time: "8 PM", sort: 20, when: "Thu, Jun 11 · 8:00 PM", price: "Free", free: true, place: "Logan's Run, Park Slope", source: "The Skint", link: "https://www.theskint.com/", map: "https://maps.google.com/?q=Logans+Run+Park+Slope", summary: "The Skint lists this free comedy show in Park Slope." },
+      landline: { title: "Landline Comedy", type: "art", label: "Comedy", day: "Thu", time: "8:30 PM", sort: 20.5, when: "Thu, Jun 11 · 8:30 PM", price: "Free", free: true, place: "Wild East Brewing, Gowanus", source: "The Skint", link: "https://www.theskint.com/", map: "https://maps.google.com/?q=Wild+East+Brewing+Gowanus", summary: "The Skint lists this free comedy show at Wild East Brewing." },
+      uncle_vanya_fri: { title: "Uncle Vanya", type: "art", label: "Theater", day: "Fri", time: "6:30 PM", sort: 18.5, when: "Fri, Jun 12 · 6:30 PM", price: "Free", free: true, place: "Castle Clinton, Battery Park", source: "The Skint", link: "https://www.theskint.com/", map: "https://maps.google.com/?q=Castle+Clinton+Battery+Park", summary: "The Skint lists this free outdoor theater production as Thursdays through Sundays." },
+      wmi_percussion: { title: "Picnic Performances: World of Percussion Re-Imagined", type: "music", label: "Live music", day: "Fri", time: "7 PM", sort: 19, when: "Fri, Jun 12 · 7:00 PM", price: "Free", free: true, place: "Bryant Park, Lawn", source: "The Skint / Bryant Park", link: "https://bryantpark.org/calendar", map: "https://maps.google.com/?q=Bryant+Park+Lawn", summary: "The Skint lists Bryant Park's Friday Picnic Performances program with WMI." }
+    };
+
+    let clusters = {
+      thu10: ["carrousel", "shop_bryant", "garden_explorers"],
+      thu12: ["road_broadway", "juggling", "ted_rosenthal"],
+      thu6: ["know_it_alls", "muay"],
+      thu7: ["dance", "magic", "honeyjoon"],
+      thu8: ["tip_top", "savage_comedy"]
+    };
+
+    const state = {
+      filters: new Set(["music", "film", "park", "art", "food"]),
+      freeOnly: false,
+      nightMode: false,
+      search: "",
+      view: "today",
+      plan: []
+    };
+
+    const grid = document.querySelector("#calendarGrid");
+    const calendar = document.querySelector(".calendar");
+    const calendarDays = document.querySelector("#calendarDays");
+    const drawer = document.querySelector("#drawer");
+    const scrim = document.querySelector("#scrim");
+    const drawerTitle = document.querySelector("#drawerTitle");
+    const drawerBody = document.querySelector("#drawerBody");
+    const planList = document.querySelector("#planList");
+    const planCount = document.querySelector("#planCount");
+    const toast = document.querySelector("#toast");
+    const dataStatus = document.querySelector("#dataStatus");
+
+    function renderDataStatus(source = "embedded fallback") {
+      dataStatus.textContent = `Source-backed listings checked ${dataMeta.checked}. Coverage: ${dataMeta.coverage}. Loaded from ${source}. ${dataMeta.refresh}`;
+    }
+
+    function eventMatches(event) {
+      const query = state.search.trim().toLowerCase();
+      if (!state.filters.has(event.type)) return false;
+      if (state.freeOnly && !event.free) return false;
+      if (state.nightMode && event.sort < 17) return false;
+      if (query && !`${event.title} ${event.place} ${event.label}`.toLowerCase().includes(query)) return false;
+      return true;
+    }
+
+    function eventButton(id) {
+      const event = events[id];
+      const hidden = eventMatches(event) ? "" : " hidden";
+      return `<button class="event ${event.type}" data-event="${id}"${hidden}>
+        <strong>${event.title}</strong>
+        <span>${event.place} · ${event.price}</span>
+      </button>`;
+    }
+
+    function renderCalendar() {
+      const visibleDays = state.view === "today" ? weekDays.filter(day => day.key === todayKey) : weekDays;
+      calendar.style.setProperty("--day-count", visibleDays.length);
+      calendar.style.setProperty("--calendar-min-width", state.view === "today" ? "520px" : "1220px");
+      calendarDays.innerHTML = `<div></div>` + visibleDays.map(day => `
+        <div class="day"><strong>${day.label}</strong><span>${day.date}</span></div>
+      `).join("");
+
+      const byCell = {};
+      Object.entries(events).forEach(([id, event]) => {
+        const key = `${event.time}|${event.day}`;
+        if (!byCell[key]) byCell[key] = [];
+        byCell[key].push(id);
+      });
+      const clusterByCell = {};
+      Object.entries(clusters).forEach(([clusterId, eventIds]) => {
+        const first = events[eventIds[0]];
+        if (first) clusterByCell[`${first.time}|${first.day}`] = clusterId;
+      });
+
+      let html = "";
+      times.forEach(time => {
+        html += `<div class="time">${time}</div>`;
+        visibleDays.forEach(day => {
+          const ids = byCell[`${time}|${day.key}`] || [];
+          const clusterId = clusterByCell[`${time}|${day.key}`] || "";
+          html += `<div class="slot">`;
+          if (clusterId) {
+            const visibleCount = clusters[clusterId].filter(id => eventMatches(events[id])).length;
+            if (visibleCount > 0) {
+              html += `<button class="cluster" data-cluster="${clusterId}">
+                <strong>${visibleCount} events around this time</strong>
+                <span>Compare by price, neighborhood, mood</span>
+              </button>`;
+            }
+          }
+          ids.sort((a, b) => events[a].sort - events[b].sort).forEach(id => {
+            if (!clusterId || !clusters[clusterId].includes(id)) html += eventButton(id);
+          });
+          html += `</div>`;
+        });
+      });
+      grid.innerHTML = html;
+    }
+
+    function renderQuickList() {
+      const picks = ["dance", "wmi_percussion", "road_broadway"];
+      document.querySelector("#quickList").innerHTML = picks.filter(id => events[id]).map(id => {
+        const event = events[id];
+        return `<button class="quick-card" data-event="${id}">
+          <strong>${event.title}</strong>
+          <span>${event.when} · ${event.place}</span>
+        </button>`;
+      }).join("");
+    }
+
+    function renderAll() {
+      renderViewButtons();
+      renderCalendar();
+      renderQuickList();
+      renderPlan();
+      renderDataStatus();
+    }
+
+    async function loadEventData() {
+      try {
+        const response = await fetch(`events.json?updated=${Date.now()}`, { cache: "no-store" });
+        if (!response.ok) throw new Error(`events.json returned ${response.status}`);
+        const data = await response.json();
+        if (!data.events || !data.clusters) throw new Error("events.json is missing events or clusters");
+        events = data.events;
+        clusters = data.clusters;
+        dataMeta = { ...dataMeta, ...(data.meta || {}) };
+        if (Array.isArray(data.meta?.weekDays) && data.meta.weekDays.length) weekDays = data.meta.weekDays;
+        if (data.meta?.todayKey) todayKey = data.meta.todayKey;
+        if (Array.isArray(data.meta?.times) && data.meta.times.length) times = data.meta.times;
+        renderAll();
+        renderDataStatus("events.json");
+      } catch (error) {
+        renderAll();
+        renderDataStatus("embedded fallback");
+      }
+    }
+
+    function openDrawer() {
+      drawer.classList.add("open");
+      scrim.classList.add("open");
+    }
+
+    function closeDrawer() {
+      drawer.classList.remove("open");
+      scrim.classList.remove("open");
+      if (location.search.includes("event=")) {
+        history.replaceState(null, "", shareUrl());
+      }
+    }
+
+    function isPlanned(id) {
+      return state.plan.includes(id);
+    }
+
+    function togglePlan(id) {
+      if (isPlanned(id)) {
+        state.plan = state.plan.filter(item => item !== id);
+      } else {
+        state.plan = [...state.plan, id].slice(0, 4);
+      }
+      persistPlan();
+      renderPlan();
+      if (events[id]) renderEvent(id, false);
+    }
+
+    function renderEvent(id, updateUrl = true) {
+      const event = events[id];
+      drawerTitle.textContent = event.title;
+      drawerBody.innerHTML = `
+        <div class="pill-row">
+          <span class="pill">${event.label}</span>
+          <span class="pill">${event.price}</span>
+          <span class="pill">${event.source}</span>
+        </div>
+        <p class="summary">${event.summary}</p>
+        <div class="detail-grid">
+          <div class="detail"><span>When</span><strong>${event.when}</strong></div>
+          <div class="detail"><span>Where</span><strong>${event.place}</strong></div>
+          <div class="detail"><span>Price</span><strong>${event.price}</strong></div>
+          <div class="detail"><span>Source</span><a href="${event.link}" target="_blank" rel="noreferrer">${event.source}</a></div>
+        </div>
+        <div class="action-row">
+          <button class="main-action" data-plan="${id}">${isPlanned(id) ? "Remove from Plan" : "Add to Plan"}</button>
+          <button data-share-event="${id}">Share Event</button>
+          <a href="${event.link}" target="_blank" rel="noreferrer">Details</a>
+          <a href="${event.map}" target="_blank" rel="noreferrer">Map</a>
+        </div>
+      `;
+      if (updateUrl) {
+        const url = new URL(location.href);
+        url.searchParams.set("event", id);
+        if (state.plan.length) url.searchParams.set("plan", state.plan.join(","));
+        history.replaceState(null, "", url);
+      }
+      openDrawer();
+    }
+
+    function renderCluster(id) {
+      const ids = clusters[id].filter(eventId => eventMatches(events[eventId]));
+      drawerTitle.textContent = `${ids.length} events at the same time`;
+      drawerBody.innerHTML = `
+        <p class="summary">Instead of cramming everything into one calendar cell, this groups the overlap so you can compare the options.</p>
+        <div class="drawer-list">
+          ${ids.map(eventId => {
+            const event = events[eventId];
+            return `<button class="drawer-event" data-event="${eventId}">
+              <strong>${event.title}</strong>
+              <span>${event.when} · ${event.place} · ${event.price}</span>
+            </button>`;
+          }).join("")}
+        </div>
+      `;
+      openDrawer();
+    }
+
+    function renderPlan() {
+      planCount.textContent = state.plan.length;
+      if (!state.plan.length) {
+        planList.innerHTML = `<div class="empty">Add a few events and this becomes a tiny itinerary you can text to a friend.</div>`;
+        return;
+      }
+      planList.innerHTML = state.plan.map(id => {
+        const event = events[id];
+        return `<button class="plan-card" data-event="${id}">
+          <strong>${event.title}</strong>
+          <span>${event.when} · ${event.place} · ${event.price}</span>
+        </button>`;
+      }).join("");
+    }
+
+    function shareUrl(extraEventId) {
+      const url = new URL(location.href);
+      url.searchParams.delete("event");
+      if (extraEventId) url.searchParams.set("event", extraEventId);
+      if (state.plan.length) url.searchParams.set("plan", state.plan.join(","));
+      else url.searchParams.delete("plan");
+      if (state.view === "week") url.searchParams.set("view", "week");
+      else url.searchParams.delete("view");
+      return url.toString();
+    }
+
+    function planText(extraEventId) {
+      const ids = extraEventId ? [extraEventId] : state.plan;
+      if (!ids.length) return "NYC Fun Calendar: pick a few events with me.\n" + shareUrl();
+      const lines = ids.map(id => {
+        const event = events[id];
+        return `- ${event.title}: ${event.when}, ${event.place}, ${event.price}`;
+      });
+      return `NYC plan ideas:\n${lines.join("\n")}\n\n${shareUrl(extraEventId)}`;
+    }
+
+    async function copyText(text, message) {
+      try {
+        await navigator.clipboard.writeText(text);
+      } catch (error) {
+        const area = document.createElement("textarea");
+        area.value = text;
+        document.body.appendChild(area);
+        area.select();
+        document.execCommand("copy");
+        area.remove();
+      }
+      toast.textContent = message;
+      toast.classList.add("show");
+      setTimeout(() => toast.classList.remove("show"), 1700);
+    }
+
+    function persistPlan() {
+      localStorage.setItem("nycFunPlan", state.plan.join(","));
+      const url = new URL(location.href);
+      if (state.plan.length) url.searchParams.set("plan", state.plan.join(","));
+      else url.searchParams.delete("plan");
+      if (state.view === "week") url.searchParams.set("view", "week");
+      else url.searchParams.delete("view");
+      history.replaceState(null, "", url);
+    }
+
+    function loadSharedState() {
+      const params = new URLSearchParams(location.search);
+      if (params.get("view") === "week") state.view = "week";
+      const sharedPlan = params.get("plan");
+      const savedPlan = localStorage.getItem("nycFunPlan");
+      const source = sharedPlan || savedPlan || "";
+      state.plan = source.split(",").filter(id => events[id]).slice(0, 4);
+      const eventId = params.get("event");
+      if (eventId && events[eventId]) setTimeout(() => renderEvent(eventId, false), 50);
+    }
+
+    function renderViewButtons() {
+      document.querySelector("#todayView").setAttribute("aria-pressed", String(state.view === "today"));
+      document.querySelector("#weekView").setAttribute("aria-pressed", String(state.view === "week"));
+    }
+
+    function setView(view) {
+      state.view = view;
+      renderViewButtons();
+      renderCalendar();
+      const url = new URL(location.href);
+      if (state.view === "week") url.searchParams.set("view", "week");
+      else url.searchParams.delete("view");
+      history.replaceState(null, "", url);
+    }
+
+    document.addEventListener("click", event => {
+      const eventButton = event.target.closest("[data-event]");
+      const clusterButton = event.target.closest("[data-cluster]");
+      const planButton = event.target.closest("[data-plan]");
+      const shareEventButton = event.target.closest("[data-share-event]");
+
+      if (planButton) {
+        togglePlan(planButton.dataset.plan);
+        return;
+      }
+      if (shareEventButton) {
+        copyText(planText(shareEventButton.dataset.shareEvent), "Event copied");
+        return;
+      }
+      if (eventButton) renderEvent(eventButton.dataset.event);
+      if (clusterButton) renderCluster(clusterButton.dataset.cluster);
+    });
+
+    document.querySelector("#filters").addEventListener("click", event => {
+      const button = event.target.closest("[data-filter]");
+      if (!button) return;
+      const filter = button.dataset.filter;
+      if (state.filters.has(filter)) state.filters.delete(filter);
+      else state.filters.add(filter);
+      button.setAttribute("aria-pressed", String(state.filters.has(filter)));
+      renderCalendar();
+    });
+
+    document.querySelector("#search").addEventListener("input", event => {
+      state.search = event.target.value;
+      renderCalendar();
+    });
+
+    document.querySelector("#todayView").addEventListener("click", () => setView("today"));
+    document.querySelector("#weekView").addEventListener("click", () => setView("week"));
+
+    function wireToggle(id, prop) {
+      document.querySelector(id).addEventListener("click", event => {
+        state[prop] = !state[prop];
+        event.currentTarget.setAttribute("aria-pressed", String(state[prop]));
+        event.currentTarget.querySelector(".switch").classList.toggle("off", !state[prop]);
+        renderCalendar();
+      });
+    }
+
+    wireToggle("#freeOnly", "freeOnly");
+    wireToggle("#nightMode", "nightMode");
+
+    document.querySelector("#copyPlan").addEventListener("click", () => copyText(planText(), "Plan copied"));
+    document.querySelector("#copyPlanTop").addEventListener("click", () => copyText(planText(), "Plan copied"));
+    document.querySelector("#copyLink").addEventListener("click", () => copyText(shareUrl(), "Link copied"));
+    document.querySelector("#clearPlan").addEventListener("click", () => {
+      state.plan = [];
+      persistPlan();
+      renderPlan();
+    });
+    document.querySelector("#closeDrawer").addEventListener("click", closeDrawer);
+    scrim.addEventListener("click", closeDrawer);
+    document.addEventListener("keydown", event => {
+      if (event.key === "Escape") closeDrawer();
+    });
+
+    loadSharedState();
+    loadEventData();
+    setInterval(loadEventData, 30 * 60 * 1000);
+  </script>
+</body>
+</html>
