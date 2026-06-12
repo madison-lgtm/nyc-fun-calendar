@@ -391,11 +391,17 @@
     }
 
     .month-agenda {
+      width: 100%;
       min-width: min(760px, 100%);
       display: grid;
       gap: 10px;
       padding: 12px;
       background: #fff;
+    }
+
+    .grid.month-mode {
+      display: block;
+      grid-template-columns: none;
     }
 
     .month-day {
@@ -722,13 +728,13 @@
           <p>Verified from public source pages. Click an event, add it to a plan, then share the shortlist.</p>
         </div>
         <div class="controls">
-          <button class="icon-btn" title="Previous week">&lt;</button>
+          <button class="icon-btn" id="prevPeriod" title="Previous period">&lt;</button>
           <div class="view-switch" aria-label="Calendar view">
             <button id="todayView" aria-pressed="true">Today</button>
             <button id="weekView" aria-pressed="false">Week</button>
             <button id="monthView" aria-pressed="false">Month</button>
           </div>
-          <button class="icon-btn" title="Next week">&gt;</button>
+          <button class="icon-btn" id="nextPeriod" title="Next period">&gt;</button>
           <button class="primary-btn" id="copyPlanTop">Share Plan</button>
         </div>
       </header>
@@ -825,6 +831,7 @@
       nightMode: false,
       search: "",
       view: "today",
+      dayOffset: 0,
       plan: []
     };
 
@@ -866,12 +873,37 @@
       return event.date || event.day;
     }
 
+    function dayMatches(event, day) {
+      if (event.date && day.iso) return event.date === day.iso;
+      return event.day === day.key;
+    }
+
+    function currentDayIndex() {
+      const index = weekDays.findIndex(day => day.key === todayKey);
+      return index >= 0 ? index : 0;
+    }
+
+    function clampOffset(offset) {
+      const days = dataMeta.monthDays || weekDays;
+      const span = state.view === "week" ? 7 : state.view === "month" ? 31 : 1;
+      return Math.max(0, Math.min(offset, Math.max(0, days.length - span)));
+    }
+
+    function visibleDaysForCurrentView() {
+      const days = dataMeta.monthDays || weekDays;
+      if (state.view === "today") return days.slice(clampOffset(state.dayOffset), clampOffset(state.dayOffset) + 1);
+      if (state.view === "week") return days.slice(clampOffset(state.dayOffset), clampOffset(state.dayOffset) + 7);
+      return days.slice(clampOffset(state.dayOffset), clampOffset(state.dayOffset) + 31);
+    }
+
     function renderCalendar() {
+      state.dayOffset = clampOffset(state.dayOffset);
       if (state.view === "month") {
         renderMonthAgenda();
         return;
       }
-      const visibleDays = state.view === "today" ? weekDays.filter(day => day.key === todayKey) : weekDays;
+      grid.classList.remove("month-mode");
+      const visibleDays = visibleDaysForCurrentView();
       calendar.style.setProperty("--day-count", visibleDays.length);
       calendar.style.setProperty("--calendar-min-width", state.view === "today" ? "520px" : "1220px");
       calendarDays.innerHTML = `<div></div>` + visibleDays.map(day => `
@@ -916,14 +948,15 @@
     }
 
     function renderMonthAgenda() {
-      const visibleDays = dataMeta.monthDays || weekDays;
+      const visibleDays = visibleDaysForCurrentView();
+      grid.classList.add("month-mode");
       calendar.style.setProperty("--day-count", 1);
       calendar.style.setProperty("--calendar-min-width", "min(760px, 100%)");
       calendarDays.innerHTML = "";
 
       const cards = visibleDays.map(day => {
         const dayIds = Object.entries(events)
-          .filter(([, event]) => (event.date && event.date === day.iso) || (!event.date && event.day === day.key))
+          .filter(([, event]) => dayMatches(event, day))
           .filter(([, event]) => eventMatches(event))
           .sort((a, b) => a[1].sort - b[1].sort)
           .map(([id]) => eventButton(id))
@@ -1077,6 +1110,8 @@
       else url.searchParams.delete("plan");
       if (state.view !== "today") url.searchParams.set("view", state.view);
       else url.searchParams.delete("view");
+      if (state.dayOffset) url.searchParams.set("offset", String(state.dayOffset));
+      else url.searchParams.delete("offset");
       return url.toString();
     }
 
@@ -1113,6 +1148,8 @@
       else url.searchParams.delete("plan");
       if (state.view !== "today") url.searchParams.set("view", state.view);
       else url.searchParams.delete("view");
+      if (state.dayOffset) url.searchParams.set("offset", String(state.dayOffset));
+      else url.searchParams.delete("offset");
       history.replaceState(null, "", url);
     }
 
@@ -1120,6 +1157,7 @@
       const params = new URLSearchParams(location.search);
       if (params.get("view") === "week") state.view = "week";
       if (params.get("view") === "month") state.view = "month";
+      state.dayOffset = Number(params.get("offset") || 0);
       const sharedPlan = params.get("plan");
       const savedPlan = localStorage.getItem("nycFunPlan");
       const source = sharedPlan || savedPlan || "";
@@ -1136,12 +1174,26 @@
 
     function setView(view) {
       state.view = view;
+      state.dayOffset = 0;
       renderViewButtons();
       renderCalendar();
+      persistPeriodInUrl();
+    }
+
+    function persistPeriodInUrl() {
       const url = new URL(location.href);
       if (state.view !== "today") url.searchParams.set("view", state.view);
       else url.searchParams.delete("view");
+      if (state.dayOffset) url.searchParams.set("offset", String(state.dayOffset));
+      else url.searchParams.delete("offset");
       history.replaceState(null, "", url);
+    }
+
+    function shiftPeriod(direction) {
+      const step = state.view === "today" ? 1 : state.view === "week" ? 7 : 31;
+      state.dayOffset = clampOffset(state.dayOffset + direction * step);
+      renderCalendar();
+      persistPeriodInUrl();
     }
 
     document.addEventListener("click", event => {
@@ -1180,6 +1232,8 @@
     document.querySelector("#todayView").addEventListener("click", () => setView("today"));
     document.querySelector("#weekView").addEventListener("click", () => setView("week"));
     document.querySelector("#monthView").addEventListener("click", () => setView("month"));
+    document.querySelector("#prevPeriod").addEventListener("click", () => shiftPeriod(-1));
+    document.querySelector("#nextPeriod").addEventListener("click", () => shiftPeriod(1));
 
     function wireToggle(id, prop) {
       document.querySelector(id).addEventListener("click", event => {
