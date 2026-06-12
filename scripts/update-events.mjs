@@ -30,6 +30,28 @@ function getJson(url) {
   });
 }
 
+function getText(url) {
+  return new Promise((resolve, reject) => {
+    https.get(url, { headers: { "User-Agent": "NYC-Fun-Calendar/1.0" } }, response => {
+      if (response.statusCode >= 300 && response.statusCode < 400 && response.headers.location) {
+        response.resume();
+        const nextUrl = new URL(response.headers.location, url).toString();
+        getText(nextUrl).then(resolve, reject);
+        return;
+      }
+      if (response.statusCode < 200 || response.statusCode >= 300) {
+        response.resume();
+        reject(new Error(`${url} returned ${response.statusCode}`));
+        return;
+      }
+      let body = "";
+      response.setEncoding("utf8");
+      response.on("data", chunk => body += chunk);
+      response.on("end", () => resolve(body));
+    }).on("error", reject);
+  });
+}
+
 function decodeHtml(value) {
   return String(value || "")
     .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)))
@@ -135,9 +157,39 @@ function normalizeTime(timeText) {
   const displayHour = hour % 12 || 12;
   const displayPeriod = hour >= 12 ? "PM" : "AM";
   return {
-    bucket: minute ? `${displayHour}:${minute} ${displayPeriod}` : `${displayHour} ${displayPeriod}`,
+    bucket: minute && minute !== "00" ? `${displayHour}:${minute} ${displayPeriod}` : `${displayHour} ${displayPeriod}`,
     label: timeText.trim()
   };
+}
+
+function dateFromMonthDay(monthDay, baseDate = new Date()) {
+  const match = String(monthDay || "").match(/([A-Za-z]{3,9})\s+(\d{1,2})|(\d{1,2})\/(\d{1,2})/);
+  if (!match) return null;
+  const monthNames = {
+    jan: 1, january: 1, feb: 2, february: 2, mar: 3, march: 3,
+    apr: 4, april: 4, may: 5, jun: 6, june: 6, jul: 7, july: 7,
+    aug: 8, august: 8, sep: 9, sept: 9, september: 9, oct: 10, october: 10,
+    nov: 11, november: 11, dec: 12, december: 12
+  };
+  const month = match[1] ? monthNames[match[1].toLowerCase()] : Number(match[3]);
+  const day = Number(match[2] || match[4]);
+  if (!month || !day) return null;
+  let year = baseDate.getUTCFullYear();
+  let date = new Date(Date.UTC(year, month - 1, day, 12));
+  if (date.getTime() < baseDate.getTime() - 180 * DAY_MS) {
+    year += 1;
+    date = new Date(Date.UTC(year, month - 1, day, 12));
+  }
+  return date.toISOString().slice(0, 10);
+}
+
+function isWithinLookahead(date, days = 45) {
+  if (!date) return false;
+  const today = new Date();
+  const start = new Date(Date.UTC(today.getUTCFullYear(), today.getUTCMonth(), today.getUTCDate() - 1, 0));
+  const end = new Date(start.getTime() + days * DAY_MS);
+  const value = new Date(`${date}T12:00:00Z`);
+  return value >= start && value <= end;
 }
 
 function sortForTime(bucket) {
@@ -162,6 +214,7 @@ function formatTimeFromDetails(details = {}) {
 
 function inferType(title, categoryText = "") {
   const text = `${title} ${categoryText}`.toLowerCase();
+  if (/\bai\b|artificial intelligence|\bagent\b|agentic|tech|startup|founder|\bvc\b|venture|cloud|\bdata\b|developer|engineering|engineer|product|business|fintech|crypto|web3|quantum|robot|software|snowflake|\baws\b|\bnyse\b|seminar|lecture|panel|讲座/.test(text)) return ["tech", "Tech / AI"];
   if (/film|movie|screening|cinema/.test(text)) return ["film", "Movie"];
   if (/comedy/.test(text)) return ["art", "Comedy"];
   if (/concert|music|jazz|opera|dj|band|dance party|performance/.test(text)) return ["music", "Live music"];
@@ -308,6 +361,165 @@ async function fetchJerseyCityEvents() {
     .slice(0, 45);
 }
 
+function techSummary(source, text) {
+  const cleaned = decodeHtml(text || "").replace(/\s+/g, " ").trim();
+  return cleaned ? `${source}: ${cleaned}` : `${source} listing for a tech, AI, business, or founder event.`;
+}
+
+function parseGaryGuideEvents(html) {
+  const entries = [];
+  const rowPattern = /<td align='center' valign='top' width='48'><b>([^<]+)<\/b><br\/>([^<]+)<\/td>[\s\S]*?<td align='center' width='37' valign='top'>([\s\S]*?)<\/td>[\s\S]*?<font class='ftitle'><a[^>]+href='([^']+)'[^>]*><b>([\s\S]*?)<\/b><\/a>[\s\S]*?<font class='fdescription'><br\/><b>([\s\S]*?)<\/b>([\s\S]*?)<\/font>(?:<br\/><font class='fgray'>([\s\S]*?)<\/font>)?/g;
+  for (const match of html.matchAll(rowPattern)) {
+    const date = dateFromMonthDay(match[1]);
+    if (!isWithinLookahead(date)) continue;
+    const title = decodeHtml(match[5]);
+    if (!title || /after party|gala/i.test(title)) continue;
+    const time = normalizeTime(match[2]);
+    const day = nyDateParts(new Date(`${date}T12:00:00Z`)).weekday;
+    const priceText = decodeHtml(match[3]).replace(/\s+/g, " ").trim();
+    const price = priceText || "Varies";
+    const venue = decodeHtml(match[6]);
+    const address = decodeHtml(match[7]).replace(/^,\s*/, "");
+    const place = [venue, address].filter(Boolean).join(", ") || "NYC";
+    if (/palo alto|san francisco|mountain view|california/i.test(place)) continue;
+    const details = decodeHtml(match[8] || "");
+    const id = `gary_${slug(date)}_${slug(title)}`;
+    entries.push([id, {
+      title,
+      type: "tech",
+      label: /ai|agent|data|cloud|snowflake|aws/i.test(`${title} ${details}`) ? "AI / Data" : "Tech / Business",
+      day,
+      date,
+      time: time.bucket,
+      sort: sortForTime(time.bucket),
+      when: `${day}, ${date.slice(5).replace("-", "/")} · ${time.label}`,
+      price,
+      free: /free/i.test(price),
+      place,
+      source: "Gary's Guide",
+      link: match[4].startsWith("http") ? match[4] : `https://www.garysguide.com${match[4]}`,
+      map: `https://maps.google.com/?q=${encodeURIComponent(place)}`,
+      summary: techSummary("Gary's Guide", details)
+    }]);
+  }
+  return entries.slice(0, 45);
+}
+
+async function fetchGaryGuideEvents() {
+  return parseGaryGuideEvents(await getText("https://www.garysguide.com/events?region=nyc"));
+}
+
+function lumaPrice(event) {
+  const offers = Array.isArray(event.offers) ? event.offers : event.offers ? [event.offers] : [];
+  const prices = offers.map(offer => Number(offer.price)).filter(price => Number.isFinite(price));
+  if (!prices.length) return "RSVP";
+  const min = Math.min(...prices);
+  return min === 0 ? "Free" : `$${min}`;
+}
+
+function parseLumaEvents(html) {
+  const entries = [];
+  const scripts = [...html.matchAll(/<script[^>]+type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/gi)];
+  for (const script of scripts) {
+    let data;
+    try {
+      data = JSON.parse(script[1]);
+    } catch {
+      continue;
+    }
+    const items = data?.itemListElement || [];
+    for (const itemWrapper of items) {
+      const event = itemWrapper.item;
+      if (!event || event["@type"] !== "Event") continue;
+      const haystack = `${event.name || ""} ${event.description || ""} ${(event.organizer || []).map(org => org.name).join(" ")}`;
+      if (!/\bai\b|artificial intelligence|agentic|tech|startup|founder|enterprise|cloud|\bdata\b|developer|\bdev\b|business|fintech|investor|\bvc\b|\bproduct\b|interface|\baws\b|snowflake|\bnyse\b/i.test(haystack)) continue;
+      const start = new Date(event.startDate);
+      if (Number.isNaN(start.getTime())) continue;
+      const date = start.toISOString().slice(0, 10);
+      if (!isWithinLookahead(date)) continue;
+      const parts = nyDateParts(start);
+      const time = formatTimeFromDetails({ hour: start.getHours(), minutes: String(start.getMinutes()).padStart(2, "0") });
+      const place = event.location?.name || event.location?.address?.streetAddress || "New York";
+      const price = lumaPrice(event);
+      const id = `luma_${slug(date)}_${slug(event.name)}`;
+      entries.push([id, {
+        title: decodeHtml(event.name),
+        type: "tech",
+        label: /ai|agentic|cloud|data|aws|snowflake/i.test(haystack) ? "AI / Tech" : "Business / Tech",
+        day: parts.weekday,
+        date,
+        time: time.bucket,
+        sort: sortForTime(time.bucket),
+        when: `${parts.weekday}, ${date.slice(5).replace("-", "/")} · ${time.label}`,
+        price,
+        free: price === "Free",
+        place: decodeHtml(place),
+        source: "Luma NYC",
+        link: event.url || event["@id"] || "https://luma.com/nyc",
+        map: `https://maps.google.com/?q=${encodeURIComponent(`${place} NYC`)}`,
+        summary: techSummary("Luma NYC", `${decodeHtml(event.description || "")} ${(event.organizer || []).map(org => org.name).join(", ")}`)
+      }]);
+    }
+  }
+  return entries.slice(0, 30);
+}
+
+async function fetchLumaEvents() {
+  return parseLumaEvents(await getText("https://luma.com/nyc"));
+}
+
+function parseNyuTandonEvents(html) {
+  const entries = [];
+  const blocks = [...html.matchAll(/<article class="node node--type-event node--view-mode-teaser">([\s\S]*?)<\/article>/g)].map(match => match[1]);
+  for (const block of blocks) {
+    const href = block.match(/<h3[\s\S]*?<a href="([^"]+)"/)?.[1];
+    const title = decodeHtml(block.match(/field--name-title[\s\S]*?>([\s\S]*?)<\/span>/)?.[1]);
+    const category = decodeHtml(block.match(/field--name-field-event-type[\s\S]*?<div class="field__item">([\s\S]*?)<\/div>/)?.[1]);
+    const monthDay = decodeHtml(block.match(/<div class="month-day">([\s\S]*?)<\/div>/)?.[1]);
+    const dayTime = decodeHtml(block.match(/<div class="day-time">([\s\S]*?)<\/div>/)?.[1]);
+    const date = dateFromMonthDay(monthDay);
+    if (!href || !title || !isWithinLookahead(date)) continue;
+    const timeText = dayTime.split(",").slice(1).join(",").trim() || "12:00 PM";
+    const time = normalizeTime(timeText);
+    const day = nyDateParts(new Date(`${date}T12:00:00Z`)).weekday;
+    const id = `nyu_tandon_${slug(date)}_${slug(title)}`;
+    entries.push([id, {
+      title,
+      type: "tech",
+      label: category || "University Talk",
+      day,
+      date,
+      time: time.bucket,
+      sort: sortForTime(time.bucket),
+      when: `${day}, ${date.slice(5).replace("-", "/")} · ${time.label}`,
+      price: "Free / varies",
+      free: true,
+      place: "NYU Tandon / Online",
+      source: "NYU Tandon",
+      link: href.startsWith("http") ? href : `https://engineering.nyu.edu${href}`,
+      map: "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      summary: techSummary("NYU Tandon", category)
+    }]);
+  }
+  return entries.slice(0, 20);
+}
+
+async function fetchUniversityEvents() {
+  const nyu = await getText("https://engineering.nyu.edu/events");
+  return parseNyuTandonEvents(nyu);
+}
+
+function dedupeEntries(entries) {
+  const seen = new Set();
+  return entries.filter(([, event]) => {
+    const titleKey = slug(event.title).split("_").slice(0, 7).join("_");
+    const key = `${event.date}|${titleKey}`;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
 function fallbackNearbySourceEvents() {
   const today = new Date();
   const day = nyDateParts(today).weekday;
@@ -368,14 +580,8 @@ function buildClusters(events) {
 }
 
 function buildTimes(events) {
-  const order = new Map([
-    ["8 AM", 8], ["9 AM", 9], ["10 AM", 10], ["11 AM", 11], ["11:30 AM", 11.5],
-    ["12 PM", 12], ["12:30 PM", 12.5], ["1 PM", 13], ["2 PM", 14], ["2:30 PM", 14.5],
-    ["3 PM", 15], ["4 PM", 16], ["5 PM", 17], ["6 PM", 18], ["6:30 PM", 18.5],
-    ["7 PM", 19], ["8 PM", 20], ["8:30 PM", 20.5], ["9 PM", 21]
-  ]);
   return [...new Set(Object.values(events).map(event => event.time))]
-    .sort((a, b) => (order.get(a) ?? 99) - (order.get(b) ?? 99));
+    .sort((a, b) => sortForTime(a) - sortForTime(b));
 }
 
 async function main() {
@@ -388,6 +594,18 @@ async function main() {
     console.warn(`Jersey City update failed: ${error.message}`);
     return [];
   });
+  const garyGuideEntries = await fetchGaryGuideEvents().catch(error => {
+    console.warn(`Gary's Guide update failed: ${error.message}`);
+    return [];
+  });
+  const lumaEntries = await fetchLumaEvents().catch(error => {
+    console.warn(`Luma update failed: ${error.message}`);
+    return [];
+  });
+  const universityEntries = await fetchUniversityEvents().catch(error => {
+    console.warn(`University event update failed: ${error.message}`);
+    return [];
+  });
   const nearbyEvents = {
     ...fallbackNearbySourceEvents(),
     ...Object.fromEntries(jerseyCityEntries)
@@ -396,7 +614,12 @@ async function main() {
 
   const events = {
     ...curated.events,
-    ...Object.fromEntries(skintEntries),
+    ...Object.fromEntries(dedupeEntries([
+      ...skintEntries,
+      ...garyGuideEntries,
+      ...lumaEntries,
+      ...universityEntries
+    ])),
     ...nearbyEvents
   };
 
@@ -413,7 +636,7 @@ async function main() {
   const data = {
     meta: {
       checked,
-      coverage: "Curated Bryant Park listings plus latest non-sponsored The Skint digest posts, NYC Parks source link, and official Jersey City Cultural Affairs events",
+      coverage: "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and NYU Tandon events",
       refresh: "Checks for updated events.json every 30 minutes while open.",
       weekDays: buildWeekDays(),
       monthDays: buildMonthDays(),

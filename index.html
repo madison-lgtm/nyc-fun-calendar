@@ -23,6 +23,8 @@
       --blue-soft: #dce8ff;
       --green: #407335;
       --green-soft: #dff0d8;
+      --violet: #6952b8;
+      --violet-soft: #e7e0ff;
       --shadow: 0 18px 46px rgba(29, 37, 38, .14);
     }
 
@@ -139,6 +141,7 @@
     .dot.park { background: var(--green); }
     .dot.art { background: var(--gold); }
     .dot.food { background: var(--teal); }
+    .dot.tech { background: var(--violet); }
 
     .toggle-row {
       display: grid;
@@ -398,6 +401,7 @@
     .event.park { background: var(--green-soft); border-color: #b8d9ad; }
     .event.art { background: var(--gold-soft); border-color: #e2c36e; }
     .event.food { background: var(--teal-soft); border-color: #a8d5cf; }
+    .event.tech { background: var(--violet-soft); border-color: #c9b9f2; }
 
     .cluster {
       border: 1px dashed #99a5a7;
@@ -709,7 +713,7 @@
         </div>
       </div>
 
-      <input class="search" id="search" type="search" placeholder="Search music, parks, film...">
+      <input class="search" id="search" type="search" placeholder="Search music, AI, parks...">
 
       <div class="section-title">Event Types</div>
       <div class="filters" id="filters">
@@ -718,6 +722,7 @@
         <button class="filter" data-filter="park" aria-pressed="true"><span class="dot park"></span>Parks</button>
         <button class="filter" data-filter="art" aria-pressed="true"><span class="dot art"></span>Art</button>
         <button class="filter" data-filter="food" aria-pressed="true"><span class="dot food"></span>Food</button>
+        <button class="filter" data-filter="tech" aria-pressed="true"><span class="dot tech"></span>Tech / AI</button>
       </div>
 
       <div class="section-title">Quick Mode</div>
@@ -841,7 +846,7 @@
     };
 
     const state = {
-      filters: new Set(["music", "film", "park", "art", "food"]),
+      filters: new Set(["music", "film", "park", "art", "food", "tech"]),
       freeOnly: false,
       nightMode: false,
       search: "",
@@ -873,7 +878,7 @@
       if (!state.filters.has(event.type)) return false;
       if (state.freeOnly && !event.free) return false;
       if (state.nightMode && event.sort < 17) return false;
-      if (query && !`${event.title} ${event.place} ${event.label}`.toLowerCase().includes(query)) return false;
+      if (query && !`${event.title} ${event.place} ${event.label} ${event.source}`.toLowerCase().includes(query)) return false;
       return true;
     }
 
