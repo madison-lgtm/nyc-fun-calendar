@@ -149,11 +149,23 @@ function sortForTime(bucket) {
   return hour + Number(match[2] || 0) / 60;
 }
 
+function formatTimeFromDetails(details = {}) {
+  const hour = Number(details.hour || 0);
+  const minutes = String(details.minutes || "00").padStart(2, "0");
+  const displayHour = hour % 12 || 12;
+  const period = hour >= 12 ? "PM" : "AM";
+  return {
+    bucket: minutes === "00" ? `${displayHour} ${period}` : `${displayHour}:${minutes} ${period}`,
+    label: minutes === "00" ? `${displayHour}${period.toLowerCase()}` : `${displayHour}:${minutes}${period.toLowerCase()}`
+  };
+}
+
 function inferType(title, categoryText = "") {
   const text = `${title} ${categoryText}`.toLowerCase();
   if (/film|movie|screening|cinema/.test(text)) return ["film", "Movie"];
-  if (/concert|music|jazz|opera|dj|band|dance party/.test(text)) return ["music", "Live music"];
-  if (/food|market|fair|festival|bazaar|shopping|street/.test(text)) return ["food", "Market"];
+  if (/comedy/.test(text)) return ["art", "Comedy"];
+  if (/concert|music|jazz|opera|dj|band|dance party|performance/.test(text)) return ["music", "Live music"];
+  if (/food|market|fair|festival|bazaar|shopping|street|farmers/.test(text)) return ["food", "Market"];
   if (/park|garden|outdoor|walk|tour/.test(text)) return ["park", "Outdoor"];
   return ["art", "Arts"];
 }
@@ -236,7 +248,67 @@ async function fetchSkintEvents() {
   return parsed.slice(0, 80);
 }
 
-function nearbySourceEvents() {
+function parseJerseyCityEvent(event) {
+  const title = decodeHtml(event.title || "");
+  if (!title || /postponed|cancelled|canceled/i.test(title)) return null;
+
+  const details = event.start_date_details || {};
+  const year = Number(details.year);
+  const month = Number(details.month);
+  const dayOfMonth = Number(details.day);
+  if (!year || !month || !dayOfMonth) return null;
+
+  const date = `${year}-${String(month).padStart(2, "0")}-${String(dayOfMonth).padStart(2, "0")}`;
+  const dateForDay = new Date(Date.UTC(year, month - 1, dayOfMonth, 12));
+  const day = nyDateParts(dateForDay).weekday;
+  const time = formatTimeFromDetails(details);
+  const categories = (event.categories || []).map(category => decodeHtml(category.name)).join(" ");
+  const [type, label] = inferType(title, categories);
+  const venue = event.venue || {};
+  const venueName = decodeHtml(venue.venue || "Jersey City");
+  const address = [venue.address, venue.city, venue.state || venue.province].filter(Boolean).map(decodeHtml).join(", ");
+  const place = address ? `${venueName}, ${address}` : venueName;
+  const costValues = event.cost_details?.values || [];
+  const cost = decodeHtml(event.cost || "");
+  const price = cost || (costValues.includes("0") ? "Free" : "Free / varies");
+  const summary = decodeHtml(event.description || event.excerpt || "")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  return [`jc_culture_${event.id}_${slug(date)}_${slug(title)}`, {
+    title,
+    type,
+    label,
+    day,
+    date,
+    time: time.bucket,
+    sort: sortForTime(time.bucket),
+    when: `${day}, ${date.slice(5).replace("-", "/")} · ${time.label}`,
+    price,
+    free: !price.includes("$"),
+    place,
+    source: "Jersey City Cultural Affairs",
+    link: event.url || "https://jerseycityculture.org/events/",
+    map: venue.show_map_link && event.venue?.address
+      ? `https://maps.google.com/?q=${encodeURIComponent(place)}`
+      : "https://maps.google.com/?q=Jersey+City+events",
+    summary: summary || `Official Jersey City Cultural Affairs listing. Categories: ${categories || "community events"}.`
+  }];
+}
+
+async function fetchJerseyCityEvents() {
+  const today = new Date();
+  const start = today.toISOString().slice(0, 10);
+  const end = new Date(today.getTime() + 31 * DAY_MS).toISOString().slice(0, 10);
+  const url = `https://www.jerseycityculture.org/wp-json/tribe/events/v1/events?per_page=50&start_date=${encodeURIComponent(`${start} 00:00:00`)}&end_date=${encodeURIComponent(`${end} 23:59:59`)}`;
+  const data = await getJson(url);
+  return (data.events || [])
+    .map(parseJerseyCityEvent)
+    .filter(Boolean)
+    .slice(0, 45);
+}
+
+function fallbackNearbySourceEvents() {
   const today = new Date();
   const day = nyDateParts(today).weekday;
   const date = today.toISOString().slice(0, 10);
@@ -259,38 +331,21 @@ function nearbySourceEvents() {
       summary: "Official NYC Parks calendar. Use the source link for the latest concerts, movies, tours, fitness, and outdoor events."
     },
     jersey_city_culture: {
-      title: "Jersey City cultural events",
+      title: "Jersey City events source",
       type: "art",
       label: "Jersey City",
       day,
       date,
       time: "12 PM",
       sort: 12.1,
-      when: `${day} · Latest Jersey City calendar`,
+      when: `${day} · Jersey City calendar unavailable`,
       price: "Varies",
       free: true,
       place: "Jersey City",
       source: "Jersey City Cultural Affairs",
-      link: "https://www.jerseycityculture.org/",
+      link: "https://www.jerseycityculture.org/events/",
       map: "https://maps.google.com/?q=Jersey+City+events",
-      summary: "Nearby Jersey City arts and culture source. This keeps the app useful for local plans while we add deeper event parsing."
-    },
-    visit_hudson: {
-      title: "Hudson County events",
-      type: "food",
-      label: "Nearby",
-      day,
-      date,
-      time: "3 PM",
-      sort: 15.1,
-      when: `${day} · Latest Hudson County listings`,
-      price: "Varies",
-      free: true,
-      place: "Hudson County / Jersey City area",
-      source: "Visit Hudson",
-      link: "https://www.visithudson.org/events/",
-      map: "https://maps.google.com/?q=Hudson+County+NJ+events",
-      summary: "Nearby event source for Jersey City and Hudson County. Good for markets, festivals, food, and community events."
+      summary: "The Jersey City event feed could not be parsed on the latest refresh, so this source link is included as a fallback."
     }
   };
 }
@@ -329,11 +384,20 @@ async function main() {
     console.warn(`The Skint update failed: ${error.message}`);
     return [];
   });
+  const jerseyCityEntries = await fetchJerseyCityEvents().catch(error => {
+    console.warn(`Jersey City update failed: ${error.message}`);
+    return [];
+  });
+  const nearbyEvents = {
+    ...fallbackNearbySourceEvents(),
+    ...Object.fromEntries(jerseyCityEntries)
+  };
+  if (jerseyCityEntries.length) delete nearbyEvents.jersey_city_culture;
 
   const events = {
     ...curated.events,
     ...Object.fromEntries(skintEntries),
-    ...nearbySourceEvents()
+    ...nearbyEvents
   };
 
   const checked = new Intl.DateTimeFormat("en-US", {
@@ -349,7 +413,7 @@ async function main() {
   const data = {
     meta: {
       checked,
-      coverage: "Curated Bryant Park listings plus latest non-sponsored The Skint digest posts, NYC Parks, and Jersey City nearby source links",
+      coverage: "Curated Bryant Park listings plus latest non-sponsored The Skint digest posts, NYC Parks source link, and official Jersey City Cultural Affairs events",
       refresh: "Checks for updated events.json every 30 minutes while open.",
       weekDays: buildWeekDays(),
       monthDays: buildMonthDays(),
