@@ -367,6 +367,18 @@ function techSummary(source, text) {
   return cleaned ? `${source}: ${cleaned}` : `${source} listing for a tech, AI, business, or founder event.`;
 }
 
+function isGenericGarySummary(summary) {
+  return summary === "Gary's Guide listing for a tech, AI, business, or founder event.";
+}
+
+function extractGaryDetailSummary(html) {
+  const match = html.match(/<font class="fdescription">\s*([\s\S]*?)\s*<\/font>/);
+  if (!match) return "";
+  return decodeHtml(match[1])
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 function parseGaryGuideEvents(html) {
   const entries = [];
   const rowPattern = /<td align='center' valign='top' width='48'><b>([^<]+)<\/b><br\/>([^<]+)<\/td>[\s\S]*?<td align='center' width='37' valign='top'>([\s\S]*?)<\/td>[\s\S]*?<font class='ftitle'><a[^>]+href='([^']+)'[^>]*><b>([\s\S]*?)<\/b><\/a>[\s\S]*?<font class='fdescription'><br\/><b>([\s\S]*?)<\/b>([\s\S]*?)<\/font>(?:<br\/><font class='fgray'>([\s\S]*?)<\/font>)?/g;
@@ -407,7 +419,24 @@ function parseGaryGuideEvents(html) {
 }
 
 async function fetchGaryGuideEvents() {
-  return parseGaryGuideEvents(await getText("https://www.garysguide.com/events?region=nyc"));
+  const entries = parseGaryGuideEvents(await getText("https://www.garysguide.com/events?region=nyc"));
+  const enriched = [];
+  for (const [id, event] of entries) {
+    if (!isGenericGarySummary(event.summary)) {
+      enriched.push([id, event]);
+      continue;
+    }
+    try {
+      const detail = extractGaryDetailSummary(await getText(event.link));
+      enriched.push([id, {
+        ...event,
+        summary: detail ? techSummary("Gary's Guide", detail) : event.summary
+      }]);
+    } catch {
+      enriched.push([id, event]);
+    }
+  }
+  return enriched;
 }
 
 function lumaPrice(event) {
