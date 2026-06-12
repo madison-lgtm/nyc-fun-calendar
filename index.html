@@ -1075,6 +1075,68 @@
       return state.plan.includes(id);
     }
 
+    function padTime(value) {
+      return String(value).padStart(2, "0");
+    }
+
+    function eventStartMinutes(event) {
+      if (Number.isFinite(event.sort)) return Math.round(event.sort * 60);
+      const match = String(event.time || "").match(/^(\d{1,2})(?::(\d{2}))?\s(AM|PM)$/i);
+      if (!match) return 12 * 60;
+      let hour = Number(match[1]);
+      const minute = Number(match[2] || 0);
+      const period = match[3].toUpperCase();
+      if (period === "PM" && hour !== 12) hour += 12;
+      if (period === "AM" && hour === 12) hour = 0;
+      return hour * 60 + minute;
+    }
+
+    function eventDurationMinutes(event) {
+      const text = `${event.when || ""} ${event.summary || ""}`.toLowerCase();
+      const range = text.match(/(\d{1,2})(?::(\d{2}))?\s*(am|pm)?\s*(?:-|–|to)\s*(\d{1,2})(?::(\d{2}))?\s*(am|pm)/);
+      if (!range) return 120;
+      let startHour = Number(range[1]);
+      const startMinute = Number(range[2] || 0);
+      const endHourRaw = Number(range[4]);
+      const endMinute = Number(range[5] || 0);
+      const endPeriod = range[6];
+      const startPeriod = range[3] || endPeriod;
+      if (startPeriod === "pm" && startHour !== 12) startHour += 12;
+      if (startPeriod === "am" && startHour === 12) startHour = 0;
+      let endHour = endHourRaw;
+      if (endPeriod === "pm" && endHour !== 12) endHour += 12;
+      if (endPeriod === "am" && endHour === 12) endHour = 0;
+      let duration = (endHour * 60 + endMinute) - (startHour * 60 + startMinute);
+      if (duration <= 0) duration += 24 * 60;
+      return Math.min(Math.max(duration, 30), 8 * 60);
+    }
+
+    function calendarStamp(date, minutes) {
+      const [year, month, day] = String(date || "").split("-").map(Number);
+      const dayOffset = Math.floor(minutes / (24 * 60));
+      const stampDate = new Date(Date.UTC(year, month - 1, day + dayOffset, 12));
+      const stampYear = stampDate.getUTCFullYear();
+      const stampMonth = padTime(stampDate.getUTCMonth() + 1);
+      const stampDay = padTime(stampDate.getUTCDate());
+      const hour = Math.floor(minutes / 60) % 24;
+      const minute = minutes % 60;
+      return `${stampYear}${stampMonth}${stampDay}T${padTime(hour)}${padTime(minute)}00`;
+    }
+
+    function googleCalendarUrl(event) {
+      const start = eventStartMinutes(event);
+      const end = start + eventDurationMinutes(event);
+      const params = new URLSearchParams({
+        action: "TEMPLATE",
+        text: event.title,
+        dates: `${calendarStamp(event.date, start)}/${calendarStamp(event.date, end)}`,
+        ctz: "America/New_York",
+        location: event.place,
+        details: `${event.summary}\n\nSource: ${event.source}\n${event.link}`
+      });
+      return `https://calendar.google.com/calendar/render?${params.toString()}`;
+    }
+
     function togglePlan(id) {
       if (isPlanned(id)) {
         state.plan = state.plan.filter(item => item !== id);
@@ -1106,6 +1168,7 @@
         <div class="action-row">
           <button class="main-action" data-plan="${id}">${isPlanned(id) ? "Remove from Plan" : "Add to Plan"}</button>
           <button data-share-event="${id}">Share Event</button>
+          <a href="${googleCalendarUrl(event)}" target="_blank" rel="noreferrer">Google Calendar</a>
           <a href="${event.link}" target="_blank" rel="noreferrer">Details</a>
           <a href="${event.map}" target="_blank" rel="noreferrer">Map</a>
         </div>
