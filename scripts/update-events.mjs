@@ -216,6 +216,7 @@ function formatTimeFromDetails(details = {}) {
 function inferType(title, categoryText = "") {
   const text = `${title} ${categoryText}`.toLowerCase();
   if (/\bai\b|artificial intelligence|\bagent\b|agentic|tech|startup|founder|\bvc\b|venture|cloud|\bdata\b|developer|engineering|engineer|product|business|fintech|crypto|web3|quantum|robot|software|snowflake|\baws\b|\bnyse\b|seminar|lecture|panel|讲座/.test(text)) return ["tech", "Tech / AI"];
+  if (/look-?alike|competition|contest|game show|trivia|swap|block party|cookout|picnic|party|meetup|social|hangout|bazaar|underground|oddball|weird|quirky|strange|nonsense|zine|propaganda fair|mini ball|\bdrag\b|burlesque|variety show/.test(text)) return ["weird", "Weird / Social"];
   if (/film|movie|screening|cinema/.test(text)) return ["film", "Movie"];
   if (/comedy/.test(text)) return ["art", "Comedy"];
   if (/concert|music|jazz|opera|dj|band|dance party|performance/.test(text)) return ["music", "Live music"];
@@ -256,6 +257,7 @@ function parseSkintPost(post) {
     const dayToken = match[1].slice(0, 3).toLowerCase();
     const date = dates[dayToken];
     if (!date) continue;
+    if (!isWithinLookahead(date, 31)) continue;
 
     const titleMatch = block.match(/<b[^>]*>([\s\S]*?)<\/b>/i);
     const title = decodeHtml(titleMatch ? titleMatch[1] : match[3].split(":")[0]).replace(/\s+/g, " ");
@@ -300,6 +302,56 @@ async function fetchSkintEvents() {
     .slice(0, 4)
     .flatMap(parseSkintPost);
   return parsed.slice(0, 80);
+}
+
+function parseNonsenseEvents(html) {
+  const blocks = paragraphBlocks(html);
+  const entries = [];
+
+  for (const block of blocks) {
+    const text = decodeHtml(block).replace(/\s+/g, " ").trim();
+    if (!/nyc|brooklyn|queens|manhattan|bronx|jersey city|party|show|social|weird|nonsense|contest|competition|gathering|meetup/i.test(text)) continue;
+
+    const dateMatch = text.match(/\b(mon|tue|tues|wed|thu|thur|thurs|fri|sat|sun)[a-z]*\b[,.]?\s+(\d{1,2})[\/.-](\d{1,2})/i);
+    const timeMatch = text.match(/\b(\d{1,2})(?::(\d{2}))?\s*(am|pm)\b/i);
+    if (!dateMatch || !timeMatch) continue;
+
+    const year = new Date().getFullYear();
+    const date = `${year}-${String(dateMatch[2]).padStart(2, "0")}-${String(dateMatch[3]).padStart(2, "0")}`;
+    if (!isWithinLookahead(date, 31)) continue;
+
+    const title = text.split(/[.!?]/)[0].slice(0, 90).trim();
+    if (title.length < 8) continue;
+
+    const time = normalizeTime(`${timeMatch[1]}${timeMatch[2] ? `:${timeMatch[2]}` : ""}${timeMatch[3]}`);
+    const day = nyDateParts(new Date(`${date}T12:00:00Z`)).weekday;
+    const link = extractLink(block) || "https://www.nonsensenyc.com/";
+
+    entries.push([`nonsense_${slug(date)}_${slug(title)}`, {
+      title,
+      type: "weird",
+      label: "Weird / Social",
+      day,
+      date,
+      time: time.bucket,
+      sort: sortForTime(time.bucket),
+      when: `${day}, ${date.slice(5).replace("-", "/")} · ${time.label}`,
+      price: "Varies",
+      free: false,
+      place: "NYC",
+      source: "Nonsense NYC",
+      link,
+      map: "https://maps.google.com/?q=NYC",
+      summary: `Nonsense NYC listing: ${text}`
+    }]);
+  }
+
+  return entries.slice(0, 30);
+}
+
+async function fetchNonsenseEvents() {
+  const html = await getText("https://www.nonsensenyc.com/");
+  return parseNonsenseEvents(html);
 }
 
 function parseJerseyCityEvent(event) {
@@ -640,6 +692,10 @@ async function main() {
     console.warn(`The Skint update failed: ${error.message}`);
     return [];
   });
+  const nonsenseEntries = await fetchNonsenseEvents().catch(error => {
+    console.warn(`Nonsense NYC update failed: ${error.message}`);
+    return [];
+  });
   const jerseyCityEntries = await fetchJerseyCityEvents().catch(error => {
     console.warn(`Jersey City update failed: ${error.message}`);
     return [];
@@ -666,6 +722,7 @@ async function main() {
     ...curated.events,
     ...Object.fromEntries(dedupeEntries([
       ...skintEntries,
+      ...nonsenseEntries,
       ...garyGuideEntries,
       ...lumaEntries,
       ...universityEntries
@@ -686,7 +743,7 @@ async function main() {
   const data = {
     meta: {
       checked,
-      coverage: "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
+      coverage: "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
       refresh: "Checks for updated events.json every 30 minutes while open.",
       weekDays: buildWeekDays(),
       monthDays: buildMonthDays(),
