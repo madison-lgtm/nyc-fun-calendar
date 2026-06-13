@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 12, 2026, 5:21 PM EDT",
+    "checked": "Jun 13, 2026, 8:20 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-06-12",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Jun 12"
-      },
       {
         "iso": "2026-06-13",
         "key": "Sat",
@@ -45,15 +39,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Jun 18"
+      },
+      {
+        "iso": "2026-06-19",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Jun 19"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-06-12",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Jun 12"
-      },
       {
         "iso": "2026-06-13",
         "key": "Sat",
@@ -233,9 +227,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Jul 12"
+      },
+      {
+        "iso": "2026-07-13",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Jul 13"
       }
     ],
-    "todayKey": "Fri",
+    "todayKey": "Sat",
     "times": [
       "7 AM",
       "9 AM",
@@ -243,7 +243,6 @@
       "11 AM",
       "11:30 AM",
       "12 PM",
-      "12:30 PM",
       "1 PM",
       "2 PM",
       "2:30 PM",
@@ -255,9 +254,10 @@
       "6 PM",
       "6:30 PM",
       "7 PM",
-      "7:30 PM",
       "8 PM",
-      "8:30 PM"
+      "8:30 PM",
+      "10 PM",
+      "11 PM"
     ]
   },
   "events": {
@@ -941,40 +941,6 @@
       "map": "https://maps.google.com/?q=blow%20out%2C%20body%20double%2C%20carlito%E2%80%99s%20way%2C%20carrie%2C%20scarface%2C%20sisters%2C%20the%20untouchables%2C%20and%20more%20NYC",
       "summary": "three film fests / series. Pulled from The Skint's public article feed: fri thru 6/29: de palma: summer of suspense: blow out, body double, carlito’s way, carrie, scarface, sisters, the untouchables, and more. museum of the moving image (astoria). $17.50 general, $12 seniors/students."
     },
-    "skint_87949_0_zestyworld_on_the_high_line_a_pride_celebration": {
-      "title": "zestyworld on the high line: a pride celebration",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Thu",
-      "date": "2026-06-11",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 06/11 · 6-9pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "on the high line between 15th and 16th streets",
-      "source": "The Skint",
-      "link": "https://www.thehighline.org/events/pride-2026/",
-      "map": "https://maps.google.com/?q=on%20the%20high%20line%20between%2015th%20and%2016th%20streets%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 6-9pm: zestyworld on the high line: a pride celebration: on the high line between 15th and 16th streets."
-    },
-    "skint_87949_1_the_12th_annual_queerly_festival": {
-      "title": "the 12th annual queerly festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Thu",
-      "date": "2026-06-11",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Thu, 06/11 · thru 7/3",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "under st",
-      "source": "The Skint",
-      "link": "https://frigid.nyc/festivals/queerly/",
-      "map": "https://maps.google.com/?q=under%20st%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs thru 7/3: the 12th annual queerly festival: under st. marks (east village), various prices."
-    },
     "gary_2026_06_12_ddx_innovation_ux_conference": {
       "title": "DDX Innovation & UX Conference",
       "type": "startup",
@@ -1644,9 +1610,9 @@
       "label": "Startup / Business",
       "day": "Mon",
       "date": "2026-06-15",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Mon, 06/15 · 4pm",
+      "time": "8 PM",
+      "sort": 20,
+      "when": "Mon, 06/15 · 8pm",
       "price": "Free",
       "free": true,
       "place": "New York, NY",
@@ -1661,9 +1627,9 @@
       "label": "Tech / AI",
       "day": "Tue",
       "date": "2026-06-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 06/16 · 6pm",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Tue, 06/16 · 10pm",
       "price": "Free",
       "free": true,
       "place": "Bar Cima",
@@ -1671,6 +1637,23 @@
       "link": "https://luma.com/pltoftee",
       "map": "https://maps.google.com/?q=Bar%20Cima%20NYC",
       "summary": "Luma NYC: Baseten Events, Baseten"
+    },
+    "luma_2026_06_17_the_product_table_nyc_one_night_only_tech_product_de": {
+      "title": "The product table NYC | one-night only Tech, Product & Design Dinner",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-06-17",
+      "time": "11 PM",
+      "sort": 23,
+      "when": "Wed, 06/17 · 11pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/g719qmut",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Girlies in Tech Dinner Parties, Jordyn Harrison"
     },
     "nyu_tandon_2026_06_15_cryoelectronics_for_scalable_ion_trap_quantum_contro": {
       "title": "Cryoelectronics for Scalable Ion-Trap Quantum Control",
@@ -1688,74 +1671,6 @@
       "link": "https://engineering.nyu.edu/events/2026/06/15/cryoelectronics-scalable-ion-trap-quantum-control",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_39030_2026_06_12_philippine_flag_raising_ceremony_2026": {
-      "title": "Philippine Flag Raising Ceremony 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-12",
-      "time": "12:30 PM",
-      "sort": 12.5,
-      "when": "Fri, 06/12 · 12:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/philippine-flag-raising-ceremony-2026/",
-      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community History What's Coming Up?."
-    },
-    "jc_culture_39088_2026_06_12_flag_city_event_2026": {
-      "title": "Flag City Event 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Fri",
-      "date": "2026-06-12",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Fri, 06/12 · 5pm",
-      "price": "Free",
-      "free": true,
-      "place": "Columbus Drive, 80-25 Christopher Columbus Dr, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/flag-city-event-2026/",
-      "map": "https://maps.google.com/?q=Columbus%20Drive%2C%2080-25%20Christopher%20Columbus%20Dr%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Jersey City is a “Flag City” for the 2026 World Cup and will host the first in a series of regional fan festivals. This event will feature live match broadcasts on large LED screens, international cuisine, local food vendors, and live entertainment. The festival is intended to celebrate the diversity of Hudson County while supporting regional engagement around the eight-match tournament at MetLife Stadium. Prohibited Items Security Screening Required All guests are subject to magnetometer screening and bag inspection. Prohibited Items Outside food or beverages Weapons / No CCPs Illegal substances Drones Fireworks & explosives Large bags, backpacks, or coolers Pets (except service animals) No lawn chairs Event Policies No re-entry permitted Children under 12 must be accompanied by an adult Event may be photographed and recorded FOR FULL POLICIES: flagcities.com/faq Impacted Bus Routes THESE ROUTES WILL EXPERIENCE DETOURS ALONG COLUMBUS DRIVE, WARREN STREET, WASHINGTON STREET, AND MONTGOMERY STREET ROUTE 1 (NEWARK / EXCHANGE PLACE) ROUTE 9 (MONTGOMERY STREET – WEST SIDE AVENUE / NEWPORT MALL) ROUTE 80 (GATES AVENUE / JOURNAL SQUARE / EXCHANGE PLACE ROUTE 81 (BAYONNE LOCAL / EXCHANGE PLACE) ROUTE 82 (JERSEY CITY HEIGHTS / EXCHANGE PLACE) ROUTE 86 (NUNGESSERS / NEWPORT CENTRE) ROUTE 119 (BAYONNE / JERSEY CITY / NEW YORK) COMMUTER / EXPRESS ROUTES (63,64,68) Street Closures ALL CARS MUST BE MOVED FROM THE FOLLOWING STREETS BY SEVEN AM ON JUNE TWELFTH, OR THEY WILL BE TOWED: COLUMBUS DRIVE FROM MARIN BLVD TO GREEN STREET WARREN STREET FROM MONTGOMERY STREET TO STEUBEN STREET WASHINGTON STREET FROM MONTGOMERY STREET TO MORGAN STREET PEARL STREET FROM WASHINGTON STREET TO GREEN STREET THE FOLLOWING STREETS WILL BE CLOSED TO VEHICLE TRAFFIC, EXCEPT FOR PERMITTED VENDORS AND CITY VEHICLES, FROM ELEVEN AM ON JUNE TWELFTH TO ONE AM ON JUNE THIRTEENTH COLUMBUS DRIVE BETWEEN MARIN BLVD AND GREEN STREET WARREN STREET BETWEEN MONTGOMERY STREET AND STEUBEN STREET MONTGOMERY STREET BETWEEN MARIN BLVD AND WASHINGTON STREET WASHINGTON STREET BETWEEN MONTGOMERY STREET TO MORGAN STREET PEARL STREET FROM WASHINNGTON STREET TO GREENE STREET STEUBEN STREET FROM MARIN BLVD TO WASHINGTON STREET (CLOSED FROM THREE PM TO ONE AM) YORK STREET FROM GROVE STREET TO HUDSON STREET (CLOSED FROM THREE PM TO ONE AM) GRAND STREET FROM MARIN BLVD TO HUDSON STREET (CLOSED FROM THREE PM TO ONE AM)"
-    },
-    "jc_culture_10004636_2026_06_12_jersey_city_comedy_festival_2026": {
-      "title": "Jersey City Comedy Festival 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Fri",
-      "date": "2026-06-12",
-      "time": "7:30 PM",
-      "sort": 19.5,
-      "when": "Fri, 06/12 · 7:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-comedy-festival-2026/2026-06-12/3/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "The 2026 Jersey City Comedy Festival Tuesday, June 9th – Saturday June 13th, 2026 June 9th, 10th, 12th, 13th: Art House Productions – 345 Marin Boulevard, Jersey City, NJ 07302 June 11th: Dorrian’s Red Hand – 555 Washington Blvd, Jersey City, NJ 07310 The Jersey City Comedy Festival returns June 2026! Enjoy five days of laugh out loud comedy right here in Jersey City. Kicking off the festival we have two headlining performances on June 9th and June 10th at Art House Productions. Watch as selected stand-up comedians compete from June 11th through June 12th. Two winners from four competitions will move on to the FINAL Best of the Fest competition on June 13th, where an Industry Winner and an Audience Pick Winner will be crowned Best of the Fest. The winners will receive cash prizes and spots at major comedy clubs."
-    },
-    "jc_culture_10004009_2026_06_12_jersey_city_comedy_festival_2026": {
-      "title": "Jersey City Comedy Festival 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Fri",
-      "date": "2026-06-12",
-      "time": "8:30 PM",
-      "sort": 20.5,
-      "when": "Fri, 06/12 · 8:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-comedy-festival-2026/2026-06-12/4/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "The 2026 Jersey City Comedy Festival Tuesday, June 9th – Saturday June 13th, 2026 June 9th, 10th, 12th, 13th: Art House Productions – 345 Marin Boulevard, Jersey City, NJ 07302 June 11th: Dorrian’s Red Hand – 555 Washington Blvd, Jersey City, NJ 07310 The Jersey City Comedy Festival returns June 2026! Enjoy five days of laugh out loud comedy right here in Jersey City. Kicking off the festival we have two headlining performances on June 9th and June 10th at Art House Productions. Watch as selected stand-up comedians compete from June 11th through June 12th. Two winners from four competitions will move on to the FINAL Best of the Fest competition on June 13th, where an Industry Winner and an Audience Pick Winner will be crowned Best of the Fest. The winners will receive cash prizes and spots at major comedy clubs."
     },
     "jc_culture_36489_2026_06_13_2nd_annual_5k_walk_run_for_dementia_awareness_2026": {
       "title": "2nd Annual 5K Walk & Run for Dementia Awareness 2026",
@@ -2436,6 +2351,40 @@
       "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-valerie-adams-the-dimension-band/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "&nbsp; JC Summerfest featuring Valarie Adams & the Dimension Band (Soul, Motown, Jazz, Funk) North Cove Field Liberty State Park 6pm-8pm"
+    },
+    "jc_culture_38061_2026_07_14_jersey_city_summerfest_2026_the_outcrops": {
+      "title": "Jersey City Summerfest 2026 / The Outcrops",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Tue",
+      "date": "2026-07-14",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Tue, 07/14 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Liberty State Park. South Lawn, Freedom Way, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-the-outcrops/",
+      "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
+      "summary": "&nbsp; JC Summerfest featuring The Outcrops South Cove Lawn Liberty State Park 6:30pm-8:30pm"
+    },
+    "jc_culture_37942_2026_07_14_movies_in_the_park_2026_interstellar": {
+      "title": "Movies in the Park 2026 / Interstellar",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Tue",
+      "date": "2026-07-14",
+      "time": "8:30 PM",
+      "sort": 20.5,
+      "when": "Tue, 07/14 · 8:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Ercel Webb Park, 124 Lafayette Street, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-interstellar/",
+      "map": "https://maps.google.com/?q=Ercel%20Webb%20Park%2C%20124%20Lafayette%20Street%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Ercel Webb Park featuring Interstellar at sunset"
     }
   },
   "clusters": {
@@ -2447,14 +2396,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_06_11_6_pm": [
-      "muay",
-      "skint_87949_0_zestyworld_on_the_high_line_a_pride_celebration"
-    ],
-    "cluster_2026_06_11_7_pm": [
-      "dance",
-      "skint_87949_1_the_12th_annual_queerly_festival"
     ],
     "cluster_2026_06_12_7_pm": [
       "wmi_percussion",
@@ -2522,8 +2463,7 @@
     ],
     "cluster_2026_06_16_6_pm": [
       "gary_2026_06_16_aws_summit_welcome_party_agents_at_scale",
-      "gary_2026_06_16_inference_in_the_clouds_rooftop_happy_hour",
-      "luma_2026_06_16_inference_in_the_clouds_a_rooftop_happy_hour_at_aws_"
+      "gary_2026_06_16_inference_in_the_clouds_rooftop_happy_hour"
     ],
     "cluster_2026_06_17_6_pm": [
       "gary_2026_06_17_building_ai_agents_w_n8n",
