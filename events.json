@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 13, 2026, 4:49 PM EDT",
+    "checked": "Jun 14, 2026, 8:58 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-06-13",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Jun 13"
-      },
       {
         "iso": "2026-06-14",
         "key": "Sun",
@@ -45,15 +39,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Jun 19"
+      },
+      {
+        "iso": "2026-06-20",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Jun 20"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-06-13",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Jun 13"
-      },
       {
         "iso": "2026-06-14",
         "key": "Sun",
@@ -233,9 +227,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Jul 13"
+      },
+      {
+        "iso": "2026-07-14",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Jul 14"
       }
     ],
-    "todayKey": "Sat",
+    "todayKey": "Sun",
     "times": [
       "7 AM",
       "9 AM",
@@ -448,24 +448,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_88068_0_queens_world_film_festival_and_fth_present_prideful_": {
-      "title": "queens world film festival and fth present: prideful poetry",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-06-12",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Fri, 06/12 · 7pm",
-      "price": "$5",
-      "free": false,
-      "place": "flushing town hall gallery",
-      "source": "The Skint",
-      "link": "https://www.flushingtownhall.org/show-details/queens-world-film-festival-and-fth-present-prideful-poetry",
-      "map": "https://maps.google.com/?q=flushing%20town%20hall%20gallery%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 7pm: queens world film festival and fth present: prideful poetry: flushing town hall gallery. $5."
-    },
-    "skint_88068_1_brooklyn_pride": {
+    "skint_88068_0_brooklyn_pride": {
       "title": "brooklyn pride",
       "type": "art",
       "label": "Art / Culture",
@@ -482,7 +465,7 @@
       "map": "https://maps.google.com/?q=30th%20annual%20multicultural%20street%20festival%20(11am-5pm)%20and%20twilight%20parade%20(7%3A30pm-10pm)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-10pm: brooklyn pride: 30th annual multicultural street festival (11am-5pm) and twilight parade (7:30pm-10pm). park slope."
     },
-    "skint_88068_2_support_women_djs_pride_kickoff_party": {
+    "skint_88068_1_support_women_djs_pride_kickoff_party": {
       "title": "support women djs pride kickoff party",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -499,7 +482,7 @@
       "map": "https://maps.google.com/?q=the%20sultan%20room%20rooftop%20(bushwick)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 4-10pm: support women djs pride kickoff party: the sultan room rooftop (bushwick). $20.09."
     },
-    "skint_88068_3_we_have_to_do_pride_comedy_show_with_maddie_peck_bri": {
+    "skint_88068_2_we_have_to_do_pride_comedy_show_with_maddie_peck_bri": {
       "title": "we have to do pride comedy show with maddie peck + bridget foley",
       "type": "art",
       "label": "Comedy",
@@ -516,7 +499,7 @@
       "map": "https://maps.google.com/?q=union%20hall%20(park%20slope)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 7pm: we have to do pride comedy show with maddie peck + bridget foley: union hall (park slope). $12 adv, $15 door."
     },
-    "skint_88068_4_pioneer_works_second_sundays_second_annual_mini_ball": {
+    "skint_88068_3_pioneer_works_second_sundays_second_annual_mini_ball": {
       "title": "pioneer works second sundays: second annual ‘mini ball’ pride edition",
       "type": "weird",
       "label": "Weird / Social",
@@ -533,7 +516,7 @@
       "map": "https://maps.google.com/?q=(monthly)%3A%20%3A%20pioneer%20works%20(red%20hook)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-7pm: (monthly): pioneer works second sundays: second annual ‘mini ball’ pride edition: pioneer works (red hook)."
     },
-    "skint_88068_5_erotic_art_bazaar_pride_edition": {
+    "skint_88068_4_erotic_art_bazaar_pride_edition": {
       "title": "erotic art bazaar: pride edition",
       "type": "market",
       "label": "Festival / Market",
@@ -550,7 +533,7 @@
       "map": "https://maps.google.com/?q=the%20walker%20loft%20(chinatown)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1pm-7pm: erotic art bazaar: pride edition: the walker loft (chinatown)."
     },
-    "skint_88068_6_everybooty_pride_party_2026": {
+    "skint_88068_5_everybooty_pride_party_2026": {
       "title": "everybooty pride party 2026",
       "type": "art",
       "label": "Art / Culture",
@@ -567,7 +550,7 @@
       "map": "https://maps.google.com/?q=brooklyn%20academy%20of%20music%20(fort%20greene)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 6-11pm: everybooty pride party 2026: brooklyn academy of music (fort greene). $30."
     },
-    "skint_88068_7_41st_annual_116th_street_festival": {
+    "skint_88068_6_41st_annual_116th_street_festival": {
       "title": "41st annual 116th street festival",
       "type": "market",
       "label": "Festival / Market",
@@ -584,7 +567,7 @@
       "map": "https://maps.google.com/?q=3rd%20ave%20from%20e%20106th%20street%20to%20e%20122nd%20street%20(spanish%20harlem%2C%20el%20barrio)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-5pm: 41st annual 116th street festival: 3rd ave from e 106th street to e 122nd street (spanish harlem, el barrio)."
     },
-    "skint_88068_8_romania_day_on_broadway_festival": {
+    "skint_88068_7_romania_day_on_broadway_festival": {
       "title": "romania day on broadway festival",
       "type": "market",
       "label": "Festival / Market",
@@ -601,7 +584,7 @@
       "map": "https://maps.google.com/?q=broadway%20from%20bowling%20green%20park%20plaza%20to%20about%20fulton%20street%20(fidi)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-5pm: romania day on broadway festival: broadway from bowling green park plaza to about fulton street (fidi)."
     },
-    "skint_88068_9_nyc_public_library_art_propaganda_fair": {
+    "skint_88068_8_nyc_public_library_art_propaganda_fair": {
       "title": "nyc public library art + propaganda fair",
       "type": "market",
       "label": "Festival / Market",
@@ -618,7 +601,7 @@
       "map": "https://maps.google.com/?q=fifteenth%20street%20friends%20meeting%20house%20(gramercy)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-5pm: nyc public library art + propaganda fair: fifteenth street friends meeting house (gramercy)."
     },
-    "skint_88068_10_the_meatpacking_district_s_summer_goals": {
+    "skint_88068_9_the_meatpacking_district_s_summer_goals": {
       "title": "the meatpacking district’s summer goals",
       "type": "market",
       "label": "Festival / Market",
@@ -635,7 +618,7 @@
       "map": "https://maps.google.com/?q=performances%2C%20workshops%2C%20hands-on%20art%20activities%2C%20movement%20classes%2C%20music%2C%20and%20more%20across%20little%20west%2012th%20street%20and%20west%2013th%20street%E2%80%99s%20open%20streets%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-6pm: the meatpacking district’s summer goals: performances, workshops, hands-on art activities, movement classes, music, and more across little west 12th street and west 13th street’s open streets."
     },
-    "skint_88068_11_20th_annual_hare_krishna_parade_festival": {
+    "skint_88068_10_20th_annual_hare_krishna_parade_festival": {
       "title": "20th annual hare krishna parade + festival",
       "type": "market",
       "label": "Festival / Market",
@@ -652,7 +635,7 @@
       "map": "https://maps.google.com/?q=fifth%20ave%20parade%20from%20e%2041st%20street%20to%20washington%20square%20park%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-7pm: 20th annual hare krishna parade + festival: fifth ave parade from e 41st street to washington square park."
     },
-    "skint_88068_12_schomburg_centennial_festival": {
+    "skint_88068_11_schomburg_centennial_festival": {
       "title": "schomburg centennial festival",
       "type": "market",
       "label": "Festival / Market",
@@ -669,7 +652,7 @@
       "map": "https://maps.google.com/?q=the%20schomburg%20center%20for%20research%20in%20black%20culture%20(harlem)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-7pm: schomburg centennial festival: the schomburg center for research in black culture (harlem)."
     },
-    "skint_88068_13_brooklyn_art_supply_swap": {
+    "skint_88068_12_brooklyn_art_supply_swap": {
       "title": "brooklyn art supply swap",
       "type": "market",
       "label": "Festival / Market",
@@ -686,7 +669,7 @@
       "map": "https://maps.google.com/?q=outside%20of%20brooklyn%20borough%20hall%20(downtown%20brooklyn)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-4pm: brooklyn art supply swap: outside of brooklyn borough hall (downtown brooklyn)."
     },
-    "skint_88068_14_second_nature_second_hand_found_in_the_wild_vintage_": {
+    "skint_88068_13_second_nature_second_hand_found_in_the_wild_vintage_": {
       "title": "second nature: second hand, found in the wild vintage market",
       "type": "market",
       "label": "Festival / Market",
@@ -703,7 +686,7 @@
       "map": "https://maps.google.com/?q=cicchetti%20bk%20(bed-stuy)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-5pm: second nature: second hand, found in the wild vintage market: cicchetti bk (bed-stuy)."
     },
-    "skint_88068_15_a_third_place_block_party": {
+    "skint_88068_14_a_third_place_block_party": {
       "title": "a third place block party",
       "type": "market",
       "label": "Festival / Market",
@@ -720,7 +703,7 @@
       "map": "https://maps.google.com/?q=s%202nd%20street%20between%20roebling%20%2B%20havenmeyer%20(williamsburg)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 3-8pm: a third place block party: s 2nd street between roebling + havenmeyer (williamsburg)."
     },
-    "skint_88068_16_carefreeblackgirl_cookout_brooklyn": {
+    "skint_88068_15_carefreeblackgirl_cookout_brooklyn": {
       "title": "#carefreeblackgirl cookout brooklyn",
       "type": "market",
       "label": "Festival / Market",
@@ -737,7 +720,7 @@
       "map": "https://maps.google.com/?q=lincoln%20terrace%20%2F%20arthur%20s%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 1-7pm: #carefreeblackgirl cookout brooklyn: lincoln terrace / arthur s. somers park (crown heights). free-$10."
     },
-    "skint_88068_17_the_aussie_bbq_australian_music_fest": {
+    "skint_88068_16_the_aussie_bbq_australian_music_fest": {
       "title": "the aussie bbq australian music fest",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -754,7 +737,7 @@
       "map": "https://maps.google.com/?q=sadie%E2%80%99s%20garden%20bar%20(the%20seaport)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 3-10pm: the aussie bbq australian music fest: sadie’s garden bar (the seaport)."
     },
-    "skint_88068_18_vinylcon_nyc": {
+    "skint_88068_17_vinylcon_nyc": {
       "title": "vinylcon! nyc",
       "type": "market",
       "label": "Festival / Market",
@@ -771,7 +754,7 @@
       "map": "https://maps.google.com/?q=industry%20city%20(sunset%20park)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun (sat 10am-7pm, sun 10am-5pm): vinylcon! nyc: industry city (sunset park). $12+ admission"
     },
-    "skint_88068_19_the_lay_out_s_sixth_annual_juneteenth_celebration_th": {
+    "skint_88068_18_the_lay_out_s_sixth_annual_juneteenth_celebration_th": {
       "title": "the lay out’s sixth annual juneteenth celebration: the joy of play",
       "type": "market",
       "label": "Festival / Market",
@@ -788,7 +771,7 @@
       "map": "https://maps.google.com/?q=fort%20green%20park%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm: the lay out’s sixth annual juneteenth celebration: the joy of play: fort green park."
     },
-    "skint_88068_20_the_69th_annual_national_puerto_rican_day_parade": {
+    "skint_88068_19_the_69th_annual_national_puerto_rican_day_parade": {
       "title": "the 69th annual national puerto rican day parade",
       "type": "market",
       "label": "Festival / Market",
@@ -805,7 +788,7 @@
       "map": "https://maps.google.com/?q=fifth%20ave%20from%2044th%20street%20to%2079th%20street%20(manhattan)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-5pm: the 69th annual national puerto rican day parade: fifth ave from 44th street to 79th street (manhattan)."
     },
-    "skint_88068_21_brooklyn_horror_society_x_the_twisted_spine_present_": {
+    "skint_88068_20_brooklyn_horror_society_x_the_twisted_spine_present_": {
       "title": "brooklyn horror society x the twisted spine present: summerween market",
       "type": "weird",
       "label": "Weird / Social",
@@ -822,7 +805,7 @@
       "map": "https://maps.google.com/?q=the%20twisted%20spine%20(williamsburg)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-5pm: brooklyn horror society x the twisted spine present: summerween market: the twisted spine (williamsburg)."
     },
-    "skint_88068_22_i_am_caribbeing_one_love_fest": {
+    "skint_88068_21_i_am_caribbeing_one_love_fest": {
       "title": "i am caribbeing one love fest",
       "type": "market",
       "label": "Festival / Market",
@@ -839,7 +822,7 @@
       "map": "https://maps.google.com/?q=prospect%20park%20boathouse%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-7pm: i am caribbeing one love fest: prospect park boathouse."
     },
-    "skint_88068_23_jalopy_folk_school_music_festival": {
+    "skint_88068_22_jalopy_folk_school_music_festival": {
       "title": "jalopy folk school music festival",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -856,7 +839,7 @@
       "map": "https://maps.google.com/?q=part%20of%20open%20streets%20at%20jalopy%20theater%20(columbia%20street%20waterfront%20district)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-7pm: jalopy folk school music festival: part of open streets at jalopy theater (columbia street waterfront district)."
     },
-    "skint_88068_24_fifth_annual_queens_irish_heritage_festival": {
+    "skint_88068_23_fifth_annual_queens_irish_heritage_festival": {
       "title": "fifth annual queens irish heritage festival",
       "type": "market",
       "label": "Festival / Market",
@@ -873,7 +856,7 @@
       "map": "https://maps.google.com/?q=culture%20lab%20lic%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 4pm-9pm: fifth annual queens irish heritage festival: culture lab lic."
     },
-    "skint_88068_25_10th_annual_sunset_park_puerto_rican_parade_festival": {
+    "skint_88068_24_10th_annual_sunset_park_puerto_rican_parade_festival": {
       "title": "10th annual sunset park puerto rican parade + festival",
       "type": "market",
       "label": "Festival / Market",
@@ -889,142 +872,6 @@
       "link": "https://www.facebook.com/SunsetParkPRparade/",
       "map": "https://maps.google.com/?q=fifth%20ave%20from%2059th%20street%20to%2043rd%20street%20(sunset%20park)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 5pm: 10th annual sunset park puerto rican parade + festival: fifth ave from 59th street to 43rd street (sunset park)."
-    },
-    "skint_88068_26_portraits_by_an_artist_the_cinematic_visions_of_juli": {
-      "title": "portraits by an artist: the cinematic visions of julian schnabel",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-06-12",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 06/12 · thru tues",
-      "price": "$17",
-      "free": false,
-      "place": "in the hand of dante, lou reed: berlin, the diving bell and the butterfly, basquiat (black and white version), and more",
-      "source": "The Skint",
-      "link": "https://www.paristheaternyc.com/series/portraits-by-an-artist-julian-schnabel",
-      "map": "https://maps.google.com/?q=in%20the%20hand%20of%20dante%2C%20lou%20reed%3A%20berlin%2C%20the%20diving%20bell%20and%20the%20butterfly%2C%20basquiat%20(black%20and%20white%20version)%2C%20and%20more%20NYC",
-      "summary": "three film fests / series. Pulled from The Skint's public article feed: fri thru tues: portraits by an artist: the cinematic visions of julian schnabel: in the hand of dante, lou reed: berlin, the diving bell and the butterfly, basquiat (black and white version), and more. the paris theater (midtown). $17 general, $15 seniors/students."
-    },
-    "skint_88068_27_20th_annual_manhattan_film_festival": {
-      "title": "20th annual manhattan film festival",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-06-12",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 06/12 · thru 6/22",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "cinema village",
-      "source": "The Skint",
-      "link": "https://www.cinemavillage.com/Now-Playing/20th-annual-manhattan-film-festival.html",
-      "map": "https://maps.google.com/?q=cinema%20village%20NYC",
-      "summary": "three film fests / series. Pulled from The Skint's public article feed: fri thru 6/22: 20th annual manhattan film festival: cinema village. various prices."
-    },
-    "skint_88068_28_de_palma_summer_of_suspense": {
-      "title": "de palma: summer of suspense",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-06-12",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 06/12 · thru 6/29",
-      "price": "$17.50",
-      "free": false,
-      "place": "blow out, body double, carlito’s way, carrie, scarface, sisters, the untouchables, and more",
-      "source": "The Skint",
-      "link": "https://movingimage.org/series/de-palma-summer-of-suspense/",
-      "map": "https://maps.google.com/?q=blow%20out%2C%20body%20double%2C%20carlito%E2%80%99s%20way%2C%20carrie%2C%20scarface%2C%20sisters%2C%20the%20untouchables%2C%20and%20more%20NYC",
-      "summary": "three film fests / series. Pulled from The Skint's public article feed: fri thru 6/29: de palma: summer of suspense: blow out, body double, carlito’s way, carrie, scarface, sisters, the untouchables, and more. museum of the moving image (astoria). $17.50 general, $12 seniors/students."
-    },
-    "gary_2026_06_12_ddx_innovation_ux_conference": {
-      "title": "DDX Innovation & UX Conference",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-06-12",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Fri, 06/12 · 9:00am",
-      "price": "$390",
-      "free": false,
-      "place": "Jay Suites, 515 Madison Ave, 10th Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/fucd2ql/DDX-Innovation-UX-Conference",
-      "map": "https://maps.google.com/?q=Jay%20Suites%2C%20515%20Madison%20Ave%2C%2010th%20Fl",
-      "summary": "Gary's Guide: With Marianna Wickman (Dir. UX, Google), Richard Dalton (Head of Design, Verizon), Juliana Guimaraes (Lead UI/UX, TikTok), Catt Small (Product Designer, Dropbox), Setor Zilevu (Researcher, Figma), Scott Robinson (CEO, FreshForm), Firdosh Tangri (CEO, Fantasy)."
-    },
-    "gary_2026_06_12_alpha_nyse_agentic_enterprise_summit": {
-      "title": "Alpha | NYSE - Agentic Enterprise Summit",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-06-12",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 06/12 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/8sgo0z6/Alpha-NYSE-Agentic-Enterprise-Summit",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With John Gerzema (CEO, Harris Poll), Jeff Berman (CEO, WaitWhat), Suzanne Brown (Dir., NYSE), Maryam Banikarim (Dir., OneSpaWorld), Alvin Bowles (Chief Client Officer, Kantar), Dean Ball (Foundation for American Innovation), Deirdre Findlay (Dir., Olaplex)."
-    },
-    "gary_2026_06_12_ai_101": {
-      "title": "AI 101",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-06-12",
-      "time": "3:30 PM",
-      "sort": 15.5,
-      "when": "Fri, 06/12 · 3:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Seahorse Community Classroom, W 15th St W Side, Pier 57",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/2wdg86z/AI-101",
-      "map": "https://maps.google.com/?q=Seahorse%20Community%20Classroom%2C%20W%2015th%20St%20W%20Side%2C%20Pier%2057",
-      "summary": "Gary's Guide: With BetaNYC & Manhattan Boro President's Office."
-    },
-    "gary_2026_06_12_suya_vibes_vibe_coding_workshop_for_the_diaspora": {
-      "title": "Suya & Vibes - Vibe Coding Workshop For The Diaspora",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-06-12",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 06/12 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Narra Collective, 333 Washington St, 3rd Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/7m6nbex/Suya-Vibes-Vibe-Coding-Workshop-For-The-Diaspora",
-      "map": "https://maps.google.com/?q=Narra%20Collective%2C%20333%20Washington%20St%2C%203rd%20Fl",
-      "summary": "Gary's Guide: Come hungry. Leave ready to build. Suya & Vibes is a hands-on AI building workshop for members of the African diaspora & allies who want to turn ideas, projects, & problems into something clearer, sharper, & more buildable. Hosted in partnership with Lovable, this workshop is designed to help emerging builders move from I have an idea to I know what to build next using AI-assisted tools, guided prompts, & community-centered product thinking. This is not a panel. This is not a networking event with laptops as decoration. This is not tech gatekeeping in a cute outfit. This is a focused, beginner-friendly build room. Over two hours, we'll walk through a practical vibe coding process for using AI tools to clarify your idea, shape your next step, & create useful prompts you can keep building with after the event. Bring a messy app idea, business problem, creative project, or somebody should build this thought. You'll leave with clearer direction, practical prompts, & a next-step plan. Expect good food, community, guided building, & a room full of people who are ready to stop overthinking & start making. Who this is for This workshop is for creatives, founders, students, technologists, emerging builders, & allies who are curious about using AI to create digital products, apps, workflows, tools, or experiments. You do not need to be a software engineer. You do not need a polished idea. You do not need to know how to code. You just need curiosity, a laptop, & something you want to explore. What you'll leave with By the end of the workshop, you'll have: A clearer version of your idea, project, or problem A better understanding of how vibe coding works Practical AI prompts you can reuse A simple next-step plan New connections with other diaspora builders & creatives A stronger sense that building with AI is something you're allowed to do, too Event Details Date: Friday, June 12, 2026 Time: 6:00 PM - 8:00 PM Location: Narra Collective Capacity: 25 spots max Food will be part of the experience, so please share any dietary restrictions when you register. What to bring Bring your laptop, charger, & an idea you want to work through. It can be rough, weird, ambitious, tiny, chaotic, half-baked, or currently living rent-free in your Notes app. Perfect is not required. Actually, perfect is banned at the door. Culture. Code. Community. Creative Technology."
-    },
-    "gary_2026_06_12_ai_safety_k_12_raising_children_in_age_of_ai": {
-      "title": "AI Safety & K-12 - Raising Children In Age Of AI",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-06-12",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 06/12 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/hrnib16/AI-Safety-K-12-Raising-Children-In-Age-Of-AI",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With David Siffert (NY Assembly Candidate for District 66), Marisa Zalabak (Chair, AI Ethics Education), Hilke Schellmann (Prof. Journalism, NYU), Shannon Edwards (Author, Ultimate Guide To Mastering AI)."
     },
     "gary_2026_06_13_ai_product_mgmt_demos": {
       "title": "AI Product Mgmt & Demos",
@@ -1672,108 +1519,6 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
-    "jc_culture_36489_2026_06_13_2nd_annual_5k_walk_run_for_dementia_awareness_2026": {
-      "title": "2nd Annual 5K Walk & Run for Dementia Awareness 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sat",
-      "date": "2026-06-13",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 06/13 · 10am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Lincoln Park, 1 County Rd 605, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/2nd-annual-5k-walk-run-for-dementia-awareness-2026/",
-      "map": "https://maps.google.com/?q=Lincoln%20Park%2C%201%20County%20Rd%20605%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor What's Coming Up?."
-    },
-    "jc_culture_37266_2026_06_13_team_walker_farmers_market_2026": {
-      "title": "Team Walker Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-06-13",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 06/13 · 10am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "TEAM WALKER LEARNING CENTER, 373 COMMUNIPAW AVE., JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/team-walker-farmers-market-2026-4/",
-      "map": "https://maps.google.com/?q=TEAM%20WALKER%20LEARNING%20CENTER%2C%20373%20COMMUNIPAW%20AVE.%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
-    },
-    "jc_culture_36667_2026_06_13_3rd_annual_jersey_city_black_comic_con_2026": {
-      "title": "3rd Annual Jersey City Black Comic Con 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-06-13",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 06/13 · 11am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Mary McLeod Bethune Life Center, 140 Martin Luther King Drive, Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/3rd-annual-jersey-city-black-comic-con-2026/",
-      "map": "https://maps.google.com/?q=Mary%20McLeod%20Bethune%20Life%20Center%2C%20140%20Martin%20Luther%20King%20Drive%2C%20Jersey%20City",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Literature & Education Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_39819_2026_06_13_cofa_presents_spring_recital_a_midsummer_breeze_2026": {
-      "title": "COFA Presents Spring Recital A Midsummer Breeze 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-06-13",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 06/13 · 11am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Priscilla Gardner Main Library, 472 JERSEY AVE., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/cofa-presents-spring-recital-a-midsummer-breeze-2026/",
-      "map": "https://maps.google.com/?q=Priscilla%20Gardner%20Main%20Library%2C%20472%20JERSEY%20AVE.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_38745_2026_06_13_drum_create_connect_and_grow_2026": {
-      "title": "Drum, Create, Connect and Grow 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sat",
-      "date": "2026-06-13",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 06/13 · 1pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Riverview Fisk Park, 498 Palisade Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/drum-create-connect-and-grow-2026-2/",
-      "map": "https://maps.google.com/?q=Riverview%20Fisk%20Park%2C%20498%20Palisade%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor."
-    },
-    "jc_culture_10004637_2026_06_13_jersey_city_comedy_festival_2026": {
-      "title": "Jersey City Comedy Festival 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-06-13",
-      "time": "8:30 PM",
-      "sort": 20.5,
-      "when": "Sat, 06/13 · 8:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-comedy-festival-2026/2026-06-13/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "The 2026 Jersey City Comedy Festival Tuesday, June 9th – Saturday June 13th, 2026 June 9th, 10th, 12th, 13th: Art House Productions – 345 Marin Boulevard, Jersey City, NJ 07302 June 11th: Dorrian’s Red Hand – 555 Washington Blvd, Jersey City, NJ 07310 The Jersey City Comedy Festival returns June 2026! Enjoy five days of laugh out loud comedy right here in Jersey City. Kicking off the festival we have two headlining performances on June 9th and June 10th at Art House Productions. Watch as selected stand-up comedians compete from June 11th through June 12th. Two winners from four competitions will move on to the FINAL Best of the Fest competition on June 13th, where an Industry Winner and an Audience Pick Winner will be crowned Best of the Fest. The winners will receive cash prizes and spots at major comedy clubs."
-    },
     "jc_culture_39679_2026_06_14_tycoon_dog_free_all_ages_concert_at_exchange_place_p": {
       "title": "Tycoon Dog – Free All-Ages Concert at Exchange Place Plaza 2026",
       "type": "entertainment",
@@ -2385,6 +2130,23 @@
       "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-interstellar/",
       "map": "https://maps.google.com/?q=Ercel%20Webb%20Park%2C%20124%20Lafayette%20Street%2C%20Jersey%20City%2C%20NJ",
       "summary": "Ercel Webb Park featuring Interstellar at sunset"
+    },
+    "jc_culture_10003559_2026_07_15_hamilton_park_farmers_market_2026": {
+      "title": "Hamilton Park Farmers Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-07-15",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 07/15 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-07-15/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     }
   },
   "clusters": {
@@ -2397,65 +2159,43 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_06_12_7_pm": [
-      "wmi_percussion",
-      "skint_88068_0_queens_world_film_festival_and_fth_present_prideful_"
-    ],
     "cluster_2026_06_13_11_am": [
-      "skint_88068_1_brooklyn_pride",
-      "skint_88068_9_nyc_public_library_art_propaganda_fair",
-      "skint_88068_10_the_meatpacking_district_s_summer_goals",
-      "skint_88068_11_20th_annual_hare_krishna_parade_festival",
-      "skint_88068_12_schomburg_centennial_festival",
-      "jc_culture_36667_2026_06_13_3rd_annual_jersey_city_black_comic_con_2026",
-      "jc_culture_39819_2026_06_13_cofa_presents_spring_recital_a_midsummer_breeze_2026"
+      "skint_88068_0_brooklyn_pride",
+      "skint_88068_8_nyc_public_library_art_propaganda_fair",
+      "skint_88068_9_the_meatpacking_district_s_summer_goals",
+      "skint_88068_10_20th_annual_hare_krishna_parade_festival",
+      "skint_88068_11_schomburg_centennial_festival"
     ],
     "cluster_2026_06_14_12_pm": [
-      "skint_88068_4_pioneer_works_second_sundays_second_annual_mini_ball",
-      "skint_88068_22_i_am_caribbeing_one_love_fest",
+      "skint_88068_3_pioneer_works_second_sundays_second_annual_mini_ball",
+      "skint_88068_21_i_am_caribbeing_one_love_fest",
       "gary_2026_06_14_women_founders_brunch"
     ],
     "cluster_2026_06_14_1_pm": [
-      "skint_88068_5_erotic_art_bazaar_pride_edition",
-      "skint_88068_23_jalopy_folk_school_music_festival",
+      "skint_88068_4_erotic_art_bazaar_pride_edition",
+      "skint_88068_22_jalopy_folk_school_music_festival",
       "jc_culture_39679_2026_06_14_tycoon_dog_free_all_ages_concert_at_exchange_place_p"
     ],
     "cluster_2026_06_13_10_am": [
-      "skint_88068_7_41st_annual_116th_street_festival",
-      "skint_88068_8_romania_day_on_broadway_festival",
-      "skint_88068_18_vinylcon_nyc",
-      "jc_culture_36489_2026_06_13_2nd_annual_5k_walk_run_for_dementia_awareness_2026",
-      "jc_culture_37266_2026_06_13_team_walker_farmers_market_2026"
+      "skint_88068_6_41st_annual_116th_street_festival",
+      "skint_88068_7_romania_day_on_broadway_festival",
+      "skint_88068_17_vinylcon_nyc"
     ],
     "cluster_2026_06_13_12_pm": [
-      "skint_88068_13_brooklyn_art_supply_swap",
-      "skint_88068_14_second_nature_second_hand_found_in_the_wild_vintage_"
+      "skint_88068_12_brooklyn_art_supply_swap",
+      "skint_88068_13_second_nature_second_hand_found_in_the_wild_vintage_"
     ],
     "cluster_2026_06_13_3_pm": [
-      "skint_88068_15_a_third_place_block_party",
-      "skint_88068_17_the_aussie_bbq_australian_music_fest"
-    ],
-    "cluster_2026_06_13_1_pm": [
-      "skint_88068_16_carefreeblackgirl_cookout_brooklyn",
-      "jc_culture_38745_2026_06_13_drum_create_connect_and_grow_2026"
+      "skint_88068_14_a_third_place_block_party",
+      "skint_88068_16_the_aussie_bbq_australian_music_fest"
     ],
     "cluster_2026_06_14_11_am": [
-      "skint_88068_20_the_69th_annual_national_puerto_rican_day_parade",
-      "skint_88068_21_brooklyn_horror_society_x_the_twisted_spine_present_"
+      "skint_88068_19_the_69th_annual_national_puerto_rican_day_parade",
+      "skint_88068_20_brooklyn_horror_society_x_the_twisted_spine_present_"
     ],
     "cluster_2026_06_14_4_pm": [
-      "skint_88068_24_fifth_annual_queens_irish_heritage_festival",
+      "skint_88068_23_fifth_annual_queens_irish_heritage_festival",
       "jc_culture_37844_2026_06_14_north_river_sing_spring_concert"
-    ],
-    "cluster_2026_06_12_10_am": [
-      "skint_88068_26_portraits_by_an_artist_the_cinematic_visions_of_juli",
-      "gary_2026_06_12_alpha_nyse_agentic_enterprise_summit"
-    ],
-    "cluster_2026_06_12_6_pm": [
-      "skint_88068_27_20th_annual_manhattan_film_festival",
-      "skint_88068_28_de_palma_summer_of_suspense",
-      "gary_2026_06_12_suya_vibes_vibe_coding_workshop_for_the_diaspora",
-      "gary_2026_06_12_ai_safety_k_12_raising_children_in_age_of_ai"
     ],
     "cluster_2026_06_13_2_pm": [
       "gary_2026_06_13_ai_product_mgmt_demos",
