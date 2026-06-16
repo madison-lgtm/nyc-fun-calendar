@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 15, 2026, 6:01 PM EDT",
+    "checked": "Jun 16, 2026, 11:49 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-06-15",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Jun 15"
-      },
       {
         "iso": "2026-06-16",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Jun 21"
+      },
+      {
+        "iso": "2026-06-22",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Jun 22"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-06-15",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Jun 15"
-      },
       {
         "iso": "2026-06-16",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Jul 15"
+      },
+      {
+        "iso": "2026-07-16",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Jul 16"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "7 AM",
       "8 AM",
@@ -451,175 +451,56 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_88068_0_pioneer_works_second_sundays_second_annual_mini_ball": {
-      "title": "pioneer works second sundays: second annual ‘mini ball’ pride edition",
+    "skint_88167_0_dog_drag_show_pride_costume_contest": {
+      "title": "dog drag show pride costume contest",
       "type": "weird",
       "label": "Weird / Social",
-      "day": "Sun",
-      "date": "2026-06-14",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 06/14 · 12-7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "(monthly): : pioneer works (red hook)",
-      "source": "The Skint",
-      "link": "https://pioneerworks.org/programs/second-sundays-june-2026",
-      "map": "https://maps.google.com/?q=(monthly)%3A%20%3A%20pioneer%20works%20(red%20hook)%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-7pm: (monthly): pioneer works second sundays: second annual ‘mini ball’ pride edition: pioneer works (red hook)."
-    },
-    "skint_88068_1_erotic_art_bazaar_pride_edition": {
-      "title": "erotic art bazaar: pride edition",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-06-14",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 06/14 · 1pm-7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "the walker loft (chinatown)",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/erotic-art-bazaar-pride-edition-tickets-1988862418031",
-      "map": "https://maps.google.com/?q=the%20walker%20loft%20(chinatown)%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1pm-7pm: erotic art bazaar: pride edition: the walker loft (chinatown)."
-    },
-    "skint_88068_2_everybooty_pride_party_2026": {
-      "title": "everybooty pride party 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-06-14",
+      "day": "Thu",
+      "date": "2026-06-18",
       "time": "6 PM",
       "sort": 18,
-      "when": "Sun, 06/14 · 6-11pm",
-      "price": "$30",
+      "when": "Thu, 06/18 · 6pm doors",
+      "price": "$22",
       "free": false,
-      "place": "brooklyn academy of music (fort greene)",
+      "place": "9 bob note @ 3 dollar bill (east williamsburg), $22",
       "source": "The Skint",
-      "link": "https://www.bam.org/everybooty",
-      "map": "https://maps.google.com/?q=brooklyn%20academy%20of%20music%20(fort%20greene)%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 6-11pm: everybooty pride party 2026: brooklyn academy of music (fort greene). $30."
+      "link": "https://www.3dollarbillbk.com/rsvp/2026/6/18/dog-drag-show-pride-costume-contest",
+      "map": "https://maps.google.com/?q=9%20bob%20note%20%40%203%20dollar%20bill%20(east%20williamsburg)%2C%20%2422%20NYC",
+      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 6pm doors: dog drag show pride costume contest: 9 bob note @ 3 dollar bill (east williamsburg), $22."
     },
-    "skint_88068_3_the_lay_out_s_sixth_annual_juneteenth_celebration_th": {
-      "title": "the lay out’s sixth annual juneteenth celebration: the joy of play",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-06-14",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 06/14 · 10am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "fort green park",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/thelayoutco/",
-      "map": "https://maps.google.com/?q=fort%20green%20park%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm: the lay out’s sixth annual juneteenth celebration: the joy of play: fort green park."
-    },
-    "skint_88068_4_the_69th_annual_national_puerto_rican_day_parade": {
-      "title": "the 69th annual national puerto rican day parade",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-06-14",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 06/14 · 11am-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "fifth ave from 44th street to 79th street (manhattan)",
-      "source": "The Skint",
-      "link": "https://patch.com/new-york/upper-east-side-nyc/puerto-rican-day-parade-returns-ues-weekend-what-know",
-      "map": "https://maps.google.com/?q=fifth%20ave%20from%2044th%20street%20to%2079th%20street%20(manhattan)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-5pm: the 69th annual national puerto rican day parade: fifth ave from 44th street to 79th street (manhattan)."
-    },
-    "skint_88068_5_brooklyn_horror_society_x_the_twisted_spine_present_": {
-      "title": "brooklyn horror society x the twisted spine present: summerween market",
-      "type": "weird",
-      "label": "Weird / Social",
-      "day": "Sun",
-      "date": "2026-06-14",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 06/14 · 11am-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "the twisted spine (williamsburg)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/p/DX9hPPCjTlu/?img_index=1",
-      "map": "https://maps.google.com/?q=the%20twisted%20spine%20(williamsburg)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-5pm: brooklyn horror society x the twisted spine present: summerween market: the twisted spine (williamsburg)."
-    },
-    "skint_88068_6_i_am_caribbeing_one_love_fest": {
-      "title": "i am caribbeing one love fest",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-06-14",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 06/14 · 12-7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "prospect park boathouse",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/one-love-fest-tickets-1985478003155",
-      "map": "https://maps.google.com/?q=prospect%20park%20boathouse%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-7pm: i am caribbeing one love fest: prospect park boathouse."
-    },
-    "skint_88068_7_jalopy_folk_school_music_festival": {
-      "title": "jalopy folk school music festival",
+    "skint_88167_1_alfreda_s_cinema_presents_the_learning_tree_the_boys": {
+      "title": "alfreda’s cinema, presents the learning tree + the boys and the bees",
       "type": "entertainment",
       "label": "Music / Movies",
-      "day": "Sun",
-      "date": "2026-06-14",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 06/14 · 1-7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "part of open streets at jalopy theater (columbia street waterfront district)",
-      "source": "The Skint",
-      "link": "https://www.viewcy.com/event/jalopy_folk_school_mu_2",
-      "map": "https://maps.google.com/?q=part%20of%20open%20streets%20at%20jalopy%20theater%20(columbia%20street%20waterfront%20district)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-7pm: jalopy folk school music festival: part of open streets at jalopy theater (columbia street waterfront district)."
-    },
-    "skint_88068_8_fifth_annual_queens_irish_heritage_festival": {
-      "title": "fifth annual queens irish heritage festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-06-14",
+      "day": "Thu",
+      "date": "2026-06-18",
       "time": "4 PM",
       "sort": 16,
-      "when": "Sun, 06/14 · 4pm-9pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "culture lab lic",
+      "when": "Thu, 06/18 · 4-11pm",
+      "price": "$15 suggested",
+      "free": false,
+      "place": "prospect park boathouse",
       "source": "The Skint",
-      "link": "https://www.newyorkirishcenter.org/events/2026/6/13/5th-annual-queens-irish-heritage-festival",
-      "map": "https://maps.google.com/?q=culture%20lab%20lic%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 4pm-9pm: fifth annual queens irish heritage festival: culture lab lic."
+      "link": "https://www.eventbrite.com/e/alfredas-cinema-presents-the-learning-tree-1969-the-boys-and-the-bees-tickets-1987001371591",
+      "map": "https://maps.google.com/?q=prospect%20park%20boathouse%20NYC",
+      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 4-11pm: alfreda’s cinema, presents the learning tree + the boys and the bees: prospect park boathouse. $15 suggested donation."
     },
-    "skint_88068_9_10th_annual_sunset_park_puerto_rican_parade_festival": {
-      "title": "10th annual sunset park puerto rican parade + festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-06-14",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Sun, 06/14 · 5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "fifth ave from 59th street to 43rd street (sunset park)",
+    "skint_88167_2_beyond_the_black_box_presents_juneteenth_dance_party": {
+      "title": "beyond the black box presents: juneteenth dance party + cookout",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Thu",
+      "date": "2026-06-18",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Thu, 06/18 · 10pm",
+      "price": "$10",
+      "free": false,
+      "place": "house of yes (bushwick), $10 adv, $20 door",
       "source": "The Skint",
-      "link": "https://www.facebook.com/SunsetParkPRparade/",
-      "map": "https://maps.google.com/?q=fifth%20ave%20from%2059th%20street%20to%2043rd%20street%20(sunset%20park)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 5pm: 10th annual sunset park puerto rican parade + festival: fifth ave from 59th street to 43rd street (sunset park)."
+      "link": "https://www.houseofyes.org/calendar",
+      "map": "https://maps.google.com/?q=house%20of%20yes%20(bushwick)%2C%20%2410%20adv%2C%20%2420%20door%20NYC",
+      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 10pm: beyond the black box presents: juneteenth dance party + cookout: house of yes (bushwick), $10 adv, $20 door."
     },
     "gary_2026_06_16_ai_security_battleground_threats_defenses": {
       "title": "AI Security Battleground - Threats & Defenses",
@@ -1386,23 +1267,6 @@
       "map": "https://maps.google.com/?q=Candid%2C%2032%20Old%20Slip",
       "summary": "Gary's Guide: All Tech Is Human (ATIH), in partnership with the Notre Dame-IBM Tech Ethics Lab, will host a two-part workshop series focused on perceptions, adoption, & experience with Agentic AI systems across the workforce. Led by Jen Weedon, ATIH Braintrust member, this series aims to surface both strategic & lived insights from across organizational levels, generating a more holistic set of data points to inform responsible research & practice in the enterprise space. On Tuesday, July 14, the conversation moves toward organizational leadership & governance. We will bring together 20-30 senior executives who are currently standing at the crossroads of automation. Whether you are navigating the complexities of adoption, facing regulatory bottlenecks, dealing with internal reorgs or downsizing, and/or weighing the decision to automate core processes, this executive roundtable offers a high-level forum to discuss the ethics of efficiency & the push towards AI-first or AI-native transformations. This workshop aims to surface the process, knowledge, tensions, & skill gaps. Together, we will explore how leadership can drive innovation while maintaining the trust & integrity essential to the modern enterprise. Express your interest below. This workshop will be four hours long. The workshop series will explore how different types of organizations are approaching Agentic AI - from those whose systems are already deployed, to those preparing for rollout, to those still in exploratory phases. By comparing lived experiences with Agentic AI to expectations across roles & organizational contexts, the workshops will surface concerns, decision-making realities, & unintended consequences. The goal is to understand better the dynamics shaping acute & sustained adoption, governance, & the cascading effects on the workforce. Day 2: Agentic AI from the Leadership Perspective (Organizational & Ecosystem Leaders) Agenda forthcoming"
     },
-    "luma_2026_06_15_sport_business_event_2026": {
-      "title": "Sport Business Event 2026",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-06-15",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Mon, 06/15 · 8pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/jktuv5t0",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Audrey Cabald, Audrey Cabald, FERCHAL, Céline Hediard, Marie Jagu"
-    },
     "luma_2026_06_16_inference_in_the_clouds_a_rooftop_happy_hour_at_aws_": {
       "title": "Inference in the Clouds: A Rooftop Happy Hour at AWS Summit",
       "type": "tech",
@@ -1437,22 +1301,22 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Girlies in Tech Dinner Parties, Jordyn Harrison"
     },
-    "nyu_tandon_2026_06_15_cryoelectronics_for_scalable_ion_trap_quantum_contro": {
-      "title": "Cryoelectronics for Scalable Ion-Trap Quantum Control",
+    "luma_2026_06_18_untitled_series_craft_and_code": {
+      "title": "[untitled] series // Craft and Code",
       "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Mon",
-      "date": "2026-06-15",
-      "time": "2:30 PM",
-      "sort": 14.5,
-      "when": "Mon, 06/15 · 2:30 PM",
-      "price": "Free / varies",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-06-18",
+      "time": "11 PM",
+      "sort": 23,
+      "when": "Thu, 06/18 · 11pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/06/15/cryoelectronics-scalable-ion-trap-quantum-control",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
+      "place": "Brooklyn, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/a5wzaobn",
+      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
+      "summary": "Luma NYC: Sol Silbenberg, Sol Silbenberg, Mary Petrino"
     },
     "jc_culture_37887_2026_06_16_movies_in_the_park_2026_wicked_for_good": {
       "title": "Movies in the Park 2026 / Wicked for Good",
@@ -1656,7 +1520,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/bergen-square-welcomes-the-world/",
       "map": "https://maps.google.com/?q=BERGEN%20SQUARE%2C%20BERGEN%20SQUARE%20%26%20ACAMDEMY%20ST%2C%20JERSEY%20CITY",
-      "summary": "This multicultural community event will celebrate global unity through sport, culture, food, and local business engagement. Centered around a live broadcast of the World Cup match between Egypt and New Zealand, the activation will transform Bergen Square into a vibrant cultural hub highlighting Egyptian heritage and the broader Middle Eastern community."
+      "summary": "This multicultural community event will celebrate global unity through sport, culture, food, and local business engagement. Centered around a live broadcast of the World Cup match between Egypt and New Zealand, the activation will transform Bergen Square into a vibrant cultural hub highlighting Egyptian heritage and the broader Middle Eastern community. Allowed/Prohibited items for Event Allowed Cash and debit card for food and drinks. Clear bags for belongings. All bags are subject to search. Smiles and extra fun! Not Allowed No alcoholic beverages or illegal drugs. No bags or backpacks that are not see-through. No coolers, chairs or umbrellas. No drones. No balloons or kites. No fireworks. No spray paint. NO WEAPONS, including firearms, knives, nunchucks, explosives, any dual-use items that could be used to harm someone. Please keep our community safe! Note that any items you bring to Bergen Square Welcomes the World could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
     },
     "jc_culture_10003556_2026_06_24_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -2128,17 +1992,9 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_06_14_12_pm": [
-      "skint_88068_0_pioneer_works_second_sundays_second_annual_mini_ball",
-      "skint_88068_6_i_am_caribbeing_one_love_fest"
-    ],
-    "cluster_2026_06_14_1_pm": [
-      "skint_88068_1_erotic_art_bazaar_pride_edition",
-      "skint_88068_7_jalopy_folk_school_music_festival"
-    ],
-    "cluster_2026_06_14_11_am": [
-      "skint_88068_4_the_69th_annual_national_puerto_rican_day_parade",
-      "skint_88068_5_brooklyn_horror_society_x_the_twisted_spine_present_"
+    "cluster_2026_06_18_6_pm": [
+      "skint_88167_0_dog_drag_show_pride_costume_contest",
+      "gary_2026_06_18_craft_code"
     ],
     "cluster_2026_06_16_6_pm": [
       "gary_2026_06_16_aws_summit_welcome_party_agents_at_scale",
