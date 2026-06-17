@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jun 17, 2026, 10:24 AM EDT",
+    "checked": "Jun 17, 2026, 5:30 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -502,74 +502,6 @@
       "map": "https://maps.google.com/?q=house%20of%20yes%20(bushwick)%2C%20%2410%20adv%2C%20%2420%20door%20NYC",
       "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 10pm: beyond the black box presents: juneteenth dance party + cookout: house of yes (bushwick), $10 adv, $20 door."
     },
-    "gary_2026_06_16_ai_security_battleground_threats_defenses": {
-      "title": "AI Security Battleground - Threats & Defenses",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-06-16",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Tue, 06/16 · 5:00pm",
-      "price": "Varies",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/98hpyre/AI-Security-Battleground-Threats-Defenses",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: AI is creating entirely new attack surfaces - from prompt injection & data poisoning to autonomous agent misbehavior & system-level exploits. The AI Security Battleground brings together security leaders, red-teamers, & AI architects to map out the threats emerging as AI systems become more powerful & more embedded across the enterprise. Expect practical insights, hard-won lessons, & a clear view of the defenses required to secure the next era of AI deployments. Want to stay ahead of the threats targeting modern AI systems? Join the security, red-teaming, & AI leaders redefining defense strategy."
-    },
-    "gary_2026_06_16_voice_agents_workshop_no_coding_skills": {
-      "title": "Voice Agents Workshop - No Coding Skills",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-06-16",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Tue, 06/16 · 5:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/rjbl6da/Voice-Agents-Workshop-No-Coding-Skills",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Let's build Voice & Text conversational agents in an evening - connect them with data, & deploy on Phone, Web, or WhatsApp. Agents that keep a memory of your customers/users, answer questions, solve their problems, & hand off to a human when things get complex. This is a hands-on workshop to build agents. You don't need prior coding experience but you need to be familiar with Claude & have a pro subscription. Agenda: a. Learn the basics of Agent Building - like Context, memory, RAG. b. Connect your agent to your own data & knowledge base c. Add memory so your agent remembers past conversations for each customer or user separately. d. Clone your own voice - to use in the agent, or pick voices from different providers like Elevenlabs, Microsoft Azure, Cartesia. e. Deploy your agent live on Phone, Web, or WhatsApp f. Learn how to test your agents for hallucinations, or inaccuracies g. Set up smart human hand-off for tricky cases h. Networking over pizza & drinks Who it's for: Founders, product managers folks, support teams, & anyone curious about AI - whether or not you write code. What you'll leave with: A working conversational demo agent you built yourself, ready to share & improve upon. $100 in platform credits from Chanl team to continue building & improving your agents. Have questions? Join our WhatsApp group for questions & staying in touch for future events https://chat.whatsapp.com/GmYnOkJqKQB0xOs5P46NO2"
-    },
-    "gary_2026_06_16_aws_summit_welcome_party_agents_at_scale": {
-      "title": "AWS Summit Welcome Party - Agents At Scale",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-06-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 06/16 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Miss Nellie's, 321 W 44th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/zqa5xky/AWS-Summit-Welcome-Party-Agents-At-Scale",
-      "map": "https://maps.google.com/?q=Miss%20Nellie's%2C%20321%20W%2044th%20St",
-      "summary": "Gary's Guide: With Zhou Yu (Founder/CEO, Arklex AI)."
-    },
-    "gary_2026_06_16_inference_in_the_clouds_rooftop_happy_hour": {
-      "title": "Inference In The Clouds - Rooftop Happy Hour",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-06-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 06/16 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Bar Cima, 30 W 39th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/1hmvl3n/Inference-In-The-Clouds-Rooftop-Happy-Hour",
-      "map": "https://maps.google.com/?q=Bar%20Cima%2C%2030%20W%2039th%20St",
-      "summary": "Gary's Guide: Join us above the city for an evening of drinks, views, & real talk on AI. Baseten is hosting a rooftop happy hour during AWS Summit for ML engineers, AI founders, & technical leaders building on modern inference stacks. Whether you're scaling production workloads, exploring open-source models, or figuring out what \"cost-efficient inference\" actually looks like in practice, this is a good room to be in. Come for the cocktails. Stay for the conversations. About Baseten Baseten - the lightning-fast, highly reliable, & massively scalable production inference platform. In the inference world, speed = money, & Baseten is the fastest inference platform out there. See how Zed & Amp are making every millisecond count."
-    },
     "gary_2026_06_17_amazon_aws_summit": {
       "title": "Amazon AWS Summit",
       "type": "tech",
@@ -1012,6 +944,23 @@
       "map": "https://maps.google.com/?q=The%20Refinery%20at%20Domino%2C%20300%20Kent%20Ave%2C%20Brooklyn",
       "summary": "Gary's Guide: NYC AI Demos returns to The Refinery at Domino on June 24 for its tenth installment for one more can't-miss evening before we break for summer. This special edition features a hand-picked lineup of fast-growing startups selected by some of New York's most influential venture firms: Thrive Capital, First Round Capital, Index Ventures, Inspired Capital, Able Partners, & more - firms that collectively manage more than $60 billion in assets & have backed some of the defining companies of the last decade. As always, expect live demos, sharp conversations, & a room full of founders, investors, engineers, & operators from across New York's tech ecosystem. Space is limited."
     },
+    "gary_2026_06_24_ai_at_the_decision_layer_from_pilot_to_production": {
+      "title": "AI At The Decision Layer - From Pilot To Production",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-06-24",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 06/24 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, 399 Park Ave, 11th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/wuhxtx0/AI-At-The-Decision-Layer-From-Pilot-To-Production",
+      "map": "https://maps.google.com/?q=Venue%2C%20399%20Park%20Ave%2C%2011th%20Fl",
+      "summary": "Gary's Guide: With Eli Wachs (Co-Founder/CEO, Footprint), Sasha Pilch (Co-Founder, GTM Guild), Elias Rothblatt (Dir. Ops, Public), Saravana Kumar (CTO, Authentic), Sarah Dreyer (CIO, Savills)."
+    },
     "gary_2026_06_24_founder_dinner": {
       "title": "Founder Dinner",
       "type": "startup",
@@ -1266,6 +1215,57 @@
       "link": "https://www.garysguide.com/events/zdbzqk1/Understanding-Work-Agency-Stewardship-In-Age-Of-Generative-Agentic-AI",
       "map": "https://maps.google.com/?q=Candid%2C%2032%20Old%20Slip",
       "summary": "Gary's Guide: All Tech Is Human (ATIH), in partnership with the Notre Dame-IBM Tech Ethics Lab, will host a two-part workshop series focused on perceptions, adoption, & experience with Agentic AI systems across the workforce. Led by Jen Weedon, ATIH Braintrust member, this series aims to surface both strategic & lived insights from across organizational levels, generating a more holistic set of data points to inform responsible research & practice in the enterprise space. On Tuesday, July 14, the conversation moves toward organizational leadership & governance. We will bring together 20-30 senior executives who are currently standing at the crossroads of automation. Whether you are navigating the complexities of adoption, facing regulatory bottlenecks, dealing with internal reorgs or downsizing, and/or weighing the decision to automate core processes, this executive roundtable offers a high-level forum to discuss the ethics of efficiency & the push towards AI-first or AI-native transformations. This workshop aims to surface the process, knowledge, tensions, & skill gaps. Together, we will explore how leadership can drive innovation while maintaining the trust & integrity essential to the modern enterprise. Express your interest below. This workshop will be four hours long. The workshop series will explore how different types of organizations are approaching Agentic AI - from those whose systems are already deployed, to those preparing for rollout, to those still in exploratory phases. By comparing lived experiences with Agentic AI to expectations across roles & organizational contexts, the workshops will surface concerns, decision-making realities, & unintended consequences. The goal is to understand better the dynamics shaping acute & sustained adoption, governance, & the cascading effects on the workforce. Day 2: Agentic AI from the Leadership Perspective (Organizational & Ecosystem Leaders) Agenda forthcoming"
+    },
+    "gary_2026_07_17_ai_engineers_game_night": {
+      "title": "AI Engineers - Game Night",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-07-17",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Fri, 07/17 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/4pwp82h/AI-Engineers-Game-Night",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Night of Smash Bros, Mario Kart, board games & good conversation."
+    },
+    "gary_2026_07_22_build_ai_systems_that_scale_at_amd_advancing_ai_2026": {
+      "title": "Build AI Systems That Scale At AMD Advancing AI 2026",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-22",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Wed, 07/22 · 11:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Moscone Center, 747 Howard St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/7ims3x7/Build-AI-Systems-That-Scale-At-AMD-Advancing-AI-2026",
+      "map": "https://maps.google.com/?q=Moscone%20Center%2C%20747%20Howard%20St",
+      "summary": "Gary's Guide: Join AMD Advancing AI for hands-on workshops. Learn from AMD & open-source maintainers, then build & run real workloads yourself."
+    },
+    "gary_2026_07_23_ai_engineers_devs_drinks": {
+      "title": "AI Engineers - Devs & Drinks",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-23",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 07/23 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/0ynu2hw/AI-Engineers-Devs-Drinks",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Drinks, games & hanging out w/ engg peers."
     },
     "luma_2026_06_17_the_product_table_nyc_one_night_only_tech_product_de": {
       "title": "The product table NYC | one-night only Tech, Product & Design Dinner",
@@ -2030,10 +2030,6 @@
       "skint_88167_0_dog_drag_show_pride_costume_contest",
       "gary_2026_06_18_craft_code"
     ],
-    "cluster_2026_06_16_6_pm": [
-      "gary_2026_06_16_aws_summit_welcome_party_agents_at_scale",
-      "gary_2026_06_16_inference_in_the_clouds_rooftop_happy_hour"
-    ],
     "cluster_2026_06_17_6_pm": [
       "gary_2026_06_17_building_ai_agents_w_n8n",
       "gary_2026_06_17_music_tech_capital_where_investors_are_placing_their",
@@ -2057,7 +2053,8 @@
     ],
     "cluster_2026_06_24_6_pm": [
       "gary_2026_06_24_ai_engineers_presents_founders_to_follow",
-      "gary_2026_06_24_nyc_ai_demos"
+      "gary_2026_06_24_nyc_ai_demos",
+      "gary_2026_06_24_ai_at_the_decision_layer_from_pilot_to_production"
     ],
     "cluster_2026_06_24_6_30_pm": [
       "gary_2026_06_24_founder_dinner",
