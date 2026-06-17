@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 16, 2026, 6:01 PM EDT",
+    "checked": "Jun 17, 2026, 10:24 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-06-16",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Jun 16"
-      },
       {
         "iso": "2026-06-17",
         "key": "Wed",
@@ -45,15 +39,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Jun 22"
+      },
+      {
+        "iso": "2026-06-23",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Jun 23"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-06-16",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Jun 16"
-      },
       {
         "iso": "2026-06-17",
         "key": "Wed",
@@ -233,9 +227,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Jul 16"
+      },
+      {
+        "iso": "2026-07-17",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Jul 17"
       }
     ],
-    "todayKey": "Tue",
+    "todayKey": "Wed",
     "times": [
       "7 AM",
       "8 AM",
@@ -1267,23 +1267,6 @@
       "map": "https://maps.google.com/?q=Candid%2C%2032%20Old%20Slip",
       "summary": "Gary's Guide: All Tech Is Human (ATIH), in partnership with the Notre Dame-IBM Tech Ethics Lab, will host a two-part workshop series focused on perceptions, adoption, & experience with Agentic AI systems across the workforce. Led by Jen Weedon, ATIH Braintrust member, this series aims to surface both strategic & lived insights from across organizational levels, generating a more holistic set of data points to inform responsible research & practice in the enterprise space. On Tuesday, July 14, the conversation moves toward organizational leadership & governance. We will bring together 20-30 senior executives who are currently standing at the crossroads of automation. Whether you are navigating the complexities of adoption, facing regulatory bottlenecks, dealing with internal reorgs or downsizing, and/or weighing the decision to automate core processes, this executive roundtable offers a high-level forum to discuss the ethics of efficiency & the push towards AI-first or AI-native transformations. This workshop aims to surface the process, knowledge, tensions, & skill gaps. Together, we will explore how leadership can drive innovation while maintaining the trust & integrity essential to the modern enterprise. Express your interest below. This workshop will be four hours long. The workshop series will explore how different types of organizations are approaching Agentic AI - from those whose systems are already deployed, to those preparing for rollout, to those still in exploratory phases. By comparing lived experiences with Agentic AI to expectations across roles & organizational contexts, the workshops will surface concerns, decision-making realities, & unintended consequences. The goal is to understand better the dynamics shaping acute & sustained adoption, governance, & the cascading effects on the workforce. Day 2: Agentic AI from the Leadership Perspective (Organizational & Ecosystem Leaders) Agenda forthcoming"
     },
-    "luma_2026_06_16_inference_in_the_clouds_a_rooftop_happy_hour_at_aws_": {
-      "title": "Inference in the Clouds: A Rooftop Happy Hour at AWS Summit",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-06-16",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Tue, 06/16 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "Bar Cima",
-      "source": "Luma NYC",
-      "link": "https://luma.com/pltoftee",
-      "map": "https://maps.google.com/?q=Bar%20Cima%20NYC",
-      "summary": "Luma NYC: Baseten Events, Baseten"
-    },
     "luma_2026_06_17_the_product_table_nyc_one_night_only_tech_product_de": {
       "title": "The product table NYC | one-night only Tech, Product & Design Dinner",
       "type": "startup",
@@ -1317,23 +1300,6 @@
       "link": "https://luma.com/a5wzaobn",
       "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
       "summary": "Luma NYC: Sol Silbenberg, Sol Silbenberg, Mary Petrino"
-    },
-    "jc_culture_37887_2026_06_16_movies_in_the_park_2026_wicked_for_good": {
-      "title": "Movies in the Park 2026 / Wicked for Good",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Tue",
-      "date": "2026-06-16",
-      "time": "8:30 PM",
-      "sort": 20.5,
-      "when": "Tue, 06/16 · 8:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "THOMAS MCGOVERN PARK, 40 Sycamore Rd, JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-wicked-for-good/",
-      "map": "https://maps.google.com/?q=THOMAS%20MCGOVERN%20PARK%2C%2040%20Sycamore%20Rd%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "Thomas McGovern Park featuring Wicked for Good at sunset"
     },
     "jc_culture_38004_2026_06_17_juneteenth_independence_day_flag_raising_2026": {
       "title": "Juneteenth Independence Day Flag Raising 2026",
@@ -1504,6 +1470,23 @@
       "link": "https://jerseycityculture.org/event/people-of-all-colors-together-jersey-city-summer-soiree/",
       "map": "https://maps.google.com/?q=The%20Ashford%2C%20145%20Newark%20Avenue%2C%20Jersey%20City%2C%20New%20Jersey",
       "summary": "Get ready for a fun-filled summer evening with People of All Colors Together in Jersey City! This in-person Summer Soiree is all about celebrating diversity, making new friends, and enjoying great vibes. Whether you’re catching up with cherished friends or meeting awesome new faces, this event is perfect for everyone. Limited availability. Please respond by Monday, June 15, 2026. This event includes a free buffet and a ticket to enter a drawing to win a summer themed gift basket. All attendees must be at least 21 years of age and have a valid ID."
+    },
+    "jc_culture_40237_2026_06_21_international_day_of_yoga_2026": {
+      "title": "International Day of Yoga 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Sun",
+      "date": "2026-06-21",
+      "time": "7 AM",
+      "sort": 7,
+      "when": "Sun, 06/21 · 7am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Jersey City",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/international-day-of-yoga-2026/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor What's Coming Up?."
     },
     "jc_culture_39103_2026_06_21_bergen_square_welcomes_the_world": {
       "title": "Bergen Square Welcomes the World",
@@ -1725,6 +1708,23 @@
       "link": "https://jerseycityculture.org/event/tirai-a-solo-bharatanatyam-showcase-july-4th-jersey-city/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Bharatanatyam in its most intimate form – one dancer, live Carnatic music, and the eternal question of what lies beyond the veil. Tirai is a solo Bharatanatyam showcase performed by Sneha, a dancer and teacher with nearly 30 years of practice, accompanied by a live Carnatic ensemble. The performance traces the soul’s journey through invocation, surrender, and the dissolution of illusion – weaving together classical movement, rhythm, and storytelling in an intimate black box setting. Bharatanatyam is a classical Indian dance tradition rooted in centuries of art, music, and devotion, and Tirai brings this living tradition to Jersey City in a deeply personal offering. This show is for anyone who loves the arts, is curious about Indian classical dance, or simply wants to start their Independence Day with something meaningful and beautiful. No prior knowledge of Bharatanatyam is needed – just an open heart."
+    },
+    "jc_culture_40201_2026_07_04_july_4th_midnight_market_fireworks": {
+      "title": "JULY 4TH MIDNIGHT MARKET & FIREWORKS",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-07-04",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 07/04 · 12pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Exchange Place, MONTGOMERY ST BETWEEN HUDSON ST. AND GREEN ST.",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/july-4th-midnight-market-fireworks/",
+      "map": "https://maps.google.com/?q=Exchange%20Place%2C%20MONTGOMERY%20ST%20BETWEEN%20HUDSON%20ST.%20AND%20GREEN%20ST.",
+      "summary": "The full day of family-friendly festivities will once again draw tens of thousands of attendees, with over 60 vendors, 3 DJ stages, 2 beer gardens and a Kids’ Zone with activations and bounce castles. The Independence Day celebrations are capped off with breathtaking fireworks display by world-renowned Fireworks by Grucci over the Hudson River with a picturesque backdrop of the NYC skyline. The celebration kicks off at 12:00 p.m. at Exchange Place. The night will conclude with a spectacular fireworks show, beginning at 9:30 p.m., lighting up the Hudson River synchronized to a patriotic soundtrack and visible across the waterfront."
     },
     "jc_culture_39954_2026_07_04_america_250_jersey_city_style_2026": {
       "title": "America 250 Jersey City Style 2026",
@@ -1980,6 +1980,40 @@
       "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-arrival/",
       "map": "https://maps.google.com/?q=PERSHING%20FIELD%20PARK%2C%20201%20CENTRAL%20AVE%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Pershing Field Park featuring Arrival at sunset"
+    },
+    "jc_culture_10004634_2026_07_18_carrington_village_5th_annual_carribean_festival": {
+      "title": "Carrington Village 5th Annual Carribean Festival",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-07-18",
+      "time": "8 AM",
+      "sort": 8,
+      "when": "Sat, 07/18 · 8am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Carrington Village, 459 Martin Luther King Dr., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/carrington-village-5th-annual-carribean-festival/2026-07-18/1/",
+      "map": "https://maps.google.com/?q=Carrington%20Village%2C%20459%20Martin%20Luther%20King%20Dr.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "The Carrington Village Caribbean Festival returns on July 18, 2026. 5 years of culture, and VIBES!!! ​During this event we will enchant Jersey City with Caribbean flavors, highlighting West Indian culture, food, artists, and entertainment with various activities for the entire family. The event is FREE for all. Kids Zone, Music, Food, and Culture Performaces by: Boom Boom Room Rhythm Section Ekkquinox Steel Band CarNYval Dancer Mas by Urban Dance and Sugar Candy Mas Special Traditional performance by Le Troupe Zetwal (Haiti) Musical Performances by: Mesha Steele (from Jamaica), Fiyah B (from Barbados) and Erphaan Alves (From Trinidad and Tobago)"
+    },
+    "jc_culture_10004635_2026_07_18_carrington_village_5th_annual_carribean_festival": {
+      "title": "Carrington Village 5th Annual Carribean Festival",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-07-18",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 07/18 · 12pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Carrington Village, 459 Martin Luther King Dr., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/carrington-village-5th-annual-carribean-festival/2026-07-18/2/",
+      "map": "https://maps.google.com/?q=Carrington%20Village%2C%20459%20Martin%20Luther%20King%20Dr.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "The Carrington Village Caribbean Festival returns on July 18, 2026. 5 years of culture, and VIBES!!! ​During this event we will enchant Jersey City with Caribbean flavors, highlighting West Indian culture, food, artists, and entertainment with various activities for the entire family. The event is FREE for all. Kids Zone, Music, Food, and Culture Performaces by: Boom Boom Room Rhythm Section Ekkquinox Steel Band CarNYval Dancer Mas by Urban Dance and Sugar Candy Mas Special Traditional performance by Le Troupe Zetwal (Haiti) Musical Performances by: Mesha Steele (from Jamaica), Fiyah B (from Barbados) and Erphaan Alves (From Trinidad and Tobago)"
     }
   },
   "clusters": {
