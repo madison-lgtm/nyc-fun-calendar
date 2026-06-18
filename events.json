@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jun 18, 2026, 9:57 AM EDT",
+    "checked": "Jun 18, 2026, 5:34 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -237,6 +237,7 @@
     ],
     "todayKey": "Thu",
     "times": [
+      "3 AM",
       "7 AM",
       "8 AM",
       "9 AM",
@@ -258,8 +259,7 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
-      "10 PM",
-      "11 PM"
+      "10 PM"
     ]
   },
   "events": {
@@ -1266,23 +1266,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Drinks, games & hanging out w/ engg peers."
     },
-    "luma_2026_06_18_untitled_series_craft_and_code": {
-      "title": "[untitled] series // Craft and Code",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-06-18",
-      "time": "11 PM",
-      "sort": 23,
-      "when": "Thu, 06/18 · 11pm",
-      "price": "Free",
-      "free": true,
-      "place": "Brooklyn, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/a5wzaobn",
-      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
-      "summary": "Luma NYC: Sol Silbenberg, Sol Silbenberg, Mary Petrino"
-    },
     "jc_culture_39086_2026_06_18_educational_arts_legacy_celebration": {
       "title": "Educational Arts’ Legacy Celebration",
       "type": "market",
@@ -1366,7 +1349,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/reclaim-the-block-festival-2026/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Outdoor What's Coming Up?."
+      "summary": "Join us for the 3rd Annual Reclaim the Block Festival! This free, family-friendly festival transforms a downtown Jersey City block into a vibrant celebration of music, dance, and cultural exchange, bringing together longtime residents and new neighbors alike. Rooted in the traditions of Afro-Puerto Rican Bomba and Plena, the event highlights the role of cultural preservation in strengthening community connection. “Reclaim the Block” was created in response to the rapid changes shaping Jersey City in recent years, offering a space to gather, reflect, and celebrate shared cultural identity. The festival centers on the belief that cultural education and visibility are essential to building and sustaining community. This year’s programming will include live Bomba and Plena performances, Afro-Peruvian music, Latin DJs, hands-on art workshops, cultural exhibits, and local vendors, creating an intergenerational experience for attendees of all ages. Segunda Quimbamba Folkloric Center is a Jersey City-based cultural and educational organization dedicated to the preservation and dissemination of Puerto Rico’s folkloric traditions, particularly Bomba and Plena. Founded in 1997, the Center supports performances, workshops, and community programming that celebrate Afro-Puerto Rican music and dance. Its ensemble, Segunda Quimbamba, has performed nationally and internationally and has been recognized for its contributions to folk and traditional arts, including the New Jersey Heritage Fellowship Award awarded to its founders in 2023. This year, the Segunda Quimbamba School celebrates 20 years of cultural education in Jersey City, and is a Resident Partner at Nimbus Arts Center."
     },
     "jc_culture_38746_2026_06_20_drum_create_connect_and_grow_2026": {
       "title": "Drum, Create, Connect and Grow 2026",
@@ -1434,7 +1417,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/bergen-square-welcomes-the-world/",
       "map": "https://maps.google.com/?q=BERGEN%20SQUARE%2C%20BERGEN%20SQUARE%20%26%20ACAMDEMY%20ST%2C%20JERSEY%20CITY",
-      "summary": "This multicultural community event will celebrate global unity through sport, culture, food, and local business engagement. Centered around a live broadcast of the World Cup match between Egypt and New Zealand, the activation will transform Bergen Square into a vibrant cultural hub highlighting Egyptian heritage and the broader Middle Eastern community. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to Bergen Square Welcomes the World could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
+      "summary": "This multicultural community event will celebrate global unity through sport, culture, food, and local business engagement. Centered around a live broadcast of the World Cup match between Egypt and New Zealand, the activation will transform Bergen Square into a vibrant cultural hub highlighting Egyptian heritage and the broader Middle Eastern community. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to Bergen Square Welcomes the World could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time. HEADING TO BERGEN SQUARE WELCOMES THE WORLD ON SUNDAY? Please be aware of the following parking restrictions and street closures: All cars must be moved from the following streets by 11:00 am on June 21, or they will be towed: Bergen Avenue from Newkirk Street to Vroom Street Academy Street from Van Reypen Street to Tuers Avenue The following streets will be closed to vehicle traffic, except for permitted vendors and city vehicles, from 1:00 pm on June 21 to 1:00 am on June 22: Bergen Avenue from Vroom Street to Academy Street The following streets will be closed to vehicle traffic, except for permitted vendors and city vehicles, from 2:00 pm on June 21 to 1:00 am on June 22: Bergen Avenue from Vroom Street to Newkirk Street Academy Street from Van Reypen Street to Tuers Avenue"
     },
     "jc_culture_10003556_2026_06_24_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -1470,6 +1453,23 @@
       "map": "https://maps.google.com/?q=AUDUBON%20PARK%2C%2018%20Audubon%20Ave.%2C%20JERSEY%20CITY",
       "summary": "Audubon Park is featuring Bad Guys 2 at sunset"
     },
+    "jc_culture_40371_2026_06_25_pride_crosswalk_community_painting_2026": {
+      "title": "Pride Crosswalk Community Painting 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Thu",
+      "date": "2026-06-25",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Thu, 06/25 · 9am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "CITY OF JC CITY HALL PARK, 280 GROVE ST, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/postponed-to-june-25th-pride-crosswalk-community-painting-2026/",
+      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%20PARK%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Outdoor What's Coming Up?."
+    },
     "jc_culture_37891_2026_06_25_movies_in_the_park_2026_how_to_train_your_dragon": {
       "title": "Movies in the Park 2026 / How to Train Your Dragon",
       "type": "entertainment",
@@ -1486,6 +1486,23 @@
       "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-how-to-train-your-dragon/",
       "map": "https://maps.google.com/?q=Riverview%20Fisk%20Park%2C%20498%20Palisade%20Ave%2C%20Jersey%20City%2C%20NJ",
       "summary": "Riverview Fisk Park is featuring How to Train Your Dragon at sunset"
+    },
+    "jc_culture_40398_2026_06_27_match_day_festival_2026": {
+      "title": "MATCH DAY FESTIVAL 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-06-27",
+      "time": "3 AM",
+      "sort": 3,
+      "when": "Sat, 06/27 · 3am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "136 MAGNOLIA AVE, 136 MAGNOLIA AVE JOURNAL SQUARE",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/match-day-festival-2026/",
+      "map": "https://maps.google.com/?q=136%20MAGNOLIA%20AVE%2C%20136%20MAGNOLIA%20AVE%20JOURNAL%20SQUARE",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor What's Coming Up? World Cup 2026."
     },
     "jc_culture_37267_2026_06_27_team_walker_farmers_market_2026": {
       "title": "Team Walker Farmers Market 2026",
@@ -1640,8 +1657,8 @@
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Bharatanatyam in its most intimate form – one dancer, live Carnatic music, and the eternal question of what lies beyond the veil. Tirai is a solo Bharatanatyam showcase performed by Sneha, a dancer and teacher with nearly 30 years of practice, accompanied by a live Carnatic ensemble. The performance traces the soul’s journey through invocation, surrender, and the dissolution of illusion – weaving together classical movement, rhythm, and storytelling in an intimate black box setting. Bharatanatyam is a classical Indian dance tradition rooted in centuries of art, music, and devotion, and Tirai brings this living tradition to Jersey City in a deeply personal offering. This show is for anyone who loves the arts, is curious about Indian classical dance, or simply wants to start their Independence Day with something meaningful and beautiful. No prior knowledge of Bharatanatyam is needed – just an open heart."
     },
-    "jc_culture_40201_2026_07_04_july_4th_midnight_market_fireworks": {
-      "title": "JULY 4TH MIDNIGHT MARKET & FIREWORKS",
+    "jc_culture_40201_2026_07_04_4th_of_july_2026_america_s_250th_celebration": {
+      "title": "4th of July 2026 America’s 250th Celebration",
       "type": "market",
       "label": "Festival / Market",
       "day": "Sat",
@@ -1653,9 +1670,9 @@
       "free": true,
       "place": "Exchange Place, MONTGOMERY ST BETWEEN HUDSON ST. AND GREEN ST.",
       "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/july-4th-midnight-market-fireworks/",
+      "link": "https://jerseycityculture.org/event/july-4th-fireworks/",
       "map": "https://maps.google.com/?q=Exchange%20Place%2C%20MONTGOMERY%20ST%20BETWEEN%20HUDSON%20ST.%20AND%20GREEN%20ST.",
-      "summary": "The full day of family-friendly festivities will once again draw tens of thousands of attendees, with over 60 vendors, 3 DJ stages, 2 beer gardens and a Kids’ Zone with activations and bounce castles. The Independence Day celebrations are capped off with breathtaking fireworks display by world-renowned Fireworks by Grucci over the Hudson River with a picturesque backdrop of the NYC skyline. The celebration kicks off at 12:00 p.m. at Exchange Place. The night will conclude with a spectacular fireworks show, beginning at 9:30 p.m., lighting up the Hudson River synchronized to a patriotic soundtrack and visible across the waterfront."
+      "summary": "The full day of family-friendly festivities will once again draw tens of thousands of attendees, with over 60 vendors, 3 DJ stages, 2 beer gardens and a Kids’ Zone with activations and bounce castles. The Independence Day celebrations are capped off with breathtaking fireworks over the Hudson River with a picturesque backdrop of the NYC skyline. The celebration kicks off at 12:00 p.m. at Exchange Place. The night will conclude with a spectacular fireworks show, beginning at 9:30 p.m., lighting up the Hudson River synchronized to a patriotic soundtrack and visible across the waterfront. &nbsp;"
     },
     "jc_culture_39954_2026_07_04_america_250_jersey_city_style_2026": {
       "title": "America 250 Jersey City Style 2026",
@@ -1673,6 +1690,23 @@
       "link": "https://jerseycityculture.org/event/america-250-jersey-city-style-2026-2/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor Visual & Performing Arts What's Coming Up?."
+    },
+    "jc_culture_40271_2026_07_04_speranza_presents_in_her_footsteps_revolution_250_20": {
+      "title": "Speranza Presents IN HER FOOTSTEPS REVOLUTION 250 / 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Sat",
+      "date": "2026-07-04",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Sat, 07/04 · 3pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Jersey City",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/speranza-presents-in-her-footsteps-revolution-250-2026/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community History Holiday Events Outdoor Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_39958_2026_07_04_america_250_jersey_city_style_2026": {
       "title": "America 250 Jersey City Style 2026",
