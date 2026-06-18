@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 17, 2026, 5:30 PM EDT",
+    "checked": "Jun 18, 2026, 9:57 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-06-17",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Jun 17"
-      },
       {
         "iso": "2026-06-18",
         "key": "Thu",
@@ -45,15 +39,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Jun 23"
+      },
+      {
+        "iso": "2026-06-24",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Jun 24"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-06-17",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Jun 17"
-      },
       {
         "iso": "2026-06-18",
         "key": "Thu",
@@ -233,9 +227,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Jul 17"
+      },
+      {
+        "iso": "2026-07-18",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Jul 18"
       }
     ],
-    "todayKey": "Wed",
+    "todayKey": "Thu",
     "times": [
       "7 AM",
       "8 AM",
@@ -249,7 +249,6 @@
       "2 PM",
       "2:30 PM",
       "3 PM",
-      "3:30 PM",
       "4 PM",
       "4:30 PM",
       "5 PM",
@@ -1267,23 +1266,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Drinks, games & hanging out w/ engg peers."
     },
-    "luma_2026_06_17_the_product_table_nyc_one_night_only_tech_product_de": {
-      "title": "The product table NYC | one-night only Tech, Product & Design Dinner",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-06-17",
-      "time": "11 PM",
-      "sort": 23,
-      "when": "Wed, 06/17 · 11pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/g719qmut",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Girlies in Tech Dinner Parties, Jordyn Harrison"
-    },
     "luma_2026_06_18_untitled_series_craft_and_code": {
       "title": "[untitled] series // Craft and Code",
       "type": "tech",
@@ -1300,57 +1282,6 @@
       "link": "https://luma.com/a5wzaobn",
       "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
       "summary": "Luma NYC: Sol Silbenberg, Sol Silbenberg, Mary Petrino"
-    },
-    "jc_culture_38004_2026_06_17_juneteenth_independence_day_flag_raising_2026": {
-      "title": "Juneteenth Independence Day Flag Raising 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Wed",
-      "date": "2026-06-17",
-      "time": "3:30 PM",
-      "sort": 15.5,
-      "when": "Wed, 06/17 · 3:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/juneteenth-independence-day-flag-raising-2026/",
-      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community History What's Coming Up?."
-    },
-    "jc_culture_10003555_2026_06_17_hamilton_park_farmers_market_2026": {
-      "title": "Hamilton Park Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Wed",
-      "date": "2026-06-17",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Wed, 06/17 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-06-17/",
-      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
-    },
-    "jc_culture_39127_2026_06_18_pride_crosswalk_community_painting_2026": {
-      "title": "Pride Crosswalk Community Painting 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Thu",
-      "date": "2026-06-18",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Thu, 06/18 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CITY OF JC CITY HALL PARK, 280 GROVE ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/pride-crosswalk-community-painting-2026/",
-      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%20PARK%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Outdoor What's Coming Up?."
     },
     "jc_culture_39086_2026_06_18_educational_arts_legacy_celebration": {
       "title": "Educational Arts’ Legacy Celebration",
@@ -1503,7 +1434,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/bergen-square-welcomes-the-world/",
       "map": "https://maps.google.com/?q=BERGEN%20SQUARE%2C%20BERGEN%20SQUARE%20%26%20ACAMDEMY%20ST%2C%20JERSEY%20CITY",
-      "summary": "This multicultural community event will celebrate global unity through sport, culture, food, and local business engagement. Centered around a live broadcast of the World Cup match between Egypt and New Zealand, the activation will transform Bergen Square into a vibrant cultural hub highlighting Egyptian heritage and the broader Middle Eastern community. Allowed/Prohibited items for Event Allowed Cash and debit card for food and drinks. Clear bags for belongings. All bags are subject to search. Smiles and extra fun! Not Allowed No alcoholic beverages or illegal drugs. No bags or backpacks that are not see-through. No coolers, chairs or umbrellas. No drones. No balloons or kites. No fireworks. No spray paint. NO WEAPONS, including firearms, knives, nunchucks, explosives, any dual-use items that could be used to harm someone. Please keep our community safe! Note that any items you bring to Bergen Square Welcomes the World could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
+      "summary": "This multicultural community event will celebrate global unity through sport, culture, food, and local business engagement. Centered around a live broadcast of the World Cup match between Egypt and New Zealand, the activation will transform Bergen Square into a vibrant cultural hub highlighting Egyptian heritage and the broader Middle Eastern community. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to Bergen Square Welcomes the World could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
     },
     "jc_culture_10003556_2026_06_24_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -1828,39 +1759,39 @@
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "&nbsp; JC Summerfest featuring David Cedano Latin and Salsa Berry Lane Park 6:30pm-8:30pm"
     },
-    "jc_culture_10004094_2026_07_10_the_world_on_central_2026": {
+    "jc_culture_39112_2026_07_10_the_world_on_central_2026": {
       "title": "The World on Central 2026",
       "type": "park",
       "label": "Parks / Outdoor",
       "day": "Fri",
       "date": "2026-07-10",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Fri, 07/10 · 1pm",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Fri, 07/10 · 6pm",
       "price": "Free",
       "free": true,
       "place": "Central Avenue, 370-437 Central Ave,Jersey, Jersey City",
       "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/the-world-on-central-2026/2026-07-10/1/",
+      "link": "https://jerseycityculture.org/event/the-world-on-central-2026-friday/",
       "map": "https://maps.google.com/?q=Central%20Avenue%2C%20370-437%20Central%20Ave%2CJersey%2C%20Jersey%20City",
-      "summary": "“The World on Central” will activate one of Jersey City’s most diverse commercial corridors. In partnership with the Central Avenue Special Improvement District (CASID), this event is designed to drive foot traffic, promote local businesses, and position the Jersey City Heights as a regional destination for cultural celebration and economic activity."
+      "summary": "“The World on Central” will activate one of Jersey City’s most diverse commercial corridors. In partnership with the Central Avenue Special Improvement District (CASID), this event is designed to drive foot traffic, promote local businesses, and position the Jersey City Heights as a regional destination for cultural celebration and economic activity. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to The World on Central could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
     },
-    "jc_culture_10004095_2026_07_10_the_world_on_central_2026": {
+    "jc_culture_40291_2026_07_11_the_world_on_central_2026": {
       "title": "The World on Central 2026",
       "type": "park",
       "label": "Parks / Outdoor",
-      "day": "Fri",
-      "date": "2026-07-10",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Fri, 07/10 · 3pm",
+      "day": "Sat",
+      "date": "2026-07-11",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Sat, 07/11 · 6pm",
       "price": "Free",
       "free": true,
       "place": "Central Avenue, 370-437 Central Ave,Jersey, Jersey City",
       "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/the-world-on-central-2026/2026-07-10/2/",
+      "link": "https://jerseycityculture.org/event/the-world-on-central-2026-saturday/",
       "map": "https://maps.google.com/?q=Central%20Avenue%2C%20370-437%20Central%20Ave%2CJersey%2C%20Jersey%20City",
-      "summary": "“The World on Central” will activate one of Jersey City’s most diverse commercial corridors. In partnership with the Central Avenue Special Improvement District (CASID), this event is designed to drive foot traffic, promote local businesses, and position the Jersey City Heights as a regional destination for cultural celebration and economic activity."
+      "summary": "“The World on Central” will activate one of Jersey City’s most diverse commercial corridors. In partnership with the Central Avenue Special Improvement District (CASID), this event is designed to drive foot traffic, promote local businesses, and position the Jersey City Heights as a regional destination for cultural celebration and economic activity. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to The World on Central could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
     },
     "jc_culture_38243_2026_07_12_repair_cafe_2026": {
       "title": "Repair Cafe 2026",
@@ -2014,6 +1945,40 @@
       "link": "https://jerseycityculture.org/event/carrington-village-5th-annual-carribean-festival/2026-07-18/2/",
       "map": "https://maps.google.com/?q=Carrington%20Village%2C%20459%20Martin%20Luther%20King%20Dr.%2C%20Jersey%20City%2C%20NJ",
       "summary": "The Carrington Village Caribbean Festival returns on July 18, 2026. 5 years of culture, and VIBES!!! ​During this event we will enchant Jersey City with Caribbean flavors, highlighting West Indian culture, food, artists, and entertainment with various activities for the entire family. The event is FREE for all. Kids Zone, Music, Food, and Culture Performaces by: Boom Boom Room Rhythm Section Ekkquinox Steel Band CarNYval Dancer Mas by Urban Dance and Sugar Candy Mas Special Traditional performance by Le Troupe Zetwal (Haiti) Musical Performances by: Mesha Steele (from Jamaica), Fiyah B (from Barbados) and Erphaan Alves (From Trinidad and Tobago)"
+    },
+    "jc_culture_39108_2026_07_19_around_the_world_watch_party_2026": {
+      "title": "Around the World Watch Party 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Sun",
+      "date": "2026-07-19",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sun, 07/19 · 12pm",
+      "price": "Free",
+      "free": true,
+      "place": "3, 400 Claremont Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/around-the-world-watch-party-2026/",
+      "map": "https://maps.google.com/?q=3%2C%20400%20Claremont%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "The “Around the World Watch Party” is a festival centered on a live broadcast of the World Cup Final. The event will transform Claremont Avenue (between West Side Avenue and Mallory Avenue) into an immersive “world village,” featuring curated cultural zones representing different regions. This program is designed to bring together residents, local businesses, and cultural organizations in a free and accessible public space that promotes community engagement and cultural exchange. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to the Around the World Watch Party could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
+    },
+    "jc_culture_38055_2026_07_19_jersey_city_summerfest_2026_orchestre_moto": {
+      "title": "Jersey City Summerfest 2026 / Orchestre Moto",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Sun",
+      "date": "2026-07-19",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Sun, 07/19 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Liberty State Park, North Cove",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-orchestre-moto/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "&nbsp; JC Summerfest featuring Orchestre Moto (Congolese Dance Music) North Cove Field Liberty State Park 6pm-8pm"
     }
   },
   "clusters": {
