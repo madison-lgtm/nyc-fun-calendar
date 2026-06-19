@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jun 19, 2026, 9:58 AM EDT",
+    "checked": "Jun 19, 2026, 4:53 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1249,90 +1249,39 @@
       "map": "https://maps.google.com/?q=house%20of%20yes%20(bushwick)%2C%20%2410%20adv%2C%20%2420%20door%20NYC",
       "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 10pm: beyond the black box presents: juneteenth dance party + cookout: house of yes (bushwick), $10 adv, $20 door."
     },
-    "gary_2026_06_18_scaling_ai_infrastructure": {
-      "title": "Scaling AI Infrastructure",
+    "gary_2026_06_20_near_legion_build_city_agentic_dreamwalls": {
+      "title": "NEAR Legion Build City - Agentic Dreamwalls",
       "type": "tech",
       "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-06-18",
+      "day": "Sat",
+      "date": "2026-06-20",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Sat, 06/20 · 4:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Cre8ive, 134 W 29th St, 2nd Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/kh5skoa/NEAR-Legion-Build-City-Agentic-Dreamwalls",
+      "map": "https://maps.google.com/?q=Cre8ive%2C%20134%20W%2029th%20St%2C%202nd%20Fl",
+      "summary": "Gary's Guide: NEAR Legion & Build City are hosting a casual session around agents, ideas, & the Dream Wall. We'll spend exploring how people can use Iron Claw to create an agent, post a dream, & start turning loose ideas into something more real. The goal is not to make this overly technical or formal. It's really just a space to try things out, ask questions, & see what's possible when builders start using agents as part of their creative process. The Dream Wall is a simple place for people to share what they want to build. It can be an app, a tool, a project, a business idea, or even just a thought that needs more shape. From there, the idea is to give people a starting point & a reason to keep building. This session is beginner-friendly & open to anyone who is curious. You do not need to already know NEAR, Iron Claw, or agentic tools to come through. We'll keep it light, practical, & focused on getting people comfortable enough to make something small & keep going. We'll also help people get set up with Iron Claw, & you can check out ironclaw.com or docs.ironclaw.com before coming if you want to look around. Bring your laptops!!!! Come through if you're interested in agents, NEAR, Build City & enjoy pizza & drinks while connecting with other attendees."
+    },
+    "gary_2026_06_21_creationship_sundays_ai_for_creative_good": {
+      "title": "Creationship Sundays - AI For Creative Good",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sun",
+      "date": "2026-06-21",
       "time": "5 PM",
       "sort": 17,
-      "when": "Thu, 06/18 · 5:00pm",
+      "when": "Sun, 06/21 · 5:00pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "Caravan Of Dreams, 405 E 6th St",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/pmsy5z0/Scaling-AI-Infrastructure",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Joerg Schad (VP Engg, Nextdata), Adam Bell (Community Enggr, Pulumi)."
-    },
-    "gary_2026_06_18_east_coast_builders_happy_hour": {
-      "title": "East Coast Builders Happy Hour",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-06-18",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Thu, 06/18 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/0arug7l/East-Coast-Builders-Happy-Hour",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Alumni Ventures & C10 Labs."
-    },
-    "gary_2026_06_18_craft_code": {
-      "title": "Craft & Code",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-06-18",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 06/18 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced, Brooklyn",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/0p5rsax/Craft-Code",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced%2C%20Brooklyn",
-      "summary": "Gary's Guide: We're starting a series of events at the [untitled] office & this is the first one. We want to get the most craft & design obsessed engineers & product people in New York into one room. The ones who treat design as part of the work rather than a layer on top of it, & who can tell the difference between something built well & something just shipped. [untitled] is built on the same belief about music. Most of the tools musicians use were made without much care, & we think that is worth fixing. The people who understand why that matters tend to be the same people who understand it in software. For this first event we're co-hosting with one of the most craft-obsessed teams in software. We'll share who soon. The night itself: A fireside with a few engineers talking honestly about craft, taste, & how they actually work. DJs before & after, drinks, & enough time to meet everyone else in the room. Thursday, June 18th. Doors at 6. Space is limited, so RSVP early."
-    },
-    "gary_2026_06_18_ai_engineers_poker_game_night": {
-      "title": "AI Engineers - Poker & Game Night",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-06-18",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Thu, 06/18 · 7:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/3cqyzem/AI-Engineers-Poker-Game-Night",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies. We'll have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart. Complimentary drinks & pizza are on us. High signal, low pressure. Come play poker, jump into games, & spend the night with some of NYC's top engineers, founders, & operators. Limited seats. Registration: require linkedin, company, job title, & include the following multiple choice (single select) How would you like to participate? Poker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in. *Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi, click Get Hired, & apply. Options: Poker ($100 buy-in, seat not guaranteed) Hang Out & Other Games Hiring? Want intros to startups?"
-    },
-    "gary_2026_06_18_founder_x_investor_mini_golf": {
-      "title": "Founder x Investor Mini Golf",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-06-18",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Thu, 06/18 · 7:00pm",
-      "price": "$35",
-      "free": false,
-      "place": "Swingers NoMad, 35 W 29th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/bwpf171/Founder-x-Investor-Mini-Golf",
-      "map": "https://maps.google.com/?q=Swingers%20NoMad%2C%2035%20W%2029th%20St",
-      "summary": "Gary's Guide: Trade the formal networking mixers for a little friendly competition. Join founders Rob Guthy & Stephen Michael for founders, investors, operators, & startup enthusiasts for an evening of mini golf, meaningful conversations, & new connections. Whether you're actively raising capital, looking for your next investment opportunity, exploring a new venture, or simply hoping to expand your network, this event creates a relaxed environment where relationships can develop naturally. Between putting challenges & laughs over missed shots, you'll have the chance to connect with ambitious people who are building, investing, & shaping the future of innovation. No pitches required just genuine conversations & a willingness to have fun. Explore Catalyst's concierge services including direct investor intros, pitch deck revisions, profile optimization, spotlight features, & VIP access https://catalystintro.com/concierge View the Catalyst Intro deck Catalystintro.com/app Book time with us directly https://calendar.app.google/ekond6f4NQY3dPvZ9"
+      "link": "https://www.garysguide.com/events/qelgrld/Creationship-Sundays-AI-For-Creative-Good",
+      "map": "https://maps.google.com/?q=Caravan%20Of%20Dreams%2C%20405%20E%206th%20St",
+      "summary": "Gary's Guide: A weekly imagine-a-thon for creative good. Come build the next generation of ideas this world needs. Sunday evenings, the back room of a vegan restaurant on East 6th Street fills with people drawn to the intersection of positive social change & new technology. Four hours later, we've met each other, ideated together, & built something real. Some teams form for the night. Some keep meeting, sunday after sunday, building what belongs in the future we want to live in. We don't curate the guest list. Past weeks brought together a founder, a prompt engineer, a doula, a muralist, & someone restoring old radios. The room simply takes the shape of whoever shows up. One tool we use is Vibecoding: our new capacity, with AI, to build applications & digital projects with natural language in the form of text prompts. That said, there are many ways to create & create with others. How the evening unfolds: A community member shares something they can't stop thinking about, teaches a concept or a possible solution to a social conundrum, leads us through an activity that might be valuable to us individually & collectively. Then, we pitch our half-formed projects. Teams form naturally around whatever sparks each person's interest. For the rest of the time, we build, we nosh, & we share what we made. What we're actually doing: We are practicing prototyping & building new worlds. The world outside is largely playing a finite game, optimizing for extraction, scale, & speed. In this room, we step out of that. We practice creative attention, trust, & infinite thinking. We focus fiercely on one thing, alongside people who think nothing like us. The work is sitting shoulder to shoulder with erstwhile strangers (who become community members), sharing our imagination, & building something better together. The relationships that come from this-we call them creationships. Each week looks a little bit different. This week #14: Please try to arrive on time! How a Sunday goes 4:30 - doors open, settle in, say hello, order something 5:00 - opening share / activity 5:30 - intros & form projects groups for the day 6:00 - explore, make, create something 8:00 - show-and-tell You leave inspired, a little changed, & with people you'll see again. Some things we're making here Kula - a gifting platform Vibe Cadaver - an exquisite-corpse game Kitty Social - a shared fund Ocean Agentics - a high seas treaty site NotAmazon - local alternatives Whoever shows up is who the afternoon is for. The room shapes itself around the people in it. Come as you are. Hosted by Dear Crisis dearcrisis.com"
     },
     "gary_2026_06_22_roller_coaster_of_climate_tech_investing": {
       "title": "Roller Coaster Of Climate Tech Investing",
@@ -1453,6 +1402,40 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Commonweal Ventures."
     },
+    "gary_2026_06_23_building_b2b_fintech_infrastructure_stack_rooftop_mi": {
+      "title": "Building B2B Fintech Infrastructure Stack - Rooftop Mixer",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-06-23",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 06/23 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/sjalydm/Building-B2B-Fintech-Infrastructure-Stack-Rooftop-Mixer",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Rutter, Extend, & Orb are hosting a private happy hour at Monarch Rooftop. Join engineers, operators, & builders from leading fintechs companies across NYC! Drinks & light bites will be provided. Feel free to bring a colleague but have them RSVP separately (space is limited)! About Rutter: Unified API platform that helps banks & fintechs automate supplier enablement using ERP data. By ingesting & normalizing payables data across accounting, commerce, & payments systems, Rutter enables accurate cardability analysis & automated supplier activation to turn eligible spend into card volume. Trusted by leading B2B fintechs including Mercury, PayPal, Airwallex, Capital One, & more than 100 companies. About Extend: Extend is the document infrastructure for agents. Fintech & Vertical AI teams like Mercury, Brex, Square, & more use Extend's API to parse, split, extract, & edit complex documents at scale. About Orb: Orb is the revenue design platform for AI & SaaS companies. Built on raw usage data, Orb unifies pricing, billing, & revenue intelligence-turning complex usage into accurate invoices & audit-ready revenue data, so companies can evolve how they monetize as fast as they ship. Leading companies like Vercel, Replit, Glean, & WRITER trust Orb to power their revenue. #nyc-fintech #b2b-saas #payments #api #financial-infrastructure #fintech-builders #AI #fintech"
+    },
+    "gary_2026_06_23_ai_paid_ads_more": {
+      "title": "Ai, Paid Ads & More",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-06-23",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Tue, 06/23 · 7:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/uof4i25/Ai-Paid-Ads-More",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Excited to have our 3rd IRL event for folks in the GTM x AI crew. Confirm RSVP AT LEAST a day before (earlier the better). We need to give people access to the building in advance. Shoutout to Ivan @ Nickel for our venue! If other friends in growth & marketing want to join, let me know & we can see how to make it work. Our Show & Tell topic will be about AI x Paid Ads, led by Susan Li from Phantom :) Show & Tell will start at 730. (If anyone else wants to show & tell, let me know)"
+    },
     "gary_2026_06_24_permissionless_iv": {
       "title": "Permissionless IV",
       "type": "startup",
@@ -1469,6 +1452,40 @@
       "link": "https://www.garysguide.com/events/o9n9env/Permissionless-IV",
       "map": "https://maps.google.com/?q=Industry%20City%2C%20To%20Be%20Announced%2C%20Brooklyn",
       "summary": "Gary's Guide: With founder/CEOs Brendan Eich (Brave), Kain Warwick (Infinex), Peter Todd (OpenTimestamps), Hayden Adams (Uniswap Labs), Guy Young (Ethena), Joseph Lubin (Chairman, SharpLink), Li Fan (Chief AI Officer, Circle), Goutham Buchi (CTO, AngelList), Keone Hon (GM, Monad Foundation)."
+    },
+    "gary_2026_06_24_inside_the_check_how_early_stage_vcs_really_decide": {
+      "title": "Inside The Check - How Early-Stage VCs Really Decide",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-06-24",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Wed, 06/24 · 9:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/7g9236d/Inside-The-Check-How-Early-Stage-VCs-Really-Decide",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Galina Ozgur (H/L Ventures), Mirit Lugassi (Laconia Capital), Ihar Mahaniok (Geek Ventures), Tori Hanson (Founder, The Knowledge Shop)."
+    },
+    "gary_2026_06_24_building_real_time_agentic_ai_applications_w_redis_a": {
+      "title": "Building Real-Time Agentic AI Applications w/ Redis & Amazon Bedrock",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-06-24",
+      "time": "4:30 PM",
+      "sort": 16.5,
+      "when": "Wed, 06/24 · 4:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, 12 W 39th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/qtb81ez/Building-Real-Time-Agentic-AI-Applications-w-Redis-Amazon-Bedrock",
+      "map": "https://maps.google.com/?q=Venue%2C%2012%20W%2039th%20St",
+      "summary": "Gary's Guide: With Yusuf Bahdur (Partner Solns Architect, Redis)."
     },
     "gary_2026_06_24_agentic_alpha_engg_high_velocity_autonomy_in_millise": {
       "title": "Agentic Alpha - Engg High-Velocity Autonomy In Millisecond Economy",
@@ -1606,6 +1623,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20Online",
       "summary": "Gary's Guide: With Sridhar Ramaswamy (CEO, Snowflake), Malte Ubl (CTO, Vercel), Chase Ginther (Applied AI Field Engg, Snowflake)."
     },
+    "gary_2026_06_25_nyc_ai_coworking": {
+      "title": "NYC AI Coworking",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-06-25",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Thu, 06/25 · 10:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Station 3, 26 Broadway, 3rd Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/rykqtbk/NYC-AI-Coworking",
+      "map": "https://maps.google.com/?q=Station%203%2C%2026%20Broadway%2C%203rd%20Fl",
+      "summary": "Gary's Guide: Spend the day at Station3 with other AI founders, engineers, designers, & operators for a focused co-working session built around getting work done & helping each other move faster. We will work from 10:00 AM to 5:00 PM, with an afternoon demo / feedback block from 2:00 PM to 4:00 PM. Demos stay short & practical: show what you are building, where you are stuck, & what kind of feedback, users, intros, or collaborators would help. This is for people actively building with AI: agents, developer tools, consumer products, media workflows, data products, infrastructure, creative tools, research workflows, & useful experiments. Polished demos are not required, but useful context is. Station3 is hosting us at 26 Broadway in FiDi. We will use Cedar, their large conference room, for demos & focused feedback, with the broader Station3 workspace supporting the co-working flow. What to bring: Laptop Charger Any demo, deck, repo, prototype, or product link you want feedback on A clear ask: users, feedback, intros, collaborators, GTM help, technical help, or hiring If you want to demo, mention what you are building in your RSVP or message Chris directly. We will prioritize builders who can show a real product, prototype, workflow, customer problem, or sharp question for the room. Join the NYC AI Co-working Telegram group for updates & builder asks: https://t.me/+KN-AraFGDkoyZDZh"
+    },
     "gary_2026_06_25_product_summit": {
       "title": "Product Summit",
       "type": "startup",
@@ -1657,6 +1691,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Jonah Bliss (Founder/CEO, Curbivore), Louis Pappas (Founder, Electric Avenue)."
     },
+    "gary_2026_06_25_after_hours_club_female_founders_meditation_art": {
+      "title": "After Hours Club - Female Founders Meditation & Art",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-06-25",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 06/25 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, 22 Vanderbilt Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/yfwogdo/After-Hours-Club-Female-Founders-Meditation-Art",
+      "map": "https://maps.google.com/?q=Venue%2C%2022%20Vanderbilt%20Ave",
+      "summary": "Gary's Guide: An After Hours Club night for female founders. We'll open with a short guided meditation to shake off the workday, then roll into a relaxed art session. No talent required, all supplies provided. Come meet other women building companies & make something with your hands that has nothing to do with your startup. Come as you are & leave feeling lighter, inspired, & more connected to yourself & like-minded community. Session will be held at the yoga studio in the gym. For Founders House & 22 Vanderbilt Members Only. Registration required. After Hours Club is a mental health-focused art & wellness community based in New York City. We create intentional spaces where conversations around mental health are normalized through guided workshops, creative expression, & genuine community connection. Women Who Lead is our ongoing series created to support female founders, entrepreneurs & leaders by giving them space to pause, reflect & recharge. Each gathering is thoughtfully curated to prioritize founders' mental health."
+    },
     "gary_2026_06_26_nyc_coffee_club_early_stage_founders_funders_in_fint": {
       "title": "NYC Coffee Club - Early-Stage Founders & Funders In Fintech, Healthcare, Supply Chain & Transportation",
       "type": "startup",
@@ -1674,6 +1725,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Olivia O'Sullivan (Forum Ventures), Damian Murray (Level Up Ventures)."
     },
+    "gary_2026_06_26_gen_juice_drinks_night_w_ai_artists_filmmakers_tool_": {
+      "title": "Gen&Juice - Drinks Night w/ AI Artists, Filmmakers, Tool Companies",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-06-26",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Fri, 06/26 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/7nwnfsi/Gen-Juice-Drinks-Night-w-AI-Artists-Filmmakers-Tool-Companies",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Are you an AI Filmmaker? Do you work for a Gen AI Company? Join us for drinks! Join us for a relaxed night of drinks, connections, & conversation with fellow AI filmmakers & startup founders who share a passion for pushing the boundaries of creative technology. This isn't one of our typical Gen Jams-think of it more like a casual get-together designed for meeting new collaborators, swapping insights on the latest tools, & simply having fun among like-minded peers. Whether you've just wrapped an AI-driven production, launched a startup, or are brainstorming your next big venture, you'll find plenty of new faces to connect with-and maybe even spark your next collaboration. So raise a glass & toast to the future of AI-powered cinema alongside the community that's shaping it!"
+    },
     "gary_2026_06_26_ai_engineers_game_night": {
       "title": "AI Engineers - Game Night",
       "type": "tech",
@@ -1690,6 +1758,23 @@
       "link": "https://www.garysguide.com/events/oseeul1/AI-Engineers-Game-Night",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Game Night with NYC's Top EngineersnWe're bringing together some of the best engineers in New York for a night of Smash Bros, Mario Kart, board games, & good conversation. Drinks & pizza are on us.nnWhat is this?nA game night for engineers & builders in NYC's tech ecosystem.nNo pitches or networking vibes - were just hanging out.nnWho's coming?nA curated mix of engineers from tier 1, VC-backed startups across AI/ML, infrastructure, & full-stack product. Seed to Series C+.nnAbout the host:nFonzi is a recruiting platform focused exclusively on product & AI engineering hires in NYC & SF. We work with 75+ open roles across the best startups in the city.nnHiring?nWant intros to startups?nnSpots are limited."
+    },
+    "gary_2026_06_27_superplane_hackathon_bash_script_funeral": {
+      "title": "SuperPlane Hackathon - Bash Script Funeral",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sat",
+      "date": "2026-06-27",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Sat, 06/27 · 10:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/5s7rylm/SuperPlane-Hackathon-Bash-Script-Funeral",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Render."
     },
     "gary_2026_06_29_consumer_brews_fancy_food_edition": {
       "title": "Consumer Brews - Fancy Food Edition",
@@ -1725,6 +1810,40 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Singapore Global Network."
     },
+    "gary_2026_06_30_coding_agents_gtm_lightning_talks": {
+      "title": "Coding Agents + GTM Lightning Talks",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-06-30",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 06/30 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/t6itkn9/Coding-Agents-GTM-Lightning-Talks",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Bryant McCombs (GTM Account Dir., OpenAI), Chris Prinz (GTM Enggr, Modal), Julia Gonzalez (Head of GTM Innovation, Notion)."
+    },
+    "gary_2026_06_30_trust_the_agent_verify_the_code": {
+      "title": "Trust The Agent, Verify The Code",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-06-30",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 06/30 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Nomadworks, 240 W 40th St, 2nd Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/hrrkbix/Trust-The-Agent-Verify-The-Code",
+      "map": "https://maps.google.com/?q=Nomadworks%2C%20240%20W%2040th%20St%2C%202nd%20Fl",
+      "summary": "Gary's Guide: With Eduardo Gonzalez (AI/ML Architect Applied Field Engg, Snowflake)."
+    },
     "gary_2026_07_01_agents_apis_developer_meetup": {
       "title": "Agents & APIs Developer Meetup",
       "type": "tech",
@@ -1741,6 +1860,57 @@
       "link": "https://www.garysguide.com/events/k896o57/Agents-APIs-Developer-Meetup",
       "map": "https://maps.google.com/?q=Venue%2C%201400%20Broadway",
       "summary": "Gary's Guide: With Postman."
+    },
+    "gary_2026_07_08_fierce_founders_coworking_day": {
+      "title": "Fierce Founders Coworking Day",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Wed, 07/08 · 10:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Luminary, 1204 Broadway, 4th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/w5w0ua2/Fierce-Founders-Coworking-Day",
+      "map": "https://maps.google.com/?q=Luminary%2C%201204%20Broadway%2C%204th%20Fl",
+      "summary": "Gary's Guide: Come work alongside the Fierce Foundry team & fellow community members. Because everything's better IRL When: Drop in anytime after 10:00 AM - just check in when you arrive. Where: Luminary NYC WiFi: Info will be available when you arrive. What to Expect: A day of working alongside the FF team & other female founders in the community Post coworking (separate & completely optional): an evening Female Founders & Funders Happy Hour (Coworking attendees get a discount!) See you on the 5th!"
+    },
+    "gary_2026_07_08_female_founders_funders": {
+      "title": "Female Founders & Funders",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Wed, 07/08 · 5:00pm",
+      "price": "$20",
+      "free": false,
+      "place": "Luminary, 1204 Broadway, 4th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/wakokzt/Female-Founders-Funders",
+      "map": "https://maps.google.com/?q=Luminary%2C%201204%20Broadway%2C%204th%20Fl",
+      "summary": "Gary's Guide: Join us for the Female Founders & Funders Networking Event! This is a great opportunity to connect. Female founders can meet potential investors, & funders can discover innovative new ventures. We'll be gathering at the beautiful Luminary space & welcoming both experienced investors & those who are just starting to explore angel investing. We can't wait to see you there!"
+    },
+    "gary_2026_07_08_ai_builders_night": {
+      "title": "AI Builders Night",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Wed, 07/08 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "LOFT39, 38 W 39th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/omh02e1/AI-Builders-Night",
+      "map": "https://maps.google.com/?q=LOFT39%2C%2038%20W%2039th%20St",
+      "summary": "Gary's Guide: Join us in New York at Loft 39 for an evening dedicated to the builders behind modern AI. From real-world use cases to the infrastructure powering large-scale systems, AI Night brings together engineers, data practitioners, & founders shaping how AI is built & deployed today. Brought to you by ClickHouse & Docker! Current Agenda: 5:00 PM: Arrivals, Check-In & Networking 5:50 PM: Welcome & Introductions + Food & Drink 5:55 - 6:20PM: Speaker 1 6:20 - 6:45 PM: Speaker 2 6:45 - 7:10 PM: Speaker 3 7:30 - 8:30 PM: Q&A, Networking 8:30 PM: Meetup Concludes"
     },
     "gary_2026_07_09_building_web_powered_ai_apps_w_o_code": {
       "title": "Building Web-Powered AI Apps w/o Code",
@@ -1810,6 +1980,23 @@
       "map": "https://maps.google.com/?q=Candid%2C%2032%20Old%20Slip",
       "summary": "Gary's Guide: All Tech Is Human (ATIH), in partnership with the Notre Dame-IBM Tech Ethics Lab, will host a two-part workshop series focused on perceptions, adoption, & experience with Agentic AI systems across the workforce. Led by Jen Weedon, ATIH Braintrust member, this series aims to surface both strategic & lived insights from across organizational levels, generating a more holistic set of data points to inform responsible research & practice in the enterprise space. On Tuesday, July 14, the conversation moves toward organizational leadership & governance. We will bring together 20-30 senior executives who are currently standing at the crossroads of automation. Whether you are navigating the complexities of adoption, facing regulatory bottlenecks, dealing with internal reorgs or downsizing, and/or weighing the decision to automate core processes, this executive roundtable offers a high-level forum to discuss the ethics of efficiency & the push towards AI-first or AI-native transformations. This workshop aims to surface the process, knowledge, tensions, & skill gaps. Together, we will explore how leadership can drive innovation while maintaining the trust & integrity essential to the modern enterprise. Express your interest below. This workshop will be four hours long. The workshop series will explore how different types of organizations are approaching Agentic AI - from those whose systems are already deployed, to those preparing for rollout, to those still in exploratory phases. By comparing lived experiences with Agentic AI to expectations across roles & organizational contexts, the workshops will surface concerns, decision-making realities, & unintended consequences. The goal is to understand better the dynamics shaping acute & sustained adoption, governance, & the cascading effects on the workforce. Day 2: Agentic AI from the Leadership Perspective (Organizational & Ecosystem Leaders) Agenda forthcoming"
     },
+    "gary_2026_07_15_quantum_frontiers_responsible_ai_global_dialogue_on_": {
+      "title": "Quantum Frontiers & Responsible AI - Global Dialogue On Emerging Tech",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-15",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Wed, 07/15 · 3:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue,, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/0xlig44/Quantum-Frontiers-Responsible-AI-Global-Dialogue-On-Emerging-Tech",
+      "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: All Tech Is Human & the Consulate General of Finland in New York are putting together a highly curated gathering for 75 individuals across civil society, government, industry, academia, & philanthropy. There will be two panel conversations & networking at the Finnish Consulate in New York, followed by a reception at the Finnish Residence near Central Park. Please express your interest below. All Tech Is Human takes a whole-of-ecosystem approach to tackling thorny tech & society issues & aligning our tech future with the public interest. We are building the crucial social infrastructure for the Responsible Tech ecosystem. Learn more at AllTechIsHuman.org & see all of our projects & initiatives here."
+    },
     "gary_2026_07_17_ai_engineers_game_night": {
       "title": "AI Engineers - Game Night",
       "type": "tech",
@@ -1826,57 +2013,6 @@
       "link": "https://www.garysguide.com/events/4pwp82h/AI-Engineers-Game-Night",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Night of Smash Bros, Mario Kart, board games & good conversation."
-    },
-    "gary_2026_07_22_build_ai_systems_that_scale_at_amd_advancing_ai_2026": {
-      "title": "Build AI Systems That Scale At AMD Advancing AI 2026",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-22",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Wed, 07/22 · 11:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Moscone Center, 747 Howard St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/7ims3x7/Build-AI-Systems-That-Scale-At-AMD-Advancing-AI-2026",
-      "map": "https://maps.google.com/?q=Moscone%20Center%2C%20747%20Howard%20St",
-      "summary": "Gary's Guide: Join AMD Advancing AI for hands-on workshops. Learn from AMD & open-source maintainers, then build & run real workloads yourself."
-    },
-    "gary_2026_07_23_ai_engineers_devs_drinks": {
-      "title": "AI Engineers - Devs & Drinks",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-07-23",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 07/23 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/0ynu2hw/AI-Engineers-Devs-Drinks",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Drinks, games & hanging out w/ engg peers."
-    },
-    "gary_2026_07_24_nyc_coffee_club_taking_the_leap_industry_vets_who_le": {
-      "title": "[NYC Coffee Club] Taking The Leap - Industry Vets Who Left To Build",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-07-24",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 07/24 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/g869sua/-NYC-Coffee-Club-Taking-The-Leap-Industry-Vets-Who-Left-To-Build",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Olivia, Alice, Naomi & Lauren (Forum Ventures)."
     },
     "luma_2026_06_23_the_shortlist_june_founder_showcase": {
       "title": "The Shortlist: June Founder Showcase",
@@ -2698,23 +2834,17 @@
     ],
     "cluster_2026_06_20_4_pm": [
       "skint_88247_33_swedish_midsummer_festival",
-      "skint_88247_34_creatures_of_the_canal_a_bioluminescent_block_party"
-    ],
-    "cluster_2026_06_18_6_pm": [
-      "skint_88167_0_dog_drag_show_pride_costume_contest",
-      "gary_2026_06_18_craft_code"
-    ],
-    "cluster_2026_06_18_5_pm": [
-      "gary_2026_06_18_scaling_ai_infrastructure",
-      "gary_2026_06_18_east_coast_builders_happy_hour"
-    ],
-    "cluster_2026_06_18_7_pm": [
-      "gary_2026_06_18_ai_engineers_poker_game_night",
-      "gary_2026_06_18_founder_x_investor_mini_golf"
+      "skint_88247_34_creatures_of_the_canal_a_bioluminescent_block_party",
+      "gary_2026_06_20_near_legion_build_city_agentic_dreamwalls"
     ],
     "cluster_2026_06_23_6_pm": [
       "gary_2026_06_23_the_shortlist_founder_showcase",
-      "gary_2026_06_23_amtech_happy_hour"
+      "gary_2026_06_23_amtech_happy_hour",
+      "gary_2026_06_23_building_b2b_fintech_infrastructure_stack_rooftop_mi"
+    ],
+    "cluster_2026_06_24_9_am": [
+      "gary_2026_06_24_permissionless_iv",
+      "gary_2026_06_24_inside_the_check_how_early_stage_vcs_really_decide"
     ],
     "cluster_2026_06_24_5_pm": [
       "gary_2026_06_24_agentic_alpha_engg_high_velocity_autonomy_in_millise",
@@ -2728,6 +2858,18 @@
     "cluster_2026_06_24_6_30_pm": [
       "gary_2026_06_24_founder_dinner",
       "gary_2026_06_24_developers_brokers_after_hours"
+    ],
+    "cluster_2026_06_25_10_am": [
+      "gary_2026_06_25_snowflake_dev_day",
+      "gary_2026_06_25_nyc_ai_coworking"
+    ],
+    "cluster_2026_06_27_10_am": [
+      "gary_2026_06_27_superplane_hackathon_bash_script_funeral",
+      "jc_culture_37267_2026_06_27_team_walker_farmers_market_2026"
+    ],
+    "cluster_2026_06_30_6_pm": [
+      "gary_2026_06_30_coding_agents_gtm_lightning_talks",
+      "gary_2026_06_30_trust_the_agent_verify_the_code"
     ],
     "cluster_2026_07_09_6_30_pm": [
       "jc_culture_37940_2026_07_09_movies_in_the_park_2026_tron_ares",
