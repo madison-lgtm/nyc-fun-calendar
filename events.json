@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jun 20, 2026, 8:24 AM EDT",
+    "checked": "Jun 20, 2026, 4:51 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -246,7 +246,6 @@
       "11:30 AM",
       "12 PM",
       "1 PM",
-      "1:30 PM",
       "2 PM",
       "2:30 PM",
       "3 PM",
@@ -259,7 +258,9 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
-      "10 PM"
+      "9 PM",
+      "10 PM",
+      "10:30 PM"
     ]
   },
   "events": {
@@ -1249,6 +1250,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Josh Lerner (Prof., Harvard Business School), Reuben Munger (Vision Ridge), Ron Gonen (Closed Loop Partners)."
     },
+    "gary_2026_06_22_women_in_product_design_picnic": {
+      "title": "Women In Product Design Picnic",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-06-22",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Mon, 06/22 · 5:30pm",
+      "price": "$10",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/8nzrhxi/Women-In-Product-Design-Picnic",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Design in the AI era is changing quickly, & it can feel overwhelming to keep up. Meet & mingle with senior women in product design for a picnic & conversation about how we're navigating AI, shifting expectations, & our evolving roles. Food & drinks: There will be cookies & pastries from Dear Nana as well as some light bites. If you want to pick up snacks or food there's a great market nearby the corner of Nassau & Lorimer called McCarren Natural. Location: We will meet in the shady grove of trees in the front left of McCarren Parkhouse. What to bring: Picnic blanket, sunscreen, sunglasses. In the event of bad weather: We will head over to Spritzenhaus 33 right by the park. Audience: To keep our discussion relevant, this event is for women who have been working as product designers for 5+ years."
+    },
     "gary_2026_06_22_brainhealth_innovation_gtm_bootcamp": {
       "title": "BrainHealth Innovation + GTM Bootcamp",
       "type": "startup",
@@ -1265,6 +1283,40 @@
       "link": "https://www.garysguide.com/events/z1ot8ts/BrainHealth-Innovation-GTM-Bootcamp",
       "map": "https://maps.google.com/?q=FINN%20Partners%2C%201675%20Broadway",
       "summary": "Gary's Guide: With Esther Howard (CEO, Bezyl), Gal Veksler (LionBird), Maria Blekher (Serendipity Impact VC), Richard Hatzfeld (Co-Lead Global Health Impact, FINN)."
+    },
+    "gary_2026_06_22_quantum_computing_in_person_meetup": {
+      "title": "Quantum Computing In Person Meetup",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Mon",
+      "date": "2026-06-22",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Mon, 06/22 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Viam Robotics, 1900 Broadway, 6th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/3csq8wz/Quantum-Computing-In-Person-Meetup",
+      "map": "https://maps.google.com/?q=Viam%20Robotics%2C%201900%20Broadway%2C%206th%20Fl",
+      "summary": "Gary's Guide: With Michael Cubeddu (CTO, Aliro)."
+    },
+    "gary_2026_06_22_perspectives_on_modern_creativity_the_artist_the_too": {
+      "title": "Perspectives On Modern Creativity - The Artist & The Toolmaker",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-06-22",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Mon, 06/22 · 7:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Nublu Classic, 62 Loisaida Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/tifmx12/Perspectives-On-Modern-Creativity-The-Artist-The-Toolmaker",
+      "map": "https://maps.google.com/?q=Nublu%20Classic%2C%2062%20Loisaida%20Ave",
+      "summary": "Gary's Guide: With Elmo Lovano (Founder/CEO, Jammcard), Stanley Vergilis (CEO, Tone3000), Andy Thompson (Dir. Product Innovation, Splice), John Hardin (Abundance Institute)."
     },
     "gary_2026_06_23_commercenext_growth_show": {
       "title": "CommerceNext Growth Show",
@@ -1333,6 +1385,23 @@
       "link": "https://www.garysguide.com/events/iijkcg7/Daytona-AI-Builders",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Ivan Burazin (Founder/CEO, Daytona), Aayush Shah (Founder, Blacksmith), Anu Srivastava (Dir. Cloud Engg, Oracle), Jeremy Mendez (AI Cloud Architect, Oracle)."
+    },
+    "gary_2026_06_23_al_agent_security_documentary_premiere": {
+      "title": "Al Agent Security Documentary Premiere",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-06-23",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Tue, 06/23 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, Bryant Park",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/poagcek/Al-Agent-Security-Documentary-Premiere",
+      "map": "https://maps.google.com/?q=Venue%2C%20Bryant%20Park",
+      "summary": "Gary's Guide: With Ramesh Raskar (Prof., MIT), Theresa Payton (ex-, White House CIO), Sharon Gai (ex Alibaba), Rory Blundell (CEO, Gravitee)."
     },
     "gary_2026_06_23_the_shortlist_founder_showcase": {
       "title": "The Shortlist - Founder Showcase",
@@ -1770,11 +1839,11 @@
       "when": "Tue, 06/30 · 12:00pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "Venue,, To Be Announced",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/9bfpgdo/Tech-Business-Summit-SE-Asia-Edition",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Singapore Global Network."
+      "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Sabrina Gan (MD, Goldman Sachs), Apoorva Goyal (Insight Partners), Amritpal Singh (Co-Founder, Multiplier), Kai Lim (Founder, Reprise Health), Elaine Truong (AI Lead, Meta), Angela Bauza (UNITAR), Safira Vijaya (PwC), Paul Soon (McCann)."
     },
     "gary_2026_06_30_coding_agents_gtm_lightning_talks": {
       "title": "Coding Agents + GTM Lightning Talks",
@@ -1895,74 +1964,6 @@
       "map": "https://maps.google.com/?q=Tavily%20HQ%2C%201350%20Broadway",
       "summary": "Gary's Guide: With Base44 & Tavily."
     },
-    "gary_2026_07_09_demo_build_your_own_system": {
-      "title": "Demo - Build Your Own System",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-07-09",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 07/09 · 6:00pm",
-      "price": "$55",
-      "free": false,
-      "place": "BrainStation, 136 Crosby St, 4th Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/pkeasrj/Demo-Build-Your-Own-System",
-      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
-      "summary": "Gary's Guide: With Nabeel Barqawi (Product Conversational AI, Disney)."
-    },
-    "gary_2026_07_11_founder_led_growth_the_content_system_that_brings_cu": {
-      "title": "Founder-Led Growth - The Content System That Brings Customers",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sat",
-      "date": "2026-07-11",
-      "time": "1:30 PM",
-      "sort": 13.5,
-      "when": "Sat, 07/11 · 1:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/c6d0kop/Founder-Led-Growth-The-Content-System-That-Brings-Customers",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Agendan1:302:00 PM Arrival & Check-InnDoors open at 1:30 PM. Guests can arrive, settle in, & meet others before the first seminar begins. Early guests may also wait at the venue for the second session.n2:002:30 PM Seminar Session 1nA 30-minute seminar covering the main framework, examples, & takeaways.n2:302:45 PM Q&A for Session 1nAudience questions & discussion.n2:453:00 PM Intermission / Open ConversationnA short transition window before the second session begins.n3:003:30 PM Seminar Session 2nA repeat of the same 30-minute seminar for guests who prefer the later session.n3:303:45 PM Q&A for Session 2nAudience questions & discussion.n3:454:00 PM Open ConversationnGuests are welcome to stay after the seminars for casual conversation, follow-up questions, & deeper discussion.nNote: Seminar Session 2 is a repeat of Seminar Session 1. Guests only need to attend one session.nMost founders are told to post more content. That advice is expensive, vague, & usually wrong. If you're trying to grow a real business, content should not be a popularity contest, it should be a customer acquisition systemnThis seminar is a practical, direct look at how founders can use content to attract buyers, start conversations, & turn attention into revenue. Jun will walk through the core framework behind content that actually works, the kind that earns trust, creates demand, & brings in customers without wasting weeks guessing what to say nextnnThis session was widely well-received during New York Tech Week, & the response made one thing clear, founders are hungry for a better way to think about content. The ideas shared there helped cut through a lot of noise, & this time the conversation goes even deeper. Expect sharper examples, more usable tactics, & a clearer picture of how to build a content engine around growth, not vanitynnIf you've been treating content as a side task, a branding exercise, or a chore to keep up with, this event will challenge that thinking. The goal is simple, show you how to turn founder-led content into a repeatable system that supports sales & opens doorsnCommunity PartnernnSupermoonis a global network of 42,000 founders, builders, & investors, with over 200 in-person events hosted worldwide.nSupermoon operates Growth Engine, a NYC-based startup program supporting early-stage founders across deep tech, AI, fintech, & digital assets."
-    },
-    "gary_2026_07_14_understanding_work_agency_stewardship_in_age_of_gene": {
-      "title": "Understanding Work, Agency & Stewardship In Age Of Generative & Agentic AI",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-07-14",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Tue, 07/14 · 1:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Candid, 32 Old Slip",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/zdbzqk1/Understanding-Work-Agency-Stewardship-In-Age-Of-Generative-Agentic-AI",
-      "map": "https://maps.google.com/?q=Candid%2C%2032%20Old%20Slip",
-      "summary": "Gary's Guide: All Tech Is Human (ATIH), in partnership with the Notre Dame-IBM Tech Ethics Lab, will host a two-part workshop series focused on perceptions, adoption, & experience with Agentic AI systems across the workforce. Led by Jen Weedon, ATIH Braintrust member, this series aims to surface both strategic & lived insights from across organizational levels, generating a more holistic set of data points to inform responsible research & practice in the enterprise space. On Tuesday, July 14, the conversation moves toward organizational leadership & governance. We will bring together 20-30 senior executives who are currently standing at the crossroads of automation. Whether you are navigating the complexities of adoption, facing regulatory bottlenecks, dealing with internal reorgs or downsizing, and/or weighing the decision to automate core processes, this executive roundtable offers a high-level forum to discuss the ethics of efficiency & the push towards AI-first or AI-native transformations. This workshop aims to surface the process, knowledge, tensions, & skill gaps. Together, we will explore how leadership can drive innovation while maintaining the trust & integrity essential to the modern enterprise. Express your interest below. This workshop will be four hours long. The workshop series will explore how different types of organizations are approaching Agentic AI - from those whose systems are already deployed, to those preparing for rollout, to those still in exploratory phases. By comparing lived experiences with Agentic AI to expectations across roles & organizational contexts, the workshops will surface concerns, decision-making realities, & unintended consequences. The goal is to understand better the dynamics shaping acute & sustained adoption, governance, & the cascading effects on the workforce. Day 2: Agentic AI from the Leadership Perspective (Organizational & Ecosystem Leaders) Agenda forthcoming"
-    },
-    "gary_2026_07_15_quantum_frontiers_responsible_ai_global_dialogue_on_": {
-      "title": "Quantum Frontiers & Responsible AI - Global Dialogue On Emerging Tech",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-15",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Wed, 07/15 · 3:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue,, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/0xlig44/Quantum-Frontiers-Responsible-AI-Global-Dialogue-On-Emerging-Tech",
-      "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: All Tech Is Human & the Consulate General of Finland in New York are putting together a highly curated gathering for 75 individuals across civil society, government, industry, academia, & philanthropy. There will be two panel conversations & networking at the Finnish Consulate in New York, followed by a reception at the Finnish Residence near Central Park. Please express your interest below. All Tech Is Human takes a whole-of-ecosystem approach to tackling thorny tech & society issues & aligning our tech future with the public interest. We are building the crucial social infrastructure for the Responsible Tech ecosystem. Learn more at AllTechIsHuman.org & see all of our projects & initiatives here."
-    },
     "luma_2026_06_23_the_shortlist_june_founder_showcase": {
       "title": "The Shortlist: June Founder Showcase",
       "type": "startup",
@@ -1979,6 +1980,57 @@
       "link": "https://luma.com/shortlistjune",
       "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
       "summary": "Luma NYC: The Shortlist NY, Sangavi Suresh, Andrew Yeung, Ivor Stratford, Betaworks, Lili Davis"
+    },
+    "luma_2026_06_23_kleiner_perkins_openevidence_ai_engineers_at_the_fro": {
+      "title": "Kleiner Perkins × OpenEvidence: AI Engineers at the Frontier",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-06-23",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Tue, 06/23 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/wmlvds6k",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: OpenEvidence, Evan, Eric, Jagath Jai Kumar, Chase Bishop, Nadia Cochinwala, Josh Coyne"
+    },
+    "luma_2026_06_24_agentic_alpha_engineering_high_velocity_autonomy_in_": {
+      "title": "Agentic Alpha: Engineering High-Velocity Autonomy in a Millisecond Economy",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-06-24",
+      "time": "9 PM",
+      "sort": 21,
+      "when": "Wed, 06/24 · 9pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/qydwq3g4",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: VentureBeat, VentureBeat"
+    },
+    "luma_2026_06_24_nyc_ai_demos_10_venture_spotlight": {
+      "title": "NYC AI Demos #10: VENTURE SPOTLIGHT",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-06-24",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Wed, 06/24 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "The Refinery at Domino Offices",
+      "source": "Luma NYC",
+      "link": "https://luma.com/nyc10",
+      "map": "https://maps.google.com/?q=The%20Refinery%20at%20Domino%20Offices%20NYC",
+      "summary": "Luma NYC: Pensar, Kyle Bhiro, TechNYC, Two Trees Management"
     },
     "jc_culture_38567_2026_06_20_life_screening_men_s_prostate_and_colon_screening": {
       "title": "Life Screening Men’s Prostate and Colon Screening",
@@ -2802,6 +2854,14 @@
       "skint_88247_33_swedish_midsummer_festival",
       "skint_88247_34_creatures_of_the_canal_a_bioluminescent_block_party",
       "gary_2026_06_20_near_legion_build_city_agentic_dreamwalls"
+    ],
+    "cluster_2026_06_22_5_30_pm": [
+      "gary_2026_06_22_women_in_product_design_picnic",
+      "gary_2026_06_22_brainhealth_innovation_gtm_bootcamp"
+    ],
+    "cluster_2026_06_23_5_30_pm": [
+      "gary_2026_06_23_daytona_ai_builders",
+      "gary_2026_06_23_al_agent_security_documentary_premiere"
     ],
     "cluster_2026_06_23_6_pm": [
       "gary_2026_06_23_the_shortlist_founder_showcase",
