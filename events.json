@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 19, 2026, 4:53 PM EDT",
+    "checked": "Jun 20, 2026, 8:24 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-06-19",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Jun 19"
-      },
       {
         "iso": "2026-06-20",
         "key": "Sat",
@@ -45,15 +39,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Jun 25"
+      },
+      {
+        "iso": "2026-06-26",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Jun 26"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-06-19",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Jun 19"
-      },
       {
         "iso": "2026-06-20",
         "key": "Sat",
@@ -233,9 +227,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Jul 19"
+      },
+      {
+        "iso": "2026-07-20",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Jul 20"
       }
     ],
-    "todayKey": "Fri",
+    "todayKey": "Sat",
     "times": [
       "3 AM",
       "7 AM",
@@ -1198,57 +1198,6 @@
       "map": "https://maps.google.com/?q=belle%20de%20jour%2C%20l%E2%80%99age%20d%E2%80%99or%2C%20the%20exterminating%20angel%2C%20un%20chien%20andalou%2C%20viridiana%2C%20and%20more%20NYC",
       "summary": "film fests /series. Pulled from The Skint's public article feed: sat thru 7/7: around the world with luis buñuel: belle de jour, l’age d’or, the exterminating angel, un chien andalou, viridiana, and more. the paris theater (midtown). $17 general, $15 seniors/students."
     },
-    "skint_88167_0_dog_drag_show_pride_costume_contest": {
-      "title": "dog drag show pride costume contest",
-      "type": "weird",
-      "label": "Weird / Social",
-      "day": "Thu",
-      "date": "2026-06-18",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 06/18 · 6pm doors",
-      "price": "$22",
-      "free": false,
-      "place": "9 bob note @ 3 dollar bill (east williamsburg), $22",
-      "source": "The Skint",
-      "link": "https://www.3dollarbillbk.com/rsvp/2026/6/18/dog-drag-show-pride-costume-contest",
-      "map": "https://maps.google.com/?q=9%20bob%20note%20%40%203%20dollar%20bill%20(east%20williamsburg)%2C%20%2422%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 6pm doors: dog drag show pride costume contest: 9 bob note @ 3 dollar bill (east williamsburg), $22."
-    },
-    "skint_88167_1_alfreda_s_cinema_presents_the_learning_tree_the_boys": {
-      "title": "alfreda’s cinema, presents the learning tree + the boys and the bees",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Thu",
-      "date": "2026-06-18",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Thu, 06/18 · 4-11pm",
-      "price": "$15 suggested",
-      "free": false,
-      "place": "prospect park boathouse",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/alfredas-cinema-presents-the-learning-tree-1969-the-boys-and-the-bees-tickets-1987001371591",
-      "map": "https://maps.google.com/?q=prospect%20park%20boathouse%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 4-11pm: alfreda’s cinema, presents the learning tree + the boys and the bees: prospect park boathouse. $15 suggested donation."
-    },
-    "skint_88167_2_beyond_the_black_box_presents_juneteenth_dance_party": {
-      "title": "beyond the black box presents: juneteenth dance party + cookout",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Thu",
-      "date": "2026-06-18",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Thu, 06/18 · 10pm",
-      "price": "$10",
-      "free": false,
-      "place": "house of yes (bushwick), $10 adv, $20 door",
-      "source": "The Skint",
-      "link": "https://www.houseofyes.org/calendar",
-      "map": "https://maps.google.com/?q=house%20of%20yes%20(bushwick)%2C%20%2410%20adv%2C%20%2420%20door%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 10pm: beyond the black box presents: juneteenth dance party + cookout: house of yes (bushwick), $10 adv, $20 door."
-    },
     "gary_2026_06_20_near_legion_build_city_agentic_dreamwalls": {
       "title": "NEAR Legion Build City - Agentic Dreamwalls",
       "type": "tech",
@@ -1299,6 +1248,23 @@
       "link": "https://www.garysguide.com/events/ct4wu93/Roller-Coaster-Of-Climate-Tech-Investing",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Josh Lerner (Prof., Harvard Business School), Reuben Munger (Vision Ridge), Ron Gonen (Closed Loop Partners)."
+    },
+    "gary_2026_06_22_brainhealth_innovation_gtm_bootcamp": {
+      "title": "BrainHealth Innovation + GTM Bootcamp",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-06-22",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Mon, 06/22 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "FINN Partners, 1675 Broadway",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/z1ot8ts/BrainHealth-Innovation-GTM-Bootcamp",
+      "map": "https://maps.google.com/?q=FINN%20Partners%2C%201675%20Broadway",
+      "summary": "Gary's Guide: With Esther Howard (CEO, Bezyl), Gal Veksler (LionBird), Maria Blekher (Serendipity Impact VC), Richard Hatzfeld (Co-Lead Global Health Impact, FINN)."
     },
     "gary_2026_06_23_commercenext_growth_show": {
       "title": "CommerceNext Growth Show",
@@ -1794,7 +1760,7 @@
       "summary": "Gary's Guide: With Glimpse, VHS Ventures, Bridge, Phoenicia Diner, Veselka, Monte's Sauce."
     },
     "gary_2026_06_30_tech_business_summit_se_asia_edition": {
-      "title": "Tech & Business Summit Se Asia Edition",
+      "title": "Tech & Business Summit SE Asia Edition",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Tue",
@@ -1806,7 +1772,7 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/9bfpgdo/Tech-Business-Summit-Se-Asia-Edition",
+      "link": "https://www.garysguide.com/events/9bfpgdo/Tech-Business-Summit-SE-Asia-Edition",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Singapore Global Network."
     },
@@ -1997,23 +1963,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: All Tech Is Human & the Consulate General of Finland in New York are putting together a highly curated gathering for 75 individuals across civil society, government, industry, academia, & philanthropy. There will be two panel conversations & networking at the Finnish Consulate in New York, followed by a reception at the Finnish Residence near Central Park. Please express your interest below. All Tech Is Human takes a whole-of-ecosystem approach to tackling thorny tech & society issues & aligning our tech future with the public interest. We are building the crucial social infrastructure for the Responsible Tech ecosystem. Learn more at AllTechIsHuman.org & see all of our projects & initiatives here."
     },
-    "gary_2026_07_17_ai_engineers_game_night": {
-      "title": "AI Engineers - Game Night",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-07-17",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Fri, 07/17 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/4pwp82h/AI-Engineers-Game-Night",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Night of Smash Bros, Mario Kart, board games & good conversation."
-    },
     "luma_2026_06_23_the_shortlist_june_founder_showcase": {
       "title": "The Shortlist: June Founder Showcase",
       "type": "startup",
@@ -2030,23 +1979,6 @@
       "link": "https://luma.com/shortlistjune",
       "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
       "summary": "Luma NYC: The Shortlist NY, Sangavi Suresh, Andrew Yeung, Ivor Stratford, Betaworks, Lili Davis"
-    },
-    "jc_culture_38888_2026_06_19_juneteenth_freedom_flag_mural_event_2026": {
-      "title": "Juneteenth Freedom Flag Mural Event 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Fri, 06/19 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CROSSWALK INTERSECTION OF DWIGHT & MLK DRIVE, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/juneteenth-freedom-flag-mural-event-2026/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor What's Coming Up?."
     },
     "jc_culture_38567_2026_06_20_life_screening_men_s_prostate_and_colon_screening": {
       "title": "Life Screening Men’s Prostate and Colon Screening",
@@ -2761,6 +2693,40 @@
       "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-orchestre-moto/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "&nbsp; JC Summerfest featuring Orchestre Moto (Congolese Dance Music) North Cove Field Liberty State Park 6pm-8pm"
+    },
+    "jc_culture_38062_2026_07_21_jersey_city_summerfest_2026_forget_the_whale": {
+      "title": "Jersey City Summerfest 2026 / Forget the Whale",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Tue",
+      "date": "2026-07-21",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Tue, 07/21 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Liberty State Park. South Lawn, Freedom Way, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-forget-the-whale/",
+      "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
+      "summary": "&nbsp; JC Summerfest featuring Forget the Whale Rock n’ Roll, Blues, Country South Cove Lawn Liberty State Park 6:30pm-8:30pm"
+    },
+    "jc_culture_37948_2026_07_21_movies_in_the_park_2026_lego_batman": {
+      "title": "Movies in the Park 2026 / Lego Batman",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Tue",
+      "date": "2026-07-21",
+      "time": "8:30 PM",
+      "sort": 20.5,
+      "when": "Tue, 07/21 · 8:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ARLINGTON PARK, Btw Grand Street and Arlington Ave",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-lego-batman/",
+      "map": "https://maps.google.com/?q=ARLINGTON%20PARK%2C%20Btw%20Grand%20Street%20and%20Arlington%20Ave",
+      "summary": "Arlington Park featuring Lego Batman"
     }
   },
   "clusters": {
