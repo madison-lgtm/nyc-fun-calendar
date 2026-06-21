@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 20, 2026, 4:51 PM EDT",
+    "checked": "Jun 21, 2026, 9:01 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-06-20",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Jun 20"
-      },
       {
         "iso": "2026-06-21",
         "key": "Sun",
@@ -45,15 +39,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Jun 26"
+      },
+      {
+        "iso": "2026-06-27",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Jun 27"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-06-20",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Jun 20"
-      },
       {
         "iso": "2026-06-21",
         "key": "Sun",
@@ -233,9 +227,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Jul 20"
+      },
+      {
+        "iso": "2026-07-21",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Jul 21"
       }
     ],
-    "todayKey": "Sat",
+    "todayKey": "Sun",
     "times": [
       "3 AM",
       "7 AM",
@@ -451,245 +451,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_88247_0_recess_kickball_league_s_sixth_annual_juneteenth_cla": {
-      "title": "recess kickball league’s sixth annual juneteenth classic",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Fri, 06/19 · 11am-4pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "st",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/recesskickballleague/",
-      "map": "https://maps.google.com/?q=st%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 11am-4pm: recess kickball league’s sixth annual juneteenth classic: st. john’s park (crown heights)."
-    },
-    "skint_88247_1_the_cookout_party_juneteenth_celebration": {
-      "title": "the cookout party: juneteenth celebration",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Fri, 06/19 · 11am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "prospect park long meadow",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/the.cookoutparty/",
-      "map": "https://maps.google.com/?q=prospect%20park%20long%20meadow%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 11am-6pm: the cookout party: juneteenth celebration: prospect park long meadow."
-    },
-    "skint_88247_2_gay_gayer_gayest_present_prideteenth_in_the_park": {
-      "title": "gay, gayer, gayest present: prideteenth in the park",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Fri, 06/19 · 12pm-7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "prospect park",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/ggg.nyc",
-      "map": "https://maps.google.com/?q=prospect%20park%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 12pm-7pm: gay, gayer, gayest present: prideteenth in the park: prospect park."
-    },
-    "skint_88247_3_fifth_annual_juneteenth_food_festival": {
-      "title": "fifth annual juneteenth food festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Fri, 06/19 · 12-8pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "weeksville heritage center (crown heights)",
-      "source": "The Skint",
-      "link": "https://www.weeksvillesociety.org/event/5th-annual-juneteenth-food-festival/",
-      "map": "https://maps.google.com/?q=weeksville%20heritage%20center%20(crown%20heights)%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 12-8pm: fifth annual juneteenth food festival: weeksville heritage center (crown heights)."
-    },
-    "skint_88247_4_juneteenth_celebration_in_historic_seneca_village": {
-      "title": "juneteenth celebration in historic seneca village",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Fri, 06/19 · 1pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "(central park)",
-      "source": "The Skint",
-      "link": "https://www.centralparknyc.org/activities/events/celebrate-juneteenth-in-seneca-village",
-      "map": "https://maps.google.com/?q=(central%20park)%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 1pm: juneteenth celebration in historic seneca village: (central park)."
-    },
-    "skint_88247_5_st_john_the_divine_s_juneteenth_celebration": {
-      "title": "st. john the divine’s juneteenth celebration",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Fri, 06/19 · 2-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "on the pulpit green (morningside heights)",
-      "source": "The Skint",
-      "link": "https://www.stjohndivine.org/calendar/58003/juneteenth-picnic",
-      "map": "https://maps.google.com/?q=on%20the%20pulpit%20green%20(morningside%20heights)%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 2-5pm: st. john the divine’s juneteenth celebration: on the pulpit green (morningside heights)."
-    },
-    "skint_88247_6_the_soapbox_presents_the_5th_annual_big_band_jubilee": {
-      "title": "the soapbox presents: the 5th annual big band jubilee",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Fri, 06/19 · 2-9pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "denny farrell riverbank state park main stage (west harlem)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/p/DZn4rH9jlKA/",
-      "map": "https://maps.google.com/?q=denny%20farrell%20riverbank%20state%20park%20main%20stage%20(west%20harlem)%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 2-9pm: the soapbox presents: the 5th annual big band jubilee: denny farrell riverbank state park main stage (west harlem)."
-    },
-    "skint_88247_7_juneteenth_celebration_infinity_song_annie_and_the_c": {
-      "title": "juneteenth celebration: infinity song + annie and the caldwells + victory boyd + dj duane",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Fri, 06/19 · 3-8pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "prospect park’s lena horne bandshell",
-      "source": "The Skint",
-      "link": "https://bricartsmedia.org/event/juneteenth-at-bcb-infinity-song-annie-and-the-caldwells-victory-boyd-dj-duane/",
-      "map": "https://maps.google.com/?q=prospect%20park%E2%80%99s%20lena%20horne%20bandshell%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 3-8pm: juneteenth celebration: infinity song + annie and the caldwells + victory boyd + dj duane: prospect park’s lena horne bandshell."
-    },
-    "skint_88247_8_live_puzzling_with_black_crossword_juneteenth_editio": {
-      "title": "live puzzling with black crossword: juneteenth edition",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Fri, 06/19 · 4pm",
-      "price": "$5",
-      "free": false,
-      "place": "liz’s book bar (carroll gardens)",
-      "source": "The Skint",
-      "link": "https://lizsbookbar.com/events/1068820260619",
-      "map": "https://maps.google.com/?q=liz%E2%80%99s%20book%20bar%20(carroll%20gardens)%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 4pm: live puzzling with black crossword: juneteenth edition: liz’s book bar (carroll gardens). $5."
-    },
-    "skint_88247_9_sixth_annual_broadway_celebrate_juneteenth_outdoor_c": {
-      "title": "sixth annual broadway celebrate juneteenth outdoor concert",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Fri, 06/19 · 4pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "duffy square (times square)",
-      "source": "The Skint",
-      "link": "https://belonging.broadway/black-to-broadway/broadway-celebrates-juneteenth/",
-      "map": "https://maps.google.com/?q=duffy%20square%20(times%20square)%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 4pm: sixth annual broadway celebrate juneteenth outdoor concert: duffy square (times square)."
-    },
-    "skint_88247_10_ogemdi_ude_major_juneteenth_performance": {
-      "title": "ogemdi ude: major: juneteenth performance",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 06/19 · 6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "prospect park boathouse + audubon center",
-      "source": "The Skint",
-      "link": "https://www.prospectpark.org/event/ogemdi-ude-major-juneteenth-performance/",
-      "map": "https://maps.google.com/?q=prospect%20park%20boathouse%20%2B%20audubon%20center%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 6pm: ogemdi ude: major: juneteenth performance: prospect park boathouse + audubon center."
-    },
-    "skint_88247_11_the_unsung_collective_chamber_orchestra_juneteeth_ce": {
-      "title": "the unsung collective chamber orchestra: juneteeth celebration",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Fri, 06/19 · 7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "bryant park (midtown)",
-      "source": "The Skint",
-      "link": "https://bryantpark.org/calendar/event/unsung/2026-06-19",
-      "map": "https://maps.google.com/?q=bryant%20park%20(midtown)%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 7pm: the unsung collective chamber orchestra: juneteeth celebration: bryant park (midtown)."
-    },
-    "skint_88247_12_carl_hancock_rux_s_oh_sankofa_a_juneteenth_celebrati": {
-      "title": "carl hancock rux’s oh sankofa: a juneteenth celebration",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Fri, 06/19 · 7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "lincoln center’s hearst plaza (uws)",
-      "source": "The Skint",
-      "link": "https://www.lincolncenter.org/series/summer-for-the-city/carl-hancock-ruxandrsquos-lessemgreateroh-sankofalessemgreater",
-      "map": "https://maps.google.com/?q=lincoln%20center%E2%80%99s%20hearst%20plaza%20(uws)%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 7pm: carl hancock rux’s oh sankofa: a juneteenth celebration: lincoln center’s hearst plaza (uws)."
-    },
-    "skint_88247_13_the_chelsea_symphony_dances_of_freedom": {
-      "title": "the chelsea symphony: ‘dances of freedom’",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Fri, 06/19 · + sat (8pm)",
-      "price": "$20 suggested",
-      "free": false,
-      "place": "the dimenna center for classical music (midtown), $20 suggested donation at the door, or $30 adv for premium seating",
-      "source": "The Skint",
-      "link": "https://chelseasymphony.org",
-      "map": "https://maps.google.com/?q=the%20dimenna%20center%20for%20classical%20music%20(midtown)%2C%20%2420%20suggested%20donation%20at%20the%20door%2C%20or%20%2430%20adv%20for%20premium%20seating%20NYC",
-      "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri + sat (8pm): the chelsea symphony: ‘dances of freedom’: the dimenna center for classical music (midtown), $20 suggested donation at the door, or $30 adv for premium seating."
-    },
-    "skint_88247_14_33rd_annual_harlem_juneteenth_parade_celebration": {
+    "skint_88247_0_33rd_annual_harlem_juneteenth_parade_celebration": {
       "title": "33rd annual harlem juneteenth parade + celebration",
       "type": "art",
       "label": "Art / Culture",
@@ -706,7 +468,7 @@
       "map": "https://maps.google.com/?q=parade%20begins%20at%20116th%20and%20malcolm%20x%20blvd%20NYC",
       "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-6pm: 33rd annual harlem juneteenth parade + celebration: parade begins at 116th and malcolm x blvd."
     },
-    "skint_88247_15_we_outside_a_brooklyn_juneteenth_vol_iv": {
+    "skint_88247_1_we_outside_a_brooklyn_juneteenth_vol_iv": {
       "title": "we outside! a brooklyn juneteenth, vol. iv",
       "type": "art",
       "label": "Art / Culture",
@@ -723,7 +485,7 @@
       "map": "https://maps.google.com/?q=the%20plaza%20at%20300%20ashland%20(fort%20greene)%20NYC",
       "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 2-8pm: we outside! a brooklyn juneteenth, vol. iv: the plaza at 300 ashland (fort greene)."
     },
-    "skint_88247_16_new_york_city_gay_men_s_chorus_presents_unspeakable_": {
+    "skint_88247_2_new_york_city_gay_men_s_chorus_presents_unspeakable_": {
       "title": "new york city gay men’s chorus presents: unspeakable joy – a juneteenth concert",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -740,24 +502,7 @@
       "map": "https://maps.google.com/?q=christ%20church%20nyc%20(ues)%20NYC",
       "summary": "juneteenth events and celebrations: (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 8pm: new york city gay men’s chorus presents: unspeakable joy – a juneteenth concert: christ church nyc (ues)."
     },
-    "skint_88247_17_pridefest_new_queer_performances": {
-      "title": "pridefest: new queer performances",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 06/19 · thru 6/30",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "the tank (garment district)",
-      "source": "The Skint",
-      "link": "https://thetanknyc.org/pridefest-2026",
-      "map": "https://maps.google.com/?q=the%20tank%20(garment%20district)%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri thru 6/30: pridefest: new queer performances: the tank (garment district). various prices."
-    },
-    "skint_88247_18_brooklyn_s_youth_pride": {
+    "skint_88247_3_brooklyn_s_youth_pride": {
       "title": "brooklyn’s youth pride",
       "type": "art",
       "label": "Art / Culture",
@@ -774,7 +519,7 @@
       "map": "https://maps.google.com/?q=industry%20city%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-5pm: brooklyn’s youth pride: industry city."
     },
-    "skint_88247_19_astoria_has_pride_4th_annual_picnic_in_the_park": {
+    "skint_88247_4_astoria_has_pride_4th_annual_picnic_in_the_park": {
       "title": "astoria has pride: 4th annual picnic in the park",
       "type": "market",
       "label": "Festival / Market",
@@ -791,7 +536,7 @@
       "map": "https://maps.google.com/?q=socrates%20sculpture%20park%20(lic)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-6pm: astoria has pride: 4th annual picnic in the park: socrates sculpture park (lic)."
     },
-    "skint_88247_20_da_bronx_pride_festival_from_da_bronx_to_da_world": {
+    "skint_88247_5_da_bronx_pride_festival_from_da_bronx_to_da_world": {
       "title": "da bronx pride festival: from da bronx to da world",
       "type": "market",
       "label": "Festival / Market",
@@ -808,7 +553,7 @@
       "map": "https://maps.google.com/?q=westchester%20ave%20between%20brooke%20ave%20%2B%20bergen%20ave%20(bronx)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-6pm: da bronx pride festival: from da bronx to da world: westchester ave between brooke ave + bergen ave (bronx)."
     },
-    "skint_88247_21_lower_east_side_pride_bookstore_crawl": {
+    "skint_88247_6_lower_east_side_pride_bookstore_crawl": {
       "title": "lower east side pride bookstore crawl",
       "type": "art",
       "label": "Art / Culture",
@@ -825,7 +570,7 @@
       "map": "https://maps.google.com/?q=various%20locations%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-7pm: lower east side pride bookstore crawl: various locations."
     },
-    "skint_88247_22_the_good_judy_pride_block_party": {
+    "skint_88247_7_the_good_judy_pride_block_party": {
       "title": "the good judy pride block party",
       "type": "market",
       "label": "Festival / Market",
@@ -842,7 +587,7 @@
       "map": "https://maps.google.com/?q=south%20slope%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 1-6pm: the good judy pride block party: south slope"
     },
-    "skint_88247_23_purgatory_s_big_queer_street_day_pride_party_iii": {
+    "skint_88247_8_purgatory_s_big_queer_street_day_pride_party_iii": {
       "title": "purgatory’s big queer street day pride party iii",
       "type": "market",
       "label": "Festival / Market",
@@ -859,7 +604,7 @@
       "map": "https://maps.google.com/?q=(bushwick)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 1-7pm: purgatory’s big queer street day pride party iii: (bushwick). free/suggested $15 donation (net proceeds will benefit brooklyn community pride center)."
     },
-    "skint_88247_24_clown_cult_presents_gay_pirates_pride_celebration_3_": {
+    "skint_88247_9_clown_cult_presents_gay_pirates_pride_celebration_3_": {
       "title": "clown cult presents: gay pirates: pride celebration + 3 year anniversary",
       "type": "art",
       "label": "Art / Culture",
@@ -876,7 +621,7 @@
       "map": "https://maps.google.com/?q=3%20dollar%20bill%20(bushwick)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 7pm-4am: clown cult presents: gay pirates: pride celebration + 3 year anniversary: 3 dollar bill (bushwick). $20+."
     },
-    "skint_88247_25_scream_scene_presents_interview_with_the_vampire_scr": {
+    "skint_88247_10_scream_scene_presents_interview_with_the_vampire_scr": {
       "title": "scream scene presents: interview with the vampire screening + drag show",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -893,7 +638,7 @@
       "map": "https://maps.google.com/?q=pine%20box%20rock%20shop%20(bushwick)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 6pm: scream scene presents: interview with the vampire screening + drag show: pine box rock shop (bushwick)."
     },
-    "skint_88247_26_folsom_street_east_street_festival_fetish_frontiers": {
+    "skint_88247_11_folsom_street_east_street_festival_fetish_frontiers": {
       "title": "folsom street east street festival: fetish frontiers",
       "type": "market",
       "label": "Festival / Market",
@@ -910,7 +655,7 @@
       "map": "https://maps.google.com/?q=27th%20st%20between%2011th%20%2B%2012th%20aves%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-6pm: folsom street east street festival: fetish frontiers: 27th st between 11th + 12th aves. $27.93."
     },
-    "skint_88247_27_the_ripped_bodice_presents_celebrating_queer_romance": {
+    "skint_88247_12_the_ripped_bodice_presents_celebrating_queer_romance": {
       "title": "the ripped bodice presents: celebrating queer romance pride panel + party",
       "type": "tech",
       "label": "Tech / AI",
@@ -927,24 +672,7 @@
       "map": "https://maps.google.com/?q=littlefield%20(gowanus)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon 8pm: the ripped bodice presents: celebrating queer romance pride panel + party: littlefield (gowanus). $15."
     },
-    "skint_88247_28_puppetworks_bizarre_bazaar_moving_sale": {
-      "title": "puppetworks’ bizarre bazaar moving sale",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Fri, 06/19 · 11am-evening",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "puppetworks theater (park slope)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/p/DZNdSI_jRUJ/",
-      "map": "https://maps.google.com/?q=puppetworks%20theater%20(park%20slope)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 11am-evening: puppetworks’ bizarre bazaar moving sale: puppetworks theater (park slope)."
-    },
-    "skint_88247_29_the_42nd_st_card_show": {
+    "skint_88247_13_the_42nd_st_card_show": {
       "title": "the 42nd st. card show",
       "type": "market",
       "label": "Festival / Market",
@@ -961,7 +689,7 @@
       "map": "https://maps.google.com/?q=the%20westin%20nyc%20grand%20central%20(midtown%20east)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-8pm: the 42nd st. card show: the westin nyc grand central (midtown east). $15 general, $25 early entry."
     },
-    "skint_88247_30_june_balloon_2026_a_children_s_festival_for_everyone": {
+    "skint_88247_14_june_balloon_2026_a_children_s_festival_for_everyone": {
       "title": "june balloon 2026: a children’s festival for everyone",
       "type": "market",
       "label": "Festival / Market",
@@ -978,7 +706,7 @@
       "map": "https://maps.google.com/?q=brower%20park%20(crown%20heights)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-6pm: june balloon 2026: a children’s festival for everyone: brower park (crown heights)."
     },
-    "skint_88247_31_17th_annual_nyc_multicultural_festival_harlem_welcom": {
+    "skint_88247_15_17th_annual_nyc_multicultural_festival_harlem_welcom": {
       "title": "17th annual nyc multicultural festival: harlem welcomes the world",
       "type": "market",
       "label": "Festival / Market",
@@ -995,7 +723,7 @@
       "map": "https://maps.google.com/?q=st%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-6pm: 17th annual nyc multicultural festival: harlem welcomes the world: st. nicholas ave between 141st st. + 145th st."
     },
-    "skint_88247_32_chocolate_house_grand_opening_200_free_house_cups_th": {
+    "skint_88247_16_chocolate_house_grand_opening_200_free_house_cups_th": {
       "title": "chocolate house grand opening: 200 free house cups, then 50% off the entire menu until 7pm",
       "type": "market",
       "label": "Festival / Market",
@@ -1012,7 +740,7 @@
       "map": "https://maps.google.com/?q=161%20n%207th%20st%20(williamsburg)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 3-7pm: chocolate house grand opening: 200 free house cups, then 50% off the entire menu until 7pm: 161 n 7th st (williamsburg)."
     },
-    "skint_88247_33_swedish_midsummer_festival": {
+    "skint_88247_17_swedish_midsummer_festival": {
       "title": "swedish midsummer festival",
       "type": "market",
       "label": "Festival / Market",
@@ -1029,7 +757,7 @@
       "map": "https://maps.google.com/?q=rockefeller%20park%20(battery%20park%20city)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 4-9pm: swedish midsummer festival: rockefeller park (battery park city)."
     },
-    "skint_88247_34_creatures_of_the_canal_a_bioluminescent_block_party": {
+    "skint_88247_18_creatures_of_the_canal_a_bioluminescent_block_party": {
       "title": "creatures of the canal: a bioluminescent block party",
       "type": "market",
       "label": "Festival / Market",
@@ -1046,7 +774,7 @@
       "map": "https://maps.google.com/?q=420%20carroll%20st%20and%20gowanys%20dredgers%20boathouse%20(gowanus)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 4-10pm (rain date 7/25): creatures of the canal: a bioluminescent block party: 420 carroll st and gowanys dredgers boathouse (gowanus)."
     },
-    "skint_88247_35_brooklyn_pop_up_x_red_hook_summer_maker_market": {
+    "skint_88247_19_brooklyn_pop_up_x_red_hook_summer_maker_market": {
       "title": "brooklyn pop-up x red hook summer maker market",
       "type": "market",
       "label": "Festival / Market",
@@ -1063,7 +791,7 @@
       "map": "https://maps.google.com/?q=hook%20studio%20(161%20dikeman%20street)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun 12-6pm: brooklyn pop-up x red hook summer maker market: hook studio (161 dikeman street)."
     },
-    "skint_88247_36_25th_annual_egg_rolls_egg_creams_and_empanadas_festi": {
+    "skint_88247_20_25th_annual_egg_rolls_egg_creams_and_empanadas_festi": {
       "title": "25th annual egg rolls, egg creams, and empanadas festival",
       "type": "market",
       "label": "Festival / Market",
@@ -1080,7 +808,7 @@
       "map": "https://maps.google.com/?q=eldridge%20st%20between%20canal%20%2B%20division%20sts%20(les)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-4pm: 25th annual egg rolls, egg creams, and empanadas festival: eldridge st between canal + division sts (les)."
     },
-    "skint_88247_37_nyc_plant_market": {
+    "skint_88247_21_nyc_plant_market": {
       "title": "nyc plant market",
       "type": "market",
       "label": "Festival / Market",
@@ -1097,7 +825,7 @@
       "map": "https://maps.google.com/?q=culture%20lab%20lic%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-7pm (monthly thru 10/18): nyc plant market: culture lab lic."
     },
-    "skint_88247_38_summer_solstice_yoga_block_party": {
+    "skint_88247_22_summer_solstice_yoga_block_party": {
       "title": "summer solstice yoga block party",
       "type": "market",
       "label": "Festival / Market",
@@ -1114,41 +842,7 @@
       "map": "https://maps.google.com/?q=93-75%20north%2015th%20st%20(greenpoint)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 2pm: summer solstice yoga block party: 93-75 north 15th st (greenpoint). byo mat."
     },
-    "skint_88247_39_back_to_the_fox_the_early_films_of_michael_j_fox": {
-      "title": "back to the fox: the early films of michael j. fox",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 06/19 · thru 6/28",
-      "price": "$18",
-      "free": false,
-      "place": "back to the future, class of 1984, light of day, teen wolf",
-      "source": "The Skint",
-      "link": "https://metrograph.com/michael-j-fox/",
-      "map": "https://maps.google.com/?q=back%20to%20the%20future%2C%20class%20of%201984%2C%20light%20of%20day%2C%20teen%20wolf%20NYC",
-      "summary": "film fests /series. Pulled from The Skint's public article feed: fri thru 6/28: back to the fox: the early films of michael j. fox: back to the future, class of 1984, light of day, teen wolf. metrograph (les), $18."
-    },
-    "skint_88247_40_hotel_europa": {
-      "title": "hotel europa",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-06-19",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Fri, 06/19 · thru 7/4",
-      "price": "$18",
-      "free": false,
-      "place": "daughters of darkness, death in venice, europa, grand budapest hotel, and more",
-      "source": "The Skint",
-      "link": "https://metrograph.com/hotel-europa/",
-      "map": "https://maps.google.com/?q=daughters%20of%20darkness%2C%20death%20in%20venice%2C%20europa%2C%20grand%20budapest%20hotel%2C%20and%20more%20NYC",
-      "summary": "film fests /series. Pulled from The Skint's public article feed: fri thru 7/4: hotel europa: daughters of darkness, death in venice, europa, grand budapest hotel, and more. metrograph (les), $18."
-    },
-    "skint_88247_41_hoboken_docs_film_festival": {
+    "skint_88247_23_hoboken_docs_film_festival": {
       "title": "hoboken docs film festival",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -1165,7 +859,7 @@
       "map": "https://maps.google.com/?q=antique%20loft%20at%20riverview%20(hoboken%2C%20nj)%20NYC",
       "summary": "film fests /series. Pulled from The Skint's public article feed: sat 5-11pm: hoboken docs film festival: antique loft at riverview (hoboken, nj). $20."
     },
-    "skint_88247_42_divas_on_screen": {
+    "skint_88247_24_divas_on_screen": {
       "title": "divas on screen",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -1182,7 +876,7 @@
       "map": "https://maps.google.com/?q=arthur%2C%20a%20star%20is%20born%2C%20mahogany%2C%20come%20back%20to%20the%205%20%2B%20dime%20jimmy%20dean%2C%20jimmy%20dean%2C%20and%20more%20NYC",
       "summary": "film fests /series. Pulled from The Skint's public article feed: sat thru 7/5: divas on screen: arthur, a star is born, mahogany, come back to the 5 + dime jimmy dean, jimmy dean, and more. roxy cinema (tribeca), $19."
     },
-    "skint_88247_43_around_the_world_with_luis_bu_uel": {
+    "skint_88247_25_around_the_world_with_luis_bu_uel": {
       "title": "around the world with luis buñuel",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -2015,6 +1709,23 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: VentureBeat, VentureBeat"
     },
+    "luma_2026_06_24_ai_engineers_presents_fonzi_s_founders_to_follow": {
+      "title": "AI Engineers Presents: Fonzi's Founders to Follow",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-06-24",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Wed, 06/24 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "Brooklyn, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/lo17rr1c",
+      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
+      "summary": "Luma NYC: AI Engineers - NY, Lauren Cotta, Brett Martin, GV, Sebastian Cuadros"
+    },
     "luma_2026_06_24_nyc_ai_demos_10_venture_spotlight": {
       "title": "NYC AI Demos #10: VENTURE SPOTLIGHT",
       "type": "tech",
@@ -2031,91 +1742,6 @@
       "link": "https://luma.com/nyc10",
       "map": "https://maps.google.com/?q=The%20Refinery%20at%20Domino%20Offices%20NYC",
       "summary": "Luma NYC: Pensar, Kyle Bhiro, TechNYC, Two Trees Management"
-    },
-    "jc_culture_38567_2026_06_20_life_screening_men_s_prostate_and_colon_screening": {
-      "title": "Life Screening Men’s Prostate and Colon Screening",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sat",
-      "date": "2026-06-20",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 06/20 · 10am",
-      "price": "Free",
-      "free": true,
-      "place": "Lincoln Park, 1 County Rd 605, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/life-screening-mens-prostate-and-colon-screening/",
-      "map": "https://maps.google.com/?q=Lincoln%20Park%2C%201%20County%20Rd%20605%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Father’s Day is around the corner, and there’s no better gift than health. Another Glamming The Warrior (GTW) initiative is bringing you Life Screening, an event dedicated to encouraging men to prioritize their health through prostate and colon cancer screenings at Lincoln Park in Jersey City. In collaboration with @rwjbarnabas_health and @hfp_nj, our mission is to screen 200 men and continue saving lives through early detection. Held the day before Father’s Day, this all-men’s event is a reminder for men to take care of themselves, not only for their own future, but for the families who love and depend on them. Bring your father, husband, brother, son, uncle, friend, or any man in your life and encourage them to take this important step. Pre-registration is required. Register the men you love today. This is more than an event, it’s a movement to normalize men’s health and save lives through early detection. #LifeScreening #GlammingTheWarrior #MensHealthMatters #FathersDay #JerseyCity"
-    },
-    "jc_culture_37047_2026_06_20_african_cultural_arts_juneteenth_family_festival_202": {
-      "title": "African Cultural Arts Juneteenth Family Festival 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-06-20",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 06/20 · 12pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Berry Lane Park, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/african-cultural-arts-juneteenth-family-festival-2026/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
-    },
-    "jc_culture_39945_2026_06_20_reclaim_the_block_festival_2026": {
-      "title": "Reclaim the Block Festival 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-06-20",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 06/20 · 12pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "SECOND ST BTWN JERSEY AVE AND ERIE STREET, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/reclaim-the-block-festival-2026/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Join us for the 3rd Annual Reclaim the Block Festival! This free, family-friendly festival transforms a downtown Jersey City block into a vibrant celebration of music, dance, and cultural exchange, bringing together longtime residents and new neighbors alike. Rooted in the traditions of Afro-Puerto Rican Bomba and Plena, the event highlights the role of cultural preservation in strengthening community connection. “Reclaim the Block” was created in response to the rapid changes shaping Jersey City in recent years, offering a space to gather, reflect, and celebrate shared cultural identity. The festival centers on the belief that cultural education and visibility are essential to building and sustaining community. This year’s programming will include live Bomba and Plena performances, Afro-Peruvian music, Latin DJs, hands-on art workshops, cultural exhibits, and local vendors, creating an intergenerational experience for attendees of all ages. Segunda Quimbamba Folkloric Center is a Jersey City-based cultural and educational organization dedicated to the preservation and dissemination of Puerto Rico’s folkloric traditions, particularly Bomba and Plena. Founded in 1997, the Center supports performances, workshops, and community programming that celebrate Afro-Puerto Rican music and dance. Its ensemble, Segunda Quimbamba, has performed nationally and internationally and has been recognized for its contributions to folk and traditional arts, including the New Jersey Heritage Fellowship Award awarded to its founders in 2023. This year, the Segunda Quimbamba School celebrates 20 years of cultural education in Jersey City, and is a Resident Partner at Nimbus Arts Center."
-    },
-    "jc_culture_38746_2026_06_20_drum_create_connect_and_grow_2026": {
-      "title": "Drum, Create, Connect and Grow 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sat",
-      "date": "2026-06-20",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 06/20 · 1pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Riverview Fisk Park, 498 Palisade Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/drum-create-connect-and-grow-2026-3/",
-      "map": "https://maps.google.com/?q=Riverview%20Fisk%20Park%2C%20498%20Palisade%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor."
-    },
-    "jc_culture_39691_2026_06_20_people_of_all_colors_together_jersey_city_summer_soi": {
-      "title": "People of All Colors Together Jersey City Summer Soiree",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-06-20",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Sat, 06/20 · 8pm",
-      "price": "Free",
-      "free": true,
-      "place": "The Ashford, 145 Newark Avenue, Jersey City, New Jersey",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/people-of-all-colors-together-jersey-city-summer-soiree/",
-      "map": "https://maps.google.com/?q=The%20Ashford%2C%20145%20Newark%20Avenue%2C%20Jersey%20City%2C%20New%20Jersey",
-      "summary": "Get ready for a fun-filled summer evening with People of All Colors Together in Jersey City! This in-person Summer Soiree is all about celebrating diversity, making new friends, and enjoying great vibes. Whether you’re catching up with cherished friends or meeting awesome new faces, this event is perfect for everyone. Limited availability. Please respond by Monday, June 15, 2026. This event includes a free buffet and a ticket to enter a drawing to win a summer themed gift basket. All attendees must be at least 21 years of age and have a valid ID."
     },
     "jc_culture_40237_2026_06_21_international_day_of_yoga_2026": {
       "title": "International Day of Yoga 2026",
@@ -2779,6 +2405,23 @@
       "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-lego-batman/",
       "map": "https://maps.google.com/?q=ARLINGTON%20PARK%2C%20Btw%20Grand%20Street%20and%20Arlington%20Ave",
       "summary": "Arlington Park featuring Lego Batman"
+    },
+    "jc_culture_10003560_2026_07_22_hamilton_park_farmers_market_2026": {
+      "title": "Hamilton Park Farmers Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-07-22",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 07/22 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-07-22/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     }
   },
   "clusters": {
@@ -2791,68 +2434,30 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_06_19_11_am": [
-      "skint_88247_0_recess_kickball_league_s_sixth_annual_juneteenth_cla",
-      "skint_88247_1_the_cookout_party_juneteenth_celebration",
-      "skint_88247_28_puppetworks_bizarre_bazaar_moving_sale"
-    ],
-    "cluster_2026_06_19_12_pm": [
-      "skint_88247_2_gay_gayer_gayest_present_prideteenth_in_the_park",
-      "skint_88247_3_fifth_annual_juneteenth_food_festival"
-    ],
-    "cluster_2026_06_19_2_pm": [
-      "skint_88247_5_st_john_the_divine_s_juneteenth_celebration",
-      "skint_88247_6_the_soapbox_presents_the_5th_annual_big_band_jubilee"
-    ],
-    "cluster_2026_06_19_4_pm": [
-      "skint_88247_8_live_puzzling_with_black_crossword_juneteenth_editio",
-      "skint_88247_9_sixth_annual_broadway_celebrate_juneteenth_outdoor_c"
-    ],
-    "cluster_2026_06_19_6_pm": [
-      "skint_88247_10_ogemdi_ude_major_juneteenth_performance",
-      "skint_88247_17_pridefest_new_queer_performances",
-      "skint_88247_39_back_to_the_fox_the_early_films_of_michael_j_fox"
-    ],
-    "cluster_2026_06_19_7_pm": [
-      "skint_88247_11_the_unsung_collective_chamber_orchestra_juneteeth_ce",
-      "skint_88247_12_carl_hancock_rux_s_oh_sankofa_a_juneteenth_celebrati",
-      "skint_88247_40_hotel_europa"
-    ],
     "cluster_2026_06_20_11_am": [
-      "skint_88247_14_33rd_annual_harlem_juneteenth_parade_celebration",
-      "skint_88247_30_june_balloon_2026_a_children_s_festival_for_everyone"
-    ],
-    "cluster_2026_06_20_8_pm": [
-      "skint_88247_16_new_york_city_gay_men_s_chorus_presents_unspeakable_",
-      "jc_culture_39691_2026_06_20_people_of_all_colors_together_jersey_city_summer_soi"
+      "skint_88247_0_33rd_annual_harlem_juneteenth_parade_celebration",
+      "skint_88247_14_june_balloon_2026_a_children_s_festival_for_everyone"
     ],
     "cluster_2026_06_20_12_pm": [
-      "skint_88247_18_brooklyn_s_youth_pride",
-      "skint_88247_19_astoria_has_pride_4th_annual_picnic_in_the_park",
-      "skint_88247_20_da_bronx_pride_festival_from_da_bronx_to_da_world",
-      "skint_88247_21_lower_east_side_pride_bookstore_crawl",
-      "skint_88247_31_17th_annual_nyc_multicultural_festival_harlem_welcom",
-      "skint_88247_35_brooklyn_pop_up_x_red_hook_summer_maker_market",
-      "jc_culture_37047_2026_06_20_african_cultural_arts_juneteenth_family_festival_202",
-      "jc_culture_39945_2026_06_20_reclaim_the_block_festival_2026"
+      "skint_88247_3_brooklyn_s_youth_pride",
+      "skint_88247_4_astoria_has_pride_4th_annual_picnic_in_the_park",
+      "skint_88247_5_da_bronx_pride_festival_from_da_bronx_to_da_world",
+      "skint_88247_6_lower_east_side_pride_bookstore_crawl",
+      "skint_88247_15_17th_annual_nyc_multicultural_festival_harlem_welcom",
+      "skint_88247_19_brooklyn_pop_up_x_red_hook_summer_maker_market"
     ],
     "cluster_2026_06_20_1_pm": [
-      "skint_88247_22_the_good_judy_pride_block_party",
-      "skint_88247_23_purgatory_s_big_queer_street_day_pride_party_iii",
-      "jc_culture_38746_2026_06_20_drum_create_connect_and_grow_2026"
+      "skint_88247_7_the_good_judy_pride_block_party",
+      "skint_88247_8_purgatory_s_big_queer_street_day_pride_party_iii"
     ],
     "cluster_2026_06_20_7_pm": [
-      "skint_88247_24_clown_cult_presents_gay_pirates_pride_celebration_3_",
-      "skint_88247_42_divas_on_screen",
-      "skint_88247_43_around_the_world_with_luis_bu_uel"
-    ],
-    "cluster_2026_06_20_10_am": [
-      "skint_88247_29_the_42nd_st_card_show",
-      "jc_culture_38567_2026_06_20_life_screening_men_s_prostate_and_colon_screening"
+      "skint_88247_9_clown_cult_presents_gay_pirates_pride_celebration_3_",
+      "skint_88247_24_divas_on_screen",
+      "skint_88247_25_around_the_world_with_luis_bu_uel"
     ],
     "cluster_2026_06_20_4_pm": [
-      "skint_88247_33_swedish_midsummer_festival",
-      "skint_88247_34_creatures_of_the_canal_a_bioluminescent_block_party",
+      "skint_88247_17_swedish_midsummer_festival",
+      "skint_88247_18_creatures_of_the_canal_a_bioluminescent_block_party",
       "gary_2026_06_20_near_legion_build_city_agentic_dreamwalls"
     ],
     "cluster_2026_06_22_5_30_pm": [
@@ -2896,6 +2501,10 @@
     "cluster_2026_06_30_6_pm": [
       "gary_2026_06_30_coding_agents_gtm_lightning_talks",
       "gary_2026_06_30_trust_the_agent_verify_the_code"
+    ],
+    "cluster_2026_06_24_10_pm": [
+      "luma_2026_06_24_ai_engineers_presents_fonzi_s_founders_to_follow",
+      "luma_2026_06_24_nyc_ai_demos_10_venture_spotlight"
     ],
     "cluster_2026_07_09_6_30_pm": [
       "jc_culture_37940_2026_07_09_movies_in_the_park_2026_tron_ares",
