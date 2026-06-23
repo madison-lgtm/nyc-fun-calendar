@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 22, 2026, 5:38 PM EDT",
+    "checked": "Jun 23, 2026, 9:37 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-06-22",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Jun 22"
-      },
       {
         "iso": "2026-06-23",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Jun 28"
+      },
+      {
+        "iso": "2026-06-29",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Jun 29"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-06-22",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Jun 22"
-      },
       {
         "iso": "2026-06-23",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Jul 22"
+      },
+      {
+        "iso": "2026-07-23",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Jul 23"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "3 AM",
       "7 AM",
@@ -259,6 +259,8 @@
       "8 PM",
       "8:30 PM",
       "9 PM",
+      "9:30 PM",
+      "9:45 PM",
       "10 PM",
       "10:30 PM"
     ]
@@ -451,24 +453,75 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_88247_0_folsom_street_east_street_festival_fetish_frontiers": {
-      "title": "folsom street east street festival: fetish frontiers",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-06-21",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 06/21 · 11am-6pm",
-      "price": "$27.93",
-      "free": false,
-      "place": "27th st between 11th + 12th aves",
+    "skint_88361_0_astronomy_on_tap_pride_night_edition": {
+      "title": "astronomy on tap: ‘pride night’ edition",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Tue",
+      "date": "2026-06-23",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Tue, 06/23 · 7pm (monthly)",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "somethin’ else in dekalb market hall (downtown brooklyn)",
       "source": "The Skint",
-      "link": "https://www.folsomstreeteast.com",
-      "map": "https://maps.google.com/?q=27th%20st%20between%2011th%20%2B%2012th%20aves%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-6pm: folsom street east street festival: fetish frontiers: 27th st between 11th + 12th aves. $27.93."
+      "link": "https://astronomyontap.org/event/astronomy-on-tap-nyc-175-pride-night-2026-2/",
+      "map": "https://maps.google.com/?q=somethin%E2%80%99%20else%20in%20dekalb%20market%20hall%20(downtown%20brooklyn)%20NYC",
+      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: tues 7pm (monthly): astronomy on tap: ‘pride night’ edition: somethin’ else in dekalb market hall (downtown brooklyn)."
     },
-    "skint_88247_1_the_ripped_bodice_presents_celebrating_queer_romance": {
+    "skint_88361_1_radical_joy_ball_with_adapt": {
+      "title": "radical joy ball with adapt",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-06-25",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Thu, 06/25 · 4-6pm",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "the whitney museum (meatpacking district)",
+      "source": "The Skint",
+      "link": "https://whitney.org/events/radical-joy-ball26",
+      "map": "https://maps.google.com/?q=the%20whitney%20museum%20(meatpacking%20district)%20NYC",
+      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 4-6pm: radical joy ball with adapt: the whitney museum (meatpacking district). rsvp required."
+    },
+    "skint_88361_2_pat_party": {
+      "title": "pat party!",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-06-25",
+      "time": "9 PM",
+      "sort": 21,
+      "when": "Thu, 06/25 · 9pm",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "union pool (williamsburg)",
+      "source": "The Skint",
+      "link": "https://dice.fm/event/mx7avw-pat-party-25th-jun-union-pool-new-york-tickets",
+      "map": "https://maps.google.com/?q=union%20pool%20(williamsburg)%20NYC",
+      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 9pm: pat party!: union pool (williamsburg)."
+    },
+    "skint_88361_3_party_for_change_and_haus_of_lil_girlz_fundraiser_fo": {
+      "title": "party for change and haus of lil girlz: fundraiser for the ali forney center",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-06-25",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Thu, 06/25 · 10pm",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "mood ring (bushwick), $10,",
+      "source": "The Skint",
+      "link": "https://www.instagram.com/p/DZVBh2MpjyL/",
+      "map": "https://maps.google.com/?q=mood%20ring%20(bushwick)%2C%20%2410%2C%20NYC",
+      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 10pm: party for change and haus of lil girlz: fundraiser for the ali forney center: mood ring (bushwick), $10,"
+    },
+    "skint_88247_0_the_ripped_bodice_presents_celebrating_queer_romance": {
       "title": "the ripped bodice presents: celebrating queer romance pride panel + party",
       "type": "tech",
       "label": "Tech / AI",
@@ -484,57 +537,6 @@
       "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1990681291330",
       "map": "https://maps.google.com/?q=littlefield%20(gowanus)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon 8pm: the ripped bodice presents: celebrating queer romance pride panel + party: littlefield (gowanus). $15."
-    },
-    "skint_88247_2_25th_annual_egg_rolls_egg_creams_and_empanadas_festi": {
-      "title": "25th annual egg rolls, egg creams, and empanadas festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-06-21",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 06/21 · 12-4pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "eldridge st between canal + division sts (les)",
-      "source": "The Skint",
-      "link": "https://www.eldridgestreet.org/eee-festival",
-      "map": "https://maps.google.com/?q=eldridge%20st%20between%20canal%20%2B%20division%20sts%20(les)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-4pm: 25th annual egg rolls, egg creams, and empanadas festival: eldridge st between canal + division sts (les)."
-    },
-    "skint_88247_3_nyc_plant_market": {
-      "title": "nyc plant market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-06-21",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 06/21 · 1-7pm (monthly thru 10/18)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "culture lab lic",
-      "source": "The Skint",
-      "link": "https://nycplantmarket.com",
-      "map": "https://maps.google.com/?q=culture%20lab%20lic%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-7pm (monthly thru 10/18): nyc plant market: culture lab lic."
-    },
-    "skint_88247_4_summer_solstice_yoga_block_party": {
-      "title": "summer solstice yoga block party",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-06-21",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sun, 06/21 · 2pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "93-75 north 15th st (greenpoint)",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/yoga-block-party-celebrating-summer-solstice-tickets-1991365545954",
-      "map": "https://maps.google.com/?q=93-75%20north%2015th%20st%20(greenpoint)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 2pm: summer solstice yoga block party: 93-75 north 15th st (greenpoint). byo mat."
     },
     "gary_2026_06_22_roller_coaster_of_climate_tech_investing": {
       "title": "Roller Coaster Of Climate Tech Investing",
@@ -1403,6 +1405,40 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung"
     },
+    "luma_2026_06_25_from_3d_data_to_world_models_research_challenges_in_": {
+      "title": "From 3D Data to World Models: Research Challenges in Physical AI",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-06-25",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Thu, 06/25 · 9:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "45 Main St #526",
+      "source": "Luma NYC",
+      "link": "https://luma.com/q5ldwj0a",
+      "map": "https://maps.google.com/?q=45%20Main%20St%20%23526%20NYC",
+      "summary": "Luma NYC: Protege, Logan, Melissa Lang, Caleb Lee, Rey Pocius, ALLSIDES, Sarah Prugger"
+    },
+    "luma_2026_06_25_strong_opinions_loosely_held_startup_comedy_show_par": {
+      "title": "Strong Opinions, Loosely Held: Startup Comedy Show & Party",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-06-25",
+      "time": "9:45 PM",
+      "sort": 21.75,
+      "when": "Thu, 06/25 · 9:45pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/ddkgo2r2",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Andrew's Yeung's Tech Events, Chargebee, Andrew Yeung"
+    },
     "jc_culture_10003556_2026_06_24_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
       "type": "market",
@@ -1656,7 +1692,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/july-4th-fireworks/",
       "map": "https://maps.google.com/?q=Exchange%20Place%2C%20MONTGOMERY%20ST%20BETWEEN%20HUDSON%20ST.%20AND%20GREEN%20ST.",
-      "summary": "The full day of family-friendly festivities will once again draw tens of thousands of attendees, with over 60 vendors, 3 DJ stages, 2 beer gardens and a Kids’ Zone with activations and bounce castles. The Independence Day celebrations are capped off with breathtaking fireworks over the Hudson River with a picturesque backdrop of the NYC skyline. The celebration kicks off at 12:00 p.m. at Exchange Place. The night will conclude with a spectacular fireworks show, beginning at 9:30 p.m., lighting up the Hudson River synchronized to a patriotic soundtrack and visible across the waterfront. &nbsp;"
+      "summary": "The full day of family-friendly festivities will once again draw tens of thousands of attendees, with over 60 vendors, 3 DJ stages, 2 beer gardens and a Kids’ Zone with activations and bounce castles. The Independence Day celebrations are capped off with breathtaking fireworks over the Hudson River with a picturesque backdrop of the NYC skyline. The celebration kicks off at 12:00 p.m. at Exchange Place. The night will conclude with a spectacular fireworks show, beginning at 9:30 p.m., lighting up the Hudson River synchronized to a patriotic soundtrack and visible across the waterfront. Event Policies & Info"
     },
     "jc_culture_39954_2026_07_04_america_250_jersey_city_style_2026": {
       "title": "America 250 Jersey City Style 2026",
@@ -1811,6 +1847,23 @@
       "map": "https://maps.google.com/?q=Central%20Avenue%2C%20370-437%20Central%20Ave%2CJersey%2C%20Jersey%20City",
       "summary": "“The World on Central” will activate one of Jersey City’s most diverse commercial corridors. In partnership with the Central Avenue Special Improvement District (CASID), this event is designed to drive foot traffic, promote local businesses, and position the Jersey City Heights as a regional destination for cultural celebration and economic activity. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to The World on Central could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
     },
+    "jc_culture_40501_2026_07_11_earlybirds_club_jersey_city": {
+      "title": "Earlybirds Club – Jersey City",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-07-11",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Sat, 07/11 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "WHITE EAGLE HALL, 337 NEWARK AVE., JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/earlybirds-club-jersey-city/",
+      "map": "https://maps.google.com/?q=WHITE%20EAGLE%20HALL%2C%20337%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
+      "summary": "Join us for an unforgettable night at the **Earlybirds Club – Jersey City**! Set against the vibrant backdrop of White Eagle Hall, this live performance promises to be a celebration of music and community. The venue, known for its warm atmosphere and rich history, will come alive as the Earlybirds Club takes the stage, inviting you to immerse yourself in their captivating sound and infectious energy. Whether you’re a longtime fan or new to their music, this event is the perfect opportunity to connect with fellow music lovers in Jersey City. Don’t miss out on the chance to experience an evening filled with great vibes and unforgettable moments. Grab your friends and secure your spot at the **Earlybirds Club – Jersey City White Eagle Hall**—you won’t want to miss this!"
+    },
     "jc_culture_38243_2026_07_12_repair_cafe_2026": {
       "title": "Repair Cafe 2026",
       "type": "art",
@@ -1895,6 +1948,23 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-07-15/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_40548_2026_07_15_how_many_comics_does_it_take_to_fix_everything": {
+      "title": "How Many Comics Does It Take To Fix Everything?",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Wed",
+      "date": "2026-07-15",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Wed, 07/15 · 7pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "WHITE EAGLE HALL, 337 NEWARK AVE., JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/how-many-comics-does-it-take-to-fix-everything/",
+      "map": "https://maps.google.com/?q=WHITE%20EAGLE%20HALL%2C%20337%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
+      "summary": "Everything needs to be fixed! It’s like crazy out there. We’ve gathered as many comedians as possible to put the screws into all the nuts in the world. I mean, how many comedians could it take to fix… everything?! Hosted by Nick Fierro, Joshua Lay and Alex Grubard at White Eagle Hall."
     },
     "jc_culture_38070_2026_07_16_jersey_city_summerfest_2026_demolition_brass_band": {
       "title": "Jersey City Summerfest 2026 / Demolition Brass Band",
@@ -2082,6 +2152,23 @@
       "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-wicked-for-good-2/",
       "map": "https://maps.google.com/?q=BERGEN%20HILL%20PARK%2C%2064%20Summit%20Ave%2C%20JERSEY%20CITY",
       "summary": "Bergen Hill Park featuring Wicked for Good"
+    },
+    "jc_culture_37952_2026_07_24_movies_in_the_park_2026_lilo_stitch": {
+      "title": "Movies in the Park 2026 / Lilo & Stitch",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-07-24",
+      "time": "8:30 PM",
+      "sort": 20.5,
+      "when": "Fri, 07/24 · 8:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "BOYD MCGUINESS PARK, 2565 JFK BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-lilo-stitch/",
+      "map": "https://maps.google.com/?q=BOYD%20MCGUINESS%20PARK%2C%202565%20JFK%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Boyd McGuiness Park featuring Lilo & Stitch"
     }
   },
   "clusters": {
@@ -2093,6 +2180,10 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
+    ],
+    "cluster_2026_06_23_7_pm": [
+      "skint_88361_0_astronomy_on_tap_pride_night_edition",
+      "gary_2026_06_23_ai_paid_ads_more"
     ],
     "cluster_2026_06_22_5_30_pm": [
       "gary_2026_06_22_women_in_product_design_picnic",
@@ -2147,6 +2238,10 @@
     "cluster_2026_07_09_6_30_pm": [
       "jc_culture_37940_2026_07_09_movies_in_the_park_2026_tron_ares",
       "jc_culture_38066_2026_07_09_jersey_city_summerfest_2026_david_cedano"
+    ],
+    "cluster_2026_07_11_6_pm": [
+      "jc_culture_40291_2026_07_11_the_world_on_central_2026",
+      "jc_culture_40501_2026_07_11_earlybirds_club_jersey_city"
     ]
   }
 }
