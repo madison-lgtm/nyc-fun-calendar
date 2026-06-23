@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jun 23, 2026, 9:37 AM EDT",
+    "checked": "Jun 23, 2026, 5:15 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -259,8 +259,6 @@
       "8 PM",
       "8:30 PM",
       "9 PM",
-      "9:30 PM",
-      "9:45 PM",
       "10 PM",
       "10:30 PM"
     ]
@@ -1404,40 +1402,6 @@
       "link": "https://luma.com/jun25breakfast",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung"
-    },
-    "luma_2026_06_25_from_3d_data_to_world_models_research_challenges_in_": {
-      "title": "From 3D Data to World Models: Research Challenges in Physical AI",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-06-25",
-      "time": "9:30 PM",
-      "sort": 21.5,
-      "when": "Thu, 06/25 · 9:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "45 Main St #526",
-      "source": "Luma NYC",
-      "link": "https://luma.com/q5ldwj0a",
-      "map": "https://maps.google.com/?q=45%20Main%20St%20%23526%20NYC",
-      "summary": "Luma NYC: Protege, Logan, Melissa Lang, Caleb Lee, Rey Pocius, ALLSIDES, Sarah Prugger"
-    },
-    "luma_2026_06_25_strong_opinions_loosely_held_startup_comedy_show_par": {
-      "title": "Strong Opinions, Loosely Held: Startup Comedy Show & Party",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-06-25",
-      "time": "9:45 PM",
-      "sort": 21.75,
-      "when": "Thu, 06/25 · 9:45pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/ddkgo2r2",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Andrew's Yeung's Tech Events, Chargebee, Andrew Yeung"
     },
     "jc_culture_10003556_2026_06_24_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
