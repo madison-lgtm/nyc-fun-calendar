@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 23, 2026, 5:15 PM EDT",
+    "checked": "Jun 24, 2026, 9:12 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-06-23",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Jun 23"
-      },
       {
         "iso": "2026-06-24",
         "key": "Wed",
@@ -45,15 +39,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Jun 29"
+      },
+      {
+        "iso": "2026-06-30",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Jun 30"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-06-23",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Jun 23"
-      },
       {
         "iso": "2026-06-24",
         "key": "Wed",
@@ -233,9 +227,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Jul 23"
+      },
+      {
+        "iso": "2026-07-24",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Jul 24"
       }
     ],
-    "todayKey": "Tue",
+    "todayKey": "Wed",
     "times": [
       "3 AM",
       "7 AM",
@@ -246,9 +246,11 @@
       "11:30 AM",
       "12 PM",
       "1 PM",
+      "1:30 PM",
       "2 PM",
       "2:30 PM",
       "3 PM",
+      "3:30 PM",
       "4 PM",
       "4:30 PM",
       "5 PM",
@@ -256,11 +258,11 @@
       "6 PM",
       "6:30 PM",
       "7 PM",
-      "8 PM",
       "8:30 PM",
       "9 PM",
-      "10 PM",
-      "10:30 PM"
+      "9:30 PM",
+      "9:45 PM",
+      "10 PM"
     ]
   },
   "events": {
@@ -518,108 +520,6 @@
       "link": "https://www.instagram.com/p/DZVBh2MpjyL/",
       "map": "https://maps.google.com/?q=mood%20ring%20(bushwick)%2C%20%2410%2C%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 10pm: party for change and haus of lil girlz: fundraiser for the ali forney center: mood ring (bushwick), $10,"
-    },
-    "skint_88247_0_the_ripped_bodice_presents_celebrating_queer_romance": {
-      "title": "the ripped bodice presents: celebrating queer romance pride panel + party",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-06-22",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Mon, 06/22 · 8pm",
-      "price": "$15",
-      "free": false,
-      "place": "littlefield (gowanus)",
-      "source": "The Skint",
-      "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1990681291330",
-      "map": "https://maps.google.com/?q=littlefield%20(gowanus)%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon 8pm: the ripped bodice presents: celebrating queer romance pride panel + party: littlefield (gowanus). $15."
-    },
-    "gary_2026_06_22_roller_coaster_of_climate_tech_investing": {
-      "title": "Roller Coaster Of Climate Tech Investing",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-06-22",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Mon, 06/22 · 12:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ct4wu93/Roller-Coaster-Of-Climate-Tech-Investing",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Josh Lerner (Prof., Harvard Business School), Reuben Munger (Vision Ridge), Ron Gonen (Closed Loop Partners)."
-    },
-    "gary_2026_06_22_women_in_product_design_picnic": {
-      "title": "Women In Product Design Picnic",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-06-22",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Mon, 06/22 · 5:30pm",
-      "price": "$10",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/8nzrhxi/Women-In-Product-Design-Picnic",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Design in the AI era is changing quickly, & it can feel overwhelming to keep up. Meet & mingle with senior women in product design for a picnic & conversation about how we're navigating AI, shifting expectations, & our evolving roles. Food & drinks: There will be cookies & pastries from Dear Nana as well as some light bites. If you want to pick up snacks or food there's a great market nearby the corner of Nassau & Lorimer called McCarren Natural. Location: We will meet in the shady grove of trees in the front left of McCarren Parkhouse. What to bring: Picnic blanket, sunscreen, sunglasses. In the event of bad weather: We will head over to Spritzenhaus 33 right by the park. Audience: To keep our discussion relevant, this event is for women who have been working as product designers for 5+ years."
-    },
-    "gary_2026_06_22_brainhealth_innovation_gtm_bootcamp": {
-      "title": "BrainHealth Innovation + GTM Bootcamp",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-06-22",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Mon, 06/22 · 5:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "FINN Partners, 1675 Broadway",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/z1ot8ts/BrainHealth-Innovation-GTM-Bootcamp",
-      "map": "https://maps.google.com/?q=FINN%20Partners%2C%201675%20Broadway",
-      "summary": "Gary's Guide: With Esther Howard (CEO, Bezyl), Gal Veksler (LionBird), Maria Blekher (Serendipity Impact VC), Richard Hatzfeld (Co-Lead Global Health Impact, FINN)."
-    },
-    "gary_2026_06_22_quantum_computing_meetup": {
-      "title": "Quantum Computing Meetup",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-06-22",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 06/22 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Viam Robotics, 1900 Broadway, 6th Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/3csq8wz/Quantum-Computing-Meetup",
-      "map": "https://maps.google.com/?q=Viam%20Robotics%2C%201900%20Broadway%2C%206th%20Fl",
-      "summary": "Gary's Guide: With Michael Cubeddu (CTO, Aliro)."
-    },
-    "gary_2026_06_22_perspectives_on_modern_creativity_the_artist_the_too": {
-      "title": "Perspectives On Modern Creativity - The Artist & The Toolmaker",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-06-22",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Mon, 06/22 · 7:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Nublu Classic, 62 Loisaida Ave",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/tifmx12/Perspectives-On-Modern-Creativity-The-Artist-The-Toolmaker",
-      "map": "https://maps.google.com/?q=Nublu%20Classic%2C%2062%20Loisaida%20Ave",
-      "summary": "Gary's Guide: With Elmo Lovano (Founder/CEO, Jammcard), Stanley Vergilis (CEO, Tone3000), Andy Thompson (Dir. Product Innovation, Splice), John Hardin (Abundance Institute)."
     },
     "gary_2026_06_23_commercenext_growth_show": {
       "title": "CommerceNext Growth Show",
@@ -1301,39 +1201,90 @@
       "map": "https://maps.google.com/?q=Manhattan%20West%2C%205%20Manhattan%20West",
       "summary": "Gary's Guide: Important: Register on the event website is required for admission. Welcome to the AI meetup in New York City. Join us for deep dive tech talks on AI, GenAI, LLMs & Agent, hands-on experiences on code labs, workshops, & networking with speakers & fellow developers. Agenda: * 5:30pm~6:00pm: Checkin, Food & networking * 6:00pm~6:10pm: Welcome/community update * 6:10pm~8:00pm: Tech talks * 8:00pm: Q&A, Open discussion Speakers & Topics: If you have a keen interest in speaking to our community, we invite you to submit topics for consideration: Submit Topics Sponsors: We are actively seeking sponsors to support our community. Whether it is by offering venue spaces, providing food/drink, or cash sponsor. Sponsors will not only speak at the meetups, receive prominent recognition, but also gain exposure to our extensive membership base of 20,000+ AI developers in New York & 500K+ worldwide."
     },
-    "luma_2026_06_23_the_shortlist_june_founder_showcase": {
-      "title": "The Shortlist: June Founder Showcase",
+    "gary_2026_07_09_demo_build_your_own_system": {
+      "title": "Demo - Build Your Own System",
       "type": "startup",
       "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-06-23",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Tue, 06/23 · 10pm",
+      "day": "Thu",
+      "date": "2026-07-09",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 07/09 · 6:00pm",
+      "price": "$55",
+      "free": false,
+      "place": "BrainStation, 136 Crosby St, 4th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/pkeasrj/Demo-Build-Your-Own-System",
+      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
+      "summary": "Gary's Guide: With Nabeel Barqawi (Product Conversational AI, Disney)."
+    },
+    "gary_2026_07_11_founder_led_growth_the_content_system_that_brings_cu": {
+      "title": "Founder-Led Growth - The Content System That Brings Customers",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Sat",
+      "date": "2026-07-11",
+      "time": "1:30 PM",
+      "sort": 13.5,
+      "when": "Sat, 07/11 · 1:30pm",
       "price": "Free",
       "free": true,
-      "place": "New York, New York",
-      "source": "Luma NYC",
-      "link": "https://luma.com/shortlistjune",
-      "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
-      "summary": "Luma NYC: The Shortlist NY, Sangavi Suresh, Andrew Yeung, Ivor Stratford, Betaworks, Lili Davis"
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/c6d0kop/Founder-Led-Growth-The-Content-System-That-Brings-Customers",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Agendan1:302:00 PM Arrival & Check-InnDoors open at 1:30 PM. Guests can arrive, settle in, & meet others before the first seminar begins. Early guests may also wait at the venue for the second session.n2:002:30 PM Seminar Session 1nA 30-minute seminar covering the main framework, examples, & takeaways.n2:302:45 PM Q&A for Session 1nAudience questions & discussion.n2:453:00 PM Intermission / Open ConversationnA short transition window before the second session begins.n3:003:30 PM Seminar Session 2nA repeat of the same 30-minute seminar for guests who prefer the later session.n3:303:45 PM Q&A for Session 2nAudience questions & discussion.n3:454:00 PM Open ConversationnGuests are welcome to stay after the seminars for casual conversation, follow-up questions, & deeper discussion.nNote: Seminar Session 2 is a repeat of Seminar Session 1. Guests only need to attend one session.nMost founders are told to post more content. That advice is expensive, vague, & usually wrong. If you're trying to grow a real business, content should not be a popularity contest, it should be a customer acquisition systemnThis seminar is a practical, direct look at how founders can use content to attract buyers, start conversations, & turn attention into revenue. Jun will walk through the core framework behind content that actually works, the kind that earns trust, creates demand, & brings in customers without wasting weeks guessing what to say nextnnThis session was widely well-received during New York Tech Week, & the response made one thing clear, founders are hungry for a better way to think about content. The ideas shared there helped cut through a lot of noise, & this time the conversation goes even deeper. Expect sharper examples, more usable tactics, & a clearer picture of how to build a content engine around growth, not vanitynnIf you've been treating content as a side task, a branding exercise, or a chore to keep up with, this event will challenge that thinking. The goal is simple, show you how to turn founder-led content into a repeatable system that supports sales & opens doorsnCommunity PartnernnSupermoonis a global network of 42,000 founders, builders, & investors, with over 200 in-person events hosted worldwide.nSupermoon operates Growth Engine, a NYC-based startup program supporting early-stage founders across deep tech, AI, fintech, & digital assets."
     },
-    "luma_2026_06_23_kleiner_perkins_openevidence_ai_engineers_at_the_fro": {
-      "title": "Kleiner Perkins × OpenEvidence: AI Engineers at the Frontier",
+    "gary_2026_07_14_understanding_work_agency_stewardship_in_age_of_gene": {
+      "title": "Understanding Work, Agency & Stewardship In Age Of Generative & Agentic AI",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Tue",
-      "date": "2026-06-23",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Tue, 06/23 · 10:30pm",
+      "date": "2026-07-14",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Tue, 07/14 · 1:00pm",
       "price": "Free",
       "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/wmlvds6k",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: OpenEvidence, Evan, Eric, Jagath Jai Kumar, Chase Bishop, Nadia Cochinwala, Josh Coyne"
+      "place": "Candid, 32 Old Slip",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/zdbzqk1/Understanding-Work-Agency-Stewardship-In-Age-Of-Generative-Agentic-AI",
+      "map": "https://maps.google.com/?q=Candid%2C%2032%20Old%20Slip",
+      "summary": "Gary's Guide: All Tech Is Human (ATIH), in partnership with the Notre Dame-IBM Tech Ethics Lab, will host a two-part workshop series focused on perceptions, adoption, & experience with Agentic AI systems across the workforce. Led by Jen Weedon, ATIH Braintrust member, this series aims to surface both strategic & lived insights from across organizational levels, generating a more holistic set of data points to inform responsible research & practice in the enterprise space. On Tuesday, July 14, the conversation moves toward organizational leadership & governance. We will bring together 20-30 senior executives who are currently standing at the crossroads of automation. Whether you are navigating the complexities of adoption, facing regulatory bottlenecks, dealing with internal reorgs or downsizing, and/or weighing the decision to automate core processes, this executive roundtable offers a high-level forum to discuss the ethics of efficiency & the push towards AI-first or AI-native transformations. This workshop aims to surface the process, knowledge, tensions, & skill gaps. Together, we will explore how leadership can drive innovation while maintaining the trust & integrity essential to the modern enterprise. Express your interest below. This workshop will be four hours long. The workshop series will explore how different types of organizations are approaching Agentic AI - from those whose systems are already deployed, to those preparing for rollout, to those still in exploratory phases. By comparing lived experiences with Agentic AI to expectations across roles & organizational contexts, the workshops will surface concerns, decision-making realities, & unintended consequences. The goal is to understand better the dynamics shaping acute & sustained adoption, governance, & the cascading effects on the workforce. Day 2: Agentic AI from the Leadership Perspective (Organizational & Ecosystem Leaders) Agenda forthcoming"
+    },
+    "gary_2026_07_15_quantum_frontiers_responsible_ai_global_dialogue_on_": {
+      "title": "Quantum Frontiers & Responsible AI - Global Dialogue On Emerging Tech",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-15",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Wed, 07/15 · 3:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue,, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/0xlig44/Quantum-Frontiers-Responsible-AI-Global-Dialogue-On-Emerging-Tech",
+      "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: All Tech Is Human & the Consulate General of Finland in New York are putting together a highly curated gathering for 75 individuals across civil society, government, industry, academia, & philanthropy. There will be two panel conversations & networking at the Finnish Consulate in New York, followed by a reception at the Finnish Residence near Central Park. Please express your interest below. All Tech Is Human takes a whole-of-ecosystem approach to tackling thorny tech & society issues & aligning our tech future with the public interest. We are building the crucial social infrastructure for the Responsible Tech ecosystem. Learn more at AllTechIsHuman.org & see all of our projects & initiatives here."
+    },
+    "gary_2026_07_15_ai_technology_summit": {
+      "title": "AI Technology Summit",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-15",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Wed, 07/15 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Skidmore Owings at 7WTC, 250 Greenwich St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/gcvczro/AI-Technology-Summit",
+      "map": "https://maps.google.com/?q=Skidmore%20Owings%20at%207WTC%2C%20250%20Greenwich%20St",
+      "summary": "Gary's Guide: With Jeff Perlman (Founder, Bright Power), Ryan Elazari (Founder, CRE Unplugged), Gary Ling & Alfred Zhang (Broadtrade Group)."
     },
     "luma_2026_06_24_agentic_alpha_engineering_high_velocity_autonomy_in_": {
       "title": "Agentic Alpha: Engineering High-Velocity Autonomy in a Millisecond Economy",
@@ -1402,6 +1353,57 @@
       "link": "https://luma.com/jun25breakfast",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung"
+    },
+    "luma_2026_06_25_from_3d_data_to_world_models_research_challenges_in_": {
+      "title": "From 3D Data to World Models: Research Challenges in Physical AI",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-06-25",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Thu, 06/25 · 9:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "45 Main St #526",
+      "source": "Luma NYC",
+      "link": "https://luma.com/q5ldwj0a",
+      "map": "https://maps.google.com/?q=45%20Main%20St%20%23526%20NYC",
+      "summary": "Luma NYC: Protege, Logan, Melissa Lang, Caleb Lee, Rey Pocius, ALLSIDES, Sarah Prugger"
+    },
+    "luma_2026_06_25_strong_opinions_loosely_held_startup_comedy_show_par": {
+      "title": "Strong Opinions, Loosely Held: Startup Comedy Show & Party",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-06-25",
+      "time": "9:45 PM",
+      "sort": 21.75,
+      "when": "Thu, 06/25 · 9:45pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/ddkgo2r2",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Andrew's Yeung's Tech Events, Chargebee, Andrew Yeung"
+    },
+    "luma_2026_06_25_shantell_martin_live_performance_with_zach_lieberman": {
+      "title": "Shantell Martin live performance with Zach Lieberman + CLOUDS by James George",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-06-25",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Thu, 06/25 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "Heft Gallery",
+      "source": "Luma NYC",
+      "link": "https://luma.com/projekt-7j5l",
+      "map": "https://maps.google.com/?q=Heft%20Gallery%20NYC",
+      "summary": "Luma NYC: TRANSMISSIONS, Heft, Shantell Martin MBE"
     },
     "jc_culture_10003556_2026_06_24_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -1656,7 +1658,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/july-4th-fireworks/",
       "map": "https://maps.google.com/?q=Exchange%20Place%2C%20MONTGOMERY%20ST%20BETWEEN%20HUDSON%20ST.%20AND%20GREEN%20ST.",
-      "summary": "The full day of family-friendly festivities will once again draw tens of thousands of attendees, with over 60 vendors, 3 DJ stages, 2 beer gardens and a Kids’ Zone with activations and bounce castles. The Independence Day celebrations are capped off with breathtaking fireworks over the Hudson River with a picturesque backdrop of the NYC skyline. The celebration kicks off at 12:00 p.m. at Exchange Place. The night will conclude with a spectacular fireworks show, beginning at 9:30 p.m., lighting up the Hudson River synchronized to a patriotic soundtrack and visible across the waterfront. Event Policies & Info"
+      "summary": "The full day of family-friendly festivities will once again draw tens of thousands of attendees, with over 60 vendors, 3 DJ stages, 2 beer gardens and a Kids’ Zone with activations and bounce castles. The Independence Day celebrations are capped off with breathtaking fireworks over the Hudson River with a picturesque backdrop of the NYC skyline. The celebration kicks off at 12:00 p.m. at Exchange Place. The night will conclude with a spectacular fireworks show, beginning at 9:30 p.m., lighting up the Hudson River synchronized to a patriotic soundtrack and visible across the waterfront. Event Policies & Info July 4th vendors, curated by Jersey City Night Market King of crepesCold Stone Creamery of BedminsterCousins Maine LobsterUrban SkewersAngry Archie’sSuperstar ice creamMagic Mike’s Smoked MeatsTasty TropicalDripzy CoffeeSAM’S ICE CREAMBao Zang SnacksLatin flavorGolden Fire CorpClubdog NYCTwisted Potato, Inc.NY Aguas FrescasGirly pop dirty sodaCat-Like ReflexesMOZZAREPASOrchardLa BrazaTaotie incSpoonable SpiritsJersey & Co. GelatoXuSanDuo Food TruckNinja KitchenHappy L FoodEmpanadas by lady gThe Noodle WalaBlackstone Halal FoodsCafe AmorreChava’s EmpanadasThe Pincho TruckKrazy Fresh JuiceStrawbelles ChocolateEl Lechon de NegronJishun LuoBarrelHouse NY LLCTJ Big PanMforward Inc.Fat cat group LLCMr.OkonomiyakiHoshinoYUBU LAB LLCkungfu dessert incBLAZIN RAYSMa & Pa’s Tex Mex BBQninja expressEmpabake EmpanadasMr. K New Jersey incChef SweetLadyRCozyLoady PotatoJoyfilledcrepesLily Lough JewelryBeduclothing&jewelryKathâ ThreaderyJenn The CreativePreciosa Permanent JewelryThe Diva LinksHenna SquadRetro NY MetroPrinting Plus 3DCandie ReignIndieVynlMs Q HandcraftArtbySydney22Jersey Girl Printing CompanyAction NoveltyPlant Dad by MoobienceDella’s LLCAlora.usaM&M LINKS JEWELRYAsanti’s JewelsLITPIX360 PHOTO BOOTH WonderFunster Entertainment"
     },
     "jc_culture_39954_2026_07_04_america_250_jersey_city_style_2026": {
       "title": "America 250 Jersey City Style 2026",
@@ -2032,6 +2034,23 @@
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "&nbsp; JC Summerfest featuring Orchestre Moto (Congolese Dance Music) North Cove Field Liberty State Park 6pm-8pm"
     },
+    "jc_culture_40593_2026_07_21_caricom_flag_raising_ceremony_2026": {
+      "title": "Caricom Flag Raising Ceremony 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Tue",
+      "date": "2026-07-21",
+      "time": "3:30 PM",
+      "sort": 15.5,
+      "when": "Tue, 07/21 · 3:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "CITY HALL CHAMBERS, 280 GROVE ST, JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/caricom-flag-raising-ceremony-2026/",
+      "map": "https://maps.google.com/?q=CITY%20HALL%20CHAMBERS%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
+    },
     "jc_culture_38062_2026_07_21_jersey_city_summerfest_2026_forget_the_whale": {
       "title": "Jersey City Summerfest 2026 / Forget the Whale",
       "type": "park",
@@ -2149,9 +2168,9 @@
       "skint_88361_0_astronomy_on_tap_pride_night_edition",
       "gary_2026_06_23_ai_paid_ads_more"
     ],
-    "cluster_2026_06_22_5_30_pm": [
-      "gary_2026_06_22_women_in_product_design_picnic",
-      "gary_2026_06_22_brainhealth_innovation_gtm_bootcamp"
+    "cluster_2026_06_25_10_pm": [
+      "skint_88361_3_party_for_change_and_haus_of_lil_girlz_fundraiser_fo",
+      "luma_2026_06_25_shantell_martin_live_performance_with_zach_lieberman"
     ],
     "cluster_2026_06_23_5_30_pm": [
       "gary_2026_06_23_daytona_ai_builders",
