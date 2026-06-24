@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jun 24, 2026, 9:12 AM EDT",
+    "checked": "Jun 24, 2026, 5:10 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1581,9 +1581,9 @@
       "label": "Music / Movies",
       "day": "Tue",
       "date": "2026-06-30",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Tue, 06/30 · 6:30pm",
+      "time": "8:30 PM",
+      "sort": 20.5,
+      "when": "Tue, 06/30 · 8:30pm",
       "price": "Free / varies",
       "free": true,
       "place": "Columbia Park, 118 Bartholdi Ave, Jersey City",
@@ -1745,23 +1745,6 @@
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     },
-    "jc_culture_37940_2026_07_09_movies_in_the_park_2026_tron_ares": {
-      "title": "Movies in the Park 2026 / Tron Ares",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Thu",
-      "date": "2026-07-09",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Thu, 07/09 · 6:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CITY OF JC CITY HALL PARK, 280 GROVE ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-tron-ares-2/",
-      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%20PARK%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
-      "summary": "City Hall Plaza featuring Tron Ares at sunset"
-    },
     "jc_culture_38066_2026_07_09_jersey_city_summerfest_2026_david_cedano": {
       "title": "Jersey City Summerfest 2026 / David Cedano",
       "type": "park",
@@ -1779,6 +1762,23 @@
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "&nbsp; JC Summerfest featuring David Cedano Latin and Salsa Berry Lane Park 6:30pm-8:30pm"
     },
+    "jc_culture_37940_2026_07_09_movies_in_the_park_2026_tron_ares": {
+      "title": "Movies in the Park 2026 / Tron Ares",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Thu",
+      "date": "2026-07-09",
+      "time": "8:30 PM",
+      "sort": 20.5,
+      "when": "Thu, 07/09 · 8:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "CITY OF JC CITY HALL PARK, 280 GROVE ST, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-tron-ares-2/",
+      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%20PARK%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
+      "summary": "City Hall Plaza featuring Tron Ares at sunset"
+    },
     "jc_culture_39112_2026_07_10_the_world_on_central_2026": {
       "title": "The World on Central 2026",
       "type": "park",
@@ -1794,7 +1794,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/the-world-on-central-2026-friday/",
       "map": "https://maps.google.com/?q=Central%20Avenue%2C%20370-437%20Central%20Ave%2CJersey%2C%20Jersey%20City",
-      "summary": "“The World on Central” will activate one of Jersey City’s most diverse commercial corridors. In partnership with the Central Avenue Special Improvement District (CASID), this event is designed to drive foot traffic, promote local businesses, and position the Jersey City Heights as a regional destination for cultural celebration and economic activity. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to The World on Central could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
+      "summary": "Grab a bite, explore the avenue, cheer on your team, and support the businesses that make Central Avenue one of Jersey City’s most vibrant destinations. “The World on Central” will activate one of Jersey City’s most diverse commercial corridors. In partnership with the Central Avenue Special Improvement District (CASID), this event is designed to drive foot traffic, promote local businesses, and position the Jersey City Heights as a regional destination for cultural celebration and economic activity. Friday, July 10: The World on Central Corridor Crawl12:00 PM – 9:00 PM Start the weekend on Central Avenue with a World Cup-inspired crawl through the district! Participating businesses will show the 3:00 PM quarterfinal match, with themed specials, festive sidewalk moments, and family-friendly activities keeping the corridor buzzing. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to The World on Central could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
     },
     "jc_culture_40291_2026_07_11_the_world_on_central_2026": {
       "title": "The World on Central 2026",
@@ -1811,7 +1811,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/the-world-on-central-2026-saturday/",
       "map": "https://maps.google.com/?q=Central%20Avenue%2C%20370-437%20Central%20Ave%2CJersey%2C%20Jersey%20City",
-      "summary": "“The World on Central” will activate one of Jersey City’s most diverse commercial corridors. In partnership with the Central Avenue Special Improvement District (CASID), this event is designed to drive foot traffic, promote local businesses, and position the Jersey City Heights as a regional destination for cultural celebration and economic activity. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to The World on Central could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
+      "summary": "It’s soccer, culture, food, music, and Jersey City energy all in one unforgettable celebration. “The World on Central” will activate one of Jersey City’s most diverse commercial corridors. In partnership with the Central Avenue Special Improvement District (CASID), this event is designed to drive foot traffic, promote local businesses, and position the Jersey City Heights as a regional destination for cultural celebration and economic activity. Saturday, July 11: The World on Central Watch Party & Celebration3:00 PM – Midnight Saturday’s event takes over Central Avenue with a full-scale World Cup watch party and cultural celebration. Watch the quarterfinal double-header on a giant LED wall, then experience a lineup of music, DJs, cultural performances, live art, mural painting, food, and family fun. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to The World on Central could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
     },
     "jc_culture_40501_2026_07_11_earlybirds_club_jersey_city": {
       "title": "Earlybirds Club – Jersey City",
@@ -2217,10 +2217,6 @@
     "cluster_2026_06_24_10_pm": [
       "luma_2026_06_24_ai_engineers_presents_fonzi_s_founders_to_follow",
       "luma_2026_06_24_nyc_ai_demos_10_venture_spotlight"
-    ],
-    "cluster_2026_07_09_6_30_pm": [
-      "jc_culture_37940_2026_07_09_movies_in_the_park_2026_tron_ares",
-      "jc_culture_38066_2026_07_09_jersey_city_summerfest_2026_david_cedano"
     ],
     "cluster_2026_07_11_6_pm": [
       "jc_culture_40291_2026_07_11_the_world_on_central_2026",
