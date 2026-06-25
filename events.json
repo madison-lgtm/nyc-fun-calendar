@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 24, 2026, 5:10 PM EDT",
+    "checked": "Jun 25, 2026, 9:12 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-06-24",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Jun 24"
-      },
       {
         "iso": "2026-06-25",
         "key": "Thu",
@@ -45,15 +39,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Jun 30"
+      },
+      {
+        "iso": "2026-07-01",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Jul 1"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-06-24",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Jun 24"
-      },
       {
         "iso": "2026-06-25",
         "key": "Thu",
@@ -233,9 +227,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Jul 24"
+      },
+      {
+        "iso": "2026-07-25",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Jul 25"
       }
     ],
-    "todayKey": "Wed",
+    "todayKey": "Thu",
     "times": [
       "3 AM",
       "7 AM",
@@ -262,7 +262,8 @@
       "9 PM",
       "9:30 PM",
       "9:45 PM",
-      "10 PM"
+      "10 PM",
+      "11:30 PM"
     ]
   },
   "events": {
@@ -453,24 +454,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_88361_0_astronomy_on_tap_pride_night_edition": {
-      "title": "astronomy on tap: ‘pride night’ edition",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Tue",
-      "date": "2026-06-23",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Tue, 06/23 · 7pm (monthly)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "somethin’ else in dekalb market hall (downtown brooklyn)",
-      "source": "The Skint",
-      "link": "https://astronomyontap.org/event/astronomy-on-tap-nyc-175-pride-night-2026-2/",
-      "map": "https://maps.google.com/?q=somethin%E2%80%99%20else%20in%20dekalb%20market%20hall%20(downtown%20brooklyn)%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: tues 7pm (monthly): astronomy on tap: ‘pride night’ edition: somethin’ else in dekalb market hall (downtown brooklyn)."
-    },
-    "skint_88361_1_radical_joy_ball_with_adapt": {
+    "skint_88361_0_radical_joy_ball_with_adapt": {
       "title": "radical joy ball with adapt",
       "type": "art",
       "label": "Art / Culture",
@@ -487,7 +471,7 @@
       "map": "https://maps.google.com/?q=the%20whitney%20museum%20(meatpacking%20district)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 4-6pm: radical joy ball with adapt: the whitney museum (meatpacking district). rsvp required."
     },
-    "skint_88361_2_pat_party": {
+    "skint_88361_1_pat_party": {
       "title": "pat party!",
       "type": "art",
       "label": "Art / Culture",
@@ -504,7 +488,7 @@
       "map": "https://maps.google.com/?q=union%20pool%20(williamsburg)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 9pm: pat party!: union pool (williamsburg)."
     },
-    "skint_88361_3_party_for_change_and_haus_of_lil_girlz_fundraiser_fo": {
+    "skint_88361_2_party_for_change_and_haus_of_lil_girlz_fundraiser_fo": {
       "title": "party for change and haus of lil girlz: fundraiser for the ali forney center",
       "type": "art",
       "label": "Art / Culture",
@@ -520,159 +504,6 @@
       "link": "https://www.instagram.com/p/DZVBh2MpjyL/",
       "map": "https://maps.google.com/?q=mood%20ring%20(bushwick)%2C%20%2410%2C%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 10pm: party for change and haus of lil girlz: fundraiser for the ali forney center: mood ring (bushwick), $10,"
-    },
-    "gary_2026_06_23_commercenext_growth_show": {
-      "title": "CommerceNext Growth Show",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-06-23",
-      "time": "7 AM",
-      "sort": 7,
-      "when": "Tue, 06/23 · 7:00am",
-      "price": "$3820",
-      "free": false,
-      "place": "Hilton Midtown, 1335 6th Ave",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/codztxk/CommerceNext-Growth-Show",
-      "map": "https://maps.google.com/?q=Hilton%20Midtown%2C%201335%206th%20Ave",
-      "summary": "Gary's Guide: With Pooja Chandiramani (VP Mktg, Coach), Caila Schwartz (Dir., Salesforce), Jennifer Marlo (Head of Content, CommerceNext), Matthew Fasciano (CEO, Delivering Good), Kimberley Gardiner (CMO, Tractor Supply Co), Steve Dennis (Host, Remarkable Retail Podcast)."
-    },
-    "gary_2026_06_23_the_ai_native_business": {
-      "title": "The AI Native Business",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-06-23",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Tue, 06/23 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/cqj74wo/The-AI-Native-Business",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With NYC AI Business Accelerator & Art of Mktg."
-    },
-    "gary_2026_06_23_climate_fintech_happy_hour": {
-      "title": "Climate Fintech Happy Hour",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-06-23",
-      "time": "4:30 PM",
-      "sort": 16.5,
-      "when": "Tue, 06/23 · 4:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/xwaq99q/Climate-Fintech-Happy-Hour",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With GreenPortfolio & American Sustainable Business Network."
-    },
-    "gary_2026_06_23_daytona_ai_builders": {
-      "title": "Daytona AI Builders",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-06-23",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Tue, 06/23 · 5:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/iijkcg7/Daytona-AI-Builders",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Ivan Burazin (Founder/CEO, Daytona), Aayush Shah (Founder, Blacksmith), Anu Srivastava (Dir. Cloud Engg, Oracle), Jeremy Mendez (AI Cloud Architect, Oracle)."
-    },
-    "gary_2026_06_23_al_agent_security_documentary_premiere": {
-      "title": "Al Agent Security Documentary Premiere",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-06-23",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Tue, 06/23 · 5:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, Bryant Park",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/poagcek/Al-Agent-Security-Documentary-Premiere",
-      "map": "https://maps.google.com/?q=Venue%2C%20Bryant%20Park",
-      "summary": "Gary's Guide: With Ramesh Raskar (Prof., MIT), Theresa Payton (ex-CIO, White House), Rory Blundell (CEO, Gravitee), Sharon Gai (Founder, Culture Fluid)."
-    },
-    "gary_2026_06_23_the_shortlist_founder_showcase": {
-      "title": "The Shortlist - Founder Showcase",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-06-23",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 06/23 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/8bm1n6r/The-Shortlist-Founder-Showcase",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: The Shortlist NYC - June Founder Showcase (#6) The Shortlist is back for our monthly Founder Showcase & the room keeps getting better. This is a monthly curated, application-only evening connecting early-stage founders with exceptional operators across New York. No panels. No pitches to VCs. Just six founders building breakout companies, a room full of people who've built things themselves, & the kind of candid conversation you don't get at most events. Each founder will share what they're building, why it matters, & the specific roles they're actively hiring for right now - followed by a mixer. What to expect: Founders presenting at the seed through Series B stage. Operators, builders, & executives who've seen what good looks like. An intentionally small room designed for real connection. Who this is for: Exceptional operators - whether you're actively exploring your next role, casually curious, or simply want to stay close to what's being built in NYC right now. Founders will be announced in the days leading up to the event. Attendance is intentionally limited. Apply to be considered. More information on The Shortlist can be found here. Founded by Andrew Yeung & Ivor Straford."
-    },
-    "gary_2026_06_23_amtech_happy_hour": {
-      "title": "AmTech Happy Hour",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-06-23",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 06/23 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/jdnue31/AmTech-Happy-Hour",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Commonweal Ventures."
-    },
-    "gary_2026_06_23_building_b2b_fintech_infrastructure_stack_rooftop_mi": {
-      "title": "Building B2B Fintech Infrastructure Stack - Rooftop Mixer",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-06-23",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 06/23 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/sjalydm/Building-B2B-Fintech-Infrastructure-Stack-Rooftop-Mixer",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Rutter, Extend, & Orb are hosting a private happy hour at Monarch Rooftop. Join engineers, operators, & builders from leading fintechs companies across NYC! Drinks & light bites will be provided. Feel free to bring a colleague but have them RSVP separately (space is limited)! About Rutter: Unified API platform that helps banks & fintechs automate supplier enablement using ERP data. By ingesting & normalizing payables data across accounting, commerce, & payments systems, Rutter enables accurate cardability analysis & automated supplier activation to turn eligible spend into card volume. Trusted by leading B2B fintechs including Mercury, PayPal, Airwallex, Capital One, & more than 100 companies. About Extend: Extend is the document infrastructure for agents. Fintech & Vertical AI teams like Mercury, Brex, Square, & more use Extend's API to parse, split, extract, & edit complex documents at scale. About Orb: Orb is the revenue design platform for AI & SaaS companies. Built on raw usage data, Orb unifies pricing, billing, & revenue intelligence-turning complex usage into accurate invoices & audit-ready revenue data, so companies can evolve how they monetize as fast as they ship. Leading companies like Vercel, Replit, Glean, & WRITER trust Orb to power their revenue. #nyc-fintech #b2b-saas #payments #api #financial-infrastructure #fintech-builders #AI #fintech"
-    },
-    "gary_2026_06_23_ai_paid_ads_more": {
-      "title": "Ai, Paid Ads & More",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-06-23",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Tue, 06/23 · 7:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/uof4i25/Ai-Paid-Ads-More",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Excited to have our 3rd IRL event for folks in the GTM x AI crew. Confirm RSVP AT LEAST a day before (earlier the better). We need to give people access to the building in advance. Shoutout to Ivan @ Nickel for our venue! If other friends in growth & marketing want to join, let me know & we can see how to make it work. Our Show & Tell topic will be about AI x Paid Ads, led by Susan Li from Phantom :) Show & Tell will start at 730. (If anyone else wants to show & tell, let me know)"
     },
     "gary_2026_06_24_permissionless_iv": {
       "title": "Permissionless IV",
@@ -1286,56 +1117,158 @@
       "map": "https://maps.google.com/?q=Skidmore%20Owings%20at%207WTC%2C%20250%20Greenwich%20St",
       "summary": "Gary's Guide: With Jeff Perlman (Founder, Bright Power), Ryan Elazari (Founder, CRE Unplugged), Gary Ling & Alfred Zhang (Broadtrade Group)."
     },
-    "luma_2026_06_24_agentic_alpha_engineering_high_velocity_autonomy_in_": {
-      "title": "Agentic Alpha: Engineering High-Velocity Autonomy in a Millisecond Economy",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-06-24",
-      "time": "9 PM",
-      "sort": 21,
-      "when": "Wed, 06/24 · 9pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/qydwq3g4",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: VentureBeat, VentureBeat"
+    "gary_2026_07_16_cnbc_sport_x_boardroom_game_plan": {
+      "title": "CNBC Sport x Boardroom - Game Plan",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-07-16",
+      "time": "7 AM",
+      "sort": 7,
+      "when": "Thu, 07/16 · 7:00am",
+      "price": "$799",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/gvgybga/CNBC-Sport-x-Boardroom-Game-Plan",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Jimmy Pitaro (Chairman, ESPN), Adam Silver (NBA Commissioner), Michael Rubin (Founder/CEO, Fanatics), Lindsey Vonn (Olympic Gold Medalist & Entrepreneur)."
     },
-    "luma_2026_06_24_ai_engineers_presents_fonzi_s_founders_to_follow": {
-      "title": "AI Engineers Presents: Fonzi's Founders to Follow",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-06-24",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Wed, 06/24 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "Brooklyn, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/lo17rr1c",
-      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
-      "summary": "Luma NYC: AI Engineers - NY, Lauren Cotta, Brett Martin, GV, Sebastian Cuadros"
+    "gary_2026_07_16_product_summit": {
+      "title": "Product Summit",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-07-16",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Thu, 07/16 · 2:00pm",
+      "price": "Varies",
+      "free": false,
+      "place": "BrainStation, 136 Crosby St, 4th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/jxynub7/Product-Summit",
+      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
+      "summary": "Gary's Guide: A one-day summit for product leaders & professionals at the edge of innovation. Themes being explored: Leading Product Strategy Through Disruption Frameworks for navigating market uncertainty, maintaining cross-functional alignment, & building resilient product roadmaps in rapidly evolving industries. Building Trust in AI-Driven Products Best practices for integrating intelligent systems & autonomous features while prioritizing user confidence, data privacy, & transparent user experiences. Unlocking Product-Led Growth & Retention How to build self-sustaining ecosystems by combining continuous user discovery, community engagement, & operational discipline to drive enduring product growth. \"Shifting Left\" in the Product Lifecycle Practical frameworks for accelerating time-to-value & reducing risk by bringing continuous discovery, technical feasibility, & quality assurance to the earliest stages of development. The Product Manager of the Future How autonomous agents, large language models, & advanced tooling are reshaping product workflows, strategic decision-making, & the PM's role in human-computer interaction. Speakers from Past Events Our stage hosts senior leaders from global brands who are driving innovation at scale. Details of the Evening Agenda 2:50pm Check-in Opens 3:15pm Sessions Begin 5:45pm Closing Remarks 6:00pm Cocktail Reception Who Should Attend The Product Summit is designed for senior product leaders & builders who are driving innovation across the entire product lifecycle. This invitation-only summit brings together those operating at the intersection of emerging technology, continuous discovery, & product-led growth. What's Included Gourmet Light Refreshments - Enjoy a curated selection of artisanal bites & small plates, perfect for connecting with colleagues. Settle in for easy conversation & good company in a warm, welcoming space. With a thoughtful selection of beer & wine on hand, it's the perfect backdrop for winding down or catching up. Have dietary restrictions? To ensure we can accommodate your dietary needs, please inform us at least 48 hours before the workshop start date."
     },
-    "luma_2026_06_24_nyc_ai_demos_10_venture_spotlight": {
-      "title": "NYC AI Demos #10: VENTURE SPOTLIGHT",
+    "gary_2026_07_16_nyc_ai_nexus_inaugural_demo_day": {
+      "title": "NYC AI Nexus - Inaugural Demo Day",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-16",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Thu, 07/16 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/y8irkuv/NYC-AI-Nexus-Inaugural-Demo-Day",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Join C10 Labs for one of our inaugural NYC AI Nexus Demo Day! C10 Labs is an Applied AI venture fund & studio supporting early-stage founders building at the intersection of AI, healthcare, biotechnology, robotics, advanced manufacturing, energy, & sustainability. The evening is designed to be high-impact & fast-paced: Rapid-Fire Pitches: 3 minute presentations from select C10 Labs cohort companies. Alumni Showcase: A look at our top portfolio companies & previous success stories. Networking Mixer: Direct access to the founders & the C10 team. We look forward to celebrating our NYC & talking about the NYC program. Our NYC cohorts are designed for idea-stage, pre-seed, seed & pre-series A teams looking to turn ambitious technical ideas into venture-backable companies through hands-on support, real-world validation, & deep operator expertise. Founders in our program receive: Applied AI curriculum & technical mentorship Access to domain experts, operators, & early customers Studio support around product, data, compute, & go-to-market A powerful NYC-based network of industry & ecosystem partners Come meet the C10 Labs team, connect with fellow builders, & learn more about what we're building in NYC."
+    },
+    "gary_2026_07_16_ai_engineers_poker_game_night": {
+      "title": "AI Engineers - Poker & Game Night",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-16",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Thu, 07/16 · 7:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/q2ckqfj/AI-Engineers-Poker-Game-Night",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies. We'll have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart. Complimentary drinks & pizza are on us. High signal, low pressure. Come play poker, jump into games, & spend the night with some of NYC's top engineers, founders, & operators. Limited seats. Registration: require linkedin, company, job title, & include the following multiple choice (single select) How would you like to participate? Poker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in. *Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi.ai click Get Hired, & apply. Options: Poker ($100 buy-in, seat not guaranteed) Hang Out & Other Games Hiring? Want intros to startups?"
+    },
+    "gary_2026_07_17_ai_engineers_game_night": {
+      "title": "AI Engineers - Game Night",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-07-17",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Fri, 07/17 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/4pwp82h/AI-Engineers-Game-Night",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Night of Smash Bros, Mario Kart, board games & good conversation."
+    },
+    "gary_2026_07_22_build_ai_systems_that_scale_at_amd_advancing_ai_2026": {
+      "title": "Build AI Systems That Scale At AMD Advancing AI 2026",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Wed",
-      "date": "2026-06-24",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Wed, 06/24 · 10pm",
+      "date": "2026-07-22",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Wed, 07/22 · 11:00am",
       "price": "Free",
       "free": true,
-      "place": "The Refinery at Domino Offices",
-      "source": "Luma NYC",
-      "link": "https://luma.com/nyc10",
-      "map": "https://maps.google.com/?q=The%20Refinery%20at%20Domino%20Offices%20NYC",
-      "summary": "Luma NYC: Pensar, Kyle Bhiro, TechNYC, Two Trees Management"
+      "place": "Moscone Center, 747 Howard St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/7ims3x7/Build-AI-Systems-That-Scale-At-AMD-Advancing-AI-2026",
+      "map": "https://maps.google.com/?q=Moscone%20Center%2C%20747%20Howard%20St",
+      "summary": "Gary's Guide: Join AMD Advancing AI for hands-on workshops. Learn from AMD & open-source maintainers, then build & run real workloads yourself."
+    },
+    "gary_2026_07_23_climate_data_science": {
+      "title": "Climate Data Science",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-23",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Thu, 07/23 · 12:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Columbia Innovation Hub, 2276 12th Ave, Tang Family Hall",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/jbicq7f/Climate-Data-Science",
+      "map": "https://maps.google.com/?q=Columbia%20Innovation%20Hub%2C%202276%2012th%20Ave%2C%20Tang%20Family%20Hall",
+      "summary": "Gary's Guide: With Ann Lee (Prof., Carnegie Mellon Univ.)."
+    },
+    "gary_2026_07_23_ai_engineers_devs_drinks": {
+      "title": "AI Engineers - Devs & Drinks",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-23",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 07/23 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/0ynu2hw/AI-Engineers-Devs-Drinks",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Drinks, games & hanging out w/ engg peers."
+    },
+    "gary_2026_07_24_nyc_coffee_club_taking_the_leap_industry_vets_who_le": {
+      "title": "[NYC Coffee Club] Taking The Leap - Industry Vets Who Left To Build",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-07-24",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Fri, 07/24 · 10:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/g869sua/-NYC-Coffee-Club-Taking-The-Leap-Industry-Vets-Who-Left-To-Build",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Olivia, Alice, Naomi & Lauren (Forum Ventures)."
     },
     "luma_2026_06_25_founder_breakfast_w_mark_pincus_founder_of_zynga": {
       "title": "Founder Breakfast w/ Mark Pincus (Founder of Zynga)",
@@ -1405,39 +1338,39 @@
       "map": "https://maps.google.com/?q=Heft%20Gallery%20NYC",
       "summary": "Luma NYC: TRANSMISSIONS, Heft, Shantell Martin MBE"
     },
-    "jc_culture_10003556_2026_06_24_hamilton_park_farmers_market_2026": {
-      "title": "Hamilton Park Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Wed",
-      "date": "2026-06-24",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Wed, 06/24 · 4pm",
-      "price": "Free / varies",
+    "luma_2026_06_26_ai_cat_cafe_le_gros_chaton_and_friends": {
+      "title": "AI Cat Cafe: Le Gros Chaton and Friends",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-06-26",
+      "time": "11:30 PM",
+      "sort": 23.5,
+      "when": "Fri, 06/26 · 11:30pm",
+      "price": "Free",
       "free": true,
-      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-06-24/",
-      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+      "place": "Brooklyn, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/bshfpa7p",
+      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
+      "summary": "Luma NYC: AI Engineers - NY, Lauren Cotta, Sebastian Cuadros"
     },
-    "jc_culture_37889_2026_06_24_movies_in_the_park_2026_the_bad_guys_2": {
-      "title": "Movies in the Park 2026 / The Bad Guys 2",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Wed",
-      "date": "2026-06-24",
-      "time": "8:30 PM",
-      "sort": 20.5,
-      "when": "Wed, 06/24 · 8:30pm",
-      "price": "Free / varies",
+    "luma_2026_06_27_superplane_hackathon_bash_script_funeral_w_render": {
+      "title": "SuperPlane Hackathon: Bash Script Funeral /w Render",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sat",
+      "date": "2026-06-27",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sat, 06/27 · 2pm",
+      "price": "Free",
       "free": true,
-      "place": "AUDUBON PARK, 18 Audubon Ave., JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-bad-guys-2/",
-      "map": "https://maps.google.com/?q=AUDUBON%20PARK%2C%2018%20Audubon%20Ave.%2C%20JERSEY%20CITY",
-      "summary": "Audubon Park is featuring Bad Guys 2 at sunset"
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/zlddwpj7",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: SuperPlane, Darko Fabijan, Marko Anastasov"
     },
     "jc_culture_40371_2026_06_25_pride_crosswalk_community_painting_2026": {
       "title": "Pride Crosswalk Community Painting 2026",
@@ -2164,22 +2097,9 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_06_23_7_pm": [
-      "skint_88361_0_astronomy_on_tap_pride_night_edition",
-      "gary_2026_06_23_ai_paid_ads_more"
-    ],
     "cluster_2026_06_25_10_pm": [
-      "skint_88361_3_party_for_change_and_haus_of_lil_girlz_fundraiser_fo",
+      "skint_88361_2_party_for_change_and_haus_of_lil_girlz_fundraiser_fo",
       "luma_2026_06_25_shantell_martin_live_performance_with_zach_lieberman"
-    ],
-    "cluster_2026_06_23_5_30_pm": [
-      "gary_2026_06_23_daytona_ai_builders",
-      "gary_2026_06_23_al_agent_security_documentary_premiere"
-    ],
-    "cluster_2026_06_23_6_pm": [
-      "gary_2026_06_23_the_shortlist_founder_showcase",
-      "gary_2026_06_23_amtech_happy_hour",
-      "gary_2026_06_23_building_b2b_fintech_infrastructure_stack_rooftop_mi"
     ],
     "cluster_2026_06_24_9_am": [
       "gary_2026_06_24_permissionless_iv",
@@ -2213,10 +2133,6 @@
     "cluster_2026_07_09_5_30_pm": [
       "gary_2026_07_09_building_web_powered_ai_apps_w_o_code",
       "gary_2026_07_09_ai_meetup_genai_llms_agents"
-    ],
-    "cluster_2026_06_24_10_pm": [
-      "luma_2026_06_24_ai_engineers_presents_fonzi_s_founders_to_follow",
-      "luma_2026_06_24_nyc_ai_demos_10_venture_spotlight"
     ],
     "cluster_2026_07_11_6_pm": [
       "jc_culture_40291_2026_07_11_the_world_on_central_2026",
