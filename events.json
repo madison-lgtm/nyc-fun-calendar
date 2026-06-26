@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jun 26, 2026, 9:04 AM EDT",
+    "checked": "Jun 26, 2026, 5:07 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1654,7 +1654,7 @@
       "free": true,
       "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
       "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/america-250-jersey-city-style-2026/",
+      "link": "https://jerseycityculture.org/event/america-250-jersey-city-style-2026-summer-swing-dance/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor Visual & Performing Arts What's Coming Up?."
     },
@@ -1705,7 +1705,7 @@
       "free": true,
       "place": "Berry Lane Park, Jersey City, NJ",
       "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/america-250-jersey-city-style-2026-2/",
+      "link": "https://jerseycityculture.org/event/america-250-jersey-city-style-2026-jazz-and-salsa/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor Visual & Performing Arts What's Coming Up?."
     },
@@ -1739,7 +1739,7 @@
       "free": true,
       "place": "Riverview Fisk Park, 498 Palisade Ave, Jersey City, NJ",
       "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/america-250-jersey-city-style-2026-3/",
+      "link": "https://jerseycityculture.org/event/america-250-jersey-city-style-2026-americana-in-the-heights/",
       "map": "https://maps.google.com/?q=Riverview%20Fisk%20Park%2C%20498%20Palisade%20Ave%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Outdoor Visual & Performing Arts What's Coming Up?."
     },
@@ -1756,7 +1756,7 @@
       "free": true,
       "place": "Van Vorst Park, 257-287 Montgomery Street, Jersey City, NJ",
       "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/america-250-jersey-city-style-2026-4/",
+      "link": "https://jerseycityculture.org/event/america-250-jersey-city-style-2026-sunday-in-the-park/",
       "map": "https://maps.google.com/?q=Van%20Vorst%20Park%2C%20257-287%20Montgomery%20Street%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Outdoor Visual & Performing Arts What's Coming Up?."
     },
@@ -1998,24 +1998,7 @@
       "map": "https://maps.google.com/?q=PERSHING%20FIELD%20PARK%2C%20201%20CENTRAL%20AVE%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Pershing Field Park featuring Arrival at sunset"
     },
-    "jc_culture_10004634_2026_07_18_carrington_village_5th_annual_carribean_festival": {
-      "title": "Carrington Village 5th Annual Carribean Festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-07-18",
-      "time": "8 AM",
-      "sort": 8,
-      "when": "Sat, 07/18 · 8am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Carrington Village, 459 Martin Luther King Dr., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/carrington-village-5th-annual-carribean-festival/2026-07-18/1/",
-      "map": "https://maps.google.com/?q=Carrington%20Village%2C%20459%20Martin%20Luther%20King%20Dr.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "The Carrington Village Caribbean Festival returns on July 18, 2026. 5 years of culture, and VIBES!!! ​During this event we will enchant Jersey City with Caribbean flavors, highlighting West Indian culture, food, artists, and entertainment with various activities for the entire family. The event is FREE for all. Kids Zone, Music, Food, and Culture Performaces by: Boom Boom Room Rhythm Section Ekkquinox Steel Band CarNYval Dancer Mas by Urban Dance and Sugar Candy Mas Special Traditional performance by Le Troupe Zetwal (Haiti) Musical Performances by: Mesha Steele (from Jamaica), Fiyah B (from Barbados) and Erphaan Alves (From Trinidad and Tobago)"
-    },
-    "jc_culture_10004635_2026_07_18_carrington_village_5th_annual_carribean_festival": {
+    "jc_culture_39860_2026_07_18_carrington_village_5th_annual_carribean_festival": {
       "title": "Carrington Village 5th Annual Carribean Festival",
       "type": "market",
       "label": "Festival / Market",
@@ -2028,9 +2011,26 @@
       "free": true,
       "place": "Carrington Village, 459 Martin Luther King Dr., Jersey City, NJ",
       "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/carrington-village-5th-annual-carribean-festival/2026-07-18/2/",
+      "link": "https://jerseycityculture.org/event/carrington-village-5th-annual-carribean-festival/",
       "map": "https://maps.google.com/?q=Carrington%20Village%2C%20459%20Martin%20Luther%20King%20Dr.%2C%20Jersey%20City%2C%20NJ",
       "summary": "The Carrington Village Caribbean Festival returns on July 18, 2026. 5 years of culture, and VIBES!!! ​During this event we will enchant Jersey City with Caribbean flavors, highlighting West Indian culture, food, artists, and entertainment with various activities for the entire family. The event is FREE for all. Kids Zone, Music, Food, and Culture Performaces by: Boom Boom Room Rhythm Section Ekkquinox Steel Band CarNYval Dancer Mas by Urban Dance and Sugar Candy Mas Special Traditional performance by Le Troupe Zetwal (Haiti) Musical Performances by: Mesha Steele (from Jamaica), Fiyah B (from Barbados) and Erphaan Alves (From Trinidad and Tobago)"
+    },
+    "jc_culture_40815_2026_07_18_somewhere_social_picnic_2026": {
+      "title": "Somewhere Social Picnic 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-07-18",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sat, 07/18 · 2pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Lincoln Park, 1 County Rd 605, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/somewhere-social-picnic-2026/",
+      "map": "https://maps.google.com/?q=Lincoln%20Park%2C%201%20County%20Rd%20605%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor What's Coming Up?."
     },
     "jc_culture_39108_2026_07_19_around_the_world_watch_party_2026": {
       "title": "Around the World Watch Party 2026",
@@ -2184,6 +2184,23 @@
       "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-lilo-stitch/",
       "map": "https://maps.google.com/?q=BOYD%20MCGUINESS%20PARK%2C%202565%20JFK%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Boyd McGuiness Park featuring Lilo & Stitch"
+    },
+    "jc_culture_40817_2026_07_25_club_1bd_jersey_city": {
+      "title": "Club 1BD – Jersey City",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-07-25",
+      "time": "8 PM",
+      "sort": 20,
+      "when": "Sat, 07/25 · 8pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "WHITE EAGLE HALL, 337 NEWARK AVE., JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/club-1bd-jersey-city/",
+      "map": "https://maps.google.com/?q=WHITE%20EAGLE%20HALL%2C%20337%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
+      "summary": "Get ready to immerse yourself in an electrifying night at **Club 1BD – Jersey City**! Join us at the iconic **White Eagle Hall**, where the vibrant atmosphere and stunning architecture create the perfect backdrop for an unforgettable concert experience. As the beats drop and the lights dance, CLUB 1BD will take you on a journey through the pulsating world of techno and electronic music, igniting your senses and keeping you on your feet all night long. Whether you’re a die-hard electronic music fan or just looking for a night of fun, this event promises to be a highlight of your calendar. So gather your friends and prepare for an evening filled with energy, excitement, and incredible sounds. Don’t miss out on this chance to be part of something special—secure your spot now and get ready to rave at **Club 1BD – Jersey City**!"
     }
   },
   "clusters": {
