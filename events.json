@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 26, 2026, 5:07 PM EDT",
+    "checked": "Jun 27, 2026, 8:05 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-06-26",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Jun 26"
-      },
       {
         "iso": "2026-06-27",
         "key": "Sat",
@@ -45,15 +39,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Jul 2"
+      },
+      {
+        "iso": "2026-07-03",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Jul 3"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-06-26",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Jun 26"
-      },
       {
         "iso": "2026-06-27",
         "key": "Sat",
@@ -233,9 +227,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Jul 26"
+      },
+      {
+        "iso": "2026-07-27",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Jul 27"
       }
     ],
-    "todayKey": "Fri",
+    "todayKey": "Sat",
     "times": [
       "7 AM",
       "8 AM",
@@ -257,10 +257,8 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
-      "9 PM",
       "10 PM",
-      "11 PM",
-      "11:30 PM"
+      "11 PM"
     ]
   },
   "events": {
@@ -808,159 +806,6 @@
       "map": "https://maps.google.com/?q=royal%20palms%20shuffleboard%20club%20(williamsburg)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1pm: the brooklyn garlic takedown: royal palms shuffleboard club (williamsburg). $30."
     },
-    "skint_88361_0_radical_joy_ball_with_adapt": {
-      "title": "radical joy ball with adapt",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Thu",
-      "date": "2026-06-25",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Thu, 06/25 · 4-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "the whitney museum (meatpacking district)",
-      "source": "The Skint",
-      "link": "https://whitney.org/events/radical-joy-ball26",
-      "map": "https://maps.google.com/?q=the%20whitney%20museum%20(meatpacking%20district)%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 4-6pm: radical joy ball with adapt: the whitney museum (meatpacking district). rsvp required."
-    },
-    "skint_88361_1_pat_party": {
-      "title": "pat party!",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Thu",
-      "date": "2026-06-25",
-      "time": "9 PM",
-      "sort": 21,
-      "when": "Thu, 06/25 · 9pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "union pool (williamsburg)",
-      "source": "The Skint",
-      "link": "https://dice.fm/event/mx7avw-pat-party-25th-jun-union-pool-new-york-tickets",
-      "map": "https://maps.google.com/?q=union%20pool%20(williamsburg)%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 9pm: pat party!: union pool (williamsburg)."
-    },
-    "skint_88361_2_party_for_change_and_haus_of_lil_girlz_fundraiser_fo": {
-      "title": "party for change and haus of lil girlz: fundraiser for the ali forney center",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Thu",
-      "date": "2026-06-25",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Thu, 06/25 · 10pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "mood ring (bushwick), $10,",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/p/DZVBh2MpjyL/",
-      "map": "https://maps.google.com/?q=mood%20ring%20(bushwick)%2C%20%2410%2C%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: thurs 10pm: party for change and haus of lil girlz: fundraiser for the ali forney center: mood ring (bushwick), $10,"
-    },
-    "gary_2026_06_25_snowflake_dev_day": {
-      "title": "Snowflake Dev Day",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-06-25",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Thu, 06/25 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, Online",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/qmyrohq/Snowflake-Dev-Day",
-      "map": "https://maps.google.com/?q=Venue%2C%20Online",
-      "summary": "Gary's Guide: With Sridhar Ramaswamy (CEO, Snowflake), Malte Ubl (CTO, Vercel), Chase Ginther (Applied AI Field Engg, Snowflake)."
-    },
-    "gary_2026_06_25_nyc_ai_coworking": {
-      "title": "NYC AI Coworking",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-06-25",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Thu, 06/25 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Station 3, 26 Broadway, 3rd Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/rykqtbk/NYC-AI-Coworking",
-      "map": "https://maps.google.com/?q=Station%203%2C%2026%20Broadway%2C%203rd%20Fl",
-      "summary": "Gary's Guide: Spend the day at Station3 with other AI founders, engineers, designers, & operators for a focused co-working session built around getting work done & helping each other move faster. We will work from 10:00 AM to 5:00 PM, with an afternoon demo / feedback block from 2:00 PM to 4:00 PM. Demos stay short & practical: show what you are building, where you are stuck, & what kind of feedback, users, intros, or collaborators would help. This is for people actively building with AI: agents, developer tools, consumer products, media workflows, data products, infrastructure, creative tools, research workflows, & useful experiments. Polished demos are not required, but useful context is. Station3 is hosting us at 26 Broadway in FiDi. We will use Cedar, their large conference room, for demos & focused feedback, with the broader Station3 workspace supporting the co-working flow. What to bring: Laptop Charger Any demo, deck, repo, prototype, or product link you want feedback on A clear ask: users, feedback, intros, collaborators, GTM help, technical help, or hiring If you want to demo, mention what you are building in your RSVP or message Chris directly. We will prioritize builders who can show a real product, prototype, workflow, customer problem, or sharp question for the room. Join the NYC AI Co-working Telegram group for updates & builder asks: https://t.me/+KN-AraFGDkoyZDZh"
-    },
-    "gary_2026_06_25_product_summit": {
-      "title": "Product Summit",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-06-25",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Thu, 06/25 · 3:00pm",
-      "price": "Varies",
-      "free": false,
-      "place": "BrainStation, 136 Crosby St, 4th Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/o79ny10/Product-Summit",
-      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
-      "summary": "Gary's Guide: A one-day summit for product leaders & professionals at the edge of innovation. Themes being explored: Leading Product Strategy Through Disruption Frameworks for navigating market uncertainty, maintaining cross-functional alignment, & building resilient product roadmaps in rapidly evolving industries. Building Trust in AI-Driven Products Best practices for integrating intelligent systems & autonomous features while prioritizing user confidence, data privacy, & transparent user experiences. Unlocking Product-Led Growth & Retention How to build self-sustaining ecosystems by combining continuous user discovery, community engagement, & operational discipline to drive enduring product growth. \"Shifting Left\" in the Product Lifecycle Practical frameworks for accelerating time-to-value & reducing risk by bringing continuous discovery, technical feasibility, & quality assurance to the earliest stages of development. The Product Manager of the Future How autonomous agents, large language models, & advanced tooling are reshaping product workflows, strategic decision-making, & the PM's role in human-computer interaction."
-    },
-    "gary_2026_06_25_founders_investors_rooftop_soiree": {
-      "title": "Founders & Investors Rooftop Soiree",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-06-25",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Thu, 06/25 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue,, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/e9g6gh0/Founders-Investors-Rooftop-Soiree",
-      "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Elena Obukhova (Founder, Supermoon & Supermoon Ventures), Christopher Michael (Founder, Supermoon), Christina Sclafani (Sales Consultant, Trinet)."
-    },
-    "gary_2026_06_25_mobility_delivery_tech_happy_hour": {
-      "title": "Mobility & Delivery Tech Happy Hour",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-06-25",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 06/25 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/p2h8ekt/Mobility-Delivery-Tech-Happy-Hour",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Jonah Bliss (Founder/CEO, Curbivore), Louis Pappas (Founder, Electric Avenue)."
-    },
-    "gary_2026_06_25_after_hours_club_female_founders_meditation_art": {
-      "title": "After Hours Club - Female Founders Meditation & Art",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-06-25",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Thu, 06/25 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 22 Vanderbilt Ave",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/yfwogdo/After-Hours-Club-Female-Founders-Meditation-Art",
-      "map": "https://maps.google.com/?q=Venue%2C%2022%20Vanderbilt%20Ave",
-      "summary": "Gary's Guide: An After Hours Club night for female founders. We'll open with a short guided meditation to shake off the workday, then roll into a relaxed art session. No talent required, all supplies provided. Come meet other women building companies & make something with your hands that has nothing to do with your startup. Come as you are & leave feeling lighter, inspired, & more connected to yourself & like-minded community. Session will be held at the yoga studio in the gym. For Founders House & 22 Vanderbilt Members Only. Registration required. After Hours Club is a mental health-focused art & wellness community based in New York City. We create intentional spaces where conversations around mental health are normalized through guided workshops, creative expression, & genuine community connection. Women Who Lead is our ongoing series created to support female founders, entrepreneurs & leaders by giving them space to pause, reflect & recharge. Each gathering is thoughtfully curated to prioritize founders' mental health."
-    },
     "gary_2026_06_26_nyc_coffee_club_early_stage_founders_funders_in_fint": {
       "title": "NYC Coffee Club - Early-Stage Founders & Funders In Fintech, Healthcare, Supply Chain & Transportation",
       "type": "startup",
@@ -1470,23 +1315,6 @@
       "link": "https://www.garysguide.com/events/kjnyxfl/AI-Engineers-Poker-Game-Night",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies.nWell have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart.nComplimentary drinks & pizza are on us.nHigh signal, low pressure. Come play poker, jump into games, & spend the night with some of NYCs top engineers, founders, & operators.nLimited seats.nRegistration: require linkedin, company, job title, & include the following multiple choice (single select)nHow would you like to participate?nPoker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in.n*Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi, click Get Hired, & apply.nOptions:nPoker ($100 buy-in, seat not guaranteed)nHang Out & Other GamesnHiring?nWant intros to startups?"
-    },
-    "luma_2026_06_26_ai_cat_cafe_le_gros_chaton_and_friends": {
-      "title": "AI Cat Cafe: Le Gros Chaton and Friends",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-06-26",
-      "time": "11:30 PM",
-      "sort": 23.5,
-      "when": "Fri, 06/26 · 11:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Brooklyn, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/bshfpa7p",
-      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
-      "summary": "Luma NYC: AI Engineers - NY, Lauren Cotta, Sebastian Cuadros"
     },
     "luma_2026_06_27_superplane_hackathon_bash_script_funeral_w_render": {
       "title": "SuperPlane Hackathon: Bash Script Funeral /w Render",
@@ -2201,6 +2029,40 @@
       "link": "https://jerseycityculture.org/event/club-1bd-jersey-city/",
       "map": "https://maps.google.com/?q=WHITE%20EAGLE%20HALL%2C%20337%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
       "summary": "Get ready to immerse yourself in an electrifying night at **Club 1BD – Jersey City**! Join us at the iconic **White Eagle Hall**, where the vibrant atmosphere and stunning architecture create the perfect backdrop for an unforgettable concert experience. As the beats drop and the lights dance, CLUB 1BD will take you on a journey through the pulsating world of techno and electronic music, igniting your senses and keeping you on your feet all night long. Whether you’re a die-hard electronic music fan or just looking for a night of fun, this event promises to be a highlight of your calendar. So gather your friends and prepare for an evening filled with energy, excitement, and incredible sounds. Don’t miss out on this chance to be part of something special—secure your spot now and get ready to rave at **Club 1BD – Jersey City**!"
+    },
+    "jc_culture_38063_2026_07_28_jersey_city_summerfest_2026_carlos_jimenez_mambo_dul": {
+      "title": "Jersey City Summerfest 2026 / Carlos Jimenez Mambo Dulcet",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Tue",
+      "date": "2026-07-28",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Tue, 07/28 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Liberty State Park. South Lawn, Freedom Way, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-carlos-jimenez-mambo-dulcet/",
+      "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
+      "summary": "&nbsp; JC Summerfest featuring Carlos Jimenez Mambo Dulcet South Cove Lawn Liberty State Park 6:30pm-8:30pm"
+    },
+    "jc_culture_37954_2026_07_28_movies_in_the_park_2026_zootopia_2": {
+      "title": "Movies in the Park 2026 / Zootopia 2",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Tue",
+      "date": "2026-07-28",
+      "time": "8:30 PM",
+      "sort": 20.5,
+      "when": "Tue, 07/28 · 8:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-zootopia-2/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Hamilton Park featuring Zootopia 2"
     }
   },
   "clusters": {
@@ -2250,10 +2112,6 @@
       "skint_88444_18_sixth_annual_dominican_taste_festival",
       "gary_2026_06_27_superplane_hackathon_bash_script_funeral",
       "jc_culture_37267_2026_06_27_team_walker_farmers_market_2026"
-    ],
-    "cluster_2026_06_25_10_am": [
-      "gary_2026_06_25_snowflake_dev_day",
-      "gary_2026_06_25_nyc_ai_coworking"
     ],
     "cluster_2026_06_30_6_pm": [
       "gary_2026_06_30_coding_agents_gtm_lightning_talks",
