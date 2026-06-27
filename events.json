@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jun 27, 2026, 8:05 AM EDT",
+    "checked": "Jun 27, 2026, 4:39 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1332,6 +1332,23 @@
       "link": "https://luma.com/zlddwpj7",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: SuperPlane, Darko Fabijan, Marko Anastasov"
+    },
+    "luma_2026_06_30_gtm_eng_nyc_coding_agents_gtm_lightning_talks_leader": {
+      "title": "GTM Eng NYC: Coding Agents + GTM Lightning Talks leaders from Deepline, OpenAI, Ramp, Notion, Modal & Attention",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-06-30",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Tue, 06/30 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/fx5v8axr",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Deepline, Jai Toor, Seth Hanes"
     },
     "jc_culture_37267_2026_06_27_team_walker_farmers_market_2026": {
       "title": "Team Walker Farmers Market 2026",
