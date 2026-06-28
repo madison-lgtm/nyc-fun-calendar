@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jun 28, 2026, 8:12 AM EDT",
+    "checked": "Jun 28, 2026, 4:42 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -257,6 +257,7 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
+      "9 PM",
       "9:30 PM",
       "10 PM",
       "11 PM"
@@ -1147,6 +1148,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies.nWell have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart.nComplimentary drinks & pizza are on us.nHigh signal, low pressure. Come play poker, jump into games, & spend the night with some of NYCs top engineers, founders, & operators.nLimited seats.nRegistration: require linkedin, company, job title, & include the following multiple choice (single select)nHow would you like to participate?nPoker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in.n*Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi, click Get Hired, & apply.nOptions:nPoker ($100 buy-in, seat not guaranteed)nHang Out & Other GamesnHiring?nWant intros to startups?"
     },
+    "luma_2026_06_30_what_makes_a_good_life_a_guided_public_discussion_on": {
+      "title": "What Makes a Good Life? A Guided Public Discussion on AI",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-06-30",
+      "time": "9 PM",
+      "sort": 21,
+      "when": "Tue, 06/30 · 9pm",
+      "price": "Free",
+      "free": true,
+      "place": "526 Hudson St",
+      "source": "Luma NYC",
+      "link": "https://luma.com/ai-goodlife",
+      "map": "https://maps.google.com/?q=526%20Hudson%20St%20NYC",
+      "summary": "Luma NYC: Anew"
+    },
     "luma_2026_06_30_gtm_eng_nyc_coding_agents_gtm_lightning_talks_leader": {
       "title": "GTM Eng NYC: Coding Agents + GTM Lightning Talks leaders from Deepline, OpenAI, Ramp, Notion, Modal & Attention",
       "type": "tech",
@@ -1180,23 +1198,6 @@
       "link": "https://luma.com/bwd39lhw",
       "map": "https://maps.google.com/?q=1400%20Broadway%20NYC",
       "summary": "Luma NYC: Postman Developer Events, Pooja Mistry"
-    },
-    "luma_2026_07_08_ai_builders_night_new_york": {
-      "title": "AI Builders Night New York",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-08",
-      "time": "9:30 PM",
-      "sort": 21.5,
-      "when": "Wed, 07/08 · 9:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "LOFT39",
-      "source": "Luma NYC",
-      "link": "https://luma.com/clickh-lz8k",
-      "map": "https://maps.google.com/?q=LOFT39%20NYC",
-      "summary": "Luma NYC: ClickHouse Events, Zoe Steinkamp"
     },
     "jc_culture_39932_2026_06_28_save_the_date_raw_elementz_2026": {
       "title": "Save the Date Raw Elementz 2026",
