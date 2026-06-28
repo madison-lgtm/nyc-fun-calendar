@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 27, 2026, 4:39 PM EDT",
+    "checked": "Jun 28, 2026, 8:12 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-06-27",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Jun 27"
-      },
       {
         "iso": "2026-06-28",
         "key": "Sun",
@@ -45,15 +39,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Jul 3"
+      },
+      {
+        "iso": "2026-07-04",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Jul 4"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-06-27",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Jun 27"
-      },
       {
         "iso": "2026-06-28",
         "key": "Sun",
@@ -233,9 +227,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Jul 27"
+      },
+      {
+        "iso": "2026-07-28",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Jul 28"
       }
     ],
-    "todayKey": "Sat",
+    "todayKey": "Sun",
     "times": [
       "7 AM",
       "8 AM",
@@ -257,6 +257,7 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
+      "9:30 PM",
       "10 PM",
       "11 PM"
     ]
@@ -449,126 +450,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_88444_0_pride_disco_skate_night": {
-      "title": "pride disco skate night",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-26",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 06/26 · 6-10pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "lefrak center at lakeside (prospect park), various prices",
-      "source": "The Skint",
-      "link": "https://www.prospectpark.org/event/pride-disco-skate-night/",
-      "map": "https://maps.google.com/?q=lefrak%20center%20at%20lakeside%20(prospect%20park)%2C%20various%20prices%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 6-10pm: pride disco skate night: lefrak center at lakeside (prospect park), various prices."
-    },
-    "skint_88444_1_nyc_drag_march": {
-      "title": "nyc drag march",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-26",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Fri, 06/26 · 7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "tompkins square park to the stonewall inn",
-      "source": "The Skint",
-      "link": "https://gaycitynews.com/nyc-drag-march-harlem-pride-dyke-march-pride-2026/",
-      "map": "https://maps.google.com/?q=tompkins%20square%20park%20to%20the%20stonewall%20inn%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 7pm: nyc drag march: tompkins square park to the stonewall inn."
-    },
-    "skint_88444_2_prideshow_at_the_sideshow": {
-      "title": "prideshow at the sideshow",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-26",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Fri, 06/26 · 8pm",
-      "price": "$20",
-      "free": false,
-      "place": "coney island usa",
-      "source": "The Skint",
-      "link": "https://www.coneyisland.com/event/prideshow062626",
-      "map": "https://maps.google.com/?q=coney%20island%20usa%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 8pm: prideshow at the sideshow: coney island usa. $20."
-    },
-    "skint_88444_3_support_women_djs_presents_pride_party": {
-      "title": "support women djs presents: pride party",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-06-26",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Fri, 06/26 · 10pm",
-      "price": "$9",
-      "free": false,
-      "place": "mood ring (bushwick), $9",
-      "source": "The Skint",
-      "link": "https://www.supportwomendjs.com/events-all/6j2ucay1zrrixzcoa9kcf8n59glw09",
-      "map": "https://maps.google.com/?q=mood%20ring%20(bushwick)%2C%20%249%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 10pm: support women djs presents: pride party: mood ring (bushwick), $9.95+."
-    },
-    "skint_88444_4_state_of_firsts_with_director_chase_joynt_q_a": {
-      "title": "state of firsts with director chase joynt q+a",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-26",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Fri, 06/26 · + sat 7pm",
-      "price": "$17.50",
-      "free": false,
-      "place": "angelika film center (soho), $$19 general, $17",
-      "source": "The Skint",
-      "link": "https://angelikafilmcenter.com/nyc/movies/details/state-of-firsts",
-      "map": "https://maps.google.com/?q=angelika%20film%20center%20(soho)%2C%20%24%2419%20general%2C%20%2417%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri + sat 7pm: state of firsts with director chase joynt q+a: angelika film center (soho), $$19 general, $17.50 seniors."
-    },
-    "skint_88444_5_the_robyn_party_madonnagaga_party_and_more": {
-      "title": "the robyn party, madonnagaga party, and more",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-26",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 06/26 · thru sun",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "3 dollar bill (east williamsburg), various prices",
-      "source": "The Skint",
-      "link": "https://www.3dollarbillbk.com/rsvp",
-      "map": "https://maps.google.com/?q=3%20dollar%20bill%20(east%20williamsburg)%2C%20various%20prices%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri thru sun: the robyn party, madonnagaga party, and more: 3 dollar bill (east williamsburg), various prices."
-    },
-    "skint_88444_6_yes_homo_pride_fagnet_pride_lezzie_mcguire_and_more": {
-      "title": "yes homo: pride, fagnet: pride, lezzie mcguire, and more",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-06-26",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 06/26 · thru sun",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "c’mon everybody (bed-stuy), various prices",
-      "source": "The Skint",
-      "link": "https://www.cmoneverybody.com/events",
-      "map": "https://maps.google.com/?q=c%E2%80%99mon%20everybody%20(bed-stuy)%2C%20various%20prices%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri thru sun: yes homo: pride, fagnet: pride, lezzie mcguire, and more: c’mon everybody (bed-stuy), various prices."
-    },
-    "skint_88444_7_youth_pride": {
+    "skint_88444_0_youth_pride": {
       "title": "youth pride",
       "type": "art",
       "label": "Art / Culture",
@@ -585,7 +467,7 @@
       "map": "https://maps.google.com/?q=pier%2016%20(seaport)%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-6pm: youth pride: pier 16 (seaport)."
     },
-    "skint_88444_8_17th_annual_harlem_pride": {
+    "skint_88444_1_17th_annual_harlem_pride": {
       "title": "17th annual harlem pride",
       "type": "art",
       "label": "Art / Culture",
@@ -602,7 +484,7 @@
       "map": "https://maps.google.com/?q=12th%20ave%20bet%20130th%20%2B%20132nd%20sts%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-6pm: 17th annual harlem pride: 12th ave bet 130th + 132nd sts."
     },
-    "skint_88444_9_tsq_live_pride_finale_party": {
+    "skint_88444_2_tsq_live_pride_finale_party": {
       "title": "tsq live pride finale party",
       "type": "art",
       "label": "Art / Culture",
@@ -619,7 +501,7 @@
       "map": "https://maps.google.com/?q=broadway%20%2B%2046th%20st%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 3pm: tsq live pride finale party: broadway + 46th st."
     },
-    "skint_88444_10_nyc_dyke_march": {
+    "skint_88444_3_nyc_dyke_march": {
       "title": "nyc dyke march",
       "type": "art",
       "label": "Art / Culture",
@@ -636,7 +518,7 @@
       "map": "https://maps.google.com/?q=steps%20off%20from%20bryant%20park%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 5pm: nyc dyke march: steps off from bryant park."
     },
-    "skint_88444_11_glo_in_the_city_live_black_and_poc_queer_comedy_pric": {
+    "skint_88444_4_glo_in_the_city_live_black_and_poc_queer_comedy_pric": {
       "title": "glo in the city live! black and poc queer comedy price/post dyke march comedy show",
       "type": "art",
       "label": "Comedy",
@@ -653,7 +535,7 @@
       "map": "https://maps.google.com/?q=gladys%20books%20%2B%20wine%20(bed-stuy)%2C%20%2415%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 7pm: glo in the city live! black and poc queer comedy price/post dyke march comedy show: gladys books + wine (bed-stuy), $15."
     },
-    "skint_88444_12_switch_n_play_drag_burlesque_show": {
+    "skint_88444_5_switch_n_play_drag_burlesque_show": {
       "title": "switch n’ play drag + burlesque show",
       "type": "weird",
       "label": "Weird / Social",
@@ -670,7 +552,7 @@
       "map": "https://maps.google.com/?q=littlefield%20(gowanus)%2C%20%2415%2B%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 8pm: switch n’ play drag + burlesque show: littlefield (gowanus), $15+."
     },
-    "skint_88444_13_let_s_dance_david_bowie_nite_party_pride_edition": {
+    "skint_88444_6_let_s_dance_david_bowie_nite_party_pride_edition": {
       "title": "let’s dance: david bowie nite party (pride edition)",
       "type": "art",
       "label": "Art / Culture",
@@ -687,7 +569,7 @@
       "map": "https://maps.google.com/?q=tv%20eye%20(ridgewood)%2C%20%2410%20adv%2C%20%2415%20dayy%20of%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11pm: let’s dance: david bowie nite party (pride edition): tv eye (ridgewood), $10 adv, $15 dayy of."
     },
-    "skint_88444_14_pridefest_street_festival": {
+    "skint_88444_7_pridefest_street_festival": {
       "title": "pridefest street festival",
       "type": "market",
       "label": "Festival / Market",
@@ -704,7 +586,7 @@
       "map": "https://maps.google.com/?q=4th%20ave%20from%20astor%20pl%20to%2014th%20st%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-6pm: pridefest street festival: 4th ave from astor pl to 14th st."
     },
-    "skint_88444_15_nyc_pride_march": {
+    "skint_88444_8_nyc_pride_march": {
       "title": "nyc pride march",
       "type": "art",
       "label": "Art / Culture",
@@ -721,7 +603,7 @@
       "map": "https://maps.google.com/?q=26th%20st%20%2B%20fifth%20ave%20to%2015th%20st%20%2B%20seventh%20ave%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: nyc pride march: 26th st + fifth ave to 15th st + seventh ave."
     },
-    "skint_88444_16_pride_for_the_people_post_parade_party": {
+    "skint_88444_9_pride_for_the_people_post_parade_party": {
       "title": "pride for the people: post parade party",
       "type": "art",
       "label": "Art / Culture",
@@ -738,7 +620,7 @@
       "map": "https://maps.google.com/?q=with%20jasmine%20goode%2C%20zack%20wickham%2C%20and%20peppermint%3A%20moxy%20chelsea%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 3pm-midnight: pride for the people: post parade party with jasmine goode, zack wickham, and peppermint: moxy chelsea. $20."
     },
-    "skint_88444_17_brooklyn_cookie_swap": {
+    "skint_88444_10_brooklyn_cookie_swap": {
       "title": "brooklyn cookie swap",
       "type": "market",
       "label": "Festival / Market",
@@ -755,7 +637,7 @@
       "map": "https://maps.google.com/?q=prospect%20park%20long%20meadow%20(event%20page%20will%20be%20updated%20if%20there%20are%20any%20weather-related%20changes)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 2pm: brooklyn cookie swap: prospect park long meadow (event page will be updated if there are any weather-related changes)."
     },
-    "skint_88444_18_sixth_annual_dominican_taste_festival": {
+    "skint_88444_11_sixth_annual_dominican_taste_festival": {
       "title": "sixth annual dominican taste festival",
       "type": "market",
       "label": "Festival / Market",
@@ -772,7 +654,7 @@
       "map": "https://maps.google.com/?q=quisqueya%20plaza%20(inwood)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun (10am-8pm): sixth annual dominican taste festival: quisqueya plaza (inwood)."
     },
-    "skint_88444_19_third_annual_to_itas_fest": {
+    "skint_88444_12_third_annual_to_itas_fest": {
       "title": "third annual toñitas fest",
       "type": "market",
       "label": "Festival / Market",
@@ -789,7 +671,7 @@
       "map": "https://maps.google.com/?q=244%20grand%20st%2C%20williamsburg%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: third annual toñitas fest: 244 grand st, williamsburg."
     },
-    "skint_88444_20_the_brooklyn_garlic_takedown": {
+    "skint_88444_13_the_brooklyn_garlic_takedown": {
       "title": "the brooklyn garlic takedown",
       "type": "market",
       "label": "Festival / Market",
@@ -805,57 +687,6 @@
       "link": "https://thetakedowns.com",
       "map": "https://maps.google.com/?q=royal%20palms%20shuffleboard%20club%20(williamsburg)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1pm: the brooklyn garlic takedown: royal palms shuffleboard club (williamsburg). $30."
-    },
-    "gary_2026_06_26_nyc_coffee_club_early_stage_founders_funders_in_fint": {
-      "title": "NYC Coffee Club - Early-Stage Founders & Funders In Fintech, Healthcare, Supply Chain & Transportation",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-06-26",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 06/26 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/4vuqdvp/NYC-Coffee-Club-Early-Stage-Founders-Funders-In-Fintech-Healthcare-Supply-Chain-Transportation",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Olivia O'Sullivan (Forum Ventures), Damian Murray (Level Up Ventures)."
-    },
-    "gary_2026_06_26_gen_juice_drinks_night_w_ai_artists_filmmakers_tool_": {
-      "title": "Gen&Juice - Drinks Night w/ AI Artists, Filmmakers, Tool Companies",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-06-26",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 06/26 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/7nwnfsi/Gen-Juice-Drinks-Night-w-AI-Artists-Filmmakers-Tool-Companies",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Are you an AI Filmmaker? Do you work for a Gen AI Company? Join us for drinks! Join us for a relaxed night of drinks, connections, & conversation with fellow AI filmmakers & startup founders who share a passion for pushing the boundaries of creative technology. This isn't one of our typical Gen Jams-think of it more like a casual get-together designed for meeting new collaborators, swapping insights on the latest tools, & simply having fun among like-minded peers. Whether you've just wrapped an AI-driven production, launched a startup, or are brainstorming your next big venture, you'll find plenty of new faces to connect with-and maybe even spark your next collaboration. So raise a glass & toast to the future of AI-powered cinema alongside the community that's shaping it!"
-    },
-    "gary_2026_06_26_ai_engineers_game_night": {
-      "title": "AI Engineers - Game Night",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-06-26",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Fri, 06/26 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/oseeul1/AI-Engineers-Game-Night",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Game Night with NYC's Top EngineersnWe're bringing together some of the best engineers in New York for a night of Smash Bros, Mario Kart, board games, & good conversation. Drinks & pizza are on us.nnWhat is this?nA game night for engineers & builders in NYC's tech ecosystem.nNo pitches or networking vibes - were just hanging out.nnWho's coming?nA curated mix of engineers from tier 1, VC-backed startups across AI/ML, infrastructure, & full-stack product. Seed to Series C+.nnAbout the host:nFonzi is a recruiting platform focused exclusively on product & AI engineering hires in NYC & SF. We work with 75+ open roles across the best startups in the city.nnHiring?nWant intros to startups?nnSpots are limited."
     },
     "gary_2026_06_27_superplane_hackathon_bash_script_funeral": {
       "title": "SuperPlane Hackathon - Bash Script Funeral",
@@ -1316,23 +1147,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies.nWell have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart.nComplimentary drinks & pizza are on us.nHigh signal, low pressure. Come play poker, jump into games, & spend the night with some of NYCs top engineers, founders, & operators.nLimited seats.nRegistration: require linkedin, company, job title, & include the following multiple choice (single select)nHow would you like to participate?nPoker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in.n*Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi, click Get Hired, & apply.nOptions:nPoker ($100 buy-in, seat not guaranteed)nHang Out & Other GamesnHiring?nWant intros to startups?"
     },
-    "luma_2026_06_27_superplane_hackathon_bash_script_funeral_w_render": {
-      "title": "SuperPlane Hackathon: Bash Script Funeral /w Render",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sat, 06/27 · 2pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/zlddwpj7",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: SuperPlane, Darko Fabijan, Marko Anastasov"
-    },
     "luma_2026_06_30_gtm_eng_nyc_coding_agents_gtm_lightning_talks_leader": {
       "title": "GTM Eng NYC: Coding Agents + GTM Lightning Talks leaders from Deepline, OpenAI, Ramp, Notion, Modal & Attention",
       "type": "tech",
@@ -1350,90 +1164,39 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Deepline, Jai Toor, Seth Hanes"
     },
-    "jc_culture_37267_2026_06_27_team_walker_farmers_market_2026": {
-      "title": "Team Walker Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 06/27 · 10am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "TEAM WALKER LEARNING CENTER, 373 COMMUNIPAW AVE., JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/team-walker-farmers-market-2026-5/",
-      "map": "https://maps.google.com/?q=TEAM%20WALKER%20LEARNING%20CENTER%2C%20373%20COMMUNIPAW%20AVE.%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
-    },
-    "jc_culture_39997_2026_06_27_playwriting_workshop_for_the_history_and_preservatio": {
-      "title": "Playwriting Workshop for the History and Preservation Community",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 06/27 · 11am",
+    "luma_2026_07_01_agents_apis_nyc_developer_meetup": {
+      "title": "Agents & APIs NYC Developer Meetup",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-01",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Wed, 07/01 · 9:30pm",
       "price": "Free",
       "free": true,
-      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/playwriting-workshop-for-the-history-and-preservation-community/",
-      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "This workshop will encourage intersectionality and investigation as a way to write new plays based on aspects of history and preservation. Have you ever wanted to write a play? Have you found a niche piece of history that excites you? Do you want a space where you can write and talk about your favorite facts? Join M. D. Schaffer, playwright of “Drapetomania: A Negro Carol,” in a workshop that looks to give attendees the skills and structures to make art inspired by their historical interests. This is a collaboration between the Garden State New Play Festival, Jersey City Landmarks Conservancy and Museum of Jersey City History."
+      "place": "1400 Broadway",
+      "source": "Luma NYC",
+      "link": "https://luma.com/bwd39lhw",
+      "map": "https://maps.google.com/?q=1400%20Broadway%20NYC",
+      "summary": "Luma NYC: Postman Developer Events, Pooja Mistry"
     },
-    "jc_culture_39999_2026_06_27_save_the_powerhouse_walking_tour": {
-      "title": "Save the Powerhouse Walking Tour",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 06/27 · 12pm",
-      "price": "$25",
-      "free": false,
-      "place": "Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/save-the-powerhouse-walking-tour/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Our summer season of Save the Powerhouse Walking Tours starts on Saturday, June 27, 2026, 12-2pm. Explore the Hudson & Manhattan Railroad Powerhouse neighborhood with the Jersey City Landmarks Conservancy and experience a 200-year-old industrial landscape reinvented for 21st-century living and working. Co-sponsored by the Powerhouse Arts District Neighborhood Association (PADNA)."
-    },
-    "jc_culture_38749_2026_06_27_drum_create_connect_and_grow_2026": {
-      "title": "Drum, Create, Connect and Grow 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 06/27 · 1pm",
-      "price": "Free / varies",
+    "luma_2026_07_08_ai_builders_night_new_york": {
+      "title": "AI Builders Night New York",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Wed, 07/08 · 9:30pm",
+      "price": "Free",
       "free": true,
-      "place": "Riverview Fisk Park, 498 Palisade Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/drum-create-connect-and-grow-2026-4/",
-      "map": "https://maps.google.com/?q=Riverview%20Fisk%20Park%2C%20498%20Palisade%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor."
-    },
-    "jc_culture_40398_2026_06_27_match_day_festival_2026": {
-      "title": "MATCH DAY FESTIVAL 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Sat, 06/27 · 3pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "136 MAGNOLIA AVE, 136 MAGNOLIA AVE JOURNAL SQUARE",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/match-day-festival-2026/",
-      "map": "https://maps.google.com/?q=136%20MAGNOLIA%20AVE%2C%20136%20MAGNOLIA%20AVE%20JOURNAL%20SQUARE",
-      "summary": "Join us for the Match Day Festival at Magnolia Landing (the plaza by the Dunkin on Summit Ave), where good food, great music, and the best community in Jersey City come together to watch the world’s favorite game! Here is what we have in store at this FREE, family friendly, community event: ⚽ Free soccer activations🎨 Free face painting🍽 Food trucks 🍺 @902brewing 🎶 DJ entertainment @oneday.mp333 Plus catch these matches LIVE at our two viewing locations: 🇵🇦 Panama vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 5:00 PM🇭🇷 Croatia vs Ghana 🇬🇭 | 5:00 PM🇵🇹 Portugal vs Colombia 🇨🇴 | 7:30 PM Seating is limited, so come early and claim your spot! There’s will be plenty of standing (and dancing) room 📍 136 Magnolia Ave, Journal Square, Jersey City🗓 Saturday, June 27 | 3PM to 10PM🎟 Free to attend, rsvp required"
+      "place": "LOFT39",
+      "source": "Luma NYC",
+      "link": "https://luma.com/clickh-lz8k",
+      "map": "https://maps.google.com/?q=LOFT39%20NYC",
+      "summary": "Luma NYC: ClickHouse Events, Zoe Steinkamp"
     },
     "jc_culture_39932_2026_06_28_save_the_date_raw_elementz_2026": {
       "title": "Save the Date Raw Elementz 2026",
@@ -2080,6 +1843,23 @@
       "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-zootopia-2/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Hamilton Park featuring Zootopia 2"
+    },
+    "jc_culture_10003561_2026_07_29_hamilton_park_farmers_market_2026": {
+      "title": "Hamilton Park Farmers Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-07-29",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 07/29 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-07-29/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     }
   },
   "clusters": {
@@ -2092,43 +1872,13 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_06_26_6_pm": [
-      "skint_88444_0_pride_disco_skate_night",
-      "gary_2026_06_26_gen_juice_drinks_night_w_ai_artists_filmmakers_tool_"
-    ],
-    "cluster_2026_06_26_7_pm": [
-      "skint_88444_1_nyc_drag_march",
-      "skint_88444_4_state_of_firsts_with_director_chase_joynt_q_a"
-    ],
-    "cluster_2026_06_26_10_am": [
-      "skint_88444_5_the_robyn_party_madonnagaga_party_and_more",
-      "skint_88444_6_yes_homo_pride_fagnet_pride_lezzie_mcguire_and_more",
-      "gary_2026_06_26_nyc_coffee_club_early_stage_founders_funders_in_fint"
-    ],
-    "cluster_2026_06_27_11_am": [
-      "skint_88444_7_youth_pride",
-      "jc_culture_39997_2026_06_27_playwriting_workshop_for_the_history_and_preservatio"
-    ],
-    "cluster_2026_06_27_12_pm": [
-      "skint_88444_8_17th_annual_harlem_pride",
-      "jc_culture_39999_2026_06_27_save_the_powerhouse_walking_tour"
-    ],
-    "cluster_2026_06_27_3_pm": [
-      "skint_88444_9_tsq_live_pride_finale_party",
-      "jc_culture_40398_2026_06_27_match_day_festival_2026"
-    ],
     "cluster_2026_06_28_12_pm": [
-      "skint_88444_15_nyc_pride_march",
-      "skint_88444_19_third_annual_to_itas_fest"
-    ],
-    "cluster_2026_06_27_2_pm": [
-      "skint_88444_17_brooklyn_cookie_swap",
-      "luma_2026_06_27_superplane_hackathon_bash_script_funeral_w_render"
+      "skint_88444_8_nyc_pride_march",
+      "skint_88444_12_third_annual_to_itas_fest"
     ],
     "cluster_2026_06_27_10_am": [
-      "skint_88444_18_sixth_annual_dominican_taste_festival",
-      "gary_2026_06_27_superplane_hackathon_bash_script_funeral",
-      "jc_culture_37267_2026_06_27_team_walker_farmers_market_2026"
+      "skint_88444_11_sixth_annual_dominican_taste_festival",
+      "gary_2026_06_27_superplane_hackathon_bash_script_funeral"
     ],
     "cluster_2026_06_30_6_pm": [
       "gary_2026_06_30_coding_agents_gtm_lightning_talks",
