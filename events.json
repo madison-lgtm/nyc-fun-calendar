@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 28, 2026, 4:42 PM EDT",
+    "checked": "Jun 29, 2026, 10:42 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-06-28",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Jun 28"
-      },
       {
         "iso": "2026-06-29",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Jul 4"
+      },
+      {
+        "iso": "2026-07-05",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Jul 5"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-06-28",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Jun 28"
-      },
       {
         "iso": "2026-06-29",
         "key": "Mon",
@@ -233,12 +227,19 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Jul 28"
+      },
+      {
+        "iso": "2026-07-29",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Jul 29"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
       "7 AM",
       "8 AM",
+      "8:30 AM",
       "10 AM",
       "11 AM",
       "11:30 AM",
@@ -259,8 +260,7 @@
       "8:30 PM",
       "9 PM",
       "9:30 PM",
-      "10 PM",
-      "11 PM"
+      "10 PM"
     ]
   },
   "events": {
@@ -451,126 +451,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_88444_0_youth_pride": {
-      "title": "youth pride",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 06/27 · 11am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "pier 16 (seaport)",
-      "source": "The Skint",
-      "link": "https://nycpride.org/event/youth-pride/",
-      "map": "https://maps.google.com/?q=pier%2016%20(seaport)%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-6pm: youth pride: pier 16 (seaport)."
-    },
-    "skint_88444_1_17th_annual_harlem_pride": {
-      "title": "17th annual harlem pride",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 06/27 · 12-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "12th ave bet 130th + 132nd sts",
-      "source": "The Skint",
-      "link": "https://harlempride.org",
-      "map": "https://maps.google.com/?q=12th%20ave%20bet%20130th%20%2B%20132nd%20sts%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-6pm: 17th annual harlem pride: 12th ave bet 130th + 132nd sts."
-    },
-    "skint_88444_2_tsq_live_pride_finale_party": {
-      "title": "tsq live pride finale party",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Sat, 06/27 · 3pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "broadway + 46th st",
-      "source": "The Skint",
-      "link": "https://www.timessquarenyc.org/events/tsq-live-pride-finale-party",
-      "map": "https://maps.google.com/?q=broadway%20%2B%2046th%20st%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 3pm: tsq live pride finale party: broadway + 46th st."
-    },
-    "skint_88444_3_nyc_dyke_march": {
-      "title": "nyc dyke march",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Sat, 06/27 · 5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "steps off from bryant park",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/nycdykemarch/",
-      "map": "https://maps.google.com/?q=steps%20off%20from%20bryant%20park%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 5pm: nyc dyke march: steps off from bryant park."
-    },
-    "skint_88444_4_glo_in_the_city_live_black_and_poc_queer_comedy_pric": {
-      "title": "glo in the city live! black and poc queer comedy price/post dyke march comedy show",
-      "type": "art",
-      "label": "Comedy",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Sat, 06/27 · 7pm",
-      "price": "$15",
-      "free": false,
-      "place": "gladys books + wine (bed-stuy), $15",
-      "source": "The Skint",
-      "link": "https://www.gladysbooksandwine.com/pages/events#?event-id=82727",
-      "map": "https://maps.google.com/?q=gladys%20books%20%2B%20wine%20(bed-stuy)%2C%20%2415%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 7pm: glo in the city live! black and poc queer comedy price/post dyke march comedy show: gladys books + wine (bed-stuy), $15."
-    },
-    "skint_88444_5_switch_n_play_drag_burlesque_show": {
-      "title": "switch n’ play drag + burlesque show",
-      "type": "weird",
-      "label": "Weird / Social",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Sat, 06/27 · 8pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "littlefield (gowanus), $15+",
-      "source": "The Skint",
-      "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1990509255767",
-      "map": "https://maps.google.com/?q=littlefield%20(gowanus)%2C%20%2415%2B%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 8pm: switch n’ play drag + burlesque show: littlefield (gowanus), $15+."
-    },
-    "skint_88444_6_let_s_dance_david_bowie_nite_party_pride_edition": {
-      "title": "let’s dance: david bowie nite party (pride edition)",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "11 PM",
-      "sort": 23,
-      "when": "Sat, 06/27 · 11pm",
-      "price": "$10",
-      "free": false,
-      "place": "tv eye (ridgewood), $10 adv, $15 dayy of",
-      "source": "The Skint",
-      "link": "https://wl.eventim.us/event/lets-dance-bowie-dance-party/692145?afflky=TVEye",
-      "map": "https://maps.google.com/?q=tv%20eye%20(ridgewood)%2C%20%2410%20adv%2C%20%2415%20dayy%20of%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11pm: let’s dance: david bowie nite party (pride edition): tv eye (ridgewood), $10 adv, $15 dayy of."
-    },
-    "skint_88444_7_pridefest_street_festival": {
+    "skint_88444_0_pridefest_street_festival": {
       "title": "pridefest street festival",
       "type": "market",
       "label": "Festival / Market",
@@ -587,7 +468,7 @@
       "map": "https://maps.google.com/?q=4th%20ave%20from%20astor%20pl%20to%2014th%20st%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-6pm: pridefest street festival: 4th ave from astor pl to 14th st."
     },
-    "skint_88444_8_nyc_pride_march": {
+    "skint_88444_1_nyc_pride_march": {
       "title": "nyc pride march",
       "type": "art",
       "label": "Art / Culture",
@@ -604,7 +485,7 @@
       "map": "https://maps.google.com/?q=26th%20st%20%2B%20fifth%20ave%20to%2015th%20st%20%2B%20seventh%20ave%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: nyc pride march: 26th st + fifth ave to 15th st + seventh ave."
     },
-    "skint_88444_9_pride_for_the_people_post_parade_party": {
+    "skint_88444_2_pride_for_the_people_post_parade_party": {
       "title": "pride for the people: post parade party",
       "type": "art",
       "label": "Art / Culture",
@@ -621,41 +502,7 @@
       "map": "https://maps.google.com/?q=with%20jasmine%20goode%2C%20zack%20wickham%2C%20and%20peppermint%3A%20moxy%20chelsea%20NYC",
       "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 3pm-midnight: pride for the people: post parade party with jasmine goode, zack wickham, and peppermint: moxy chelsea. $20."
     },
-    "skint_88444_10_brooklyn_cookie_swap": {
-      "title": "brooklyn cookie swap",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sat, 06/27 · 2pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "prospect park long meadow (event page will be updated if there are any weather-related changes)",
-      "source": "The Skint",
-      "link": "https://www.brooklyncookieswap.com",
-      "map": "https://maps.google.com/?q=prospect%20park%20long%20meadow%20(event%20page%20will%20be%20updated%20if%20there%20are%20any%20weather-related%20changes)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 2pm: brooklyn cookie swap: prospect park long meadow (event page will be updated if there are any weather-related changes)."
-    },
-    "skint_88444_11_sixth_annual_dominican_taste_festival": {
-      "title": "sixth annual dominican taste festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 06/27 · + sun (10am-8pm)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "quisqueya plaza (inwood)",
-      "source": "The Skint",
-      "link": "https://www.facebook.com/dominicantasteoficial/",
-      "map": "https://maps.google.com/?q=quisqueya%20plaza%20(inwood)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun (10am-8pm): sixth annual dominican taste festival: quisqueya plaza (inwood)."
-    },
-    "skint_88444_12_third_annual_to_itas_fest": {
+    "skint_88444_3_third_annual_to_itas_fest": {
       "title": "third annual toñitas fest",
       "type": "market",
       "label": "Festival / Market",
@@ -672,7 +519,7 @@
       "map": "https://maps.google.com/?q=244%20grand%20st%2C%20williamsburg%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: third annual toñitas fest: 244 grand st, williamsburg."
     },
-    "skint_88444_13_the_brooklyn_garlic_takedown": {
+    "skint_88444_4_the_brooklyn_garlic_takedown": {
       "title": "the brooklyn garlic takedown",
       "type": "market",
       "label": "Festival / Market",
@@ -688,23 +535,6 @@
       "link": "https://thetakedowns.com",
       "map": "https://maps.google.com/?q=royal%20palms%20shuffleboard%20club%20(williamsburg)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1pm: the brooklyn garlic takedown: royal palms shuffleboard club (williamsburg). $30."
-    },
-    "gary_2026_06_27_superplane_hackathon_bash_script_funeral": {
-      "title": "SuperPlane Hackathon - Bash Script Funeral",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-06-27",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 06/27 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/5s7rylm/SuperPlane-Hackathon-Bash-Script-Funeral",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Render."
     },
     "gary_2026_06_29_consumer_brews_fancy_food_edition": {
       "title": "Consumer Brews - Fancy Food Edition",
@@ -722,6 +552,23 @@
       "link": "https://www.garysguide.com/events/hv4oqo3/Consumer-Brews-Fancy-Food-Edition",
       "map": "https://maps.google.com/?q=Venue%2C%20519%208th%20Ave",
       "summary": "Gary's Guide: With Glimpse, VHS Ventures, Bridge, Phoenicia Diner, Veselka, Monte's Sauce."
+    },
+    "gary_2026_06_30_shopify_ai_hackathon_ai_office_hours": {
+      "title": "Shopify AI Hackathon & AI Office Hours",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-06-30",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Tue, 06/30 · 10:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Shopify HQ, 131 Greene St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/cksx9tf/Shopify-AI-Hackathon-AI-Office-Hours",
+      "map": "https://maps.google.com/?q=Shopify%20HQ%2C%20131%20Greene%20St",
+      "summary": "Gary's Guide: With Kevin Weatherman (Founder, Upscale AI), Ripple AI, Siena AI."
     },
     "gary_2026_06_30_tech_business_summit_se_asia_edition": {
       "title": "Tech & Business Summit SE Asia Edition",
@@ -774,6 +621,40 @@
       "map": "https://maps.google.com/?q=Nomadworks%2C%20240%20W%2040th%20St%2C%202nd%20Fl",
       "summary": "Gary's Guide: With Eduardo Gonzalez (AI/ML Architect Applied Field Engg, Snowflake)."
     },
+    "gary_2026_06_30_mongodb_founders_poker_night": {
+      "title": "MongoDB Founders Poker Night",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-06-30",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 06/30 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, 113 Spring St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/5fuvzm7/MongoDB-Founders-Poker-Night",
+      "map": "https://maps.google.com/?q=Venue%2C%20113%20Spring%20St",
+      "summary": "Gary's Guide: The best conversations in tech do not happen on a stage. They happen at a table, between hands, after the second buy-in. Founders Poker Night is an invite-only evening for venture-backed founders & a handful of investors. Real felt tables, professional dealers, no pitch decks. You bring your read on people. We bring the chips. Hosted with MongoDB & Justworks, at Meow HQ in SoHo - the room where the last few Leverage poker nights ran late. Tuesday, June 30. SoHo, NYC. Doors at 6:00 PM. Seats are limited & every RSVP is reviewed. Request yours below. See you at the table. RULES: BLINDS: $1/$2 (or as agreed by table). MAX BUY-IN: $200; $50 min; Venmo (@mattschkolnick3) full amount to table bank prior to play, caption: DINNER. REBUYS/ADD-ONS: Can stand up anytime, rebuys are optional. RULES: standard casino-style Texas Hold'em; organizer has final say on disputes. STRADDLES: unlimited, starting UTG."
+    },
+    "gary_2026_07_01_future_of_paid_marketing_search_ai_funnels_in_2027": {
+      "title": "Future Of Paid Marketing - Search, AI & Funnels In 2027",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-01",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Wed, 07/01 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Wix HQ, 100 Gansevoort St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/a1ss55h/Future-Of-Paid-Marketing-Search-AI-Funnels-In-2027",
+      "map": "https://maps.google.com/?q=Wix%20HQ%2C%20100%20Gansevoort%20St",
+      "summary": "Gary's Guide: The Future of Paid Marketing: Search, AI, & Funnels in 2027 Wednesday, July 1st, 2026 5:00 PM - 8:00 PM Wix Offices, NYC Paid marketing is entering a new era. Search is changing. Creative is changing. Funnels are changing. AI is reshaping every stage of the customer journey, from ad creation to conversion. Join us for an exclusive after-work event at the Wix offices in NYC, bringing together performance marketers, growth leaders, founders, & AI builders to explore how AI is transforming the future of paid acquisition. What we'll cover: The future of search & advertising in an AI-first world How AI is changing creative production, campaign creation, & optimization The evolution of landing pages, funnels, & personalization New workflows & tools used by leading growth teams Practical lessons from teams already implementing AI today Networking with top NYC marketers, founders, & operators What to expect: Expert-led discussions & panels Live product demos Curated networking with top growth & marketing leaders Drinks, conversations, & practical takeaways Speakers & Agenda Speaker lineup & full agenda will be announced soon. Confirmed speakers include leaders from Google, high-growth technology companies, & the AI marketing ecosystem. Who should attend? Performance marketers, growth leaders, founders, agencies, demand generation teams, & anyone interested in how AI is reshaping paid marketing."
+    },
     "gary_2026_07_01_agents_apis_developer_meetup": {
       "title": "Agents & APIs Developer Meetup",
       "type": "tech",
@@ -807,6 +688,40 @@
       "link": "https://www.garysguide.com/events/baiciau/Founders-x-VCs-Shuffleboard-Social",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Morgan Blumberg (M13)."
+    },
+    "gary_2026_07_07_entrepreneurs_roundtable": {
+      "title": "Entrepreneurs Roundtable",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-07-07",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 07/07 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/m7ps90l/Entrepreneurs-Roundtable",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Cassie Young (Primary Venture Partners)."
+    },
+    "gary_2026_07_08_nyc_fintech_coffee": {
+      "title": "NYC Fintech Coffee",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "8:30 AM",
+      "sort": 8.5,
+      "when": "Wed, 07/08 · 8:30am",
+      "price": "Free",
+      "free": true,
+      "place": "HSBC, 66 Hudson Blvd E",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/rrrj8uv/NYC-Fintech-Coffee",
+      "map": "https://maps.google.com/?q=HSBC%2C%2066%20Hudson%20Blvd%20E",
+      "summary": "Gary's Guide: NYC Fintech Coffee, hosted by This Week in FinTech & HSBC, is an event for Fintech founders, investors & enthusiasts to gather around & talk everything Fintech. This is a no-agenda event, just drop by to make new Fintech friends over breakfast. See you there! Please note - Given the demand & limited capacity, registration & approval are required for attendance!"
     },
     "gary_2026_07_08_fierce_founders_coworking_day": {
       "title": "Fierce Founders Coworking Day",
@@ -858,6 +773,57 @@
       "link": "https://www.garysguide.com/events/omh02e1/AI-Builders-Night",
       "map": "https://maps.google.com/?q=LOFT39%2C%2038%20W%2039th%20St",
       "summary": "Gary's Guide: Join us in New York at Loft 39 for an evening dedicated to the builders behind modern AI. From real-world use cases to the infrastructure powering large-scale systems, AI Night brings together engineers, data practitioners, & founders shaping how AI is built & deployed today. Brought to you by ClickHouse & Docker! Current Agenda: 5:00 PM: Arrivals, Check-In & Networking 5:50 PM: Welcome & Introductions + Food & Drink 5:55 - 6:20PM: Speaker 1 6:20 - 6:45 PM: Speaker 2 6:45 - 7:10 PM: Speaker 3 7:30 - 8:30 PM: Q&A, Networking 8:30 PM: Meetup Concludes"
+    },
+    "gary_2026_07_08_leaders_in_design": {
+      "title": "Leaders In Design",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 07/08 · 6:00pm",
+      "price": "$45",
+      "free": false,
+      "place": "Betaworks, 136 Crosby St, 4th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/q7bwj77/Leaders-In-Design",
+      "map": "https://maps.google.com/?q=Betaworks%2C%20136%20Crosby%20St%2C%204th%20Fl",
+      "summary": "Gary's Guide: With Alanna Fein (Product Designer, PayPal), Hailey Shi (Product Experience Designer, MasterCard)."
+    },
+    "gary_2026_07_08_master_vc_empanadas": {
+      "title": "Master VC Empanadas",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 07/08 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/vyydiw5/Master-VC-Empanadas",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: The Ultimate Master Chef Experience nnJoin us for a New Edition of our Empanadas Masterclass! This unique event combines culinary creativity with top-notch networking opportunities. You'll get the chance to master the art of making empanadas.nEngage in insightful conversations with fellow startup founders & venture capitalists in a relaxed & enjoyable atmosphere.nRoll the dough, choose your toppings, & bake your masterpiece while enjoying a selection of exquisite drinks that perfectly complement your culinary creations.nSpots are limited!nAbout us:nLazonLazo provides incorporation, tax, bookkeeping, fractional CFO & fundraising solutions for startups, powered by AI Agents & Human Experts. Through our Lazo One platform, we streamline essential operations, enabling founders to focus on growth while we manage the complexities. We help startups scale with confidence.nnVita WalletnVita Wallet is a fintech company founded in 2019, specializing in international transfers & payments for individuals & businesses across more than 50 countries. The platform supports local currency operations from Chile, Mexico, Argentina, & Colombia, offering transparent pricing & competitive exchange rates. Today, more than 300,000 people trust Vita Wallet as their digital wallet of choice."
+    },
+    "gary_2026_07_09_revenue_playbook_behind_deel_s_growth_from_1m_to_1_5": {
+      "title": "Revenue Playbook Behind Deel's Growth From $1M To $1.5B ARR",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-07-09",
+      "time": "8:30 AM",
+      "sort": 8.5,
+      "when": "Thu, 07/09 · 8:30am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/b34gxsr/Revenue-Playbook-Behind-Deel-s-Growth-From-1M-To-1-5B-ARR",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Andy Walsh (Founder, Startups Decoded), Chris Lee (Head of Sales, Deel)."
     },
     "gary_2026_07_09_building_web_powered_ai_apps_w_o_code": {
       "title": "Building Web-Powered AI Apps w/o Code",
@@ -927,6 +893,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Agendan1:302:00 PM Arrival & Check-InnDoors open at 1:30 PM. Guests can arrive, settle in, & meet others before the first seminar begins. Early guests may also wait at the venue for the second session.n2:002:30 PM Seminar Session 1nA 30-minute seminar covering the main framework, examples, & takeaways.n2:302:45 PM Q&A for Session 1nAudience questions & discussion.n2:453:00 PM Intermission / Open ConversationnA short transition window before the second session begins.n3:003:30 PM Seminar Session 2nA repeat of the same 30-minute seminar for guests who prefer the later session.n3:303:45 PM Q&A for Session 2nAudience questions & discussion.n3:454:00 PM Open ConversationnGuests are welcome to stay after the seminars for casual conversation, follow-up questions, & deeper discussion.nNote: Seminar Session 2 is a repeat of Seminar Session 1. Guests only need to attend one session.nMost founders are told to post more content. That advice is expensive, vague, & usually wrong. If you're trying to grow a real business, content should not be a popularity contest, it should be a customer acquisition systemnThis seminar is a practical, direct look at how founders can use content to attract buyers, start conversations, & turn attention into revenue. Jun will walk through the core framework behind content that actually works, the kind that earns trust, creates demand, & brings in customers without wasting weeks guessing what to say nextnnThis session was widely well-received during New York Tech Week, & the response made one thing clear, founders are hungry for a better way to think about content. The ideas shared there helped cut through a lot of noise, & this time the conversation goes even deeper. Expect sharper examples, more usable tactics, & a clearer picture of how to build a content engine around growth, not vanitynnIf you've been treating content as a side task, a branding exercise, or a chore to keep up with, this event will challenge that thinking. The goal is simple, show you how to turn founder-led content into a repeatable system that supports sales & opens doorsnCommunity PartnernnSupermoonis a global network of 42,000 founders, builders, & investors, with over 200 in-person events hosted worldwide.nSupermoon operates Growth Engine, a NYC-based startup program supporting early-stage founders across deep tech, AI, fintech, & digital assets."
     },
+    "gary_2026_07_14_mozcon_2026": {
+      "title": "MozCon 2026",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-07-14",
+      "time": "8 AM",
+      "sort": 8,
+      "when": "Tue, 07/14 · 8:00am",
+      "price": "$849",
+      "free": false,
+      "place": "The Glasshouse, 660 12th Ave, 6th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/8dyxtm0/MozCon-2026",
+      "map": "https://maps.google.com/?q=The%20Glasshouse%2C%20660%2012th%20Ave%2C%206th%20Fl",
+      "summary": "Gary's Guide: With Mike King (Founder/CEO, iPullRank), Paul Norris (Dir. Organic Growth, Journey Further), Tom Capper (Dir. Search Product Strategy, Moz)."
+    },
     "gary_2026_07_14_understanding_work_agency_stewardship_in_age_of_gene": {
       "title": "Understanding Work, Agency & Stewardship In Age Of Generative & Agentic AI",
       "type": "tech",
@@ -943,6 +926,23 @@
       "link": "https://www.garysguide.com/events/zdbzqk1/Understanding-Work-Agency-Stewardship-In-Age-Of-Generative-Agentic-AI",
       "map": "https://maps.google.com/?q=Candid%2C%2032%20Old%20Slip",
       "summary": "Gary's Guide: All Tech Is Human (ATIH), in partnership with the Notre Dame-IBM Tech Ethics Lab, will host a two-part workshop series focused on perceptions, adoption, & experience with Agentic AI systems across the workforce. Led by Jen Weedon, ATIH Braintrust member, this series aims to surface both strategic & lived insights from across organizational levels, generating a more holistic set of data points to inform responsible research & practice in the enterprise space. On Tuesday, July 14, the conversation moves toward organizational leadership & governance. We will bring together 20-30 senior executives who are currently standing at the crossroads of automation. Whether you are navigating the complexities of adoption, facing regulatory bottlenecks, dealing with internal reorgs or downsizing, and/or weighing the decision to automate core processes, this executive roundtable offers a high-level forum to discuss the ethics of efficiency & the push towards AI-first or AI-native transformations. This workshop aims to surface the process, knowledge, tensions, & skill gaps. Together, we will explore how leadership can drive innovation while maintaining the trust & integrity essential to the modern enterprise. Express your interest below. This workshop will be four hours long. The workshop series will explore how different types of organizations are approaching Agentic AI - from those whose systems are already deployed, to those preparing for rollout, to those still in exploratory phases. By comparing lived experiences with Agentic AI to expectations across roles & organizational contexts, the workshops will surface concerns, decision-making realities, & unintended consequences. The goal is to understand better the dynamics shaping acute & sustained adoption, governance, & the cascading effects on the workforce. Day 2: Agentic AI from the Leadership Perspective (Organizational & Ecosystem Leaders) Agenda forthcoming"
+    },
+    "gary_2026_07_14_build_w_ai_meetup": {
+      "title": "Build w/ AI Meetup",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-07-14",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Tue, 07/14 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Bar Veloce, 176 7th Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/oib93py/Build-w-AI-Meetup",
+      "map": "https://maps.google.com/?q=Bar%20Veloce%2C%20176%207th%20Ave",
+      "summary": "Gary's Guide: For mid- to senior-level women in tech building (or starting to build) with AI, let's chat about what excites us, scares us, & overwhelms us. Whether you've already started playing around with vibe coding or just getting started, all are welcome."
     },
     "gary_2026_07_15_quantum_frontiers_responsible_ai_global_dialogue_on_": {
       "title": "Quantum Frontiers & Responsible AI - Global Dialogue On Emerging Tech",
@@ -977,6 +977,23 @@
       "link": "https://www.garysguide.com/events/gcvczro/AI-Technology-Summit",
       "map": "https://maps.google.com/?q=Skidmore%20Owings%20at%207WTC%2C%20250%20Greenwich%20St",
       "summary": "Gary's Guide: With Jeff Perlman (Founder, Bright Power), Ryan Elazari (Founder, CRE Unplugged), Gary Ling & Alfred Zhang (Broadtrade Group)."
+    },
+    "gary_2026_07_15_founder_dinner": {
+      "title": "Founder Dinner",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-15",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Wed, 07/15 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/cl2lvlp/Founder-Dinner",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Join us for an intimate evening with a highly curated group of Series A/B founders that are scaling at the most beautiful venue in NYC. Who Should Attend? Series A, B & above Why Attend? Honest conversations with the best founders at similar stages Tactical insights on fundraising, GTM, & scaling from peers who get it What Is Included? 4-course dinner with sommelier-paired wines Live pianist The builders behind some of the fastest-growing companies in the country Important Reminders: Dress Code: Business, smart casual Stay Connected: Follow us on Instagram or LinkedIn for updates on our community, events & opportunities. Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes. About the Hosts & Sponsors: Brderless brings together the most extraordinary founders through a carefully curated community. Tabs is the AI-native revenue automation platform revolutionizing financial operations for venture-funded startups & high-growth B2B companies. Headquartered in New York, Tabs was founded in 2023 by a team of industry experts from Plaid, BCG, & PwC, & has quickly gained adoption across scaling teams seeking to escape legacy ERPs. Backed by prominent investors including Lightspeed, Primary Ventures, & General Catalyst, Tabs automates billing, collections, revenue recognition, & reporting - delivering speed, accuracy, & growth for modern startups. Kruze Consulting is a leading provider of accounting, finance, HR, tax credit, & tax consulting to seed & venture capital-funded startups. Kruze's clients have collectively raised billions in VC financing, & scores have been acquired by the largest public technology companies, including Apple, Cisco & JP Morgan. Kruze's advice & best-in-class financial systems make data-driven startup founders more productive."
     },
     "gary_2026_07_16_cnbc_sport_x_boardroom_game_plan": {
       "title": "CNBC Sport x Boardroom - Game Plan",
@@ -1199,22 +1216,39 @@
       "map": "https://maps.google.com/?q=1400%20Broadway%20NYC",
       "summary": "Luma NYC: Postman Developer Events, Pooja Mistry"
     },
-    "jc_culture_39932_2026_06_28_save_the_date_raw_elementz_2026": {
-      "title": "Save the Date Raw Elementz 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-06-28",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sun, 06/28 · 2pm",
-      "price": "Free / varies",
+    "luma_2026_07_01_party_with_abaka_ai_nyc_launch_night_in_manhattan": {
+      "title": "Party with Abaka AI: NYC Launch Night in Manhattan",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-01",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Wed, 07/01 · 10pm",
+      "price": "Free",
       "free": true,
-      "place": "NJCU VISUAL ARTS BUILDING GALLERY, 2039 John F. Kennedy Blvd, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/save-the-date-raw-elementz-2026/",
-      "map": "https://maps.google.com/?q=NJCU%20VISUAL%20ARTS%20BUILDING%20GALLERY%2C%202039%20John%20F.%20Kennedy%20Blvd%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community History."
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/abakaai-yx1l",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Abaka AI, Abaka AI, Yunfei Zhao, Yang Zhou, Ricky Liu"
+    },
+    "luma_2026_07_08_ai_builders_night_new_york": {
+      "title": "AI Builders Night New York",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Wed, 07/08 · 9:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "LOFT39",
+      "source": "Luma NYC",
+      "link": "https://luma.com/clickh-lz8k",
+      "map": "https://maps.google.com/?q=LOFT39%20NYC",
+      "summary": "Luma NYC: ClickHouse Events, Zoe Steinkamp"
     },
     "jc_culture_37893_2026_06_30_movies_in_the_park_2026_inside_out_2": {
       "title": "Movies in the Park 2026 / Inside Out 2",
@@ -1861,6 +1895,40 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-07-29/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_38072_2026_07_30_jersey_city_summerfest_2026_p_r_i_m_e": {
+      "title": "Jersey City Summerfest 2026 / P.R.I.M.E",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Thu",
+      "date": "2026-07-30",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 07/30 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Berry Lane Park, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-p-r-i-m-e/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "&nbsp; JC Summerfest featuring P.R.I.M.E R&B Soul Berry Lane Park 6:30pm-8:30pm"
+    },
+    "jc_culture_37956_2026_07_30_movies_in_the_park_2026_wicked_for_good": {
+      "title": "Movies in the Park 2026 / Wicked for Good",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Thu",
+      "date": "2026-07-30",
+      "time": "8:30 PM",
+      "sort": 20.5,
+      "when": "Thu, 07/30 · 8:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "TRIANGLE PARK, 247 Old Bergen Rd, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-wicked-for-good-3/",
+      "map": "https://maps.google.com/?q=TRIANGLE%20PARK%2C%20247%20Old%20Bergen%20Rd%2C%20NJ",
+      "summary": "Triangle Park featuring Wicked for Good"
     }
   },
   "clusters": {
@@ -1874,20 +1942,25 @@
       "ted_rosenthal"
     ],
     "cluster_2026_06_28_12_pm": [
-      "skint_88444_8_nyc_pride_march",
-      "skint_88444_12_third_annual_to_itas_fest"
-    ],
-    "cluster_2026_06_27_10_am": [
-      "skint_88444_11_sixth_annual_dominican_taste_festival",
-      "gary_2026_06_27_superplane_hackathon_bash_script_funeral"
+      "skint_88444_1_nyc_pride_march",
+      "skint_88444_3_third_annual_to_itas_fest"
     ],
     "cluster_2026_06_30_6_pm": [
       "gary_2026_06_30_coding_agents_gtm_lightning_talks",
-      "gary_2026_06_30_trust_the_agent_verify_the_code"
+      "gary_2026_06_30_trust_the_agent_verify_the_code",
+      "gary_2026_06_30_mongodb_founders_poker_night"
+    ],
+    "cluster_2026_07_08_6_pm": [
+      "gary_2026_07_08_leaders_in_design",
+      "gary_2026_07_08_master_vc_empanadas"
     ],
     "cluster_2026_07_09_5_30_pm": [
       "gary_2026_07_09_building_web_powered_ai_apps_w_o_code",
       "gary_2026_07_09_ai_meetup_genai_llms_agents"
+    ],
+    "cluster_2026_07_14_6_30_pm": [
+      "gary_2026_07_14_build_w_ai_meetup",
+      "jc_culture_38061_2026_07_14_jersey_city_summerfest_2026_the_outcrops"
     ],
     "cluster_2026_07_11_6_pm": [
       "jc_culture_40291_2026_07_11_the_world_on_central_2026",
