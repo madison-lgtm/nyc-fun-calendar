@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jun 29, 2026, 10:42 AM EDT",
+    "checked": "Jun 29, 2026, 5:09 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1657,23 +1657,6 @@
       "link": "https://jerseycityculture.org/event/carrington-village-5th-annual-carribean-festival/",
       "map": "https://maps.google.com/?q=Carrington%20Village%2C%20459%20Martin%20Luther%20King%20Dr.%2C%20Jersey%20City%2C%20NJ",
       "summary": "The Carrington Village Caribbean Festival returns on July 18, 2026. 5 years of culture, and VIBES!!! ​During this event we will enchant Jersey City with Caribbean flavors, highlighting West Indian culture, food, artists, and entertainment with various activities for the entire family. The event is FREE for all. Kids Zone, Music, Food, and Culture Performaces by: Boom Boom Room Rhythm Section Ekkquinox Steel Band CarNYval Dancer Mas by Urban Dance and Sugar Candy Mas Special Traditional performance by Le Troupe Zetwal (Haiti) Musical Performances by: Mesha Steele (from Jamaica), Fiyah B (from Barbados) and Erphaan Alves (From Trinidad and Tobago)"
-    },
-    "jc_culture_40815_2026_07_18_somewhere_social_picnic_2026": {
-      "title": "Somewhere Social Picnic 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-07-18",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sat, 07/18 · 2pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Lincoln Park, 1 County Rd 605, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/somewhere-social-picnic-2026/",
-      "map": "https://maps.google.com/?q=Lincoln%20Park%2C%201%20County%20Rd%20605%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor What's Coming Up?."
     },
     "jc_culture_39108_2026_07_19_around_the_world_watch_party_2026": {
       "title": "Around the World Watch Party 2026",
