@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 29, 2026, 5:09 PM EDT",
+    "checked": "Jun 30, 2026, 9:04 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-06-29",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Jun 29"
-      },
       {
         "iso": "2026-06-30",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Jul 5"
+      },
+      {
+        "iso": "2026-07-06",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Jul 6"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-06-29",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Jun 29"
-      },
       {
         "iso": "2026-06-30",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Jul 29"
+      },
+      {
+        "iso": "2026-07-30",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Jul 30"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "7 AM",
       "8 AM",
@@ -451,108 +451,6 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_88444_0_pridefest_street_festival": {
-      "title": "pridefest street festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-06-28",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 06/28 · 11am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "4th ave from astor pl to 14th st",
-      "source": "The Skint",
-      "link": "https://nycpride.org/event/pridefest/",
-      "map": "https://maps.google.com/?q=4th%20ave%20from%20astor%20pl%20to%2014th%20st%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-6pm: pridefest street festival: 4th ave from astor pl to 14th st."
-    },
-    "skint_88444_1_nyc_pride_march": {
-      "title": "nyc pride march",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-06-28",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 06/28 · 12-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "26th st + fifth ave to 15th st + seventh ave",
-      "source": "The Skint",
-      "link": "https://pix11.com/news/local-news/nycs-2026-pride-march-street-closures-and-more/",
-      "map": "https://maps.google.com/?q=26th%20st%20%2B%20fifth%20ave%20to%2015th%20st%20%2B%20seventh%20ave%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: nyc pride march: 26th st + fifth ave to 15th st + seventh ave."
-    },
-    "skint_88444_2_pride_for_the_people_post_parade_party": {
-      "title": "pride for the people: post parade party",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-06-28",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Sun, 06/28 · 3pm-midnight",
-      "price": "$20",
-      "free": false,
-      "place": "with jasmine goode, zack wickham, and peppermint: moxy chelsea",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/pride-for-the-people-post-parade-party-tickets-1990665005619",
-      "map": "https://maps.google.com/?q=with%20jasmine%20goode%2C%20zack%20wickham%2C%20and%20peppermint%3A%20moxy%20chelsea%20NYC",
-      "summary": "pride-themed events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 3pm-midnight: pride for the people: post parade party with jasmine goode, zack wickham, and peppermint: moxy chelsea. $20."
-    },
-    "skint_88444_3_third_annual_to_itas_fest": {
-      "title": "third annual toñitas fest",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-06-28",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 06/28 · 12-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "244 grand st, williamsburg",
-      "source": "The Skint",
-      "link": "https://www.lagesta.co",
-      "map": "https://maps.google.com/?q=244%20grand%20st%2C%20williamsburg%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: third annual toñitas fest: 244 grand st, williamsburg."
-    },
-    "skint_88444_4_the_brooklyn_garlic_takedown": {
-      "title": "the brooklyn garlic takedown",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-06-28",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 06/28 · 1pm",
-      "price": "$30",
-      "free": false,
-      "place": "royal palms shuffleboard club (williamsburg)",
-      "source": "The Skint",
-      "link": "https://thetakedowns.com",
-      "map": "https://maps.google.com/?q=royal%20palms%20shuffleboard%20club%20(williamsburg)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1pm: the brooklyn garlic takedown: royal palms shuffleboard club (williamsburg). $30."
-    },
-    "gary_2026_06_29_consumer_brews_fancy_food_edition": {
-      "title": "Consumer Brews - Fancy Food Edition",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-06-29",
-      "time": "8 AM",
-      "sort": 8,
-      "when": "Mon, 06/29 · 8:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 519 8th Ave",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/hv4oqo3/Consumer-Brews-Fancy-Food-Edition",
-      "map": "https://maps.google.com/?q=Venue%2C%20519%208th%20Ave",
-      "summary": "Gary's Guide: With Glimpse, VHS Ventures, Bridge, Phoenicia Diner, Veselka, Monte's Sauce."
-    },
     "gary_2026_06_30_shopify_ai_hackathon_ai_office_hours": {
       "title": "Shopify AI Hackathon & AI Office Hours",
       "type": "tech",
@@ -689,6 +587,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Morgan Blumberg (M13)."
     },
+    "gary_2026_07_02_startup_mixer": {
+      "title": "Startup Mixer",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-07-02",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Thu, 07/02 · 5:00pm",
+      "price": "Varies",
+      "free": false,
+      "place": "Sour Mouse, 110 Delancey St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/n96mdjb/Startup-Mixer",
+      "map": "https://maps.google.com/?q=Sour%20Mouse%2C%20110%20Delancey%20St",
+      "summary": "Gary's Guide: NYC Tech &Startup Mixer - brought to you by Startup+ We're putting founders, engineers, investors, recruiters, freelancers, & mentors in the same room for a night of straightup networking. No panels, no speeches-just real conversations. If you're testing an idea, raising cash, or hiring your first dev, this is the place to be. Newsletter (exclusive entry & event drops): https://newsletter.startupplus.club Sponsorship / press: email - contact@startupplus.club Volunteer (Complimentary Ticket): email - contact@startupplus.club Why swing by? - Meet 100+ builders & backers in one go - Swap stories, get quick feedback, share lessons learned - Spot future cofounders, investors, customers, maybe all three What's the setup? - We've got a dedicated space, & name tags at the door - Flash a business card or a LinkedIn QR-whatever works - Dress code? Businesscasual. Jeans totally fine. A quick word on Startup+ We kicked this off in 2021, in the middle of the pandemic, because Zoom mixers just weren't cutting it. Fastforward: 25k members, 75+ mixers, 12 pitch nights, & 6000 folks through the doors. We keep it simple-connect good people & let the magic happen. Headsup: capacity is capped. Only confirmed Luma RSVPs are admitted at the door. Walkins = no go. Fine print : By joining, you agree that photos/video taken may be used in future Startup+ promos. Also, you agree that the contact info collected will be used to send future event invites & promotions via newsletter/other event platforms. See you IRL!!!"
+    },
     "gary_2026_07_07_entrepreneurs_roundtable": {
       "title": "Entrepreneurs Roundtable",
       "type": "startup",
@@ -773,6 +688,23 @@
       "link": "https://www.garysguide.com/events/omh02e1/AI-Builders-Night",
       "map": "https://maps.google.com/?q=LOFT39%2C%2038%20W%2039th%20St",
       "summary": "Gary's Guide: Join us in New York at Loft 39 for an evening dedicated to the builders behind modern AI. From real-world use cases to the infrastructure powering large-scale systems, AI Night brings together engineers, data practitioners, & founders shaping how AI is built & deployed today. Brought to you by ClickHouse & Docker! Current Agenda: 5:00 PM: Arrivals, Check-In & Networking 5:50 PM: Welcome & Introductions + Food & Drink 5:55 - 6:20PM: Speaker 1 6:20 - 6:45 PM: Speaker 2 6:45 - 7:10 PM: Speaker 3 7:30 - 8:30 PM: Q&A, Networking 8:30 PM: Meetup Concludes"
+    },
+    "gary_2026_07_08_startup_founders_investors_talent_mixer": {
+      "title": "Startup Founders, Investors & Talent Mixer",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 07/08 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "St Pat's Bar & Grill, 22 W 46th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/4y2w9hh/Startup-Founders-Investors-Talent-Mixer",
+      "map": "https://maps.google.com/?q=St%20Pat's%20Bar%20%26%20Grill%2C%2022%20W%2046th%20St",
+      "summary": "Gary's Guide: Join founders, investors, operators, engineers, & startup professionals for an evening of curated networking & meaningful conversations within the New York startup ecosystem. Designed to create high-quality connections, this event brings together people building, funding, & scaling startups across AI, SaaS, FinTech, HealthTech, ClimateTech, & other innovation-driven industries. What to Expect Curated Networking Structured networking sessions designed to help attendees connect with relevant founders, investors, & professionals based on their background & interests. Founder & Investor Conversations Discuss fundraising, product development, hiring, go-to-market strategy, growth, & startup operations with experienced founders, operators, & investors. Startup Pitch Session A limited number of founders will be selected to present their startup to attendees & participating investors. Each presentation is followed by audience feedback, Q&A, & opportunities for follow-up conversations. Open Networking Continue conversations, explore partnerships, discover opportunities, & build relationships with members of the New York startup community. Who Should Attend Startup Founders Angel Investors & Venture Capital Professionals Engineers & Technical Builders Product Managers & Startup Operators Recruiters & Hiring Leaders Sales & Business Development Professionals Startup Job Seekers Members of the NYC Technology & Innovation Community For Investors Investor participation is complimentary upon approval. Approved investors may receive access to curated startup introductions & opportunities to connect with founders within the Ascent Valley ecosystem. About Ascent Valley Ascent Valley is a global ecosystem connecting founders, investors, operators, & innovators through events, community, & startup networking initiatives. Our mission is to help ambitious builders create meaningful relationships, exchange knowledge, & access opportunities that accelerate startup growth."
     },
     "gary_2026_07_08_leaders_in_design": {
       "title": "Leaders In Design",
@@ -875,6 +807,40 @@
       "link": "https://www.garysguide.com/events/pkeasrj/Demo-Build-Your-Own-System",
       "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
       "summary": "Gary's Guide: With Nabeel Barqawi (Product Conversational AI, Disney)."
+    },
+    "gary_2026_07_10_ai_briefing_by_startup_grind_c_suite_gap_in_ai_readi": {
+      "title": "AI Briefing By Startup Grind - C-Suite Gap In AI Readiness",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-07-10",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Fri, 07/10 · 10:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Civic Hall, 124 E 14th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/9k1obj7/AI-Briefing-By-Startup-Grind-C-Suite-Gap-In-AI-Readiness",
+      "map": "https://maps.google.com/?q=Civic%20Hall%2C%20124%20E%2014th%20St",
+      "summary": "Gary's Guide: The AI Briefing is a high-velocity roundtable for decision-makers brought to you by Startup Grind. We bypass the hype by dissecting one high-signal industry deck with a room of vetted founders, operators, & enterprise executives. No lectures-just a 60-minute deep-dive into the tactics & data defining your next quarter. The gap between organizations that have built accountability structures around their AI & those that haven't is now measurable. Revenue growth reaches 58% among fully integrated organizations. Among those still piloting, top-line growth is only 15%. This session uses Grant Thornton's data to examine what it actually means to own an AI investment: who makes decisions, who measures outcomes, & what it costs when leadership can't agree on whether the organization is ready. We'll focus on the C-suite misalignment finding: CIOs & COOs within the same organization hold fundamentally different views on AI readiness, & the data shows that gap is producing real organizational failure."
+    },
+    "gary_2026_07_10_nyc_creative_ai_forum": {
+      "title": "NYC Creative AI Forum",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-07-10",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Fri, 07/10 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "ZeroSpace, 337 Butler St, Brooklyn",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/h604p4z/NYC-Creative-AI-Forum",
+      "map": "https://maps.google.com/?q=ZeroSpace%2C%20337%20Butler%20St%2C%20Brooklyn",
+      "summary": "Gary's Guide: With Matt Miller (Comfy Org)."
     },
     "gary_2026_07_11_founder_led_growth_the_content_system_that_brings_cu": {
       "title": "Founder-Led Growth - The Content System That Brings Customers",
@@ -1012,6 +978,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Jimmy Pitaro (Chairman, ESPN), Adam Silver (NBA Commissioner), Michael Rubin (Founder/CEO, Fanatics), Lindsey Vonn (Olympic Gold Medalist & Entrepreneur)."
     },
+    "gary_2026_07_16_the_startup_pitch_demo_showcase": {
+      "title": "The Startup Pitch - Demo Showcase",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-07-16",
+      "time": "7 AM",
+      "sort": 7,
+      "when": "Thu, 07/16 · 7:00am",
+      "price": "$5",
+      "free": false,
+      "place": "The Yard: Herald Sq, 106 W 32nd St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/g2ngr7w/The-Startup-Pitch-Demo-Showcase",
+      "map": "https://maps.google.com/?q=The%20Yard%3A%20Herald%20Sq%2C%20106%20W%2032nd%20St",
+      "summary": "Gary's Guide: See the newest companies coming out of the NYC startup ecosystem. Provide peer feedback & network with ambitious founders at The Startup Pitch: Demo Showcase. This pitch & demo showcase gives you a first look at new technology from startups that are actively building & shipping product - sometimes even before VCs have seen them! The format is fast-paced & interactive. After each demo, the floor is open for questions, ideas, & honest feedback from the community. We welcome investors who want an unfiltered look at new technology & early-stage teams."
+    },
     "gary_2026_07_16_product_summit": {
       "title": "Product Summit",
       "type": "startup",
@@ -1097,6 +1080,23 @@
       "map": "https://maps.google.com/?q=Moscone%20Center%2C%20747%20Howard%20St",
       "summary": "Gary's Guide: Join AMD Advancing AI for hands-on workshops. Learn from AMD & open-source maintainers, then build & run real workloads yourself."
     },
+    "gary_2026_07_22_startup_founders_investors_talent_mixer": {
+      "title": "Startup Founders, Investors & Talent Mixer",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-22",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 07/22 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "St Pat's Bar & Grill, 22 W 46th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/8vrefsf/Startup-Founders-Investors-Talent-Mixer",
+      "map": "https://maps.google.com/?q=St%20Pat's%20Bar%20%26%20Grill%2C%2022%20W%2046th%20St",
+      "summary": "Gary's Guide: Join a curated startup networking event in New York bringing together founders, investors, operators, engineers, & startup professionals for an evening of meaningful conversations & valuable connections. Unlike traditional networking events, the focus is on real discussions, practical insights, & opportunities that extend beyond the event itself. The evening includes: Structured networking sessions covering fundraising, product development, hiring, go-to-market strategy, & startup growth. Startup pitches featuring selected founders presenting their companies to investors, operators, & experienced entrepreneurs. Open networking sessions designed to help attendees build relationships & continue conversations. Attendees include: Startup founders from pre-seed to Series A Angel investors & venture capital professionals Product managers, engineers, & startup operators Recruiters & hiring leaders Sales & business development professionals Entrepreneurs building in AI, SaaS, FinTech, & emerging technologies Selected startups will have the opportunity to pitch their companies & receive feedback from investors & experienced founders. Investor participation is complimentary upon approval. Hosted by Ascent Valley, a global community connecting founders, investors, & operators through events, networking, & startup initiatives. Whether you are building a company, seeking investment opportunities, hiring talent, or expanding your network, this event offers an opportunity to connect with New York's startup ecosystem."
+    },
     "gary_2026_07_23_climate_data_science": {
       "title": "Climate Data Science",
       "type": "tech",
@@ -1148,6 +1148,40 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Olivia, Alice, Naomi & Lauren (Forum Ventures)."
     },
+    "gary_2026_07_28_junto_founder_dinner": {
+      "title": "Junto Founder Dinner",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-07-28",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 07/28 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/hkicv28/Junto-Founder-Dinner",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Hi, Andrew Yeung here. We started the Junto Founder Dinner series two years ago to bring together the top founders + builders. Each month, we invite 24 vetted early-stage founders & CEOs for a 3-hour, multiple-course dinner experience. What to expect: A 3-course meal, courtesy of our partners Conversations with fellow high-performing startup leaders A dinner experience designed to facilitate new connections & conversations, with rotating 6-person table formats Meaningful connections with ambitious peers solving similar problems If you're wondering how our dinners usually go... read this Our only intent is to bring good, smart humans together. Details: Date: July 28, 2026 Time: 6:00pm - 8:30pm Venue: Private Dinner Club in NYC Past attendees of my events include the founders/C-suite of Venmo, Duolingo, Foursquare, Lyft, Goldman Sachs, Compass, Superhuman, Yext, OpenDoor, Chief, LearnVest, DocSend, Vercel, Loom, Morning Brew, The Hustle, Gas, Teachable, Replit, Twitter, Slack, Pinterest, Yahoo, MongoDB, Business Insider, Wonder, Hinge. Apply to join by filling out the RSVP form."
+    },
+    "gary_2026_07_31_tech_happy_hour_by_startup_grind": {
+      "title": "Tech Happy Hour By Startup Grind",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-07-31",
+      "time": "7 AM",
+      "sort": 7,
+      "when": "Fri, 07/31 · 7:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Time Out Market Union Sq, 124 E 14th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/s3t8r9v/Tech-Happy-Hour-By-Startup-Grind",
+      "map": "https://maps.google.com/?q=Time%20Out%20Market%20Union%20Sq%2C%20124%20E%2014th%20St",
+      "summary": "Gary's Guide: No pitches. No presentations. No agenda. This is our monthly tech mixer to connect with peers across the NYC tech & startup community - from founders & VCs to developers & designers. A happy hour for real conversations."
+    },
     "gary_2026_08_06_ai_engineers_poker_game_night": {
       "title": "AI Engineers - Poker & Game Night",
       "type": "tech",
@@ -1181,6 +1215,23 @@
       "link": "https://luma.com/ai-goodlife",
       "map": "https://maps.google.com/?q=526%20Hudson%20St%20NYC",
       "summary": "Luma NYC: Anew"
+    },
+    "luma_2026_06_30_after_hours_a_happy_hour_for_new_york_s_creatives_an": {
+      "title": "after hours: a happy hour for new york's creatives and founders",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-06-30",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Tue, 06/30 · 9:30pm",
+      "price": "$10",
+      "free": false,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/by7ktf2m",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Creative Coffee Club, Verci, Sam Cruz, Arianna Tan"
     },
     "luma_2026_06_30_gtm_eng_nyc_coding_agents_gtm_lightning_talks_leader": {
       "title": "GTM Eng NYC: Coding Agents + GTM Lightning Talks leaders from Deepline, OpenAI, Ramp, Notion, Modal & Attention",
@@ -1912,6 +1963,23 @@
       "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-wicked-for-good-3/",
       "map": "https://maps.google.com/?q=TRIANGLE%20PARK%2C%20247%20Old%20Bergen%20Rd%2C%20NJ",
       "summary": "Triangle Park featuring Wicked for Good"
+    },
+    "jc_culture_37958_2026_07_31_movies_in_the_park_2026_inside_out_2": {
+      "title": "Movies in the Park 2026 / Inside Out 2",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-07-31",
+      "time": "8:30 PM",
+      "sort": 20.5,
+      "when": "Fri, 07/31 · 8:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "HARSIMUS CEMETERY, 435 Newark Ave., JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-inside-out-2-2/",
+      "map": "https://maps.google.com/?q=HARSIMUS%20CEMETERY%2C%20435%20Newark%20Ave.%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Harsimus Cemetery featuring Inside Out 2"
     }
   },
   "clusters": {
@@ -1924,16 +1992,13 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_06_28_12_pm": [
-      "skint_88444_1_nyc_pride_march",
-      "skint_88444_3_third_annual_to_itas_fest"
-    ],
     "cluster_2026_06_30_6_pm": [
       "gary_2026_06_30_coding_agents_gtm_lightning_talks",
       "gary_2026_06_30_trust_the_agent_verify_the_code",
       "gary_2026_06_30_mongodb_founders_poker_night"
     ],
     "cluster_2026_07_08_6_pm": [
+      "gary_2026_07_08_startup_founders_investors_talent_mixer",
       "gary_2026_07_08_leaders_in_design",
       "gary_2026_07_08_master_vc_empanadas"
     ],
@@ -1941,9 +2006,17 @@
       "gary_2026_07_09_building_web_powered_ai_apps_w_o_code",
       "gary_2026_07_09_ai_meetup_genai_llms_agents"
     ],
+    "cluster_2026_07_10_6_pm": [
+      "gary_2026_07_10_nyc_creative_ai_forum",
+      "jc_culture_39112_2026_07_10_the_world_on_central_2026"
+    ],
     "cluster_2026_07_14_6_30_pm": [
       "gary_2026_07_14_build_w_ai_meetup",
       "jc_culture_38061_2026_07_14_jersey_city_summerfest_2026_the_outcrops"
+    ],
+    "cluster_2026_07_16_7_am": [
+      "gary_2026_07_16_cnbc_sport_x_boardroom_game_plan",
+      "gary_2026_07_16_the_startup_pitch_demo_showcase"
     ],
     "cluster_2026_07_11_6_pm": [
       "jc_culture_40291_2026_07_11_the_world_on_central_2026",
