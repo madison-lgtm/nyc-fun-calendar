@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jun 30, 2026, 9:04 AM EDT",
+    "checked": "Jun 30, 2026, 5:16 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -240,6 +240,7 @@
       "7 AM",
       "8 AM",
       "8:30 AM",
+      "9 AM",
       "10 AM",
       "11 AM",
       "11:30 AM",
@@ -1063,6 +1064,40 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Night of Smash Bros, Mario Kart, board games & good conversation."
     },
+    "gary_2026_07_21_my_worst_day_as_a_cfo_lessons_that_changed_how_i_lea": {
+      "title": "My Worst Day As A CFO - Lessons That Changed How I Lead",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-07-21",
+      "time": "7 AM",
+      "sort": 7,
+      "when": "Tue, 07/21 · 7:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Midtown Manhattan, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/eqkz4kf/My-Worst-Day-As-A-CFO-Lessons-That-Changed-How-I-Lead",
+      "map": "https://maps.google.com/?q=Midtown%20Manhattan%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Sruthi Lanka (CFO, Public.com), Dan Rochkind (CFO, Lerer Hippeau), Alexis DeSieno (ex-CFO, Cardlytics), George Wells (Founder, Wells Group)."
+    },
+    "gary_2026_07_22_table_solns_for_founders": {
+      "title": "Table - Solns For Founders",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-22",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Wed, 07/22 · 9:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, Midtown Manhattan",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/7ogmf2p/Table-Solns-For-Founders",
+      "map": "https://maps.google.com/?q=Venue%2C%20Midtown%20Manhattan",
+      "summary": "Gary's Guide: Turn your current startup challenge into real progress. Table is a community of 1,400+ founders, operators, advisors, & investors. In each session, participants surface real challenges, vote on what matters most, & engage in focused, fast-paced discussions to unlock practical solutions. In a single morning, you'll gain actionable insights, learn new perspectives, & meet peers also looking to move forward."
+    },
     "gary_2026_07_22_build_ai_systems_that_scale_at_amd_advancing_ai_2026": {
       "title": "Build AI Systems That Scale At AMD Advancing AI 2026",
       "type": "tech",
@@ -1182,23 +1217,6 @@
       "map": "https://maps.google.com/?q=Time%20Out%20Market%20Union%20Sq%2C%20124%20E%2014th%20St",
       "summary": "Gary's Guide: No pitches. No presentations. No agenda. This is our monthly tech mixer to connect with peers across the NYC tech & startup community - from founders & VCs to developers & designers. A happy hour for real conversations."
     },
-    "gary_2026_08_06_ai_engineers_poker_game_night": {
-      "title": "AI Engineers - Poker & Game Night",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-08-06",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Thu, 08/06 · 7:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/kjnyxfl/AI-Engineers-Poker-Game-Night",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies.nWell have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart.nComplimentary drinks & pizza are on us.nHigh signal, low pressure. Come play poker, jump into games, & spend the night with some of NYCs top engineers, founders, & operators.nLimited seats.nRegistration: require linkedin, company, job title, & include the following multiple choice (single select)nHow would you like to participate?nPoker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in.n*Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi, click Get Hired, & apply.nOptions:nPoker ($100 buy-in, seat not guaranteed)nHang Out & Other GamesnHiring?nWant intros to startups?"
-    },
     "luma_2026_06_30_what_makes_a_good_life_a_guided_public_discussion_on": {
       "title": "What Makes a Good Life? A Guided Public Discussion on AI",
       "type": "tech",
@@ -1261,10 +1279,10 @@
       "when": "Wed, 07/01 · 9:30pm",
       "price": "Free",
       "free": true,
-      "place": "1400 Broadway",
+      "place": "113 W 38th St",
       "source": "Luma NYC",
       "link": "https://luma.com/bwd39lhw",
-      "map": "https://maps.google.com/?q=1400%20Broadway%20NYC",
+      "map": "https://maps.google.com/?q=113%20W%2038th%20St%20NYC",
       "summary": "Luma NYC: Postman Developer Events, Pooja Mistry"
     },
     "luma_2026_07_01_party_with_abaka_ai_nyc_launch_night_in_manhattan": {
@@ -1283,23 +1301,6 @@
       "link": "https://luma.com/abakaai-yx1l",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Abaka AI, Abaka AI, Yunfei Zhao, Yang Zhou, Ricky Liu"
-    },
-    "luma_2026_07_08_ai_builders_night_new_york": {
-      "title": "AI Builders Night New York",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-08",
-      "time": "9:30 PM",
-      "sort": 21.5,
-      "when": "Wed, 07/08 · 9:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "LOFT39",
-      "source": "Luma NYC",
-      "link": "https://luma.com/clickh-lz8k",
-      "map": "https://maps.google.com/?q=LOFT39%20NYC",
-      "summary": "Luma NYC: ClickHouse Events, Zoe Steinkamp"
     },
     "jc_culture_37893_2026_06_30_movies_in_the_park_2026_inside_out_2": {
       "title": "Movies in the Park 2026 / Inside Out 2",
@@ -1384,7 +1385,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/july-4th-fireworks/",
       "map": "https://maps.google.com/?q=Exchange%20Place%2C%20MONTGOMERY%20ST%20BETWEEN%20HUDSON%20ST.%20AND%20GREEN%20ST.",
-      "summary": "The full day of family-friendly festivities will once again draw tens of thousands of attendees, with over 60 vendors, 3 DJ stages, 2 beer gardens and a Kids’ Zone with activations and bounce castles. The Independence Day celebrations are capped off with breathtaking fireworks over the Hudson River with a picturesque backdrop of the NYC skyline. The celebration kicks off at 12:00 p.m. at Exchange Place. The night will conclude with a spectacular fireworks show, beginning at 9:30 p.m., lighting up the Hudson River synchronized to a patriotic soundtrack and visible across the waterfront. Event Policies & Info July 4th vendors, curated by Jersey City Night Market King of crepesCold Stone Creamery of BedminsterCousins Maine LobsterUrban SkewersAngry Archie’sSuperstar ice creamMagic Mike’s Smoked MeatsTasty TropicalDripzy CoffeeSAM’S ICE CREAMBao Zang SnacksLatin flavorGolden Fire CorpClubdog NYCTwisted Potato, Inc.NY Aguas FrescasGirly pop dirty sodaCat-Like ReflexesMOZZAREPASOrchardLa BrazaTaotie incSpoonable SpiritsJersey & Co. GelatoXuSanDuo Food TruckNinja KitchenHappy L FoodEmpanadas by lady gThe Noodle WalaBlackstone Halal FoodsCafe AmorreChava’s EmpanadasThe Pincho TruckKrazy Fresh JuiceStrawbelles ChocolateEl Lechon de NegronJishun LuoBarrelHouse NY LLCTJ Big PanMforward Inc.Fat cat group LLCMr.OkonomiyakiHoshinoYUBU LAB LLCkungfu dessert incBLAZIN RAYSMa & Pa’s Tex Mex BBQninja expressEmpabake EmpanadasMr. K New Jersey incChef SweetLadyRCozyLoady PotatoJoyfilledcrepesLily Lough JewelryBeduclothing&jewelryKathâ ThreaderyJenn The CreativePreciosa Permanent JewelryThe Diva LinksHenna SquadRetro NY MetroPrinting Plus 3DCandie ReignIndieVynlMs Q HandcraftArtbySydney22Jersey Girl Printing CompanyAction NoveltyPlant Dad by MoobienceDella’s LLCAlora.usaM&M LINKS JEWELRYAsanti’s JewelsLITPIX360 PHOTO BOOTH WonderFunster Entertainment"
+      "summary": "The full day of family-friendly festivities will once again draw tens of thousands of attendees, with over 60 vendors, 3 DJ stages, 2 beer gardens and a Kids’ Zone with activations and bounce castles. The Independence Day celebrations are capped off with breathtaking fireworks over the Hudson River with a picturesque backdrop of the NYC skyline. The celebration kicks off at 12:00 p.m. at Exchange Place. The night will conclude with a spectacular fireworks show, beginning at 9:30 p.m., lighting up the Hudson River synchronized to a patriotic soundtrack and visible across the waterfront. Event Policies & Info July 4th vendors, curated by Jersey City Night Market King of crepesCold Stone Creamery of BedminsterCousins Maine LobsterUrban SkewersAngry Archie’sSuperstar ice creamMagic Mike’s Smoked MeatsTasty TropicalDripzy CoffeeSAM’S ICE CREAMBao Zang SnacksLatin flavorGolden Fire CorpClubdog NYCTwisted Potato, Inc.NY Aguas FrescasGirly pop dirty sodaCat-Like ReflexesMOZZAREPASOrchardLa BrazaTaotie incSpoonable SpiritsJersey & Co. GelatoXuSanDuo Food TruckNinja KitchenHappy L FoodEmpanadas by lady gThe Noodle WalaBlackstone Halal FoodsCafe AmorreChava’s EmpanadasThe Pincho TruckKrazy Fresh JuiceStrawbelles ChocolateEl Lechon de NegronJishun LuoBarrelHouse NY LLCTJ Big PanMforward Inc.Fat cat group LLCMr.OkonomiyakiHoshinoYUBU LAB LLCkungfu dessert incBLAZIN RAYSMa & Pa’s Tex Mex BBQninja expressEmpabake EmpanadasMr. K New Jersey incChef SweetLadyRCozyLoady PotatoJoyfilledcrepesLily Lough JewelryBeduclothing&jewelryKathâ ThreaderyJenn The CreativePreciosa Permanent JewelryThe Diva LinksHenna SquadRetro NY MetroPrinting Plus 3DCandie ReignIndieVynlMs Q HandcraftArtbySydney22Jersey Girl Printing CompanyAction NoveltyPlant Dad by MoobienceDella’s LLCAlora.usaM&M LINKS JEWELRYAsanti’s JewelsLITPIX360 PHOTO BOOTH WonderFunster EntertainmentHumos BBQ NY LLCEemas CuisineCrazy Corns"
     },
     "jc_culture_39954_2026_07_04_america_250_jersey_city_style_2026_berry_lane_park": {
       "title": "America 250 Jersey City Style 2026 / Berry Lane Park",
@@ -1511,16 +1512,16 @@
       "label": "Parks / Outdoor",
       "day": "Fri",
       "date": "2026-07-10",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 07/10 · 6pm",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Fri, 07/10 · 12pm",
       "price": "Free",
       "free": true,
       "place": "Central Avenue, 370-437 Central Ave,Jersey, Jersey City",
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/the-world-on-central-2026-friday/",
       "map": "https://maps.google.com/?q=Central%20Avenue%2C%20370-437%20Central%20Ave%2CJersey%2C%20Jersey%20City",
-      "summary": "Grab a bite, explore the avenue, cheer on your team, and support the businesses that make Central Avenue one of Jersey City’s most vibrant destinations. “The World on Central” will activate one of Jersey City’s most diverse commercial corridors. In partnership with the Central Avenue Special Improvement District (CASID), this event is designed to drive foot traffic, promote local businesses, and position the Jersey City Heights as a regional destination for cultural celebration and economic activity. Friday, July 10: The World on Central Corridor Crawl12:00 PM – 9:00 PM Start the weekend on Central Avenue with a World Cup-inspired crawl through the district! Participating businesses will show the 3:00 PM quarterfinal match, with themed specials, festive sidewalk moments, and family-friendly activities keeping the corridor buzzing. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to The World on Central could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
+      "summary": "Grab a bite, explore the avenue, cheer on your team, and support the businesses that make Central Avenue one of Jersey City’s most vibrant destinations. “The World on Central” will activate one of Jersey City’s most diverse commercial corridors. In partnership with the Central Avenue Special Improvement District (CASID), this event is designed to drive foot traffic, promote local businesses, and position the Jersey City Heights as a regional destination for cultural celebration and economic activity. Friday, July 10: The World on Central Corridor Crawl 12:00 PM – 9:00 PM Start the weekend on Central Avenue with a World Cup-inspired crawl through the district! Participating businesses will show the 3:00 PM quarterfinal match, with themed specials, festive sidewalk moments, and family-friendly activities keeping the corridor buzzing. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to The World on Central could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
     },
     "jc_culture_40291_2026_07_11_the_world_on_central_2026": {
       "title": "The World on Central 2026",
@@ -1528,16 +1529,16 @@
       "label": "Parks / Outdoor",
       "day": "Sat",
       "date": "2026-07-11",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sat, 07/11 · 6pm",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Sat, 07/11 · 3pm",
       "price": "Free",
       "free": true,
       "place": "Central Avenue, 370-437 Central Ave,Jersey, Jersey City",
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/the-world-on-central-2026-saturday/",
       "map": "https://maps.google.com/?q=Central%20Avenue%2C%20370-437%20Central%20Ave%2CJersey%2C%20Jersey%20City",
-      "summary": "It’s soccer, culture, food, music, and Jersey City energy all in one unforgettable celebration. “The World on Central” will activate one of Jersey City’s most diverse commercial corridors. In partnership with the Central Avenue Special Improvement District (CASID), this event is designed to drive foot traffic, promote local businesses, and position the Jersey City Heights as a regional destination for cultural celebration and economic activity. Saturday, July 11: The World on Central Watch Party & Celebration3:00 PM – Midnight Saturday’s event takes over Central Avenue with a full-scale World Cup watch party and cultural celebration. Watch the quarterfinal double-header on a giant LED wall, then experience a lineup of music, DJs, cultural performances, live art, mural painting, food, and family fun. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to The World on Central could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
+      "summary": "It’s soccer, culture, food, music, and Jersey City energy all in one unforgettable celebration. “The World on Central” will activate one of Jersey City’s most diverse commercial corridors. In partnership with the Central Avenue Special Improvement District (CASID), this event is designed to drive foot traffic, promote local businesses, and position the Jersey City Heights as a regional destination for cultural celebration and economic activity. Saturday, July 11: The World on Central Watch Party & Celebration 3:00 PM – Midnight Saturday’s event takes over Central Avenue with a full-scale World Cup watch party and cultural celebration. Watch the quarterfinal double-header on a giant LED wall, then experience a lineup of music, DJs, cultural performances, live art, mural painting, food, and family fun. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to The World on Central could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
     },
     "jc_culture_40501_2026_07_11_earlybirds_club_jersey_city": {
       "title": "Earlybirds Club – Jersey City",
@@ -1709,6 +1710,23 @@
       "map": "https://maps.google.com/?q=Carrington%20Village%2C%20459%20Martin%20Luther%20King%20Dr.%2C%20Jersey%20City%2C%20NJ",
       "summary": "The Carrington Village Caribbean Festival returns on July 18, 2026. 5 years of culture, and VIBES!!! ​During this event we will enchant Jersey City with Caribbean flavors, highlighting West Indian culture, food, artists, and entertainment with various activities for the entire family. The event is FREE for all. Kids Zone, Music, Food, and Culture Performaces by: Boom Boom Room Rhythm Section Ekkquinox Steel Band CarNYval Dancer Mas by Urban Dance and Sugar Candy Mas Special Traditional performance by Le Troupe Zetwal (Haiti) Musical Performances by: Mesha Steele (from Jamaica), Fiyah B (from Barbados) and Erphaan Alves (From Trinidad and Tobago)"
     },
+    "jc_culture_40815_2026_07_18_somewhere_social_picnic_2026": {
+      "title": "Somewhere Social Picnic 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-07-18",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sat, 07/18 · 2pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Lincoln Park, 1 County Rd 605, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/somewhere-social-picnic-2026/",
+      "map": "https://maps.google.com/?q=Lincoln%20Park%2C%201%20County%20Rd%20605%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor What's Coming Up?."
+    },
     "jc_culture_39108_2026_07_19_around_the_world_watch_party_2026": {
       "title": "Around the World Watch Party 2026",
       "type": "park",
@@ -1742,6 +1760,23 @@
       "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-orchestre-moto/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "&nbsp; JC Summerfest featuring Orchestre Moto (Congolese Dance Music) North Cove Field Liberty State Park 6pm-8pm"
+    },
+    "jc_culture_41057_2026_07_20_columbia_flag_raising_2026": {
+      "title": "Columbia Flag Raising 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Mon",
+      "date": "2026-07-20",
+      "time": "3:30 PM",
+      "sort": 15.5,
+      "when": "Mon, 07/20 · 3:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "CITY HALL CHAMBERS, 280 GROVE ST, JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/columbia-flag-raising-2026/",
+      "map": "https://maps.google.com/?q=CITY%20HALL%20CHAMBERS%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
     },
     "jc_culture_40593_2026_07_21_caricom_flag_raising_ceremony_2026": {
       "title": "Caricom Flag Raising Ceremony 2026",
@@ -2006,10 +2041,6 @@
       "gary_2026_07_09_building_web_powered_ai_apps_w_o_code",
       "gary_2026_07_09_ai_meetup_genai_llms_agents"
     ],
-    "cluster_2026_07_10_6_pm": [
-      "gary_2026_07_10_nyc_creative_ai_forum",
-      "jc_culture_39112_2026_07_10_the_world_on_central_2026"
-    ],
     "cluster_2026_07_14_6_30_pm": [
       "gary_2026_07_14_build_w_ai_meetup",
       "jc_culture_38061_2026_07_14_jersey_city_summerfest_2026_the_outcrops"
@@ -2017,10 +2048,6 @@
     "cluster_2026_07_16_7_am": [
       "gary_2026_07_16_cnbc_sport_x_boardroom_game_plan",
       "gary_2026_07_16_the_startup_pitch_demo_showcase"
-    ],
-    "cluster_2026_07_11_6_pm": [
-      "jc_culture_40291_2026_07_11_the_world_on_central_2026",
-      "jc_culture_40501_2026_07_11_earlybirds_club_jersey_city"
     ]
   }
 }
