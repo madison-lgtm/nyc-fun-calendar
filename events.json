@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 1, 2026, 9:31 AM EDT",
+    "checked": "Jul 1, 2026, 5:09 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -450,91 +450,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "gary_2026_06_30_shopify_ai_hackathon_ai_office_hours": {
-      "title": "Shopify AI Hackathon & AI Office Hours",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-06-30",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Tue, 06/30 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Shopify HQ, 131 Greene St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/cksx9tf/Shopify-AI-Hackathon-AI-Office-Hours",
-      "map": "https://maps.google.com/?q=Shopify%20HQ%2C%20131%20Greene%20St",
-      "summary": "Gary's Guide: With Kevin Weatherman (Founder, Upscale AI), Ripple AI, Siena AI."
-    },
-    "gary_2026_06_30_tech_business_summit_se_asia_edition": {
-      "title": "Tech & Business Summit SE Asia Edition",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-06-30",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Tue, 06/30 · 12:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue,, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/9bfpgdo/Tech-Business-Summit-SE-Asia-Edition",
-      "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Sabrina Gan (MD, Goldman Sachs), Apoorva Goyal (Insight Partners), Amritpal Singh (Co-Founder, Multiplier), Kai Lim (Founder, Reprise Health), Elaine Truong (AI Lead, Meta), Angela Bauza (UNITAR), Safira Vijaya (PwC), Paul Soon (McCann)."
-    },
-    "gary_2026_06_30_coding_agents_gtm_lightning_talks": {
-      "title": "Coding Agents + GTM Lightning Talks",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-06-30",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 06/30 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/t6itkn9/Coding-Agents-GTM-Lightning-Talks",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Bryant McCombs (GTM Account Dir., OpenAI), Chris Prinz (GTM Enggr, Modal), Julia Gonzalez (Head of GTM Innovation, Notion)."
-    },
-    "gary_2026_06_30_trust_the_agent_verify_the_code": {
-      "title": "Trust The Agent, Verify The Code",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-06-30",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 06/30 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Nomadworks, 240 W 40th St, 2nd Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/hrrkbix/Trust-The-Agent-Verify-The-Code",
-      "map": "https://maps.google.com/?q=Nomadworks%2C%20240%20W%2040th%20St%2C%202nd%20Fl",
-      "summary": "Gary's Guide: With Eduardo Gonzalez (AI/ML Architect Applied Field Engg, Snowflake)."
-    },
-    "gary_2026_06_30_mongodb_founders_poker_night": {
-      "title": "MongoDB Founders Poker Night",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-06-30",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 06/30 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 113 Spring St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/5fuvzm7/MongoDB-Founders-Poker-Night",
-      "map": "https://maps.google.com/?q=Venue%2C%20113%20Spring%20St",
-      "summary": "Gary's Guide: The best conversations in tech do not happen on a stage. They happen at a table, between hands, after the second buy-in. Founders Poker Night is an invite-only evening for venture-backed founders & a handful of investors. Real felt tables, professional dealers, no pitch decks. You bring your read on people. We bring the chips. Hosted with MongoDB & Justworks, at Meow HQ in SoHo - the room where the last few Leverage poker nights ran late. Tuesday, June 30. SoHo, NYC. Doors at 6:00 PM. Seats are limited & every RSVP is reviewed. Request yours below. See you at the table. RULES: BLINDS: $1/$2 (or as agreed by table). MAX BUY-IN: $200; $50 min; Venmo (@mattschkolnick3) full amount to table bank prior to play, caption: DINNER. REBUYS/ADD-ONS: Can stand up anytime, rebuys are optional. RULES: standard casino-style Texas Hold'em; organizer has final say on disputes. STRADDLES: unlimited, starting UTG."
     },
     "gary_2026_07_01_future_of_paid_marketing_search_ai_funnels_in_2027": {
       "title": "Future Of Paid Marketing - Search, AI & Funnels In 2027",
@@ -1216,6 +1131,23 @@
       "map": "https://maps.google.com/?q=Time%20Out%20Market%20Union%20Sq%2C%20124%20E%2014th%20St",
       "summary": "Gary's Guide: No pitches. No presentations. No agenda. This is our monthly tech mixer to connect with peers across the NYC tech & startup community - from founders & VCs to developers & designers. A happy hour for real conversations."
     },
+    "gary_2026_08_06_ai_engineers_poker_game_night": {
+      "title": "AI Engineers - Poker & Game Night",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-08-06",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Thu, 08/06 · 7:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/kjnyxfl/AI-Engineers-Poker-Game-Night",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies.nWell have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart.nComplimentary drinks & pizza are on us.nHigh signal, low pressure. Come play poker, jump into games, & spend the night with some of NYCs top engineers, founders, & operators.nLimited seats.nRegistration: require linkedin, company, job title, & include the following multiple choice (single select)nHow would you like to participate?nPoker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in.n*Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi, click Get Hired, & apply.nOptions:nPoker ($100 buy-in, seat not guaranteed)nHang Out & Other GamesnHiring?nWant intros to startups?"
+    },
     "luma_2026_07_01_agents_apis_nyc_developer_meetup": {
       "title": "Agents & APIs NYC Developer Meetup",
       "type": "tech",
@@ -1231,7 +1163,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/bwd39lhw",
       "map": "https://maps.google.com/?q=113%20W%2038th%20St%20NYC",
-      "summary": "Luma NYC: Postman Developer Events, Pooja Mistry"
+      "summary": "Luma NYC: Postman Developer Events, Pooja Mistry, Yuktaa, Hammad Iqbal"
     },
     "luma_2026_07_01_party_with_abaka_ai_nyc_launch_night_in_manhattan": {
       "title": "Party with Abaka AI: NYC Launch Night in Manhattan",
@@ -1248,7 +1180,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/abakaai-yx1l",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Abaka AI, Abaka AI, Yunfei Zhao, Yang Zhou, Ricky Liu"
+      "summary": "Luma NYC: Abaka AI, Abaka AI, Yunfei Zhao, Yang Zhou, Ricky Liu, Alexandra Bezea-Tudor, Ruby Zhang, Martina Beg"
     },
     "luma_2026_07_08_ai_builders_night_new_york": {
       "title": "AI Builders Night New York",
@@ -1266,23 +1198,6 @@
       "link": "https://luma.com/clickh-lz8k",
       "map": "https://maps.google.com/?q=LOFT39%20NYC",
       "summary": "Luma NYC: ClickHouse Events, Zoe Steinkamp"
-    },
-    "luma_2026_07_09_building_web_powered_ai_apps_without_code_base44_tav": {
-      "title": "Building Web-Powered AI Apps Without Code: Base44 & Tavily",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-07-09",
-      "time": "9:30 PM",
-      "sort": 21.5,
-      "when": "Thu, 07/09 · 9:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "1350 Broadway",
-      "source": "Luma NYC",
-      "link": "https://luma.com/tavily-4mzn",
-      "map": "https://maps.google.com/?q=1350%20Broadway%20NYC",
-      "summary": "Luma NYC: Tavily Events Calendar, Tavily Events, Ore Segal, Sahar Mor (Bond AI)"
     },
     "jc_culture_10003557_2026_07_01_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -1350,7 +1265,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/july-4th-fireworks/",
       "map": "https://maps.google.com/?q=Exchange%20Place%2C%20MONTGOMERY%20ST%20BETWEEN%20HUDSON%20ST.%20AND%20GREEN%20ST.",
-      "summary": "The full day of family-friendly festivities will once again draw tens of thousands of attendees, with over 60 vendors, 3 DJ stages, 2 beer gardens and a Kids’ Zone with activations and bounce castles. The Independence Day celebrations are capped off with breathtaking fireworks over the Hudson River with a picturesque backdrop of the NYC skyline. The celebration kicks off at 12:00 p.m. at Exchange Place. The night will conclude with a spectacular fireworks show, beginning at 9:30 p.m., lighting up the Hudson River synchronized to a patriotic soundtrack and visible across the waterfront. Event Policies & Info July 4th vendors, curated by Jersey City Night Market King of crepesCold Stone Creamery of BedminsterCousins Maine LobsterUrban SkewersAngry Archie’sSuperstar ice creamMagic Mike’s Smoked MeatsTasty TropicalDripzy CoffeeSAM’S ICE CREAMBao Zang SnacksLatin flavorGolden Fire CorpClubdog NYCTwisted Potato, Inc.NY Aguas FrescasGirly pop dirty sodaCat-Like ReflexesMOZZAREPASOrchardLa BrazaTaotie incSpoonable SpiritsJersey & Co. GelatoXuSanDuo Food TruckNinja KitchenHappy L FoodEmpanadas by lady gThe Noodle WalaBlackstone Halal FoodsCafe AmorreChava’s EmpanadasThe Pincho TruckKrazy Fresh JuiceStrawbelles ChocolateEl Lechon de NegronJishun LuoBarrelHouse NY LLCTJ Big PanMforward Inc.Fat cat group LLCMr.OkonomiyakiHoshinoYUBU LAB LLCkungfu dessert incBLAZIN RAYSMa & Pa’s Tex Mex BBQninja expressEmpabake EmpanadasMr. K New Jersey incChef SweetLadyRCozyLoady PotatoJoyfilledcrepesLily Lough JewelryBeduclothing&jewelryKathâ ThreaderyJenn The CreativePreciosa Permanent JewelryThe Diva LinksHenna SquadRetro NY MetroPrinting Plus 3DCandie ReignIndieVynlMs Q HandcraftArtbySydney22Jersey Girl Printing CompanyAction NoveltyPlant Dad by MoobienceDella’s LLCAlora.usaM&M LINKS JEWELRYAsanti’s JewelsLITPIX360 PHOTO BOOTH WonderFunster EntertainmentHumos BBQ NY LLCEemas CuisineCrazy Corns"
+      "summary": "The full day of family-friendly festivities will once again draw tens of thousands of attendees, with over 60 vendors, 3 DJ stages, 2 beer gardens and a Kids’ Zone with activations and bounce castles. The Independence Day celebrations are capped off with breathtaking fireworks over the Hudson River with a picturesque backdrop of the NYC skyline. The celebration kicks off at 12:00 p.m. at Exchange Place. The night will conclude with a spectacular fireworks show, beginning at 9:30 p.m., lighting up the Hudson River synchronized to a patriotic soundtrack and visible across the waterfront. Event Policies & Info July 4th vendors, curated by Jersey City Night Market King of crepesCold Stone Creamery of BedminsterCousins Maine LobsterUrban SkewersAngry Archie’sSuperstar ice creamMagic Mike’s Smoked MeatsTasty TropicalDripzy CoffeeSAM’S ICE CREAMBao Zang SnacksLatin flavorGolden Fire CorpClubdog NYCTwisted Potato, Inc.NY Aguas FrescasGirly pop dirty sodaCat-Like ReflexesMOZZAREPASOrchardLa BrazaTaotie incSpoonable SpiritsJersey & Co. GelatoXuSanDuo Food TruckNinja KitchenHappy L FoodEmpanadas by lady gThe Noodle WalaBlackstone Halal FoodsCafe AmorreChava’s EmpanadasThe Pincho TruckKrazy Fresh JuiceStrawbelles ChocolateEl Lechon de NegronJishun LuoBarrelHouse NY LLCTJ Big PanMforward Inc.Fat cat group LLCMr.OkonomiyakiHoshinoYUBU LAB LLCkungfu dessert incBLAZIN RAYSMa & Pa’s Tex Mex BBQninja expressEmpabake EmpanadasMr. K New Jersey incChef SweetLadyRCozyLoady PotatoJoyfilledcrepesLily Lough JewelryBeduclothing&jewelryKathâ ThreaderyJenn The CreativePreciosa Permanent JewelryThe Diva LinksHenna SquadRetro NY MetroPrinting Plus 3DCandie ReignIndieVynlMs Q HandcraftArtbySydney22Jersey Girl Printing CompanyAction NoveltyPlant Dad by MoobienceDella’s LLCAlora.usaM&M LINKS JEWELRYAsanti’s JewelsLITPIX360 PHOTO BOOTH WonderFunster EntertainmentHumos BBQ NY LLCEemas CuisineCrazy Corns Download Map"
     },
     "jc_culture_39954_2026_07_04_america_250_jersey_city_style_2026_berry_lane_park": {
       "title": "America 250 Jersey City Style 2026 / Berry Lane Park",
@@ -1471,8 +1386,8 @@
       "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%20PARK%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
       "summary": "City Hall Plaza featuring Tron Ares at sunset"
     },
-    "jc_culture_39112_2026_07_10_the_world_on_central_2026": {
-      "title": "The World on Central 2026",
+    "jc_culture_39112_2026_07_10_the_world_on_central_corridor_crawl": {
+      "title": "The World on Central Corridor Crawl",
       "type": "park",
       "label": "Parks / Outdoor",
       "day": "Fri",
@@ -1488,8 +1403,8 @@
       "map": "https://maps.google.com/?q=Central%20Avenue%2C%20370-437%20Central%20Ave%2CJersey%2C%20Jersey%20City",
       "summary": "Grab a bite, explore the avenue, cheer on your team, and support the businesses that make Central Avenue one of Jersey City’s most vibrant destinations. “The World on Central” will activate one of Jersey City’s most diverse commercial corridors. In partnership with the Central Avenue Special Improvement District (CASID), this event is designed to drive foot traffic, promote local businesses, and position the Jersey City Heights as a regional destination for cultural celebration and economic activity. Friday, July 10: The World on Central Corridor Crawl 12:00 PM – 9:00 PM Start the weekend on Central Avenue with a World Cup-inspired crawl through the district! Participating businesses will show the 3:00 PM quarterfinal match, with themed specials, festive sidewalk moments, and family-friendly activities keeping the corridor buzzing. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to The World on Central could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
     },
-    "jc_culture_40291_2026_07_11_the_world_on_central_2026": {
-      "title": "The World on Central 2026",
+    "jc_culture_40291_2026_07_11_the_world_on_central_watch_party_celebration": {
+      "title": "The World on Central Watch Party & Celebration",
       "type": "park",
       "label": "Parks / Outdoor",
       "day": "Sat",
@@ -1991,11 +1906,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_06_30_6_pm": [
-      "gary_2026_06_30_coding_agents_gtm_lightning_talks",
-      "gary_2026_06_30_trust_the_agent_verify_the_code",
-      "gary_2026_06_30_mongodb_founders_poker_night"
     ],
     "cluster_2026_07_08_6_pm": [
       "gary_2026_07_08_startup_founders_investors_talent_mixer",
