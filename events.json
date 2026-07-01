@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jun 30, 2026, 5:16 PM EDT",
+    "checked": "Jul 1, 2026, 9:31 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-06-30",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Jun 30"
-      },
       {
         "iso": "2026-07-01",
         "key": "Wed",
@@ -45,15 +39,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Jul 6"
+      },
+      {
+        "iso": "2026-07-07",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Jul 7"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-06-30",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Jun 30"
-      },
       {
         "iso": "2026-07-01",
         "key": "Wed",
@@ -233,9 +227,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Jul 30"
+      },
+      {
+        "iso": "2026-07-31",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Jul 31"
       }
     ],
-    "todayKey": "Tue",
+    "todayKey": "Wed",
     "times": [
       "7 AM",
       "8 AM",
@@ -259,7 +259,6 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
-      "9 PM",
       "9:30 PM",
       "10 PM"
     ]
@@ -1217,57 +1216,6 @@
       "map": "https://maps.google.com/?q=Time%20Out%20Market%20Union%20Sq%2C%20124%20E%2014th%20St",
       "summary": "Gary's Guide: No pitches. No presentations. No agenda. This is our monthly tech mixer to connect with peers across the NYC tech & startup community - from founders & VCs to developers & designers. A happy hour for real conversations."
     },
-    "luma_2026_06_30_what_makes_a_good_life_a_guided_public_discussion_on": {
-      "title": "What Makes a Good Life? A Guided Public Discussion on AI",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-06-30",
-      "time": "9 PM",
-      "sort": 21,
-      "when": "Tue, 06/30 · 9pm",
-      "price": "Free",
-      "free": true,
-      "place": "526 Hudson St",
-      "source": "Luma NYC",
-      "link": "https://luma.com/ai-goodlife",
-      "map": "https://maps.google.com/?q=526%20Hudson%20St%20NYC",
-      "summary": "Luma NYC: Anew"
-    },
-    "luma_2026_06_30_after_hours_a_happy_hour_for_new_york_s_creatives_an": {
-      "title": "after hours: a happy hour for new york's creatives and founders",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-06-30",
-      "time": "9:30 PM",
-      "sort": 21.5,
-      "when": "Tue, 06/30 · 9:30pm",
-      "price": "$10",
-      "free": false,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/by7ktf2m",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Creative Coffee Club, Verci, Sam Cruz, Arianna Tan"
-    },
-    "luma_2026_06_30_gtm_eng_nyc_coding_agents_gtm_lightning_talks_leader": {
-      "title": "GTM Eng NYC: Coding Agents + GTM Lightning Talks leaders from Deepline, OpenAI, Ramp, Notion, Modal & Attention",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-06-30",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Tue, 06/30 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/fx5v8axr",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Deepline, Jai Toor, Seth Hanes"
-    },
     "luma_2026_07_01_agents_apis_nyc_developer_meetup": {
       "title": "Agents & APIs NYC Developer Meetup",
       "type": "tech",
@@ -1302,22 +1250,39 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Abaka AI, Abaka AI, Yunfei Zhao, Yang Zhou, Ricky Liu"
     },
-    "jc_culture_37893_2026_06_30_movies_in_the_park_2026_inside_out_2": {
-      "title": "Movies in the Park 2026 / Inside Out 2",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Tue",
-      "date": "2026-06-30",
-      "time": "8:30 PM",
-      "sort": 20.5,
-      "when": "Tue, 06/30 · 8:30pm",
-      "price": "Free / varies",
+    "luma_2026_07_08_ai_builders_night_new_york": {
+      "title": "AI Builders Night New York",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Wed, 07/08 · 9:30pm",
+      "price": "Free",
       "free": true,
-      "place": "Columbia Park, 118 Bartholdi Ave, Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-inside-out-2/",
-      "map": "https://maps.google.com/?q=Columbia%20Park%2C%20118%20Bartholdi%20Ave%2C%20Jersey%20City",
-      "summary": "Columbia Park featuring Inside Out 2"
+      "place": "LOFT39",
+      "source": "Luma NYC",
+      "link": "https://luma.com/clickh-lz8k",
+      "map": "https://maps.google.com/?q=LOFT39%20NYC",
+      "summary": "Luma NYC: ClickHouse Events, Zoe Steinkamp"
+    },
+    "luma_2026_07_09_building_web_powered_ai_apps_without_code_base44_tav": {
+      "title": "Building Web-Powered AI Apps Without Code: Base44 & Tavily",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-09",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Thu, 07/09 · 9:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "1350 Broadway",
+      "source": "Luma NYC",
+      "link": "https://luma.com/tavily-4mzn",
+      "map": "https://maps.google.com/?q=1350%20Broadway%20NYC",
+      "summary": "Luma NYC: Tavily Events Calendar, Tavily Events, Ore Segal, Sahar Mor (Bond AI)"
     },
     "jc_culture_10003557_2026_07_01_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
