@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 1, 2026, 5:09 PM EDT",
+    "checked": "Jul 2, 2026, 8:53 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-01",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Jul 1"
-      },
       {
         "iso": "2026-07-02",
         "key": "Thu",
@@ -45,15 +39,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Jul 7"
+      },
+      {
+        "iso": "2026-07-08",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Jul 8"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-01",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Jul 1"
-      },
       {
         "iso": "2026-07-02",
         "key": "Thu",
@@ -233,9 +227,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Jul 31"
+      },
+      {
+        "iso": "2026-08-01",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Aug 1"
       }
     ],
-    "todayKey": "Wed",
+    "todayKey": "Thu",
     "times": [
       "7 AM",
       "8 AM",
@@ -259,8 +259,7 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
-      "9:30 PM",
-      "10 PM"
+      "9:30 PM"
     ]
   },
   "events": {
@@ -450,57 +449,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "gary_2026_07_01_future_of_paid_marketing_search_ai_funnels_in_2027": {
-      "title": "Future Of Paid Marketing - Search, AI & Funnels In 2027",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-01",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Wed, 07/01 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Wix HQ, 100 Gansevoort St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/a1ss55h/Future-Of-Paid-Marketing-Search-AI-Funnels-In-2027",
-      "map": "https://maps.google.com/?q=Wix%20HQ%2C%20100%20Gansevoort%20St",
-      "summary": "Gary's Guide: The Future of Paid Marketing: Search, AI, & Funnels in 2027 Wednesday, July 1st, 2026 5:00 PM - 8:00 PM Wix Offices, NYC Paid marketing is entering a new era. Search is changing. Creative is changing. Funnels are changing. AI is reshaping every stage of the customer journey, from ad creation to conversion. Join us for an exclusive after-work event at the Wix offices in NYC, bringing together performance marketers, growth leaders, founders, & AI builders to explore how AI is transforming the future of paid acquisition. What we'll cover: The future of search & advertising in an AI-first world How AI is changing creative production, campaign creation, & optimization The evolution of landing pages, funnels, & personalization New workflows & tools used by leading growth teams Practical lessons from teams already implementing AI today Networking with top NYC marketers, founders, & operators What to expect: Expert-led discussions & panels Live product demos Curated networking with top growth & marketing leaders Drinks, conversations, & practical takeaways Speakers & Agenda Speaker lineup & full agenda will be announced soon. Confirmed speakers include leaders from Google, high-growth technology companies, & the AI marketing ecosystem. Who should attend? Performance marketers, growth leaders, founders, agencies, demand generation teams, & anyone interested in how AI is reshaping paid marketing."
-    },
-    "gary_2026_07_01_agents_apis_developer_meetup": {
-      "title": "Agents & APIs Developer Meetup",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-01",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Wed, 07/01 · 5:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 1400 Broadway",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/k896o57/Agents-APIs-Developer-Meetup",
-      "map": "https://maps.google.com/?q=Venue%2C%201400%20Broadway",
-      "summary": "Gary's Guide: With Postman."
-    },
-    "gary_2026_07_01_founders_x_vcs_shuffleboard_social": {
-      "title": "Founders x VCs Shuffleboard Social",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-07-01",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Wed, 07/01 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/baiciau/Founders-x-VCs-Shuffleboard-Social",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Morgan Blumberg (M13)."
     },
     "gary_2026_07_02_startup_mixer": {
       "title": "Startup Mixer",
@@ -1148,40 +1096,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies.nWell have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart.nComplimentary drinks & pizza are on us.nHigh signal, low pressure. Come play poker, jump into games, & spend the night with some of NYCs top engineers, founders, & operators.nLimited seats.nRegistration: require linkedin, company, job title, & include the following multiple choice (single select)nHow would you like to participate?nPoker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in.n*Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi, click Get Hired, & apply.nOptions:nPoker ($100 buy-in, seat not guaranteed)nHang Out & Other GamesnHiring?nWant intros to startups?"
     },
-    "luma_2026_07_01_agents_apis_nyc_developer_meetup": {
-      "title": "Agents & APIs NYC Developer Meetup",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-01",
-      "time": "9:30 PM",
-      "sort": 21.5,
-      "when": "Wed, 07/01 · 9:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "113 W 38th St",
-      "source": "Luma NYC",
-      "link": "https://luma.com/bwd39lhw",
-      "map": "https://maps.google.com/?q=113%20W%2038th%20St%20NYC",
-      "summary": "Luma NYC: Postman Developer Events, Pooja Mistry, Yuktaa, Hammad Iqbal"
-    },
-    "luma_2026_07_01_party_with_abaka_ai_nyc_launch_night_in_manhattan": {
-      "title": "Party with Abaka AI: NYC Launch Night in Manhattan",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-01",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Wed, 07/01 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/abakaai-yx1l",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Abaka AI, Abaka AI, Yunfei Zhao, Yang Zhou, Ricky Liu, Alexandra Bezea-Tudor, Ruby Zhang, Martina Beg"
-    },
     "luma_2026_07_08_ai_builders_night_new_york": {
       "title": "AI Builders Night New York",
       "type": "tech",
@@ -1199,22 +1113,22 @@
       "map": "https://maps.google.com/?q=LOFT39%20NYC",
       "summary": "Luma NYC: ClickHouse Events, Zoe Steinkamp"
     },
-    "jc_culture_10003557_2026_07_01_hamilton_park_farmers_market_2026": {
-      "title": "Hamilton Park Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Wed",
-      "date": "2026-07-01",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Wed, 07/01 · 4pm",
-      "price": "Free / varies",
+    "luma_2026_07_09_building_web_powered_ai_apps_without_code_base44_tav": {
+      "title": "Building Web-Powered AI Apps Without Code: Base44 & Tavily",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-09",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Thu, 07/09 · 9:30pm",
+      "price": "Free",
       "free": true,
-      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-07-01/",
-      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+      "place": "1350 Broadway",
+      "source": "Luma NYC",
+      "link": "https://luma.com/tavily-4mzn",
+      "map": "https://maps.google.com/?q=1350%20Broadway%20NYC",
+      "summary": "Luma NYC: Tavily Events Calendar, Tavily Events, Ore Segal, Sahar Mor (Bond AI)"
     },
     "jc_culture_39952_2026_07_03_america_250_jersey_city_style_2026_hamilton_park": {
       "title": "America 250 Jersey City Style 2026 / Hamilton Park",
@@ -1895,6 +1809,23 @@
       "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-inside-out-2-2/",
       "map": "https://maps.google.com/?q=HARSIMUS%20CEMETERY%2C%20435%20Newark%20Ave.%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Harsimus Cemetery featuring Inside Out 2"
+    },
+    "jc_culture_38057_2026_08_02_jersey_city_summerfest_2026_winard_harper_jazz": {
+      "title": "Jersey City Summerfest 2026 / Winard Harper Jazz",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sun",
+      "date": "2026-08-02",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Sun, 08/02 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Liberty State Park, North Cove",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-winard-harper-jazz-2/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "JC Summerfest featuring Winard Harper Jazz North Cove Field Liberty State Park 6pm-8pm"
     }
   },
   "clusters": {
