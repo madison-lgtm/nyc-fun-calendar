@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 2, 2026, 8:53 AM EDT",
+    "checked": "Jul 2, 2026, 4:42 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -892,6 +892,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join C10 Labs for one of our inaugural NYC AI Nexus Demo Day! C10 Labs is an Applied AI venture fund & studio supporting early-stage founders building at the intersection of AI, healthcare, biotechnology, robotics, advanced manufacturing, energy, & sustainability. The evening is designed to be high-impact & fast-paced: Rapid-Fire Pitches: 3 minute presentations from select C10 Labs cohort companies. Alumni Showcase: A look at our top portfolio companies & previous success stories. Networking Mixer: Direct access to the founders & the C10 team. We look forward to celebrating our NYC & talking about the NYC program. Our NYC cohorts are designed for idea-stage, pre-seed, seed & pre-series A teams looking to turn ambitious technical ideas into venture-backable companies through hands-on support, real-world validation, & deep operator expertise. Founders in our program receive: Applied AI curriculum & technical mentorship Access to domain experts, operators, & early customers Studio support around product, data, compute, & go-to-market A powerful NYC-based network of industry & ecosystem partners Come meet the C10 Labs team, connect with fellow builders, & learn more about what we're building in NYC."
     },
+    "gary_2026_07_16_builders_founders_creatives_meetup": {
+      "title": "Builders, Founders & Creatives Meetup",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-07-16",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 07/16 · 6:30pm",
+      "price": "$15",
+      "free": false,
+      "place": "Downtown, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/1js2rvf/Builders-Founders-Creatives-Meetup",
+      "map": "https://maps.google.com/?q=Downtown%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: This is not a formal networking event. It's more of a relaxed meetup for people building things, exploring ideas, working on creative projects, or just looking to meet other thoughtful, ambitious people in the city. You'll likely meet people across a mix of backgrounds, including: Business owners & operators Tech founders & startup people People working in AI, software, & product Creatives, artists, designers, & musicians People building side projects Investors, freelancers, consultants, & friends of friends Curious people looking for good conversation The vibe is simple: grab a drink, meet cool people, talk about what you're working on, share stories, & enjoy a relaxed night with a good crowd. Please get at least one drink at the bar to support the venue. Everyone covers their own tab. There will also be professional photography & video captured during the event, so you may get some great photos from the evening. By attending, you consent to being photographed & filmed. Photos & videos may be used for event recaps, social media, & future promotional material. Hosted by Ishaan."
+    },
     "gary_2026_07_16_ai_engineers_poker_game_night": {
       "title": "AI Engineers - Poker & Game Night",
       "type": "tech",
@@ -1112,6 +1129,23 @@
       "link": "https://luma.com/clickh-lz8k",
       "map": "https://maps.google.com/?q=LOFT39%20NYC",
       "summary": "Luma NYC: ClickHouse Events, Zoe Steinkamp"
+    },
+    "luma_2026_07_09_operators_club_world_cup_edition": {
+      "title": "Operators Club: World Cup Edition",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-07-09",
+      "time": "8 PM",
+      "sort": 20,
+      "when": "Thu, 07/09 · 8pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/parwsabb",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Operators Club, Alexa Rose, Evan D. Gotlib, Joshua Wilensky, Matthew Andrade"
     },
     "luma_2026_07_09_building_web_powered_ai_apps_without_code_base44_tav": {
       "title": "Building Web-Powered AI Apps Without Code: Base44 & Tavily",
@@ -1854,6 +1888,10 @@
     "cluster_2026_07_16_7_am": [
       "gary_2026_07_16_cnbc_sport_x_boardroom_game_plan",
       "gary_2026_07_16_the_startup_pitch_demo_showcase"
+    ],
+    "cluster_2026_07_16_6_30_pm": [
+      "gary_2026_07_16_builders_founders_creatives_meetup",
+      "jc_culture_38070_2026_07_16_jersey_city_summerfest_2026_demolition_brass_band"
     ]
   }
 }
