@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 2, 2026, 4:42 PM EDT",
+    "checked": "Jul 3, 2026, 8:52 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-02",
-        "key": "Thu",
-        "label": "Thu",
-        "date": "Jul 2"
-      },
       {
         "iso": "2026-07-03",
         "key": "Fri",
@@ -45,15 +39,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Jul 8"
+      },
+      {
+        "iso": "2026-07-09",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Jul 9"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-02",
-        "key": "Thu",
-        "label": "Thu",
-        "date": "Jul 2"
-      },
       {
         "iso": "2026-07-03",
         "key": "Fri",
@@ -233,9 +227,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Aug 1"
+      },
+      {
+        "iso": "2026-08-02",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Aug 2"
       }
     ],
-    "todayKey": "Thu",
+    "todayKey": "Fri",
     "times": [
       "7 AM",
       "8 AM",
@@ -1860,6 +1860,23 @@
       "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-winard-harper-jazz-2/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "JC Summerfest featuring Winard Harper Jazz North Cove Field Liberty State Park 6pm-8pm"
+    },
+    "jc_culture_37960_2026_08_03_movies_in_the_park_2026_luca": {
+      "title": "Movies in the Park 2026 / LUCA",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Mon",
+      "date": "2026-08-03",
+      "time": "8:30 PM",
+      "sort": 20.5,
+      "when": "Mon, 08/03 · 8:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "SGT. ANTHONY PARK, 90-100 Palisade Ave., JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-tron-ares-3/",
+      "map": "https://maps.google.com/?q=SGT.%20ANTHONY%20PARK%2C%2090-100%20Palisade%20Ave.%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Sgt. Anthony Park featuring LUCA"
     }
   },
   "clusters": {
