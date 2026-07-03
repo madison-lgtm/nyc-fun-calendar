@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 3, 2026, 8:52 AM EDT",
+    "checked": "Jul 3, 2026, 4:40 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -259,7 +259,8 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
-      "9:30 PM"
+      "9:30 PM",
+      "10:30 PM"
     ]
   },
   "events": {
@@ -1129,6 +1130,23 @@
       "link": "https://luma.com/clickh-lz8k",
       "map": "https://maps.google.com/?q=LOFT39%20NYC",
       "summary": "Luma NYC: ClickHouse Events, Zoe Steinkamp"
+    },
+    "luma_2026_07_08_n_yc_alumni_founder_friends_monthly_19_by_rho_and_ny": {
+      "title": "(N)YC Alumni + Founder Friends Monthly #19 by Rho and NYC Founders Club",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Wed, 07/08 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/xi9scrwx",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: NYC Founders Club, Aakash Shah (NYC Founders Club), Jordan Deasy, Drew Parten, Remi Chester"
     },
     "luma_2026_07_09_operators_club_world_cup_edition": {
       "title": "Operators Club: World Cup Edition",
