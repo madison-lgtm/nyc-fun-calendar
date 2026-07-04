@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 3, 2026, 4:40 PM EDT",
+    "checked": "Jul 4, 2026, 8:01 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-03",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Jul 3"
-      },
       {
         "iso": "2026-07-04",
         "key": "Sat",
@@ -45,15 +39,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Jul 9"
+      },
+      {
+        "iso": "2026-07-10",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Jul 10"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-03",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Jul 3"
-      },
       {
         "iso": "2026-07-04",
         "key": "Sat",
@@ -233,9 +227,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Aug 2"
+      },
+      {
+        "iso": "2026-08-03",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Aug 3"
       }
     ],
-    "todayKey": "Fri",
+    "todayKey": "Sat",
     "times": [
       "7 AM",
       "8 AM",
@@ -450,23 +450,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "gary_2026_07_02_startup_mixer": {
-      "title": "Startup Mixer",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-07-02",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Thu, 07/02 · 5:00pm",
-      "price": "Varies",
-      "free": false,
-      "place": "Sour Mouse, 110 Delancey St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/n96mdjb/Startup-Mixer",
-      "map": "https://maps.google.com/?q=Sour%20Mouse%2C%20110%20Delancey%20St",
-      "summary": "Gary's Guide: NYC Tech &Startup Mixer - brought to you by Startup+ We're putting founders, engineers, investors, recruiters, freelancers, & mentors in the same room for a night of straightup networking. No panels, no speeches-just real conversations. If you're testing an idea, raising cash, or hiring your first dev, this is the place to be. Newsletter (exclusive entry & event drops): https://newsletter.startupplus.club Sponsorship / press: email - contact@startupplus.club Volunteer (Complimentary Ticket): email - contact@startupplus.club Why swing by? - Meet 100+ builders & backers in one go - Swap stories, get quick feedback, share lessons learned - Spot future cofounders, investors, customers, maybe all three What's the setup? - We've got a dedicated space, & name tags at the door - Flash a business card or a LinkedIn QR-whatever works - Dress code? Businesscasual. Jeans totally fine. A quick word on Startup+ We kicked this off in 2021, in the middle of the pandemic, because Zoom mixers just weren't cutting it. Fastforward: 25k members, 75+ mixers, 12 pitch nights, & 6000 folks through the doors. We keep it simple-connect good people & let the magic happen. Headsup: capacity is capped. Only confirmed Luma RSVPs are admitted at the door. Walkins = no go. Fine print : By joining, you agree that photos/video taken may be used in future Startup+ promos. Also, you agree that the contact info collected will be used to send future event invites & promotions via newsletter/other event platforms. See you IRL!!!"
     },
     "gary_2026_07_07_entrepreneurs_roundtable": {
       "title": "Entrepreneurs Roundtable",
@@ -1181,23 +1164,6 @@
       "link": "https://luma.com/tavily-4mzn",
       "map": "https://maps.google.com/?q=1350%20Broadway%20NYC",
       "summary": "Luma NYC: Tavily Events Calendar, Tavily Events, Ore Segal, Sahar Mor (Bond AI)"
-    },
-    "jc_culture_39952_2026_07_03_america_250_jersey_city_style_2026_hamilton_park": {
-      "title": "America 250 Jersey City Style 2026 / Hamilton Park",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Fri",
-      "date": "2026-07-03",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Fri, 07/03 · 7pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/america-250-jersey-city-style-2026-summer-swing-dance/",
-      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_39719_2026_07_04_tirai_a_solo_bharatanatyam_showcase_july_4th_jersey_": {
       "title": "Tirai – A Solo Bharatanatyam Showcase | July 4th, Jersey City",
