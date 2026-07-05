@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 5, 2026, 8:09 AM EDT",
+    "checked": "Jul 5, 2026, 4:37 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -240,9 +240,7 @@
       "7 AM",
       "8 AM",
       "8:30 AM",
-      "9 AM",
       "10 AM",
-      "11 AM",
       "11:30 AM",
       "12 PM",
       "1 PM",
@@ -252,6 +250,7 @@
       "3 PM",
       "3:30 PM",
       "4 PM",
+      "4:30 PM",
       "5 PM",
       "5:30 PM",
       "6 PM",
@@ -485,6 +484,23 @@
       "map": "https://maps.google.com/?q=HSBC%2C%2066%20Hudson%20Blvd%20E",
       "summary": "Gary's Guide: NYC Fintech Coffee, hosted by This Week in FinTech & HSBC, is an event for Fintech founders, investors & enthusiasts to gather around & talk everything Fintech. This is a no-agenda event, just drop by to make new Fintech friends over breakfast. See you there! Please note - Given the demand & limited capacity, registration & approval are required for attendance!"
     },
+    "gary_2026_07_08_the_buyer_changed_your_checkout_didn_t": {
+      "title": "The Buyer Changed, Your Checkout Didn't",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "8:30 AM",
+      "sort": 8.5,
+      "when": "Wed, 07/08 · 8:30am",
+      "price": "Free",
+      "free": true,
+      "place": "WeWork, 1460 Broadway",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/axz85ok/The-Buyer-Changed-Your-Checkout-Didn-t",
+      "map": "https://maps.google.com/?q=WeWork%2C%201460%20Broadway",
+      "summary": "Gary's Guide: With Ovadia Labaton (Founder/CEO, The Perfect Jean), Liran Erez (CPO, PrettyDamnQuick), Harry Roth (Dir. Ecommerce, AS Beauty)."
+    },
     "gary_2026_07_08_fierce_founders_coworking_day": {
       "title": "Fierce Founders Coworking Day",
       "type": "startup",
@@ -535,6 +551,40 @@
       "link": "https://www.garysguide.com/events/omh02e1/AI-Builders-Night",
       "map": "https://maps.google.com/?q=LOFT39%2C%2038%20W%2039th%20St",
       "summary": "Gary's Guide: Join us in New York at Loft 39 for an evening dedicated to the builders behind modern AI. From real-world use cases to the infrastructure powering large-scale systems, AI Night brings together engineers, data practitioners, & founders shaping how AI is built & deployed today. Brought to you by ClickHouse & Docker! Current Agenda: 5:00 PM: Arrivals, Check-In & Networking 5:50 PM: Welcome & Introductions + Food & Drink 5:55 - 6:20PM: Speaker 1 6:20 - 6:45 PM: Speaker 2 6:45 - 7:10 PM: Speaker 3 7:30 - 8:30 PM: Q&A, Networking 8:30 PM: Meetup Concludes"
+    },
+    "gary_2026_07_08_the_future_of_biosecurity": {
+      "title": "The Future Of Biosecurity",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Wed, 07/08 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/8f6wx7t/The-Future-Of-Biosecurity",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Amit Gupta (Founder, Catalyze), Akhila Kosaraju (CEO, Phare Bio), Charlie Petty (Co-Head, Intercept), Spencer Weiss (Technical Lead of Federal Health, Palantir)."
+    },
+    "gary_2026_07_08_vibe_coding_for_designers_meetup": {
+      "title": "Vibe Coding For Designers Meetup",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Wed, 07/08 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/vadw92x/Vibe-Coding-For-Designers-Meetup",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: NYC Design Community is inviting you to vibe code with other designers at The Center for Fiction This event is for Product Designers, UX/UI Designers, & Visual Designers. Other creatives welcome! Work on that AI project you have been postponing & get feedback from other designers in a collaborative environment. Outlets may be limited. Bring a charged laptop. By singing up to this event you are agreeing to be photographed, recorded, & adhere to our community guidelines If you do not want to be in photos, or recordings, please let the host know."
     },
     "gary_2026_07_08_startup_founders_investors_talent_mixer": {
       "title": "Startup Founders, Investors & Talent Mixer",
@@ -587,6 +637,40 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: The Ultimate Master Chef Experience nnJoin us for a New Edition of our Empanadas Masterclass! This unique event combines culinary creativity with top-notch networking opportunities. You'll get the chance to master the art of making empanadas.nEngage in insightful conversations with fellow startup founders & venture capitalists in a relaxed & enjoyable atmosphere.nRoll the dough, choose your toppings, & bake your masterpiece while enjoying a selection of exquisite drinks that perfectly complement your culinary creations.nSpots are limited!nAbout us:nLazonLazo provides incorporation, tax, bookkeeping, fractional CFO & fundraising solutions for startups, powered by AI Agents & Human Experts. Through our Lazo One platform, we streamline essential operations, enabling founders to focus on growth while we manage the complexities. We help startups scale with confidence.nnVita WalletnVita Wallet is a fintech company founded in 2019, specializing in international transfers & payments for individuals & businesses across more than 50 countries. The platform supports local currency operations from Chile, Mexico, Argentina, & Colombia, offering transparent pricing & competitive exchange rates. Today, more than 300,000 people trust Vita Wallet as their digital wallet of choice."
     },
+    "gary_2026_07_08_travel_tech_startups_3m_raised_celebration": {
+      "title": "Travel Tech Startups - 3M Raised Celebration",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 07/08 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/p1a3i1g/Travel-Tech-Startups-3M-Raised-Celebration",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Tavern Community is excited to share that two of our member companies, Travel Spoken & AIVA, both travel-tech startups led by female founders, have collectively raised almost $3M in funding. Please join us in celebrating this milestone for incredible founders Eni Maj & Lucia Mari Sanguino! Travel Spoken by Eni Maj, Dianni Fuchigami, & Christopher Walsh: Try the product here. They are soon to close out their $1.5M pre-seed round. Get in touch at eni@travelspoken.com Travel Spoken transforms any photo or video into your next travel destination, using voice & agentic AI to instantly build & book trips, while creating continuous revenue for creators. Solving a $120B annual loss in the industry. AIVA by Lucia Mari Sanguino & Paula Rodriguez Jou: Get in touch at lucia.mari@aviatech.xyz AIVA is an agentic intelligence for hotels. We use context & agents to give hotels the intuition it takes staff years to build. Apply for Tavern Membership here."
+    },
+    "gary_2026_07_08_dtc_builders_how_dtc_brands_using_ai_to_make_more_pr": {
+      "title": "DTC Builders - How DTC Brands Using AI To Make More Profit",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 07/08 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Rocket Shippers, 420 Lexington Ave, 30th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/4d5049o/DTC-Builders-How-DTC-Brands-Using-AI-To-Make-More-Profit",
+      "map": "https://maps.google.com/?q=Rocket%20Shippers%2C%20420%20Lexington%20Ave%2C%2030th%20Fl",
+      "summary": "Gary's Guide: How DTC Brands Are Using AI to Make More Profit Running a DTC brand in 2026 means making faster decisions with more data than ever before. The brands pulling ahead aren't working harder - they're using AI to see their business more clearly & act on it faster. This evening brings together DTC founders, agency operators, & ecommerce builders to talk about what's actually working. Real use cases, real results, no hype. Why You Should Attend Hear how DTC brands are using AI to diagnose profit leaks before they compound See real examples of AI-powered marketing, operations, & decision-making in action Learn practical ways to start applying AI in your own brand or agency Connect with operators who are doing this right now, not just talking about it Who's Getting In This Room DTC founders & operators, agency owners & teams, & ecommerce tech vendors - all based in NYC & actively building. Event Schedule 6:00 - 6:30 PM: Doors open, drinks & networking 6:30 - 7:30 PM: Presentations & discussion 7:30 - 8:30 PM: Open networking Hosted by DTC Builders NYC - a community of 1,100+ ecommerce operators across Luma & Meetup. We run regular events for people who are building, not just watching. Brought to you by Cuttable - The AI ad creative production system for high-growth DTC brands StoreHero - the AI-native profit intelligence platform helping DTC brands understand what's actually driving their numbers. Rocket Shippers - the shipping & logistics platform built for growing ecommerce brands. Venue Rocket Shippers - 30th Floor, 420 Lexington Avenue. Rooftop views overlooking the Chrysler Building."
+    },
     "gary_2026_07_09_revenue_playbook_behind_deel_s_growth_from_1m_to_1_5": {
       "title": "Revenue Playbook Behind Deel's Growth From $1M To $1.5B ARR",
       "type": "startup",
@@ -603,6 +687,40 @@
       "link": "https://www.garysguide.com/events/b34gxsr/Revenue-Playbook-Behind-Deel-s-Growth-From-1M-To-1-5B-ARR",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Andy Walsh (Founder, Startups Decoded), Chris Lee (Head of Sales, Deel)."
+    },
+    "gary_2026_07_09_can_we_patent_ai": {
+      "title": "Can We Patent AI?",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-09",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Thu, 07/09 · 10:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/p1lppa1/Can-We-Patent-AI",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Andrea Garau (Founder, Rocket Mixer)."
+    },
+    "gary_2026_07_09_operators_club_world_cup_edition": {
+      "title": "Operators Club - World Cup Edition",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-07-09",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Thu, 07/09 · 4:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/e4axpb5/Operators-Club-World-Cup-Edition",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: It's the World Cup quarterfinals & you should be at your desk. Or you could watch the match with your peers (and talk shop during hydration breaks & at halftime). We're keeping the guest list small & the conversation light. For people who spend their days running the tech, the support floors, & the operations that everyone else just assumes will work. The kind of people who can never actually watch a match in peace. On this night, you can. Join us for an evening of football, drinks, & light bites as the knockout rounds heat up. No pitch or panel, just a casual group trading notes on where AI is actually useful, where governance gets messy, & how this plays out in more complex enterprise environments. Drinks + light bites on us."
     },
     "gary_2026_07_09_building_web_powered_ai_apps_w_o_code": {
       "title": "Building Web-Powered AI Apps w/o Code",
@@ -655,6 +773,23 @@
       "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
       "summary": "Gary's Guide: With Nabeel Barqawi (Product Conversational AI, Disney)."
     },
+    "gary_2026_07_09_psychedelics_society": {
+      "title": "Psychedelics & Society",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-07-09",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 07/09 · 6:00pm",
+      "price": "$35",
+      "free": false,
+      "place": "Journey Clinical, 80 5th Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/1xy1q2e/Psychedelics-Society",
+      "map": "https://maps.google.com/?q=Journey%20Clinical%2C%2080%205th%20Ave",
+      "summary": "Gary's Guide: With Myriam Barthes (Founder/CEO, Journey Clinical), Anne Philippi (Founder, New Health Institute), Joe Moore (CEO, Psychedelics Today)."
+    },
     "gary_2026_07_10_ai_briefing_by_startup_grind_c_suite_gap_in_ai_readi": {
       "title": "AI Briefing By Startup Grind - C-Suite Gap In AI Readiness",
       "type": "tech",
@@ -671,6 +806,23 @@
       "link": "https://www.garysguide.com/events/9k1obj7/AI-Briefing-By-Startup-Grind-C-Suite-Gap-In-AI-Readiness",
       "map": "https://maps.google.com/?q=Civic%20Hall%2C%20124%20E%2014th%20St",
       "summary": "Gary's Guide: The AI Briefing is a high-velocity roundtable for decision-makers brought to you by Startup Grind. We bypass the hype by dissecting one high-signal industry deck with a room of vetted founders, operators, & enterprise executives. No lectures-just a 60-minute deep-dive into the tactics & data defining your next quarter. The gap between organizations that have built accountability structures around their AI & those that haven't is now measurable. Revenue growth reaches 58% among fully integrated organizations. Among those still piloting, top-line growth is only 15%. This session uses Grant Thornton's data to examine what it actually means to own an AI investment: who makes decisions, who measures outcomes, & what it costs when leadership can't agree on whether the organization is ready. We'll focus on the C-suite misalignment finding: CIOs & COOs within the same organization hold fundamentally different views on AI readiness, & the data shows that gap is producing real organizational failure."
+    },
+    "gary_2026_07_10_build_ai_customer_agents_that_remember_resolve_issue": {
+      "title": "Build AI Customer Agents That Remember & Resolve Issues",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-07-10",
+      "time": "4:30 PM",
+      "sort": 16.5,
+      "when": "Fri, 07/10 · 4:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/sawvzjw/Build-AI-Customer-Agents-That-Remember-Resolve-Issues",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Bring one real customer conversation use case. Leave with a practical AI pilot plan for chat, voice, WhatsApp, CRM, & human handoff. Join us for a hands-on workshop hosted by Dean from Chanl.AI & Benjamin from Vonage. Most companies don't need another AI demo. They need to know which customer conversations are worth automating, which ones should stay human, & how to launch an AI agent pilot without creating a bad customer experience. In this hands-on workshop, you'll bring one real support, sales, onboarding, scheduling, billing, or service workflow from your business & redesign it for the AI era. Together, we'll map the conversation, identify where AI can help, define the handoff to human teams, choose the right channel, & create a simple pilot plan you can actually use. This is not a coding class - no coding experience needed. It is a practical working session for teams exploring how AI agents can improve customer conversations. What you'll work on Pick the right first customer conversation for AI Create agents for Text or Voice - look at nuances between different channels - chat, voice, WhatsApp, web, or human handoff Map the customer journey from first message to resolution Define what the AI should answer, ask, remember, or escalate Identify the data, knowledge base, CRM, or support tools needed Create test cases for bad answers, escalation failures, & edge cases Define success metrics like resolution rate, response time, CSAT, QA, & cost per contact Leave with a 30-day roadmap for piloting AI agents for your company or startup Who it's for This workshop is designed for: CIOs & technology leaders exploring AI pilots Product managers designing AI-powered workflows CX & support leaders improving customer operations Call center & contact center teams Startup founders building or evaluating voice/chat agents Operators who want practical AI use cases, not hype No coding experience is required. What you'll leave with By the end, you'll have a clear plan for deploying customer conversations agents pilot for your company. Agenda 4:30pm - 5pm arrive & network, pizza & snacks 5:00pm - 7:00pm workshop 7:00pm - 7:30 Network, ask questions, make friends Topics for Workshop 1. What makes a good AI customer conversation A quick teardown of bad bots, useful agents, & strong human handoff. How to monitor agents in real-time, or get alerts. 2. Pick your use case, common use cases for AI Score one real customer conversation based on volume, pain, risk, data readiness, & business value. 3. Map the flow Design what the customer says, what the AI should do, when it should ask questions, & when it should escalate. 4. Choose the channel & agent goals Decide whether the workflow belongs on chat, voice, WhatsApp, web, SMS, or on Slack with your human support team. 5. Design the handoff (Memory) Define when the AI stops, what the human receives, & how the customer avoids repeating themselves. 6. Test before launch Create test cases for hallucinations, policy mistakes, angry customers, missing data, voice interruptions, & failed escalations. 7. Build your 30-day pilot plan Turn the workflow into a simple implementation brief your team can use after the workshop. Hosted by Chanl AI & Fabrik Chanl AI is building infrastructure for AI-powered customer conversations across chat, voice, & human teams."
     },
     "gary_2026_07_10_nyc_creative_ai_forum": {
       "title": "NYC Creative AI Forum",
@@ -705,6 +857,23 @@
       "link": "https://www.garysguide.com/events/c6d0kop/Founder-Led-Growth-The-Content-System-That-Brings-Customers",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Agendan1:302:00 PM Arrival & Check-InnDoors open at 1:30 PM. Guests can arrive, settle in, & meet others before the first seminar begins. Early guests may also wait at the venue for the second session.n2:002:30 PM Seminar Session 1nA 30-minute seminar covering the main framework, examples, & takeaways.n2:302:45 PM Q&A for Session 1nAudience questions & discussion.n2:453:00 PM Intermission / Open ConversationnA short transition window before the second session begins.n3:003:30 PM Seminar Session 2nA repeat of the same 30-minute seminar for guests who prefer the later session.n3:303:45 PM Q&A for Session 2nAudience questions & discussion.n3:454:00 PM Open ConversationnGuests are welcome to stay after the seminars for casual conversation, follow-up questions, & deeper discussion.nNote: Seminar Session 2 is a repeat of Seminar Session 1. Guests only need to attend one session.nMost founders are told to post more content. That advice is expensive, vague, & usually wrong. If you're trying to grow a real business, content should not be a popularity contest, it should be a customer acquisition systemnThis seminar is a practical, direct look at how founders can use content to attract buyers, start conversations, & turn attention into revenue. Jun will walk through the core framework behind content that actually works, the kind that earns trust, creates demand, & brings in customers without wasting weeks guessing what to say nextnnThis session was widely well-received during New York Tech Week, & the response made one thing clear, founders are hungry for a better way to think about content. The ideas shared there helped cut through a lot of noise, & this time the conversation goes even deeper. Expect sharper examples, more usable tactics, & a clearer picture of how to build a content engine around growth, not vanitynnIf you've been treating content as a side task, a branding exercise, or a chore to keep up with, this event will challenge that thinking. The goal is simple, show you how to turn founder-led content into a repeatable system that supports sales & opens doorsnCommunity PartnernnSupermoonis a global network of 42,000 founders, builders, & investors, with over 200 in-person events hosted worldwide.nSupermoon operates Growth Engine, a NYC-based startup program supporting early-stage founders across deep tech, AI, fintech, & digital assets."
+    },
+    "gary_2026_07_12_creationship_sundays_ai_for_creative_good": {
+      "title": "Creationship Sundays - AI For Creative Good",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sun",
+      "date": "2026-07-12",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Sun, 07/12 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Caravan Of Dreams, 405 E 6th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/hmjs43g/Creationship-Sundays-AI-For-Creative-Good",
+      "map": "https://maps.google.com/?q=Caravan%20Of%20Dreams%2C%20405%20E%206th%20St",
+      "summary": "Gary's Guide: A weekly imagine-a-thon for creative good. Come build the next generation of ideas this world needs. Sunday evenings, the back room of a vegan restaurant on East 6th Street fills with people drawn to the intersection of positive social change & new technology. Four hours later, we've met each other, ideated together, & built something real. Some teams form for the night. Some keep meeting, sunday after sunday, building what belongs in the future we want to live in. We don't curate the guest list. Past weeks brought together a founder, a prompt engineer, a doula, a muralist, & someone restoring old radios. The room simply takes the shape of whoever shows up. One tool we use is Vibecoding: our new capacity, with AI, to build applications & digital projects with natural language in the form of text prompts. That said, there are many ways to create & create with others. How the evening unfolds: A community member shares something they can't stop thinking about, teaches a concept or a possible solution to a social conundrum, leads us through an activity that might be valuable to us individually & collectively. Then, we pitch our half-formed projects. Teams form naturally around whatever sparks each person's interest. For the rest of the time, we build, we nosh, & we share what we made. What we're actually doing: We are practicing prototyping & building new worlds. The world outside is largely playing a finite game, optimizing for extraction, scale, & speed. In this room, we step out of that. We practice creative attention, trust, & infinite thinking. We focus fiercely on one thing, alongside people who think nothing like us. The work is sitting shoulder to shoulder with erstwhile strangers (who become community members), sharing our imagination, & building something better together. The relationships that come from this-we call them creationships. Each week looks a little bit different. This week #14: Please try to arrive on time! How a Sunday goes 4:30 - doors open, settle in, say hello, order something 5:00 - opening share / activity 5:30 - intros & form projects groups for the day 6:00 - explore, make, create something 8:00 - show-and-tell You leave inspired, a little changed, & with people you'll see again. Some things we're making here Kula - a gifting platform Vibe Cadaver - an exquisite-corpse game Kitty Social - a shared fund Ocean Agentics - a high seas treaty site NotAmazon - local alternatives Whoever shows up is who the afternoon is for. The room shapes itself around the people in it. Come as you are. Hosted by Dear Crisis dearcrisis.com"
     },
     "gary_2026_07_14_mozcon_2026": {
       "title": "MozCon 2026",
@@ -791,6 +960,23 @@
       "map": "https://maps.google.com/?q=Skidmore%20Owings%20at%207WTC%2C%20250%20Greenwich%20St",
       "summary": "Gary's Guide: With Jeff Perlman (Founder, Bright Power), Ryan Elazari (Founder, CRE Unplugged), Gary Ling & Alfred Zhang (Broadtrade Group)."
     },
+    "gary_2026_07_15_quantum_computing_meetup": {
+      "title": "Quantum Computing Meetup",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-15",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 07/15 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Midtown Manhattan, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/6a2atst/Quantum-Computing-Meetup",
+      "map": "https://maps.google.com/?q=Midtown%20Manhattan%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Antonio Mezzacapo (Principal Researcher, NVIDIA)."
+    },
     "gary_2026_07_15_founder_dinner": {
       "title": "Founder Dinner",
       "type": "startup",
@@ -859,6 +1045,23 @@
       "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
       "summary": "Gary's Guide: A one-day summit for product leaders & professionals at the edge of innovation. Themes being explored: Leading Product Strategy Through Disruption Frameworks for navigating market uncertainty, maintaining cross-functional alignment, & building resilient product roadmaps in rapidly evolving industries. Building Trust in AI-Driven Products Best practices for integrating intelligent systems & autonomous features while prioritizing user confidence, data privacy, & transparent user experiences. Unlocking Product-Led Growth & Retention How to build self-sustaining ecosystems by combining continuous user discovery, community engagement, & operational discipline to drive enduring product growth. \"Shifting Left\" in the Product Lifecycle Practical frameworks for accelerating time-to-value & reducing risk by bringing continuous discovery, technical feasibility, & quality assurance to the earliest stages of development. The Product Manager of the Future How autonomous agents, large language models, & advanced tooling are reshaping product workflows, strategic decision-making, & the PM's role in human-computer interaction. Speakers from Past Events Our stage hosts senior leaders from global brands who are driving innovation at scale. Details of the Evening Agenda 2:50pm Check-in Opens 3:15pm Sessions Begin 5:45pm Closing Remarks 6:00pm Cocktail Reception Who Should Attend The Product Summit is designed for senior product leaders & builders who are driving innovation across the entire product lifecycle. This invitation-only summit brings together those operating at the intersection of emerging technology, continuous discovery, & product-led growth. What's Included Gourmet Light Refreshments - Enjoy a curated selection of artisanal bites & small plates, perfect for connecting with colleagues. Settle in for easy conversation & good company in a warm, welcoming space. With a thoughtful selection of beer & wine on hand, it's the perfect backdrop for winding down or catching up. Have dietary restrictions? To ensure we can accommodate your dietary needs, please inform us at least 48 hours before the workshop start date."
     },
+    "gary_2026_07_16_ai_product_summit": {
+      "title": "AI Product Summit",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-16",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Thu, 07/16 · 3:00pm",
+      "price": "$475",
+      "free": false,
+      "place": "BrainStation, 136 Crosby St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/e8u6sl1/AI-Product-Summit",
+      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St",
+      "summary": "Gary's Guide: With Kaiz Alarakyia (Product, Google DeepMind), Aria Srinivasan (Product Lead Analytics, Stripe), Mayur Chaudhari (Product Leader, DoorDash), Prasant Lokinendi (Principal Product, Figma), Isha Gandhi (Product, Uber), Redatu Semeon (Product Lead, Google)."
+    },
     "gary_2026_07_16_nyc_ai_nexus_inaugural_demo_day": {
       "title": "NYC AI Nexus - Inaugural Demo Day",
       "type": "tech",
@@ -875,6 +1078,40 @@
       "link": "https://www.garysguide.com/events/y8irkuv/NYC-AI-Nexus-Inaugural-Demo-Day",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join C10 Labs for one of our inaugural NYC AI Nexus Demo Day! C10 Labs is an Applied AI venture fund & studio supporting early-stage founders building at the intersection of AI, healthcare, biotechnology, robotics, advanced manufacturing, energy, & sustainability. The evening is designed to be high-impact & fast-paced: Rapid-Fire Pitches: 3 minute presentations from select C10 Labs cohort companies. Alumni Showcase: A look at our top portfolio companies & previous success stories. Networking Mixer: Direct access to the founders & the C10 team. We look forward to celebrating our NYC & talking about the NYC program. Our NYC cohorts are designed for idea-stage, pre-seed, seed & pre-series A teams looking to turn ambitious technical ideas into venture-backable companies through hands-on support, real-world validation, & deep operator expertise. Founders in our program receive: Applied AI curriculum & technical mentorship Access to domain experts, operators, & early customers Studio support around product, data, compute, & go-to-market A powerful NYC-based network of industry & ecosystem partners Come meet the C10 Labs team, connect with fellow builders, & learn more about what we're building in NYC."
+    },
+    "gary_2026_07_16_bitcoin_developers_socratic_meetup": {
+      "title": "Bitcoin Developers Socratic Meetup",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-16",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 07/16 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Chaincode Labs, 450 Lexington Ave, 38th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/yqtg5d5/Bitcoin-Developers-Socratic-Meetup",
+      "map": "https://maps.google.com/?q=Chaincode%20Labs%2C%20450%20Lexington%20Ave%2C%2038th%20Fl",
+      "summary": "Gary's Guide: Special thanks to our sponsor Cake Wallet for providing the food! We will open doors at 6pm for socializing, & plan on starting the discussion around 7pm. RSVPs required! You *MUST* put your first & last name in the RSVP questionnaire. Due to policies at our host location's building, you may be asked for photo ID at the security desk. Thanks to our friends at Chaincode Labs for refreshments & event space. If this is your first time, please read about our Socratic Seminar series here. Our topic list will be available closer to the event on bitdevs.org. Please make topic suggestions in the comments section below, or reach out to us on Twitter or nostr!"
+    },
+    "gary_2026_07_16_building_beyond_completion_leverage_design_construct": {
+      "title": "Building Beyond Completion - Leverage Design & Construction Data",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-16",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 07/16 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Hafele America Co, 20 W 22nd St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/31t582b/Building-Beyond-Completion-Leverage-Design-Construction-Data",
+      "map": "https://maps.google.com/?q=Hafele%20America%20Co%2C%2020%20W%2022nd%20St",
+      "summary": "Gary's Guide: With Ayse Polat (Dir. Virtual Design & Construction, Turner Construction)."
     },
     "gary_2026_07_16_builders_founders_creatives_meetup": {
       "title": "Builders, Founders & Creatives Meetup",
@@ -927,6 +1164,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Night of Smash Bros, Mario Kart, board games & good conversation."
     },
+    "gary_2026_07_17_dev_cup_w_tavily_composio": {
+      "title": "Dev Cup w/ Tavily & Composio",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-07-17",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Fri, 07/17 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/4dbl2jh/Dev-Cup-w-Tavily-Composio",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: DEV CUP: TAVILY X COMPOSIO Your agents are working. You should be playing. Come out, touch grass (literally), & share a ball with fellow devs who believe the future of work is one where your AI handles the grind so you don't have to. Tavily & Composio are helping agents handle the busy work that keeps you at your desk. So close the laptop. The agents got it! July 17th 6:30 PM UWS Court, New York City Expect: Pickup futbol on a real court World Cup energy (we'll have the scores) Good convos about agents, AI, & what it means to actually log off Fellow devs who get it Free to attend. Bring cleats or sneakers. Leave the laptop. LIMITED SPACE AVAILABLE"
+    },
     "gary_2026_07_21_my_worst_day_as_a_cfo_lessons_that_changed_how_i_lea": {
       "title": "My Worst Day As A CFO - Lessons That Changed How I Lead",
       "type": "startup",
@@ -944,158 +1198,22 @@
       "map": "https://maps.google.com/?q=Midtown%20Manhattan%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Sruthi Lanka (CFO, Public.com), Dan Rochkind (CFO, Lerer Hippeau), Alexis DeSieno (ex-CFO, Cardlytics), George Wells (Founder, Wells Group)."
     },
-    "gary_2026_07_22_table_solns_for_founders": {
-      "title": "Table - Solns For Founders",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-07-22",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Wed, 07/22 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, Midtown Manhattan",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/7ogmf2p/Table-Solns-For-Founders",
-      "map": "https://maps.google.com/?q=Venue%2C%20Midtown%20Manhattan",
-      "summary": "Gary's Guide: Turn your current startup challenge into real progress. Table is a community of 1,400+ founders, operators, advisors, & investors. In each session, participants surface real challenges, vote on what matters most, & engage in focused, fast-paced discussions to unlock practical solutions. In a single morning, you'll gain actionable insights, learn new perspectives, & meet peers also looking to move forward."
-    },
-    "gary_2026_07_22_build_ai_systems_that_scale_at_amd_advancing_ai_2026": {
-      "title": "Build AI Systems That Scale At AMD Advancing AI 2026",
+    "gary_2026_07_21_build_the_ai_future": {
+      "title": "Build The AI Future",
       "type": "tech",
       "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-22",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Wed, 07/22 · 11:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Moscone Center, 747 Howard St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/7ims3x7/Build-AI-Systems-That-Scale-At-AMD-Advancing-AI-2026",
-      "map": "https://maps.google.com/?q=Moscone%20Center%2C%20747%20Howard%20St",
-      "summary": "Gary's Guide: Join AMD Advancing AI for hands-on workshops. Learn from AMD & open-source maintainers, then build & run real workloads yourself."
-    },
-    "gary_2026_07_22_startup_founders_investors_talent_mixer": {
-      "title": "Startup Founders, Investors & Talent Mixer",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-07-22",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 07/22 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "St Pat's Bar & Grill, 22 W 46th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/8vrefsf/Startup-Founders-Investors-Talent-Mixer",
-      "map": "https://maps.google.com/?q=St%20Pat's%20Bar%20%26%20Grill%2C%2022%20W%2046th%20St",
-      "summary": "Gary's Guide: Join a curated startup networking event in New York bringing together founders, investors, operators, engineers, & startup professionals for an evening of meaningful conversations & valuable connections. Unlike traditional networking events, the focus is on real discussions, practical insights, & opportunities that extend beyond the event itself. The evening includes: Structured networking sessions covering fundraising, product development, hiring, go-to-market strategy, & startup growth. Startup pitches featuring selected founders presenting their companies to investors, operators, & experienced entrepreneurs. Open networking sessions designed to help attendees build relationships & continue conversations. Attendees include: Startup founders from pre-seed to Series A Angel investors & venture capital professionals Product managers, engineers, & startup operators Recruiters & hiring leaders Sales & business development professionals Entrepreneurs building in AI, SaaS, FinTech, & emerging technologies Selected startups will have the opportunity to pitch their companies & receive feedback from investors & experienced founders. Investor participation is complimentary upon approval. Hosted by Ascent Valley, a global community connecting founders, investors, & operators through events, networking, & startup initiatives. Whether you are building a company, seeking investment opportunities, hiring talent, or expanding your network, this event offers an opportunity to connect with New York's startup ecosystem."
-    },
-    "gary_2026_07_23_climate_data_science": {
-      "title": "Climate Data Science",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-07-23",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Thu, 07/23 · 12:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Columbia Innovation Hub, 2276 12th Ave, Tang Family Hall",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/jbicq7f/Climate-Data-Science",
-      "map": "https://maps.google.com/?q=Columbia%20Innovation%20Hub%2C%202276%2012th%20Ave%2C%20Tang%20Family%20Hall",
-      "summary": "Gary's Guide: With Ann Lee (Prof., Carnegie Mellon Univ.)."
-    },
-    "gary_2026_07_23_ai_engineers_devs_drinks": {
-      "title": "AI Engineers - Devs & Drinks",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-07-23",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 07/23 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/0ynu2hw/AI-Engineers-Devs-Drinks",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Drinks, games & hanging out w/ engg peers."
-    },
-    "gary_2026_07_24_nyc_coffee_club_taking_the_leap_industry_vets_who_le": {
-      "title": "[NYC Coffee Club] Taking The Leap - Industry Vets Who Left To Build",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-07-24",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 07/24 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/g869sua/-NYC-Coffee-Club-Taking-The-Leap-Industry-Vets-Who-Left-To-Build",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Olivia, Alice, Naomi & Lauren (Forum Ventures)."
-    },
-    "gary_2026_07_28_junto_founder_dinner": {
-      "title": "Junto Founder Dinner",
-      "type": "startup",
-      "label": "Startup / Business",
       "day": "Tue",
-      "date": "2026-07-28",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 07/28 · 6:00pm",
+      "date": "2026-07-21",
+      "time": "8:30 AM",
+      "sort": 8.5,
+      "when": "Tue, 07/21 · 8:30am",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "IBM, 1 Madison Ave",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/hkicv28/Junto-Founder-Dinner",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Hi, Andrew Yeung here. We started the Junto Founder Dinner series two years ago to bring together the top founders + builders. Each month, we invite 24 vetted early-stage founders & CEOs for a 3-hour, multiple-course dinner experience. What to expect: A 3-course meal, courtesy of our partners Conversations with fellow high-performing startup leaders A dinner experience designed to facilitate new connections & conversations, with rotating 6-person table formats Meaningful connections with ambitious peers solving similar problems If you're wondering how our dinners usually go... read this Our only intent is to bring good, smart humans together. Details: Date: July 28, 2026 Time: 6:00pm - 8:30pm Venue: Private Dinner Club in NYC Past attendees of my events include the founders/C-suite of Venmo, Duolingo, Foursquare, Lyft, Goldman Sachs, Compass, Superhuman, Yext, OpenDoor, Chief, LearnVest, DocSend, Vercel, Loom, Morning Brew, The Hustle, Gas, Teachable, Replit, Twitter, Slack, Pinterest, Yahoo, MongoDB, Business Insider, Wonder, Hinge. Apply to join by filling out the RSVP form."
-    },
-    "gary_2026_07_31_tech_happy_hour_by_startup_grind": {
-      "title": "Tech Happy Hour By Startup Grind",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-07-31",
-      "time": "7 AM",
-      "sort": 7,
-      "when": "Fri, 07/31 · 7:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Time Out Market Union Sq, 124 E 14th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/s3t8r9v/Tech-Happy-Hour-By-Startup-Grind",
-      "map": "https://maps.google.com/?q=Time%20Out%20Market%20Union%20Sq%2C%20124%20E%2014th%20St",
-      "summary": "Gary's Guide: No pitches. No presentations. No agenda. This is our monthly tech mixer to connect with peers across the NYC tech & startup community - from founders & VCs to developers & designers. A happy hour for real conversations."
-    },
-    "gary_2026_08_06_ai_engineers_poker_game_night": {
-      "title": "AI Engineers - Poker & Game Night",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-08-06",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Thu, 08/06 · 7:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/kjnyxfl/AI-Engineers-Poker-Game-Night",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies.nWell have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart.nComplimentary drinks & pizza are on us.nHigh signal, low pressure. Come play poker, jump into games, & spend the night with some of NYCs top engineers, founders, & operators.nLimited seats.nRegistration: require linkedin, company, job title, & include the following multiple choice (single select)nHow would you like to participate?nPoker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in.n*Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi, click Get Hired, & apply.nOptions:nPoker ($100 buy-in, seat not guaranteed)nHang Out & Other GamesnHiring?nWant intros to startups?"
+      "link": "https://www.garysguide.com/events/tjmniiw/Build-The-AI-Future",
+      "map": "https://maps.google.com/?q=IBM%2C%201%20Madison%20Ave",
+      "summary": "Gary's Guide: Hands-on w/ IBM BOB, LinuxONE & zSystems."
     },
     "luma_2026_07_08_ai_builders_night_new_york": {
       "title": "AI Builders Night New York",
@@ -1130,23 +1248,6 @@
       "link": "https://luma.com/xi9scrwx",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: NYC Founders Club, Aakash Shah (NYC Founders Club), Jordan Deasy, Drew Parten, Remi Chester"
-    },
-    "luma_2026_07_09_operators_club_world_cup_edition": {
-      "title": "Operators Club: World Cup Edition",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-07-09",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Thu, 07/09 · 8pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/parwsabb",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Operators Club, Alexa Rose, Evan D. Gotlib, Joshua Wilensky, Matthew Andrade"
     },
     "luma_2026_07_09_building_web_powered_ai_apps_without_code_base44_tav": {
       "title": "Building Web-Powered AI Apps Without Code: Base44 & Tavily",
@@ -1822,14 +1923,29 @@
       "juggling",
       "ted_rosenthal"
     ],
+    "cluster_2026_07_08_8_30_am": [
+      "gary_2026_07_08_nyc_fintech_coffee",
+      "gary_2026_07_08_the_buyer_changed_your_checkout_didn_t"
+    ],
+    "cluster_2026_07_08_5_30_pm": [
+      "gary_2026_07_08_ai_builders_night",
+      "gary_2026_07_08_the_future_of_biosecurity",
+      "gary_2026_07_08_vibe_coding_for_designers_meetup"
+    ],
     "cluster_2026_07_08_6_pm": [
       "gary_2026_07_08_startup_founders_investors_talent_mixer",
       "gary_2026_07_08_leaders_in_design",
-      "gary_2026_07_08_master_vc_empanadas"
+      "gary_2026_07_08_master_vc_empanadas",
+      "gary_2026_07_08_travel_tech_startups_3m_raised_celebration",
+      "gary_2026_07_08_dtc_builders_how_dtc_brands_using_ai_to_make_more_pr"
     ],
     "cluster_2026_07_09_5_30_pm": [
       "gary_2026_07_09_building_web_powered_ai_apps_w_o_code",
       "gary_2026_07_09_ai_meetup_genai_llms_agents"
+    ],
+    "cluster_2026_07_09_6_pm": [
+      "gary_2026_07_09_demo_build_your_own_system",
+      "gary_2026_07_09_psychedelics_society"
     ],
     "cluster_2026_07_14_6_30_pm": [
       "gary_2026_07_14_build_w_ai_meetup",
@@ -1839,9 +1955,17 @@
       "gary_2026_07_16_cnbc_sport_x_boardroom_game_plan",
       "gary_2026_07_16_the_startup_pitch_demo_showcase"
     ],
+    "cluster_2026_07_16_6_pm": [
+      "gary_2026_07_16_bitcoin_developers_socratic_meetup",
+      "gary_2026_07_16_building_beyond_completion_leverage_design_construct"
+    ],
     "cluster_2026_07_16_6_30_pm": [
       "gary_2026_07_16_builders_founders_creatives_meetup",
       "jc_culture_38070_2026_07_16_jersey_city_summerfest_2026_demolition_brass_band"
+    ],
+    "cluster_2026_07_17_6_30_pm": [
+      "gary_2026_07_17_ai_engineers_game_night",
+      "gary_2026_07_17_dev_cup_w_tavily_composio"
     ]
   }
 }
