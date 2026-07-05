@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 4, 2026, 4:30 PM EDT",
+    "checked": "Jul 5, 2026, 8:09 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-04",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Jul 4"
-      },
       {
         "iso": "2026-07-05",
         "key": "Sun",
@@ -45,15 +39,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Jul 10"
+      },
+      {
+        "iso": "2026-07-11",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Jul 11"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-04",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Jul 4"
-      },
       {
         "iso": "2026-07-05",
         "key": "Sun",
@@ -233,9 +227,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Aug 3"
+      },
+      {
+        "iso": "2026-08-04",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Aug 4"
       }
     ],
-    "todayKey": "Sat",
+    "todayKey": "Sun",
     "times": [
       "7 AM",
       "8 AM",
@@ -1165,91 +1165,6 @@
       "map": "https://maps.google.com/?q=1350%20Broadway%20NYC",
       "summary": "Luma NYC: Tavily Events Calendar, Tavily Events, Ore Segal, Sahar Mor (Bond AI)"
     },
-    "jc_culture_39719_2026_07_04_tirai_a_solo_bharatanatyam_showcase_july_4th_jersey_": {
-      "title": "Tirai – A Solo Bharatanatyam Showcase | July 4th, Jersey City",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-07-04",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 07/04 · 11am",
-      "price": "Free",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/tirai-a-solo-bharatanatyam-showcase-july-4th-jersey-city/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "Bharatanatyam in its most intimate form – one dancer, live Carnatic music, and the eternal question of what lies beyond the veil. Tirai is a solo Bharatanatyam showcase performed by Sneha, a dancer and teacher with nearly 30 years of practice, accompanied by a live Carnatic ensemble. The performance traces the soul’s journey through invocation, surrender, and the dissolution of illusion – weaving together classical movement, rhythm, and storytelling in an intimate black box setting. Bharatanatyam is a classical Indian dance tradition rooted in centuries of art, music, and devotion, and Tirai brings this living tradition to Jersey City in a deeply personal offering. This show is for anyone who loves the arts, is curious about Indian classical dance, or simply wants to start their Independence Day with something meaningful and beautiful. No prior knowledge of Bharatanatyam is needed – just an open heart."
-    },
-    "jc_culture_40201_2026_07_04_july_4th_fireworks": {
-      "title": "July 4th Fireworks",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-07-04",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 07/04 · 12pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Exchange Place, MONTGOMERY ST BETWEEN HUDSON ST. AND GREEN ST.",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/july-4th-fireworks/",
-      "map": "https://maps.google.com/?q=Exchange%20Place%2C%20MONTGOMERY%20ST%20BETWEEN%20HUDSON%20ST.%20AND%20GREEN%20ST.",
-      "summary": "The full day of family-friendly festivities will once again draw tens of thousands of attendees, with over 60 vendors, 3 DJ stages, 2 beer gardens and a Kids’ Zone with activations and bounce castles. The Independence Day celebrations are capped off with breathtaking fireworks over the Hudson River with a picturesque backdrop of the NYC skyline. The celebration kicks off at 12:00 p.m. at Exchange Place. The night will conclude with a spectacular fireworks show, beginning at 9:30 p.m., lighting up the Hudson River synchronized to a patriotic soundtrack and visible across the waterfront. Event Policies & Info July 4th vendors, curated by Jersey City Night Market King of crepesCold Stone Creamery of BedminsterCousins Maine LobsterUrban SkewersAngry Archie’sSuperstar ice creamMagic Mike’s Smoked MeatsTasty TropicalDripzy CoffeeSAM’S ICE CREAMBao Zang SnacksLatin flavorGolden Fire CorpClubdog NYCTwisted Potato, Inc.NY Aguas FrescasGirly pop dirty sodaCat-Like ReflexesMOZZAREPASOrchardLa BrazaTaotie incSpoonable SpiritsJersey & Co. GelatoXuSanDuo Food TruckNinja KitchenHappy L FoodEmpanadas by lady gThe Noodle WalaBlackstone Halal FoodsCafe AmorreChava’s EmpanadasThe Pincho TruckKrazy Fresh JuiceStrawbelles ChocolateEl Lechon de NegronJishun LuoBarrelHouse NY LLCTJ Big PanMforward Inc.Fat cat group LLCMr.OkonomiyakiHoshinoYUBU LAB LLCkungfu dessert incBLAZIN RAYSMa & Pa’s Tex Mex BBQninja expressEmpabake EmpanadasMr. K New Jersey incChef SweetLadyRCozyLoady PotatoJoyfilledcrepesLily Lough JewelryBeduclothing&jewelryKathâ ThreaderyJenn The CreativePreciosa Permanent JewelryThe Diva LinksHenna SquadRetro NY MetroPrinting Plus 3DCandie ReignIndieVynlMs Q HandcraftArtbySydney22Jersey Girl Printing CompanyAction NoveltyPlant Dad by MoobienceDella’s LLCAlora.usaM&M LINKS JEWELRYAsanti’s JewelsLITPIX360 PHOTO BOOTH WonderFunster EntertainmentHumos BBQ NY LLCEemas CuisineCrazy Corns Download Map"
-    },
-    "jc_culture_39954_2026_07_04_america_250_jersey_city_style_2026_berry_lane_park": {
-      "title": "America 250 Jersey City Style 2026 / Berry Lane Park",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sat",
-      "date": "2026-07-04",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sat, 07/04 · 2pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Berry Lane Park, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/america-250-jersey-city-style-2026-jazz-and-salsa/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_40271_2026_07_04_speranza_presents_in_her_footsteps_revolution_250_20": {
-      "title": "Speranza Presents IN HER FOOTSTEPS REVOLUTION 250 / 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sat",
-      "date": "2026-07-04",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Sat, 07/04 · 3pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/speranza-presents-in-her-footsteps-revolution-250-2026/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community History Holiday Events Outdoor Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_39958_2026_07_04_america_250_jersey_city_style_2026_riverview_fisk_pa": {
-      "title": "America 250 Jersey City Style 2026 / Riverview-Fisk Park",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sat",
-      "date": "2026-07-04",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sat, 07/04 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Riverview Fisk Park, 498 Palisade Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/america-250-jersey-city-style-2026-americana-in-the-heights/",
-      "map": "https://maps.google.com/?q=Riverview%20Fisk%20Park%2C%20498%20Palisade%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Outdoor Visual & Performing Arts What's Coming Up?."
-    },
     "jc_culture_39960_2026_07_05_america_250_jersey_city_style_2026_van_vorst_park": {
       "title": "America 250 Jersey City Style 2026 / Van Vorst Park",
       "type": "park",
@@ -1861,6 +1776,40 @@
       "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-tron-ares-3/",
       "map": "https://maps.google.com/?q=SGT.%20ANTHONY%20PARK%2C%2090-100%20Palisade%20Ave.%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Sgt. Anthony Park featuring LUCA"
+    },
+    "jc_culture_10003562_2026_08_05_hamilton_park_farmers_market_2026": {
+      "title": "Hamilton Park Farmers Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-08-05",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 08/05 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-08-05/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_38610_2026_08_05_la_festa_italiana_2026": {
+      "title": "LA FESTA ITALIANA 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-08-05",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Wed, 08/05 · 5pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "HOLY ROSARY CHURCH, 344 6TH ST, JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/la-festa-italiana-2026-2/",
+      "map": "https://maps.google.com/?q=HOLY%20ROSARY%20CHURCH%2C%20344%206TH%20ST%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
     }
   },
   "clusters": {
