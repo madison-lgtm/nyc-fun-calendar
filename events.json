@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 6, 2026, 10:21 AM EDT",
+    "checked": "Jul 6, 2026, 5:15 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1249,23 +1249,6 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: NYC Founders Club, Aakash Shah (NYC Founders Club), Jordan Deasy, Drew Parten, Remi Chester"
     },
-    "luma_2026_07_09_building_web_powered_ai_apps_without_code_base44_tav": {
-      "title": "Building Web-Powered AI Apps Without Code: Base44 & Tavily",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-07-09",
-      "time": "9:30 PM",
-      "sort": 21.5,
-      "when": "Thu, 07/09 · 9:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "1350 Broadway",
-      "source": "Luma NYC",
-      "link": "https://luma.com/tavily-4mzn",
-      "map": "https://maps.google.com/?q=1350%20Broadway%20NYC",
-      "summary": "Luma NYC: Tavily Events Calendar, Tavily Events, Ore Segal, Sahar Mor (Bond AI)"
-    },
     "jc_culture_10003558_2026_07_08_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
       "type": "market",
@@ -1282,6 +1265,23 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-07-08/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_41239_2026_07_08_mjch_presents_the_shared_voice_2026": {
+      "title": "MJCH Presents The Shared Voice 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Wed",
+      "date": "2026-07-08",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Wed, 07/08 · 5pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/mjch-presents-the-shared-voice-2026/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community History Literature & Education Outdoor Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_38066_2026_07_09_jersey_city_summerfest_2026_david_cedano": {
       "title": "Jersey City Summerfest 2026 / David Cedano",
@@ -1486,6 +1486,23 @@
       "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-demolition-brass-band/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "JC Summerfest featuring Demolition Brass Band Berry Lane Park 6:30pm-8:30pm"
+    },
+    "jc_culture_41159_2026_07_16_produce_wrestling_jersey_city": {
+      "title": "Produce Wrestling – Jersey City",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-07-16",
+      "time": "8 PM",
+      "sort": 20,
+      "when": "Thu, 07/16 · 8pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "WHITE EAGLE HALL, 337 NEWARK AVE., JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/produce-wrestling-jersey-city/",
+      "map": "https://maps.google.com/?q=WHITE%20EAGLE%20HALL%2C%20337%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
+      "summary": "Get ready for an electrifying night of action as Produce Wrestling takes over Jersey City! Join us at the iconic White Eagle Hall, where the atmosphere is always buzzing with excitement and energy. This historic venue, known for its vibrant community spirit, will transform into a thrilling battleground where athleticism meets entertainment. Whether you’re a die-hard wrestling fan or new to the scene, this event promises to deliver unforgettable moments and high-flying excitement. Don’t miss your chance to witness the spectacle of Produce Wrestling – Jersey City live in action! Gather your friends and family for an evening filled with cheers, laughter, and the thrill of competition. The White Eagle Hall is the perfect backdrop for this exhilarating event, making it a must-see for anyone in the area. Grab your tickets now and be part of the excitement!"
     },
     "jc_culture_37944_2026_07_16_movies_in_the_park_2026_arrival": {
       "title": "Movies in the Park 2026 / Arrival",
@@ -1960,6 +1977,10 @@
     "cluster_2026_07_08_8_30_am": [
       "gary_2026_07_08_nyc_fintech_coffee",
       "gary_2026_07_08_the_buyer_changed_your_checkout_didn_t"
+    ],
+    "cluster_2026_07_08_5_pm": [
+      "gary_2026_07_08_female_founders_funders",
+      "jc_culture_41239_2026_07_08_mjch_presents_the_shared_voice_2026"
     ],
     "cluster_2026_07_08_5_30_pm": [
       "gary_2026_07_08_ai_builders_night",
