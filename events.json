@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 5, 2026, 4:37 PM EDT",
+    "checked": "Jul 6, 2026, 10:21 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-05",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Jul 5"
-      },
       {
         "iso": "2026-07-06",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Jul 11"
+      },
+      {
+        "iso": "2026-07-12",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Jul 12"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-05",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Jul 5"
-      },
       {
         "iso": "2026-07-06",
         "key": "Mon",
@@ -233,9 +227,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Aug 4"
+      },
+      {
+        "iso": "2026-08-05",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Aug 5"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
       "7 AM",
       "8 AM",
@@ -1062,6 +1062,23 @@
       "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St",
       "summary": "Gary's Guide: With Kaiz Alarakyia (Product, Google DeepMind), Aria Srinivasan (Product Lead Analytics, Stripe), Mayur Chaudhari (Product Leader, DoorDash), Prasant Lokinendi (Principal Product, Figma), Isha Gandhi (Product, Uber), Redatu Semeon (Product Lead, Google)."
     },
+    "gary_2026_07_16_claude_code_cowork_on_aws": {
+      "title": "Claude Code & CoWork On AWS",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-16",
+      "time": "4:30 PM",
+      "sort": 16.5,
+      "when": "Thu, 07/16 · 4:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, 12 W 39th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/knk26jn/Claude-Code-CoWork-On-AWS",
+      "map": "https://maps.google.com/?q=Venue%2C%2012%20W%2039th%20St",
+      "summary": "Gary's Guide: With Udaya Shankar (Solns Architect, AWS)."
+    },
     "gary_2026_07_16_nyc_ai_nexus_inaugural_demo_day": {
       "title": "NYC AI Nexus - Inaugural Demo Day",
       "type": "tech",
@@ -1198,23 +1215,6 @@
       "map": "https://maps.google.com/?q=Midtown%20Manhattan%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Sruthi Lanka (CFO, Public.com), Dan Rochkind (CFO, Lerer Hippeau), Alexis DeSieno (ex-CFO, Cardlytics), George Wells (Founder, Wells Group)."
     },
-    "gary_2026_07_21_build_the_ai_future": {
-      "title": "Build The AI Future",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-07-21",
-      "time": "8:30 AM",
-      "sort": 8.5,
-      "when": "Tue, 07/21 · 8:30am",
-      "price": "Free",
-      "free": true,
-      "place": "IBM, 1 Madison Ave",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/tjmniiw/Build-The-AI-Future",
-      "map": "https://maps.google.com/?q=IBM%2C%201%20Madison%20Ave",
-      "summary": "Gary's Guide: Hands-on w/ IBM BOB, LinuxONE & zSystems."
-    },
     "luma_2026_07_08_ai_builders_night_new_york": {
       "title": "AI Builders Night New York",
       "type": "tech",
@@ -1265,23 +1265,6 @@
       "link": "https://luma.com/tavily-4mzn",
       "map": "https://maps.google.com/?q=1350%20Broadway%20NYC",
       "summary": "Luma NYC: Tavily Events Calendar, Tavily Events, Ore Segal, Sahar Mor (Bond AI)"
-    },
-    "jc_culture_39960_2026_07_05_america_250_jersey_city_style_2026_van_vorst_park": {
-      "title": "America 250 Jersey City Style 2026 / Van Vorst Park",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sun",
-      "date": "2026-07-05",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 07/05 · 12pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Van Vorst Park, 257-287 Montgomery Street, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/america-250-jersey-city-style-2026-sunday-in-the-park/",
-      "map": "https://maps.google.com/?q=Van%20Vorst%20Park%2C%20257-287%20Montgomery%20Street%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Outdoor Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_10003558_2026_07_08_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -1911,6 +1894,57 @@
       "link": "https://jerseycityculture.org/event/la-festa-italiana-2026-2/",
       "map": "https://maps.google.com/?q=HOLY%20ROSARY%20CHURCH%2C%20344%206TH%20ST%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
+    },
+    "jc_culture_38613_2026_08_06_la_festa_italiana_2026": {
+      "title": "LA FESTA ITALIANA 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Thu",
+      "date": "2026-08-06",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Thu, 08/06 · 5pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "HOLY ROSARY CHURCH, 344 6TH ST, JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/la-festa-italiana-2026-3/",
+      "map": "https://maps.google.com/?q=HOLY%20ROSARY%20CHURCH%2C%20344%206TH%20ST%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
+    },
+    "jc_culture_38073_2026_08_06_jersey_city_summerfest_2026_marlena_moniece": {
+      "title": "Jersey City Summerfest 2026 / Marlena Moniece",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Thu",
+      "date": "2026-08-06",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 08/06 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Berry Lane Park, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-marlena-moniece/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "&nbsp; JC Summerfest featuring Marlena Moniece Berry Lane Park 6:30pm-8:30pm"
+    },
+    "jc_culture_37962_2026_08_06_movies_in_the_park_2026_the_sponge_bob_movie": {
+      "title": "Movies in the Park 2026 / The Sponge Bob Movie",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Thu",
+      "date": "2026-08-06",
+      "time": "8:30 PM",
+      "sort": 20.5,
+      "when": "Thu, 08/06 · 8:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "VILLAGE PARK, 384-388 1st St., JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-sponge-bob/",
+      "map": "https://maps.google.com/?q=VILLAGE%20PARK%2C%20384-388%201st%20St.%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Village Park featuring Sponge Bob"
     }
   },
   "clusters": {
