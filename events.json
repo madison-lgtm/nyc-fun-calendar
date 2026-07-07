@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 6, 2026, 5:15 PM EDT",
+    "checked": "Jul 7, 2026, 9:12 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-06",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Jul 6"
-      },
       {
         "iso": "2026-07-07",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Jul 12"
+      },
+      {
+        "iso": "2026-07-13",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Jul 13"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-06",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Jul 6"
-      },
       {
         "iso": "2026-07-07",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Aug 5"
+      },
+      {
+        "iso": "2026-08-06",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Aug 6"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "7 AM",
       "8 AM",
@@ -1962,6 +1962,40 @@
       "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-sponge-bob/",
       "map": "https://maps.google.com/?q=VILLAGE%20PARK%2C%20384-388%201st%20St.%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Village Park featuring Sponge Bob"
+    },
+    "jc_culture_38614_2026_08_07_la_festa_italiana_2026": {
+      "title": "LA FESTA ITALIANA 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Fri",
+      "date": "2026-08-07",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Fri, 08/07 · 5pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "HOLY ROSARY CHURCH, 344 6TH ST, JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/la-festa-italiana-2026-4/",
+      "map": "https://maps.google.com/?q=HOLY%20ROSARY%20CHURCH%2C%20344%206TH%20ST%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
+    },
+    "jc_culture_37964_2026_08_07_movies_in_the_park_2026_wicked_for_good": {
+      "title": "Movies in the Park 2026 / Wicked for Good",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-08-07",
+      "time": "8:30 PM",
+      "sort": 20.5,
+      "when": "Fri, 08/07 · 8:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Berry Lane Park, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-wicked-for-good-4/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Film Kids Activities Movies in the Park 2026 Outdoor What's Coming Up?."
     }
   },
   "clusters": {
