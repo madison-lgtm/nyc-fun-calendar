@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 7, 2026, 9:12 AM EDT",
+    "checked": "Jul 7, 2026, 5:08 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1247,7 +1247,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/xi9scrwx",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: NYC Founders Club, Aakash Shah (NYC Founders Club), Jordan Deasy, Drew Parten, Remi Chester"
+      "summary": "Luma NYC: NYC Founders Club, Aakash Shah (NYC Founders Club), Jordan Deasy, Drew Parten, Remi Chester, Sean Hu"
     },
     "jc_culture_10003558_2026_07_08_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -1283,8 +1283,8 @@
       "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community History Literature & Education Outdoor Visual & Performing Arts What's Coming Up?."
     },
-    "jc_culture_38066_2026_07_09_jersey_city_summerfest_2026_david_cedano": {
-      "title": "Jersey City Summerfest 2026 / David Cedano",
+    "jc_culture_38066_2026_07_09_jersey_city_summerfest_2026_david_cede_o": {
+      "title": "Jersey City Summerfest 2026 / David Cedeño",
       "type": "park",
       "label": "Parks / Outdoor",
       "day": "Thu",
@@ -1296,9 +1296,9 @@
       "free": true,
       "place": "Berry Lane Park, Jersey City, NJ",
       "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-anne-minogue-band/",
+      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-david-cedeno/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "&nbsp; JC Summerfest featuring David Cedano Latin and Salsa Berry Lane Park 6:30pm-8:30pm"
+      "summary": "&nbsp; JC Summerfest featuring David Cedeño Latin and Salsa Berry Lane Park 6:30pm-8:30pm"
     },
     "jc_culture_37940_2026_07_09_movies_in_the_park_2026_tron_ares": {
       "title": "Movies in the Park 2026 / Tron Ares",
