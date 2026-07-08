@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 7, 2026, 5:08 PM EDT",
+    "checked": "Jul 8, 2026, 8:14 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-07",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Jul 7"
-      },
       {
         "iso": "2026-07-08",
         "key": "Wed",
@@ -45,15 +39,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Jul 13"
+      },
+      {
+        "iso": "2026-07-14",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Jul 14"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-07",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Jul 7"
-      },
       {
         "iso": "2026-07-08",
         "key": "Wed",
@@ -233,9 +227,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Aug 6"
+      },
+      {
+        "iso": "2026-08-07",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Aug 7"
       }
     ],
-    "todayKey": "Tue",
+    "todayKey": "Wed",
     "times": [
       "7 AM",
       "8 AM",
@@ -1996,6 +1996,23 @@
       "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-wicked-for-good-4/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Film Kids Activities Movies in the Park 2026 Outdoor What's Coming Up?."
+    },
+    "jc_culture_38615_2026_08_08_la_festa_italiana_2026": {
+      "title": "LA FESTA ITALIANA 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-08-08",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Sat, 08/08 · 5pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "HOLY ROSARY CHURCH, 344 6TH ST, JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/la-festa-italiana-2026-5/",
+      "map": "https://maps.google.com/?q=HOLY%20ROSARY%20CHURCH%2C%20344%206TH%20ST%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
     }
   },
   "clusters": {
