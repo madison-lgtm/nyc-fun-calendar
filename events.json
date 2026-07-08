@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 8, 2026, 8:14 AM EDT",
+    "checked": "Jul 8, 2026, 4:44 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1859,7 +1859,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-winard-harper-jazz-2/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "JC Summerfest featuring Winard Harper Jazz North Cove Field Liberty State Park 6pm-8pm"
+      "summary": "&nbsp; JC Summerfest featuring Winard Harper Jazz North Cove Field Liberty State Park 6pm-8pm"
     },
     "jc_culture_37960_2026_08_03_movies_in_the_park_2026_luca": {
       "title": "Movies in the Park 2026 / LUCA",
