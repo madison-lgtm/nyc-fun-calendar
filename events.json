@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 8, 2026, 4:44 PM EDT",
+    "checked": "Jul 9, 2026, 9:44 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-08",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Jul 8"
-      },
       {
         "iso": "2026-07-09",
         "key": "Thu",
@@ -45,15 +39,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Jul 14"
+      },
+      {
+        "iso": "2026-07-15",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Jul 15"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-08",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Jul 8"
-      },
       {
         "iso": "2026-07-09",
         "key": "Thu",
@@ -233,9 +227,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Aug 7"
+      },
+      {
+        "iso": "2026-08-08",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Aug 8"
       }
     ],
-    "todayKey": "Wed",
+    "todayKey": "Thu",
     "times": [
       "7 AM",
       "8 AM",
@@ -257,9 +257,7 @@
       "6:30 PM",
       "7 PM",
       "8 PM",
-      "8:30 PM",
-      "9:30 PM",
-      "10:30 PM"
+      "8:30 PM"
     ]
   },
   "events": {
@@ -449,23 +447,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "gary_2026_07_07_entrepreneurs_roundtable": {
-      "title": "Entrepreneurs Roundtable",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-07-07",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 07/07 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/m7ps90l/Entrepreneurs-Roundtable",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Cassie Young (Primary Venture Partners)."
     },
     "gary_2026_07_08_nyc_fintech_coffee": {
       "title": "NYC Fintech Coffee",
@@ -1215,73 +1196,39 @@
       "map": "https://maps.google.com/?q=Midtown%20Manhattan%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Sruthi Lanka (CFO, Public.com), Dan Rochkind (CFO, Lerer Hippeau), Alexis DeSieno (ex-CFO, Cardlytics), George Wells (Founder, Wells Group)."
     },
-    "luma_2026_07_08_ai_builders_night_new_york": {
-      "title": "AI Builders Night New York",
+    "gary_2026_07_21_build_the_ai_future": {
+      "title": "Build The AI Future",
       "type": "tech",
       "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-08",
-      "time": "9:30 PM",
-      "sort": 21.5,
-      "when": "Wed, 07/08 · 9:30pm",
+      "day": "Tue",
+      "date": "2026-07-21",
+      "time": "8:30 AM",
+      "sort": 8.5,
+      "when": "Tue, 07/21 · 8:30am",
       "price": "Free",
       "free": true,
-      "place": "LOFT39",
-      "source": "Luma NYC",
-      "link": "https://luma.com/clickh-lz8k",
-      "map": "https://maps.google.com/?q=LOFT39%20NYC",
-      "summary": "Luma NYC: ClickHouse Events, Zoe Steinkamp"
+      "place": "IBM, 1 Madison Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/tjmniiw/Build-The-AI-Future",
+      "map": "https://maps.google.com/?q=IBM%2C%201%20Madison%20Ave",
+      "summary": "Gary's Guide: Hands-on w/ IBM BOB, LinuxONE & zSystems."
     },
-    "luma_2026_07_08_n_yc_alumni_founder_friends_monthly_19_by_rho_and_ny": {
-      "title": "(N)YC Alumni + Founder Friends Monthly #19 by Rho and NYC Founders Club",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-07-08",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Wed, 07/08 · 10:30pm",
+    "luma_2026_07_11_ai_healthcare_hack_nyc_by_arya_health_twilio_ai_star": {
+      "title": "AI Healthcare Hack NYC - by Arya Health & Twilio AI Startup Searchlight",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sat",
+      "date": "2026-07-11",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Sat, 07/11 · 1pm",
       "price": "Free",
       "free": true,
       "place": "New York, NY",
       "source": "Luma NYC",
-      "link": "https://luma.com/xi9scrwx",
+      "link": "https://luma.com/arya-health-hack",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: NYC Founders Club, Aakash Shah (NYC Founders Club), Jordan Deasy, Drew Parten, Remi Chester, Sean Hu"
-    },
-    "jc_culture_10003558_2026_07_08_hamilton_park_farmers_market_2026": {
-      "title": "Hamilton Park Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Wed",
-      "date": "2026-07-08",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Wed, 07/08 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-07-08/",
-      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
-    },
-    "jc_culture_41239_2026_07_08_mjch_presents_the_shared_voice_2026": {
-      "title": "MJCH Presents The Shared Voice 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Wed",
-      "date": "2026-07-08",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Wed, 07/08 · 5pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/mjch-presents-the-shared-voice-2026/",
-      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community History Literature & Education Outdoor Visual & Performing Arts What's Coming Up?."
+      "summary": "Luma NYC: localhost:nyc, Somya Gupta, Nikki Hu, Arun kalaiselvan, Anand Chandrasekaran"
     },
     "jc_culture_38066_2026_07_09_jersey_city_summerfest_2026_david_cede_o": {
       "title": "Jersey City Summerfest 2026 / David Cedeño",
@@ -2013,6 +1960,40 @@
       "link": "https://jerseycityculture.org/event/la-festa-italiana-2026-5/",
       "map": "https://maps.google.com/?q=HOLY%20ROSARY%20CHURCH%2C%20344%206TH%20ST%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
+    },
+    "jc_culture_38616_2026_08_09_la_festa_italiana_2026": {
+      "title": "LA FESTA ITALIANA 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sun",
+      "date": "2026-08-09",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Sun, 08/09 · 5pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "HOLY ROSARY CHURCH, 344 6TH ST, JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/la-festa-italiana-2026-6/",
+      "map": "https://maps.google.com/?q=HOLY%20ROSARY%20CHURCH%2C%20344%206TH%20ST%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
+    },
+    "jc_culture_38058_2026_08_09_jersey_city_summerfest_2026_strangers_stopping_stran": {
+      "title": "Jersey City Summerfest 2026 / Strangers Stopping Strangers",
+      "type": "weird",
+      "label": "Weird / Social",
+      "day": "Sun",
+      "date": "2026-08-09",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Sun, 08/09 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Liberty State Park, North Cove",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-strangers-stopping-strangers/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "&nbsp; JC Summerfest featuring Strangers Stopping Strangers Grateful Dead Band North Cove Field Liberty State Park 6pm-8pm"
     }
   },
   "clusters": {
@@ -2028,10 +2009,6 @@
     "cluster_2026_07_08_8_30_am": [
       "gary_2026_07_08_nyc_fintech_coffee",
       "gary_2026_07_08_the_buyer_changed_your_checkout_didn_t"
-    ],
-    "cluster_2026_07_08_5_pm": [
-      "gary_2026_07_08_female_founders_funders",
-      "jc_culture_41239_2026_07_08_mjch_presents_the_shared_voice_2026"
     ],
     "cluster_2026_07_08_5_30_pm": [
       "gary_2026_07_08_ai_builders_night",
