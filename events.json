@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 11, 2026, 7:45 AM EDT",
+    "checked": "Jul 11, 2026, 4:24 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -259,7 +259,8 @@
       "6:30 PM",
       "7 PM",
       "8 PM",
-      "8:30 PM"
+      "8:30 PM",
+      "9 PM"
     ]
   },
   "events": {
@@ -1452,6 +1453,23 @@
       "link": "https://luma.com/8d4im4ol",
       "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
       "summary": "Luma NYC: Context Engineering Guild, Atin Woodard"
+    },
+    "luma_2026_07_14_hard_launch_101_for_founders": {
+      "title": "Hard Launch 101 for Founders",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-07-14",
+      "time": "9 PM",
+      "sort": 21,
+      "when": "Tue, 07/14 · 9pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/ujbufpkt",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: HARD LAUNCH, jacky (:, Christina Melas-Kyriazi, Andrew Pignanelli"
     },
     "jc_culture_40291_2026_07_11_the_world_on_central_watch_party_celebration": {
       "title": "The World on Central Watch Party & Celebration",
