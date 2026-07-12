@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 11, 2026, 4:24 PM EDT",
+    "checked": "Jul 12, 2026, 7:52 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-11",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Jul 11"
-      },
       {
         "iso": "2026-07-12",
         "key": "Sun",
@@ -45,15 +39,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Jul 17"
+      },
+      {
+        "iso": "2026-07-18",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Jul 18"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-11",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Jul 11"
-      },
       {
         "iso": "2026-07-12",
         "key": "Sun",
@@ -233,9 +227,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Aug 10"
+      },
+      {
+        "iso": "2026-08-11",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Aug 11"
       }
     ],
-    "todayKey": "Sat",
+    "todayKey": "Sun",
     "times": [
       "7 AM",
       "8 AM",
@@ -451,41 +451,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_88911_0_harlem_summer_nights_open_air_night_market": {
-      "title": "harlem summer nights open-air night market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Fri",
-      "date": "2026-07-10",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Fri, 07/10 · 4-10pm (fridays thru 8/21)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "under the arches at 12th ave + w 133rd st",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/harlemsummernights/",
-      "map": "https://maps.google.com/?q=under%20the%20arches%20at%2012th%20ave%20%2B%20w%20133rd%20st%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 4-10pm (fridays thru 8/21): harlem summer nights open-air night market: under the arches at 12th ave + w 133rd st."
-    },
-    "skint_88911_1_the_fourth_annual_west_side_fest": {
-      "title": "the fourth annual west side fest",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Fri",
-      "date": "2026-07-10",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 07/10 · thru sun",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "workshops, artmaking, special programming, and more across 22 participating west side cultural network institutions",
-      "source": "The Skint",
-      "link": "https://www.westsidefest.nyc",
-      "map": "https://maps.google.com/?q=workshops%2C%20artmaking%2C%20special%20programming%2C%20and%20more%20across%2022%20participating%20west%20side%20cultural%20network%20institutions%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri thru sun: the fourth annual west side fest: workshops, artmaking, special programming, and more across 22 participating west side cultural network institutions."
-    },
-    "skint_88911_2_15th_annual_witchsfest_usa_ye_olde_pagan_street_fair": {
+    "skint_88911_0_15th_annual_witchsfest_usa_ye_olde_pagan_street_fair": {
       "title": "15th annual witchsfest usa – ye olde pagan street faire",
       "type": "market",
       "label": "Festival / Market",
@@ -502,7 +468,7 @@
       "map": "https://maps.google.com/?q=astor%20place%20between%20broadway%20%2B%20lafayette%20st%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-5pm: 15th annual witchsfest usa – ye olde pagan street faire: astor place between broadway + lafayette st."
     },
-    "skint_88911_3_east_williamsburg_art_fair_and_art_crawl_by_the_litt": {
+    "skint_88911_1_east_williamsburg_art_fair_and_art_crawl_by_the_litt": {
       "title": "east williamsburg art fair and art crawl by the little bookshop",
       "type": "market",
       "label": "Festival / Market",
@@ -519,7 +485,7 @@
       "map": "https://maps.google.com/?q=free%20admission%2C%20%2410%20after%20party%20(sat%207pm)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun 11am-6pm: east williamsburg art fair and art crawl by the little bookshop: free admission, $10 after party (sat 7pm)."
     },
-    "skint_88911_4_summer_wellness_bazaar_at_grand_bazaar_nyc": {
+    "skint_88911_2_summer_wellness_bazaar_at_grand_bazaar_nyc": {
       "title": "summer wellness bazaar at grand bazaar nyc",
       "type": "market",
       "label": "Festival / Market",
@@ -536,7 +502,7 @@
       "map": "https://maps.google.com/?q=100%20w%2077th%20st%20at%20columbus%20ave%20(indoors%20%2B%20outdoors)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-5pm: summer wellness bazaar at grand bazaar nyc: 100 w 77th st at columbus ave (indoors + outdoors). free admission."
     },
-    "skint_88911_5_seventh_annual_disability_unite_festival": {
+    "skint_88911_3_seventh_annual_disability_unite_festival": {
       "title": "seventh annual disability unite festival",
       "type": "market",
       "label": "Festival / Market",
@@ -553,7 +519,7 @@
       "map": "https://maps.google.com/?q=central%20park%E2%80%99s%20naumburg%20bandshell%20and%20online%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-6pm: seventh annual disability unite festival: central park’s naumburg bandshell and online."
     },
-    "skint_88911_6_l_alliance_s_annual_bastille_day_celebration": {
+    "skint_88911_4_l_alliance_s_annual_bastille_day_celebration": {
       "title": "l’alliance’s annual bastille day celebration",
       "type": "market",
       "label": "Festival / Market",
@@ -570,7 +536,7 @@
       "map": "https://maps.google.com/?q=madison%20avenue%20from%2059th%20to%2063rd%20streets%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12pm-5pm: l’alliance’s annual bastille day celebration: madison avenue from 59th to 63rd streets."
     },
-    "skint_88911_7_brooklyn_cookie_swap": {
+    "skint_88911_5_brooklyn_cookie_swap": {
       "title": "brooklyn cookie swap",
       "type": "market",
       "label": "Festival / Market",
@@ -587,7 +553,7 @@
       "map": "https://maps.google.com/?q=prospect%20park%20long%20meadow%20(event%20page%20will%20be%20updated%20if%20there%20are%20any%20weather-related%20changes)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 2pm (rescheduled from 6/27 due to weather): brooklyn cookie swap: prospect park long meadow (event page will be updated if there are any weather-related changes)."
     },
-    "skint_88911_8_the_consulate_general_of_france_s_bastille_day_summe": {
+    "skint_88911_6_the_consulate_general_of_france_s_bastille_day_summe": {
       "title": "the consulate general of france’s bastille day summerstage concert",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -603,108 +569,6 @@
       "link": "https://cityparksfoundation.org/events/bastille-day-26/",
       "map": "https://maps.google.com/?q=central%20park%E2%80%99s%20rumsey%20playfield%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 6-10pm: the consulate general of france’s bastille day summerstage concert: central park’s rumsey playfield."
-    },
-    "skint_88911_9_electronica_at_bam": {
-      "title": "electronica at bam",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-07-10",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 07/10 · thru tues",
-      "price": "$17",
-      "free": false,
-      "place": "run lola run, fight club, decoder, go, and more",
-      "source": "The Skint",
-      "link": "https://www.bam.org/film/2026/electronica",
-      "map": "https://maps.google.com/?q=run%20lola%20run%2C%20fight%20club%2C%20decoder%2C%20go%2C%20and%20more%20NYC",
-      "summary": "three film fests / series. Pulled from The Skint's public article feed: fri thru tues: electronica at bam: run lola run, fight club, decoder, go, and more. bam rose cinemas (fort greene), $17 general, $12 seniors."
-    },
-    "skint_88911_10_film_noir_foundation_presents_noir_city_at_the_paris": {
-      "title": "film noir foundation presents: noir city at the paris theater",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-07-10",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Fri, 07/10 · thru 7/19",
-      "price": "$17",
-      "free": false,
-      "place": "‘face the music!,’ a 16-film program of crime and mystery films featuring musicians, plus ‘dead end streets,’ a collection new york noir favorites",
-      "source": "The Skint",
-      "link": "https://www.paristheaternyc.com/series/noir-city-new-york-2026",
-      "map": "https://maps.google.com/?q=%E2%80%98face%20the%20music!%2C%E2%80%99%20a%2016-film%20program%20of%20crime%20and%20mystery%20films%20featuring%20musicians%2C%20plus%20%E2%80%98dead%20end%20streets%2C%E2%80%99%20a%20collection%20new%20york%20noir%20favorites%20NYC",
-      "summary": "three film fests / series. Pulled from The Skint's public article feed: fri thru 7/19: film noir foundation presents: noir city at the paris theater: ‘face the music!,’ a 16-film program of crime and mystery films featuring musicians, plus ‘dead end streets,’ a collection new york noir favorites. $17 general, $15 seniors/students."
-    },
-    "skint_88911_11_25th_new_york_asian_film_festival": {
-      "title": "25th new york asian film festival",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-07-10",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Fri, 07/10 · thru 7/26",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "presented at film at lincoln center, the sva theatre, ifc center, anthology film archives, and the korean cultural center ny",
-      "source": "The Skint",
-      "link": "https://www.nyaff.org",
-      "map": "https://maps.google.com/?q=presented%20at%20film%20at%20lincoln%20center%2C%20the%20sva%20theatre%2C%20ifc%20center%2C%20anthology%20film%20archives%2C%20and%20the%20korean%20cultural%20center%20ny%20NYC",
-      "summary": "three film fests / series. Pulled from The Skint's public article feed: fri thru 7/26: 25th new york asian film festival: presented at film at lincoln center, the sva theatre, ifc center, anthology film archives, and the korean cultural center ny. various prices."
-    },
-    "gary_2026_07_10_ai_briefing_by_startup_grind_c_suite_gap_in_ai_readi": {
-      "title": "AI Briefing By Startup Grind - C-Suite Gap In AI Readiness",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-07-10",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 07/10 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Civic Hall, 124 E 14th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/9k1obj7/AI-Briefing-By-Startup-Grind-C-Suite-Gap-In-AI-Readiness",
-      "map": "https://maps.google.com/?q=Civic%20Hall%2C%20124%20E%2014th%20St",
-      "summary": "Gary's Guide: The AI Briefing is a high-velocity roundtable for decision-makers brought to you by Startup Grind. We bypass the hype by dissecting one high-signal industry deck with a room of vetted founders, operators, & enterprise executives. No lectures-just a 60-minute deep-dive into the tactics & data defining your next quarter. The gap between organizations that have built accountability structures around their AI & those that haven't is now measurable. Revenue growth reaches 58% among fully integrated organizations. Among those still piloting, top-line growth is only 15%. This session uses Grant Thornton's data to examine what it actually means to own an AI investment: who makes decisions, who measures outcomes, & what it costs when leadership can't agree on whether the organization is ready. We'll focus on the C-suite misalignment finding: CIOs & COOs within the same organization hold fundamentally different views on AI readiness, & the data shows that gap is producing real organizational failure."
-    },
-    "gary_2026_07_10_build_ai_customer_agents_that_remember_resolve_issue": {
-      "title": "Build AI Customer Agents That Remember & Resolve Issues",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-07-10",
-      "time": "4:30 PM",
-      "sort": 16.5,
-      "when": "Fri, 07/10 · 4:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/sawvzjw/Build-AI-Customer-Agents-That-Remember-Resolve-Issues",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Bring one real customer conversation use case. Leave with a practical AI pilot plan for chat, voice, WhatsApp, CRM, & human handoff. Join us for a hands-on workshop hosted by Dean from Chanl.AI & Benjamin from Vonage. Most companies don't need another AI demo. They need to know which customer conversations are worth automating, which ones should stay human, & how to launch an AI agent pilot without creating a bad customer experience. In this hands-on workshop, you'll bring one real support, sales, onboarding, scheduling, billing, or service workflow from your business & redesign it for the AI era. Together, we'll map the conversation, identify where AI can help, define the handoff to human teams, choose the right channel, & create a simple pilot plan you can actually use. This is not a coding class - no coding experience needed. It is a practical working session for teams exploring how AI agents can improve customer conversations. What you'll work on Pick the right first customer conversation for AI Create agents for Text or Voice - look at nuances between different channels - chat, voice, WhatsApp, web, or human handoff Map the customer journey from first message to resolution Define what the AI should answer, ask, remember, or escalate Identify the data, knowledge base, CRM, or support tools needed Create test cases for bad answers, escalation failures, & edge cases Define success metrics like resolution rate, response time, CSAT, QA, & cost per contact Leave with a 30-day roadmap for piloting AI agents for your company or startup Who it's for This workshop is designed for: CIOs & technology leaders exploring AI pilots Product managers designing AI-powered workflows CX & support leaders improving customer operations Call center & contact center teams Startup founders building or evaluating voice/chat agents Operators who want practical AI use cases, not hype No coding experience is required. What you'll leave with By the end, you'll have a clear plan for deploying customer conversations agents pilot for your company. Agenda 4:30pm - 5pm arrive & network, pizza & snacks 5:00pm - 7:00pm workshop 7:00pm - 7:30 Network, ask questions, make friends Topics for Workshop 1. What makes a good AI customer conversation A quick teardown of bad bots, useful agents, & strong human handoff. How to monitor agents in real-time, or get alerts. 2. Pick your use case, common use cases for AI Score one real customer conversation based on volume, pain, risk, data readiness, & business value. 3. Map the flow Design what the customer says, what the AI should do, when it should ask questions, & when it should escalate. 4. Choose the channel & agent goals Decide whether the workflow belongs on chat, voice, WhatsApp, web, SMS, or on Slack with your human support team. 5. Design the handoff (Memory) Define when the AI stops, what the human receives, & how the customer avoids repeating themselves. 6. Test before launch Create test cases for hallucinations, policy mistakes, angry customers, missing data, voice interruptions, & failed escalations. 7. Build your 30-day pilot plan Turn the workflow into a simple implementation brief your team can use after the workshop. Hosted by Chanl AI & Fabrik Chanl AI is building infrastructure for AI-powered customer conversations across chat, voice, & human teams."
-    },
-    "gary_2026_07_10_nyc_creative_ai_forum": {
-      "title": "NYC Creative AI Forum",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-07-10",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 07/10 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "ZeroSpace, 337 Butler St, Brooklyn",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/h604p4z/NYC-Creative-AI-Forum",
-      "map": "https://maps.google.com/?q=ZeroSpace%2C%20337%20Butler%20St%2C%20Brooklyn",
-      "summary": "Gary's Guide: With Matt Miller (Comfy Org)."
     },
     "gary_2026_07_11_founder_led_growth_the_content_system_that_brings_cu": {
       "title": "Founder-Led Growth - The Content System That Brings Customers",
@@ -1420,22 +1284,22 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies.nWell have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart.nComplimentary drinks & pizza are on us.nHigh signal, low pressure. Come play poker, jump into games, & spend the night with some of NYCs top engineers, founders, & operators.nLimited seats.nRegistration: require linkedin, company, job title, & include the following multiple choice (single select)nHow would you like to participate?nPoker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in.n*Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi, click Get Hired, & apply.nOptions:nPoker ($100 buy-in, seat not guaranteed)nHang Out & Other GamesnHiring?nWant intros to startups?"
     },
-    "luma_2026_07_11_ai_healthcare_hack_nyc_by_arya_health_twilio_ai_star": {
-      "title": "AI Healthcare Hack NYC - by Arya Health & Twilio AI Startup Searchlight",
+    "gary_2026_08_21_nyc_coffee_club_early_stage_ai_native_founders_funde": {
+      "title": "NYC Coffee Club - Early-Stage AI-Native Founders & Funders",
       "type": "tech",
       "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-07-11",
-      "time": "1:30 PM",
-      "sort": 13.5,
-      "when": "Sat, 07/11 · 1:30pm",
+      "day": "Fri",
+      "date": "2026-08-21",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Fri, 08/21 · 10:00am",
       "price": "Free",
       "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/arya-health-hack",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: localhost:nyc, Somya Gupta, Nikki Hu, Arun kalaiselvan, Anand Chandrasekaran, Sai Seshadri"
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/smyj68e/NYC-Coffee-Club-Early-Stage-AI-Native-Founders-Funders",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Olivia, Alice, Naomi & Lauren (Forum Ventures)."
     },
     "luma_2026_07_12_context_engineering_guild_july_edition": {
       "title": "Context Engineering Guild: July Edition",
@@ -1454,8 +1318,8 @@
       "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
       "summary": "Luma NYC: Context Engineering Guild, Atin Woodard"
     },
-    "luma_2026_07_14_hard_launch_101_for_founders": {
-      "title": "Hard Launch 101 for Founders",
+    "luma_2026_07_14_launch_101_for_founders": {
+      "title": "Launch 101 for Founders",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Tue",
@@ -1470,40 +1334,6 @@
       "link": "https://luma.com/ujbufpkt",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: HARD LAUNCH, jacky (:, Christina Melas-Kyriazi, Andrew Pignanelli"
-    },
-    "jc_culture_40291_2026_07_11_the_world_on_central_watch_party_celebration": {
-      "title": "The World on Central Watch Party & Celebration",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sat",
-      "date": "2026-07-11",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Sat, 07/11 · 3pm",
-      "price": "Free",
-      "free": true,
-      "place": "Central Avenue, 370-437 Central Ave,Jersey, Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/the-world-on-central-2026-saturday/",
-      "map": "https://maps.google.com/?q=Central%20Avenue%2C%20370-437%20Central%20Ave%2CJersey%2C%20Jersey%20City",
-      "summary": "It’s soccer, culture, food, music, and Jersey City energy all in one unforgettable celebration. “The World on Central” will activate one of Jersey City’s most diverse commercial corridors. In partnership with the Central Avenue Special Improvement District (CASID), this event is designed to drive foot traffic, promote local businesses, and position the Jersey City Heights as a regional destination for cultural celebration and economic activity. Saturday, July 11: The World on Central Watch Party & Celebration3:00 PM – Midnight Saturday’s event takes over Central Avenue with a full-scale World Cup watch party and cultural celebration. Watch the quarterfinal double-header on a giant LED wall, then experience a lineup of music, DJs, cultural performances, live art, mural painting, food, and family fun. Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to The World on Central could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time. Parking and Driving Restrictions: Saturday July 11, 2026, 6AM – 11:59PM Emergency No Parking Locations: July 11, 2026 (6AM – 11:59PM) Central Avenue: Bowers Street to Bleeker Street (Both Sides) Thorne Street: Summit Avenue to Central Avenue (Both Side) Bowers Street: Between Central Avenue & Cambridge Avenue (One Side-close to Cambridge) Lot 49 (328-342 Central Avenue): Closed to Public: Valid Permit Holders Only (Vehicles Will Be Towed if Parked at the Above Locations During the Specified Times) Street Closures: July 11, 2026 (9AM – 11:59PM) Central Avenue at Griffith Street: All Traffic Diverted South & East Central Avenue at Lincoln Street: All Traffic Diverted West (Lot49 Closed to Public) Bowers Street at Summit Avenue: Closed to East Bound Traffic Cambridge Avenue at Bowers Street: Closed to West Bound Traffic Charles Street at Central Avenue: Access Closed From Central Avenue Thorne Street at Summit Avenue: Closed to East Bound Traffic South Street at Central Avenue: Access Closed From Central Avenue Bleeker Street at Summit Avenue: Closed to East Bound Traffic Bleeker Street at Passaic Avenue: Closed to East Bound Traffic Central Avenue at Paterson Street: All Traffic Diverted West on Paterson Street (Streets are Expected to Begin Opening on July 12, 2026 at 12AM)"
-    },
-    "jc_culture_40501_2026_07_11_earlybirds_club_jersey_city": {
-      "title": "Earlybirds Club – Jersey City",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-07-11",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sat, 07/11 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "WHITE EAGLE HALL, 337 NEWARK AVE., JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/earlybirds-club-jersey-city/",
-      "map": "https://maps.google.com/?q=WHITE%20EAGLE%20HALL%2C%20337%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
-      "summary": "Join us for an unforgettable night at the **Earlybirds Club – Jersey City**! Set against the vibrant backdrop of White Eagle Hall, this live performance promises to be a celebration of music and community. The venue, known for its warm atmosphere and rich history, will come alive as the Earlybirds Club takes the stage, inviting you to immerse yourself in their captivating sound and infectious energy. Whether you’re a longtime fan or new to their music, this event is the perfect opportunity to connect with fellow music lovers in Jersey City. Don’t miss out on the chance to experience an evening filled with great vibes and unforgettable moments. Grab your friends and secure your spot at the **Earlybirds Club – Jersey City White Eagle Hall**—you won’t want to miss this!"
     },
     "jc_culture_41444_2026_07_12_youth_sunday_2026": {
       "title": "Youth Sunday 2026",
@@ -2235,6 +2065,40 @@
       "link": "https://jerseycityculture.org/event/la-festa-italiana-2026-6/",
       "map": "https://maps.google.com/?q=HOLY%20ROSARY%20CHURCH%2C%20344%206TH%20ST%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
+    },
+    "jc_culture_38058_2026_08_09_jersey_city_summerfest_2026_strangers_stopping_stran": {
+      "title": "Jersey City Summerfest 2026 / Strangers Stopping Strangers",
+      "type": "weird",
+      "label": "Weird / Social",
+      "day": "Sun",
+      "date": "2026-08-09",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Sun, 08/09 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Liberty State Park, North Cove",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-strangers-stopping-strangers/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "&nbsp; JC Summerfest featuring Strangers Stopping Strangers Grateful Dead Band North Cove Field Liberty State Park 6pm-8pm"
+    },
+    "jc_culture_38064_2026_08_11_jersey_city_summerfest_2026_adam_falcon": {
+      "title": "Jersey City Summerfest 2026 / Adam Falcon",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Tue",
+      "date": "2026-08-11",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Tue, 08/11 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Liberty State Park. South Lawn, Freedom Way, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-adam-falcon/",
+      "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
+      "summary": "&nbsp; JC Summerfest featuring Adam Falcon Soul & Blues South Cove Lawn Liberty State Park 6:30pm-8:30pm"
     }
   },
   "clusters": {
@@ -2247,27 +2111,14 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_07_10_10_am": [
-      "skint_88911_1_the_fourth_annual_west_side_fest",
-      "skint_88911_9_electronica_at_bam",
-      "gary_2026_07_10_ai_briefing_by_startup_grind_c_suite_gap_in_ai_readi"
-    ],
     "cluster_2026_07_12_10_am": [
-      "skint_88911_4_summer_wellness_bazaar_at_grand_bazaar_nyc",
+      "skint_88911_2_summer_wellness_bazaar_at_grand_bazaar_nyc",
       "jc_culture_41444_2026_07_12_youth_sunday_2026"
     ],
     "cluster_2026_07_12_6_pm": [
-      "skint_88911_8_the_consulate_general_of_france_s_bastille_day_summe",
+      "skint_88911_6_the_consulate_general_of_france_s_bastille_day_summe",
       "luma_2026_07_12_context_engineering_guild_july_edition",
       "jc_culture_38054_2026_07_12_jersey_city_summerfest_2026_valarie_adams_the_dimens"
-    ],
-    "cluster_2026_07_10_7_pm": [
-      "skint_88911_10_film_noir_foundation_presents_noir_city_at_the_paris",
-      "skint_88911_11_25th_new_york_asian_film_festival"
-    ],
-    "cluster_2026_07_11_1_30_pm": [
-      "gary_2026_07_11_founder_led_growth_the_content_system_that_brings_cu",
-      "luma_2026_07_11_ai_healthcare_hack_nyc_by_arya_health_twilio_ai_star"
     ],
     "cluster_2026_07_14_6_30_pm": [
       "gary_2026_07_14_build_w_ai_meetup",
