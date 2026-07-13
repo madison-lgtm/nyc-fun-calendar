@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 12, 2026, 4:22 PM EDT",
+    "checked": "Jul 13, 2026, 9:12 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-12",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Jul 12"
-      },
       {
         "iso": "2026-07-13",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Jul 18"
+      },
+      {
+        "iso": "2026-07-19",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Jul 19"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-12",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Jul 12"
-      },
       {
         "iso": "2026-07-13",
         "key": "Mon",
@@ -233,14 +227,21 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Aug 11"
+      },
+      {
+        "iso": "2026-08-12",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Aug 12"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
       "7 AM",
       "8 AM",
       "8:30 AM",
       "9 AM",
+      "9:30 AM",
       "10 AM",
       "11 AM",
       "11:30 AM",
@@ -259,7 +260,8 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
-      "9 PM"
+      "9 PM",
+      "11 PM"
     ]
   },
   "events": {
@@ -450,41 +452,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_88911_0_15th_annual_witchsfest_usa_ye_olde_pagan_street_fair": {
-      "title": "15th annual witchsfest usa – ye olde pagan street faire",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-07-11",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 07/11 · 10am-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "astor place between broadway + lafayette st",
-      "source": "The Skint",
-      "link": "https://witchsfestusa.org/",
-      "map": "https://maps.google.com/?q=astor%20place%20between%20broadway%20%2B%20lafayette%20st%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-5pm: 15th annual witchsfest usa – ye olde pagan street faire: astor place between broadway + lafayette st."
-    },
-    "skint_88911_1_east_williamsburg_art_fair_and_art_crawl_by_the_litt": {
-      "title": "east williamsburg art fair and art crawl by the little bookshop",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-07-11",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 07/11 · + sun 11am-6pm",
-      "price": "Free",
-      "free": true,
-      "place": "free admission, $10 after party (sat 7pm)",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/east-williamsburg-art-fair-and-art-crawl-by-the-little-bookshop-tickets-1736179883769",
-      "map": "https://maps.google.com/?q=free%20admission%2C%20%2410%20after%20party%20(sat%207pm)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun 11am-6pm: east williamsburg art fair and art crawl by the little bookshop: free admission, $10 after party (sat 7pm)."
-    },
-    "skint_88911_2_summer_wellness_bazaar_at_grand_bazaar_nyc": {
+    "skint_88911_0_summer_wellness_bazaar_at_grand_bazaar_nyc": {
       "title": "summer wellness bazaar at grand bazaar nyc",
       "type": "market",
       "label": "Festival / Market",
@@ -501,7 +469,7 @@
       "map": "https://maps.google.com/?q=100%20w%2077th%20st%20at%20columbus%20ave%20(indoors%20%2B%20outdoors)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-5pm: summer wellness bazaar at grand bazaar nyc: 100 w 77th st at columbus ave (indoors + outdoors). free admission."
     },
-    "skint_88911_3_seventh_annual_disability_unite_festival": {
+    "skint_88911_1_seventh_annual_disability_unite_festival": {
       "title": "seventh annual disability unite festival",
       "type": "market",
       "label": "Festival / Market",
@@ -518,7 +486,7 @@
       "map": "https://maps.google.com/?q=central%20park%E2%80%99s%20naumburg%20bandshell%20and%20online%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-6pm: seventh annual disability unite festival: central park’s naumburg bandshell and online."
     },
-    "skint_88911_4_l_alliance_s_annual_bastille_day_celebration": {
+    "skint_88911_2_l_alliance_s_annual_bastille_day_celebration": {
       "title": "l’alliance’s annual bastille day celebration",
       "type": "market",
       "label": "Festival / Market",
@@ -535,7 +503,7 @@
       "map": "https://maps.google.com/?q=madison%20avenue%20from%2059th%20to%2063rd%20streets%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12pm-5pm: l’alliance’s annual bastille day celebration: madison avenue from 59th to 63rd streets."
     },
-    "skint_88911_5_brooklyn_cookie_swap": {
+    "skint_88911_3_brooklyn_cookie_swap": {
       "title": "brooklyn cookie swap",
       "type": "market",
       "label": "Festival / Market",
@@ -552,7 +520,7 @@
       "map": "https://maps.google.com/?q=prospect%20park%20long%20meadow%20(event%20page%20will%20be%20updated%20if%20there%20are%20any%20weather-related%20changes)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 2pm (rescheduled from 6/27 due to weather): brooklyn cookie swap: prospect park long meadow (event page will be updated if there are any weather-related changes)."
     },
-    "skint_88911_6_the_consulate_general_of_france_s_bastille_day_summe": {
+    "skint_88911_4_the_consulate_general_of_france_s_bastille_day_summe": {
       "title": "the consulate general of france’s bastille day summerstage concert",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -568,23 +536,6 @@
       "link": "https://cityparksfoundation.org/events/bastille-day-26/",
       "map": "https://maps.google.com/?q=central%20park%E2%80%99s%20rumsey%20playfield%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 6-10pm: the consulate general of france’s bastille day summerstage concert: central park’s rumsey playfield."
-    },
-    "gary_2026_07_12_creationship_sundays_ai_for_creative_good": {
-      "title": "Creationship Sundays - AI For Creative Good",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-07-12",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Sun, 07/12 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Caravan Of Dreams, 405 E 6th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/hmjs43g/Creationship-Sundays-AI-For-Creative-Good",
-      "map": "https://maps.google.com/?q=Caravan%20Of%20Dreams%2C%20405%20E%206th%20St",
-      "summary": "Gary's Guide: A weekly imagine-a-thon for creative good. Come build the next generation of ideas this world needs. Sunday evenings, the back room of a vegan restaurant on East 6th Street fills with people drawn to the intersection of positive social change & new technology. Four hours later, we've met each other, ideated together, & built something real. Some teams form for the night. Some keep meeting, sunday after sunday, building what belongs in the future we want to live in. We don't curate the guest list. Past weeks brought together a founder, a prompt engineer, a doula, a muralist, & someone restoring old radios. The room simply takes the shape of whoever shows up. One tool we use is Vibecoding: our new capacity, with AI, to build applications & digital projects with natural language in the form of text prompts. That said, there are many ways to create & create with others. How the evening unfolds: A community member shares something they can't stop thinking about, teaches a concept or a possible solution to a social conundrum, leads us through an activity that might be valuable to us individually & collectively. Then, we pitch our half-formed projects. Teams form naturally around whatever sparks each person's interest. For the rest of the time, we build, we nosh, & we share what we made. What we're actually doing: We are practicing prototyping & building new worlds. The world outside is largely playing a finite game, optimizing for extraction, scale, & speed. In this room, we step out of that. We practice creative attention, trust, & infinite thinking. We focus fiercely on one thing, alongside people who think nothing like us. The work is sitting shoulder to shoulder with erstwhile strangers (who become community members), sharing our imagination, & building something better together. The relationships that come from this-we call them creationships. Each week looks a little bit different. This week #14: Please try to arrive on time! How a Sunday goes 4:30 - doors open, settle in, say hello, order something 5:00 - opening share / activity 5:30 - intros & form projects groups for the day 6:00 - explore, make, create something 8:00 - show-and-tell You leave inspired, a little changed, & with people you'll see again. Some things we're making here Kula - a gifting platform Vibe Cadaver - an exquisite-corpse game Kitty Social - a shared fund Ocean Agentics - a high seas treaty site NotAmazon - local alternatives Whoever shows up is who the afternoon is for. The room shapes itself around the people in it. Come as you are. Hosted by Dear Crisis dearcrisis.com"
     },
     "gary_2026_07_13_learn_to_build_w_ai": {
       "title": "Learn To Build w/ AI",
@@ -688,8 +639,8 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Rooftop drinks at sunset for NYC founders, operators, & creators. A curated Tuesday evening for people building in NYC's startup ecosystem. Small room, good energy, real conversation, & drinks above the city. Recap from last time: Whether you're shipping your first product, scaling a team, building in AI, B2B, fintech, consumer, media, or figuring out what's next: This is a room of people who get it. Who this is for: Early-stage founders, operators & creators With friends from: YC, a16z Speedrun, a16z, Samsung Ventures, xAI, Meta, ElevenLabs, TikTok, Stripe, NVentures, Baseten, Brex, Clay, Legora, & more. Hosted by: Stephan Rihs (Building @Veynor, Founder @Rihs Ventures, ex-YC, Coinbase & BCG) Community Guidelines: Be humble, be kind. Engage in authentic peer-to-peer conversation. Share, & listen with intent. No pitching, selling, or soliciting. Subscribe to our community to receive updates on future events"
     },
-    "gary_2026_07_15_agentic_world_cup_nyc_build_ai_agents_that_play_socc": {
-      "title": "Agentic World Cup NYC - Build AI Agents That Play Soccer",
+    "gary_2026_07_15_agentic_world_cup_build_ai_agents_that_play_soccer": {
+      "title": "Agentic World Cup - Build AI Agents That Play Soccer",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Wed",
@@ -701,9 +652,9 @@
       "free": true,
       "place": "Venue, 7 W 34th St",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/678ffgp/Agentic-World-Cup-NYC-Build-AI-Agents-That-Play-Soccer",
+      "link": "https://www.garysguide.com/events/678ffgp/Agentic-World-Cup-Build-AI-Agents-That-Play-Soccer",
       "map": "https://maps.google.com/?q=Venue%2C%207%20W%2034th%20St",
-      "summary": "Gary's Guide: With Yaniv Donenfeld (Principal Technologist, AWS Startups), Li Dai (Startup Solns Architect, Amazon Web Services (AWS))."
+      "summary": "Gary's Guide: With Yaniv Donenfeld (Principal Technologist, Amazon AWS Startups), Li Dai (Startup Solns Architect, Amazon AWS)."
     },
     "gary_2026_07_15_quantum_frontiers_responsible_ai_global_dialogue_on_": {
       "title": "Quantum Frontiers & Responsible AI - Global Dialogue On Emerging Tech",
@@ -1026,7 +977,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/hwqrt3j/Sound-Movement-Music-Hackathon",
       "map": "https://maps.google.com/?q=Fractal%20Tech%2C%20111%20Conselyea%20St%2C%202nd%20Fl%2C%20Brooklyn",
-      "summary": "Gary's Guide: Come spend a day exploring the interplay between sound & movement, & building new ways to create music through gesture & dance! We'll be kicking off at noon with artist talks for inspiration, followed by an afternoon of experimentation & collaboration, ending with open presentations at 7:30pm. Start a new project or bring a work in progress, meet new collaborators & exchange information & techniques with the community. As always, FREE with RSVP! Sunday, July 19, 2026 at noon 12:00 - Artist talks 2:00 - Workshop 7:30 - Open Presentations Guest speakers: Kate Sicchio Live Coding Choreography: Computation, Algorithms & Movement Moira Zhang Hands as Instruments: An Intro to Hand-Gesture Tools for Live Performance Kwami Winfield Extended Techniques for Prepared No-Input Mixer: Noise Synthesis Defined by Severe Over-Stress of Circuitry Workshop by Ganling Zhou Presented by Music Community Lab"
+      "summary": "Gary's Guide: Presented by Music Community Lab."
     },
     "gary_2026_07_21_my_worst_day_as_a_cfo_lessons_that_changed_how_i_lea": {
       "title": "My Worst Day As A CFO - Lessons That Changed How I Lead",
@@ -1147,6 +1098,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Zakir Tyebjee.(Founder, Stride)."
     },
+    "gary_2026_07_22_ai_pitch_blitz_1k_cash_drop_rooftop_edition": {
+      "title": "AI Pitch Blitz - $1k Cash Drop Rooftop Edition",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-22",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Wed, 07/22 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Verci Flatiron, 45 E 20th St, 12th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/o7vfjxr/AI-Pitch-Blitz-1k-Cash-Drop-Rooftop-Edition",
+      "map": "https://maps.google.com/?q=Verci%20Flatiron%2C%2045%20E%2020th%20St%2C%2012th%20Fl",
+      "summary": "Gary's Guide: With 1PB.org (One Percent Back)."
+    },
     "gary_2026_07_22_dev_ai_nyc": {
       "title": "Dev AI NYC",
       "type": "tech",
@@ -1181,6 +1149,57 @@
       "map": "https://maps.google.com/?q=St%20Pat's%20Bar%20%26%20Grill%2C%2022%20W%2046th%20St",
       "summary": "Gary's Guide: Join a curated startup networking event in New York bringing together founders, investors, operators, engineers, & startup professionals for an evening of meaningful conversations & valuable connections. Unlike traditional networking events, the focus is on real discussions, practical insights, & opportunities that extend beyond the event itself. The evening includes: Structured networking sessions covering fundraising, product development, hiring, go-to-market strategy, & startup growth. Startup pitches featuring selected founders presenting their companies to investors, operators, & experienced entrepreneurs. Open networking sessions designed to help attendees build relationships & continue conversations. Attendees include: Startup founders from pre-seed to Series A Angel investors & venture capital professionals Product managers, engineers, & startup operators Recruiters & hiring leaders Sales & business development professionals Entrepreneurs building in AI, SaaS, FinTech, & emerging technologies Selected startups will have the opportunity to pitch their companies & receive feedback from investors & experienced founders. Investor participation is complimentary upon approval. Hosted by Ascent Valley, a global community connecting founders, investors, & operators through events, networking, & startup initiatives. Whether you are building a company, seeking investment opportunities, hiring talent, or expanding your network, this event offers an opportunity to connect with New York's startup ecosystem."
     },
+    "gary_2026_07_22_pioneering_minds_ai_pitching_masterclass": {
+      "title": "Pioneering Minds AI - Pitching Masterclass",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-22",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 07/22 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/hqv7b4k/Pioneering-Minds-AI-Pitching-Masterclass",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Ben Schwartz (Founder/CEO, Tavern Community), Anthony Rose (CTO, BBC iPlayer)."
+    },
+    "gary_2026_07_22_ai_native_women_beauty_health_wellness": {
+      "title": "Ai-Native Women - Beauty, Health, Wellness",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-22",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 07/22 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "G-Gallery, 404 Broadway, 2nd Fl, Chinatown",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/280m6mg/Ai-Native-Women-Beauty-Health-Wellness",
+      "map": "https://maps.google.com/?q=G-Gallery%2C%20404%20Broadway%2C%202nd%20Fl%2C%20Chinatown",
+      "summary": "Gary's Guide: With Sterling Jones (Founder, The Beaut Study),, Chard Anglin (Founder, Triple Eight Creative), Meredith Goodman (Maquillar Studio), Fabliha Chowdhury (Beauty & Retail)."
+    },
+    "gary_2026_07_22_ai_native_fintech_happy_hour": {
+      "title": "AI-Native FinTech Happy Hour",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-22",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Wed, 07/22 · 7:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/w1e4tl7/AI-Native-FinTech-Happy-Hour",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Comma Capital, Revamp, Valyu."
+    },
     "gary_2026_07_23_climate_data_science": {
       "title": "Climate Data Science",
       "type": "tech",
@@ -1198,6 +1217,23 @@
       "map": "https://maps.google.com/?q=Columbia%20Innovation%20Hub%2C%202276%2012th%20Ave%2C%20Tang%20Family%20Hall",
       "summary": "Gary's Guide: With Ann Lee (Prof., Carnegie Mellon Univ.)."
     },
+    "gary_2026_07_23_setting_the_standard_how_ai_redefining_excellence_ac": {
+      "title": "Setting The Standard - How AI Redefining Excellence Across Industries",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-23",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Thu, 07/23 · 5:00pm",
+      "price": "$15",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/r8tumxg/Setting-The-Standard-How-AI-Redefining-Excellence-Across-Industries",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With founders Tony Henry (99 Yards), Julie Coin (Midnighties), Zhanna Alekseeva (Fits), Lucia Lu (Breakline Society), Kimberly Morgan (Fashion Tech Exec), Ned Lomigora (387 Labs)."
+    },
     "gary_2026_07_23_ai_engineers_devs_drinks": {
       "title": "AI Engineers - Devs & Drinks",
       "type": "tech",
@@ -1214,6 +1250,23 @@
       "link": "https://www.garysguide.com/events/0ynu2hw/AI-Engineers-Devs-Drinks",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Drinks, games & hanging out w/ engg peers."
+    },
+    "gary_2026_07_24_hello_robot_hackathon": {
+      "title": "Hello, Robot! Hackathon",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-07-24",
+      "time": "9:30 AM",
+      "sort": 9.5,
+      "when": "Fri, 07/24 · 9:30am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/eye9rtn/Hello-Robot-Hackathon",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Viam & South Park Commons."
     },
     "gary_2026_07_24_nyc_coffee_club_taking_the_leap_industry_vets_who_le": {
       "title": "[NYC Coffee Club] Taking The Leap - Industry Vets Who Left To Build",
@@ -1249,91 +1302,6 @@
       "map": "https://maps.google.com/?q=EqualSpace%2C%20550%20Broad%20St%2C%20Newark",
       "summary": "Gary's Guide: Calling all New Jersey techies to the monthly NJ Code & Coffee tech community meetup at the EqualSpace ES550 Tech & Innovation campus! Code & Coffee is an inclusive, informal networking/co-working session for those in tech (and the tech-curious). That includes operators, founders, & investors. Developers, data engineers, UX/UI designers, data scientists, product managers, software engineers, solution architects... all are welcome! People of all skill & experience levels can attend, we love it that way. Many people (optionally) bring projects to work on, & many other people (optionally) socialize the entire time. It's entirely up to you! Come grab a cup of coffee & meet new people, share stories, find collaborators, talk about everything tech, talk about everything NOT tech, take a break from job applications, get away from the computer screen, make connections, make conversation, make friends! Agenda: 2pm: Doors open, networking starts 2:30pm: Intro circle 3pm: networking continues 5pm: event ends The Intro Circle Near the beginning of the event (about 2:30 pm), we will do a standup in a circle: We first talk about organizer announcements, updates, & logistics. Then we go around the circle where each person says: *your name & job title/ role in tech/ tech stack, What you can help others with, *What you would like help with, Job opportunities you're hiring for OR announce that you are looking for one. If none, that's cool. After the introduction circle, everything is self-organized. Community Discord - come hang out before & after!: www.codeandcoffee.chat The Venue Equal Space is a premium share-space created with multicultural business owners in mind, =SPACE equips founders with resources, programming & a powerful network. Headquartered in the City of Newark, their share-space provides resources for startups, coaching for tech companies, & a wealth of intellectuals to collaborate & build with. The next wave in enterprises is being born within their walls. Become a part of the story: [EqualSpace.co/](https://equalspace.co/)"
     },
-    "gary_2026_07_25_creator_mixer": {
-      "title": "Creator Mixer",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sat",
-      "date": "2026-07-25",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sat, 07/25 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Avenida, 1 Penn Plaza",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/lzxymdf/Creator-Mixer",
-      "map": "https://maps.google.com/?q=Avenida%2C%201%20Penn%20Plaza",
-      "summary": "Gary's Guide: With Content Creators Exchange, Social Rising, IRL Ventures."
-    },
-    "gary_2026_07_27_b2b_ai_founders_investors_meetup": {
-      "title": "B2B - AI Founders & Investors Meetup",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-07-27",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 07/27 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/srg4k9c/B2B-AI-Founders-Investors-Meetup",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: NYC B2B is the premier community for B2B Founders, Operators, & Investors in NYC. NYC B2B often hosts happy hour events for founders, builders, & investors based in NYC. This is an exclusive event for B2B AI founders & investors. Want to sponsor this event? Email: newyorkcityventures@gmail.com This meetup is hosted by NYC B2B. It's a great way to meet other founders, builders, & investors. Whether you're building a company, exploring a side project, or considering a new idea, we would love to have you here. NYC B2B has previously hosted events for thousands of B2B startup founders + operators in NYC across Vertical SaaS, AI, FinTech, Healthcare, DevTools, Infrastructure, & more. By signing up, you are confirming your interest in hearing about more events from NYC B2B in the future via email! NYC B2B also helps connect those who sign up with awesome partners. Note: This is a 21+ event. Please let our team know in advance if you'd like to bring a guest, as unregistered +1s will not be admitted. Attendees who disregard this policy may not be invited to future NYC B2B events. - Hiring or looking for jobs? startupjobs.nyc"
-    },
-    "gary_2026_07_28_junto_founder_dinner": {
-      "title": "Junto Founder Dinner",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-07-28",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 07/28 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/hkicv28/Junto-Founder-Dinner",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Hi, Andrew Yeung here. We started the Junto Founder Dinner series two years ago to bring together the top founders + builders. Each month, we invite 24 vetted early-stage founders & CEOs for a 3-hour, multiple-course dinner experience. What to expect: A 3-course meal, courtesy of our partners Conversations with fellow high-performing startup leaders A dinner experience designed to facilitate new connections & conversations, with rotating 6-person table formats Meaningful connections with ambitious peers solving similar problems If you're wondering how our dinners usually go... read this Our only intent is to bring good, smart humans together. Details: Date: July 28, 2026 Time: 6:00pm - 8:30pm Venue: Private Dinner Club in NYC Past attendees of my events include the founders/C-suite of Venmo, Duolingo, Foursquare, Lyft, Goldman Sachs, Compass, Superhuman, Yext, OpenDoor, Chief, LearnVest, DocSend, Vercel, Loom, Morning Brew, The Hustle, Gas, Teachable, Replit, Twitter, Slack, Pinterest, Yahoo, MongoDB, Business Insider, Wonder, Hinge. Apply to join by filling out the RSVP form."
-    },
-    "gary_2026_07_29_leaders_in_product_fintech_insights": {
-      "title": "Leaders In Product - Fintech Insights",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-07-29",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 07/29 · 6:00pm",
-      "price": "$45",
-      "free": false,
-      "place": "BrainStation, 136 Crosby St, 4th Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/4apadtj/Leaders-In-Product-Fintech-Insights",
-      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
-      "summary": "Gary's Guide: With Sam Farnham (Lead Product, PayPal), Shivali Khetan (Dir., JPMorgan Chase)."
-    },
-    "gary_2026_07_31_tech_happy_hour_by_startup_grind": {
-      "title": "Tech Happy Hour By Startup Grind",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-07-31",
-      "time": "7 AM",
-      "sort": 7,
-      "when": "Fri, 07/31 · 7:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Time Out Market Union Sq, 124 E 14th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/s3t8r9v/Tech-Happy-Hour-By-Startup-Grind",
-      "map": "https://maps.google.com/?q=Time%20Out%20Market%20Union%20Sq%2C%20124%20E%2014th%20St",
-      "summary": "Gary's Guide: No pitches. No presentations. No agenda. This is our monthly tech mixer to connect with peers across the NYC tech & startup community - from founders & VCs to developers & designers. A happy hour for real conversations."
-    },
     "luma_2026_07_14_launch_101_for_founders": {
       "title": "Launch 101 for Founders",
       "type": "startup",
@@ -1351,56 +1319,22 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: HARD LAUNCH, jacky (:, Christina Melas-Kyriazi, Andrew Pignanelli"
     },
-    "jc_culture_41444_2026_07_12_youth_sunday_2026": {
-      "title": "Youth Sunday 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-07-12",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 07/12 · 10am",
-      "price": "Free / varies",
+    "luma_2026_07_15_founders_basketball_new_york_city_july_2026": {
+      "title": "Founders Basketball New York City (July 2026)",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-15",
+      "time": "11 PM",
+      "sort": 23,
+      "when": "Wed, 07/15 · 11pm",
+      "price": "Free",
       "free": true,
-      "place": "MT. PISGAH CHURCH, 354 FORREST STREET, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/youth-sunday-2026/",
-      "map": "https://maps.google.com/?q=MT.%20PISGAH%20CHURCH%2C%20354%20FORREST%20STREET%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
-    },
-    "jc_culture_38243_2026_07_12_repair_cafe_2026": {
-      "title": "Repair Cafe 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-07-12",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 07/12 · 1pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Grace Church Van Vorst, 39 Erie Street, Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/repair-cafe-2026/",
-      "map": "https://maps.google.com/?q=Grace%20Church%20Van%20Vorst%2C%2039%20Erie%20Street%2C%20Jersey%20City",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
-    },
-    "jc_culture_38054_2026_07_12_jersey_city_summerfest_2026_valarie_adams_the_dimens": {
-      "title": "Jersey City Summerfest 2026 / Valarie Adams & the Dimension Band",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sun",
-      "date": "2026-07-12",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sun, 07/12 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Liberty State Park, North Cove",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-valerie-adams-the-dimension-band/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "&nbsp; JC Summerfest featuring Valarie Adams & the Dimension Band (Soul, Motown, Jazz, Funk) North Cove Field Liberty State Park 6pm-8pm"
+      "place": "Brooklyn, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/1u5c7u7d",
+      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
+      "summary": "Luma NYC: New Edition Events, Brandon Blum, Aaron Silverberg, Brian Lewis"
     },
     "jc_culture_38061_2026_07_14_jersey_city_summerfest_2026_the_outcrops": {
       "title": "Jersey City Summerfest 2026 / The Outcrops",
@@ -2115,6 +2049,40 @@
       "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-adam-falcon/",
       "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
       "summary": "&nbsp; JC Summerfest featuring Adam Falcon Soul & Blues South Cove Lawn Liberty State Park 6:30pm-8:30pm"
+    },
+    "jc_culture_10003563_2026_08_12_hamilton_park_farmers_market_2026": {
+      "title": "Hamilton Park Farmers Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-08-12",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 08/12 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-08-12/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_38074_2026_08_13_jersey_city_summerfest_2026_power_2_inspire_all_star": {
+      "title": "Jersey City Summerfest 2026 / Power 2 Inspire All Stars",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Thu",
+      "date": "2026-08-13",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 08/13 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Berry Lane Park, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-power-2-inspire-all-stars/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "&nbsp; JC Summerfest featuring Power 2 Inspire All Stars Berry Lane Park 6:30pm-8:30pm"
     }
   },
   "clusters": {
@@ -2126,14 +2094,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_07_12_10_am": [
-      "skint_88911_2_summer_wellness_bazaar_at_grand_bazaar_nyc",
-      "jc_culture_41444_2026_07_12_youth_sunday_2026"
-    ],
-    "cluster_2026_07_12_6_pm": [
-      "skint_88911_6_the_consulate_general_of_france_s_bastille_day_summe",
-      "jc_culture_38054_2026_07_12_jersey_city_summerfest_2026_valarie_adams_the_dimens"
     ],
     "cluster_2026_07_14_6_30_pm": [
       "gary_2026_07_14_build_w_ai_meetup",
@@ -2170,7 +2130,13 @@
     ],
     "cluster_2026_07_22_5_30_pm": [
       "gary_2026_07_22_lenny_s_newsletter_meetup",
+      "gary_2026_07_22_ai_pitch_blitz_1k_cash_drop_rooftop_edition",
       "gary_2026_07_22_dev_ai_nyc"
+    ],
+    "cluster_2026_07_22_6_pm": [
+      "gary_2026_07_22_startup_founders_investors_talent_mixer",
+      "gary_2026_07_22_pioneering_minds_ai_pitching_masterclass",
+      "gary_2026_07_22_ai_native_women_beauty_health_wellness"
     ],
     "cluster_2026_07_25_2_pm": [
       "gary_2026_07_25_nj_code_coffee",
