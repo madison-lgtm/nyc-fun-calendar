@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 13, 2026, 9:12 AM EDT",
+    "checked": "Jul 13, 2026, 4:39 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -241,7 +241,6 @@
       "8 AM",
       "8:30 AM",
       "9 AM",
-      "9:30 AM",
       "10 AM",
       "11 AM",
       "11:30 AM",
@@ -1047,6 +1046,40 @@
       "map": "https://maps.google.com/?q=Midtown%20Manhattan%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Hosted by The AI Furnace."
     },
+    "gary_2026_07_21_how_to_build_happier_more_connected_workplace_in_age": {
+      "title": "How to Build Happier, More Connected Workplace In Age Of AI",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-07-21",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 07/21 · 6:00pm",
+      "price": "Varies",
+      "free": false,
+      "place": "Fabrik, 12-16 Vestry St, 4th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/spz4udk/How-to-Build-Happier-More-Connected-Workplace-In-Age-Of-AI",
+      "map": "https://maps.google.com/?q=Fabrik%2C%2012-16%20Vestry%20St%2C%204th%20Fl",
+      "summary": "Gary's Guide: With Nidhi Tewari (Author, Working Well)."
+    },
+    "gary_2026_07_21_the_shortlist_july_founder_showcase": {
+      "title": "The Shortlist - July Founder Showcase",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-07-21",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 07/21 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/mixlgpm/The-Shortlist-July-Founder-Showcase",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: The Shortlist NYC - July Founder Showcase (#6) The Shortlist is back for our monthly Founder Showcase & the room keeps getting better. This is a monthly curated, application-only evening connecting early-stage founders with exceptional operators across New York. No panels. No pitches to VCs. Just six founders building breakout companies, a room full of people who've built things themselves, & the kind of candid conversation you don't get at most events. Each founder will share what they're building, why it matters, & the specific roles they're actively hiring for right now - followed by a mixer. What to expect: Founders presenting at the seed through Series B stage. Operators, builders, & executives who've seen what good looks like. An intentionally small room designed for real connection. Who this is for: Exceptional operators - whether you're actively exploring your next role, casually curious, or simply want to stay close to what's being built in NYC right now. Founders will be announced in the days leading up to the event. Attendance is intentionally limited. Apply to be considered. More information on The Shortlist can be found here. Founded by Andrew Yeung & Ivor Straford."
+    },
     "gary_2026_07_22_table_solns_for_founders": {
       "title": "Table - Solns For Founders",
       "type": "startup",
@@ -1251,56 +1284,22 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Drinks, games & hanging out w/ engg peers."
     },
-    "gary_2026_07_24_hello_robot_hackathon": {
-      "title": "Hello, Robot! Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-07-24",
-      "time": "9:30 AM",
-      "sort": 9.5,
-      "when": "Fri, 07/24 · 9:30am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/eye9rtn/Hello-Robot-Hackathon",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Viam & South Park Commons."
-    },
-    "gary_2026_07_24_nyc_coffee_club_taking_the_leap_industry_vets_who_le": {
-      "title": "[NYC Coffee Club] Taking The Leap - Industry Vets Who Left To Build",
+    "gary_2026_07_24_founder_strength_club_hosted_by_andrew_friends": {
+      "title": "Founder Strength Club (Hosted by Andrew & Friends)",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Fri",
       "date": "2026-07-24",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 07/24 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Fri, 07/24 · 9:00am",
+      "price": "Varies",
+      "free": false,
+      "place": "Premier Gym in New York, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/g869sua/-NYC-Coffee-Club-Taking-The-Leap-Industry-Vets-Who-Left-To-Build",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Olivia, Alice, Naomi & Lauren (Forum Ventures)."
-    },
-    "gary_2026_07_25_nj_code_coffee": {
-      "title": "NJ Code & Coffee",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-07-25",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sat, 07/25 · 2:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "EqualSpace, 550 Broad St, Newark",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/3fglviy/NJ-Code-Coffee",
-      "map": "https://maps.google.com/?q=EqualSpace%2C%20550%20Broad%20St%2C%20Newark",
-      "summary": "Gary's Guide: Calling all New Jersey techies to the monthly NJ Code & Coffee tech community meetup at the EqualSpace ES550 Tech & Innovation campus! Code & Coffee is an inclusive, informal networking/co-working session for those in tech (and the tech-curious). That includes operators, founders, & investors. Developers, data engineers, UX/UI designers, data scientists, product managers, software engineers, solution architects... all are welcome! People of all skill & experience levels can attend, we love it that way. Many people (optionally) bring projects to work on, & many other people (optionally) socialize the entire time. It's entirely up to you! Come grab a cup of coffee & meet new people, share stories, find collaborators, talk about everything tech, talk about everything NOT tech, take a break from job applications, get away from the computer screen, make connections, make conversation, make friends! Agenda: 2pm: Doors open, networking starts 2:30pm: Intro circle 3pm: networking continues 5pm: event ends The Intro Circle Near the beginning of the event (about 2:30 pm), we will do a standup in a circle: We first talk about organizer announcements, updates, & logistics. Then we go around the circle where each person says: *your name & job title/ role in tech/ tech stack, What you can help others with, *What you would like help with, Job opportunities you're hiring for OR announce that you are looking for one. If none, that's cool. After the introduction circle, everything is self-organized. Community Discord - come hang out before & after!: www.codeandcoffee.chat The Venue Equal Space is a premium share-space created with multicultural business owners in mind, =SPACE equips founders with resources, programming & a powerful network. Headquartered in the City of Newark, their share-space provides resources for startups, coaching for tech companies, & a wealth of intellectuals to collaborate & build with. The next wave in enterprises is being born within their walls. Become a part of the story: [EqualSpace.co/](https://equalspace.co/)"
+      "link": "https://www.garysguide.com/events/p5lnpd3/Founder-Strength-Club-Hosted-by-Andrew-Friends",
+      "map": "https://maps.google.com/?q=Premier%20Gym%20in%20New%20York%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Hi, Andrew Yeung here. We started the Junto Founder Dinner series two years ago to bring together the top founders + builders. This time, we're doing something a little different. Instead of a seated breakfast, we're bringing together 24 vetted early-stage founders and CEOs for a private strength-based networking experience at a premier gym in New York. The session will be a 60-minute group workout class designed specifically to help ambitious founders connect in a more active, energizing environment. Expect a moderate-intensity strength class that is approachable for different fitness levels, but still requires the ability to participate in a full physical training session. After class, we'll have time to cool down, connect, and continue conversations with fellow high-performing startup leaders. What to expect: A private group strength class at a premier gym in New York Conversations with fellow ambitious founders, CEOs, and builders A post-class networking moment to meet peers solving similar problems Our only intent is to bring good, smart humans together - this time, with a little sweat involved. Details: Date: July 24, 2026 Time: 9:00am - 11:00am Venue: Premier Gym in New York Please note: This experience includes a physical group training class. You should be comfortable participating in approximately 60 minutes of moderate-intensity exercise. Apply to join by filling out the RSVP form."
     },
     "luma_2026_07_14_launch_101_for_founders": {
       "title": "Launch 101 for Founders",
@@ -2126,7 +2125,9 @@
     ],
     "cluster_2026_07_21_6_pm": [
       "gary_2026_07_21_stripe_developer_meetup",
-      "gary_2026_07_21_ai_founders_supper_club"
+      "gary_2026_07_21_ai_founders_supper_club",
+      "gary_2026_07_21_how_to_build_happier_more_connected_workplace_in_age",
+      "gary_2026_07_21_the_shortlist_july_founder_showcase"
     ],
     "cluster_2026_07_22_5_30_pm": [
       "gary_2026_07_22_lenny_s_newsletter_meetup",
@@ -2137,10 +2138,6 @@
       "gary_2026_07_22_startup_founders_investors_talent_mixer",
       "gary_2026_07_22_pioneering_minds_ai_pitching_masterclass",
       "gary_2026_07_22_ai_native_women_beauty_health_wellness"
-    ],
-    "cluster_2026_07_25_2_pm": [
-      "gary_2026_07_25_nj_code_coffee",
-      "jc_culture_41405_2026_07_25_heights_free_market_2026"
     ]
   }
 }
