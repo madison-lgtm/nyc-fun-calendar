@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 13, 2026, 4:39 PM EDT",
+    "checked": "Jul 14, 2026, 8:05 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-13",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Jul 13"
-      },
       {
         "iso": "2026-07-14",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Jul 19"
+      },
+      {
+        "iso": "2026-07-20",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Jul 20"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-13",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Jul 13"
-      },
       {
         "iso": "2026-07-14",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Aug 12"
+      },
+      {
+        "iso": "2026-08-13",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Aug 13"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "7 AM",
       "8 AM",
@@ -450,91 +450,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "skint_88911_0_summer_wellness_bazaar_at_grand_bazaar_nyc": {
-      "title": "summer wellness bazaar at grand bazaar nyc",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-07-12",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 07/12 · 10am-5pm",
-      "price": "Free admission",
-      "free": true,
-      "place": "100 w 77th st at columbus ave (indoors + outdoors)",
-      "source": "The Skint",
-      "link": "https://grandbazaarnyc.org/events/summer-wellness-bazaar/",
-      "map": "https://maps.google.com/?q=100%20w%2077th%20st%20at%20columbus%20ave%20(indoors%20%2B%20outdoors)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-5pm: summer wellness bazaar at grand bazaar nyc: 100 w 77th st at columbus ave (indoors + outdoors). free admission."
-    },
-    "skint_88911_1_seventh_annual_disability_unite_festival": {
-      "title": "seventh annual disability unite festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-07-12",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 07/12 · 11am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "central park’s naumburg bandshell and online",
-      "source": "The Skint",
-      "link": "https://disabilityunite.org",
-      "map": "https://maps.google.com/?q=central%20park%E2%80%99s%20naumburg%20bandshell%20and%20online%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-6pm: seventh annual disability unite festival: central park’s naumburg bandshell and online."
-    },
-    "skint_88911_2_l_alliance_s_annual_bastille_day_celebration": {
-      "title": "l’alliance’s annual bastille day celebration",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-07-12",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 07/12 · 12pm-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "madison avenue from 59th to 63rd streets",
-      "source": "The Skint",
-      "link": "https://lallianceny.org/event/bastille-day-2026/",
-      "map": "https://maps.google.com/?q=madison%20avenue%20from%2059th%20to%2063rd%20streets%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12pm-5pm: l’alliance’s annual bastille day celebration: madison avenue from 59th to 63rd streets."
-    },
-    "skint_88911_3_brooklyn_cookie_swap": {
-      "title": "brooklyn cookie swap",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-07-12",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sun, 07/12 · 2pm (rescheduled from 6/27 due to weather)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "prospect park long meadow (event page will be updated if there are any weather-related changes)",
-      "source": "The Skint",
-      "link": "https://www.brooklyncookieswap.com",
-      "map": "https://maps.google.com/?q=prospect%20park%20long%20meadow%20(event%20page%20will%20be%20updated%20if%20there%20are%20any%20weather-related%20changes)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 2pm (rescheduled from 6/27 due to weather): brooklyn cookie swap: prospect park long meadow (event page will be updated if there are any weather-related changes)."
-    },
-    "skint_88911_4_the_consulate_general_of_france_s_bastille_day_summe": {
-      "title": "the consulate general of france’s bastille day summerstage concert",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sun",
-      "date": "2026-07-12",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sun, 07/12 · 6-10pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "central park’s rumsey playfield",
-      "source": "The Skint",
-      "link": "https://cityparksfoundation.org/events/bastille-day-26/",
-      "map": "https://maps.google.com/?q=central%20park%E2%80%99s%20rumsey%20playfield%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 6-10pm: the consulate general of france’s bastille day summerstage concert: central park’s rumsey playfield."
     },
     "gary_2026_07_13_learn_to_build_w_ai": {
       "title": "Learn To Build w/ AI",
