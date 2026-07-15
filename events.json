@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 14, 2026, 4:39 PM EDT",
+    "checked": "Jul 15, 2026, 8:09 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-14",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Jul 14"
-      },
       {
         "iso": "2026-07-15",
         "key": "Wed",
@@ -45,15 +39,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Jul 20"
+      },
+      {
+        "iso": "2026-07-21",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Jul 21"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-14",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Jul 14"
-      },
       {
         "iso": "2026-07-15",
         "key": "Wed",
@@ -233,14 +227,21 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Aug 13"
+      },
+      {
+        "iso": "2026-08-14",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Aug 14"
       }
     ],
-    "todayKey": "Tue",
+    "todayKey": "Wed",
     "times": [
       "7 AM",
       "8 AM",
       "8:30 AM",
       "9 AM",
+      "9:30 AM",
       "10 AM",
       "10:30 AM",
       "11 AM",
@@ -260,7 +261,6 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
-      "9 PM",
       "10 PM",
       "11 PM"
     ]
@@ -452,23 +452,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "gary_2026_07_13_learn_to_build_w_ai": {
-      "title": "Learn To Build w/ AI",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-07-13",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Mon, 07/13 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/058i8k1/Learn-To-Build-w-AI",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Learn to Build with AI A free Workshop for the Community Join us in NYC for a guided, hands-on session designed to help beginners & non-technical professionals learn how to code using AI tools. In this workshop, you'll learn how to: Use AI coding assistants to write & understand code Turn ideas into simple working apps & automations with Lovable Read, edit, & improve existing code with AI support We'll walk through stepbystep exercises, live demos, & practical projects you can repeat at home. No prior coding experience is required-just bring a laptop & curiosity. Who should attend Entrepreneurs & business owners who want to build simple tools without hiring a dev team; Students & career switchers interested in learning to code faster with AI; Operators, marketers, & creators who want to automate workflows; Generalists, such as bodega shops or any other small/medium businesses & professionals, even for church leaders. Come with a problem or idea, & leave with your first AIassisted code project running. Important: Please bring a valid government issued ID with photo to enter the building & participate in the event."
     },
     "gary_2026_07_14_mozcon_2026": {
       "title": "MozCon 2026",
@@ -1218,22 +1201,22 @@
       "map": "https://maps.google.com/?q=Premier%20Gym%20in%20New%20York%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Hi, Andrew Yeung here. We started the Junto Founder Dinner series two years ago to bring together the top founders + builders. This time, we're doing something a little different. Instead of a seated breakfast, we're bringing together 24 vetted early-stage founders & CEOs for a private strength-based networking experience at a premier gym in New York. The session will be a 60-minute group workout class designed specifically to help ambitious founders connect in a more active, energizing environment. Expect a moderate-intensity strength class that is approachable for different fitness levels, but still requires the ability to participate in a full physical training session. After class, we'll have time to cool down, connect, & continue conversations with fellow high-performing startup leaders. What to expect: A private group strength class at a premier gym in New York Conversations with fellow ambitious founders, CEOs, & builders A post-class networking moment to meet peers solving similar problems Our only intent is to bring good, smart humans together - this time, with a little sweat involved. Details: Date: July 24, 2026 Time: 9:00am - 11:00am Venue: Premier Gym in New York Please note: This experience includes a physical group training class. You should be comfortable participating in approximately 60 minutes of moderate-intensity exercise. Apply to join by filling out the RSVP form. About our hosts & sponsors: Andrew Yeung is the Founder, CEO of fibe - a portfolio of events companies including andrew's mixers, The Junto Series & Lumos House. & the OOO Summit. He is also a Partner at Next Wave NYC, a pre-seed/seed found backed by Flybridge Capital. Andrew's hosted 100+ events for 50k+ tech founders & professionals in 8 cities that were featured in Bloomberg, Business Insider, Fast Company, & Fortune Magazine. Business Insider dubbed him the \"Gatsby of Silicon Alley.\" Rho is the all-in-one banking platform for startups. With banking set up in minutes, 2% cashback cards, & powerful tools for managing spend, paying bills, & closing the books, Rho helps high-growth startups move fast & stay focused-with support that goes to the ends of the earth to help you win. Lowenstein Sandler's ECVC group delivers tailored legal strategies for launching, scaling, & financing companies in life sciences & healthcare. They close thousands of deals each year & advise founders on financings, licensing, & IP."
     },
-    "luma_2026_07_14_launch_101_for_founders": {
-      "title": "Launch 101 for Founders",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-07-14",
-      "time": "9 PM",
-      "sort": 21,
-      "when": "Tue, 07/14 · 9pm",
+    "gary_2026_07_24_hello_robot_hackathon": {
+      "title": "Hello, Robot! Hackathon",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-07-24",
+      "time": "9:30 AM",
+      "sort": 9.5,
+      "when": "Fri, 07/24 · 9:30am",
       "price": "Free",
       "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/ujbufpkt",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: HARD LAUNCH, jacky (:, Christina Melas-Kyriazi, Andrew Pignanelli"
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/eye9rtn/Hello-Robot-Hackathon",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Viam & South Park Commons."
     },
     "luma_2026_07_15_openai_builder_lounge_nyc": {
       "title": "OpenAI Builder Lounge NYC",
@@ -1268,40 +1251,6 @@
       "link": "https://luma.com/1u5c7u7d",
       "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
       "summary": "Luma NYC: New Edition Events, Brandon Blum, Aaron Silverberg, Brian Lewis"
-    },
-    "jc_culture_38061_2026_07_14_jersey_city_summerfest_2026_the_outcrops": {
-      "title": "Jersey City Summerfest 2026 / The Outcrops",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Tue",
-      "date": "2026-07-14",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Tue, 07/14 · 6:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Liberty State Park. South Lawn, Freedom Way, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-the-outcrops/",
-      "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
-      "summary": "&nbsp; JC Summerfest featuring The Outcrops South Cove Lawn Liberty State Park 6:30pm-8:30pm"
-    },
-    "jc_culture_37942_2026_07_14_movies_in_the_park_2026_interstellar": {
-      "title": "Movies in the Park 2026 / Interstellar",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Tue",
-      "date": "2026-07-14",
-      "time": "8:30 PM",
-      "sort": 20.5,
-      "when": "Tue, 07/14 · 8:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Ercel Webb Park, 124 Lafayette Street, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-interstellar/",
-      "map": "https://maps.google.com/?q=Ercel%20Webb%20Park%2C%20124%20Lafayette%20Street%2C%20Jersey%20City%2C%20NJ",
-      "summary": "&nbsp; Ercel Webb Park featuring Interstellar at sunset"
     },
     "jc_culture_10003559_2026_07_15_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -2033,6 +1982,40 @@
       "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-adam-falcon/",
       "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
       "summary": "&nbsp; JC Summerfest featuring Adam Falcon Soul & Blues South Cove Lawn Liberty State Park 6:30pm-8:30pm"
+    },
+    "jc_culture_10003563_2026_08_12_hamilton_park_farmers_market_2026": {
+      "title": "Hamilton Park Farmers Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-08-12",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 08/12 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-08-12/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_38074_2026_08_13_jersey_city_summerfest_2026_power_2_inspire_all_star": {
+      "title": "Jersey City Summerfest 2026 / Power 2 Inspire All Stars",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Thu",
+      "date": "2026-08-13",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 08/13 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Berry Lane Park, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-power-2-inspire-all-stars/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "&nbsp; JC Summerfest featuring Power 2 Inspire All Stars Berry Lane Park 6:30pm-8:30pm"
     }
   },
   "clusters": {
@@ -2044,10 +2027,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_07_14_6_30_pm": [
-      "gary_2026_07_14_build_w_ai_meetup",
-      "jc_culture_38061_2026_07_14_jersey_city_summerfest_2026_the_outcrops"
     ],
     "cluster_2026_07_15_6_pm": [
       "gary_2026_07_15_quantum_computing_meetup",
