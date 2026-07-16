@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 15, 2026, 4:35 PM EDT",
+    "checked": "Jul 16, 2026, 8:14 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-15",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Jul 15"
-      },
       {
         "iso": "2026-07-16",
         "key": "Thu",
@@ -45,15 +39,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Jul 21"
+      },
+      {
+        "iso": "2026-07-22",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Jul 22"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-15",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Jul 15"
-      },
       {
         "iso": "2026-07-16",
         "key": "Thu",
@@ -233,9 +227,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Aug 14"
+      },
+      {
+        "iso": "2026-08-15",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Aug 15"
       }
     ],
-    "todayKey": "Wed",
+    "todayKey": "Thu",
     "times": [
       "7 AM",
       "8 AM",
@@ -259,9 +259,7 @@
       "6:30 PM",
       "7 PM",
       "8 PM",
-      "8:30 PM",
-      "10 PM",
-      "11 PM"
+      "8:30 PM"
     ]
   },
   "events": {
@@ -451,108 +449,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "gary_2026_07_15_agentic_world_cup_build_ai_agents_that_play_soccer": {
-      "title": "Agentic World Cup - Build AI Agents That Play Soccer",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-15",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Wed, 07/15 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 7 W 34th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/678ffgp/Agentic-World-Cup-Build-AI-Agents-That-Play-Soccer",
-      "map": "https://maps.google.com/?q=Venue%2C%207%20W%2034th%20St",
-      "summary": "Gary's Guide: With Yaniv Donenfeld (Principal Technologist, Amazon AWS Startups), Li Dai (Startup Solns Architect, Amazon AWS)."
-    },
-    "gary_2026_07_15_quantum_frontiers_responsible_ai_global_dialogue_on_": {
-      "title": "Quantum Frontiers & Responsible AI - Global Dialogue On Emerging Tech",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-15",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Wed, 07/15 · 3:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue,, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/0xlig44/Quantum-Frontiers-Responsible-AI-Global-Dialogue-On-Emerging-Tech",
-      "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: All Tech Is Human & the Consulate General of Finland in New York are putting together a highly curated gathering for 75 individuals across civil society, government, industry, academia, & philanthropy. There will be two panel conversations & networking at the Finnish Consulate in New York, followed by a reception at the Finnish Residence near Central Park. Please express your interest below. All Tech Is Human takes a whole-of-ecosystem approach to tackling thorny tech & society issues & aligning our tech future with the public interest. We are building the crucial social infrastructure for the Responsible Tech ecosystem. Learn more at AllTechIsHuman.org & see all of our projects & initiatives here."
-    },
-    "gary_2026_07_15_ai_technology_summit": {
-      "title": "AI Technology Summit",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-15",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Wed, 07/15 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Skidmore Owings at 7WTC, 250 Greenwich St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/gcvczro/AI-Technology-Summit",
-      "map": "https://maps.google.com/?q=Skidmore%20Owings%20at%207WTC%2C%20250%20Greenwich%20St",
-      "summary": "Gary's Guide: With Jeff Perlman (Founder, Bright Power), Ryan Elazari (Founder, CRE Unplugged), Gary Ling & Alfred Zhang (Broadtrade Group)."
-    },
-    "gary_2026_07_15_quantum_computing_meetup": {
-      "title": "Quantum Computing Meetup",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-15",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 07/15 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Midtown Manhattan, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/6a2atst/Quantum-Computing-Meetup",
-      "map": "https://maps.google.com/?q=Midtown%20Manhattan%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Antonio Mezzacapo (Principal Researcher, NVIDIA)."
-    },
-    "gary_2026_07_15_ai_adoption_open_mic_happy_hour": {
-      "title": "AI Adoption Open Mic & Happy Hour",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-15",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 07/15 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "SPACS, 149 W 27th St, 3rd Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/067o605/AI-Adoption-Open-Mic-Happy-Hour",
-      "map": "https://maps.google.com/?q=SPACS%2C%20149%20W%2027th%20St%2C%203rd%20Fl",
-      "summary": "Gary's Guide: New York doesn't need another boring AI panel. So, we're hosting an open mic night instead. To celebrate PAIR's New York office launch, we're throwing a party to bring together our US & London teams with enterprise AI operators in the city to compare notes on how AI is actually making a difference (and where it isn't). Our first AI Adoption Open Mic Night was an unexpected hit. What started as a funny idea turned into something people actually loved, so we knew we had to do it again. This time, we're making it bigger, bringing the community together for drinks, dinner, & a fast-paced open mic where each speaker gets 100 seconds to share one real AI use case & its impact. The strongest use case of the night will win a $500 cash prize & a 3-year PAIR licence worth over $800. And even if you don't win the grand prize, expect to walk away with new connections in the AI community, & ideas you can take back to your team. The first open mic night sold out fast, so RSVP now to secure your spot. P.S. No pressure to participate in the open mic, you're very welcome to just come along, meet others working on AI adoption, & hear what people are actually doing with AI in practice. Agenda 6:00 PM - Drinks & food on arrival 6:30 PM - Intro from our MCs (and co-founders!) 6:45 PM - AI Adoption Open Mic 7:15 PM - $500 prize for the strongest use case 7:30 PM - Conversations & networking 9:00 PM - Wrapping up the evening About PAIR PAIR is the leading AI adoption platform for enterprise. We help organisations build real AI capability across their workforce, give leaders visibility into adoption, scale the workflows that create value, & prove the return on AI investment. PAIR was founded by James Kuht & Mark Mitchell, whose backgrounds span AI, government, specialist military units & large-scale workforce adoption."
-    },
-    "gary_2026_07_15_founder_dinner": {
-      "title": "Founder Dinner",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-07-15",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Wed, 07/15 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/cl2lvlp/Founder-Dinner",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Join us for an intimate evening with a highly curated group of Series A/B founders that are scaling at the most beautiful venue in NYC. Who Should Attend? Series A, B & above Why Attend? Honest conversations with the best founders at similar stages Tactical insights on fundraising, GTM, & scaling from peers who get it What Is Included? 4-course dinner with sommelier-paired wines Live pianist The builders behind some of the fastest-growing companies in the country Important Reminders: Dress Code: Business, smart casual Stay Connected: Follow us on Instagram or LinkedIn for updates on our community, events & opportunities. Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes. About the Hosts & Sponsors: Brderless brings together the most extraordinary founders through a carefully curated community. Tabs is the AI-native revenue automation platform revolutionizing financial operations for venture-funded startups & high-growth B2B companies. Headquartered in New York, Tabs was founded in 2023 by a team of industry experts from Plaid, BCG, & PwC, & has quickly gained adoption across scaling teams seeking to escape legacy ERPs. Backed by prominent investors including Lightspeed, Primary Ventures, & General Catalyst, Tabs automates billing, collections, revenue recognition, & reporting - delivering speed, accuracy, & growth for modern startups. Kruze Consulting is a leading provider of accounting, finance, HR, tax credit, & tax consulting to seed & venture capital-funded startups. Kruze's clients have collectively raised billions in VC financing, & scores have been acquired by the largest public technology companies, including Apple, Cisco & JP Morgan. Kruze's advice & best-in-class financial systems make data-driven startup founders more productive."
     },
     "gary_2026_07_16_cnbc_sport_x_boardroom_game_plan": {
       "title": "CNBC Sport x Boardroom - Game Plan",
@@ -858,7 +754,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/oyfzjdy/Hiring-Cheat-Codes-Every-Founder-Needs-TriNet-Supermoon-Resident",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With ​Christina Sclafani (Sales Consultant, TriNet)."
+      "summary": "Gary's Guide: With Christina Sclafani (Sales Consultant, TriNet)."
     },
     "gary_2026_07_21_stripe_developer_meetup": {
       "title": "Stripe Developer Meetup",
@@ -1200,90 +1096,124 @@
       "map": "https://maps.google.com/?q=EqualSpace%2C%20550%20Broad%20St%2C%20Newark",
       "summary": "Gary's Guide: Calling all New Jersey techies to the monthly NJ Code & Coffee tech community meetup at the EqualSpace ES550 Tech & Innovation campus! Code & Coffee is an inclusive, informal networking/co-working session for those in tech (and the tech-curious). That includes operators, founders, & investors. Developers, data engineers, UX/UI designers, data scientists, product managers, software engineers, solution architects... all are welcome! People of all skill & experience levels can attend, we love it that way. Many people (optionally) bring projects to work on, & many other people (optionally) socialize the entire time. It's entirely up to you! Come grab a cup of coffee & meet new people, share stories, find collaborators, talk about everything tech, talk about everything NOT tech, take a break from job applications, get away from the computer screen, make connections, make conversation, make friends! Agenda: 2pm: Doors open, networking starts 2:30pm: Intro circle 3pm: networking continues 5pm: event ends The Intro Circle Near the beginning of the event (about 2:30 pm), we will do a standup in a circle: We first talk about organizer announcements, updates, & logistics. Then we go around the circle where each person says: *your name & job title/ role in tech/ tech stack, What you can help others with, *What you would like help with, Job opportunities you're hiring for OR announce that you are looking for one. If none, that's cool. After the introduction circle, everything is self-organized. Community Discord - come hang out before & after!: www.codeandcoffee.chat The Venue Equal Space is a premium share-space created with multicultural business owners in mind, =SPACE equips founders with resources, programming & a powerful network. Headquartered in the City of Newark, their share-space provides resources for startups, coaching for tech companies, & a wealth of intellectuals to collaborate & build with. The next wave in enterprises is being born within their walls. Become a part of the story: [EqualSpace.co/](https://equalspace.co/)"
     },
-    "luma_2026_07_15_openai_builder_lounge_nyc": {
-      "title": "OpenAI Builder Lounge NYC",
+    "gary_2026_07_25_creator_mixer": {
+      "title": "Creator Mixer",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Sat",
+      "date": "2026-07-25",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Sat, 07/25 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Avenida, 1 Penn Plaza",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/lzxymdf/Creator-Mixer",
+      "map": "https://maps.google.com/?q=Avenida%2C%201%20Penn%20Plaza",
+      "summary": "Gary's Guide: With Content Creators Exchange, Social Rising, IRL Ventures."
+    },
+    "gary_2026_07_27_b2b_ai_founders_investors_meetup": {
+      "title": "B2B - AI Founders & Investors Meetup",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Mon",
+      "date": "2026-07-27",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Mon, 07/27 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/srg4k9c/B2B-AI-Founders-Investors-Meetup",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: NYC B2B is the premier community for B2B Founders, Operators, & Investors in NYC. NYC B2B often hosts happy hour events for founders, builders, & investors based in NYC. This is an exclusive event for B2B AI founders & investors. Want to sponsor this event? Email: newyorkcityventures@gmail.com This meetup is hosted by NYC B2B. It's a great way to meet other founders, builders, & investors. Whether you're building a company, exploring a side project, or considering a new idea, we would love to have you here. NYC B2B has previously hosted events for thousands of B2B startup founders + operators in NYC across Vertical SaaS, AI, FinTech, Healthcare, DevTools, Infrastructure, & more. By signing up, you are confirming your interest in hearing about more events from NYC B2B in the future via email! NYC B2B also helps connect those who sign up with awesome partners. Note: This is a 21+ event. Please let our team know in advance if you'd like to bring a guest, as unregistered +1s will not be admitted. Attendees who disregard this policy may not be invited to future NYC B2B events. - Hiring or looking for jobs? startupjobs.nyc"
+    },
+    "gary_2026_07_28_fintech_run_club": {
+      "title": "Fintech Run Club",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-07-28",
+      "time": "7 AM",
+      "sort": 7,
+      "when": "Tue, 07/28 · 7:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Marsha P Johnson Memorial Fountain, Hudson River Greenway",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/wnubfa0/Fintech-Run-Club",
+      "map": "https://maps.google.com/?q=Marsha%20P%20Johnson%20Memorial%20Fountain%2C%20Hudson%20River%20Greenway",
+      "summary": "Gary's Guide: With Rain, Monk, JPMorgan."
+    },
+    "gary_2026_07_28_junto_founder_dinner": {
+      "title": "Junto Founder Dinner",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-07-28",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 07/28 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/hkicv28/Junto-Founder-Dinner",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Hi, Andrew Yeung here. We started the Junto Founder Dinner series two years ago to bring together the top founders + builders. Each month, we invite 24 vetted early-stage founders & CEOs for a 3-hour, multiple-course dinner experience. What to expect: A 3-course meal, courtesy of our partners Conversations with fellow high-performing startup leaders A dinner experience designed to facilitate new connections & conversations, with rotating 6-person table formats Meaningful connections with ambitious peers solving similar problems If you're wondering how our dinners usually go... read this Our only intent is to bring good, smart humans together. Details: Date: July 28, 2026 Time: 6:00pm - 8:30pm Venue: Private Dinner Club in NYC Past attendees of my events include the founders/C-suite of Venmo, Duolingo, Foursquare, Lyft, Goldman Sachs, Compass, Superhuman, Yext, OpenDoor, Chief, LearnVest, DocSend, Vercel, Loom, Morning Brew, The Hustle, Gas, Teachable, Replit, Twitter, Slack, Pinterest, Yahoo, MongoDB, Business Insider, Wonder, Hinge. Apply to join by filling out the RSVP form."
+    },
+    "gary_2026_07_28_jfe_startup_tech_rooftop_mixer": {
+      "title": "JFE Startup & Tech Rooftop Mixer",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-07-28",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Tue, 07/28 · 6:30pm",
+      "price": "$28",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/2t2ksui/JFE-Startup-Tech-Rooftop-Mixer",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: JFE Network is excited to host its first Startup & Tech Rooftop Mixer in Hudson Yards, NY, with views overlooking the city! Join NY's premier startup & tech community for a fun summer gathering for networking & a great time connecting with our startup & tech network. JFE Networking mixers bring together NY's top startup founders, technologists, & business professionals in the Jewish community. If you're looking for co-founders to launch a startup or new career opportunities in tech, then you should join us! Many of our attendees formed deep relationships, hired each other, or started companies together. JFE (Jews For Entrepreneurship) Network For those who don't know about us, JFE (Jews For Entrepreneurship organization) is the leading & only organization that supports Jewish innovation & entrepreneurship worldwide. Since our launch in 2009, we have hosted over 120 events, including pitch events, seminars, speaker panels, startup accelerators, pitches for series A companies, career fairs, & networking mixers. We are now actively hosting events in SF, LA, Miami, NY, London, & New Mexico Read more about us here: www.jfenetwork.com"
+    },
+    "gary_2026_07_29_leaders_in_product_fintech_insights": {
+      "title": "Leaders In Product - Fintech Insights",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Wed",
-      "date": "2026-07-15",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Wed, 07/15 · 10pm",
+      "date": "2026-07-29",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 07/29 · 6:00pm",
+      "price": "$45",
+      "free": false,
+      "place": "BrainStation, 136 Crosby St, 4th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/4apadtj/Leaders-In-Product-Fintech-Insights",
+      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
+      "summary": "Gary's Guide: With Sam Farnham (Lead Product, PayPal), Shivali Khetan (Dir., JPMorgan Chase)."
+    },
+    "luma_2026_07_18_builders_cup_2026_a_hackathon_by_ramp": {
+      "title": "🏆 Builders Cup 2026 - A Hackathon by Ramp",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sat",
+      "date": "2026-07-18",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sat, 07/18 · 2pm",
       "price": "Free",
       "free": true,
       "place": "New York, NY",
       "source": "Luma NYC",
-      "link": "https://luma.com/openai-builderlounge-nyc-july15-2026",
+      "link": "https://luma.com/nrletiv9",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: OpenAI for Startups"
-    },
-    "luma_2026_07_15_founders_basketball_new_york_city_july_2026": {
-      "title": "Founders Basketball New York City (July 2026)",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-07-15",
-      "time": "11 PM",
-      "sort": 23,
-      "when": "Wed, 07/15 · 11pm",
-      "price": "Free",
-      "free": true,
-      "place": "Brooklyn, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/1u5c7u7d",
-      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
-      "summary": "Luma NYC: New Edition Events, Brandon Blum, Aaron Silverberg, Brian Lewis"
-    },
-    "jc_culture_10003559_2026_07_15_hamilton_park_farmers_market_2026": {
-      "title": "Hamilton Park Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Wed",
-      "date": "2026-07-15",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Wed, 07/15 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-07-15/",
-      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
-    },
-    "jc_culture_40548_2026_07_15_how_many_comics_does_it_take_to_fix_everything": {
-      "title": "How Many Comics Does It Take To Fix Everything?",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Wed",
-      "date": "2026-07-15",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Wed, 07/15 · 7pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "WHITE EAGLE HALL, 337 NEWARK AVE., JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/how-many-comics-does-it-take-to-fix-everything/",
-      "map": "https://maps.google.com/?q=WHITE%20EAGLE%20HALL%2C%20337%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
-      "summary": "Everything needs to be fixed! It’s like crazy out there. We’ve gathered as many comedians as possible to put the screws into all the nuts in the world. I mean, how many comedians could it take to fix… everything?! Hosted by Nick Fierro, Joshua Lay and Alex Grubard at White Eagle Hall."
-    },
-    "jc_culture_41398_2026_07_15_movies_in_the_park_2026_tron_ares": {
-      "title": "Movies in the Park 2026 / Tron Ares",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Wed",
-      "date": "2026-07-15",
-      "time": "8:30 PM",
-      "sort": 20.5,
-      "when": "Wed, 07/15 · 8:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Leonard Gordon Park, 3303 John F. Kennedy Blvd, Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-tron-ares-4/",
-      "map": "https://maps.google.com/?q=Leonard%20Gordon%20Park%2C%203303%20John%20F.%20Kennedy%20Blvd%2C%20Jersey%20City",
-      "summary": "&nbsp; Leonard Gordon Park featuring Tron Ares at sunset"
+      "summary": "Luma NYC: Ramp Emerging Talent, Richard Noguchi, Cat Choy, angela, Chelsea Commons"
     },
     "jc_culture_41657_2026_07_16_dance_class_for_seniors_2026": {
       "title": "Dance Class for Seniors 2026",
@@ -1761,6 +1691,23 @@
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "&nbsp; JC Summerfest featuring Winard Harper Jazz North Cove Field Liberty State Park 6pm-8pm"
     },
+    "jc_culture_41757_2026_08_03_pride_month_flag_raising_2026": {
+      "title": "Pride Month Flag Raising 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Mon",
+      "date": "2026-08-03",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Mon, 08/03 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/pride-month-flag-raising-2026/",
+      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
+    },
     "jc_culture_37960_2026_08_03_movies_in_the_park_2026_luca": {
       "title": "Movies in the Park 2026 / LUCA",
       "type": "entertainment",
@@ -1998,6 +1945,40 @@
       "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-power-2-inspire-all-stars/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "&nbsp; JC Summerfest featuring Power 2 Inspire All Stars Berry Lane Park 6:30pm-8:30pm"
+    },
+    "jc_culture_39177_2026_08_15_west_indian_family_picnic_2026": {
+      "title": "West Indian Family Picnic 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-08-15",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Sat, 08/15 · 11am",
+      "price": "Free",
+      "free": true,
+      "place": "Lincoln Park, 1 County Rd 605, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/west-indian-family-picnic/",
+      "map": "https://maps.google.com/?q=Lincoln%20Park%2C%201%20County%20Rd%20605%2C%20Jersey%20City%2C%20NJ",
+      "summary": "County Commissioner Bill O’Dea and Chico Ramchal along side the West Indian American Committee will be holding a West Indian Family Fun Day at Lincoln Park, on August 15th, 2026 beginning at 11am and concluding at 8:00pm. This event is intended to provide a day and location where families of a West Indian background of Hudson County can congregate and celebrate their culture. It will also provide an insight to experience the West Indian culture if you are from any descent. Among culture sharing the committee will provide a host of community games for all age groups. Some of these activities include a tug-o-war, 100m race, sack race, etc. In conjunction with the activities, we will have a show mobile on location that will provide music and non-band performances, such as cultural dancing. The expected turnout is estimated at, with the committee providing over 50 volunteers to help support the event."
+    },
+    "jc_culture_38059_2026_08_16_jc_summerfest_2026_marel_hildago_jamaican_jazz_quint": {
+      "title": "JC Summerfest 2026 / Marel Hildago Jamaican Jazz Quintet",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sun",
+      "date": "2026-08-16",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Sun, 08/16 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Liberty State Park, North Cove",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jc-summerfest-2026-marel-hildago-jamaican-jazz-quintet/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "&nbsp; JC Summerfest featuring Marel Hildago Jamaican Jazz Quintet North Cove Field Liberty State Park 6pm-8pm"
     }
   },
   "clusters": {
@@ -2009,10 +1990,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_07_15_6_pm": [
-      "gary_2026_07_15_quantum_computing_meetup",
-      "gary_2026_07_15_ai_adoption_open_mic_happy_hour"
     ],
     "cluster_2026_07_16_7_am": [
       "gary_2026_07_16_cnbc_sport_x_boardroom_game_plan",
@@ -2054,6 +2031,14 @@
     "cluster_2026_07_25_2_pm": [
       "gary_2026_07_25_nj_code_coffee",
       "jc_culture_41405_2026_07_25_heights_free_market_2026"
+    ],
+    "cluster_2026_07_28_6_30_pm": [
+      "gary_2026_07_28_jfe_startup_tech_rooftop_mixer",
+      "jc_culture_38063_2026_07_28_jersey_city_summerfest_2026_carlos_jimenez_mambo_dul"
+    ],
+    "cluster_2026_07_18_2_pm": [
+      "luma_2026_07_18_builders_cup_2026_a_hackathon_by_ramp",
+      "jc_culture_40815_2026_07_18_somewhere_social_picnic_2026"
     ],
     "cluster_2026_07_21_6_30_pm": [
       "jc_culture_38062_2026_07_21_jersey_city_summerfest_2026_forget_the_whale",
