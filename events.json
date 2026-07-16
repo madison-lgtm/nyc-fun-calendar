@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 16, 2026, 8:14 AM EDT",
+    "checked": "Jul 16, 2026, 4:27 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -482,7 +482,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/g2ngr7w/The-Startup-Pitch-Demo-Showcase",
       "map": "https://maps.google.com/?q=The%20Yard%3A%20Herald%20Sq%2C%20106%20W%2032nd%20St",
-      "summary": "Gary's Guide: See the newest companies coming out of the NYC startup ecosystem. Provide peer feedback & network with ambitious founders at The Startup Pitch: Demo Showcase. This pitch & demo showcase gives you a first look at new technology from startups that are actively building & shipping product - sometimes even before VCs have seen them! The format is fast-paced & interactive. After each demo, the floor is open for questions, ideas, & honest feedback from the community. We welcome investors who want an unfiltered look at new technology & early-stage teams."
+      "summary": "Gary's Guide: See the newest companies coming out of the NYC startup ecosystem. Provide peer feedback & network with ambitious founders at The Startup Pitch: Demo Showcase. This pitch & demo showcase gives you a first look at new technology from startups that are actively building & shipping product - sometimes even before VCs have seen them!"
     },
     "gary_2026_07_16_product_summit": {
       "title": "Product Summit",
@@ -1232,23 +1232,6 @@
       "map": "https://maps.google.com/?q=SURATI%20STUDIOS%2C%20844%20%26%20846%20NEWARK%20AVE",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
     },
-    "jc_culture_38070_2026_07_16_jersey_city_summerfest_2026_demolition_brass_band": {
-      "title": "Jersey City Summerfest 2026 / Demolition Brass Band",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Thu",
-      "date": "2026-07-16",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Thu, 07/16 · 6:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Berry Lane Park, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-demolition-brass-band/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "JC Summerfest featuring Demolition Brass Band Berry Lane Park 6:30pm-8:30pm"
-    },
     "jc_culture_41159_2026_07_16_produce_wrestling_jersey_city": {
       "title": "Produce Wrestling – Jersey City",
       "type": "art",
@@ -1266,23 +1249,6 @@
       "map": "https://maps.google.com/?q=WHITE%20EAGLE%20HALL%2C%20337%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
       "summary": "Get ready for an electrifying night of action as Produce Wrestling takes over Jersey City! Join us at the iconic White Eagle Hall, where the atmosphere is always buzzing with excitement and energy. This historic venue, known for its vibrant community spirit, will transform into a thrilling battleground where athleticism meets entertainment. Whether you’re a die-hard wrestling fan or new to the scene, this event promises to deliver unforgettable moments and high-flying excitement. Don’t miss your chance to witness the spectacle of Produce Wrestling – Jersey City live in action! Gather your friends and family for an evening filled with cheers, laughter, and the thrill of competition. The White Eagle Hall is the perfect backdrop for this exhilarating event, making it a must-see for anyone in the area. Grab your tickets now and be part of the excitement!"
     },
-    "jc_culture_37944_2026_07_16_movies_in_the_park_2026_arrival": {
-      "title": "Movies in the Park 2026 / Arrival",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Thu",
-      "date": "2026-07-16",
-      "time": "8:30 PM",
-      "sort": 20.5,
-      "when": "Thu, 07/16 · 8:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "PERSHING FIELD PARK, 201 CENTRAL AVE, JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-arrival/",
-      "map": "https://maps.google.com/?q=PERSHING%20FIELD%20PARK%2C%20201%20CENTRAL%20AVE%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "&nbsp; Pershing Field Park featuring Arrival at sunset"
-    },
     "jc_culture_41706_2026_07_17_the_breakfast_club_live": {
       "title": "The Breakfast Club – Live!",
       "type": "art",
@@ -1299,6 +1265,23 @@
       "link": "https://jerseycityculture.org/event/the-breakfast-club-live/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "The Breakfast Club is the Small Business Committee’s monthly networking and referral meeting, held on third Fridays in person or virtually. Events feature structured networking, business pitching, and practical education on SBC priorities like sales, marketing and leadership. Open to all members."
+    },
+    "jc_culture_41819_2026_07_18_liberty_science_center_slymez_guests_with_help_from_": {
+      "title": "LIBERTY SCIENCE CENTER ‘SLYMEZ’ GUESTS WITH HELP FROM GOGO SQUEEZ®",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-07-18",
+      "time": "8 AM",
+      "sort": 8,
+      "when": "Sat, 07/18 · 8am",
+      "price": "Free",
+      "free": true,
+      "place": "LIBERTY SCIENCE CENTER, 222 JERSEY CIYT BOULEVARD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/liberty-science-center-slymez-guests-with-help-from-gogo-squeez/",
+      "map": "https://maps.google.com/?q=LIBERTY%20SCIENCE%20CENTER%2C%20222%20JERSEY%20CIYT%20BOULEVARD%2C%20JERSEY%20CITY",
+      "summary": "Liberty Science Center is wrapping up its Summer of Soccer and Science celebration and inviting families to take part in a weekend of epic, action-packed activities. Get ready to dive in to adventures like Drone Soccer, Rat-thlete Matches, and the final ‘Pup Cup’ featuring our canine friends from the Seeing Eye. Plus attendees will have the opportunity to enjoy complimentary samples of GoGo squeeZ® SlymeZ, available while supplies last. This better-for-you snack comes in bold, sweet n’ sour flavors including Blue Raspberry, Strawberry Lemonade, Cherry and Green Apple, and is made with 100% real fruit, no added sugar, and comes in a smooth texture kids will love!"
     },
     "jc_culture_39860_2026_07_18_carrington_village_5th_annual_carribean_festival": {
       "title": "Carrington Village 5th Annual Carribean Festival",
@@ -1349,7 +1332,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/around-the-world-watch-party-2026/",
       "map": "https://maps.google.com/?q=3%2C%20400%20Claremont%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "The “Around the World Watch Party” is a festival centered on a live broadcast of the World Cup Final. The event will transform Claremont Avenue (between West Side Avenue and Mallory Avenue) into an immersive “world village,” featuring curated cultural zones representing different regions. This program is designed to bring together residents, local businesses, and cultural organizations in a free and accessible public space that promotes community engagement and cultural exchange. One Match. One World. Sunday, July 19th, 12-6 PMClaremont Ave, Between Mallory and West Side 2 big screens streaming the world cup final Soccer & Culture • Food • Beer Garden DJ + Live Performances Local Vendors Photobooth Free Parking in NJ Transit Lot (DAILY)Located Right Off the West Side Light Rail Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to the Around the World Watch Party could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
+      "summary": "The “Around the World Watch Party” is a festival centered on a live broadcast of the World Cup Final. The event will transform Claremont Avenue (between West Side Avenue and Mallory Avenue) into an immersive “world village,” featuring curated cultural zones representing different regions. This program is designed to bring together residents, local businesses, and cultural organizations in a free and accessible public space that promotes community engagement and cultural exchange. Around the World Watch Party Finals Sunday, July 19th, 12-6 PMClaremont Ave, Between Mallory and West Side Argentina VS Spain Join us for an outdoor game viewing and multicultural festival, featuring live DJs, performances, and an immersive world village! One Match. One World. Sunday, July 19th, 12-6 PMClaremont Ave, Between Mallory and West Side 2 big screens streaming the world cup final Soccer & Culture • Food • Beer Garden DJ + Live Performances Local Vendors Photobooth Free Parking in NJ Transit Lot (DAILY)Located Right Off the West Side Light Rail Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to the Around the World Watch Party could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
     },
     "jc_culture_41448_2026_07_19_fun_in_the_sun_day_2026": {
       "title": "Fun in the Sun Day 2026",
@@ -1487,10 +1470,10 @@
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     },
-    "jc_culture_38071_2026_07_23_jersey_city_summerfest_2026_naji_soul": {
-      "title": "Jersey City Summerfest 2026 / Naji Soul",
-      "type": "park",
-      "label": "Parks / Outdoor",
+    "jc_culture_38071_2026_07_23_berry_lane_music_fest_2026_naji_soul": {
+      "title": "Berry Lane Music Fest 2026 / Naji Soul",
+      "type": "entertainment",
+      "label": "Music / Movies",
       "day": "Thu",
       "date": "2026-07-23",
       "time": "6:30 PM",
@@ -1623,10 +1606,10 @@
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     },
-    "jc_culture_38072_2026_07_30_jersey_city_summerfest_2026_p_r_i_m_e": {
-      "title": "Jersey City Summerfest 2026 / P.R.I.M.E",
-      "type": "park",
-      "label": "Parks / Outdoor",
+    "jc_culture_38072_2026_07_30_berry_lane_music_fest_2026_p_r_i_m_e": {
+      "title": "Berry Lane Music Fest 2026 / P.R.I.M.E.",
+      "type": "entertainment",
+      "label": "Music / Movies",
       "day": "Thu",
       "date": "2026-07-30",
       "time": "6:30 PM",
@@ -1776,10 +1759,10 @@
       "map": "https://maps.google.com/?q=HOLY%20ROSARY%20CHURCH%2C%20344%206TH%20ST%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
     },
-    "jc_culture_38073_2026_08_06_jersey_city_summerfest_2026_marlena_moniece": {
-      "title": "Jersey City Summerfest 2026 / Marlena Moniece",
-      "type": "park",
-      "label": "Parks / Outdoor",
+    "jc_culture_38073_2026_08_06_berry_lane_music_fest_2026_marlena_moniece": {
+      "title": "Berry Lane Music Fest 2026 / Marlena Moniece",
+      "type": "entertainment",
+      "label": "Music / Movies",
       "day": "Thu",
       "date": "2026-08-06",
       "time": "6:30 PM",
@@ -1929,10 +1912,10 @@
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     },
-    "jc_culture_38074_2026_08_13_jersey_city_summerfest_2026_power_2_inspire_all_star": {
-      "title": "Jersey City Summerfest 2026 / Power 2 Inspire All Stars",
-      "type": "park",
-      "label": "Parks / Outdoor",
+    "jc_culture_38074_2026_08_13_berry_lane_music_fest_2026_power_2_inspire_all_stars": {
+      "title": "Berry Lane Music Fest 2026 / Power 2 Inspire All Stars",
+      "type": "entertainment",
+      "label": "Music / Movies",
       "day": "Thu",
       "date": "2026-08-13",
       "time": "6:30 PM",
@@ -1998,10 +1981,6 @@
     "cluster_2026_07_16_6_pm": [
       "gary_2026_07_16_bitcoin_developers_socratic_meetup",
       "gary_2026_07_16_building_beyond_completion_leverage_design_construct"
-    ],
-    "cluster_2026_07_16_6_30_pm": [
-      "gary_2026_07_16_builders_founders_creatives_meetup",
-      "jc_culture_38070_2026_07_16_jersey_city_summerfest_2026_demolition_brass_band"
     ],
     "cluster_2026_07_17_6_30_pm": [
       "gary_2026_07_17_ai_engineers_game_night",
