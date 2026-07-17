@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 17, 2026, 8:02 AM EDT",
+    "checked": "Jul 17, 2026, 4:28 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -258,8 +258,7 @@
       "6:30 PM",
       "7 PM",
       "8 PM",
-      "8:30 PM",
-      "10 PM"
+      "8:30 PM"
     ]
   },
   "events": {
@@ -1282,23 +1281,6 @@
       "link": "https://luma.com/yfapplpy",
       "map": "https://maps.google.com/?q=Fractal%20Tech%20NYC",
       "summary": "Luma NYC: Brenden Hussey, Brenden Hussey"
-    },
-    "luma_2026_07_21_meet_us_on_the_roof_brits_in_tech_the_great_british_": {
-      "title": "Meet us on the Roof! Brits in Tech & The Great British Business Club",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-07-21",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Tue, 07/21 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/qmki592i",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Brits in Tech, Tori Hanson"
     },
     "jc_culture_41706_2026_07_17_the_breakfast_club_live": {
       "title": "The Breakfast Club – Live!",
