@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 18, 2026, 7:45 AM EDT",
+    "checked": "Jul 18, 2026, 4:21 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1280,7 +1280,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/yfapplpy",
       "map": "https://maps.google.com/?q=Fractal%20Tech%20NYC",
-      "summary": "Luma NYC: Brenden Hussey, Brenden Hussey"
+      "summary": "Luma NYC: Music Community Lab, Brenden Hussey"
     },
     "luma_2026_07_21_meet_us_on_the_roof_brits_in_tech_the_great_british_": {
       "title": "Meet us on the Roof! Brits in Tech & The Great British Business Club",
