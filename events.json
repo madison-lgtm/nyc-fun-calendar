@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 19, 2026, 7:49 AM EDT",
+    "checked": "Jul 19, 2026, 4:24 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -258,8 +258,7 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
-      "10 PM",
-      "10:30 PM"
+      "10 PM"
     ]
   },
   "events": {
@@ -552,25 +551,8 @@
       "map": "https://maps.google.com/?q=IBM%2C%201%20Madison%20Ave",
       "summary": "Gary's Guide: Hands-on w/ IBM BOB, LinuxONE & zSystems."
     },
-    "gary_2026_07_21_ai_for_small_business_practical_ways_to_compete_in_a": {
-      "title": "AI For Small Business - Practical Ways To Compete In A Changing Market",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-07-21",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Tue, 07/21 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, Online Webinar",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/f29u0uj/AI-For-Small-Business-Practical-Ways-To-Compete-In-A-Changing-Market",
-      "map": "https://maps.google.com/?q=Venue%2C%20Online%20Webinar",
-      "summary": "Gary's Guide: With Tal Goldhamer (Fordham AI Fellow, Adjunct Professor of Artificial Intelligence, University of Denver)."
-    },
-    "gary_2026_07_21_hiring_cheat_codes_every_founder_needs_trinet_superm": {
-      "title": "Hiring Cheat Codes Every Founder Needs | TriNet, Supermoon, Resident",
+    "gary_2026_07_21_hiring_cheat_codes_every_founder_needs": {
+      "title": "Hiring Cheat Codes Every Founder Needs",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Tue",
@@ -582,9 +564,9 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/oyfzjdy/Hiring-Cheat-Codes-Every-Founder-Needs-TriNet-Supermoon-Resident",
+      "link": "https://www.garysguide.com/events/oyfzjdy/Hiring-Cheat-Codes-Every-Founder-Needs",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Christina Sclafani (Sales Consultant, TriNet)."
+      "summary": "Gary's Guide: With Christina Sclafani (TriNet)."
     },
     "gary_2026_07_21_stripe_developer_meetup": {
       "title": "Stripe Developer Meetup",
@@ -637,8 +619,8 @@
       "map": "https://maps.google.com/?q=Fabrik%2C%2012-16%20Vestry%20St%2C%204th%20Fl",
       "summary": "Gary's Guide: With Nidhi Tewari (Author, Working Well)."
     },
-    "gary_2026_07_21_the_shortlist_july_founder_showcase": {
-      "title": "The Shortlist - July Founder Showcase",
+    "gary_2026_07_21_the_shortlist_founder_showcase": {
+      "title": "The Shortlist Founder Showcase",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Tue",
@@ -650,7 +632,7 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/mixlgpm/The-Shortlist-July-Founder-Showcase",
+      "link": "https://www.garysguide.com/events/mixlgpm/The-Shortlist-Founder-Showcase",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: The Shortlist NYC - July Founder Showcase (#6) The Shortlist is back for our monthly Founder Showcase & the room keeps getting better. This is a monthly curated, application-only evening connecting early-stage founders with exceptional operators across New York. No panels. No pitches to VCs. Just six founders building breakout companies, a room full of people who've built things themselves, & the kind of candid conversation you don't get at most events. Each founder will share what they're building, why it matters, & the specific roles they're actively hiring for right now - followed by a mixer. What to expect: Founders presenting at the seed through Series B stage. Operators, builders, & executives who've seen what good looks like. An intentionally small room designed for real connection. Who this is for: Exceptional operators - whether you're actively exploring your next role, casually curious, or simply want to stay close to what's being built in NYC right now. Founders will be announced in the days leading up to the event. Attendance is intentionally limited. Apply to be considered. More information on The Shortlist can be found here. Founded by Andrew Yeung & Ivor Straford."
     },
@@ -687,6 +669,23 @@
       "link": "https://www.garysguide.com/events/7ims3x7/Build-AI-Systems-That-Scale-At-AMD-Advancing-AI-2026",
       "map": "https://maps.google.com/?q=Moscone%20Center%2C%20747%20Howard%20St",
       "summary": "Gary's Guide: Join AMD Advancing AI for hands-on workshops. Learn from AMD & open-source maintainers, then build & run real workloads yourself."
+    },
+    "gary_2026_07_22_lorikeet_ai_happy_hour": {
+      "title": "Lorikeet AI Happy Hour",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-22",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Wed, 07/22 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Little Ruby's, 225 W 4th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/vix05su/Lorikeet-AI-Happy-Hour",
+      "map": "https://maps.google.com/?q=Little%20Ruby's%2C%20225%20W%204th%20St",
+      "summary": "Gary's Guide: Come hang with Lorikeet at Little Ruby's in the West Village. Drinks, good people, & any level of AI talk that you care to have. It's a great Aussie spot, which feels about right for us. In partnership with Bond AI - the curated community for AI events, connecting 140K+ AI operators, founders, & ecosystem partners. Subscribe to our Luma pages to stay updated on the best AI events in your city."
     },
     "gary_2026_07_22_lenny_s_newsletter_meetup": {
       "title": "Lenny's Newsletter Meetup",
@@ -790,6 +789,23 @@
       "map": "https://maps.google.com/?q=G-Gallery%2C%20404%20Broadway%2C%202nd%20Fl%2C%20Chinatown",
       "summary": "Gary's Guide: With Sterling Jones (Founder, The Beaut Study),, Chard Anglin (Founder, Triple Eight Creative), Meredith Goodman (Maquillar Studio), Fabliha Chowdhury (Beauty & Retail)."
     },
+    "gary_2026_07_22_founder_pizza_night_seed_to_series_b": {
+      "title": "Founder Pizza Night - Seed To Series B",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-22",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Wed, 07/22 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Mama's TOO!, 325 Bleecker S",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/8ytdn3t/Founder-Pizza-Night-Seed-To-Series-B",
+      "map": "https://maps.google.com/?q=Mama's%20TOO!%2C%20325%20Bleecker%20S",
+      "summary": "Gary's Guide: Founder meetup for venture-backed Seed, Series A, & Series B founders building in NYC hosted by Concentrate AI. Hosted at Mama's TOO in the West Village (one of NYC's best pizza shops) & they rarely do private events. Unlimited pizza. Come hungry. The room will be mostly founders, with a few spots for exceptional operators. No agenda, no speakers, no panels. Completely off the record. The first 10 founders to arrive will get $1K in free tokens. Additionally, for attendees only, we will match your first $25K in tokens purchased in July. A ticket is required for entry. We won't be able to admit walk-ins. - Hosted by Concentrate AI - Concentrate AI gives teams one API for every major AI model, with automatic fallbacks, unified observability & logging, spend tracking, usage analytics, & alerts. Concentrate AI has raised $5M & is backed by RRE Ventures & True Ventures. Please Note By attending, you consent to photo/video use. You also attend at your own risk; we're not liable for any loss, injury, or damage."
+    },
     "gary_2026_07_22_ai_native_fintech_happy_hour": {
       "title": "AI-Native FinTech Happy Hour",
       "type": "tech",
@@ -806,6 +822,23 @@
       "link": "https://www.garysguide.com/events/w1e4tl7/AI-Native-FinTech-Happy-Hour",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Comma Capital, Revamp, Valyu."
+    },
+    "gary_2026_07_23_base44_accelerator_demo_day_finale": {
+      "title": "Base44 Accelerator Demo Day Finale",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-07-23",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Thu, 07/23 · 11:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Wix Playground, 100 Gansevoort St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/9hb4vcy/Base44-Accelerator-Demo-Day-Finale",
+      "map": "https://maps.google.com/?q=Wix%20Playground%2C%20100%20Gansevoort%20St",
+      "summary": "Gary's Guide: With Maor Shlomo (Founder/CEO, Base44)."
     },
     "gary_2026_07_23_climate_data_science": {
       "title": "Climate Data Science",
@@ -841,6 +874,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With founders Tony Henry (99 Yards), Julie Coin (Midnighties), Zhanna Alekseeva (Fits), Lucia Lu (Breakline Society), Kimberly Morgan (Fashion Tech Exec), Ned Lomigora (387 Labs)."
     },
+    "gary_2026_07_23_ai_hack_night": {
+      "title": "AI Hack Night",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-23",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Thu, 07/23 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/59e0b4p/AI-Hack-Night",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Carter Rabasa (Head of Dev Relations, Box), Shy Ruparel (Dev Advocate, Temporal), Aydrian Howard (Dev Advocate, Okta), Kevin Whinnery (Dev Experience Enggr, Anthropic)."
+    },
     "gary_2026_07_23_ai_engineers_devs_drinks": {
       "title": "AI Engineers - Devs & Drinks",
       "type": "tech",
@@ -858,6 +908,40 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Drinks, games & hanging out w/ engg peers."
     },
+    "gary_2026_07_23_the_builder_series_founder_investor_operator_nights": {
+      "title": "The Builder Series - Founder, Investor & Operator Nights",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-07-23",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 07/23 · 6:00pm",
+      "price": "$25",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ri3w0sn/The-Builder-Series-Founder-Investor-Operator-Nights",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: The Builder Series: A 45,000+ member community redefining what networking looks like - curating founders, operators, investors & more into intentional rooms built for experiences people remember & relationships that last. It's a direct line to the most ambitious builders, with a community that actually shows up. We've hosted 13 signature rooftop mixers & co-hosted 70+ events. We also host: Founder & investor-led panels curated by sector Intimate penthouse & dinners for our Seed-Series A+ founders & investors in our network A A Fri-Sat morning Run Club Notable events: Cliqk Launch Party w/ Ilias Anwar & Rohan Gurram (2,000+ RSVPs) $1.5M Pitch Competition with FounderSquare Find us here: Instagram LinkedIn TikTok Facebook X Community Snapshot: 7,000+ RSVPs 996 unique attendees 80+ avg RSVPs/event Who's in the room: Founders ~48% Operators & Senior Professionals ~44% Investors & Advisors ~8% (Angels, VCs, Family Offices) Founder stage: ~67% Pre-Seed ~17% Seed ~5% Series A ~6% Series B+ ~5% Bootstrapped Industries: 23% AI/Deep Tech 23% SaaS/B2B 13% Consumer 13% Fintech 10% Health 7% Media Investor check sizes: ~30% Small bites served mid-way through event: Pictured below Photographer: Headshots, group photos, candid moments & shots at our branded backdrop Videographer: Recap footage + our founder interview Founder Spotlight (Series): Share who you are & what you're building for reuse on socials across all our socials Attendees will receive a NFC digital business card upon entry, thanks to SmartCard Concierge Check in: A member of our team greets you, fits your wristband, & walks you through the event Events Partner SmartCard: A subscription-free digital business card made from aerospace-grade titanium that instantly shares your contact info & social media with just a tap while also capturing the contact details of the person you're speaking with. Schedule: 6:00 - 7:00 PM - Arrival + Concierge Check-In 7:00 PM - Food Served 7:15 - 7:30 PM - Group Photo + Announcements 7:30 - 8:30 PM - Founder Spotlights + Interviews 7:30 - 9:00 PM - Open Networking More Details Tickets required for all attendees (+1s included) Sponsorship inquiries: dylan@thebuilderseries.co, partnerships@thebuilderseries.co 917-242-2821 / Business WhatsApp Join The Builder Series network: Apply here or by email dylan@thebuilderseries.co The Builder Series: Event Disclaimer, Media Consent & Code of Conduct: Click to view By registering or attending The Builder Series event, you acknowledge that you have read, understood, & agree to abide by all policies, rules, & community standards set by The Builder Series. PLEASE NOTE Tickets are non-refundable unless the event is canceled & not rescheduled. Tickets are non-refundable unless the event is canceled. Refund & Transfer Policy Transfers. If you can no longer attend, you may transfer your ticket to someone else by providing the new attendee's name to the organizers. No refunds. Tickets are non-refundable. No monetary exchanges will be issued by the organizers. Event credit. If you miss an event, you may receive credit toward a future event. Credit expires 30 days after the missed event's date. Weather cancellations. If an event has to be rescheduled due to weather, you will be re-registered for the new date. Spotlight tickets. Spotlight tickets are fully non-refundable. If you can't attend, you may speak at a future event instead. Out-of-state purchases. The only refundable tickets are those purchased from outside New York - for example, from Toronto, California, or Austin. Connect with Me: Join 45,000+ people shaping the future Join the Newsletter Follow the Builder Series Find me here"
+    },
+    "gary_2026_07_23_agentic_aperitivo_ladies_cocktail_hour": {
+      "title": "Agentic Aperitivo - Ladies' Cocktail Hour",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-23",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 07/23 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/2j9i0ij/Agentic-Aperitivo-Ladies-Cocktail-Hour",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Release yourself from the office & your favorite sundress from the closet as we escape to the Amalfi Coast for an exclusive afternoon at an iconic West Village institution. Join the Baselaydies & the brightest minds shaping the future of agentic commerce for an exclusive, high-energy cocktail hour. We're serving up sun-drenched Italian vibes, passed apps, artisanal cheese & charcuterie, & custom craft cocktails - because the best things are still human (and certainly women)-in-the-loop. Come for the chic coastal escape & photo opp; leave with the powerful connections driving the agentic economy forward. All agents, no gents. Space is strictly limited to maintain an intimate atmosphere. Register now to claim your seat & your spritz."
+    },
     "gary_2026_07_24_founder_strength_club": {
       "title": "Founder Strength Club",
       "type": "startup",
@@ -869,10 +953,10 @@
       "when": "Fri, 07/24 · 9:00am",
       "price": "Varies",
       "free": false,
-      "place": "Premier Gym in New York, To Be Announced",
+      "place": "Premier Gym, To Be Announced",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/p5lnpd3/Founder-Strength-Club",
-      "map": "https://maps.google.com/?q=Premier%20Gym%20in%20New%20York%2C%20To%20Be%20Announced",
+      "map": "https://maps.google.com/?q=Premier%20Gym%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Hi, Andrew Yeung here. We started the Junto Founder Dinner series two years ago to bring together the top founders + builders. This time, we're doing something a little different. Instead of a seated breakfast, we're bringing together 24 vetted early-stage founders & CEOs for a private strength-based networking experience at a premier gym in New York. The session will be a 60-minute group workout class designed specifically to help ambitious founders connect in a more active, energizing environment. Expect a moderate-intensity strength class that is approachable for different fitness levels, but still requires the ability to participate in a full physical training session. After class, we'll have time to cool down, connect, & continue conversations with fellow high-performing startup leaders. What to expect: A private group strength class at a premier gym in New York Conversations with fellow ambitious founders, CEOs, & builders A post-class networking moment to meet peers solving similar problems Our only intent is to bring good, smart humans together - this time, with a little sweat involved. Details: Date: July 24, 2026 Time: 9:00am - 11:00am Venue: Premier Gym in New York Please note: This experience includes a physical group training class. You should be comfortable participating in approximately 60 minutes of moderate-intensity exercise. Apply to join by filling out the RSVP form. About our hosts & sponsors: Andrew Yeung is the Founder, CEO of fibe - a portfolio of events companies including andrew's mixers, The Junto Series & Lumos House. & the OOO Summit. He is also a Partner at Next Wave NYC, a pre-seed/seed found backed by Flybridge Capital. Andrew's hosted 100+ events for 50k+ tech founders & professionals in 8 cities that were featured in Bloomberg, Business Insider, Fast Company, & Fortune Magazine. Business Insider dubbed him the \"Gatsby of Silicon Alley.\" Rho is the all-in-one banking platform for startups. With banking set up in minutes, 2% cashback cards, & powerful tools for managing spend, paying bills, & closing the books, Rho helps high-growth startups move fast & stay focused-with support that goes to the ends of the earth to help you win. Lowenstein Sandler's ECVC group delivers tailored legal strategies for launching, scaling, & financing companies in life sciences & healthcare. They close thousands of deals each year & advise founders on financings, licensing, & IP."
     },
     "gary_2026_07_24_hello_robot_hackathon": {
@@ -977,6 +1061,23 @@
       "map": "https://maps.google.com/?q=Marsha%20P%20Johnson%20Memorial%20Fountain%2C%20Hudson%20River%20Greenway",
       "summary": "Gary's Guide: With Rain, Monk, JPMorgan."
     },
+    "gary_2026_07_28_cvc_from_strategic_investment_to_exit": {
+      "title": "CVC - From Strategic Investment To Exit",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-07-28",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Tue, 07/28 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/vs1agb3/CVC-From-Strategic-Investment-To-Exit",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Tyler Schinto (Presidio Ventures), Leo Lu (Huntington Ventures), Anastasia Lykova (Elpis Labs)."
+    },
     "gary_2026_07_28_junto_founder_dinner": {
       "title": "Junto Founder Dinner",
       "type": "startup",
@@ -993,6 +1094,23 @@
       "link": "https://www.garysguide.com/events/hkicv28/Junto-Founder-Dinner",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Hi, Andrew Yeung here. We started the Junto Founder Dinner series two years ago to bring together the top founders + builders. Each month, we invite 24 vetted early-stage founders & CEOs for a 3-hour, multiple-course dinner experience. What to expect: A 3-course meal, courtesy of our partners Conversations with fellow high-performing startup leaders A dinner experience designed to facilitate new connections & conversations, with rotating 6-person table formats Meaningful connections with ambitious peers solving similar problems If you're wondering how our dinners usually go... read this Our only intent is to bring good, smart humans together. Details: Date: July 28, 2026 Time: 6:00pm - 8:30pm Venue: Private Dinner Club in NYC Past attendees of my events include the founders/C-suite of Venmo, Duolingo, Foursquare, Lyft, Goldman Sachs, Compass, Superhuman, Yext, OpenDoor, Chief, LearnVest, DocSend, Vercel, Loom, Morning Brew, The Hustle, Gas, Teachable, Replit, Twitter, Slack, Pinterest, Yahoo, MongoDB, Business Insider, Wonder, Hinge. Apply to join by filling out the RSVP form."
+    },
+    "gary_2026_07_28_padel_w_founders": {
+      "title": "Padel w/ Founders",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-07-28",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 07/28 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Mink Padel at Harlem, 439 W 127th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ojcilai/Padel-w-Founders",
+      "map": "https://maps.google.com/?q=Mink%20Padel%20at%20Harlem%2C%20439%20W%20127th%20St",
+      "summary": "Gary's Guide: Oceans Talent & Mink Padel invite you to eat, drink, learn & PLAY PADEL . Join us for an evening with fellow founders & learn how to leverage global talent to scale operations & build brands. What to expect: Break a sweat: pick up a racket & join a padel game (beginners & advanced players welcome!) Eat: delicious bites from our favorite local Vietnamese spot Hydrate: beers, seltzers, & refreshers! Network: meet fellow founders across CPG, tech, law & creative media Learn: how your peers are solving problems & scaling operations Most importantly, come to have fun! This is a private event. RSVP via Partiful link is required. Please reach out to marietta@oceanstalent.com for more information."
     },
     "gary_2026_07_28_jfe_startup_tech_rooftop_mixer": {
       "title": "JFE Startup & Tech Rooftop Mixer",
@@ -1062,21 +1180,72 @@
       "map": "https://maps.google.com/?q=Venue%2C%2091%201st%20Ave",
       "summary": "Gary's Guide: With Matt Mirman (CEO, Chat.Dev). Win custom Adizero Evo SL shoes."
     },
+    "gary_2026_07_30_buzzfeed_ai_demos_happy_social_hour": {
+      "title": "BuzzFeed AI Demos & Happy Social Hour",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-07-30",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Thu, 07/30 · 3:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Flatiron, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/7nvj426/BuzzFeed-AI-Demos-Happy-Social-Hour",
+      "map": "https://maps.google.com/?q=Flatiron%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: If your idea of a fun Thursday involves seeing cool AI projects & wondering, \"Wait... how did they make that?\" Come hang out with us. BuzzFeed is teaming up with NYC AI Coworking for an afternoon of live demos from builders across the community. You'll see BuzzFeed's latest projects, Conjure & Rat Race, along with a lineup of demos from members of Chris's network who have been busy making all kinds of weird, clever, & genuinely impressive things. Then we'll trade demos for drinks. Stick around for a laid-back happy social hour with seltzers, AI challenges, good conversations, & plenty of time to meet the people behind the projects. Ask questions, swap ideas, give feedback, or just nerd out about AI with people who won't glaze over after thirty seconds. Whether you build AI for a living, tinker with it on weekends, or just like seeing what people are making, we'd love to have you. Thursday, July 30 3:00-5:00 PM Flatiron Come for the demos. Stay because you accidentally started a 20-minute conversation about prompting & poltergeists."
+    },
+    "gary_2026_07_30_founders_investors_soiree": {
+      "title": "Founders & Investors Soiree",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-07-30",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Thu, 07/30 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/tj6memx/Founders-Investors-Soiree",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Max Kuivenhoven (Startups & Ventures, MongoDB), Elena Obukhova & Christopher Michael (Founder, Supermoon)."
+    },
+    "gary_2026_07_30_real_estate_beer_pong_classic": {
+      "title": "Real Estate Beer Pong Classic",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-07-30",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 07/30 · 6:30pm",
+      "price": "$30",
+      "free": false,
+      "place": "Venue, 535 5th Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/eof9ysn/Real-Estate-Beer-Pong-Classic",
+      "map": "https://maps.google.com/?q=Venue%2C%20535%205th%20Ave",
+      "summary": "Gary's Guide: With Ferguson (Founder, Ideal Rev), Gabe Einhorn (Founder, VryfID)."
+    },
     "gary_2026_07_31_tech_happy_hour_by_startup_grind": {
       "title": "Tech Happy Hour By Startup Grind",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Fri",
       "date": "2026-07-31",
-      "time": "7 AM",
-      "sort": 7,
-      "when": "Fri, 07/31 · 7:00am",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Fri, 07/31 · 5:00pm",
       "price": "Free",
       "free": true,
-      "place": "Time Out Market Union Sq, 124 E 14th St",
+      "place": "Time Out Market Union Sqare, 124 E 14th St",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/s3t8r9v/Tech-Happy-Hour-By-Startup-Grind",
-      "map": "https://maps.google.com/?q=Time%20Out%20Market%20Union%20Sq%2C%20124%20E%2014th%20St",
+      "map": "https://maps.google.com/?q=Time%20Out%20Market%20Union%20Sqare%2C%20124%20E%2014th%20St",
       "summary": "Gary's Guide: A happy hour for real conversations. This is our monthly tech mixer to connect with peers across the NYC tech & startup community - from founders & VCs to developers & designers."
     },
     "gary_2026_08_01_build_w_gemma_on_device_ai_for_healthcare": {
@@ -1095,159 +1264,6 @@
       "link": "https://www.garysguide.com/events/cgyb5dq/Build-w-Gemma-On-Device-AI-For-Healthcare",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Hackathon building next gen of healthcare tools w/ Google's open Gemma 4 models. $2K prize."
-    },
-    "gary_2026_08_02_cfo_ai_leverage_report": {
-      "title": "CFO AI Leverage Report",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-08-02",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 08/02 · 12:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Fairfield by Marriott, 325 W 33rd St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ltzm39p/CFO-AI-Leverage-Report",
-      "map": "https://maps.google.com/?q=Fairfield%20by%20Marriott%2C%20325%20W%2033rd%20St",
-      "summary": "Gary's Guide: Exec briefing & industry benchmark discussion."
-    },
-    "gary_2026_08_06_ai_engineers_poker_game_night": {
-      "title": "AI Engineers - Poker & Game Night",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-08-06",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Thu, 08/06 · 7:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/kjnyxfl/AI-Engineers-Poker-Game-Night",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies.nWell have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart.nComplimentary drinks & pizza are on us.nHigh signal, low pressure. Come play poker, jump into games, & spend the night with some of NYCs top engineers, founders, & operators.nLimited seats.nRegistration: require linkedin, company, job title, & include the following multiple choice (single select)nHow would you like to participate?nPoker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in.n*Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi, click Get Hired, & apply.nOptions:nPoker ($100 buy-in, seat not guaranteed)nHang Out & Other GamesnHiring?nWant intros to startups?"
-    },
-    "gary_2026_08_08_raingentic_commerce_hackathon": {
-      "title": "Raingentic Commerce Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-08-08",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sat, 08/08 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Rain Office, 11 E 26th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/96jemmg/Raingentic-Commerce-Hackathon",
-      "map": "https://maps.google.com/?q=Rain%20Office%2C%2011%20E%2026th%20St",
-      "summary": "Gary's Guide: With Rob Hadick (General Partner, Dragonfly), Arnav Bimbhet (Partner, FirstMark), Charles Yoo-Naut (Founder/CTO, Rain)."
-    },
-    "gary_2026_08_08_checkout_travel_hospitality_hackathon": {
-      "title": "Checkout - Travel & Hospitality Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-08-08",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 08/08 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/de479ii/Checkout-Travel-Hospitality-Hackathon",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With George Mwangi (Founder, WanderWorth), Eni M (Founder, TravelSpoke)."
-    },
-    "gary_2026_08_13_the_dollar_just_got_an_api_stablecoin_use_cases_for_": {
-      "title": "The Dollar Just Got An API - Stablecoin Use Cases For Business",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-08-13",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Thu, 08/13 · 5:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Virtual, Online",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/5sv38nb/The-Dollar-Just-Got-An-API-Stablecoin-Use-Cases-For-Business",
-      "map": "https://maps.google.com/?q=Virtual%2C%20Online",
-      "summary": "Gary's Guide: With Sheetal Rishi (Stripe)."
-    },
-    "gary_2026_08_18_ai_demo_night": {
-      "title": "AI Demo Night",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-08-18",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Tue, 08/18 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Poster House, 119 W 23rd St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ln52pki/AI-Demo-Night",
-      "map": "https://maps.google.com/?q=Poster%20House%2C%20119%20W%2023rd%20St",
-      "summary": "Gary's Guide: Demos by ClickHouse, Docker, Langfuse, LibreChat."
-    },
-    "gary_2026_08_19_seed_series_a_founder_happy_hour_building_teams_that": {
-      "title": "Seed-Series A Founder Happy Hour - Building Teams That Scale",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-08-19",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Wed, 08/19 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/6zqgtvy/Seed-Series-A-Founder-Happy-Hour-Building-Teams-That-Scale",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Genevieve (Founder, Pinnacle Path)."
-    },
-    "gary_2026_08_21_nyc_coffee_club_early_stage_ai_native_founders_funde": {
-      "title": "NYC Coffee Club - Early-Stage AI-Native Founders & Funders",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-08-21",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 08/21 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/smyj68e/NYC-Coffee-Club-Early-Stage-AI-Native-Founders-Funders",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Olivia, Alice, Naomi & Lauren (Forum Ventures)."
-    },
-    "gary_2026_08_22_the_great_founder_river_float_of_2026": {
-      "title": "The Great Founder River Float Of 2026",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sat",
-      "date": "2026-08-22",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sat, 08/22 · 9:00am",
-      "price": "Varies",
-      "free": false,
-      "place": "Delaware River, To Be Announced-, Easton",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/qzbem30/The-Great-Founder-River-Float-Of-2026",
-      "map": "https://maps.google.com/?q=Delaware%20River%2C%20To%20Be%20Announced-%2C%20Easton",
-      "summary": "Gary's Guide: 90m private charter from NYC, followed by 3 hr float down Delaware River w/ other founders."
     },
     "luma_2026_07_19_sound_and_movement_hackathon": {
       "title": "Sound and Movement Hackathon",
@@ -1283,22 +1299,22 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Brits in Tech, Tori Hanson"
     },
-    "luma_2026_07_22_founder_pizza_night_seed_to_series_b": {
-      "title": "Founder Pizza Night: Seed to Series B",
+    "luma_2026_07_21_the_shortlist_july_founder_showcase": {
+      "title": "The Shortlist: July Founder Showcase",
       "type": "startup",
       "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-07-22",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Wed, 07/22 · 10:30pm",
+      "day": "Tue",
+      "date": "2026-07-21",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Tue, 07/21 · 10pm",
       "price": "Free",
       "free": true,
-      "place": "Mama's TOO! Pizzeria West Village",
+      "place": "New York, New York",
       "source": "Luma NYC",
-      "link": "https://luma.com/j3kso4an",
-      "map": "https://maps.google.com/?q=Mama's%20TOO!%20Pizzeria%20West%20Village%20NYC",
-      "summary": "Luma NYC: Concentrate AI, Zach Moskow"
+      "link": "https://luma.com/shortlistjuly",
+      "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
+      "summary": "Luma NYC: The Shortlist NY, Sangavi Suresh, Andrew Yeung, Betaworks, Ivor Stratford"
     },
     "jc_culture_39108_2026_07_19_around_the_world_watch_party_2026": {
       "title": "Around the World Watch Party 2026",
@@ -2001,7 +2017,7 @@
       "gary_2026_07_21_stripe_developer_meetup",
       "gary_2026_07_21_ai_founders_supper_club",
       "gary_2026_07_21_how_to_build_happier_more_connected_workplace_in_age",
-      "gary_2026_07_21_the_shortlist_july_founder_showcase"
+      "gary_2026_07_21_the_shortlist_founder_showcase"
     ],
     "cluster_2026_07_22_5_30_pm": [
       "gary_2026_07_22_lenny_s_newsletter_meetup",
@@ -2013,9 +2029,22 @@
       "gary_2026_07_22_pioneering_minds_ai_pitching_masterclass",
       "gary_2026_07_22_ai_native_women_beauty_health_wellness"
     ],
+    "cluster_2026_07_23_5_pm": [
+      "gary_2026_07_23_setting_the_standard_how_ai_redefining_excellence_ac",
+      "gary_2026_07_23_ai_hack_night"
+    ],
+    "cluster_2026_07_23_6_pm": [
+      "gary_2026_07_23_ai_engineers_devs_drinks",
+      "gary_2026_07_23_the_builder_series_founder_investor_operator_nights",
+      "gary_2026_07_23_agentic_aperitivo_ladies_cocktail_hour"
+    ],
     "cluster_2026_07_25_2_pm": [
       "gary_2026_07_25_nj_code_coffee",
       "jc_culture_41405_2026_07_25_heights_free_market_2026"
+    ],
+    "cluster_2026_07_28_6_pm": [
+      "gary_2026_07_28_junto_founder_dinner",
+      "gary_2026_07_28_padel_w_founders"
     ],
     "cluster_2026_07_28_6_30_pm": [
       "gary_2026_07_28_jfe_startup_tech_rooftop_mixer",
@@ -2024,6 +2053,14 @@
     "cluster_2026_07_29_6_pm": [
       "gary_2026_07_29_leaders_in_product_fintech_insights",
       "gary_2026_07_29_junto_founder_dinner"
+    ],
+    "cluster_2026_07_30_6_30_pm": [
+      "gary_2026_07_30_real_estate_beer_pong_classic",
+      "jc_culture_38072_2026_07_30_berry_lane_music_fest_2026_p_r_i_m_e"
+    ],
+    "cluster_2026_07_21_10_pm": [
+      "luma_2026_07_21_meet_us_on_the_roof_brits_in_tech_the_great_british_",
+      "luma_2026_07_21_the_shortlist_july_founder_showcase"
     ],
     "cluster_2026_07_21_6_30_pm": [
       "jc_culture_38062_2026_07_21_jersey_city_summerfest_2026_forget_the_whale",
