@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 18, 2026, 4:21 PM EDT",
+    "checked": "Jul 19, 2026, 7:49 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-18",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Jul 18"
-      },
       {
         "iso": "2026-07-19",
         "key": "Sun",
@@ -45,15 +39,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Jul 24"
+      },
+      {
+        "iso": "2026-07-25",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Jul 25"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-18",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Jul 18"
-      },
       {
         "iso": "2026-07-19",
         "key": "Sun",
@@ -233,9 +227,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Aug 17"
+      },
+      {
+        "iso": "2026-08-18",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Aug 18"
       }
     ],
-    "todayKey": "Sat",
+    "todayKey": "Sun",
     "times": [
       "7 AM",
       "8 AM",
@@ -258,7 +258,8 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
-      "10 PM"
+      "10 PM",
+      "10:30 PM"
     ]
   },
   "events": {
@@ -499,40 +500,6 @@
       "link": "https://www.instagram.com/p/Da0Z2hBgXH2/",
       "map": "https://maps.google.com/?q=greenwich%20ave%20%2B%207th%20ave%2C%20west%20village%20(sun%2012-6pm)%3B%2086th%20st%20%2B%20lexington%20ave%2C%20upper%20east%20side%20(mon%202-10pm)%3B%206th%20ave%20%2B%20w%203rd%20st%2C%20greenwich%20village%20(tues%202-10pm)%20NYC",
       "summary": "national ice cream day. Pulled from The Skint's public article feed: sun thru tues: free yasso froyo truck pop-up: greenwich ave + 7th ave, west village (sun 12-6pm); 86th st + lexington ave, upper east side (mon 2-10pm); 6th ave + w 3rd st, greenwich village (tues 2-10pm)."
-    },
-    "gary_2026_07_17_ai_engineers_game_night": {
-      "title": "AI Engineers - Game Night",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-07-17",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Fri, 07/17 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/4pwp82h/AI-Engineers-Game-Night",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Night of Smash Bros, Mario Kart, board games & good conversation."
-    },
-    "gary_2026_07_17_dev_cup_w_tavily_composio": {
-      "title": "Dev Cup w/ Tavily & Composio",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-07-17",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Fri, 07/17 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/4dbl2jh/Dev-Cup-w-Tavily-Composio",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: DEV CUP: TAVILY X COMPOSIO Your agents are working. You should be playing. Come out, touch grass (literally), & share a ball with fellow devs who believe the future of work is one where your AI handles the grind so you don't have to. Tavily & Composio are helping agents handle the busy work that keeps you at your desk. So close the laptop. The agents got it! July 17th 6:30 PM UWS Court, New York City Expect: Pickup futbol on a real court World Cup energy (we'll have the scores) Good convos about agents, AI, & what it means to actually log off Fellow devs who get it Free to attend. Bring cleats or sneakers. Leave the laptop. LIMITED SPACE AVAILABLE"
     },
     "gary_2026_07_19_sound_movement_music_hackathon": {
       "title": "Sound & Movement Music Hackathon",
@@ -1248,22 +1215,39 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Genevieve (Founder, Pinnacle Path)."
     },
-    "luma_2026_07_18_builders_cup_2026_a_hackathon_by_ramp": {
-      "title": "🏆 Builders Cup 2026 - A Hackathon by Ramp",
+    "gary_2026_08_21_nyc_coffee_club_early_stage_ai_native_founders_funde": {
+      "title": "NYC Coffee Club - Early-Stage AI-Native Founders & Funders",
       "type": "tech",
       "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-07-18",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sat, 07/18 · 2pm",
+      "day": "Fri",
+      "date": "2026-08-21",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Fri, 08/21 · 10:00am",
       "price": "Free",
       "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/nrletiv9",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Ramp Emerging Talent, Richard Noguchi, Cat Choy, angela, Chelsea Commons"
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/smyj68e/NYC-Coffee-Club-Early-Stage-AI-Native-Founders-Funders",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Olivia, Alice, Naomi & Lauren (Forum Ventures)."
+    },
+    "gary_2026_08_22_the_great_founder_river_float_of_2026": {
+      "title": "The Great Founder River Float Of 2026",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Sat",
+      "date": "2026-08-22",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Sat, 08/22 · 9:00am",
+      "price": "Varies",
+      "free": false,
+      "place": "Delaware River, To Be Announced-, Easton",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/qzbem30/The-Great-Founder-River-Float-Of-2026",
+      "map": "https://maps.google.com/?q=Delaware%20River%2C%20To%20Be%20Announced-%2C%20Easton",
+      "summary": "Gary's Guide: 90m private charter from NYC, followed by 3 hr float down Delaware River w/ other founders."
     },
     "luma_2026_07_19_sound_and_movement_hackathon": {
       "title": "Sound and Movement Hackathon",
@@ -1299,56 +1283,22 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Brits in Tech, Tori Hanson"
     },
-    "jc_culture_41819_2026_07_18_liberty_science_center_slymez_guests_with_help_from_": {
-      "title": "LIBERTY SCIENCE CENTER ‘SLYMEZ’ GUESTS WITH HELP FROM GOGO SQUEEZ®",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-07-18",
-      "time": "8 AM",
-      "sort": 8,
-      "when": "Sat, 07/18 · 8am",
+    "luma_2026_07_22_founder_pizza_night_seed_to_series_b": {
+      "title": "Founder Pizza Night: Seed to Series B",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-22",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Wed, 07/22 · 10:30pm",
       "price": "Free",
       "free": true,
-      "place": "LIBERTY SCIENCE CENTER, 222 JERSEY CIYT BOULEVARD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/liberty-science-center-slymez-guests-with-help-from-gogo-squeez/",
-      "map": "https://maps.google.com/?q=LIBERTY%20SCIENCE%20CENTER%2C%20222%20JERSEY%20CIYT%20BOULEVARD%2C%20JERSEY%20CITY",
-      "summary": "Liberty Science Center is wrapping up its Summer of Soccer and Science celebration and inviting families to take part in a weekend of epic, action-packed activities. Get ready to dive in to adventures like Drone Soccer, Rat-thlete Matches, and the final ‘Pup Cup’ featuring our canine friends from the Seeing Eye. Plus attendees will have the opportunity to enjoy complimentary samples of GoGo squeeZ® SlymeZ, available while supplies last. This better-for-you snack comes in bold, sweet n’ sour flavors including Blue Raspberry, Strawberry Lemonade, Cherry and Green Apple, and is made with 100% real fruit, no added sugar, and comes in a smooth texture kids will love!"
-    },
-    "jc_culture_39860_2026_07_18_carrington_village_5th_annual_carribean_festival": {
-      "title": "Carrington Village 5th Annual Carribean Festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-07-18",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 07/18 · 12pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Carrington Village, 459 Martin Luther King Dr., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/carrington-village-5th-annual-carribean-festival/",
-      "map": "https://maps.google.com/?q=Carrington%20Village%2C%20459%20Martin%20Luther%20King%20Dr.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "The Carrington Village Caribbean Festival returns on July 18, 2026. 5 years of culture, and VIBES!!! ​During this event we will enchant Jersey City with Caribbean flavors, highlighting West Indian culture, food, artists, and entertainment with various activities for the entire family. The event is FREE for all. Kids Zone, Music, Food, and Culture Performaces by: Boom Boom Room Rhythm Section Ekkquinox Steel Band CarNYval Dancer Mas by Urban Dance and Sugar Candy Mas Special Traditional performance by Le Troupe Zetwal (Haiti) Musical Performances by: Mesha Steele (from Jamaica), Fiyah B (from Barbados) and Erphaan Alves (From Trinidad and Tobago)"
-    },
-    "jc_culture_40815_2026_07_18_somewhere_social_picnic_2026": {
-      "title": "Somewhere Social Picnic 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-07-18",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sat, 07/18 · 2pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Lincoln Park, 1 County Rd 605, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/somewhere-social-picnic-2026/",
-      "map": "https://maps.google.com/?q=Lincoln%20Park%2C%201%20County%20Rd%20605%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor What's Coming Up?."
+      "place": "Mama's TOO! Pizzeria West Village",
+      "source": "Luma NYC",
+      "link": "https://luma.com/j3kso4an",
+      "map": "https://maps.google.com/?q=Mama's%20TOO!%20Pizzeria%20West%20Village%20NYC",
+      "summary": "Luma NYC: Concentrate AI, Zach Moskow"
     },
     "jc_culture_39108_2026_07_19_around_the_world_watch_party_2026": {
       "title": "Around the World Watch Party 2026",
@@ -2012,6 +1962,23 @@
       "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-wilma-ann/",
       "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
       "summary": "&nbsp; JC Summerfest featuring Wilma Ann Jazz and Soul South Cove Lawn Liberty State Park 6:30pm-8:30pm"
+    },
+    "jc_culture_10003564_2026_08_19_hamilton_park_farmers_market_2026": {
+      "title": "Hamilton Park Farmers Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-08-19",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 08/19 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-08-19/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     }
   },
   "clusters": {
@@ -2029,10 +1996,6 @@
       "gary_2026_07_19_sound_movement_music_hackathon",
       "jc_culture_39108_2026_07_19_around_the_world_watch_party_2026",
       "jc_culture_41448_2026_07_19_fun_in_the_sun_day_2026"
-    ],
-    "cluster_2026_07_17_6_30_pm": [
-      "gary_2026_07_17_ai_engineers_game_night",
-      "gary_2026_07_17_dev_cup_w_tavily_composio"
     ],
     "cluster_2026_07_21_6_pm": [
       "gary_2026_07_21_stripe_developer_meetup",
@@ -2061,10 +2024,6 @@
     "cluster_2026_07_29_6_pm": [
       "gary_2026_07_29_leaders_in_product_fintech_insights",
       "gary_2026_07_29_junto_founder_dinner"
-    ],
-    "cluster_2026_07_18_2_pm": [
-      "luma_2026_07_18_builders_cup_2026_a_hackathon_by_ramp",
-      "jc_culture_40815_2026_07_18_somewhere_social_picnic_2026"
     ],
     "cluster_2026_07_21_6_30_pm": [
       "jc_culture_38062_2026_07_21_jersey_city_summerfest_2026_forget_the_whale",
