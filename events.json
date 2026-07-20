@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 19, 2026, 4:24 PM EDT",
+    "checked": "Jul 20, 2026, 9:00 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-19",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Jul 19"
-      },
       {
         "iso": "2026-07-20",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Jul 25"
+      },
+      {
+        "iso": "2026-07-26",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Jul 26"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-19",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Jul 19"
-      },
       {
         "iso": "2026-07-20",
         "key": "Mon",
@@ -233,9 +227,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Aug 18"
+      },
+      {
+        "iso": "2026-08-19",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Aug 19"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
       "7 AM",
       "8 AM",
@@ -246,6 +246,7 @@
       "11 AM",
       "11:30 AM",
       "12 PM",
+      "1 PM",
       "2 PM",
       "2:30 PM",
       "3 PM",
@@ -500,23 +501,6 @@
       "map": "https://maps.google.com/?q=greenwich%20ave%20%2B%207th%20ave%2C%20west%20village%20(sun%2012-6pm)%3B%2086th%20st%20%2B%20lexington%20ave%2C%20upper%20east%20side%20(mon%202-10pm)%3B%206th%20ave%20%2B%20w%203rd%20st%2C%20greenwich%20village%20(tues%202-10pm)%20NYC",
       "summary": "national ice cream day. Pulled from The Skint's public article feed: sun thru tues: free yasso froyo truck pop-up: greenwich ave + 7th ave, west village (sun 12-6pm); 86th st + lexington ave, upper east side (mon 2-10pm); 6th ave + w 3rd st, greenwich village (tues 2-10pm)."
     },
-    "gary_2026_07_19_sound_movement_music_hackathon": {
-      "title": "Sound & Movement Music Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-07-19",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 07/19 · 12:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Fractal Tech, 111 Conselyea St, 2nd Fl, Brooklyn",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/hwqrt3j/Sound-Movement-Music-Hackathon",
-      "map": "https://maps.google.com/?q=Fractal%20Tech%2C%20111%20Conselyea%20St%2C%202nd%20Fl%2C%20Brooklyn",
-      "summary": "Gary's Guide: Presented by Music Community Lab."
-    },
     "gary_2026_07_21_my_worst_day_as_a_cfo_lessons_that_changed_how_i_lea": {
       "title": "My Worst Day As A CFO - Lessons That Changed How I Lead",
       "type": "startup",
@@ -702,7 +686,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/jfjrfei/Lenny-s-Newsletter-Meetup",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Zakir Tyebjee.(Founder, Stride)."
+      "summary": "Gary's Guide: With Zakir Tyebjee (Founder, Stride)."
     },
     "gary_2026_07_22_ai_pitch_blitz_1k_cash_drop_rooftop_edition": {
       "title": "AI Pitch Blitz - $1k Cash Drop Rooftop Edition",
@@ -773,7 +757,7 @@
       "summary": "Gary's Guide: With Ben Schwartz (Founder/CEO, Tavern Community), Anthony Rose (CTO, BBC iPlayer)."
     },
     "gary_2026_07_22_ai_native_women_beauty_health_wellness": {
-      "title": "Ai-Native Women - Beauty, Health, Wellness",
+      "title": "AI-Native Women - Beauty, Health, Wellness",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Wed",
@@ -785,7 +769,7 @@
       "free": true,
       "place": "G-Gallery, 404 Broadway, 2nd Fl, Chinatown",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/280m6mg/Ai-Native-Women-Beauty-Health-Wellness",
+      "link": "https://www.garysguide.com/events/280m6mg/AI-Native-Women-Beauty-Health-Wellness",
       "map": "https://maps.google.com/?q=G-Gallery%2C%20404%20Broadway%2C%202nd%20Fl%2C%20Chinatown",
       "summary": "Gary's Guide: With Sterling Jones (Founder, The Beaut Study),, Chard Anglin (Founder, Triple Eight Creative), Meredith Goodman (Maquillar Studio), Fabliha Chowdhury (Beauty & Retail)."
     },
@@ -1265,22 +1249,22 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Hackathon building next gen of healthcare tools w/ Google's open Gemma 4 models. $2K prize."
     },
-    "luma_2026_07_19_sound_and_movement_hackathon": {
-      "title": "Sound and Movement Hackathon",
+    "gary_2026_08_02_cfo_ai_leverage_report": {
+      "title": "CFO AI Leverage Report",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Sun",
-      "date": "2026-07-19",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Sun, 07/19 · 4pm",
+      "date": "2026-08-02",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sun, 08/02 · 12:00pm",
       "price": "Free",
       "free": true,
-      "place": "Fractal Tech",
-      "source": "Luma NYC",
-      "link": "https://luma.com/yfapplpy",
-      "map": "https://maps.google.com/?q=Fractal%20Tech%20NYC",
-      "summary": "Luma NYC: Music Community Lab, Brenden Hussey"
+      "place": "Fairfield by Marriott, 325 W 33rd St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ltzm39p/CFO-AI-Leverage-Report",
+      "map": "https://maps.google.com/?q=Fairfield%20by%20Marriott%2C%20325%20W%2033rd%20St",
+      "summary": "Gary's Guide: Exec briefing & industry benchmark discussion."
     },
     "luma_2026_07_21_meet_us_on_the_roof_brits_in_tech_the_great_british_": {
       "title": "Meet us on the Roof! Brits in Tech & The Great British Business Club",
@@ -1316,56 +1300,22 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
       "summary": "Luma NYC: The Shortlist NY, Sangavi Suresh, Andrew Yeung, Betaworks, Ivor Stratford"
     },
-    "jc_culture_39108_2026_07_19_around_the_world_watch_party_2026": {
-      "title": "Around the World Watch Party 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sun",
-      "date": "2026-07-19",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 07/19 · 12pm",
+    "luma_2026_07_24_founder_strength_club_hosted_by_andrew_friends": {
+      "title": "Founder Strength Club (Hosted by Andrew & Friends)",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-07-24",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Fri, 07/24 · 1pm",
       "price": "Free",
       "free": true,
-      "place": "3, 400 Claremont Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/around-the-world-watch-party-2026/",
-      "map": "https://maps.google.com/?q=3%2C%20400%20Claremont%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "The “Around the World Watch Party” is a festival centered on a live broadcast of the World Cup Final. The event will transform Claremont Avenue (between West Side Avenue and Mallory Avenue) into an immersive “world village,” featuring curated cultural zones representing different regions. This program is designed to bring together residents, local businesses, and cultural organizations in a free and accessible public space that promotes community engagement and cultural exchange. Around the World Watch Party Finals Sunday, July 19th, 12-6 PMClaremont Ave, Between Mallory and West Side Argentina VS Spain Join us for an outdoor game viewing and multicultural festival, featuring live DJs, performances, and an immersive world village! One Match. One World. Sunday, July 19th, 12-6 PMClaremont Ave, Between Mallory and West Side 2 big screens streaming the world cup final Soccer & Culture • Food • Beer Garden DJ + Live Performances Local Vendors Photobooth Free Parking in NJ Transit Lot (DAILY)Located Right Off the West Side Light Rail Event Policies No re-entry prohibited. Supervision required for children under 12. Event may be photographed or recorded. Allowed/Prohibited items for Event Prohibited Items Outside Food or Beverages Weapons/No CCPS Illegal Substances Drones Fireworks or Explosives Pets (except service animals) Lawn Chairs SECURITY SCREENING REQUIRED All guests are subject to magnetometer screening and bag inspection. Note that any items you bring to the Around the World Watch Party could be subject to search. Please remember to keep bags, packages, strollers, etc. in sight. Do not leave any belongings unattended at any time."
-    },
-    "jc_culture_41448_2026_07_19_fun_in_the_sun_day_2026": {
-      "title": "Fun in the Sun Day 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sun",
-      "date": "2026-07-19",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 07/19 · 12pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "MT. PISGAH CHURCH, 354 FORREST STREET, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/fun-in-the-sun-day-2026/",
-      "map": "https://maps.google.com/?q=MT.%20PISGAH%20CHURCH%2C%20354%20FORREST%20STREET%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor What's Coming Up?."
-    },
-    "jc_culture_38055_2026_07_19_jersey_city_summerfest_2026_orchestre_moto": {
-      "title": "Jersey City Summerfest 2026 / Orchestre Moto",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sun",
-      "date": "2026-07-19",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sun, 07/19 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Liberty State Park, North Cove",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-orchestre-moto/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "&nbsp; JC Summerfest featuring Orchestre Moto (Congolese Dance Music) North Cove Field Liberty State Park 6pm-8pm"
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/founderstrengthclub-jul2026",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung, Drew Parten, Max Kuivenhoven, Leia K. Galasso"
     },
     "jc_culture_41057_2026_07_20_columbia_flag_raising_2026": {
       "title": "Columbia Flag Raising 2026",
@@ -2006,12 +1956,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_07_19_12_pm": [
-      "skint_89118_1_national_ice_cream_day_at_the_prospect_park_carousel",
-      "gary_2026_07_19_sound_movement_music_hackathon",
-      "jc_culture_39108_2026_07_19_around_the_world_watch_party_2026",
-      "jc_culture_41448_2026_07_19_fun_in_the_sun_day_2026"
     ],
     "cluster_2026_07_21_6_pm": [
       "gary_2026_07_21_stripe_developer_meetup",
