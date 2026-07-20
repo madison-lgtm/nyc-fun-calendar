@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 20, 2026, 9:00 AM EDT",
+    "checked": "Jul 20, 2026, 4:49 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -259,7 +259,8 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
-      "10 PM"
+      "10 PM",
+      "10:30 PM"
     ]
   },
   "events": {
@@ -1300,22 +1301,39 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
       "summary": "Luma NYC: The Shortlist NY, Sangavi Suresh, Andrew Yeung, Betaworks, Ivor Stratford"
     },
-    "luma_2026_07_24_founder_strength_club_hosted_by_andrew_friends": {
-      "title": "Founder Strength Club (Hosted by Andrew & Friends)",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-07-24",
+    "luma_2026_07_22_founders_breakfast_gtm_strategy_s_tactics_leveraging": {
+      "title": "Founders Breakfast: GTM Strategy’s & Tactics Leveraging AI",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-22",
       "time": "1 PM",
       "sort": 13,
-      "when": "Fri, 07/24 · 1pm",
+      "when": "Wed, 07/22 · 1pm",
       "price": "Free",
       "free": true,
       "place": "New York, NY",
       "source": "Luma NYC",
-      "link": "https://luma.com/founderstrengthclub-jul2026",
+      "link": "https://luma.com/7e13v9p7",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung, Drew Parten, Max Kuivenhoven, Leia K. Galasso"
+      "summary": "Luma NYC: iqram, iqram, Andrew Yeung, Charlie Stephens"
+    },
+    "luma_2026_07_22_concentrate_ai_founder_pizza_night_seed_to_series_b": {
+      "title": "Concentrate AI Founder Pizza Night: Seed to Series B",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-22",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Wed, 07/22 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Mama's TOO! Pizzeria West Village",
+      "source": "Luma NYC",
+      "link": "https://luma.com/j3kso4an",
+      "map": "https://maps.google.com/?q=Mama's%20TOO!%20Pizzeria%20West%20Village%20NYC",
+      "summary": "Luma NYC: Concentrate AI, Zach Moskow"
     },
     "jc_culture_41057_2026_07_20_columbia_flag_raising_2026": {
       "title": "Columbia Flag Raising 2026",
