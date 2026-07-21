@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 20, 2026, 4:49 PM EDT",
+    "checked": "Jul 21, 2026, 8:19 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-20",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Jul 20"
-      },
       {
         "iso": "2026-07-21",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Jul 26"
+      },
+      {
+        "iso": "2026-07-27",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Jul 27"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-20",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Jul 20"
-      },
       {
         "iso": "2026-07-21",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Aug 19"
+      },
+      {
+        "iso": "2026-08-20",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Aug 20"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "7 AM",
       "8 AM",
@@ -246,6 +246,7 @@
       "11 AM",
       "11:30 AM",
       "12 PM",
+      "12:45 PM",
       "1 PM",
       "2 PM",
       "2:30 PM",
@@ -450,57 +451,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "skint_89118_0_smorgasburg_s_annual_the_great_ice_cream_fair": {
-      "title": "smorgasburg’s annual ‘the great ice cream fair’",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-07-19",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 07/19 · 11am-6pm",
-      "price": "Free admission",
-      "free": true,
-      "place": "10+ ice cream vendors, plus all-ages activities, performances, giveaways, and more",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/p/DaTBZccz7FJ/",
-      "map": "https://maps.google.com/?q=10%2B%20ice%20cream%20vendors%2C%20plus%20all-ages%20activities%2C%20performances%2C%20giveaways%2C%20and%20more%20NYC",
-      "summary": "national ice cream day. Pulled from The Skint's public article feed: sun 11am-6pm: smorgasburg’s annual ‘the great ice cream fair’: 10+ ice cream vendors, plus all-ages activities, performances, giveaways, and more. smorgasburg (prospect park), free admission."
-    },
-    "skint_89118_1_national_ice_cream_day_at_the_prospect_park_carousel": {
-      "title": "national ice cream day at the prospect park carousel",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sun",
-      "date": "2026-07-19",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 07/19 · 12-3pm",
-      "price": "Free",
-      "free": true,
-      "place": "get a free ice cream treat with each carousel ticket purchase",
-      "source": "The Skint",
-      "link": "https://www.prospectpark.org/event/national-ice-cream-day-at-the-carousel-2/",
-      "map": "https://maps.google.com/?q=get%20a%20free%20ice%20cream%20treat%20with%20each%20carousel%20ticket%20purchase%20NYC",
-      "summary": "national ice cream day. Pulled from The Skint's public article feed: sun 12-3pm: national ice cream day at the prospect park carousel: get a free ice cream treat with each carousel ticket purchase. $3/ride."
-    },
-    "skint_89118_2_free_yasso_froyo_truck_pop_up": {
-      "title": "free yasso froyo truck pop-up",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-07-19",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 07/19 · thru tues",
-      "price": "Free",
-      "free": true,
-      "place": "greenwich ave + 7th ave, west village (sun 12-6pm); 86th st + lexington ave, upper east side (mon 2-10pm); 6th ave + w 3rd st, greenwich village (tues 2-10pm)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/p/Da0Z2hBgXH2/",
-      "map": "https://maps.google.com/?q=greenwich%20ave%20%2B%207th%20ave%2C%20west%20village%20(sun%2012-6pm)%3B%2086th%20st%20%2B%20lexington%20ave%2C%20upper%20east%20side%20(mon%202-10pm)%3B%206th%20ave%20%2B%20w%203rd%20st%2C%20greenwich%20village%20(tues%202-10pm)%20NYC",
-      "summary": "national ice cream day. Pulled from The Skint's public article feed: sun thru tues: free yasso froyo truck pop-up: greenwich ave + 7th ave, west village (sun 12-6pm); 86th st + lexington ave, upper east side (mon 2-10pm); 6th ave + w 3rd st, greenwich village (tues 2-10pm)."
     },
     "gary_2026_07_21_my_worst_day_as_a_cfo_lessons_that_changed_how_i_lea": {
       "title": "My Worst Day As A CFO - Lessons That Changed How I Lead",
@@ -1335,22 +1285,22 @@
       "map": "https://maps.google.com/?q=Mama's%20TOO!%20Pizzeria%20West%20Village%20NYC",
       "summary": "Luma NYC: Concentrate AI, Zach Moskow"
     },
-    "jc_culture_41057_2026_07_20_columbia_flag_raising_2026": {
-      "title": "Columbia Flag Raising 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Mon",
-      "date": "2026-07-20",
-      "time": "3:30 PM",
-      "sort": 15.5,
-      "when": "Mon, 07/20 · 3:30pm",
-      "price": "Free / varies",
+    "luma_2026_07_24_founder_strength_club_hosted_by_andrew_friends": {
+      "title": "Founder Strength Club (Hosted by Andrew & Friends)",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-07-24",
+      "time": "12:45 PM",
+      "sort": 12.75,
+      "when": "Fri, 07/24 · 12:45pm",
+      "price": "Free",
       "free": true,
-      "place": "CITY HALL CHAMBERS, 280 GROVE ST, JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/columbia-flag-raising-2026/",
-      "map": "https://maps.google.com/?q=CITY%20HALL%20CHAMBERS%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/founderstrengthclub-jul2026",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung, Drew Parten, Max Kuivenhoven, Leia K. Galasso"
     },
     "jc_culture_40593_2026_07_21_caricom_flag_raising_ceremony_2026": {
       "title": "Caricom Flag Raising Ceremony 2026",
