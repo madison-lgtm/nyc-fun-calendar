@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 21, 2026, 8:19 AM EDT",
+    "checked": "Jul 21, 2026, 4:46 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -246,7 +246,6 @@
       "11 AM",
       "11:30 AM",
       "12 PM",
-      "12:45 PM",
       "1 PM",
       "2 PM",
       "2:30 PM",
@@ -877,6 +876,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Release yourself from the office & your favorite sundress from the closet as we escape to the Amalfi Coast for an exclusive afternoon at an iconic West Village institution. Join the Baselaydies & the brightest minds shaping the future of agentic commerce for an exclusive, high-energy cocktail hour. We're serving up sun-drenched Italian vibes, passed apps, artisanal cheese & charcuterie, & custom craft cocktails - because the best things are still human (and certainly women)-in-the-loop. Come for the chic coastal escape & photo opp; leave with the powerful connections driving the agentic economy forward. All agents, no gents. Space is strictly limited to maintain an intimate atmosphere. Register now to claim your seat & your spritz."
     },
+    "gary_2026_07_23_founders_house_community_game_night": {
+      "title": "Founders House Community Game Night",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-07-23",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 07/23 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Founders House, 22 Vanderbilt Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/g46vpsb/Founders-House-Community-Game-Night",
+      "map": "https://maps.google.com/?q=Founders%20House%2C%2022%20Vanderbilt%20Ave",
+      "summary": "Gary's Guide: Wrap up the workday with a low-key game night at Founders House! We'll start putting out board games, card games, & snacks in the living room area around 6:00 PMdrop by when you can. Whether you're looking to unwind, meet some new members, or challenge someone to a game, it's a fun, casual way to spend the evening with the community.nExclusively for Founders House members."
+    },
     "gary_2026_07_24_founder_strength_club": {
       "title": "Founder Strength Club",
       "type": "startup",
@@ -1064,6 +1080,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: JFE Network is excited to host its first Startup & Tech Rooftop Mixer in Hudson Yards, NY, with views overlooking the city! Join NY's premier startup & tech community for a fun summer gathering for networking & a great time connecting with our startup & tech network. JFE Networking mixers bring together NY's top startup founders, technologists, & business professionals in the Jewish community. If you're looking for co-founders to launch a startup or new career opportunities in tech, then you should join us! Many of our attendees formed deep relationships, hired each other, or started companies together. JFE (Jews For Entrepreneurship) Network For those who don't know about us, JFE (Jews For Entrepreneurship organization) is the leading & only organization that supports Jewish innovation & entrepreneurship worldwide. Since our launch in 2009, we have hosted over 120 events, including pitch events, seminars, speaker panels, startup accelerators, pitches for series A companies, career fairs, & networking mixers. We are now actively hosting events in SF, LA, Miami, NY, London, & New Mexico Read more about us here: www.jfenetwork.com"
     },
+    "gary_2026_07_29_startup_legal_essentials": {
+      "title": "Startup Legal Essentials",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-07-29",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 07/29 · 4:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/khr1ppe/Startup-Legal-Essentials",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: LLC vs C-Corp, equity & more."
+    },
     "gary_2026_07_29_leaders_in_product_fintech_insights": {
       "title": "Leaders In Product - Fintech Insights",
       "type": "startup",
@@ -1183,40 +1216,6 @@
       "map": "https://maps.google.com/?q=Time%20Out%20Market%20Union%20Sqare%2C%20124%20E%2014th%20St",
       "summary": "Gary's Guide: A happy hour for real conversations. This is our monthly tech mixer to connect with peers across the NYC tech & startup community - from founders & VCs to developers & designers."
     },
-    "gary_2026_08_01_build_w_gemma_on_device_ai_for_healthcare": {
-      "title": "Build w/ Gemma - On-Device AI For Healthcare",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-08-01",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 08/01 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/cgyb5dq/Build-w-Gemma-On-Device-AI-For-Healthcare",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Hackathon building next gen of healthcare tools w/ Google's open Gemma 4 models. $2K prize."
-    },
-    "gary_2026_08_02_cfo_ai_leverage_report": {
-      "title": "CFO AI Leverage Report",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-08-02",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 08/02 · 12:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Fairfield by Marriott, 325 W 33rd St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ltzm39p/CFO-AI-Leverage-Report",
-      "map": "https://maps.google.com/?q=Fairfield%20by%20Marriott%2C%20325%20W%2033rd%20St",
-      "summary": "Gary's Guide: Exec briefing & industry benchmark discussion."
-    },
     "luma_2026_07_21_meet_us_on_the_roof_brits_in_tech_the_great_british_": {
       "title": "Meet us on the Roof! Brits in Tech & The Great British Business Club",
       "type": "startup",
@@ -1251,8 +1250,8 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
       "summary": "Luma NYC: The Shortlist NY, Sangavi Suresh, Andrew Yeung, Betaworks, Ivor Stratford"
     },
-    "luma_2026_07_22_founders_breakfast_gtm_strategy_s_tactics_leveraging": {
-      "title": "Founders Breakfast: GTM Strategy’s & Tactics Leveraging AI",
+    "luma_2026_07_22_founders_breakfast_gtm_strategies_tactics_leveraging": {
+      "title": "Founders Breakfast: GTM Strategies & Tactics Leveraging AI",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Wed",
@@ -1267,6 +1266,23 @@
       "link": "https://luma.com/7e13v9p7",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: iqram, iqram, Andrew Yeung, Charlie Stephens"
+    },
+    "luma_2026_07_22_ai_rollup_economics_for_engineers_hosted_by_comma_ca": {
+      "title": "AI Rollup Economics for Engineers - hosted by Comma Capital & Modus",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-22",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Wed, 07/22 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/n0j87mln",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Comma Capital, Julia Guo, David Ongchoco, Pranav Pillai"
     },
     "luma_2026_07_22_concentrate_ai_founder_pizza_night_seed_to_series_b": {
       "title": "Concentrate AI Founder Pizza Night: Seed to Series B",
@@ -1284,23 +1300,6 @@
       "link": "https://luma.com/j3kso4an",
       "map": "https://maps.google.com/?q=Mama's%20TOO!%20Pizzeria%20West%20Village%20NYC",
       "summary": "Luma NYC: Concentrate AI, Zach Moskow"
-    },
-    "luma_2026_07_24_founder_strength_club_hosted_by_andrew_friends": {
-      "title": "Founder Strength Club (Hosted by Andrew & Friends)",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-07-24",
-      "time": "12:45 PM",
-      "sort": 12.75,
-      "when": "Fri, 07/24 · 12:45pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/founderstrengthclub-jul2026",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung, Drew Parten, Max Kuivenhoven, Leia K. Galasso"
     },
     "jc_culture_40593_2026_07_21_caricom_flag_raising_ceremony_2026": {
       "title": "Caricom Flag Raising Ceremony 2026",
@@ -1948,7 +1947,8 @@
     "cluster_2026_07_23_6_pm": [
       "gary_2026_07_23_ai_engineers_devs_drinks",
       "gary_2026_07_23_the_builder_series_founder_investor_operator_nights",
-      "gary_2026_07_23_agentic_aperitivo_ladies_cocktail_hour"
+      "gary_2026_07_23_agentic_aperitivo_ladies_cocktail_hour",
+      "gary_2026_07_23_founders_house_community_game_night"
     ],
     "cluster_2026_07_25_2_pm": [
       "gary_2026_07_25_nj_code_coffee",
@@ -1962,6 +1962,10 @@
       "gary_2026_07_28_jfe_startup_tech_rooftop_mixer",
       "jc_culture_38063_2026_07_28_jersey_city_summerfest_2026_carlos_jimenez_mambo_dul"
     ],
+    "cluster_2026_07_29_4_pm": [
+      "gary_2026_07_29_startup_legal_essentials",
+      "jc_culture_10003561_2026_07_29_hamilton_park_farmers_market_2026"
+    ],
     "cluster_2026_07_29_6_pm": [
       "gary_2026_07_29_leaders_in_product_fintech_insights",
       "gary_2026_07_29_junto_founder_dinner"
@@ -1973,6 +1977,10 @@
     "cluster_2026_07_21_10_pm": [
       "luma_2026_07_21_meet_us_on_the_roof_brits_in_tech_the_great_british_",
       "luma_2026_07_21_the_shortlist_july_founder_showcase"
+    ],
+    "cluster_2026_07_22_10_30_pm": [
+      "luma_2026_07_22_ai_rollup_economics_for_engineers_hosted_by_comma_ca",
+      "luma_2026_07_22_concentrate_ai_founder_pizza_night_seed_to_series_b"
     ],
     "cluster_2026_07_21_6_30_pm": [
       "jc_culture_38062_2026_07_21_jersey_city_summerfest_2026_forget_the_whale",
