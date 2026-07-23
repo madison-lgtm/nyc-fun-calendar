@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 22, 2026, 4:45 PM EDT",
+    "checked": "Jul 23, 2026, 8:19 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-22",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Jul 22"
-      },
       {
         "iso": "2026-07-23",
         "key": "Thu",
@@ -45,15 +39,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Jul 28"
+      },
+      {
+        "iso": "2026-07-29",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Jul 29"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-22",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Jul 22"
-      },
       {
         "iso": "2026-07-23",
         "key": "Thu",
@@ -233,9 +227,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Aug 21"
+      },
+      {
+        "iso": "2026-08-22",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Aug 22"
       }
     ],
-    "todayKey": "Wed",
+    "todayKey": "Thu",
     "times": [
       "7 AM",
       "8 AM",
@@ -246,6 +246,7 @@
       "11:30 AM",
       "12 PM",
       "12:45 PM",
+      "1:30 PM",
       "2 PM",
       "2:30 PM",
       "3 PM",
@@ -255,7 +256,8 @@
       "6 PM",
       "6:30 PM",
       "7 PM",
-      "10:30 PM"
+      "9:30 PM",
+      "11 PM"
     ]
   },
   "events": {
@@ -1211,40 +1213,6 @@
       "map": "https://maps.google.com/?q=Sugar%20Mouse%2C%2047%203rd%20Ave",
       "summary": "Gary's Guide: New York Startup Networking Event. Meet Founders, Investors, & Talent - Build or Scale Your Startup Startup Networking Event in New York for founders, investors, & tech talent. Join a high-signal startup networking event in New York where founders, investors, & talent connect to build & scale startups.Meet the right people, unlock real opportunities, & grow within the New York startup ecosystem. Why This Event Is Different Most networking events end with exchanged LinkedIn profiles. This one focuses on real conversations & real opportunities. We bring together founders, investors, engineers, operators & talent in a curated environment designed to create meaningful connections. Through interactive networking rounds, open conversations & pitch opportunities, participants can share challenges, exchange insights & build relationships that last beyond the event. What to Expect Startup Networking in New York Structured networking rounds where founders, investors, & talent connect, share challenges, & explore opportunities. Talent & Hiring Connections Meet engineers, operators, & professionals in the New York startup ecosystem. Startup & Investor Conversations Discussions around fundraising, product development, & scaling startups. Want to Pitch? A limited number of founders will have the opportunity to present their startup. Selected founders will showcase their pitch deck to the audience & attending investors, followed by a short Q&A where participants can ask questions & share feedback. Apply by sending your pitch Spots are limited & founders will be selected in advance. Who Should Attend Startup founders in New York VC & angels investors Engineers & builders Operators & product managers Recruiters & HR professionals Sales & business development professionals Job seekers interested in startups Newcomers to the New York tech ecosystem For Investors We invite local investors, angels & venture capitalists to join the event. Investor participation is complimentary. After verification, investors receive access to the Ascent Valley ecosystem, including: curated startup introductions access to our startup digest access to our platform & founder community"
     },
-    "luma_2026_07_22_ai_rollup_economics_for_engineers_hosted_by_comma_ca": {
-      "title": "AI Rollup Economics for Engineers - hosted by Comma Capital & Modus",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-22",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Wed, 07/22 · 10:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/n0j87mln",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Comma Capital, Julia Guo, David Ongchoco, Pranav Pillai"
-    },
-    "luma_2026_07_22_concentrate_ai_founder_pizza_night_seed_to_series_b": {
-      "title": "Concentrate AI Founder Pizza Night: Seed to Series B",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-22",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Wed, 07/22 · 10:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Mama's TOO! Pizzeria West Village",
-      "source": "Luma NYC",
-      "link": "https://luma.com/j3kso4an",
-      "map": "https://maps.google.com/?q=Mama's%20TOO!%20Pizzeria%20West%20Village%20NYC",
-      "summary": "Luma NYC: Concentrate AI, Zach Moskow"
-    },
     "luma_2026_07_24_founder_strength_club_hosted_by_andrew_friends": {
       "title": "Founder Strength Club (Hosted by Andrew & Friends)",
       "type": "startup",
@@ -1261,6 +1229,57 @@
       "link": "https://luma.com/founderstrengthclub-jul2026",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung, Drew Parten, Max Kuivenhoven, Leia K. Galasso"
+    },
+    "luma_2026_07_24_hello_robot_hack_day_with_viam_and_spc": {
+      "title": "Hello, Robot! Hack Day with Viam and SPC",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-07-24",
+      "time": "1:30 PM",
+      "sort": 13.5,
+      "when": "Fri, 07/24 · 1:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/viam-spc-hack",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: South Park Commons, South Park Commons, Dylan Itzikowitz, Shannon Bradshaw, Alyssa Demirjian, Drew Parten, Sean Hu"
+    },
+    "luma_2026_07_24_beyond_vibe_coding_let_s_build_some_fun_agents": {
+      "title": "Beyond Vibe Coding: Let's Build Some (Fun) Agents!",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-07-24",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Fri, 07/24 · 9:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Fabrik NYC",
+      "source": "Luma NYC",
+      "link": "https://luma.com/bg6rgm4r",
+      "map": "https://maps.google.com/?q=Fabrik%20NYC%20NYC",
+      "summary": "Luma NYC: Product Builders Club, Jeff Buzulencia, Fabrik NYC"
+    },
+    "luma_2026_07_24_nyc_founders_paint_sip": {
+      "title": "NYC Founders: Paint & Sip",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-07-24",
+      "time": "11 PM",
+      "sort": 23,
+      "when": "Fri, 07/24 · 11pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/xp791k3o",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Corgi NYC, Maddie, jamie, Abril Zucchi"
     }
   },
   "clusters": {
@@ -1305,10 +1324,6 @@
     "cluster_2026_08_05_5_pm": [
       "gary_2026_08_05_female_founders_funders",
       "gary_2026_08_05_gtm_mastermind_landing_your_first_10_customers"
-    ],
-    "cluster_2026_07_22_10_30_pm": [
-      "luma_2026_07_22_ai_rollup_economics_for_engineers_hosted_by_comma_ca",
-      "luma_2026_07_22_concentrate_ai_founder_pizza_night_seed_to_series_b"
     ]
   }
 }
