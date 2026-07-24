@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 24, 2026, 8:13 AM EDT",
+    "checked": "Jul 24, 2026, 4:47 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -245,7 +245,6 @@
       "11 AM",
       "11:30 AM",
       "12 PM",
-      "12:45 PM",
       "1 PM",
       "1:30 PM",
       "2 PM",
@@ -257,9 +256,9 @@
       "6 PM",
       "6:30 PM",
       "7 PM",
+      "7:30 PM",
       "8 PM",
       "8:30 PM",
-      "9 PM",
       "9:30 PM",
       "10 PM",
       "11 PM"
@@ -1473,23 +1472,6 @@
       "map": "https://maps.google.com/?q=Midtown%20Manhattan%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Lucy Hoyle (Content Enggr, Carta), Nick Lafferty (Mktg Enggr, Profound)."
     },
-    "luma_2026_07_24_founder_strength_club_hosted_by_andrew_friends": {
-      "title": "Founder Strength Club (Hosted by Andrew & Friends)",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-07-24",
-      "time": "12:45 PM",
-      "sort": 12.75,
-      "when": "Fri, 07/24 · 12:45pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/founderstrengthclub-jul2026",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung, Drew Parten, Max Kuivenhoven, Leia K. Galasso"
-    },
     "luma_2026_07_24_hello_robot_hack_day_with_viam_and_spc": {
       "title": "Hello, Robot! Hack Day with Viam and SPC",
       "type": "tech",
@@ -1592,23 +1574,6 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: TechWalk, Caroline Gomes, Christine Farrier Rosemin, Vonage Developer"
     },
-    "luma_2026_07_28_nyc_agentic_ai_meetup": {
-      "title": "NYC Agentic AI Meetup",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-07-28",
-      "time": "9 PM",
-      "sort": 21,
-      "when": "Tue, 07/28 · 9pm",
-      "price": "Free",
-      "free": true,
-      "place": "127 W 26th St",
-      "source": "Luma NYC",
-      "link": "https://luma.com/pinecone-5y6x",
-      "map": "https://maps.google.com/?q=127%20W%2026th%20St%20NYC",
-      "summary": "Luma NYC: Pinecone, Pinecone, Zach Moskow"
-    },
     "luma_2026_07_28_workos_applied_ai_showcase_nyc": {
       "title": "WorkOS Applied AI Showcase (NYC)",
       "type": "tech",
@@ -1625,6 +1590,40 @@
       "link": "https://luma.com/applied-ai-nyc",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: WorkOS Events, WorkOS, Michael Grinich"
+    },
+    "nyu_tandon_2026_07_29_hardware_implementation_of_a_stealthy_and_lightweigh": {
+      "title": "Hardware Implementation of a Stealthy and Lightweight Backdoor for CRYSTALS-Kyber in Hybrid Cryptosystems",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Wed",
+      "date": "2026-07-29",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Wed, 07/29 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/07/29/hardware-implementation-stealthy-and-lightweight-backdoor-crystals-kyber-hybrid",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_07_29_hardware_acceleration_for_post_quantum_cryptography_": {
+      "title": "Hardware Acceleration for Post-Quantum Cryptography: Algorithmic  Derivation, and Architectural Innovation",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Wed",
+      "date": "2026-07-29",
+      "time": "2:30 PM",
+      "sort": 14.5,
+      "when": "Wed, 07/29 · 2:30 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/07/29/hardware-acceleration-post-quantum-cryptography-algorithmic-derivation-and",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
     },
     "nyu_tandon_2026_08_06_a_foundation_model_for_the_electric_grid_gridfm": {
       "title": "A Foundation Model for the electric grid (GridFM)",
@@ -1726,7 +1725,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-carlos-jimenez-mambo-dulcet/",
       "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
-      "summary": "&nbsp; JC Summerfest featuring Carlos Jimenez Mambo Dulcet South Cove Lawn Liberty State Park 6:30pm-8:30pm"
+      "summary": "JC Summerfest featuring Carlos Jimenez Mambo Dulcet South Cove Lawn Liberty State Park 6:30pm-8:30pm"
     },
     "jc_culture_37954_2026_07_28_movies_in_the_park_2026_zootopia_2": {
       "title": "Movies in the Park 2026 / Zootopia 2",
@@ -1779,6 +1778,23 @@
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "&nbsp; JC Summerfest featuring P.R.I.M.E R&B Soul Berry Lane Park 6:30pm-8:30pm"
     },
+    "jc_culture_42157_2026_07_30_family_dance_class": {
+      "title": "Family Dance Class",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-07-30",
+      "time": "7:30 PM",
+      "sort": 19.5,
+      "when": "Thu, 07/30 · 7:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Surati for Performing Arts, 844&846 Newark Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/family-dance-class/",
+      "map": "https://maps.google.com/?q=Surati%20for%20Performing%20Arts%2C%20844%26846%20Newark%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Bring the whole family for an evening of music, movement, and fun at our Family Dance Class! Whether you’re an experienced dancer or just looking to make lasting memories together, this class is designed for all ages and skill levels. Enjoy an hour of upbeat dancing, laughter, and quality time in a welcoming environment."
+    },
     "jc_culture_37956_2026_07_30_movies_in_the_park_2026_wicked_for_good": {
       "title": "Movies in the Park 2026 / Wicked for Good",
       "type": "entertainment",
@@ -1812,6 +1828,23 @@
       "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-inside-out-2-2/",
       "map": "https://maps.google.com/?q=HARSIMUS%20CEMETERY%2C%20435%20Newark%20Ave.%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "&nbsp; Harsimus Cemetery featuring Inside Out 2"
+    },
+    "jc_culture_10004847_2026_08_01_summer_fest_south_lawn_lsp_forget_the_whale_2026": {
+      "title": "Summer Fest South Lawn LSP FORGET THE WHALE 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Sat",
+      "date": "2026-08-01",
+      "time": "8 AM",
+      "sort": 8,
+      "when": "Sat, 08/01 · 8am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Liberty State Park. South Lawn, Freedom Way, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/summer-fest-south-lawn-lsp-forget-the-whale-2026/2026-08-01/",
+      "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
+      "summary": "TUESDAYS SOUTH LAWN LIBERTY STATE PARK SIX THIRTY TO EIGHT THIRTY FEATURING FORGET THE WHALE POP / ROCK MUSIC"
     },
     "jc_culture_38057_2026_08_02_jersey_city_summerfest_2026_winard_harper_jazz": {
       "title": "Jersey City Summerfest 2026 / Winard Harper Jazz",
