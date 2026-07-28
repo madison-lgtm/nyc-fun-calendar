@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 27, 2026, 4:51 PM EDT",
+    "checked": "Jul 28, 2026, 8:48 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-27",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Jul 27"
-      },
       {
         "iso": "2026-07-28",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Aug 2"
+      },
+      {
+        "iso": "2026-08-03",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Aug 3"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-27",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Jul 27"
-      },
       {
         "iso": "2026-07-28",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Aug 26"
+      },
+      {
+        "iso": "2026-08-27",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Aug 27"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "7 AM",
       "8 AM",
@@ -448,57 +448,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "skint_89355_0_summer_vintage_bazaar_at_grand_bazaar_nyc": {
-      "title": "summer vintage bazaar at grand bazaar nyc",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-07-26",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 07/26 · 10am-5pm",
-      "price": "Free admission",
-      "free": true,
-      "place": "100 w 77th st at columbus ave (indoors + outdoors)",
-      "source": "The Skint",
-      "link": "https://grandbazaarnyc.org/events/summer-vintage-bazaar-2/",
-      "map": "https://maps.google.com/?q=100%20w%2077th%20st%20at%20columbus%20ave%20(indoors%20%2B%20outdoors)%20NYC",
-      "summary": "cultural fests / block parties / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-5pm: summer vintage bazaar at grand bazaar nyc: 100 w 77th st at columbus ave (indoors + outdoors). free admission."
-    },
-    "skint_89355_1_ballet_folkl_rico_mexicano_de_nueva_york_s_14th_annu": {
-      "title": "ballet folklórico mexicano de nueva york’s 14th annual guelaguetza festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-07-26",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 07/26 · 12-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "socrates sculpture park (lic)",
-      "source": "The Skint",
-      "link": "https://socratessculpturepark.org/programevent/ballet-folklorico-mexicano-de-nueva-york-presents-la-guelaguetza/",
-      "map": "https://maps.google.com/?q=socrates%20sculpture%20park%20(lic)%20NYC",
-      "summary": "cultural fests / block parties / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: ballet folklórico mexicano de nueva york’s 14th annual guelaguetza festival: socrates sculpture park (lic)."
-    },
-    "skint_89355_2_moshimoshi_market": {
-      "title": "moshimoshi market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-07-26",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 07/26 · 12-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "the whale building (sunset park)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/moshimoshi.market/",
-      "map": "https://maps.google.com/?q=the%20whale%20building%20(sunset%20park)%20NYC",
-      "summary": "cultural fests / block parties / street fairs / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: moshimoshi market: the whale building (sunset park)."
     },
     "gary_2026_07_27_b2b_ai_founders_investors_meetup": {
       "title": "B2B - AI Founders & Investors Meetup",
@@ -1265,40 +1214,6 @@
       "map": "https://maps.google.com/?q=Rain%20HQ%2C%2011%20E%2026th%20St",
       "summary": "Gary's Guide: With Charles Yoo-Naut (Founder/CTO, Rain), Rob Hadick (Dragonfly), Arnav Bimbhet (FirstMark)."
     },
-    "luma_2026_07_27_nyc_b2b_ai_founders_investors_meetup": {
-      "title": "NYC B2B: AI Founders & Investors Meetup",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-07-27",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Mon, 07/27 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/r4uqdp1t",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: NYC B2B: Startup Events, NYC B2B, Max Kuivenhoven, MongoDB"
-    },
-    "luma_2026_07_28_fintech_run_club_ft_rain_and_monk_coffee_on_jp_morga": {
-      "title": "Fintech Run Club ft. Rain and Monk + Coffee on JP Morgan",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-07-28",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Tue, 07/28 · 11am",
-      "price": "Free",
-      "free": true,
-      "place": "Marsha P. Johnson Memorial Fountain",
-      "source": "Luma NYC",
-      "link": "https://luma.com/003139e8",
-      "map": "https://maps.google.com/?q=Marsha%20P.%20Johnson%20Memorial%20Fountain%20NYC",
-      "summary": "Luma NYC: Pedro D'Avila, Pedro D'Avila, Connor Griffin, Kendall Warson, Jacob Tamkin, Rain Events, FinTech Running Club"
-    },
     "luma_2026_07_28_brooklyn_bridge_techwalk_nyc_7_28_w_vonage_ai_builde": {
       "title": "Brooklyn Bridge TechWalk | NYC, 7/28 w/ Vonage AI Builder Nights",
       "type": "tech",
@@ -1383,6 +1298,23 @@
       "link": "https://luma.com/x83g7xo5",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Corgi NYC, Abril Zucchi, Maddie, jamie"
+    },
+    "luma_2026_07_29_build_with_ai_own_the_decisions_live_demos_and_real_": {
+      "title": "Build With AI. Own the Decisions. Live demos and real talk on AI enablement — with Twilio, Datadog, and SWARM",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-07-29",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Wed, 07/29 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "Datadog",
+      "source": "Luma NYC",
+      "link": "https://luma.com/5m4gyn8t",
+      "map": "https://maps.google.com/?q=Datadog%20NYC",
+      "summary": "Luma NYC: SWARM NYC, Twilio, SWARM NYC, Datadog"
     },
     "nyu_tandon_2026_07_29_hardware_implementation_of_a_stealthy_and_lightweigh": {
       "title": "Hardware Implementation of a Stealthy and Lightweight Backdoor for CRYSTALS-Kyber in Hybrid Cryptosystems",
@@ -2006,10 +1938,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_07_26_12_pm": [
-      "skint_89355_1_ballet_folkl_rico_mexicano_de_nueva_york_s_14th_annu",
-      "skint_89355_2_moshimoshi_market"
     ],
     "cluster_2026_07_28_5_30_pm": [
       "gary_2026_07_28_cvc_from_strategic_investment_to_exit",
