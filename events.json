@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 29, 2026, 8:56 AM EDT",
+    "checked": "Jul 29, 2026, 4:32 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1026,6 +1026,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With George Mwangi (Founder, WanderWorth), Eni M (Founder, TravelSpoke)."
     },
+    "gary_2026_08_12_software_factory_intensive": {
+      "title": "Software Factory Intensive",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-08-12",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Wed, 08/12 · 9:00am",
+      "price": "$750",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/j5b3z93/Software-Factory-Intensive",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With John Kennedy (Founder, Actual AI), Chris Sells (CEO, GasCity), Austin Born (AI Enggr, Actual AI), Bryan Hirsch (Founder, 30to80), Julian Knutsen (CTO, GasCity)."
+    },
     "gary_2026_08_12_fintech_founders_breakfast": {
       "title": "Fintech Founders Breakfast",
       "type": "startup",
@@ -1059,6 +1076,23 @@
       "link": "https://www.garysguide.com/events/grh95lw/Investor-Readiness-Pitch-Deck-Reviews",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Practice pitching your startup in a supportive environment & receive constructive feedback on your pitch deck, storytelling, business model, traction, & fundraising strategy from fellow founders & experienced mentors."
+    },
+    "gary_2026_08_12_quantum_computing_meetup": {
+      "title": "Quantum Computing Meetup",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-08-12",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 08/12 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Transatlantic Innovation Hub, 417 5th Ave, Ste 814",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/1xboxp7/Quantum-Computing-Meetup",
+      "map": "https://maps.google.com/?q=Transatlantic%20Innovation%20Hub%2C%20417%205th%20Ave%2C%20Ste%20814",
+      "summary": "Gary's Guide: With Mark Jackson (Quantum Evangelist, Quantinuum)."
     },
     "gary_2026_08_12_stripe_community_the_dollar_just_got_an_api_stableco": {
       "title": "Stripe Community - The Dollar Just Got An API - Stablecoin Use Cases For Business",
@@ -1179,40 +1213,6 @@
       "map": "https://maps.google.com/?q=EqualSpace%2C%20550%20Broad%20St%2C%20Newark",
       "summary": "Gary's Guide: Calling all New Jersey techies to the monthly NJ Code & Coffee tech community meetup at the EqualSpace ES550 Tech & Innovation campus! Code & Coffee is an inclusive, informal networking/co-working session for those in tech (and the tech-curious). That includes operators, founders, & investors. Developers, data engineers, UX/UI designers, data scientists, product managers, software engineers, solution architects... all are welcome! People of all skill & experience levels can attend, we love it that way. Many people (optionally) bring projects to work on, & many other people (optionally) socialize the entire time. It's entirely up to you! Come grab a cup of coffee & meet new people, share stories, find collaborators, talk about everything tech, talk about everything NOT tech, take a break from job applications, get away from the computer screen, make connections, make conversation, make friends! Agenda: 2pm: Doors open, networking starts 2:30pm: Intro circle 3pm: networking continues 5pm: event ends The Intro Circle Near the beginning of the event (about 2:30 pm), we will do a standup in a circle: We first talk about organizer announcements, updates, & logistics. Then we go around the circle where each person says: *your name & job title/ role in tech/ tech stack, What you can help others with, *What you would like help with, Job opportunities you're hiring for OR announce that you are looking for one. If none, that's cool. After the introduction circle, everything is self-organized. Community Discord - come hang out before & after!: www.codeandcoffee.chat The Venue Equal Space is a premium share-space created with multicultural business owners in mind, =SPACE equips founders with resources, programming & a powerful network. Headquartered in the City of Newark, their share-space provides resources for startups, coaching for tech companies, & a wealth of intellectuals to collaborate & build with. The next wave in enterprises is being born within their walls. Become a part of the story: [EqualSpace.co/](https://equalspace.co/)"
     },
-    "gary_2026_08_18_ai_demo_night": {
-      "title": "AI Demo Night",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-08-18",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Tue, 08/18 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Poster House, 119 W 23rd St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ln52pki/AI-Demo-Night",
-      "map": "https://maps.google.com/?q=Poster%20House%2C%20119%20W%2023rd%20St",
-      "summary": "Gary's Guide: Demos by ClickHouse, Docker, Langfuse, LibreChat."
-    },
-    "gary_2026_08_18_nyc_b2b_ai_founders_investors_meetup": {
-      "title": "NYC B2B - AI Founders & Investors Meetup",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-08-18",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 08/18 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/dg0388w/NYC-B2B-AI-Founders-Investors-Meetup",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: NYC B2B is the premier community for B2B Founders, Operators, & Investors in NYC. NYC B2B often hosts happy hour events for founders, builders, & investors based in NYC. This is an exclusive event for B2B AI founders & investors. Want to sponsor this event? Email: newyorkcityventures@gmail.com This meetup is hosted by NYC B2B. It's a great way to meet other founders, builders, & investors. Whether you're building a company, exploring a side project, or considering a new idea, we would love to have you here. NYC B2B has previously hosted events for thousands of B2B startup founders + operators in NYC across Vertical SaaS, AI, FinTech, Healthcare, DevTools, Infrastructure, & more. By signing up, you are confirming your interest in hearing about more events from NYC B2B in the future via email! NYC B2B also helps connect those who sign up with awesome partners. Note: This is a 21+ event. Please let our team know in advance if you'd like to bring a guest, as unregistered +1s will not be admitted. Attendees who disregard this policy may not be invited to future NYC B2B events. - Hiring or looking for jobs? startupjobs.nyc"
-    },
     "luma_2026_07_29_build_with_ai_own_the_decisions_live_demos_and_real_": {
       "title": "Build With AI. Own the Decisions. Live demos and real talk on AI enablement — with Twilio, Datadog, and SWARM",
       "type": "tech",
@@ -1279,7 +1279,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/rls5p9u8",
       "map": "https://maps.google.com/?q=Queens%2C%20NY%20NYC",
-      "summary": "Luma NYC: NYC Startup Pickleball Meetup, David Ongchoco, Nicholas Tao, Drew Parten"
+      "summary": "Luma NYC: NYC Startup Pickleball Meetup, David Ongchoco, Nicholas Tao, Drew Parten, Sean Hu"
     },
     "nyu_tandon_2026_07_29_hardware_implementation_of_a_stealthy_and_lightweigh": {
       "title": "Hardware Implementation of a Stealthy and Lightweight Backdoor for CRYSTALS-Kyber in Hybrid Cryptosystems",
