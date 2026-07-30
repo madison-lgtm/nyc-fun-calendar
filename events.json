@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 29, 2026, 4:32 PM EDT",
+    "checked": "Jul 30, 2026, 8:24 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-29",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Jul 29"
-      },
       {
         "iso": "2026-07-30",
         "key": "Thu",
@@ -45,15 +39,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Aug 4"
+      },
+      {
+        "iso": "2026-08-05",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Aug 5"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-29",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Jul 29"
-      },
       {
         "iso": "2026-07-30",
         "key": "Thu",
@@ -233,11 +227,16 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Aug 28"
+      },
+      {
+        "iso": "2026-08-29",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Aug 29"
       }
     ],
-    "todayKey": "Wed",
+    "todayKey": "Thu",
     "times": [
-      "12 AM",
       "8 AM",
       "9 AM",
       "9:30 AM",
@@ -255,9 +254,7 @@
       "6:30 PM",
       "7 PM",
       "7:30 PM",
-      "8:30 PM",
-      "10 PM",
-      "10:30 PM"
+      "8:30 PM"
     ]
   },
   "events": {
@@ -1213,108 +1210,6 @@
       "map": "https://maps.google.com/?q=EqualSpace%2C%20550%20Broad%20St%2C%20Newark",
       "summary": "Gary's Guide: Calling all New Jersey techies to the monthly NJ Code & Coffee tech community meetup at the EqualSpace ES550 Tech & Innovation campus! Code & Coffee is an inclusive, informal networking/co-working session for those in tech (and the tech-curious). That includes operators, founders, & investors. Developers, data engineers, UX/UI designers, data scientists, product managers, software engineers, solution architects... all are welcome! People of all skill & experience levels can attend, we love it that way. Many people (optionally) bring projects to work on, & many other people (optionally) socialize the entire time. It's entirely up to you! Come grab a cup of coffee & meet new people, share stories, find collaborators, talk about everything tech, talk about everything NOT tech, take a break from job applications, get away from the computer screen, make connections, make conversation, make friends! Agenda: 2pm: Doors open, networking starts 2:30pm: Intro circle 3pm: networking continues 5pm: event ends The Intro Circle Near the beginning of the event (about 2:30 pm), we will do a standup in a circle: We first talk about organizer announcements, updates, & logistics. Then we go around the circle where each person says: *your name & job title/ role in tech/ tech stack, What you can help others with, *What you would like help with, Job opportunities you're hiring for OR announce that you are looking for one. If none, that's cool. After the introduction circle, everything is self-organized. Community Discord - come hang out before & after!: www.codeandcoffee.chat The Venue Equal Space is a premium share-space created with multicultural business owners in mind, =SPACE equips founders with resources, programming & a powerful network. Headquartered in the City of Newark, their share-space provides resources for startups, coaching for tech companies, & a wealth of intellectuals to collaborate & build with. The next wave in enterprises is being born within their walls. Become a part of the story: [EqualSpace.co/](https://equalspace.co/)"
     },
-    "luma_2026_07_29_build_with_ai_own_the_decisions_live_demos_and_real_": {
-      "title": "Build With AI. Own the Decisions. Live demos and real talk on AI enablement — with Twilio, Datadog, and SWARM",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-29",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Wed, 07/29 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "Datadog",
-      "source": "Luma NYC",
-      "link": "https://luma.com/5m4gyn8t",
-      "map": "https://maps.google.com/?q=Datadog%20NYC",
-      "summary": "Luma NYC: SWARM NYC, Twilio, SWARM NYC, Datadog"
-    },
-    "luma_2026_07_29_agentic_economy_meetup_how_ai_agents_pay_with_agentc": {
-      "title": "Agentic Economy Meetup: How AI Agents Pay With AgentCash and USDC",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-07-29",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Wed, 07/29 · 10:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "300 Kent Ave suite 604",
-      "source": "Luma NYC",
-      "link": "https://luma.com/r248b9dv",
-      "map": "https://maps.google.com/?q=300%20Kent%20Ave%20suite%20604%20NYC",
-      "summary": "Luma NYC: Merit Systems, David Pawlan, Circle"
-    },
-    "luma_2026_07_29_consumer_conversations_founder_night": {
-      "title": "consumer conversations: founder night",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-07-29",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Wed, 07/29 · 10:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/jt52gnmr",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: jamie, jamie, Abril Zucchi, Maddie"
-    },
-    "luma_2026_07_30_nyc_startup_pickleball_meetup_6": {
-      "title": "NYC Startup Pickleball Meetup #6",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-07-30",
-      "time": "12 AM",
-      "sort": 0,
-      "when": "Wed, 07/30 · 12am",
-      "price": "Free",
-      "free": true,
-      "place": "Queens, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/rls5p9u8",
-      "map": "https://maps.google.com/?q=Queens%2C%20NY%20NYC",
-      "summary": "Luma NYC: NYC Startup Pickleball Meetup, David Ongchoco, Nicholas Tao, Drew Parten, Sean Hu"
-    },
-    "nyu_tandon_2026_07_29_hardware_implementation_of_a_stealthy_and_lightweigh": {
-      "title": "Hardware Implementation of a Stealthy and Lightweight Backdoor for CRYSTALS-Kyber in Hybrid Cryptosystems",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Wed",
-      "date": "2026-07-29",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Wed, 07/29 · 11:00 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/07/29/hardware-implementation-stealthy-and-lightweight-backdoor-crystals-kyber-hybrid",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_07_29_hardware_acceleration_for_post_quantum_cryptography_": {
-      "title": "Hardware Acceleration for Post-Quantum Cryptography: Algorithmic  Derivation, and Architectural Innovation",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Wed",
-      "date": "2026-07-29",
-      "time": "2:30 PM",
-      "sort": 14.5,
-      "when": "Wed, 07/29 · 2:30 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/07/29/hardware-acceleration-post-quantum-cryptography-algorithmic-derivation-and",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
     "nyu_tandon_2026_08_06_a_foundation_model_for_the_electric_grid_gridfm": {
       "title": "A Foundation Model for the electric grid (GridFM)",
       "type": "tech",
@@ -1348,23 +1243,6 @@
       "link": "https://engineering.nyu.edu/events/2026/08/07/cellular-metasploit-lessons-15-years-cellular-security-research",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_10003561_2026_07_29_hamilton_park_farmers_market_2026": {
-      "title": "Hamilton Park Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Wed",
-      "date": "2026-07-29",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Wed, 07/29 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-07-29/",
-      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     },
     "jc_culture_38072_2026_07_30_berry_lane_music_fest_2026_p_r_i_m_e": {
       "title": "Berry Lane Music Fest 2026 / P.R.I.M.E.",
@@ -1433,23 +1311,6 @@
       "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-inside-out-2-2/",
       "map": "https://maps.google.com/?q=HARSIMUS%20CEMETERY%2C%20435%20Newark%20Ave.%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "&nbsp; Harsimus Cemetery featuring Inside Out 2"
-    },
-    "jc_culture_10004847_2026_08_01_summer_fest_south_lawn_lsp_forget_the_whale_2026": {
-      "title": "Summer Fest South Lawn LSP FORGET THE WHALE 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sat",
-      "date": "2026-08-01",
-      "time": "8 AM",
-      "sort": 8,
-      "when": "Sat, 08/01 · 8am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Liberty State Park. South Lawn, Freedom Way, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/summer-fest-south-lawn-lsp-forget-the-whale-2026/2026-08-01/",
-      "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
-      "summary": "TUESDAYS SOUTH LAWN LIBERTY STATE PARK SIX THIRTY TO EIGHT THIRTY FEATURING FORGET THE WHALE POP / ROCK MUSIC"
     },
     "jc_culture_38057_2026_08_02_jersey_city_summerfest_2026_winard_harper_jazz": {
       "title": "Jersey City Summerfest 2026 / Winard Harper Jazz",
@@ -1553,7 +1414,7 @@
       "map": "https://maps.google.com/?q=HOLY%20ROSARY%20CHURCH%2C%20344%206TH%20ST%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
     },
-    "jc_culture_38073_2026_08_06_berry_lane_music_fest_2026_marlena_moniece": {
+    "jc_culture_42402_2026_08_06_berry_lane_music_fest_2026_marlena_moniece": {
       "title": "Berry Lane Music Fest 2026 / Marlena Moniece",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -1566,9 +1427,9 @@
       "free": true,
       "place": "Berry Lane Park, Jersey City, NJ",
       "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-marlena-moniece/",
+      "link": "https://jerseycityculture.org/event/berry-lane-music-fest-2026-marlena-moniece/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "&nbsp; JC Summerfest featuring Marlena Moniece Berry Lane Park 6:30pm-8:30pm"
+      "summary": "JC Summerfest featuring Marlena Moniece Berry Lane Park 6:30pm-8:30pm"
     },
     "jc_culture_37962_2026_08_06_movies_in_the_park_2026_the_sponge_bob_movie": {
       "title": "Movies in the Park 2026 / The Sponge Bob Movie",
@@ -1858,6 +1719,40 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-08-26/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_38073_2026_08_27_berry_lane_music_fest_2026_marlena_moniece": {
+      "title": "Berry Lane Music Fest 2026 / Marlena Moniece",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Thu",
+      "date": "2026-08-27",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 08/27 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Berry Lane Park, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-marlena-moniece/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "&nbsp; JC Summerfest featuring Marlena Moniece Berry Lane Park 6:30pm-8:30pm"
+    },
+    "jc_culture_42396_2026_08_27_berry_lane_music_fest_2026_demolition_brass_band": {
+      "title": "Berry Lane Music Fest 2026 / Demolition Brass Band",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Thu",
+      "date": "2026-08-27",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 08/27 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Berry Lane Park, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/berry-lane-music-fest-2026-demolition-brass-band/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "JC Summerfest featuring Demolition Brass Band Berry Lane Park 6:30pm-8:30pm"
     }
   },
   "clusters": {
@@ -1869,10 +1764,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_07_29_4_pm": [
-      "gary_2026_07_29_startup_legal_essentials",
-      "jc_culture_10003561_2026_07_29_hamilton_park_farmers_market_2026"
     ],
     "cluster_2026_07_29_5_30_pm": [
       "gary_2026_07_29_building_a_100m_company",
@@ -1902,9 +1793,9 @@
       "gary_2026_08_06_startup_mixer",
       "jc_culture_38613_2026_08_06_la_festa_italiana_2026"
     ],
-    "cluster_2026_07_29_10_30_pm": [
-      "luma_2026_07_29_agentic_economy_meetup_how_ai_agents_pay_with_agentc",
-      "luma_2026_07_29_consumer_conversations_founder_night"
+    "cluster_2026_08_27_6_30_pm": [
+      "jc_culture_38073_2026_08_27_berry_lane_music_fest_2026_marlena_moniece",
+      "jc_culture_42396_2026_08_27_berry_lane_music_fest_2026_demolition_brass_band"
     ]
   }
 }
