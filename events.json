@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Jul 31, 2026, 8:50 AM EDT",
+    "checked": "Jul 31, 2026, 4:47 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -245,7 +245,6 @@
       "11:30 AM",
       "12 PM",
       "1 PM",
-      "1:30 PM",
       "2 PM",
       "2:30 PM",
       "3 PM",
@@ -1211,23 +1210,6 @@
       "link": "https://www.garysguide.com/events/6zqgtvy/Seed-Series-A-Founder-Happy-Hour-Building-Teams-That-Scale",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Genevieve (Founder, Pinnacle Path)."
-    },
-    "luma_2026_07_31_robot_brunch_hackathon_with_ufactory_viam": {
-      "title": "Robot Brunch Hackathon with UFactory & Viam",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-07-31",
-      "time": "1:30 PM",
-      "sort": 13.5,
-      "when": "Fri, 07/31 · 1:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Viam",
-      "source": "Luma NYC",
-      "link": "https://luma.com/a1gb61fl",
-      "map": "https://maps.google.com/?q=Viam%20NYC",
-      "summary": "Luma NYC: Viam, Alyssa Demirjian, Shannon Bradshaw, Shannon Sweeney, Samuel Chau"
     },
     "luma_2026_08_04_founders_breakfast_club_with_corgi": {
       "title": "Founders Breakfast Club with Corgi",
