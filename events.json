@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 30, 2026, 4:43 PM EDT",
+    "checked": "Jul 31, 2026, 8:50 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-30",
-        "key": "Thu",
-        "label": "Thu",
-        "date": "Jul 30"
-      },
       {
         "iso": "2026-07-31",
         "key": "Fri",
@@ -45,15 +39,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Aug 5"
+      },
+      {
+        "iso": "2026-08-06",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Aug 6"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-30",
-        "key": "Thu",
-        "label": "Thu",
-        "date": "Jul 30"
-      },
       {
         "iso": "2026-07-31",
         "key": "Fri",
@@ -233,9 +227,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Aug 29"
+      },
+      {
+        "iso": "2026-08-30",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Aug 30"
       }
     ],
-    "todayKey": "Thu",
+    "todayKey": "Fri",
     "times": [
       "8 AM",
       "9 AM",
@@ -244,6 +244,8 @@
       "11 AM",
       "11:30 AM",
       "12 PM",
+      "1 PM",
+      "1:30 PM",
       "2 PM",
       "2:30 PM",
       "3 PM",
@@ -253,8 +255,8 @@
       "6 PM",
       "6:30 PM",
       "7 PM",
-      "7:30 PM",
-      "8:30 PM"
+      "8:30 PM",
+      "10 PM"
     ]
   },
   "events": {
@@ -1210,6 +1212,57 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Genevieve (Founder, Pinnacle Path)."
     },
+    "luma_2026_07_31_robot_brunch_hackathon_with_ufactory_viam": {
+      "title": "Robot Brunch Hackathon with UFactory & Viam",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-07-31",
+      "time": "1:30 PM",
+      "sort": 13.5,
+      "when": "Fri, 07/31 · 1:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Viam",
+      "source": "Luma NYC",
+      "link": "https://luma.com/a1gb61fl",
+      "map": "https://maps.google.com/?q=Viam%20NYC",
+      "summary": "Luma NYC: Viam, Alyssa Demirjian, Shannon Bradshaw, Shannon Sweeney, Samuel Chau"
+    },
+    "luma_2026_08_04_founders_breakfast_club_with_corgi": {
+      "title": "Founders Breakfast Club with Corgi",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-08-04",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Tue, 08/04 · 1pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/tn61n9pj",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Corgi NYC, Abril Zucchi, Linda, jamie, Maddie"
+    },
+    "luma_2026_08_04_new_york_city_claude_code_for_developers": {
+      "title": "New York City | Claude Code for Developers",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-08-04",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Tue, 08/04 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/claude-wln0",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Claude Community Events, em, Adam Roman"
+    },
     "nyu_tandon_2026_08_06_a_foundation_model_for_the_electric_grid_gridfm": {
       "title": "A Foundation Model for the electric grid (GridFM)",
       "type": "tech",
@@ -1243,57 +1296,6 @@
       "link": "https://engineering.nyu.edu/events/2026/08/07/cellular-metasploit-lessons-15-years-cellular-security-research",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_38072_2026_07_30_berry_lane_music_fest_2026_p_r_i_m_e": {
-      "title": "Berry Lane Music Fest 2026 / P.R.I.M.E.",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Thu",
-      "date": "2026-07-30",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Thu, 07/30 · 6:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Berry Lane Park, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-p-r-i-m-e/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "&nbsp; JC Summerfest featuring P.R.I.M.E R&B Soul Berry Lane Park 6:30pm-8:30pm"
-    },
-    "jc_culture_42157_2026_07_30_family_dance_class": {
-      "title": "Family Dance Class",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Thu",
-      "date": "2026-07-30",
-      "time": "7:30 PM",
-      "sort": 19.5,
-      "when": "Thu, 07/30 · 7:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Surati for Performing Arts, 844&846 Newark Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/family-dance-class/",
-      "map": "https://maps.google.com/?q=Surati%20for%20Performing%20Arts%2C%20844%26846%20Newark%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Bring the whole family for an evening of music, movement, and fun at our Family Dance Class! Whether you’re an experienced dancer or just looking to make lasting memories together, this class is designed for all ages and skill levels. Enjoy an hour of upbeat dancing, laughter, and quality time in a welcoming environment."
-    },
-    "jc_culture_37956_2026_07_30_movies_in_the_park_2026_wicked_for_good": {
-      "title": "Movies in the Park 2026 / Wicked for Good",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Thu",
-      "date": "2026-07-30",
-      "time": "8:30 PM",
-      "sort": 20.5,
-      "when": "Thu, 07/30 · 8:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "TRIANGLE PARK, 247 Old Bergen Rd, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-wicked-for-good-3/",
-      "map": "https://maps.google.com/?q=TRIANGLE%20PARK%2C%20247%20Old%20Bergen%20Rd%2C%20NJ",
-      "summary": "&nbsp; Triangle Park featuring Wicked for Good"
     },
     "jc_culture_37958_2026_07_31_movies_in_the_park_2026_inside_out_2": {
       "title": "Movies in the Park 2026 / Inside Out 2",
@@ -1764,10 +1766,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_07_30_6_30_pm": [
-      "gary_2026_07_30_real_estate_beer_pong_classic",
-      "jc_culture_38072_2026_07_30_berry_lane_music_fest_2026_p_r_i_m_e"
     ],
     "cluster_2026_08_02_12_pm": [
       "gary_2026_08_02_cfo_ai_leverage_report",
