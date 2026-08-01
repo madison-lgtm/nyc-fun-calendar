@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Jul 31, 2026, 4:47 PM EDT",
+    "checked": "Aug 1, 2026, 7:56 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-07-31",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Jul 31"
-      },
       {
         "iso": "2026-08-01",
         "key": "Sat",
@@ -45,15 +39,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Aug 6"
+      },
+      {
+        "iso": "2026-08-07",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Aug 7"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-07-31",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Jul 31"
-      },
       {
         "iso": "2026-08-01",
         "key": "Sat",
@@ -233,17 +227,24 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Aug 30"
+      },
+      {
+        "iso": "2026-08-31",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Aug 31"
       }
     ],
-    "todayKey": "Fri",
+    "todayKey": "Sat",
     "times": [
-      "8 AM",
+      "8:30 AM",
       "9 AM",
       "9:30 AM",
       "10 AM",
       "11 AM",
       "11:30 AM",
       "12 PM",
+      "12:30 PM",
       "1 PM",
       "2 PM",
       "2:30 PM",
@@ -255,7 +256,8 @@
       "6:30 PM",
       "7 PM",
       "8:30 PM",
-      "10 PM"
+      "10 PM",
+      "10:30 PM"
     ]
   },
   "events": {
@@ -446,125 +448,6 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "gary_2026_07_30_run_hack_w_chat_dev": {
-      "title": "Run & Hack w/ Chat.Dev",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-07-30",
-      "time": "8 AM",
-      "sort": 8,
-      "when": "Thu, 07/30 · 8:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 91 1st Ave",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/biitrre/Run-Hack-w-Chat-Dev",
-      "map": "https://maps.google.com/?q=Venue%2C%2091%201st%20Ave",
-      "summary": "Gary's Guide: With Matt Mirman (CEO, Chat.Dev). Win custom Adizero Evo SL shoes."
-    },
-    "gary_2026_07_30_buzzfeed_ai_demos_happy_social_hour": {
-      "title": "BuzzFeed AI Demos & Happy Social Hour",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-07-30",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Thu, 07/30 · 3:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Flatiron, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/7nvj426/BuzzFeed-AI-Demos-Happy-Social-Hour",
-      "map": "https://maps.google.com/?q=Flatiron%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: If your idea of a fun Thursday involves seeing cool AI projects & wondering, \"Wait... how did they make that?\" Come hang out with us. BuzzFeed is teaming up with NYC AI Coworking for an afternoon of live demos from builders across the community. You'll see BuzzFeed's latest projects, Conjure & Rat Race, along with a lineup of demos from members of Chris's network who have been busy making all kinds of weird, clever, & genuinely impressive things. Then we'll trade demos for drinks. Stick around for a laid-back happy social hour with seltzers, AI challenges, good conversations, & plenty of time to meet the people behind the projects. Ask questions, swap ideas, give feedback, or just nerd out about AI with people who won't glaze over after thirty seconds. Whether you build AI for a living, tinker with it on weekends, or just like seeing what people are making, we'd love to have you. Thursday, July 30 3:00-5:00 PM Flatiron Come for the demos. Stay because you accidentally started a 20-minute conversation about prompting & poltergeists."
-    },
-    "gary_2026_07_30_founders_investors_soiree": {
-      "title": "Founders & Investors Soiree",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-07-30",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Thu, 07/30 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/tj6memx/Founders-Investors-Soiree",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Max Kuivenhoven (Startups & Ventures, MongoDB), Elena Obukhova & Christopher Michael (Founder, Supermoon)."
-    },
-    "gary_2026_07_30_real_estate_beer_pong_classic": {
-      "title": "Real Estate Beer Pong Classic",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-07-30",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Thu, 07/30 · 6:30pm",
-      "price": "$30",
-      "free": false,
-      "place": "Venue, 535 5th Ave",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/eof9ysn/Real-Estate-Beer-Pong-Classic",
-      "map": "https://maps.google.com/?q=Venue%2C%20535%205th%20Ave",
-      "summary": "Gary's Guide: With Ferguson (Founder, Ideal Rev), Gabe Einhorn (Founder, VryfID)."
-    },
-    "gary_2026_07_31_founders_friday_by_neo": {
-      "title": "Founders Friday By Neo",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-07-31",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 07/31 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/4gmrh6m/Founders-Friday-By-Neo",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Ben Rozen (Co-Founder/CEO, Suka Sushi)."
-    },
-    "gary_2026_07_31_tech_happy_hour_by_startup_grind": {
-      "title": "Tech Happy Hour By Startup Grind",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-07-31",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Fri, 07/31 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Time Out Market Union Sqare, 124 E 14th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/s3t8r9v/Tech-Happy-Hour-By-Startup-Grind",
-      "map": "https://maps.google.com/?q=Time%20Out%20Market%20Union%20Sqare%2C%20124%20E%2014th%20St",
-      "summary": "Gary's Guide: A happy hour for real conversations. This is our monthly tech mixer to connect with peers across the NYC tech & startup community - from founders & VCs to developers & designers."
-    },
-    "gary_2026_07_31_ugly_talk_winners_wipeouts_in_social_commerce": {
-      "title": "Ugly Talk - Winners & Wipeouts In Social Commerce",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-07-31",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 07/31 · 6:00pm",
-      "price": "$25",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/dc2y4rp/Ugly-Talk-Winners-Wipeouts-In-Social-Commerce",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Harley Sutton (Founder/CEO, Thanks! Naturals), Ethan Ma (Founder/CEO, AFM), Shea Daspin (Miracle Miles Group)."
-    },
     "gary_2026_08_01_build_w_gemma_on_device_ai_for_healthcare": {
       "title": "Build w/ Gemma - On-Device AI For Healthcare",
       "type": "tech",
@@ -615,6 +498,23 @@
       "link": "https://www.garysguide.com/events/xgxd8so/Hamptons-Luxury-Pool-Party-Celebrity-Pro-Am-Padel-Tournament",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With founder/CEOs Richie Hosein (1nfluenc3 Media), Tiffany Castillo (TM Entertainment), Jackie Botelho (ABCVIP), Adam Weiss (AMWPR), Jordan March (Netflix's Owning Manhattan), Brian Autz (ABC's The Bachelorette), Rob Beer (Celeb DJ)."
+    },
+    "gary_2026_08_04_design_with_the_end_in_mind_building_ai_agents_you_c": {
+      "title": "Design With The End In Mind - Building AI Agents You Can Trust",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-08-04",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Tue, 08/04 · 5:30pm",
+      "price": "$12",
+      "free": false,
+      "place": "Point Cafe, 2200 Atlantic St, Stamford",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/uknlwek/Design-With-The-End-In-Mind-Building-AI-Agents-You-Can-Trust",
+      "map": "https://maps.google.com/?q=Point%20Cafe%2C%202200%20Atlantic%20St%2C%20Stamford",
+      "summary": "Gary's Guide: With Wei Chen (Prof., UConn)."
     },
     "gary_2026_08_04_entrepreneurs_roundtable_w_refashiond_ventures": {
       "title": "Entrepreneurs Roundtable w/ Refashiond Ventures",
@@ -837,6 +737,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With George Mwangi (Founder, WanderWorth), Eni M (Founder, TravelSpoke)."
     },
+    "gary_2026_08_11_nyc_fintech_coffee": {
+      "title": "NYC Fintech Coffee",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-08-11",
+      "time": "8:30 AM",
+      "sort": 8.5,
+      "when": "Tue, 08/11 · 8:30am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ojypdjc/NYC-Fintech-Coffee",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With LSEG (London Stock Exchange Group) & This Week In Fintech."
+    },
     "gary_2026_08_12_software_factory_intensive": {
       "title": "Software Factory Intensive",
       "type": "tech",
@@ -956,8 +873,8 @@
       "map": "https://maps.google.com/?q=Cre8ive%2C%20134%20W%2029th%20St%2C%202nd%20Fl",
       "summary": "Gary's Guide: With Alisha Outridge (Chief Product & Tech Officer, Byte&Chord), Singapore Global Network."
     },
-    "gary_2026_08_13_august_13_how_to_talk_to_people_strangers_investors_": {
-      "title": "August 13: How to talk to people (strangers, investors, customers, & your own employees)",
+    "gary_2026_08_13_how_to_talk_to_people_strangers_investors_customers_": {
+      "title": "How To Talk To People - Strangers, Investors, Customers & Your Own Employees",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Thu",
@@ -969,9 +886,9 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/7xqivoz/August-13-How-to-talk-to-people-strangers-investors-customers-and-your-own-employees",
+      "link": "https://www.garysguide.com/events/7xqivoz/How-To-Talk-To-People-Strangers-Investors-Customers-Your-Own-Employees",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Our speakers:nKaren Kelly I am the Founder & CEO of Launch by Lunch, a Claude-certified small business innovation partner helping non-technical owners save money & scale in ways we never dreamed. We do not train owners to admire AI. We train them to put it to work & keep the results. Every engagement is built so the owner walks away able to do the work themselves. My rule is simple, & I mean it literally: no business left behind.nErin Essex Prior to Google, I gathered experience at agencies, startups, & large companies like Shutterstock & MongoDB. Throughout my journey, my approach to design has remained consistentcentered around human behavior & empathy. Whether designing web apps, native apps, SaaS tools, data analysis tools, or even drone calibration tools, the user is always at the forefront of my mind.nJoyce Shin AI can replicate knowledge. It can't replicate your judgement, adaptability, or intuition. Those are built, not born. And almost nobody is building them on purpose. Our humanity is our competitive advantage. The question is whether you're designing for it.nCorey Greenhouse Over the past 20+ years, Ive led global CPG brands & high-growth DTC startups, scaling businesses through brand strategy, performance marketing, & omnichannel expansion. My expertise spans DTC, retail, Amazon, & marketplaces, with leadership roles at Unilever, Colgate, Ogilvy, Soma Water, Full Circle, Blix Electric Bikes, & Morgan Stanley. I also consult for emerging & established brands to help them accelerate growth.nFarzad Khosravi NYC-based product & growth leader who has launched four AI/ML products, including a YC-backed company with an $8.5M seed round. Led & scaled teams of 60+ engineers, shipping API-first & agentic systems used in real-time production. Built & managed core GTM & delivery teams end-to-end: scaled Customer Success at Nylas from 18, created & trained the Sales Engineering function, & stood up three agentic AI/ML engineering teams + GTM functions from scratch across Traversaal, Humoniq (YC S25), & Cicero.nWhat to expect:nA rapid-fire panel where each expert delivers a focused 7-minute lightning talk, followed by question-and-answers with the audience.nnAlso, refreshments:nnTasting by Si Senor MezcalnSi Seor Mezcal is crafted from 100% Espadn agave grown in the mineral-rich soils of Oaxaca. Using a specially made tahona stone & traditional artisanal methods, each small batch is slowly produced & double distilled in copper stills to create an exceptionally pure mezcal. Si Seor Mezcal is 100% agave, additive free, sugar free, non-GMO, & vegana New Yorker with a Mexican soul. www.sisenormezcal.comnAbout Lawrence Krubner:nKrubner is the CTO of https://scorealytics.com/nKrubner also hosts a New York City startup leadership event every month. To follow his events, subscribe to his newsletter Respectful Leadership:nnhttps://respectfulleadership.substack.com/"
+      "summary": "Gary's Guide: With founders Joyce Shin (The Human Edge), Karen Kelly (Launch by Lunch), Farzad Khosravi (The Chief Rebel), Corey Greenhouse (CMO, Acure)."
     },
     "gary_2026_08_13_founders_house_poker_game_night": {
       "title": "Founders House - Poker & Game Night",
@@ -1211,6 +1128,91 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Genevieve (Founder, Pinnacle Path)."
     },
+    "gary_2026_08_20_the_startup_pitch_demo_showcase_by_startup_grind": {
+      "title": "The Startup Pitch - Demo Showcase By Startup Grind",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-08-20",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Thu, 08/20 · 5:30pm",
+      "price": "$5",
+      "free": false,
+      "place": "The Yard: Herald Sq, 106 W 32nd St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/3hvs4wl/The-Startup-Pitch-Demo-Showcase-By-Startup-Grind",
+      "map": "https://maps.google.com/?q=The%20Yard%3A%20Herald%20Sq%2C%20106%20W%2032nd%20St",
+      "summary": "Gary's Guide: See the newest companies coming out of the NYC startup ecosystem. Provide peer feedback & network with ambitious founders at The Startup Pitch: Demo Showcase. It's time to go beyond the deck & see the best live tech from New York's emerging startups. Welcome to a pitch event with a twist. We skip the fluff & focus on what matters: a live look at real products. This pitch & demo showcase gives you a first look at new technology from startups that are actively building & shipping product - sometimes even before VCs have seen them! The format is fast-paced & interactive. After each demo, the floor is open for questions, ideas, & honest feedback from the community. We welcome investors who want an unfiltered look at new technology & early-stage teams. Date: Thursday, August 20th Time: 5:30 PM - 7:30 PM Venue: The Yard: Herald Square Tickets: Only $5 (includes happy hour drinks) Founders: Sign up here to apply to pitch at an upcoming event WHO SHOULD ATTEND Startups ready to demo a real product & get honest feedback Engineers, PMs, & designers who love seeing new tech in action Investors looking for a ground-floor, early look at local startups Anyone in the NYC tech scene who wants to connect with & support the people building things AGENDA 5:30 PM: Doors Open & Networking 6:00 PM: Startup Pitches & Demos with Audience Q&A 7:00 PM: Meet the Presenting Startups This is not a competition -- it's an opportunity for founders to showcase their projects, exchange insights, & receive constructive feedback from founder peers. PITCH FORMAT Pitch & Demo - 6 minutes Audience Q&A - 4 minutes Pitch deck AND product demo are required"
+    },
+    "gary_2026_08_21_nyc_coffee_club_early_stage_ai_native_founders_funde": {
+      "title": "NYC Coffee Club - Early-Stage AI-Native Founders & Funders",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-08-21",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Fri, 08/21 · 10:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/smyj68e/NYC-Coffee-Club-Early-Stage-AI-Native-Founders-Funders",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Olivia, Alice, Naomi & Lauren (Forum Ventures)."
+    },
+    "gary_2026_08_22_the_great_founder_river_float_of_2026": {
+      "title": "The Great Founder River Float Of 2026",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Sat",
+      "date": "2026-08-22",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Sat, 08/22 · 9:00am",
+      "price": "Varies",
+      "free": false,
+      "place": "Delaware River, To Be Announced-, Easton",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/qzbem30/The-Great-Founder-River-Float-Of-2026",
+      "map": "https://maps.google.com/?q=Delaware%20River%2C%20To%20Be%20Announced-%2C%20Easton",
+      "summary": "Gary's Guide: 90m private charter from NYC, followed by 3 hr float down Delaware River w/ other founders."
+    },
+    "gary_2026_08_22_dell_x_nvidia_hackathon": {
+      "title": "Dell x NVIDIA Hackathon",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sat",
+      "date": "2026-08-22",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Sat, 08/22 · 9:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/hr2t1pt/Dell-x-NVIDIA-Hackathon",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Local AI on Dell Pro Max w/ GB10."
+    },
+    "gary_2026_08_24_ai_what_makes_us_human": {
+      "title": "AI & What Makes Us Human",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Mon",
+      "date": "2026-08-24",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Mon, 08/24 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "BrainStation, 136 Crosby St, 4th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/o4ndosr/AI-What-Makes-Us-Human",
+      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
+      "summary": "Gary's Guide: With Camille Carlton (Dir. Strategy & Impact, Center for Humane Tech)."
+    },
     "luma_2026_08_04_founders_breakfast_club_with_corgi": {
       "title": "Founders Breakfast Club with Corgi",
       "type": "startup",
@@ -1245,6 +1247,57 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Claude Community Events, em, Adam Roman"
     },
+    "luma_2026_08_04_sovereign_ai_a_fight_for_the_future_of_freedom": {
+      "title": "Sovereign AI: A Fight for the Future of Freedom",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-08-04",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Tue, 08/04 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/1pme2n4b",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Freedom Lab NYC, Harrison Friedes, O B"
+    },
+    "luma_2026_08_05_the_3x_ae_selling_at_ai_speed_nyc": {
+      "title": "The 3x AE: Selling at AI Speed (NYC)",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-08-05",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Wed, 08/05 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/r58qzw0f",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: EliseAI, Kuba, EliseAI, Maria Morin, Ben Rey"
+    },
+    "luma_2026_08_06_bagel_entrepreneurs_x_nea_microsoft": {
+      "title": "Bagel Entrepreneurs x NEA @ Microsoft",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-08-06",
+      "time": "12:30 PM",
+      "sort": 12.5,
+      "when": "Thu, 08/06 · 12:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, New York",
+      "source": "Luma NYC",
+      "link": "https://luma.com/2q8gjakt",
+      "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
+      "summary": "Luma NYC: Bagel Entrepreneurs, Javier Dutan, Alexa Grabelle, Lou Abrams, Miguel Martinez, NEA"
+    },
     "nyu_tandon_2026_08_06_a_foundation_model_for_the_electric_grid_gridfm": {
       "title": "A Foundation Model for the electric grid (GridFM)",
       "type": "tech",
@@ -1278,23 +1331,6 @@
       "link": "https://engineering.nyu.edu/events/2026/08/07/cellular-metasploit-lessons-15-years-cellular-security-research",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_37958_2026_07_31_movies_in_the_park_2026_inside_out_2": {
-      "title": "Movies in the Park 2026 / Inside Out 2",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-07-31",
-      "time": "8:30 PM",
-      "sort": 20.5,
-      "when": "Fri, 07/31 · 8:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "HARSIMUS CEMETERY, 435 Newark Ave., JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-inside-out-2-2/",
-      "map": "https://maps.google.com/?q=HARSIMUS%20CEMETERY%2C%20435%20Newark%20Ave.%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "&nbsp; Harsimus Cemetery featuring Inside Out 2"
     },
     "jc_culture_38057_2026_08_02_jersey_city_summerfest_2026_winard_harper_jazz": {
       "title": "Jersey City Summerfest 2026 / Winard Harper Jazz",
@@ -1466,6 +1502,40 @@
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "Berry Lane Park featuring Wicked for Good"
     },
+    "jc_culture_42431_2026_08_08_a_camp_liberty_art_celebration": {
+      "title": "A Camp Liberty Art Celebration",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Sat",
+      "date": "2026-08-08",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Sat, 08/08 · 11am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Camp Liberty, 300 Morris Pesin Drive, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/a-camp-liberty-art-celebration/",
+      "map": "https://maps.google.com/?q=Camp%20Liberty%2C%20300%20Morris%20Pesin%20Drive%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Bring the whole family for a day of fun and creativity! You get to pick your activity. Sing, dance, paint, sculpt, swim, or burn some energy playing soccer, handball, or basketball! We even have an outdoor live painting, and a special guest performance by the NJ Symphony! Fun starts at 11AM! Scan QR Code to register."
+    },
+    "jc_culture_42474_2026_08_08_ilg_community_bbq": {
+      "title": "ILG Community BBQ",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-08-08",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 08/08 · 12pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Urban League Parking Lot, 253 Martin Luther King Dr, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/ilg-community-bbq/",
+      "map": "https://maps.google.com/?q=Urban%20League%20Parking%20Lot%2C%20253%20Martin%20Luther%20King%20Dr%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Save the date for our annual Community BBQ. Join your fellow Greenville residents for great food, family-friendly games, and live entertainment as we come together to celebrate our community."
+    },
     "jc_culture_38615_2026_08_08_la_festa_italiana_2026": {
       "title": "LA FESTA ITALIANA 2026",
       "type": "market",
@@ -1533,6 +1603,23 @@
       "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-adam-falcon/",
       "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
       "summary": "&nbsp; JC Summerfest featuring Adam Falcon Soul & Blues South Cove Lawn Liberty State Park 6:30pm-8:30pm"
+    },
+    "jc_culture_42443_2026_08_11_jazz_open_jam_night": {
+      "title": "Jazz Open Jam Night",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Tue",
+      "date": "2026-08-11",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Tue, 08/11 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "SURATI STUDIOS, 844 & 846 Newark Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jazz-open-jam-night/",
+      "map": "https://maps.google.com/?q=SURATI%20STUDIOS%2C%20844%20%26%20846%20Newark%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us for an evening of live music at our Jazz Open Jam Night on Tuesday, August 11, from 6:30–7:30 PM! Musicians of all experience levels are invited to bring their instruments, sit in, and collaborate with fellow jazz enthusiasts in a welcoming and creative atmosphere. Whether you’re performing or simply enjoying the music, it’s a great opportunity to connect with the local community and celebrate the spirit of jazz. All are welcome!"
     },
     "jc_culture_10003563_2026_08_12_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -1636,6 +1723,23 @@
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     },
+    "jc_culture_42499_2026_08_22_hope_rising_gospel_celebration_2026": {
+      "title": "Hope Rising Gospel Celebration 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Sat",
+      "date": "2026-08-22",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Sat, 08/22 · 1pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "BETHUNE PARK, 143 Martin Luther King Dr., JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hope-rising-gospel-celebration-2026/",
+      "map": "https://maps.google.com/?q=BETHUNE%20PARK%2C%20143%20Martin%20Luther%20King%20Dr.%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor."
+    },
     "jc_culture_38060_2026_08_23_jersey_city_summerfest_2026_3d_rhythm_of_life": {
       "title": "Jersey City Summerfest 2026 / 3D Rhythm of Life",
       "type": "park",
@@ -1737,6 +1841,23 @@
       "link": "https://jerseycityculture.org/event/berry-lane-music-fest-2026-demolition-brass-band/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "JC Summerfest featuring Demolition Brass Band Berry Lane Park 6:30pm-8:30pm"
+    },
+    "jc_culture_42206_2026_09_01_summer_fest_south_lawn_lsp_forget_the_whale_2026": {
+      "title": "Summer Fest South Lawn LSP FORGET THE WHALE 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Tue",
+      "date": "2026-09-01",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Tue, 09/01 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Liberty State Park. South Lawn, Freedom Way, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/summer-fest-south-lawn-lsp-forget-the-whale-2026/",
+      "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
+      "summary": "&nbsp; TUESDAYS SOUTH LAWN LIBERTY STATE PARK SIX THIRTY TO EIGHT THIRTY FEATURING FORGET THE WHALE POP / ROCK MUSIC"
     }
   },
   "clusters": {
@@ -1765,7 +1886,7 @@
     "cluster_2026_08_13_6_pm": [
       "gary_2026_08_13_creative_ai_forum",
       "gary_2026_08_13_ai_founder_playbook_prove_your_roadmap_actually_roll",
-      "gary_2026_08_13_august_13_how_to_talk_to_people_strangers_investors_"
+      "gary_2026_08_13_how_to_talk_to_people_strangers_investors_customers_"
     ],
     "cluster_2026_08_19_5_pm": [
       "gary_2026_08_19_workshop_wednesday_ai_tools_for_startup_growth",
@@ -1776,6 +1897,14 @@
       "gary_2026_08_19_ai_tinkerers_demo_day",
       "gary_2026_08_19_junto_founder_dinner",
       "gary_2026_08_19_fundraising_launchpad_early_stage_ai_startups"
+    ],
+    "cluster_2026_08_22_9_am": [
+      "gary_2026_08_22_the_great_founder_river_float_of_2026",
+      "gary_2026_08_22_dell_x_nvidia_hackathon"
+    ],
+    "cluster_2026_08_11_6_30_pm": [
+      "jc_culture_38064_2026_08_11_jersey_city_summerfest_2026_adam_falcon",
+      "jc_culture_42443_2026_08_11_jazz_open_jam_night"
     ],
     "cluster_2026_08_27_6_30_pm": [
       "jc_culture_38073_2026_08_27_berry_lane_music_fest_2026_marlena_moniece",
