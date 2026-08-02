@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 2, 2026, 7:55 AM EDT",
+    "checked": "Aug 2, 2026, 4:29 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1262,7 +1262,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/1pme2n4b",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Freedom Lab NYC, Harrison Friedes, O B"
+      "summary": "Luma NYC: Freedom Lab NYC, Harrison Friedes, O B, Andrew Orobator"
     },
     "luma_2026_08_05_the_3x_ae_selling_at_ai_speed_nyc": {
       "title": "The 3x AE: Selling at AI Speed (NYC)",
