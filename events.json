@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 2, 2026, 4:29 PM EDT",
+    "checked": "Aug 3, 2026, 9:33 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-02",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Aug 2"
-      },
       {
         "iso": "2026-08-03",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Aug 8"
+      },
+      {
+        "iso": "2026-08-09",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Aug 9"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-02",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Aug 2"
-      },
       {
         "iso": "2026-08-03",
         "key": "Mon",
@@ -233,9 +227,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Sep 1"
+      },
+      {
+        "iso": "2026-09-02",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Sep 2"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
       "8:30 AM",
       "9 AM",
@@ -448,57 +448,6 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "gary_2026_08_01_build_w_gemma_on_device_ai_for_healthcare": {
-      "title": "Build w/ Gemma - On-Device AI For Healthcare",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-08-01",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 08/01 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/cgyb5dq/Build-w-Gemma-On-Device-AI-For-Healthcare",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Hackathon building next gen of healthcare tools w/ Google's open Gemma 4 models. $2K prize."
-    },
-    "gary_2026_08_02_cfo_ai_leverage_report": {
-      "title": "CFO AI Leverage Report",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-08-02",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 08/02 · 12:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Fairfield by Marriott, 325 W 33rd St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ltzm39p/CFO-AI-Leverage-Report",
-      "map": "https://maps.google.com/?q=Fairfield%20by%20Marriott%2C%20325%20W%2033rd%20St",
-      "summary": "Gary's Guide: Exec briefing & industry benchmark discussion."
-    },
-    "gary_2026_08_02_hamptons_luxury_pool_party_celebrity_pro_am_padel_to": {
-      "title": "Hamptons Luxury Pool Party & Celebrity Pro-Am Padel Tournament",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sun",
-      "date": "2026-08-02",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 08/02 · 12:00pm",
-      "price": "$150",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/xgxd8so/Hamptons-Luxury-Pool-Party-Celebrity-Pro-Am-Padel-Tournament",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With founder/CEOs Richie Hosein (1nfluenc3 Media), Tiffany Castillo (TM Entertainment), Jackie Botelho (ABCVIP), Adam Weiss (AMWPR), Jordan March (Netflix's Owning Manhattan), Brian Autz (ABC's The Bachelorette), Rob Beer (Celeb DJ)."
-    },
     "gary_2026_08_04_design_with_the_end_in_mind_building_ai_agents_you_c": {
       "title": "Design With The End In Mind - Building AI Agents You Can Trust",
       "type": "tech",
@@ -703,6 +652,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Rob Guthy (Co-Founder, Catalyst), Stephen Michael (Founder, Propel Earth), Katelyn Laskosky (Ops, The Brightwood Skin)."
     },
+    "gary_2026_08_07_founders_friday_by_neo": {
+      "title": "Founders Friday By Neo",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-08-07",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Fri, 08/07 · 10:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/pdv8ogt/Founders-Friday-By-Neo",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Shaan Arora (Co-Founder/CEO, Alia)."
+    },
     "gary_2026_08_08_raingentic_commerce_hackathon": {
       "title": "Raingentic Commerce Hackathon",
       "type": "tech",
@@ -821,6 +787,23 @@
       "link": "https://www.garysguide.com/events/1xboxp7/Quantum-Computing-Meetup",
       "map": "https://maps.google.com/?q=Transatlantic%20Innovation%20Hub%2C%20417%205th%20Ave%2C%20Ste%20814",
       "summary": "Gary's Guide: With Mark Jackson (Quantum Evangelist, Quantinuum)."
+    },
+    "gary_2026_08_12_what_happens_to_humanity_when_everything_becomes_int": {
+      "title": "What Happens To Humanity When Everything Becomes Intelligent?",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-08-12",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 08/12 · 6:00pm",
+      "price": "$25",
+      "free": false,
+      "place": "BrainStation, 136 Crosby St, 4th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/aw03c8u/What-Happens-To-Humanity-When-Everything-Becomes-Intelligent",
+      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
+      "summary": "Gary's Guide: With founders Venus Rose (Haus of Creators), Sadia Sharmin (Cloud Couture), Julia Kolodkina (Aliiiens: Brand Venture Lab), Tanzeem Choudhury (Prof. Integrated Health & Tech, Cornell Tech)."
     },
     "gary_2026_08_12_stripe_community_the_dollar_just_got_an_api_stableco": {
       "title": "Stripe Community - The Dollar Just Got An API - Stablecoin Use Cases For Business",
@@ -975,6 +958,23 @@
       "map": "https://maps.google.com/?q=EqualSpace%2C%20550%20Broad%20St%2C%20Newark",
       "summary": "Gary's Guide: Calling all New Jersey techies to the monthly NJ Code & Coffee tech community meetup at the EqualSpace ES550 Tech & Innovation campus! Code & Coffee is an inclusive, informal networking/co-working session for those in tech (and the tech-curious). That includes operators, founders, & investors. Developers, data engineers, UX/UI designers, data scientists, product managers, software engineers, solution architects... all are welcome! People of all skill & experience levels can attend, we love it that way. Many people (optionally) bring projects to work on, & many other people (optionally) socialize the entire time. It's entirely up to you! Come grab a cup of coffee & meet new people, share stories, find collaborators, talk about everything tech, talk about everything NOT tech, take a break from job applications, get away from the computer screen, make connections, make conversation, make friends! Agenda: 2pm: Doors open, networking starts 2:30pm: Intro circle 3pm: networking continues 5pm: event ends The Intro Circle Near the beginning of the event (about 2:30 pm), we will do a standup in a circle: We first talk about organizer announcements, updates, & logistics. Then we go around the circle where each person says: *your name & job title/ role in tech/ tech stack, What you can help others with, *What you would like help with, Job opportunities you're hiring for OR announce that you are looking for one. If none, that's cool. After the introduction circle, everything is self-organized. Community Discord - come hang out before & after!: www.codeandcoffee.chat The Venue Equal Space is a premium share-space created with multicultural business owners in mind, =SPACE equips founders with resources, programming & a powerful network. Headquartered in the City of Newark, their share-space provides resources for startups, coaching for tech companies, & a wealth of intellectuals to collaborate & build with. The next wave in enterprises is being born within their walls. Become a part of the story: [EqualSpace.co/](https://equalspace.co/)"
     },
+    "gary_2026_08_16_ship_like_a_baddie_vibe_code_a_startup_ship_it_in_5_": {
+      "title": "Ship Like A Baddie - Vibe Code A Startup & Ship It In 5 Hours",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sun",
+      "date": "2026-08-16",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sun, 08/16 · 12:00pm",
+      "price": "$30",
+      "free": false,
+      "place": "Cre8ive NYC, 134 W 29th St, 2nd Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/yx1lv6p/Ship-Like-A-Baddie-Vibe-Code-A-Startup-Ship-It-In-5-Hours",
+      "map": "https://maps.google.com/?q=Cre8ive%20NYC%2C%20134%20W%2029th%20St%2C%202nd%20Fl",
+      "summary": "Gary's Guide: With Alisha Outridge (Founder, AIFounderPlaybook)."
+    },
     "gary_2026_08_18_ai_demo_night": {
       "title": "AI Demo Night",
       "type": "tech",
@@ -1059,6 +1059,23 @@
       "link": "https://www.garysguide.com/events/hx3amro/Startup-Founders-Investors-Talent-Mixer",
       "map": "https://maps.google.com/?q=Sugar%20Mouse%2C%2047%203rd%20Ave",
       "summary": "Gary's Guide: Startup networking event in New York for founders, investors, engineers, & operators. Structured networking rounds grouped by professional background, a live startup pitch session with investor feedback, & open networking to close out the evening. Held at Sugar Mouse NYC in the East Village. We use your LinkedIn from registration to group you with the right people, not random tables. Selected founders pitch live to active investors & receive direct feedback & introductions. Investors attend free with verification. Want to pitch? Apply at ascentvalley.com/pitch. Hosted by Ascent Valley - a global ecosystem active across NYC, SF, Boston, Miami, Austin, Houston, Chicago, Dallas, Amsterdam, Tel Aviv, Berlin, & Lisbon."
+    },
+    "gary_2026_08_19_ai_founders_supper_club": {
+      "title": "AI Founders Supper Club",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-08-19",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 08/19 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Upscale Asian Fusion Restaurant, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/t0me28r/AI-Founders-Supper-Club",
+      "map": "https://maps.google.com/?q=Upscale%20Asian%20Fusion%20Restaurant%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Hosted by The AI Furnace."
     },
     "gary_2026_08_19_ai_tinkerers_demo_day": {
       "title": "AI Tinkerers Demo Day",
@@ -1196,23 +1213,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Local AI on Dell Pro Max w/ GB10."
     },
-    "gary_2026_08_24_ai_what_makes_us_human": {
-      "title": "AI & What Makes Us Human",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-08-24",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 08/24 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "BrainStation, 136 Crosby St, 4th Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/o4ndosr/AI-What-Makes-Us-Human",
-      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
-      "summary": "Gary's Guide: With Camille Carlton (Dir. Strategy & Impact, Center for Humane Tech)."
-    },
     "luma_2026_08_04_founders_breakfast_club_with_corgi": {
       "title": "Founders Breakfast Club with Corgi",
       "type": "startup",
@@ -1331,23 +1331,6 @@
       "link": "https://engineering.nyu.edu/events/2026/08/07/cellular-metasploit-lessons-15-years-cellular-security-research",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_38057_2026_08_02_jersey_city_summerfest_2026_winard_harper_jazz": {
-      "title": "Jersey City Summerfest 2026 / Winard Harper Jazz",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sun",
-      "date": "2026-08-02",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sun, 08/02 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Liberty State Park, North Cove",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-winard-harper-jazz-2/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "&nbsp; JC Summerfest featuring Winard Harper Jazz North Cove Field Liberty State Park 6pm-8pm"
     },
     "jc_culture_41757_2026_08_03_pride_month_flag_raising_2026": {
       "title": "Pride Month Flag Raising 2026",
@@ -1887,10 +1870,6 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_08_02_12_pm": [
-      "gary_2026_08_02_cfo_ai_leverage_report",
-      "gary_2026_08_02_hamptons_luxury_pool_party_celebrity_pro_am_padel_to"
-    ],
     "cluster_2026_08_05_5_pm": [
       "gary_2026_08_05_female_founders_funders",
       "gary_2026_08_05_gtm_mastermind_landing_your_first_10_customers",
@@ -1899,6 +1878,10 @@
     "cluster_2026_08_06_5_pm": [
       "gary_2026_08_06_startup_mixer",
       "jc_culture_38613_2026_08_06_la_festa_italiana_2026"
+    ],
+    "cluster_2026_08_12_6_pm": [
+      "gary_2026_08_12_quantum_computing_meetup",
+      "gary_2026_08_12_what_happens_to_humanity_when_everything_becomes_int"
     ],
     "cluster_2026_08_13_6_pm": [
       "gary_2026_08_13_creative_ai_forum",
@@ -1911,6 +1894,7 @@
     ],
     "cluster_2026_08_19_6_pm": [
       "gary_2026_08_19_startup_founders_investors_talent_mixer",
+      "gary_2026_08_19_ai_founders_supper_club",
       "gary_2026_08_19_ai_tinkerers_demo_day",
       "gary_2026_08_19_junto_founder_dinner",
       "gary_2026_08_19_fundraising_launchpad_early_stage_ai_startups"
