@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 3, 2026, 9:33 AM EDT",
+    "checked": "Aug 3, 2026, 4:44 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -256,7 +256,6 @@
       "6:30 PM",
       "7 PM",
       "8:30 PM",
-      "10 PM",
       "10:30 PM"
     ]
   },
@@ -1230,23 +1229,6 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Corgi NYC, Abril Zucchi, Linda, jamie, Maddie"
     },
-    "luma_2026_08_04_new_york_city_claude_code_for_developers": {
-      "title": "New York City | Claude Code for Developers",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-08-04",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Tue, 08/04 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/claude-wln0",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Claude Community Events, em, Adam Roman"
-    },
     "luma_2026_08_04_sovereign_ai_a_fight_for_the_future_of_freedom": {
       "title": "Sovereign AI: A Fight for the Future of Freedom",
       "type": "tech",
@@ -1297,6 +1279,23 @@
       "link": "https://luma.com/2q8gjakt",
       "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
       "summary": "Luma NYC: Bagel Entrepreneurs, Javier Dutan, Alexa Grabelle, Lou Abrams, Miguel Martinez, NEA"
+    },
+    "nyu_tandon_2026_08_04_guiding_lightning_with_high_power_lasers_experiments": {
+      "title": "Guiding lightning with High-Power Lasers: Experiments at Mount Säntis in Switzerland",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Tue",
+      "date": "2026-08-04",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Tue, 08/04 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/08/04/guiding-lightning-high-power-lasers-experiments-mount-santis-switzerland",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
     },
     "nyu_tandon_2026_08_06_a_foundation_model_for_the_electric_grid_gridfm": {
       "title": "A Foundation Model for the electric grid (GridFM)",
