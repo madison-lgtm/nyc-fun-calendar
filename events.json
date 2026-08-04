@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 4, 2026, 8:53 AM EDT",
+    "checked": "Aug 4, 2026, 4:51 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -257,6 +257,7 @@
       "6:30 PM",
       "7 PM",
       "8:30 PM",
+      "10 PM",
       "10:30 PM"
     ]
   },
@@ -1213,23 +1214,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Local AI on Dell Pro Max w/ GB10."
     },
-    "luma_2026_08_04_founders_breakfast_club_with_corgi": {
-      "title": "Founders Breakfast Club with Corgi",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-08-04",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Tue, 08/04 · 1pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/tn61n9pj",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Corgi NYC, Abril Zucchi, Linda, jamie, Maddie"
-    },
     "luma_2026_08_04_sovereign_ai_a_fight_for_the_future_of_freedom": {
       "title": "Sovereign AI: A Fight for the Future of Freedom",
       "type": "tech",
@@ -1280,6 +1264,23 @@
       "link": "https://luma.com/2q8gjakt",
       "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
       "summary": "Luma NYC: Bagel Entrepreneurs, Javier Dutan, Alexa Grabelle, Lou Abrams, Miguel Martinez, NEA"
+    },
+    "luma_2026_08_06_tapas_and_wine_founders_night_w_corgi": {
+      "title": "Tapas and Wine: Founders Night w/ Corgi",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-08-06",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Thu, 08/06 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/wad76pdz",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Linda, Linda, Abril Zucchi"
     },
     "nyu_tandon_2026_08_04_guiding_lightning_with_high_power_lasers_experiments": {
       "title": "Guiding lightning with High-Power Lasers: Experiments at Mount Säntis in Switzerland",
