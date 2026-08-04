@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 3, 2026, 4:44 PM EDT",
+    "checked": "Aug 4, 2026, 8:53 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-03",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Aug 3"
-      },
       {
         "iso": "2026-08-04",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Aug 9"
+      },
+      {
+        "iso": "2026-08-10",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Aug 10"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-03",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Aug 3"
-      },
       {
         "iso": "2026-08-04",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Sep 2"
+      },
+      {
+        "iso": "2026-09-03",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Sep 3"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "8:30 AM",
       "9 AM",
@@ -249,6 +249,7 @@
       "2 PM",
       "2:30 PM",
       "3 PM",
+      "3:30 PM",
       "4 PM",
       "5 PM",
       "5:30 PM",
@@ -1331,40 +1332,6 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
-    "jc_culture_41757_2026_08_03_pride_month_flag_raising_2026": {
-      "title": "Pride Month Flag Raising 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Mon",
-      "date": "2026-08-03",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Mon, 08/03 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/pride-month-flag-raising-2026/",
-      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
-    },
-    "jc_culture_37960_2026_08_03_movies_in_the_park_2026_luca": {
-      "title": "Movies in the Park 2026 / LUCA",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Mon",
-      "date": "2026-08-03",
-      "time": "8:30 PM",
-      "sort": 20.5,
-      "when": "Mon, 08/03 · 8:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "SGT. ANTHONY PARK, 90-100 Palisade Ave., JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-tron-ares-3/",
-      "map": "https://maps.google.com/?q=SGT.%20ANTHONY%20PARK%2C%2090-100%20Palisade%20Ave.%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "&nbsp; Sgt. Anthony Park featuring LUCA"
-    },
     "jc_culture_10003562_2026_08_05_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
       "type": "market",
@@ -1399,6 +1366,23 @@
       "map": "https://maps.google.com/?q=HOLY%20ROSARY%20CHURCH%2C%20344%206TH%20ST%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
     },
+    "jc_culture_42610_2026_08_06_bolivia_flag_raising_2026": {
+      "title": "Bolivia Flag Raising 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-08-06",
+      "time": "3:30 PM",
+      "sort": 15.5,
+      "when": "Thu, 08/06 · 3:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/bolivia-flag-raising-2026/",
+      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
+    },
     "jc_culture_38613_2026_08_06_la_festa_italiana_2026": {
       "title": "LA FESTA ITALIANA 2026",
       "type": "market",
@@ -1415,6 +1399,23 @@
       "link": "https://jerseycityculture.org/event/la-festa-italiana-2026-3/",
       "map": "https://maps.google.com/?q=HOLY%20ROSARY%20CHURCH%2C%20344%206TH%20ST%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
+    },
+    "jc_culture_42620_2026_08_06_mjch_spirit_of_life_ensemble_2026": {
+      "title": "MJCH Spirit of Life Ensemble 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-08-06",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Thu, 08/06 · 5pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/mjch-spirit-of-life-ensemble-2026/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_42402_2026_08_06_berry_lane_music_fest_2026_marlena_moniece": {
       "title": "Berry Lane Music Fest 2026 / Marlena Moniece",
@@ -1569,6 +1570,23 @@
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "&nbsp; JC Summerfest featuring Strangers Stopping Strangers Grateful Dead Band North Cove Field Liberty State Park 6pm-8pm"
     },
+    "jc_culture_42614_2026_08_10_jc_puerto_rican_flag_raising_2026": {
+      "title": "JC Puerto Rican Flag Raising 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Mon",
+      "date": "2026-08-10",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Mon, 08/10 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jc-puerto-rican-flag-raising-2026/",
+      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
+    },
     "jc_culture_38064_2026_08_11_jersey_city_summerfest_2026_adam_falcon": {
       "title": "Jersey City Summerfest 2026 / Adam Falcon",
       "type": "park",
@@ -1654,8 +1672,8 @@
       "map": "https://maps.google.com/?q=Lincoln%20Park%2C%201%20County%20Rd%20605%2C%20Jersey%20City%2C%20NJ",
       "summary": "County Commissioner Bill O’Dea and Chico Ramchal along side the West Indian American Committee will be holding a West Indian Family Fun Day at Lincoln Park, on August 15th, 2026 beginning at 11am and concluding at 8:00pm. This event is intended to provide a day and location where families of a West Indian background of Hudson County can congregate and celebrate their culture. It will also provide an insight to experience the West Indian culture if you are from any descent. Among culture sharing the committee will provide a host of community games for all age groups. Some of these activities include a tug-o-war, 100m race, sack race, etc. In conjunction with the activities, we will have a show mobile on location that will provide music and non-band performances, such as cultural dancing. The expected turnout is estimated at, with the committee providing over 50 volunteers to help support the event."
     },
-    "jc_culture_38059_2026_08_16_jc_summerfest_2026_marel_hildago_jamaican_jazz_quint": {
-      "title": "JC Summerfest 2026 / Marel Hildago Jamaican Jazz Quintet",
+    "jc_culture_38059_2026_08_16_jc_summerfest_2026_marel_hidalgo_jamaican_jazz_quint": {
+      "title": "JC Summerfest 2026 / Marel Hidalgo Jamaican Jazz Quintet",
       "type": "entertainment",
       "label": "Music / Movies",
       "day": "Sun",
@@ -1876,7 +1894,8 @@
     ],
     "cluster_2026_08_06_5_pm": [
       "gary_2026_08_06_startup_mixer",
-      "jc_culture_38613_2026_08_06_la_festa_italiana_2026"
+      "jc_culture_38613_2026_08_06_la_festa_italiana_2026",
+      "jc_culture_42620_2026_08_06_mjch_spirit_of_life_ensemble_2026"
     ],
     "cluster_2026_08_12_6_pm": [
       "gary_2026_08_12_quantum_computing_meetup",
