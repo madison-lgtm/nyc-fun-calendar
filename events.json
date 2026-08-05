@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 4, 2026, 4:51 PM EDT",
+    "checked": "Aug 5, 2026, 8:47 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-04",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Aug 4"
-      },
       {
         "iso": "2026-08-05",
         "key": "Wed",
@@ -45,15 +39,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Aug 10"
+      },
+      {
+        "iso": "2026-08-11",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Aug 11"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-04",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Aug 4"
-      },
       {
         "iso": "2026-08-05",
         "key": "Wed",
@@ -233,9 +227,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Sep 3"
+      },
+      {
+        "iso": "2026-09-04",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Sep 4"
       }
     ],
-    "todayKey": "Tue",
+    "todayKey": "Wed",
     "times": [
       "8:30 AM",
       "9 AM",
@@ -1214,23 +1214,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Local AI on Dell Pro Max w/ GB10."
     },
-    "luma_2026_08_04_sovereign_ai_a_fight_for_the_future_of_freedom": {
-      "title": "Sovereign AI: A Fight for the Future of Freedom",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-08-04",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Tue, 08/04 · 10:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/1pme2n4b",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Freedom Lab NYC, Harrison Friedes, O B, Andrew Orobator"
-    },
     "luma_2026_08_05_the_3x_ae_selling_at_ai_speed_nyc": {
       "title": "The 3x AE: Selling at AI Speed (NYC)",
       "type": "tech",
@@ -1281,23 +1264,6 @@
       "link": "https://luma.com/wad76pdz",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Linda, Linda, Abril Zucchi"
-    },
-    "nyu_tandon_2026_08_04_guiding_lightning_with_high_power_lasers_experiments": {
-      "title": "Guiding lightning with High-Power Lasers: Experiments at Mount Säntis in Switzerland",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Tue",
-      "date": "2026-08-04",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Tue, 08/04 · 11:00 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/08/04/guiding-lightning-high-power-lasers-experiments-mount-santis-switzerland",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
     },
     "nyu_tandon_2026_08_06_a_foundation_model_for_the_electric_grid_gridfm": {
       "title": "A Foundation Model for the electric grid (GridFM)",
@@ -1724,6 +1690,23 @@
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     },
+    "jc_culture_42565_2026_08_19_true_colors_carried_on_a_pride_gathering_on_grief_an": {
+      "title": "True Colors, Carried On: A Pride Gathering on Grief and Legacy",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Wed",
+      "date": "2026-08-19",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Wed, 08/19 · 6:30pm",
+      "price": "Sliding Scale",
+      "free": true,
+      "place": "Pet Shop, 193 Newark Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/true-colors-carried-on-a-pride-gathering-on-grief-and-legacy/",
+      "map": "https://maps.google.com/?q=Pet%20Shop%2C%20193%20Newark%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "This Pride, what if our true colors included the ones we’ve lost? True Colors, Carried On is an evening of small-group, facilitated conversation about dying, grief, and the legacies we leave behind, held in Jersey City during Pride Month. This isn’t therapy, it’s community and permission to say the word “death” out loud during a month that’s usually about celebration, because both things can be true at once. Consider bringing a photo or small keepsake of someone you’re carrying. If you don’t have one on hand, we’ll have materials for you to write out a memory or decorate a name tag when you arrive."
+    },
     "jc_culture_42499_2026_08_22_hope_rising_gospel_celebration_2026": {
       "title": "Hope Rising Gospel Celebration 2026",
       "type": "park",
@@ -1917,6 +1900,10 @@
       "gary_2026_08_19_ai_tinkerers_demo_day",
       "gary_2026_08_19_junto_founder_dinner",
       "gary_2026_08_19_fundraising_launchpad_early_stage_ai_startups"
+    ],
+    "cluster_2026_08_19_6_30_pm": [
+      "gary_2026_08_19_seed_series_a_founder_happy_hour_building_teams_that",
+      "jc_culture_42565_2026_08_19_true_colors_carried_on_a_pride_gathering_on_grief_an"
     ],
     "cluster_2026_08_22_9_am": [
       "gary_2026_08_22_the_great_founder_river_float_of_2026",
