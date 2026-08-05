@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 5, 2026, 8:47 AM EDT",
+    "checked": "Aug 5, 2026, 4:44 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -241,6 +241,7 @@
       "9 AM",
       "9:30 AM",
       "10 AM",
+      "10:45 AM",
       "11 AM",
       "11:30 AM",
       "12 PM",
@@ -1296,6 +1297,23 @@
       "place": "NYU Tandon / Online",
       "source": "NYU Tandon",
       "link": "https://engineering.nyu.edu/events/2026/08/07/cellular-metasploit-lessons-15-years-cellular-security-research",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_08_20_engineered_design_of_mucus_penetration_nanoparticles": {
+      "title": "“Engineered design of mucus penetration nanoparticles for inhalable vaccines”",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Thu",
+      "date": "2026-08-20",
+      "time": "10:45 AM",
+      "sort": 10.75,
+      "when": "Thu, 08/20 · 10:45 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/08/20/engineered-design-mucus-penetration-nanoparticles-inhalable-vaccines",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
