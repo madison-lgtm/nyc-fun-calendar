@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 5, 2026, 4:44 PM EDT",
+    "checked": "Aug 6, 2026, 8:51 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-05",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Aug 5"
-      },
       {
         "iso": "2026-08-06",
         "key": "Thu",
@@ -45,15 +39,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Aug 11"
+      },
+      {
+        "iso": "2026-08-12",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Aug 12"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-05",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Aug 5"
-      },
       {
         "iso": "2026-08-06",
         "key": "Thu",
@@ -233,9 +227,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Sep 4"
+      },
+      {
+        "iso": "2026-09-05",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Sep 5"
       }
     ],
-    "todayKey": "Wed",
+    "todayKey": "Thu",
     "times": [
       "8:30 AM",
       "9 AM",
@@ -258,8 +258,7 @@
       "6:30 PM",
       "7 PM",
       "8:30 PM",
-      "10 PM",
-      "10:30 PM"
+      "10 PM"
     ]
   },
   "events": {
@@ -449,40 +448,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "gary_2026_08_04_design_with_the_end_in_mind_building_ai_agents_you_c": {
-      "title": "Design With The End In Mind - Building AI Agents You Can Trust",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-08-04",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Tue, 08/04 · 5:30pm",
-      "price": "$12",
-      "free": false,
-      "place": "Point Cafe, 2200 Atlantic St, Stamford",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/uknlwek/Design-With-The-End-In-Mind-Building-AI-Agents-You-Can-Trust",
-      "map": "https://maps.google.com/?q=Point%20Cafe%2C%202200%20Atlantic%20St%2C%20Stamford",
-      "summary": "Gary's Guide: With Wei Chen (Prof., UConn)."
-    },
-    "gary_2026_08_04_entrepreneurs_roundtable_w_refashiond_ventures": {
-      "title": "Entrepreneurs Roundtable w/ Refashiond Ventures",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-08-04",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 08/04 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/7zj1n65/Entrepreneurs-Roundtable-w-Refashiond-Ventures",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Brian Laung Aoaeh (REFASHIOND Ventures)."
     },
     "gary_2026_08_05_female_founders_funders": {
       "title": "Female Founders & Funders",
@@ -1215,22 +1180,39 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Local AI on Dell Pro Max w/ GB10."
     },
-    "luma_2026_08_05_the_3x_ae_selling_at_ai_speed_nyc": {
-      "title": "The 3x AE: Selling at AI Speed (NYC)",
+    "gary_2026_08_24_ai_what_makes_us_human": {
+      "title": "AI & What Makes Us Human",
       "type": "tech",
       "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-08-05",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Wed, 08/05 · 10:30pm",
+      "day": "Mon",
+      "date": "2026-08-24",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Mon, 08/24 · 6:00pm",
       "price": "Free",
       "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/r58qzw0f",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: EliseAI, Kuba, EliseAI, Maria Morin, Ben Rey"
+      "place": "BrainStation, 136 Crosby St, 4th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/o4ndosr/AI-What-Makes-Us-Human",
+      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
+      "summary": "Gary's Guide: With Camille Carlton (Dir. Strategy & Impact, Center for Humane Tech)."
+    },
+    "gary_2026_08_25_founders_house_summer_builders_day": {
+      "title": "Founders House Summer Builders Day",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-08-25",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Tue, 08/25 · 2:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, 22 Vanderbilt Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/yf05q3n/Founders-House-Summer-Builders-Day",
+      "map": "https://maps.google.com/?q=Venue%2C%2022%20Vanderbilt%20Ave",
+      "summary": "Gary's Guide: SUMMER BUILDERS DAY There's never been a better summer to build. Join Founders House for a special event for founders & builders. We'll kick the day off with an expert deep dive on building AI agents & developer tooling. Come ready to learn what's new & important to stay ahead. After a short break, select members of the Founders House community will participate in a pitch competition. You'll hear from five pre-selected founders, plus two founders chosen live from the audience. (It could be you!) The audience will have the chance to vote on their favorite pitches & provide invaluable feedback to the founders. We'll wrap up the day with cocktails, conversation, & light bites on the terrace. SCHEDULE 1:45 - 2:00 PM Doors Open Registration 2:00 - 3:00 PM Technical Panel & Keynote Talks Hear from experts sharing practical insights on AI agents, developer tooling, & what's next for startups. 3:00 - 3:30 PM Break Coffee, beverages, & snacks 3:30 - 5:00 PM Founder Pitch Competition 5 Founders House founders take the stage 2 additional founders will be selected live from the audience to pitch 5:00 - 7:00 PM Happy Hour Join us on the 7th Floor Terrace to connect with founders, investors, operators, & builders as we close out the afternoon. We can't wait to see you there! Make a Day of It Want to spend the day with the Founders House community? Join us earlier in the day for a morning of yoga followed by coworking from the Founders House space before the Summer Builders Series begins. If you'd like to join us for the full day, RSVP here: https://luma.com/ttsxnqzf"
     },
     "luma_2026_08_06_bagel_entrepreneurs_x_nea_microsoft": {
       "title": "Bagel Entrepreneurs x NEA @ Microsoft",
@@ -1247,7 +1229,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/2q8gjakt",
       "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
-      "summary": "Luma NYC: Bagel Entrepreneurs, Javier Dutan, Alexa Grabelle, Lou Abrams, Miguel Martinez, NEA"
+      "summary": "Luma NYC: Bagel Entrepreneurs, Javier Dutan, Alexa Grabelle, Lou Abrams, Miguel Martinez, NEA, Jason Buen"
     },
     "luma_2026_08_06_tapas_and_wine_founders_night_w_corgi": {
       "title": "Tapas and Wine: Founders Night w/ Corgi",
@@ -1264,7 +1246,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/wad76pdz",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Linda, Linda, Abril Zucchi"
+      "summary": "Luma NYC: Linda, Linda, Abril Zucchi, jamie, Maddie"
     },
     "nyu_tandon_2026_08_06_a_foundation_model_for_the_electric_grid_gridfm": {
       "title": "A Foundation Model for the electric grid (GridFM)",
@@ -1316,40 +1298,6 @@
       "link": "https://engineering.nyu.edu/events/2026/08/20/engineered-design-mucus-penetration-nanoparticles-inhalable-vaccines",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_10003562_2026_08_05_hamilton_park_farmers_market_2026": {
-      "title": "Hamilton Park Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Wed",
-      "date": "2026-08-05",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Wed, 08/05 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-08-05/",
-      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
-    },
-    "jc_culture_38610_2026_08_05_la_festa_italiana_2026": {
-      "title": "LA FESTA ITALIANA 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Wed",
-      "date": "2026-08-05",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Wed, 08/05 · 5pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "HOLY ROSARY CHURCH, 344 6TH ST, JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/la-festa-italiana-2026-2/",
-      "map": "https://maps.google.com/?q=HOLY%20ROSARY%20CHURCH%2C%20344%206TH%20ST%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
     },
     "jc_culture_42610_2026_08_06_bolivia_flag_raising_2026": {
       "title": "Bolivia Flag Raising 2026",
@@ -1674,6 +1622,23 @@
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "&nbsp; JC Summerfest featuring Marel Hildago Jamaican Jazz Quintet North Cove Field Liberty State Park 6pm-8pm"
     },
+    "jc_culture_42715_2026_08_17_india_flag_raising_ceremony_2026": {
+      "title": "India Flag Raising Ceremony 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Mon",
+      "date": "2026-08-17",
+      "time": "3:30 PM",
+      "sort": 15.5,
+      "when": "Mon, 08/17 · 3:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/india-flag-raising-ceremony-2026/",
+      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
+    },
     "jc_culture_38065_2026_08_18_jersey_city_summerfest_2026_wilma_ann": {
       "title": "Jersey City Summerfest 2026 / Wilma Ann",
       "type": "park",
@@ -1690,6 +1655,23 @@
       "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-wilma-ann/",
       "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
       "summary": "&nbsp; JC Summerfest featuring Wilma Ann Jazz and Soul South Cove Lawn Liberty State Park 6:30pm-8:30pm"
+    },
+    "jc_culture_42663_2026_08_18_green_villain_band_jazz_mashup_in_jersey_city": {
+      "title": "Green Villain Band Jazz Mashup in Jersey City",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Tue",
+      "date": "2026-08-18",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Tue, 08/18 · 7pm",
+      "price": "$9",
+      "free": false,
+      "place": "Green Villain Studios, 15 Wilkinson Avenue, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/green-villain-band-jazz-mashup-in-jersey-city/",
+      "map": "https://maps.google.com/?q=Green%20Villain%20Studios%2C%2015%20Wilkinson%20Avenue%2C%20Jersey%20City%2C%20NJ",
+      "summary": "A soulful fusion of jazz, culture, and community inspired by the vibrant spirit of Jersey City. Green Villain Band Jazz Mashup is more than a concert. It’s an immersive live music experience inspired by the creative energy, cultural diversity, and rhythm of Jersey City. Experience a fresh take on jazz as talented musicians blend soul, funk, R&B, hip-hop, Afrobeat, Latin rhythms, and other global influences into one unforgettable performance. Enjoy handcrafted cocktails, a vibrant atmosphere, and a welcoming community where every moment feels like discovering a new sound, a new connection, and a new reason to stay a little longer. This is where music, creativity, and community come together."
     },
     "jc_culture_10003564_2026_08_19_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -1891,8 +1873,7 @@
     ],
     "cluster_2026_08_05_5_pm": [
       "gary_2026_08_05_female_founders_funders",
-      "gary_2026_08_05_gtm_mastermind_landing_your_first_10_customers",
-      "jc_culture_38610_2026_08_05_la_festa_italiana_2026"
+      "gary_2026_08_05_gtm_mastermind_landing_your_first_10_customers"
     ],
     "cluster_2026_08_06_5_pm": [
       "gary_2026_08_06_startup_mixer",
