@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 7, 2026, 4:07 PM EDT",
+    "checked": "Aug 8, 2026, 7:20 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-07",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Aug 7"
-      },
       {
         "iso": "2026-08-08",
         "key": "Sat",
@@ -45,15 +39,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Aug 13"
+      },
+      {
+        "iso": "2026-08-14",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Aug 14"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-07",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Aug 7"
-      },
       {
         "iso": "2026-08-08",
         "key": "Sat",
@@ -233,9 +227,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Sep 6"
+      },
+      {
+        "iso": "2026-09-07",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Sep 7"
       }
     ],
-    "todayKey": "Fri",
+    "todayKey": "Sat",
     "times": [
       "8:30 AM",
       "9 AM",
@@ -651,108 +651,6 @@
       "link": "https://www.instagram.com/moshimoshi.market/",
       "map": "https://maps.google.com/?q=the%20whale%20building%20(sunset%20park)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: moshimoshi market: the whale building (sunset park)."
-    },
-    "gary_2026_08_06_distribution_is_your_moat": {
-      "title": "Distribution Is Your Moat",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-08-06",
-      "time": "9:30 AM",
-      "sort": 9.5,
-      "when": "Thu, 08/06 · 9:30am",
-      "price": "Free",
-      "free": true,
-      "place": "Betaworks, 29 Little W 12th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/2pt47vg/Distribution-Is-Your-Moat",
-      "map": "https://maps.google.com/?q=Betaworks%2C%2029%20Little%20W%2012th%20St",
-      "summary": "Gary's Guide: With Liz Friedland (Growth Lead, Rodeo)."
-    },
-    "gary_2026_08_06_startup_mixer": {
-      "title": "Startup Mixer",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-08-06",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Thu, 08/06 · 5:00pm",
-      "price": "$10",
-      "free": false,
-      "place": "Sour Mouse, 110 Delancey St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/y6w69qt/Startup-Mixer",
-      "map": "https://maps.google.com/?q=Sour%20Mouse%2C%20110%20Delancey%20St",
-      "summary": "Gary's Guide: NYC Tech &Startup Mixer - brought to you by Startup+ We're putting founders, engineers, investors, recruiters, freelancers, & mentors in the same room for a night of straightup networking. No panels, no speeches-just real conversations. If you're testing an idea, raising cash, or hiring your first dev, this is the place to be. Newsletter (exclusive entry & event drops): https://newsletter.startupplus.club Sponsorship / press: email - contact@startupplus.club Volunteer (Complimentary Ticket): email - contact@startupplus.club Why swing by? Meet 100+ builders & backers in one go Swap stories, get quick feedback, share lessons learned Spot future cofounders, investors, customers-maybe all three What's the setup? We've got a dedicated space, & name tags at the door Flash a business card or a LinkedIn QR-whatever works Dress code? Businesscasual. Jeans totally fine. A quick word on Startup+ We kicked this off in 2021, in the middle of the pandemic, because Zoom mixers just weren't cutting it. Fastforward: 25k members, 75+ mixers, 12 pitch nights, & 6000 folks through the doors. We keep it simple-connect good people & let the magic happen. Headsup: capacity is capped. Only confirmed Luma RSVPs are admitted at the door. Walkins = no go. Fine print : By joining, you agree that photos/video taken may be used in future Startup+ promos. Also, you agree that the contact info collected will be used to send future event invites & promotions via newsletter/other event platforms. See you IRL!!!"
-    },
-    "gary_2026_08_06_engineer_pizza_night": {
-      "title": "Engineer Pizza Night",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-08-06",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Thu, 08/06 · 5:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/je1axoo/Engineer-Pizza-Night",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Roo Capital & Kinstead."
-    },
-    "gary_2026_08_06_pmai_workshop_ai_native_gtm_stack": {
-      "title": "PMAI Workshop - AI Native GTM Stack",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-08-06",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 08/06 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Midtown Manhattan, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/btubx99/PMAI-Workshop-AI-Native-GTM-Stack",
-      "map": "https://maps.google.com/?q=Midtown%20Manhattan%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Lucy Hoyle (Content Enggr, Carta), Nick Lafferty (Mktg Enggr, Profound)."
-    },
-    "gary_2026_08_06_the_builder_series_founder_investor_operator_nights": {
-      "title": "The Builder Series - Founder, Investor & Operator Nights",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-08-06",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 08/06 · 6:00pm",
-      "price": "Varies",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/gp7zryh/The-Builder-Series-Founder-Investor-Operator-Nights",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Connect w/ founders, operators, investors & others w/ experiences people remember & relationships that last"
-    },
-    "gary_2026_08_06_ai_engineers_poker_game_night": {
-      "title": "AI Engineers - Poker & Game Night",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-08-06",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Thu, 08/06 · 7:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/kjnyxfl/AI-Engineers-Poker-Game-Night",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies.nWell have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart.nComplimentary drinks & pizza are on us.nHigh signal, low pressure. Come play poker, jump into games, & spend the night with some of NYCs top engineers, founders, & operators.nLimited seats.nRegistration: require linkedin, company, job title, & include the following multiple choice (single select)nHow would you like to participate?nPoker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in.n*Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi, click Get Hired, & apply.nOptions:nPoker ($100 buy-in, seat not guaranteed)nHang Out & Other GamesnHiring?nWant intros to startups?"
     },
     "gary_2026_08_07_the_high_line_founder_investor_walk": {
       "title": "The High Line Founder & Investor Walk",
@@ -1417,22 +1315,141 @@
       "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
       "summary": "Gary's Guide: With Camille Carlton (Dir. Strategy & Impact, Center for Humane Tech)."
     },
-    "nyu_tandon_2026_08_07_cellular_metasploit_lessons_from_15_years_of_cellula": {
-      "title": "Cellular Metasploit: Lessons from 15 Years of Cellular Security Research",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Fri",
-      "date": "2026-08-07",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Fri, 08/07 · 11:00 AM",
-      "price": "Free / varies",
+    "gary_2026_08_25_founders_house_summer_builders_day": {
+      "title": "Founders House Summer Builders Day",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-08-25",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Tue, 08/25 · 2:00pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/08/07/cellular-metasploit-lessons-15-years-cellular-security-research",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
+      "place": "Venue, 22 Vanderbilt Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/yf05q3n/Founders-House-Summer-Builders-Day",
+      "map": "https://maps.google.com/?q=Venue%2C%2022%20Vanderbilt%20Ave",
+      "summary": "Gary's Guide: SUMMER BUILDERS DAY There's never been a better summer to build. Join Founders House for a special event for founders & builders. We'll kick the day off with an expert deep dive on building AI agents & developer tooling. Come ready to learn what's new & important to stay ahead. After a short break, select members of the Founders House community will participate in a pitch competition. You'll hear from five pre-selected founders, plus two founders chosen live from the audience. (It could be you!) The audience will have the chance to vote on their favorite pitches & provide invaluable feedback to the founders. We'll wrap up the day with cocktails, conversation, & light bites on the terrace. SCHEDULE 1:45 - 2:00 PM Doors Open Registration 2:00 - 3:00 PM Technical Panel & Keynote Talks Hear from experts sharing practical insights on AI agents, developer tooling, & what's next for startups. 3:00 - 3:30 PM Break Coffee, beverages, & snacks 3:30 - 5:00 PM Founder Pitch Competition 5 Founders House founders take the stage 2 additional founders will be selected live from the audience to pitch 5:00 - 7:00 PM Happy Hour Join us on the 7th Floor Terrace to connect with founders, investors, operators, & builders as we close out the afternoon. We can't wait to see you there! Make a Day of It Want to spend the day with the Founders House community? Join us earlier in the day for a morning of yoga followed by coworking from the Founders House space before the Summer Builders Series begins. If you'd like to join us for the full day, RSVP here: https://luma.com/ttsxnqzf"
+    },
+    "gary_2026_08_25_kubernetes_developers_meetup": {
+      "title": "Kubernetes Developers Meetup",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-08-25",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 08/25 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Elastic, 1250 Broadway",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/gdj4uw0/Kubernetes-Developers-Meetup",
+      "map": "https://maps.google.com/?q=Elastic%2C%201250%20Broadway",
+      "summary": "Gary's Guide: With Michael Guarino (Founder, Plural), Eric Mustin (Customer Architect, Elastic)."
+    },
+    "gary_2026_08_26_the_consult_mentorship_for_digital_health_founders": {
+      "title": "The Consult - Mentorship For Digital Health Founders",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-08-26",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Wed, 08/26 · 1:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "DUMBO, To Be Announced, Brooklyn",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/tuer1wo/The-Consult-Mentorship-For-Digital-Health-Founders",
+      "map": "https://maps.google.com/?q=DUMBO%2C%20To%20Be%20Announced%2C%20Brooklyn",
+      "summary": "Gary's Guide: With Owen Willis (GP, Opal Ventures), Brittany Signer (Scale Programs, Aetna), Alex Tang (GP, PhyCap), Rachel Tornheim (Ops Leader), Nyamitse Mahinda (VC), Ramon Lizardo (Angel Investor)."
+    },
+    "gary_2026_08_26_workshop_wednesday_founder_led_growth_strategies": {
+      "title": "Workshop Wednesday - Founder-Led Growth Strategies",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-08-26",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Wed, 08/26 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "22 Vanderbilt, 335 Madison Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/nuhun09/Workshop-Wednesday-Founder-Led-Growth-Strategies",
+      "map": "https://maps.google.com/?q=22%20Vanderbilt%2C%20335%20Madison%20Ave",
+      "summary": "Gary's Guide: Learn how founders can drive early-stage growth before hiring a large team. Explore proven tactics for building distribution, creating content, leveraging your network, developing partnerships, & acquiring customers directly. Led by Damian."
+    },
+    "gary_2026_08_27_ai_engineers_devs_drinks": {
+      "title": "AI Engineers - Devs & Drinks",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-08-27",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 08/27 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Sugar Mouse, 47 3rd Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/9d25e0c/AI-Engineers-Devs-Drinks",
+      "map": "https://maps.google.com/?q=Sugar%20Mouse%2C%2047%203rd%20Ave",
+      "summary": "Gary's Guide: Drinks, games, & a chance to hang with engineering peers from across the city. Every month, we bring together NYC's top AI & product engineers for a low-key night out. Drinks are on us, & the pool, ping-pong, foosball, shuffleboard, & arcade games are all fair game. No panels. No pitches. Just a good time with people building cool stuff. About the host: Fonzi is a recruiting platform focused exclusively on product & AI engineering hires in NYC & SF. We manage 75+ open roles at some of the best startups in the country, including hiring partners like Suno, Graphite, Tennr, FLORA, OpenRouter, & more Hiring? Want intros to startups?"
+    },
+    "gary_2026_08_28_tech_happy_hour_by_startup_grind": {
+      "title": "Tech Happy Hour By Startup Grind",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-08-28",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Fri, 08/28 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Time Out Market Union Square, 124 E 14th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/jh2nmkk/Tech-Happy-Hour-By-Startup-Grind",
+      "map": "https://maps.google.com/?q=Time%20Out%20Market%20Union%20Square%2C%20124%20E%2014th%20St",
+      "summary": "Gary's Guide: No pitches. No presentations. No agenda. This is our monthly tech mixer to connect with peers across the NYC tech & startup community - from founders & VCs to developers & designers. A happy hour for real conversations. This is the monthly Startup Grind tech mixer. It's a low-key way to connect with the NYC tech & startup community to discover shared interests, explore areas for collaboration, & find your next co-founder or key hire. Join us for a casual happy hour to build real relationships & make friends, not just contacts. No pitches. No presentations. No agenda. Just a hub for people building the future of tech in New York. This happy hour is for: Startup Founders & Employees Technologists, Developers & Tech Workers Product Managers & Designers Investors, VCs, Advisors & Mentors Anyone curious about the NYC tech scene Agenda: 5:00 PM: Happy Hour starts. Come & go as you please. We're at the new Time Out Market at Union Square. It features a selection of the city's best food & drink together under one roof, offering a wide variety of excellent options to choose from throughout the event. Look for Startup Grind table signs toward the back near the outdoor patio."
+    },
+    "luma_2026_08_09_context_engineering_guild_august_edition": {
+      "title": "Context Engineering Guild: August Edition",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sun",
+      "date": "2026-08-09",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Sun, 08/09 · 6pm",
+      "price": "Free",
+      "free": true,
+      "place": "111 Conselyea St",
+      "source": "Luma NYC",
+      "link": "https://luma.com/bbgrev9q",
+      "map": "https://maps.google.com/?q=111%20Conselyea%20St%20NYC",
+      "summary": "Luma NYC: Context Engineering Guild, Atin Woodard"
+    },
+    "luma_2026_08_11_founders_breakfast_club_with_corgi": {
+      "title": "Founders Breakfast Club with Corgi",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-08-11",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Tue, 08/11 · 1pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/397ng478",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Corgi NYC, Abril Zucchi, Maddie, Linda, jamie"
     },
     "nyu_tandon_2026_08_10_research_and_innovation_for_grid_modernization_and_s": {
       "title": "Research and Innovation for Grid Modernization and Security at BNL",
@@ -1467,40 +1484,6 @@
       "link": "https://engineering.nyu.edu/events/2026/08/20/engineered-design-mucus-penetration-nanoparticles-inhalable-vaccines",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_38614_2026_08_07_la_festa_italiana_2026": {
-      "title": "LA FESTA ITALIANA 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Fri",
-      "date": "2026-08-07",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Fri, 08/07 · 5pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "HOLY ROSARY CHURCH, 344 6TH ST, JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/la-festa-italiana-2026-4/",
-      "map": "https://maps.google.com/?q=HOLY%20ROSARY%20CHURCH%2C%20344%206TH%20ST%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
-    },
-    "jc_culture_37964_2026_08_07_movies_in_the_park_2026_wicked_for_good": {
-      "title": "Movies in the Park 2026 / Wicked for Good",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-08-07",
-      "time": "8:30 PM",
-      "sort": 20.5,
-      "when": "Fri, 08/07 · 8:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Berry Lane Park, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-wicked-for-good-4/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Berry Lane Park featuring Wicked for Good"
     },
     "jc_culture_42431_2026_08_08_a_camp_liberty_art_celebration": {
       "title": "A Camp Liberty Art Celebration",
@@ -2062,6 +2045,23 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-09-02/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_42524_2026_09_08_summer_fest_south_lawn_lsp_carlos_jimenez_mambo_dulc": {
+      "title": "Summer Fest South Lawn LSP CARLOS JIMENEZ MAMBO DULCET 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Tue",
+      "date": "2026-09-08",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Tue, 09/08 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Liberty State Park. South Lawn, Freedom Way, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/summer-fest-south-lawn-lsp-carlos-jimenez-mambo-dulcet-2026/",
+      "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
+      "summary": "&nbsp; TUESDAYS SOUTH LAWN LIBERTY STATE PARK SIX THIRTY TO EIGHT THIRTY FEATURING CARLOS JIMENEZ MAMBO DULCET"
     }
   },
   "clusters": {
@@ -2098,10 +2098,6 @@
       "skint_89832_9_44th_annual_national_dominican_day_parade",
       "skint_89832_10_the_market_series_studio_shipley_friends_art_market"
     ],
-    "cluster_2026_08_06_6_pm": [
-      "gary_2026_08_06_pmai_workshop_ai_native_gtm_stack",
-      "gary_2026_08_06_the_builder_series_founder_investor_operator_nights"
-    ],
     "cluster_2026_08_12_6_pm": [
       "gary_2026_08_12_quantum_computing_meetup",
       "gary_2026_08_12_what_happens_to_humanity_when_everything_becomes_int"
@@ -2129,6 +2125,10 @@
     "cluster_2026_08_22_9_am": [
       "gary_2026_08_22_the_great_founder_river_float_of_2026",
       "gary_2026_08_22_dell_x_nvidia_hackathon"
+    ],
+    "cluster_2026_08_09_6_pm": [
+      "luma_2026_08_09_context_engineering_guild_august_edition",
+      "jc_culture_38058_2026_08_09_jersey_city_summerfest_2026_strangers_stopping_stran"
     ],
     "cluster_2026_08_11_6_30_pm": [
       "jc_culture_38064_2026_08_11_jersey_city_summerfest_2026_adam_falcon",
