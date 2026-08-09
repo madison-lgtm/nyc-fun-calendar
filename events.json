@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 9, 2026, 7:21 AM EDT",
+    "checked": "Aug 9, 2026, 3:59 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -259,6 +259,7 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
+      "10 PM",
       "10:30 PM",
       "11 PM"
     ]
@@ -1504,6 +1505,23 @@
       "link": "https://luma.com/5kclli00",
       "map": "https://maps.google.com/?q=Hunter%20College%20NYC",
       "summary": "Luma NYC: Cooperman Business Center, Cooperman Business Center"
+    },
+    "luma_2026_08_12_startup_founders_happy_hour_w_merge_corgi": {
+      "title": "Startup founders happy hour w/ Merge & Corgi",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-08-12",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Wed, 08/12 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/vxh2mlcn",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Merge Events, Merge Events, Maddie, Shensi Ding, Abril Zucchi"
     },
     "nyu_tandon_2026_08_10_research_and_innovation_for_grid_modernization_and_s": {
       "title": "Research and Innovation for Grid Modernization and Security at BNL",
