@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 10, 2026, 7:41 AM EDT",
+    "checked": "Aug 10, 2026, 4:09 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1269,8 +1269,8 @@
       "map": "https://maps.google.com/?q=22%20Vanderbilt%2C%20335%20Madison%20Ave",
       "summary": "Gary's Guide: Learn how founders can drive early-stage growth before hiring a large team. Explore proven tactics for building distribution, creating content, leveraging your network, developing partnerships, & acquiring customers directly. Led by Damian."
     },
-    "luma_2026_08_11_founders_breakfast_club_with_corgi": {
-      "title": "Founders Breakfast Club with Corgi",
+    "luma_2026_08_11_founders_breakfast_club_with_corgi_rho": {
+      "title": "Founders Breakfast Club with Corgi & Rho",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Tue",
@@ -1301,7 +1301,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/19shd6at",
       "map": "https://maps.google.com/?q=Fractal%20Tech%20NYC",
-      "summary": "Luma NYC: Akpanoluo Etteh, Akpanoluo Etteh, Michael Bartoli"
+      "summary": "Luma NYC: Akpanoluo Etteh, Akpanoluo Etteh, Michael Bartoli, Michael Bartoli"
     },
     "luma_2026_08_11_after_hours_founder_mixology_class_dinner": {
       "title": "After Hours: Founder Mixology Class & Dinner",
