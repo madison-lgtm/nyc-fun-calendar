@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 9, 2026, 3:59 PM EDT",
+    "checked": "Aug 10, 2026, 7:41 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-09",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Aug 9"
-      },
       {
         "iso": "2026-08-10",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Aug 15"
+      },
+      {
+        "iso": "2026-08-16",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Aug 16"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-09",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Aug 9"
-      },
       {
         "iso": "2026-08-10",
         "key": "Mon",
@@ -233,11 +227,17 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Sep 8"
+      },
+      {
+        "iso": "2026-09-09",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Sep 9"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
-      "8 AM",
+      "7 AM",
       "8:30 AM",
       "9 AM",
       "10 AM",
@@ -259,6 +259,7 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
+      "9 PM",
       "10 PM",
       "10:30 PM",
       "11 PM"
@@ -452,160 +453,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_89832_0_jamaica_rising_day_parade": {
-      "title": "jamaica rising day parade",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-08",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 08/08 · 10am",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "starts at church ave + ocean ave, proceeding north on ocean ave to lincoln rd",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/jamaicarisingdayparade/",
-      "map": "https://maps.google.com/?q=starts%20at%20church%20ave%20%2B%20ocean%20ave%2C%20proceeding%20north%20on%20ocean%20ave%20to%20lincoln%20rd%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am: jamaica rising day parade: starts at church ave + ocean ave, proceeding north on ocean ave to lincoln rd."
-    },
-    "skint_89832_1_greenlight_bookstore_sidewalk_sale": {
-      "title": "greenlight bookstore sidewalk sale",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-08",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 08/08 · 10am-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "greenlight bookstore (fort greene)",
-      "source": "The Skint",
-      "link": "https://greenlightbookstore.com/event/2026-08-08/sidewalk-sale",
-      "map": "https://maps.google.com/?q=greenlight%20bookstore%20(fort%20greene)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-5pm: greenlight bookstore sidewalk sale: greenlight bookstore (fort greene)."
-    },
-    "skint_89832_2_the_42nd_st_card_show": {
-      "title": "the 42nd st. card show",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-08",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 08/08 · 10am-8pm",
-      "price": "$15",
-      "free": false,
-      "place": "the westin nyc grand central (midtown east)",
-      "source": "The Skint",
-      "link": "https://the42ndstcardshow.com",
-      "map": "https://maps.google.com/?q=the%20westin%20nyc%20grand%20central%20(midtown%20east)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-8pm: the 42nd st. card show: the westin nyc grand central (midtown east). $15 general, $25 early entry."
-    },
-    "skint_89832_3_maum_market_asian_makers_market": {
-      "title": "maum market: asian makers market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-08",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 08/08 · 11am-4pm (+ 10/24)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "pier 17 (seaport)",
-      "source": "The Skint",
-      "link": "https://maum.market/nyc",
-      "map": "https://maps.google.com/?q=pier%2017%20(seaport)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-4pm (+ 10/24): maum market: asian makers market: pier 17 (seaport)."
-    },
-    "skint_89832_4_brooklyn_film_camera_summer_yard_sale": {
-      "title": "brooklyn film camera summer yard sale",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sat",
-      "date": "2026-08-08",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 08/08 · 11am-8pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "brooklyn film camera’s backyard (east williamsburg)",
-      "source": "The Skint",
-      "link": "https://brooklynfilmcamera.com/pages/calendar#?event-id=85975",
-      "map": "https://maps.google.com/?q=brooklyn%20film%20camera%E2%80%99s%20backyard%20(east%20williamsburg)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-8pm: brooklyn film camera summer yard sale: brooklyn film camera’s backyard (east williamsburg)."
-    },
-    "skint_89832_5_black_vegfest": {
-      "title": "black vegfest",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-08",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 08/08 · 12-7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "lincoln terrace park (crown heights)",
-      "source": "The Skint",
-      "link": "https://blackvegfest.org",
-      "map": "https://maps.google.com/?q=lincoln%20terrace%20park%20(crown%20heights)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-7pm: black vegfest: lincoln terrace park (crown heights)."
-    },
-    "skint_89832_6_13th_annual_stoops_summer_festival_block_party_and_a": {
-      "title": "13th annual stoops summer festival: block party and art crawl",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-08",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 08/08 · 1-7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "decatur st between lewis ave + stuyvesant ave (bed-stuy)",
-      "source": "The Skint",
-      "link": "https://www.stoopsbedstuy.org",
-      "map": "https://maps.google.com/?q=decatur%20st%20between%20lewis%20ave%20%2B%20stuyvesant%20ave%20(bed-stuy)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 1-7pm: 13th annual stoops summer festival: block party and art crawl: decatur st between lewis ave + stuyvesant ave (bed-stuy)."
-    },
-    "skint_89832_7_36th_hong_kong_dragon_boat_festival": {
-      "title": "36th hong kong dragon boat festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-08",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sat, 08/08 · + sun (9am-5pm)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "at flushing meadows corona park (queens)",
-      "source": "The Skint",
-      "link": "https://www.hkdbf-ny.org",
-      "map": "https://maps.google.com/?q=at%20flushing%20meadows%20corona%20park%20(queens)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun (9am-5pm): 36th hong kong dragon boat festival at flushing meadows corona park (queens)."
-    },
-    "skint_89832_8_african_pop_up_festival": {
-      "title": "african pop-up festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-08",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 08/08 · + sun (12-8pm)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "hillel plaza at flatbush/nostrand",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/african-popup-festival-2026-flatbush-junction-brooklyn-tickets-1977901452488",
-      "map": "https://maps.google.com/?q=hillel%20plaza%20at%20flatbush%2Fnostrand%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun (12-8pm): african pop-up festival: hillel plaza at flatbush/nostrand."
-    },
-    "skint_89832_9_44th_annual_national_dominican_day_parade": {
+    "skint_89832_0_44th_annual_national_dominican_day_parade": {
       "title": "44th annual national dominican day parade",
       "type": "market",
       "label": "Festival / Market",
@@ -622,7 +470,7 @@
       "map": "https://maps.google.com/?q=sixth%20avenue%20from%20w%2039th%20to%20w%2054th%20streets%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am: 44th annual national dominican day parade: sixth avenue from w 39th to w 54th streets."
     },
-    "skint_89832_10_the_market_series_studio_shipley_friends_art_market": {
+    "skint_89832_1_the_market_series_studio_shipley_friends_art_market": {
       "title": "the market series: studio shipley + friends art market",
       "type": "market",
       "label": "Festival / Market",
@@ -639,7 +487,7 @@
       "map": "https://maps.google.com/?q=studio%20shipley%20(prospect%20heights)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-5pm: the market series: studio shipley + friends art market: studio shipley (prospect heights)."
     },
-    "skint_89832_11_moshimoshi_market": {
+    "skint_89832_2_moshimoshi_market": {
       "title": "moshimoshi market",
       "type": "market",
       "label": "Festival / Market",
@@ -655,40 +503,6 @@
       "link": "https://www.instagram.com/moshimoshi.market/",
       "map": "https://maps.google.com/?q=the%20whale%20building%20(sunset%20park)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: moshimoshi market: the whale building (sunset park)."
-    },
-    "gary_2026_08_08_raingentic_commerce_hackathon": {
-      "title": "Raingentic Commerce Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-08-08",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sat, 08/08 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Rain HQ, 11 E 26th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/96jemmg/Raingentic-Commerce-Hackathon",
-      "map": "https://maps.google.com/?q=Rain%20HQ%2C%2011%20E%2026th%20St",
-      "summary": "Gary's Guide: With Charles Yoo-Naut (Founder/CTO, Rain), Rob Hadick (Dragonfly), Arnav Bimbhet (FirstMark)."
-    },
-    "gary_2026_08_08_checkout_travel_hospitality_hackathon": {
-      "title": "Checkout - Travel & Hospitality Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-08-08",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 08/08 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/de479ii/Checkout-Travel-Hospitality-Hackathon",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With George Mwangi (Founder, WanderWorth), Eni M (Founder, TravelSpoke)."
     },
     "gary_2026_08_11_nyc_fintech_coffee": {
       "title": "NYC Fintech Coffee",
@@ -706,6 +520,23 @@
       "link": "https://www.garysguide.com/events/ojypdjc/NYC-Fintech-Coffee",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With LSEG (London Stock Exchange Group) & This Week In Fintech."
+    },
+    "gary_2026_08_11_mcp_as_a_gtm_strategy": {
+      "title": "MCP As A GTM Strategy",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-08-11",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Tue, 08/11 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Fordham Gabelli School of Business, 140 W 62nd St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ufwc59p/MCP-As-A-GTM-Strategy",
+      "map": "https://maps.google.com/?q=Fordham%20Gabelli%20School%20of%20Business%2C%20140%20W%2062nd%20St",
+      "summary": "Gary's Guide: With Dean Grover (Founder, Chanl AI)."
     },
     "gary_2026_08_12_software_factory_intensive": {
       "title": "Software Factory Intensive",
@@ -809,6 +640,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20Online",
       "summary": "Gary's Guide: Join the Stripe Stablecoins Community, a free space for founders, builders, & operators exploring stablecoin payments, treasury, & the future of the internet economy."
     },
+    "gary_2026_08_13_marketing_people_actually_notice_and_will_pay_you_fo": {
+      "title": "Marketing People Actually Notice (And Will Pay You For)",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-08-13",
+      "time": "7 AM",
+      "sort": 7,
+      "when": "Thu, 08/13 · 7:00am",
+      "price": "$45",
+      "free": false,
+      "place": "BrainStation, 136 Crosby St, 4th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/p03wqbq/Marketing-People-Actually-Notice-And-Will-Pay-You-For",
+      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
+      "summary": "Gary's Guide: With Jeffrey Tousignant (Head of Mktg, Air), Emmeline Vu (Product Mktg Lead, Air)."
+    },
     "gary_2026_08_13_creative_ai_forum": {
       "title": "Creative AI Forum",
       "type": "tech",
@@ -859,6 +707,40 @@
       "link": "https://www.garysguide.com/events/7xqivoz/How-To-Talk-To-People-Strangers-Investors-Customers-Your-Own-Employees",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With founders Joyce Shin (The Human Edge), Karen Kelly (Launch by Lunch), Farzad Khosravi (The Chief Rebel), Corey Greenhouse (CMO, Acure)."
+    },
+    "gary_2026_08_13_langchain_meetup_llm_wikis_managing_agent_context": {
+      "title": "LangChain Meetup - LLM Wikis & Managing Agent Context",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-08-13",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 08/13 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/c46zz80/LangChain-Meetup-LLM-Wikis-Managing-Agent-Context",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Brace Sproul (Head of Applied AI, LangChain), Daniel Shea (Deployed Enggr, LangChain)."
+    },
+    "gary_2026_08_13_founders_operators_rooftop_social": {
+      "title": "Founders & Operators Rooftop Social",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-08-13",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 08/13 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ao65ft8/Founders-Operators-Rooftop-Social",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Stephan Rihs (Founder, Rihs Ventures)."
     },
     "gary_2026_08_13_founders_house_poker_game_night": {
       "title": "Founders House - Poker & Game Night",
@@ -995,6 +877,23 @@
       "link": "https://www.garysguide.com/events/ln52pki/AI-Demo-Night",
       "map": "https://maps.google.com/?q=Poster%20House%2C%20119%20W%2023rd%20St",
       "summary": "Gary's Guide: Demos by ClickHouse, Docker, Langfuse, LibreChat."
+    },
+    "gary_2026_08_18_voice_ai_workshop": {
+      "title": "Voice AI Workshop",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-08-18",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Tue, 08/18 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/xmpurmb/Voice-AI-Workshop",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Build Voice AI Agents in Minutes: Hands-On Workshop Voice AI is moving quickly from demos to real-world products. Ready to start building? Join us in New York City for a hands-on workshop where you'll learn how to turn a Voice AI idea into a working agent using Agora Agent Studio & the Agora CLI. During this session, we'll cover: How to build & test a Voice AI agent in minutes How to configure your agent's behavior, voice, & AI models with Agent Studio How to use the Agora CLI to initialize a starter project & set up your local environment How to move from an idea to a functional Voice AI prototype faster Whether you're building your first voice agent or exploring how to implement Voice AI in an existing product, you'll leave with practical tools & a clearer path to getting started. Who should attend? Developers, product managers, startup founders, AI builders, & anyone interested in creating Voice AI solutions & agents. Wednesday, August 18, 2026 5:30-8:00 PM Midtown Manhattan, NYC The exact location will be shared upon RSVP. Bring your laptop & come ready to build. Space is limited-RSVP to save your spot."
     },
     "gary_2026_08_18_nyc_b2b_ai_founders_investors_meetup": {
       "title": "NYC B2B - AI Founders & Investors Meetup",
@@ -1149,8 +1048,8 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Genevieve (Founder, Pinnacle Path)."
     },
-    "gary_2026_08_20_breakfast_w_henrik_werdelin_founder_bark_andrew_yeun": {
-      "title": "Breakfast w/ Henrik Werdelin (Founder, BARK) & Andrew Yeung",
+    "gary_2026_08_20_founder_breakfast": {
+      "title": "Founder Breakfast",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Thu",
@@ -1160,11 +1059,11 @@
       "when": "Thu, 08/20 · 9:00am",
       "price": "Free",
       "free": true,
-      "place": "Private breakfast club in Manhattan, To Be Announced",
+      "place": "Private Breakfast Club, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/7xyksqf/Breakfast-w-Henrik-Werdelin-Founder-BARK-Andrew-Yeung",
-      "map": "https://maps.google.com/?q=Private%20breakfast%20club%20in%20Manhattan%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: You're invited to a curated breakfast hosted by Henrik Werdelin - Founder of BARK (NYSE: BARK), Prehype, & Audos - & Andrew Yeung. We're bringing together 30 early-stage founders & builders for an intimate conversation about building beloved companies, finding ideas worth pursuing, & what entrepreneurship looks like in the age of AI. Every month, we gather a select group from the venture community over breakfast to discuss what they're building, exchange ideas, & make new friends. This one is special. Henrik will share lessons from building BARK, creating companies through Prehype, & helping a new generation of entrepreneurs launch businesses with AI. Please apply to attend using the RSVP form. What to expect The majority of founders attending will be building at the pre-seed through Series A stages A candid conversation with Henrik Werdelin about building BARK, developing companies through a startup studio, finding real customer problems, & using AI to make entrepreneurship more accessible Lessons from Henrik's latest book, Me, My Customer, & AI, & his work building Audos We'll be picking up the tab. Breakfast is on us! Details Date: Thursday, August 20, 2026 Time: 9:00am to 11:00am Venue: Private breakfast club in Manhattan See you there! Past attendees of my events include founders & executives from Venmo, Duolingo, Foursquare, Lyft, Goldman Sachs, Compass, Superhuman, Yext, Opendoor, Chief, LearnVest, DocSend, Vercel, Loom, Morning Brew, The Hustle, Gas, Teachable, Replit, Twitter, Slack, Pinterest, Yahoo, MongoDB, Business Insider, Wonder, & Hinge. Apply to join by filling out the RSVP form. About our hosts & sponsors: Andrew Yeung is the Founder, CEO of fibe - a portfolio of events companies including andrew's mixers, The Junto Series & Lumos House. & the OOO Summit. He is also a Partner at Next Wave NYC, a pre-seed/seed found backed by Flybridge Capital. Andrew's hosted 100+ events for 50k+ tech founders & professionals in 8 cities that were featured in Bloomberg, Business Insider, Fast Company, & Fortune Magazine. Business Insider dubbed him the \"Gatsby of Silicon Alley.\""
+      "link": "https://www.garysguide.com/events/7xyksqf/Founder-Breakfast",
+      "map": "https://maps.google.com/?q=Private%20Breakfast%20Club%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Henrik Werdelin (Founder, Bark)."
     },
     "gary_2026_08_20_the_startup_pitch_demo_showcase_by_startup_grind": {
       "title": "The Startup Pitch - Demo Showcase By Startup Grind",
@@ -1211,10 +1110,10 @@
       "when": "Thu, 08/20 · 6:30pm",
       "price": "Free",
       "free": true,
-      "place": "Private Dining Room in NYC, To Be Announced",
+      "place": "Private Dining Room, To Be Announced",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/esyduwl/AI-Marketing-Salon",
-      "map": "https://maps.google.com/?q=Private%20Dining%20Room%20in%20NYC%2C%20To%20Be%20Announced",
+      "map": "https://maps.google.com/?q=Private%20Dining%20Room%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: A curated dinner where we discuss the future of marketing. Hi, Andrew Yeung here. I'm hosting edition #4 of our AI & marketing salon, exclusively for CMOs, VPs, Directors, & Heads of Marketing. There are twelve seats available for marketing leaders who are interested in having a conversation about about what's actually working, what's overhyped, & where the puck is heading next. Details: Date: Aug 20, 2026 Time: 6:30pm - 9:00pm Venue: Private Dining Room in NYC Who's in the room? Twelve CMOs, VPs, & Directors of Marketing from mid-market enterprise tech companies & legendary consumer brands. We keep it small on purpose, so every person at the table is someone the rest want to hear from. Past dinners have brought together marketing leaders from L'Oral, Capital One, American Express, Mastercard, Google, Meta, Match Group, Bark, Anthropic, Perplexity, Cloaked, Antimetal, Whizz, & many more. How the night runs Dinner at one of the city's best tables, in a private setting built for real conversation rather than small talk. Over the meal, we post three questions on the biggest shifts in AI & marketing. Each guest shares their perspective, so you leave with twelve points of view from people solving the same problems you are. --- Seats are limited to 12 & are confirmed by the host. Request a spot below & we'll be in touch to finalize your seat. Hosted & moderated by Andrew Yeung & friends. About our Hosts & Sponsors: Andrew Yeung is the founder of Fibe (a portfolio of events companies including Andrew's Mixers, The Junto Series, & Lumos House). He is also a Partner at Next Wave NYC, a pre-seed/seed found backed by Flybridge Capital. Andrew's hosted 200+ events for 50,000+ tech founders & professionals in 8 cities that were featured in Bloomberg, Business Insider, Fast Company, & Fortune Magazine. Business Insider dubbed him the \"Gatsby of Silicon Alley.\" NewForm grows category-disrupting software companies through high volumes of iterative short-form video. Thousands of ads are produced each month, agentically tested & analyzed, with insights fed back to creators. This closed loop builds a consistent & scalable creative engine for paid growth. Get on the list for future events: Twitter Instagram Website"
     },
     "gary_2026_08_21_nyc_coffee_club_early_stage_ai_native_founders_funde": {
@@ -1319,6 +1218,23 @@
       "map": "https://maps.google.com/?q=Elastic%2C%201250%20Broadway",
       "summary": "Gary's Guide: With Michael Guarino (Founder, Plural), Eric Mustin (Customer Architect, Elastic)."
     },
+    "gary_2026_08_26_she_ai_coffee_chat": {
+      "title": "She AI Coffee Chat",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-08-26",
+      "time": "8:30 AM",
+      "sort": 8.5,
+      "when": "Wed, 08/26 · 8:30am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/jmbpfp9/She-AI-Coffee-Chat",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Laptops stay in bags. This one's a coffee chat. This month's She AI is a morning hang. Grab your drink, sit down with other women who are figuring out AI in real time, & talk through the stuff you're working on. If you want to stay & build after, the space is yours. Grab a table & go heads-down once the chat wraps. What to know: Buy your own coffee & pastry at the counter See you there!"
+    },
     "gary_2026_08_26_the_consult_mentorship_for_digital_health_founders": {
       "title": "The Consult - Mentorship For Digital Health Founders",
       "type": "startup",
@@ -1352,91 +1268,6 @@
       "link": "https://www.garysguide.com/events/nuhun09/Workshop-Wednesday-Founder-Led-Growth-Strategies",
       "map": "https://maps.google.com/?q=22%20Vanderbilt%2C%20335%20Madison%20Ave",
       "summary": "Gary's Guide: Learn how founders can drive early-stage growth before hiring a large team. Explore proven tactics for building distribution, creating content, leveraging your network, developing partnerships, & acquiring customers directly. Led by Damian."
-    },
-    "gary_2026_08_27_ai_engineers_devs_drinks": {
-      "title": "AI Engineers - Devs & Drinks",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-08-27",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 08/27 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Sugar Mouse, 47 3rd Ave",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/9d25e0c/AI-Engineers-Devs-Drinks",
-      "map": "https://maps.google.com/?q=Sugar%20Mouse%2C%2047%203rd%20Ave",
-      "summary": "Gary's Guide: Drinks, games, & a chance to hang with engineering peers from across the city. Every month, we bring together NYC's top AI & product engineers for a low-key night out. Drinks are on us, & the pool, ping-pong, foosball, shuffleboard, & arcade games are all fair game. No panels. No pitches. Just a good time with people building cool stuff. About the host: Fonzi is a recruiting platform focused exclusively on product & AI engineering hires in NYC & SF. We manage 75+ open roles at some of the best startups in the country, including hiring partners like Suno, Graphite, Tennr, FLORA, OpenRouter, & more Hiring? Want intros to startups?"
-    },
-    "gary_2026_08_28_tech_happy_hour_by_startup_grind": {
-      "title": "Tech Happy Hour By Startup Grind",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-08-28",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Fri, 08/28 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Time Out Market Union Square, 124 E 14th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/jh2nmkk/Tech-Happy-Hour-By-Startup-Grind",
-      "map": "https://maps.google.com/?q=Time%20Out%20Market%20Union%20Square%2C%20124%20E%2014th%20St",
-      "summary": "Gary's Guide: No pitches. No presentations. No agenda. This is our monthly tech mixer to connect with peers across the NYC tech & startup community - from founders & VCs to developers & designers. A happy hour for real conversations. This is the monthly Startup Grind tech mixer. It's a low-key way to connect with the NYC tech & startup community to discover shared interests, explore areas for collaboration, & find your next co-founder or key hire. Join us for a casual happy hour to build real relationships & make friends, not just contacts. No pitches. No presentations. No agenda. Just a hub for people building the future of tech in New York. This happy hour is for: Startup Founders & Employees Technologists, Developers & Tech Workers Product Managers & Designers Investors, VCs, Advisors & Mentors Anyone curious about the NYC tech scene Agenda: 5:00 PM: Happy Hour starts. Come & go as you please. We're at the new Time Out Market at Union Square. It features a selection of the city's best food & drink together under one roof, offering a wide variety of excellent options to choose from throughout the event. Look for Startup Grind table signs toward the back near the outdoor patio."
-    },
-    "gary_2026_09_01_ai_enterprise_conference": {
-      "title": "AI Enterprise Conference",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-09-01",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Tue, 09/01 · 9:00am",
-      "price": "$499",
-      "free": false,
-      "place": "Pier Sixty, 60 Chelsea Piers",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/znedivu/AI-Enterprise-Conference",
-      "map": "https://maps.google.com/?q=Pier%20Sixty%2C%2060%20Chelsea%20Piers",
-      "summary": "Gary's Guide: With Michael Beal (Head of Enterprise Data Science, Bloomberg), Srini Masanam (Head of Data Quality, Citi), Joshua Ainsley (Head of Data Science, New Balance), Dhagash Mehta (Head of Applied ML Research, BlackRock), Faith Rotimi-Ajayi (AVP, Morgan Stanley)."
-    },
-    "gary_2026_09_10_forbes_power_womens_summit": {
-      "title": "Forbes Power Womens Summit",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-09-10",
-      "time": "8 AM",
-      "sort": 8,
-      "when": "Thu, 09/10 · 8:00am",
-      "price": "Varies",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/f3nmxs8/Forbes-Power-Womens-Summit",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Leena Nair (CEO, Chanel), Cindy Crawford (Supermodel & Founder, Meaningful Beauty), Jennifer Garner (Founder, Once Upon A Farm), Claire Southey (Chief AI Officer, Rokt)."
-    },
-    "luma_2026_08_09_context_engineering_guild_august_edition": {
-      "title": "Context Engineering Guild: August Edition",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-08-09",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sun, 08/09 · 6pm",
-      "price": "Free",
-      "free": true,
-      "place": "111 Conselyea St",
-      "source": "Luma NYC",
-      "link": "https://luma.com/bbgrev9q",
-      "map": "https://maps.google.com/?q=111%20Conselyea%20St%20NYC",
-      "summary": "Luma NYC: Context Engineering Guild, Atin Woodard"
     },
     "luma_2026_08_11_founders_breakfast_club_with_corgi": {
       "title": "Founders Breakfast Club with Corgi",
@@ -1523,6 +1354,40 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Merge Events, Merge Events, Maddie, Shensi Ding, Abril Zucchi"
     },
+    "luma_2026_08_12_founders_basketball_new_york_city_august_2026": {
+      "title": "Founders Basketball New York City (August 2026)",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-08-12",
+      "time": "11 PM",
+      "sort": 23,
+      "when": "Wed, 08/12 · 11pm",
+      "price": "Free",
+      "free": true,
+      "place": "Brooklyn, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/7g2xpuob",
+      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
+      "summary": "Luma NYC: New Edition Events, Brandon Blum, Aaron Silverberg"
+    },
+    "luma_2026_08_13_scientist_to_founder_by_fifty_years": {
+      "title": "Scientist to Founder by Fifty Years",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-08-13",
+      "time": "9 PM",
+      "sort": 21,
+      "when": "Thu, 08/13 · 9pm",
+      "price": "Free",
+      "free": true,
+      "place": "1130 St Nicholas Ave",
+      "source": "Luma NYC",
+      "link": "https://luma.com/iheszf1a",
+      "map": "https://maps.google.com/?q=1130%20St%20Nicholas%20Ave%20NYC",
+      "summary": "Luma NYC: Scientist to Founder Series, Fifty Years"
+    },
     "nyu_tandon_2026_08_10_research_and_innovation_for_grid_modernization_and_s": {
       "title": "Research and Innovation for Grid Modernization and Security at BNL",
       "type": "tech",
@@ -1556,40 +1421,6 @@
       "link": "https://engineering.nyu.edu/events/2026/08/20/engineered-design-mucus-penetration-nanoparticles-inhalable-vaccines",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_38616_2026_08_09_la_festa_italiana_2026": {
-      "title": "LA FESTA ITALIANA 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-08-09",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Sun, 08/09 · 5pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "HOLY ROSARY CHURCH, 344 6TH ST, JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/la-festa-italiana-2026-6/",
-      "map": "https://maps.google.com/?q=HOLY%20ROSARY%20CHURCH%2C%20344%206TH%20ST%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
-    },
-    "jc_culture_38058_2026_08_09_jersey_city_summerfest_2026_strangers_stopping_stran": {
-      "title": "Jersey City Summerfest 2026 / Strangers Stopping Strangers",
-      "type": "weird",
-      "label": "Weird / Social",
-      "day": "Sun",
-      "date": "2026-08-09",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sun, 08/09 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Liberty State Park, North Cove",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-strangers-stopping-strangers/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "&nbsp; JC Summerfest featuring Strangers Stopping Strangers Grateful Dead Band North Cove Field Liberty State Park 6pm-8pm"
     },
     "jc_culture_42614_2026_08_10_jc_puerto_rican_flag_raising_2026": {
       "title": "JC Puerto Rican Flag Raising 2026",
@@ -2112,27 +1943,9 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_08_08_10_am": [
-      "skint_89832_0_jamaica_rising_day_parade",
-      "skint_89832_1_greenlight_bookstore_sidewalk_sale",
-      "skint_89832_2_the_42nd_st_card_show",
-      "gary_2026_08_08_checkout_travel_hospitality_hackathon"
-    ],
-    "cluster_2026_08_08_11_am": [
-      "skint_89832_3_maum_market_asian_makers_market",
-      "skint_89832_4_brooklyn_film_camera_summer_yard_sale"
-    ],
-    "cluster_2026_08_08_12_pm": [
-      "skint_89832_5_black_vegfest",
-      "skint_89832_8_african_pop_up_festival"
-    ],
-    "cluster_2026_08_08_9_am": [
-      "skint_89832_7_36th_hong_kong_dragon_boat_festival",
-      "gary_2026_08_08_raingentic_commerce_hackathon"
-    ],
     "cluster_2026_08_09_11_am": [
-      "skint_89832_9_44th_annual_national_dominican_day_parade",
-      "skint_89832_10_the_market_series_studio_shipley_friends_art_market"
+      "skint_89832_0_44th_annual_national_dominican_day_parade",
+      "skint_89832_1_the_market_series_studio_shipley_friends_art_market"
     ],
     "cluster_2026_08_12_6_pm": [
       "gary_2026_08_12_quantum_computing_meetup",
@@ -2141,7 +1954,12 @@
     "cluster_2026_08_13_6_pm": [
       "gary_2026_08_13_creative_ai_forum",
       "gary_2026_08_13_ai_founder_playbook_prove_your_roadmap_actually_roll",
-      "gary_2026_08_13_how_to_talk_to_people_strangers_investors_customers_"
+      "gary_2026_08_13_how_to_talk_to_people_strangers_investors_customers_",
+      "gary_2026_08_13_langchain_meetup_llm_wikis_managing_agent_context"
+    ],
+    "cluster_2026_08_13_6_30_pm": [
+      "gary_2026_08_13_founders_operators_rooftop_social",
+      "jc_culture_38074_2026_08_13_berry_lane_music_fest_2026_power_2_inspire_all_stars"
     ],
     "cluster_2026_08_19_5_pm": [
       "gary_2026_08_19_workshop_wednesday_ai_tools_for_startup_growth",
@@ -2161,10 +1979,6 @@
     "cluster_2026_08_22_9_am": [
       "gary_2026_08_22_the_great_founder_river_float_of_2026",
       "gary_2026_08_22_dell_x_nvidia_hackathon"
-    ],
-    "cluster_2026_08_09_6_pm": [
-      "luma_2026_08_09_context_engineering_guild_august_edition",
-      "jc_culture_38058_2026_08_09_jersey_city_summerfest_2026_strangers_stopping_stran"
     ],
     "cluster_2026_08_11_6_30_pm": [
       "jc_culture_38064_2026_08_11_jersey_city_summerfest_2026_adam_falcon",
