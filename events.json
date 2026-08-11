@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 10, 2026, 4:09 PM EDT",
+    "checked": "Aug 11, 2026, 7:37 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-10",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Aug 10"
-      },
       {
         "iso": "2026-08-11",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Aug 16"
+      },
+      {
+        "iso": "2026-08-17",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Aug 17"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-10",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Aug 10"
-      },
       {
         "iso": "2026-08-11",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Sep 9"
+      },
+      {
+        "iso": "2026-09-10",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Sep 10"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "7 AM",
       "8:30 AM",
@@ -452,57 +452,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "skint_89832_0_44th_annual_national_dominican_day_parade": {
-      "title": "44th annual national dominican day parade",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-08-09",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 08/09 · 11am",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "sixth avenue from w 39th to w 54th streets",
-      "source": "The Skint",
-      "link": "https://natddp.org/",
-      "map": "https://maps.google.com/?q=sixth%20avenue%20from%20w%2039th%20to%20w%2054th%20streets%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am: 44th annual national dominican day parade: sixth avenue from w 39th to w 54th streets."
-    },
-    "skint_89832_1_the_market_series_studio_shipley_friends_art_market": {
-      "title": "the market series: studio shipley + friends art market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-08-09",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 08/09 · 11am-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "studio shipley (prospect heights)",
-      "source": "The Skint",
-      "link": "https://luma.com/978a3mfi",
-      "map": "https://maps.google.com/?q=studio%20shipley%20(prospect%20heights)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-5pm: the market series: studio shipley + friends art market: studio shipley (prospect heights)."
-    },
-    "skint_89832_2_moshimoshi_market": {
-      "title": "moshimoshi market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-08-09",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 08/09 · 12-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "the whale building (sunset park)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/moshimoshi.market/",
-      "map": "https://maps.google.com/?q=the%20whale%20building%20(sunset%20park)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: moshimoshi market: the whale building (sunset park)."
     },
     "gary_2026_08_11_nyc_fintech_coffee": {
       "title": "NYC Fintech Coffee",
@@ -1284,7 +1233,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/397ng478",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Corgi NYC, Abril Zucchi, Maddie, Linda, jamie"
+      "summary": "Luma NYC: Corgi NYC, Abril Zucchi, Maddie, Linda, jamie, Sean Hu, Drew Parten"
     },
     "luma_2026_08_11_data_salon_systems_thinking_part_2": {
       "title": "Data Salon: Systems Thinking, part 2",
@@ -1354,6 +1303,23 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Merge Events, Merge Events, Maddie, Shensi Ding, Abril Zucchi"
     },
+    "luma_2026_08_12_n_yc_alumni_founder_friends_monthly_20_by_rho_and_ny": {
+      "title": "(N)YC Alumni + Founder Friends Monthly #20 by Rho and NYC Founders Club",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-08-12",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Wed, 08/12 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/yi4cebz6",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: NYC Founders Club, Aakash Shah (NYC Founders Club), Jordan Deasy, Drew Parten, Pilar Pheffer, Sean Hu"
+    },
     "luma_2026_08_12_founders_basketball_new_york_city_august_2026": {
       "title": "Founders Basketball New York City (August 2026)",
       "type": "startup",
@@ -1388,23 +1354,6 @@
       "map": "https://maps.google.com/?q=1130%20St%20Nicholas%20Ave%20NYC",
       "summary": "Luma NYC: Scientist to Founder Series, Fifty Years"
     },
-    "nyu_tandon_2026_08_10_research_and_innovation_for_grid_modernization_and_s": {
-      "title": "Research and Innovation for Grid Modernization and Security at BNL",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Mon",
-      "date": "2026-08-10",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Mon, 08/10 · 11:00 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/08/10/research-and-innovation-grid-modernization-and-security-bnl",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
     "nyu_tandon_2026_08_20_engineered_design_of_mucus_penetration_nanoparticles": {
       "title": "“Engineered design of mucus penetration nanoparticles for inhalable vaccines”",
       "type": "tech",
@@ -1421,23 +1370,6 @@
       "link": "https://engineering.nyu.edu/events/2026/08/20/engineered-design-mucus-penetration-nanoparticles-inhalable-vaccines",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_42614_2026_08_10_jc_puerto_rican_flag_raising_2026": {
-      "title": "JC Puerto Rican Flag Raising 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Mon",
-      "date": "2026-08-10",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Mon, 08/10 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jc-puerto-rican-flag-raising-2026/",
-      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
     },
     "jc_culture_42759_2026_08_11_chad_flag_raising_ceremony_2026": {
       "title": "Chad Flag Raising Ceremony 2026",
@@ -1931,6 +1863,23 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-09-09/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_10004817_2026_09_11_the_society_of_american_graphic_artists_saga_91st_an": {
+      "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-09-11",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Fri, 09/11 · 3pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "MANA CONTEMPORARY, 888 NEWARK AVE., JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-11/",
+      "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
+      "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
     }
   },
   "clusters": {
@@ -1942,10 +1891,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_08_09_11_am": [
-      "skint_89832_0_44th_annual_national_dominican_day_parade",
-      "skint_89832_1_the_market_series_studio_shipley_friends_art_market"
     ],
     "cluster_2026_08_12_6_pm": [
       "gary_2026_08_12_quantum_computing_meetup",
