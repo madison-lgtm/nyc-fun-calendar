@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 12, 2026, 7:39 AM EDT",
+    "checked": "Aug 12, 2026, 4:10 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1230,10 +1230,10 @@
       "when": "Wed, 08/12 · 8pm",
       "price": "Free",
       "free": true,
-      "place": "Hunter College",
+      "place": "New York, NY",
       "source": "Luma NYC",
       "link": "https://luma.com/5kclli00",
-      "map": "https://maps.google.com/?q=Hunter%20College%20NYC",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Cooperman Business Center, Cooperman Business Center"
     },
     "luma_2026_08_12_startup_founders_happy_hour_w_merge_corgi": {
@@ -1251,7 +1251,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/vxh2mlcn",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Merge Events, Merge Events, Maddie, Shensi Ding, Abril Zucchi"
+      "summary": "Luma NYC: Merge Events, Maddie, Shensi Ding, Abril Zucchi"
     },
     "luma_2026_08_12_n_yc_alumni_founder_friends_monthly_20_by_rho_and_ny": {
       "title": "(N)YC Alumni + Founder Friends Monthly #20 by Rho and NYC Founders Club",
