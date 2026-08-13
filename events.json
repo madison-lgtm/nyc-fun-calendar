@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 13, 2026, 7:40 AM EDT",
+    "checked": "Aug 13, 2026, 4:05 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1149,7 +1149,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/i9s4ql9/Tech-x-Market-Decoders",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: We decode tech & market signals together - so you can operate, invest, & decide better. AI can build a financial model, summarize an earnings call, or map a competitive landscape in seconds. What it can't do is connect the dots around a technology, a trend, a business, an idea, a decision. That takes human judgment, experience, & taste. The kind you only build by studying real examples, arguing them out loud, & testing your read against people who see it differently than you do. That's what Tech x Market Decoders is for. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: 15-20 minutes - decode solo. Quiet research time. Dig into the news, the product, the tech stack, the data. No talking, just thinking. 35-40 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up. You'll leave with a sharper read on the topic than you walked in with, & a few new perspectives you hadn't considered. That's the whole point. This week's topic: Anthropic's upcoming IPO Anthropic filed confidentially for one of the most anticipated debuts in years, with a listing expected in Sept/Oct 2026. We're decoding the business behind Claude; the revenue growth, the compute costs, & whether the valuation actually holds up once Wall Street gets a look. Come as you are - operator, investor, builder, or just someone who reads too much tech or business news & wants to discuss with smart people. About Us This event is organized by Innovest, a media-led intelligence platform at the intersection of tech & markets, built for operators, investors, & founders. Through newsletters, a growing library of business models, & events like this one, we're building the judgment, experience, & taste that no AI can replace - one pattern, one playbook, one signal at a time. Disclaimer By registering for this event, you'll be added to the Innovest newsletter (innovest.substack.com). You can unsubscribe at any time."
+      "summary": "Gary's Guide: We decode tech & market signals together - so you can operate, invest, & decide better. AI can build a financial model, summarize an earnings call, or map a competitive landscape in seconds. What it can't do is connect the dots around a technology, a trend, a business, an idea, a decision. That takes human judgment, experience, & taste. The kind you only build by studying real examples, arguing them out loud, & testing your read against people who see it differently than you do. That's what Tech x Market Decoders is for. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: 15-20 minutes - decode solo. Quiet research time. Dig into the news, the product, the tech stack, the data. No talking, just thinking. 35-40 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up. This week's topic: Anthropic's upcoming IPO Anthropic filed confidentially for one of the most anticipated debuts in years, with a listing expected in Sept/Oct 2026. We're decoding the business behind Claude; the revenue growth, the compute costs, & whether the valuation actually holds up once Wall Street gets a look. Come as you are - operator, investor, builder, or just someone who reads too much tech or business news & wants to discuss with smart people."
     },
     "gary_2026_08_26_she_ai_coffee_chat": {
       "title": "She AI Coffee Chat",
@@ -1251,7 +1251,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/plastic-vyva",
       "map": "https://maps.google.com/?q=The%20Woods%20NYC",
-      "summary": "Luma NYC: Plastic Labs, Vamshi"
+      "summary": "Luma NYC: Plastic Labs, Vamshi, Lily Luo"
     },
     "luma_2026_08_13_five_iron_w_valon_gtm": {
       "title": "Five Iron w/ Valon GTM",
@@ -1268,7 +1268,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/mozklm4q",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Melissa Hoang, Melissa Hoang, Ariel Brito, Daniel Lee, Greg Vuong, Eric Ganz"
+      "summary": "Luma NYC: Melissa Hoang, Melissa Hoang, Ariel Brito, Greg Vuong, Eric Ganz"
     },
     "luma_2026_08_13_nyc_creative_ai_august_forum_formerly_comfyui_nyc": {
       "title": "NYC Creative AI August Forum (formerly ComfyUI NYC)",
@@ -1285,7 +1285,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/nw9z51dh",
       "map": "https://maps.google.com/?q=ZeroSpace%20NYC",
-      "summary": "Luma NYC: NYC Creative AI, Eric Tang, Xuelong Mu, Sahar Mor (Bond AI)"
+      "summary": "Luma NYC: NYC Creative AI, Eric Tang, Xuelong Mu, Sahar Mor (Bond AI), ZeroSpace"
     },
     "luma_2026_08_14_agentic_security_inaugural_meetup": {
       "title": "Agentic Security - Inaugural meetup",
@@ -1491,6 +1491,23 @@
       "map": "https://maps.google.com/?q=Lincoln%20Park%2C%201%20County%20Rd%20605%2C%20Jersey%20City%2C%20NJ",
       "summary": "County Commissioner Bill O’Dea and Chico Ramchal along side the West Indian American Committee will be holding a West Indian Family Fun Day at Lincoln Park, on August 15th, 2026 beginning at 11am and concluding at 8:00pm. This event is intended to provide a day and location where families of a West Indian background of Hudson County can congregate and celebrate their culture. It will also provide an insight to experience the West Indian culture if you are from any descent. Among culture sharing the committee will provide a host of community games for all age groups. Some of these activities include a tug-o-war, 100m race, sack race, etc. In conjunction with the activities, we will have a show mobile on location that will provide music and non-band performances, such as cultural dancing. The expected turnout is estimated at, with the committee providing over 50 volunteers to help support the event."
     },
+    "jc_culture_43070_2026_08_15_summer_soul_in_the_park_2026": {
+      "title": "SUMMER SOUL IN THE PARK 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Sat",
+      "date": "2026-08-15",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 08/15 · 12pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "BETHUNE PARK, 143 Martin Luther King Dr., JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/43070/",
+      "map": "https://maps.google.com/?q=BETHUNE%20PARK%2C%20143%20Martin%20Luther%20King%20Dr.%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Join us this weekend for a vibrant community event in Bethune Park! We’re bringing the neighborhood together for an unforgettable day of live Soul and R&B music, Classic House jams, hilarious comedy sets, and a variety of entertainment for everyone to enjoy. Come out to dance and soak up some good vibes with your friends and neighbors. See you there!"
+    },
     "jc_culture_38059_2026_08_16_jc_summerfest_2026_marel_hidalgo_jamaican_jazz_quint": {
       "title": "JC Summerfest 2026 / Marel Hidalgo Jamaican Jazz Quintet",
       "type": "entertainment",
@@ -1609,6 +1626,23 @@
       "link": "https://jerseycityculture.org/event/true-colors-carried-on-a-pride-gathering-on-grief-and-legacy/",
       "map": "https://maps.google.com/?q=Pet%20Shop%2C%20193%20Newark%20Ave%2C%20Jersey%20City%2C%20NJ",
       "summary": "This Pride, what if our true colors included the ones we’ve lost? True Colors, Carried On is an evening of small-group, facilitated conversation about dying, grief, and the legacies we leave behind, held in Jersey City during Pride Month. This isn’t therapy, it’s community and permission to say the word “death” out loud during a month that’s usually about celebration, because both things can be true at once. Consider bringing a photo or small keepsake of someone you’re carrying. If you don’t have one on hand, we’ll have materials for you to write out a memory or decorate a name tag when you arrive."
+    },
+    "jc_culture_43077_2026_08_19_battle_of_paulus_hook_america_250_procession": {
+      "title": "BATTLE OF PAULUS HOOK AMERICA 250 PROCESSION",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Wed",
+      "date": "2026-08-19",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Wed, 08/19 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Washington & Dudley Streets, Washington & Dudley Streets, Jersey City, New Jersey",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/battle-of-paulus-hook-america-250-procession/",
+      "map": "https://maps.google.com/?q=Washington%20%26%20Dudley%20Streets%2C%20Washington%20%26%20Dudley%20Streets%2C%20Jersey%20City%2C%20New%20Jersey",
+      "summary": "The Battle of Paulus Hook was a daring surprise nighttime raid fought on August 19, 1779, during the American Revolutionary War. Major Henry “Light Horse Harry” Lee led a force of Continental Army soldiers against the British-held fort on the Paulus Hook peninsula in modern-day downtown Jersey City. The patriots successfully captured 158 prisoners, boosting American morale. Join the Fife & Drum Procession at Washington and Dudley Streets as they march up to Paulus Hook Park. After the procession, stay to for a lively presentation of local history, performed by local actors."
     },
     "jc_culture_42743_2026_08_21_movies_in_the_park_2026_zootopia_2": {
       "title": "Movies in the Park 2026 / Zootopia 2",
@@ -2001,7 +2035,8 @@
     ],
     "cluster_2026_08_19_6_30_pm": [
       "gary_2026_08_19_seed_series_a_founder_happy_hour_building_teams_that",
-      "jc_culture_42565_2026_08_19_true_colors_carried_on_a_pride_gathering_on_grief_an"
+      "jc_culture_42565_2026_08_19_true_colors_carried_on_a_pride_gathering_on_grief_an",
+      "jc_culture_43077_2026_08_19_battle_of_paulus_hook_america_250_procession"
     ],
     "cluster_2026_08_20_6_pm": [
       "gary_2026_08_20_the_builder_series_founder_investor_operator_nights",
