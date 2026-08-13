@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 12, 2026, 4:10 PM EDT",
+    "checked": "Aug 13, 2026, 7:40 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-12",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Aug 12"
-      },
       {
         "iso": "2026-08-13",
         "key": "Thu",
@@ -45,15 +39,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Aug 18"
+      },
+      {
+        "iso": "2026-08-19",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Aug 19"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-12",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Aug 12"
-      },
       {
         "iso": "2026-08-13",
         "key": "Thu",
@@ -233,11 +227,18 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Sep 11"
+      },
+      {
+        "iso": "2026-09-12",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Sep 12"
       }
     ],
-    "todayKey": "Wed",
+    "todayKey": "Thu",
     "times": [
       "7 AM",
+      "8 AM",
       "8:30 AM",
       "9 AM",
       "10 AM",
@@ -245,6 +246,7 @@
       "11 AM",
       "11:30 AM",
       "12 PM",
+      "12:30 PM",
       "1 PM",
       "1:30 PM",
       "2 PM",
@@ -257,12 +259,10 @@
       "6 PM",
       "6:30 PM",
       "7 PM",
-      "8 PM",
       "8:30 PM",
       "9 PM",
       "9:30 PM",
       "10 PM",
-      "10:30 PM",
       "11 PM"
     ]
   },
@@ -453,142 +453,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "gary_2026_08_11_nyc_fintech_coffee": {
-      "title": "NYC Fintech Coffee",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-08-11",
-      "time": "8:30 AM",
-      "sort": 8.5,
-      "when": "Tue, 08/11 · 8:30am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ojypdjc/NYC-Fintech-Coffee",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With LSEG (London Stock Exchange Group) & This Week In Fintech."
-    },
-    "gary_2026_08_11_mcp_as_a_gtm_strategy": {
-      "title": "MCP As A GTM Strategy",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-08-11",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Tue, 08/11 · 5:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Fordham Gabelli School of Business, 140 W 62nd St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ufwc59p/MCP-As-A-GTM-Strategy",
-      "map": "https://maps.google.com/?q=Fordham%20Gabelli%20School%20of%20Business%2C%20140%20W%2062nd%20St",
-      "summary": "Gary's Guide: With Dean Grover (Founder, Chanl AI)."
-    },
-    "gary_2026_08_12_software_factory_intensive": {
-      "title": "Software Factory Intensive",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-08-12",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Wed, 08/12 · 9:00am",
-      "price": "$750",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/j5b3z93/Software-Factory-Intensive",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With John Kennedy (Founder, Actual AI), Chris Sells (CEO, GasCity), Austin Born (AI Enggr, Actual AI), Bryan Hirsch (Founder, 30to80), Julian Knutsen (CTO, GasCity)."
-    },
-    "gary_2026_08_12_fintech_founders_breakfast": {
-      "title": "Fintech Founders Breakfast",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-08-12",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Wed, 08/12 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "22 Vanderbilt, 335 Madison Ave",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/8vekmeo/Fintech-Founders-Breakfast",
-      "map": "https://maps.google.com/?q=22%20Vanderbilt%2C%20335%20Madison%20Ave",
-      "summary": "Gary's Guide: Join us for a special breakfast for our B2B Fintech founders at Bergamos."
-    },
-    "gary_2026_08_12_investor_readiness_pitch_deck_reviews": {
-      "title": "Investor Readiness - Pitch Deck Reviews",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-08-12",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Wed, 08/12 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/grh95lw/Investor-Readiness-Pitch-Deck-Reviews",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Practice pitching your startup in a supportive environment & receive constructive feedback on your pitch deck, storytelling, business model, traction, & fundraising strategy from fellow founders & experienced mentors."
-    },
-    "gary_2026_08_12_quantum_computing_meetup": {
-      "title": "Quantum Computing Meetup",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-08-12",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 08/12 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Transatlantic Innovation Hub, 417 5th Ave, Ste 814",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/1xboxp7/Quantum-Computing-Meetup",
-      "map": "https://maps.google.com/?q=Transatlantic%20Innovation%20Hub%2C%20417%205th%20Ave%2C%20Ste%20814",
-      "summary": "Gary's Guide: With Mark Jackson (Quantum Evangelist, Quantinuum)."
-    },
-    "gary_2026_08_12_what_happens_to_humanity_when_everything_becomes_int": {
-      "title": "What Happens To Humanity When Everything Becomes Intelligent?",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-08-12",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 08/12 · 6:00pm",
-      "price": "$25",
-      "free": false,
-      "place": "BrainStation, 136 Crosby St, 4th Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/aw03c8u/What-Happens-To-Humanity-When-Everything-Becomes-Intelligent",
-      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
-      "summary": "Gary's Guide: With founders Venus Rose (Haus of Creators), Sadia Sharmin (Cloud Couture), Julia Kolodkina (Aliiiens: Brand Venture Lab), Tanzeem Choudhury (Prof. Integrated Health & Tech, Cornell Tech)."
-    },
-    "gary_2026_08_12_stripe_community_the_dollar_just_got_an_api_stableco": {
-      "title": "Stripe Community - The Dollar Just Got An API - Stablecoin Use Cases For Business",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-08-12",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Wed, 08/12 · 7:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, Online",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/5sv38nb/Stripe-Community-The-Dollar-Just-Got-An-API-Stablecoin-Use-Cases-For-Business",
-      "map": "https://maps.google.com/?q=Venue%2C%20Online",
-      "summary": "Gary's Guide: Join the Stripe Stablecoins Community, a free space for founders, builders, & operators exploring stablecoin payments, treasury, & the future of the internet economy."
     },
     "gary_2026_08_13_marketing_people_actually_notice_and_will_pay_you_fo": {
       "title": "Marketing People Actually Notice (And Will Pay You For)",
@@ -811,6 +675,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Francesca Poupel (F&G Capital Partners), Jay Spindel (SOJA Ventures & INTE Securities)."
     },
+    "gary_2026_08_18_tech_x_market_decoders": {
+      "title": "Tech x Market Decoders",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-08-18",
+      "time": "8:30 AM",
+      "sort": 8.5,
+      "when": "Tue, 08/18 · 8:30am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ips5kux/Tech-x-Market-Decoders",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: We decode tech & market signals together - so you can operate, invest, & decide better. AI can build a financial model, summarize an earnings call, or map a competitive landscape in seconds. What it can't do is connect the dots around a a technology, a trend, a business, an idea, a decision. That takes human judgment, experience, & taste. The kind you only build by studying real examples, arguing them out loud, & testing your read against people who see it differently than you do. That's what Tech x Market Decoders is for. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: 15-20 minutes - decode solo. Quiet research time. Dig into the news, the product, the tech stack, the data. No talking, just thinking. 35-40 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up. You'll leave with a sharper read on the topic than you walked in with, & a few new perspectives you hadn't considered. That's the whole point. This week's topic: Situational Awareness. Are we in an AI bubble? Circular financing between AI labs & infrastructure players, record market concentration, & capex spending that's outpacing monetization. We're decoding the real risk signals versus the noise, & what it means for how you invest from here. Come as you are - operator, investor, builder, or just someone who reads too much tech or business news & wants to discuss with smart people. About Us This event is organized by Innovest, a media-led intelligence platform at the intersection of tech & markets, built for operators, investors, & founders. Through newsletters, a growing library of business models, & events like this one, we're building the judgment, experience, & taste that no AI can replace - one pattern, one playbook, one signal at a time. Disclaimer By registering for this event, you'll be added to the Innovest newsletter (innovest.substack.com). You can unsubscribe at any time."
+    },
     "gary_2026_08_18_ai_demo_night": {
       "title": "AI Demo Night",
       "type": "tech",
@@ -861,6 +742,23 @@
       "link": "https://www.garysguide.com/events/dg0388w/NYC-B2B-AI-Founders-Investors-Meetup",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: NYC B2B is the premier community for B2B Founders, Operators, & Investors in NYC. NYC B2B often hosts happy hour events for founders, builders, & investors based in NYC. This is an exclusive event for B2B AI founders & investors. Want to sponsor this event? Email: newyorkcityventures@gmail.com This meetup is hosted by NYC B2B. It's a great way to meet other founders, builders, & investors. Whether you're building a company, exploring a side project, or considering a new idea, we would love to have you here. NYC B2B has previously hosted events for thousands of B2B startup founders + operators in NYC across Vertical SaaS, AI, FinTech, Healthcare, DevTools, Infrastructure, & more. By signing up, you are confirming your interest in hearing about more events from NYC B2B in the future via email! NYC B2B also helps connect those who sign up with awesome partners. Note: This is a 21+ event. Please let our team know in advance if you'd like to bring a guest, as unregistered +1s will not be admitted. Attendees who disregard this policy may not be invited to future NYC B2B events. - Hiring or looking for jobs? startupjobs.nyc"
+    },
+    "gary_2026_08_19_grow_ny_2026": {
+      "title": "Grow NY 2026",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-08-19",
+      "time": "8 AM",
+      "sort": 8,
+      "when": "Wed, 08/19 · 8:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Center415, 415 Fifth Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/o5i6stj/Grow-NY-2026",
+      "map": "https://maps.google.com/?q=Center415%2C%20415%20Fifth%20Ave",
+      "summary": "Gary's Guide: With Michelle Carrara (Vice President of Growth and Analytics, Boll & Branch), Samuel Sternberg (Chief Growth Officer, Jomashop), Cody Plofker (CMO, Jones Road Beauty), Jacqs Carroll (Director, Digital, Reebok | GUESS | Lucky Brand), Mike Jacobs (Chief Growth Officer, Jonathan Adler | Draper James | Outdoor Voices), Danny Hershey (Growth Marketing, Shinesty), Suzie Waller (Sr. Director, Growth Marketing, Peloton), Harry Roth (Director, eCommerce, CRO & Customer Journeys, AS Beauty Group), Mike McGee (Director - Stores & Operations, Mugsy, George Kelly (E-com, Retail Marketing Director, Vintage Tub & Bath)."
     },
     "gary_2026_08_19_workshop_wednesday_ai_tools_for_startup_growth": {
       "title": "Workshop Wednesday - AI Tools For Startup Growth",
@@ -1049,6 +947,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Connect w/ founders, operators, investors & others w/ experiences people remember & relationships that last"
     },
+    "gary_2026_08_20_pmai_stronger_together_find_your_co_founder": {
+      "title": "PMAI - Stronger Together - Find Your Co-Founder",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-08-20",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 08/20 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/fpwq2ag/PMAI-Stronger-Together-Find-Your-Co-Founder",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Stronger Together: Find Your Co-Founder Building an AI startup is hard. Building it with the right co-founder changes everything. Whether you're a technical builder looking for a commercial partner, a product leader searching for an AI engineer, or an operator with a big vision looking for someone equally obsessed with bringing it to life, this event is designed to help you meet the right people through structured, high-quality conversations. Goodbye to headless networking! Unlike traditional meetups where everyone drifts from conversation to conversation, this evening is designed around intentional matching, giving you multiple opportunities to connect with people who complement your skills, ambitions, & interests. What to expect Opening Keynote A short talk on what makes exceptional founding teams, common mistakes when choosing co-founders, & how to evaluate long-term fit beyond technical skills. 60-Second Founder Introductions Every attendee will have the opportunity to introduce themselves in one minute (subject to capacity). Tell the room: Who you are What you're building (or want to build) What you're looking for What you can bring to a founding team Each attendee will also receive a name tag highlighting their background, interests, & expertise to make conversations easier. Facilitated Co-Founder Matching Instead of random networking, attendees will rotate between themed discussion tables based on startup stage, industry, technologies, or interests. These small-group conversations are designed to help you quickly discover complementary skills, shared vision, & potential collaboration opportunities. Community Mixer Continue conversations & meet other founders, investors, operators, & builders in the community. Who should attend AI founders looking for a co-founder Engineers interested in starting a company Product managers & designers passionate about AI GTM, sales, & growth leaders looking to join an early-stage startup Researchers & technical builders exploring startup ideas Experienced operators interested in becoming founding team members Who this event is for We're curating for ambitious, execution-oriented people who are serious about building companies. You don't need to have a startup today, but you should have the skills, experience, or commitment to become part of a founding team. Whether you already have an idea or are looking for the right person to build one with, you'll leave having met people who could become your future co-founder. Space is limited, & applications may be reviewed to maintain a high-quality mix of attendees. The Yard: The Yard is a coworking space at the intersection of creativity, design, & play with locations in Manhattan, Brooklyn, Philly, Washington DC, & Chicago, with a variety of shared & private workspace options to meet your team's needs. Built to inspire & cultivate success, The Yard is here to help you win! Learn more at theyard.com. About Pioneering Minds AI: At pioneeringminds.ai, we grow AI native pioneers who build, deploy, & govern AI responsibly & put humans at the front seat. We help YOU - our AI pioneers - to truly understand AI & create real value out of AI. Our mission is straightforward: Accelerate Innovation: Equip participants with cutting-edge AI tools to deliver rapid prototypes. Foster Collaboration: Unite diverse teams-students, engineers, & civic leaders-to tackle urban challenges head-on. Create Lasting Impact: Offer continued mentorship & post-event partnerships so promising concepts can scale beyond the weekend."
+    },
     "gary_2026_08_20_ai_marketing_salon": {
       "title": "AI & Marketing Salon",
       "type": "tech",
@@ -1065,6 +980,23 @@
       "link": "https://www.garysguide.com/events/esyduwl/AI-Marketing-Salon",
       "map": "https://maps.google.com/?q=Private%20Dining%20Room%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: A curated dinner where we discuss the future of marketing. Hi, Andrew Yeung here. I'm hosting edition #4 of our AI & marketing salon, exclusively for CMOs, VPs, Directors, & Heads of Marketing. There are twelve seats available for marketing leaders who are interested in having a conversation about about what's actually working, what's overhyped, & where the puck is heading next. Details: Date: Aug 20, 2026 Time: 6:30pm - 9:00pm Venue: Private Dining Room in NYC Who's in the room? Twelve CMOs, VPs, & Directors of Marketing from mid-market enterprise tech companies & legendary consumer brands. We keep it small on purpose, so every person at the table is someone the rest want to hear from. Past dinners have brought together marketing leaders from L'Oral, Capital One, American Express, Mastercard, Google, Meta, Match Group, Bark, Anthropic, Perplexity, Cloaked, Antimetal, Whizz, & many more. How the night runs Dinner at one of the city's best tables, in a private setting built for real conversation rather than small talk. Over the meal, we post three questions on the biggest shifts in AI & marketing. Each guest shares their perspective, so you leave with twelve points of view from people solving the same problems you are. --- Seats are limited to 12 & are confirmed by the host. Request a spot below & we'll be in touch to finalize your seat. Hosted & moderated by Andrew Yeung & friends. About our Hosts & Sponsors: Andrew Yeung is the founder of Fibe (a portfolio of events companies including Andrew's Mixers, The Junto Series, & Lumos House). He is also a Partner at Next Wave NYC, a pre-seed/seed found backed by Flybridge Capital. Andrew's hosted 200+ events for 50,000+ tech founders & professionals in 8 cities that were featured in Bloomberg, Business Insider, Fast Company, & Fortune Magazine. Business Insider dubbed him the \"Gatsby of Silicon Alley.\" NewForm grows category-disrupting software companies through high volumes of iterative short-form video. Thousands of ads are produced each month, agentically tested & analyzed, with insights fed back to creators. This closed loop builds a consistent & scalable creative engine for paid growth. Get on the list for future events: Twitter Instagram Website"
+    },
+    "gary_2026_08_20_a_chief_of_staff_mixer_on_relationships": {
+      "title": "A Chief Of Staff Mixer On Relationships",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-08-20",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 08/20 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/2ragpf1/A-Chief-Of-Staff-Mixer-On-Relationships",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With David Nebinski (Founder, A Chief of Staff Podcast)."
     },
     "gary_2026_08_21_nyc_coffee_club_early_stage_ai_native_founders_funde": {
       "title": "NYC Coffee Club - Early-Stage AI-Native Founders & Funders",
@@ -1134,6 +1066,23 @@
       "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
       "summary": "Gary's Guide: With Camille Carlton (Dir. Strategy & Impact, Center for Humane Tech)."
     },
+    "gary_2026_08_24_the_shortlist_august_founder_showcase": {
+      "title": "The Shortlist - August Founder Showcase",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-08-24",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Mon, 08/24 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/icibb23/The-Shortlist-August-Founder-Showcase",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: The Shortlist NYC - August Founder Showcase (#8) The Shortlist is back for our monthly Founder Showcase & the room keeps getting better. This is a monthly curated, application-only evening connecting early-stage founders with exceptional operators across New York. No panels. No pitches to VCs. Just six founders building breakout companies, a room full of people who've built things themselves, & the kind of candid conversation you don't get at most events. Each founder will share what they're building, why it matters, & the specific roles they're actively hiring for right now - followed by a mixer. What to expect: Founders presenting at the seed through Series B stage. Operators, builders, & executives who've seen what good looks like. An intentionally small room designed for real connection. Who this is for: Exceptional operators - whether you're actively exploring your next role, casually curious, or simply want to stay close to what's being built in NYC right now. Founders will be announced in the days leading up to the event. Attendance is intentionally limited. Apply to be considered. More information on The Shortlist can be found here. Founded by Andrew Yeung & Ivor Straford."
+    },
     "gary_2026_08_25_founders_house_summer_builders_day": {
       "title": "Founders House Summer Builders Day",
       "type": "startup",
@@ -1167,6 +1116,40 @@
       "link": "https://www.garysguide.com/events/gdj4uw0/Kubernetes-Developers-Meetup",
       "map": "https://maps.google.com/?q=Elastic%2C%201250%20Broadway",
       "summary": "Gary's Guide: With Michael Guarino (Founder, Plural), Eric Mustin (Customer Architect, Elastic)."
+    },
+    "gary_2026_08_25_building_an_ai_agent_native_marketing_org": {
+      "title": "Building an AI Agent-Native Marketing Org",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-08-25",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 08/25 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Nasdaq MarketSite, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/xubhvun/Building-an-AI-Agent-Native-Marketing-Org",
+      "map": "https://maps.google.com/?q=Nasdaq%20MarketSite%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Join us for an evening at Nasdaq, where we'll discuss what it takes for marketers at large enterprises to rebuild their business around AI agents. Some of the most-watched companies in the world have already retooled their marketing & customer engagement teams around agents. Our panel will get into the skills an agent-powered 10x marketer actually needs, how to structure teams to support them, & what companies get wrong before they get it right. There will be an open bar with light bites & networking before & after the panel. WHO SHOULD ATTEND: Marketing, growth, & customer experience leaders who are rethinking how their teams work in the age of AI, & the operators building the next generation of AI agent-native organizations. RSVP required due to space constraints"
+    },
+    "gary_2026_08_25_tech_x_market_decoders": {
+      "title": "Tech x Market Decoders",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-08-25",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 08/25 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/i9s4ql9/Tech-x-Market-Decoders",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: We decode tech & market signals together - so you can operate, invest, & decide better. AI can build a financial model, summarize an earnings call, or map a competitive landscape in seconds. What it can't do is connect the dots around a technology, a trend, a business, an idea, a decision. That takes human judgment, experience, & taste. The kind you only build by studying real examples, arguing them out loud, & testing your read against people who see it differently than you do. That's what Tech x Market Decoders is for. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: 15-20 minutes - decode solo. Quiet research time. Dig into the news, the product, the tech stack, the data. No talking, just thinking. 35-40 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up. You'll leave with a sharper read on the topic than you walked in with, & a few new perspectives you hadn't considered. That's the whole point. This week's topic: Anthropic's upcoming IPO Anthropic filed confidentially for one of the most anticipated debuts in years, with a listing expected in Sept/Oct 2026. We're decoding the business behind Claude; the revenue growth, the compute costs, & whether the valuation actually holds up once Wall Street gets a look. Come as you are - operator, investor, builder, or just someone who reads too much tech or business news & wants to discuss with smart people. About Us This event is organized by Innovest, a media-led intelligence platform at the intersection of tech & markets, built for operators, investors, & founders. Through newsletters, a growing library of business models, & events like this one, we're building the judgment, experience, & taste that no AI can replace - one pattern, one playbook, one signal at a time. Disclaimer By registering for this event, you'll be added to the Innovest newsletter (innovest.substack.com). You can unsubscribe at any time."
     },
     "gary_2026_08_26_she_ai_coffee_chat": {
       "title": "She AI Coffee Chat",
@@ -1219,73 +1202,22 @@
       "map": "https://maps.google.com/?q=22%20Vanderbilt%2C%20335%20Madison%20Ave",
       "summary": "Gary's Guide: Learn how founders can drive early-stage growth before hiring a large team. Explore proven tactics for building distribution, creating content, leveraging your network, developing partnerships, & acquiring customers directly. Led by Damian."
     },
-    "luma_2026_08_12_nyc_intern_rooftop_mixer": {
-      "title": "NYC Intern Rooftop Mixer",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-08-12",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Wed, 08/12 · 8pm",
+    "gary_2026_08_27_ai_engineers_devs_drinks": {
+      "title": "AI Engineers - Devs & Drinks",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-08-27",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 08/27 · 6:00pm",
       "price": "Free",
       "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/5kclli00",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Cooperman Business Center, Cooperman Business Center"
-    },
-    "luma_2026_08_12_startup_founders_happy_hour_w_merge_corgi": {
-      "title": "Startup founders happy hour w/ Merge & Corgi",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-08-12",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Wed, 08/12 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/vxh2mlcn",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Merge Events, Maddie, Shensi Ding, Abril Zucchi"
-    },
-    "luma_2026_08_12_n_yc_alumni_founder_friends_monthly_20_by_rho_and_ny": {
-      "title": "(N)YC Alumni + Founder Friends Monthly #20 by Rho and NYC Founders Club",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-08-12",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Wed, 08/12 · 10:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/yi4cebz6",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: NYC Founders Club, Aakash Shah (NYC Founders Club), Jordan Deasy, Drew Parten, Pilar Pheffer, Sean Hu"
-    },
-    "luma_2026_08_12_founders_basketball_new_york_city_august_2026": {
-      "title": "Founders Basketball New York City (August 2026)",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-08-12",
-      "time": "11 PM",
-      "sort": 23,
-      "when": "Wed, 08/12 · 11pm",
-      "price": "Free",
-      "free": true,
-      "place": "Brooklyn, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/7g2xpuob",
-      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
-      "summary": "Luma NYC: New Edition Events, Brandon Blum, Aaron Silverberg"
+      "place": "Sugar Mouse, 47 3rd Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/9d25e0c/AI-Engineers-Devs-Drinks",
+      "map": "https://maps.google.com/?q=Sugar%20Mouse%2C%2047%203rd%20Ave",
+      "summary": "Gary's Guide: Drinks, games, & a chance to hang with engineering peers from across the city. Every month, we bring together NYC's top AI & product engineers for a low-key night out. Drinks are on us, & the pool, ping-pong, foosball, shuffleboard, & arcade games are all fair game. No panels. No pitches. Just a good time with people building cool stuff. About the host: Fonzi is a recruiting platform focused exclusively on product & AI engineering hires in NYC & SF. We manage 75+ open roles at some of the best startups in the country, including hiring partners like Suno, Graphite, Tennr, FLORA, OpenRouter, & more Hiring? Want intros to startups?"
     },
     "luma_2026_08_13_scientist_to_founder_by_fifty_years": {
       "title": "Scientist to Founder by Fifty Years",
@@ -1321,6 +1253,23 @@
       "map": "https://maps.google.com/?q=The%20Woods%20NYC",
       "summary": "Luma NYC: Plastic Labs, Vamshi"
     },
+    "luma_2026_08_13_five_iron_w_valon_gtm": {
+      "title": "Five Iron w/ Valon GTM",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-08-13",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Thu, 08/13 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/mozklm4q",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Melissa Hoang, Melissa Hoang, Ariel Brito, Daniel Lee, Greg Vuong, Eric Ganz"
+    },
     "luma_2026_08_13_nyc_creative_ai_august_forum_formerly_comfyui_nyc": {
       "title": "NYC Creative AI August Forum (formerly ComfyUI NYC)",
       "type": "tech",
@@ -1337,6 +1286,74 @@
       "link": "https://luma.com/nw9z51dh",
       "map": "https://maps.google.com/?q=ZeroSpace%20NYC",
       "summary": "Luma NYC: NYC Creative AI, Eric Tang, Xuelong Mu, Sahar Mor (Bond AI)"
+    },
+    "luma_2026_08_14_agentic_security_inaugural_meetup": {
+      "title": "Agentic Security - Inaugural meetup",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-08-14",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Fri, 08/14 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/hraj0z1o",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Agentic Security NYC, Nyah Check, Sahar Mor (Bond AI)"
+    },
+    "luma_2026_08_15_sprint_review_2_walk_or_run_summer_streets": {
+      "title": "🚶☀️ Sprint Review #2: Walk or Run Summer Streets 🌳🏃",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Sat",
+      "date": "2026-08-15",
+      "time": "12:30 PM",
+      "sort": 12.5,
+      "when": "Sat, 08/15 · 12:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Madison Square Park",
+      "source": "Luma NYC",
+      "link": "https://luma.com/ijhs4ugg",
+      "map": "https://maps.google.com/?q=Madison%20Square%20Park%20NYC",
+      "summary": "Luma NYC: Brooklyn Product Design, Brian Hui, José Arias, Rahul Alexander"
+    },
+    "luma_2026_08_15_robotics_hackathon": {
+      "title": "Robotics Hackathon",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sat",
+      "date": "2026-08-15",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Sat, 08/15 · 1pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/caxc4ftw",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Modal, Mark Grinev, Jonathan Chang, Matt zebert, Monishee at Modal, Garrett Skrovina"
+    },
+    "luma_2026_08_15_the_free_software_foundation_what_freedom_in_softwar": {
+      "title": "The Free Software Foundation: What Freedom in Software Means to You",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sat",
+      "date": "2026-08-15",
+      "time": "11 PM",
+      "sort": 23,
+      "when": "Sat, 08/15 · 11pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/5tqac51t",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Freedom Lab NYC, Harrison Friedes, Heshan, Jeffrey Silva"
     },
     "nyu_tandon_2026_08_20_engineered_design_of_mucus_penetration_nanoparticles": {
       "title": "“Engineered design of mucus penetration nanoparticles for inhalable vaccines”",
@@ -1355,39 +1372,39 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
-    "jc_culture_10003563_2026_08_12_hamilton_park_farmers_market_2026": {
-      "title": "Hamilton Park Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Wed",
-      "date": "2026-08-12",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Wed, 08/12 · 4pm",
+    "nyu_tandon_2026_09_25_ai_applications_in_urban_transportation_management_s": {
+      "title": "AI Applications in Urban Transportation Management Symposium",
+      "type": "tech",
+      "label": "Conference / Symposium",
+      "day": "Fri",
+      "date": "2026-09-25",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Fri, 09/25 · All Day",
       "price": "Free / varies",
       "free": true,
-      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-08-12/",
-      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/25/ai-applications-urban-transportation-management-symposium",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Conference / Symposium"
     },
-    "jc_culture_42912_2026_08_12_drum_workshop_with_sabin_riccio": {
-      "title": "Drum Workshop with Sabin Riccio",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Wed",
-      "date": "2026-08-12",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Wed, 08/12 · 4pm",
-      "price": "$5",
-      "free": false,
-      "place": "844 & 846 Newark Ave Jersey City, NJ 07306, 844 & 846 Newark Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/drum-workshop-with-sabin-riccio/",
-      "map": "https://maps.google.com/?q=844%20%26%20846%20Newark%20Ave%20Jersey%20City%2C%20NJ%2007306%2C%20844%20%26%20846%20Newark%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us on Wednesday, August 12th from 4-5 PM for a drum workshop from our very own staff member, Sabin Riccio! Sabin Riccio is an emerging drummer with 13 years of experience. He will be at Surati Studios sharing his wisdom of drumming! This event is open to all ages and skill levels. To participate, you do not need to bring any equipment with you, just yourself and an eager mindset to learn! Sabin will be bringing in a drum kit for his attendees to learn on. Please be sure to fill out each question to the best of your abilities. This form must be filled out for each person attending. We look forward to seeing you there!"
+    "nyu_tandon_2026_09_25_from_risk_maps_to_resilience_investments_making_clim": {
+      "title": "From Risk Maps to Resilience Investments: Making Climate AI Decision-Ready",
+      "type": "tech",
+      "label": "Lecture / Panel,",
+      "day": "Fri",
+      "date": "2026-09-25",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Fri, 09/25 · 1:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/25/risk-maps-resilience-investments-making-climate-ai-decision-ready",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel,"
     },
     "jc_culture_42745_2026_08_13_south_korea_flag_raising_ceremony_2026": {
       "title": "South Korea Flag Raising Ceremony 2026",
@@ -1915,6 +1932,40 @@
       "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-12/",
       "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
       "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
+    },
+    "jc_culture_10004819_2026_09_13_the_society_of_american_graphic_artists_saga_91st_an": {
+      "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sun",
+      "date": "2026-09-13",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sun, 09/13 · 12pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "MANA CONTEMPORARY, 888 NEWARK AVE., JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-13/",
+      "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
+      "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
+    },
+    "jc_culture_38244_2026_09_13_repair_cafe_2026": {
+      "title": "Repair Cafe 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sun",
+      "date": "2026-09-13",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Sun, 09/13 · 1pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Grace Church Van Vorst, 39 Erie Street, Jersey City",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/repair-cafe-2026-2/",
+      "map": "https://maps.google.com/?q=Grace%20Church%20Van%20Vorst%2C%2039%20Erie%20Street%2C%20Jersey%20City",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
     }
   },
   "clusters": {
@@ -1926,10 +1977,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_08_12_6_pm": [
-      "gary_2026_08_12_quantum_computing_meetup",
-      "gary_2026_08_12_what_happens_to_humanity_when_everything_becomes_int"
     ],
     "cluster_2026_08_13_6_pm": [
       "gary_2026_08_13_creative_ai_forum",
@@ -1956,13 +2003,30 @@
       "gary_2026_08_19_seed_series_a_founder_happy_hour_building_teams_that",
       "jc_culture_42565_2026_08_19_true_colors_carried_on_a_pride_gathering_on_grief_an"
     ],
+    "cluster_2026_08_20_6_pm": [
+      "gary_2026_08_20_the_builder_series_founder_investor_operator_nights",
+      "gary_2026_08_20_pmai_stronger_together_find_your_co_founder"
+    ],
+    "cluster_2026_08_20_6_30_pm": [
+      "gary_2026_08_20_ai_marketing_salon",
+      "gary_2026_08_20_a_chief_of_staff_mixer_on_relationships"
+    ],
     "cluster_2026_08_22_9_am": [
       "gary_2026_08_22_the_great_founder_river_float_of_2026",
       "gary_2026_08_22_dell_x_nvidia_hackathon"
     ],
-    "cluster_2026_08_12_4_pm": [
-      "jc_culture_10003563_2026_08_12_hamilton_park_farmers_market_2026",
-      "jc_culture_42912_2026_08_12_drum_workshop_with_sabin_riccio"
+    "cluster_2026_08_24_6_pm": [
+      "gary_2026_08_24_ai_what_makes_us_human",
+      "gary_2026_08_24_the_shortlist_august_founder_showcase"
+    ],
+    "cluster_2026_08_25_6_pm": [
+      "gary_2026_08_25_kubernetes_developers_meetup",
+      "gary_2026_08_25_building_an_ai_agent_native_marketing_org",
+      "gary_2026_08_25_tech_x_market_decoders"
+    ],
+    "cluster_2026_08_13_10_pm": [
+      "luma_2026_08_13_five_iron_w_valon_gtm",
+      "luma_2026_08_13_nyc_creative_ai_august_forum_formerly_comfyui_nyc"
     ],
     "cluster_2026_08_27_6_30_pm": [
       "jc_culture_38073_2026_08_27_berry_lane_music_fest_2026_marlena_moniece",
