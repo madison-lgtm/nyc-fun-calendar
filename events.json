@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 14, 2026, 7:37 AM EDT",
+    "checked": "Aug 14, 2026, 4:04 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1335,7 +1335,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/xubhvun/Building-an-AI-Agent-Native-Marketing-Org",
       "map": "https://maps.google.com/?q=Nasdaq%20MarketSite%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Join us for an evening at Nasdaq, where we'll discuss what it takes for marketers at large enterprises to rebuild their business around AI agents. Some of the most-watched companies in the world have already retooled their marketing & customer engagement teams around agents. Our panel will get into the skills an agent-powered 10x marketer actually needs, how to structure teams to support them, & what companies get wrong before they get it right. There will be an open bar with light bites & networking before & after the panel. WHO SHOULD ATTEND: Marketing, growth, & customer experience leaders who are rethinking how their teams work in the age of AI, & the operators building the next generation of AI agent-native organizations. RSVP required due to space constraints"
+      "summary": "Gary's Guide: Join us for an evening at Nasdaq on the shift senior marketers are facing: what it actually takes to rebuild your business around AI agents. Some of the most-watched companies in the world have already retooled their marketing & customer engagement teams around agents. Our panel will get into the skills an agent-powered 10x marketer actually needs, how to structure the team around them, & what companies get wrong before they get it right. There will be an open bar with light bites & networking before & after the panel. Panelists: Ajinkya (Jinx) Joglekar - CMO, Optimum & ex-CMO Dish/Sling TV Puru Patnekar - Group Vice President Marketing Strategy & Performance, Charter Communications Indy Guha - General Partner, VMG Partners Sandeep Menon - CEO, Auxia & former VP, Marketing at Google Who should attend: Marketing, growth, & customer experience leaders who are rethinking how their teams work in the age of AI, & the operators building the next generation of AI agent-native organizations. Agenda: 6:00 - 6:30: Drinks & Networking 6:30 - 6:45: Opening Remarks 6:45 - 7:15: CMO Panel Discussion 7:15 - 8:00: Drinks & Networking"
     },
     "gary_2026_08_25_tech_x_market_decoders": {
       "title": "Tech x Market Decoders",
@@ -1456,23 +1456,6 @@
       "map": "https://maps.google.com/?q=Madison%20Square%20Park%20NYC",
       "summary": "Luma NYC: Brooklyn Product Design, Brian Hui, José Arias, Rahul Alexander"
     },
-    "luma_2026_08_15_robotics_hackathon": {
-      "title": "Robotics Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-08-15",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 08/15 · 1pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/caxc4ftw",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Modal, Mark Grinev, Jonathan Chang, Matt zebert, Monishee at Modal, Garrett Skrovina"
-    },
     "luma_2026_08_15_the_free_software_foundation_what_freedom_in_softwar": {
       "title": "The Free Software Foundation: What Freedom in Software Means to You",
       "type": "tech",
@@ -1506,6 +1489,23 @@
       "link": "https://luma.com/eajuy1bm",
       "map": "https://maps.google.com/?q=BrainStation%20NYC",
       "summary": "Luma NYC: Brooklyn Product Design, Brian Hui, Collin Hadley, José Arias"
+    },
+    "luma_2026_08_18_claude_code_workshop_new_york_city": {
+      "title": "Claude Code Workshop - New York City",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-08-18",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Tue, 08/18 · 5pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/claude-code-workshop-nyc-aug-18",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Claude Workshops, Build with Claude, Provectus"
     },
     "nyu_tandon_2026_08_20_engineered_design_of_mucus_penetration_nanoparticles": {
       "title": "“Engineered design of mucus penetration nanoparticles for inhalable vaccines”",
@@ -1557,6 +1557,23 @@
       "link": "https://engineering.nyu.edu/events/2026/09/25/risk-maps-resilience-investments-making-climate-ai-decision-ready",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel,"
+    },
+    "jc_culture_43105_2026_08_14_pakistan_flag_raising_ceremony_2026": {
+      "title": "Pakistan Flag Raising Ceremony 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-08-14",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Fri, 08/14 · 11am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/pakistan-flag-raising-ceremony-2026/",
+      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
+      "summary": "&nbsp;"
     },
     "jc_culture_42738_2026_08_14_movies_in_the_park_2026_tron_ares": {
       "title": "Movies in the Park 2026 / Tron Ares",
@@ -2126,8 +2143,7 @@
     ],
     "cluster_2026_08_15_1_pm": [
       "skint_90038_5_brooklyn_bound_vintage_s_two_year_anniversary_pop_up",
-      "skint_90038_6_the_annual_blues_bbq_music_food_festival",
-      "luma_2026_08_15_robotics_hackathon"
+      "skint_90038_6_the_annual_blues_bbq_music_food_festival"
     ],
     "cluster_2026_08_15_11_am": [
       "skint_90038_8_alfargo_s_marketplace_menswear_pop_up_market",
@@ -2146,6 +2162,10 @@
       "gary_2026_08_13_ai_founder_playbook_prove_your_roadmap_actually_roll",
       "gary_2026_08_13_how_to_talk_to_people_strangers_investors_customers_",
       "gary_2026_08_13_langchain_meetup_llm_wikis_managing_agent_context"
+    ],
+    "cluster_2026_08_18_5_pm": [
+      "gary_2026_08_18_ai_demo_night",
+      "luma_2026_08_18_claude_code_workshop_new_york_city"
     ],
     "cluster_2026_08_19_5_pm": [
       "gary_2026_08_19_workshop_wednesday_ai_tools_for_startup_growth",
