@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 15, 2026, 7:11 AM EDT",
+    "checked": "Aug 15, 2026, 3:47 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -245,7 +245,6 @@
       "11 AM",
       "11:30 AM",
       "12 PM",
-      "12:30 PM",
       "1 PM",
       "1:30 PM",
       "2 PM",
@@ -1422,23 +1421,6 @@
       "map": "https://maps.google.com/?q=Time%20Out%20Market%20Union%20Sq%2C%20124%20E%2014th%20St",
       "summary": "Gary's Guide: With Startup Grind."
     },
-    "luma_2026_08_15_sprint_review_2_walk_or_run_summer_streets": {
-      "title": "🚶☀️ Sprint Review #2: Walk or Run Summer Streets 🌳🏃",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sat",
-      "date": "2026-08-15",
-      "time": "12:30 PM",
-      "sort": 12.5,
-      "when": "Sat, 08/15 · 12:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Madison Square Park",
-      "source": "Luma NYC",
-      "link": "https://luma.com/ijhs4ugg",
-      "map": "https://maps.google.com/?q=Madison%20Square%20Park%20NYC",
-      "summary": "Luma NYC: Brooklyn Product Design, Brian Hui, José Arias, Rahul Alexander"
-    },
     "luma_2026_08_15_the_free_software_foundation_what_freedom_in_softwar": {
       "title": "The Free Software Foundation: What Freedom in Software Means to You",
       "type": "tech",
@@ -1489,6 +1471,23 @@
       "link": "https://luma.com/claude-code-workshop-nyc-aug-18",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Claude Workshops, Build with Claude, Provectus"
+    },
+    "luma_2026_08_18_founder_s_table_nyc": {
+      "title": "Founder's Table NYC",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-08-18",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Tue, 08/18 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "Virgin Hotels New York City",
+      "source": "Luma NYC",
+      "link": "https://luma.com/tavern-lac0",
+      "map": "https://maps.google.com/?q=Virgin%20Hotels%20New%20York%20City%20NYC",
+      "summary": "Luma NYC: Tavern Community Coworking, Benji Schwartz"
     },
     "luma_2026_08_19_junto_founder_dinner_hosted_by_andrew_friends": {
       "title": "Junto Founder Dinner (Hosted by Andrew & Friends)",
