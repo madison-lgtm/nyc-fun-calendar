@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 16, 2026, 7:11 AM EDT",
+    "checked": "Aug 16, 2026, 3:46 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1504,6 +1504,23 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung, Henrik Werdelin"
     },
+    "luma_2026_08_20_nyc_claude_content_creation_with_thevibefounder_mika": {
+      "title": "NYC | Claude Content Creation with TheVibeFounder & Mika Reyes",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-08-20",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Thu, 08/20 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/claude-content-workshop",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Claude Community Events, Mika, Aj Yadav"
+    },
     "luma_2026_08_20_open_models_nyc_together_ai_openrouter": {
       "title": "Open Models NYC | Together AI × OpenRouter",
       "type": "tech",
@@ -1572,8 +1589,8 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel,"
     },
-    "jc_culture_38059_2026_08_16_jc_summerfest_2026_marel_hidalgo_jamaican_jazz_quint": {
-      "title": "JC Summerfest 2026 / Marel Hidalgo Jamaican Jazz Quintet",
+    "jc_culture_38059_2026_08_16_moved_to_train_terminal_jc_summerfest_2026_marel_hid": {
+      "title": "MOVED TO TRAIN TERMINAL/ JC Summerfest 2026 / Marel Hidalgo Jamaican Jazz Quintet",
       "type": "entertainment",
       "label": "Music / Movies",
       "day": "Sun",
@@ -1587,7 +1604,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/jc-summerfest-2026-marel-hildago-jamaican-jazz-quintet/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "&nbsp; JC Summerfest featuring Marel Hildago Jamaican Jazz Quintet North Cove Field Liberty State Park 6pm-8pm"
+      "summary": "&nbsp; JC Summerfest featuring Marel Hildago Jamaican Jazz Quintet Location has changed to Train Terminal. 6pm-8pm"
     },
     "jc_culture_42715_2026_08_17_india_flag_raising_ceremony_2026": {
       "title": "India Flag Raising Ceremony 2026",
@@ -2165,6 +2182,10 @@
       "gary_2026_08_25_kubernetes_developers_meetup",
       "gary_2026_08_25_building_an_ai_agent_native_marketing_org",
       "gary_2026_08_25_tech_x_market_decoders_this_week_s_topic_anthropic_s"
+    ],
+    "cluster_2026_08_20_10_pm": [
+      "luma_2026_08_20_nyc_claude_content_creation_with_thevibefounder_mika",
+      "luma_2026_08_20_open_models_nyc_together_ai_openrouter"
     ],
     "cluster_2026_08_27_6_30_pm": [
       "jc_culture_38073_2026_08_27_berry_lane_music_fest_2026_marlena_moniece",
