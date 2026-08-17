@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 16, 2026, 3:46 PM EDT",
+    "checked": "Aug 17, 2026, 7:17 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-16",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Aug 16"
-      },
       {
         "iso": "2026-08-17",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Aug 22"
+      },
+      {
+        "iso": "2026-08-23",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Aug 23"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-16",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Aug 16"
-      },
       {
         "iso": "2026-08-17",
         "key": "Mon",
@@ -233,20 +227,24 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Sep 15"
+      },
+      {
+        "iso": "2026-09-16",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Sep 16"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
       "8 AM",
       "8:30 AM",
       "9 AM",
       "10 AM",
       "10:45 AM",
-      "11 AM",
       "11:30 AM",
       "12 PM",
       "1 PM",
-      "1:30 PM",
       "2 PM",
       "2:30 PM",
       "3 PM",
@@ -257,6 +255,7 @@
       "6 PM",
       "6:30 PM",
       "7 PM",
+      "8 PM",
       "8:30 PM",
       "10 PM",
       "10:30 PM"
@@ -450,160 +449,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_90038_0_bookstore_romance_day": {
-      "title": "bookstore romance day",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-15",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 08/15 · 10am-10pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "greenlight bookstore (fort greene)",
-      "source": "The Skint",
-      "link": "https://greenlightbookstore.com/event/2026-08-15/bookstore-romance-day",
-      "map": "https://maps.google.com/?q=greenlight%20bookstore%20(fort%20greene)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-10pm: bookstore romance day: greenlight bookstore (fort greene)."
-    },
-    "skint_90038_1_night_owl_video_s_physical_media_artisan_market": {
-      "title": "night owl video’s physical media + artisan market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-15",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 08/15 · 12-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "at the grand street block party (williamsburg)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/p/Db3Fn9WunlL/",
-      "map": "https://maps.google.com/?q=at%20the%20grand%20street%20block%20party%20(williamsburg)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-5pm: night owl video’s physical media + artisan market: at the grand street block party (williamsburg)."
-    },
-    "skint_90038_2_the_annual_big_aussie_bbq": {
-      "title": "the annual big aussie bbq",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-15",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 08/15 · 12-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "rockefeller park (battery park city)",
-      "source": "The Skint",
-      "link": "https://bigaussiebbq.com",
-      "map": "https://maps.google.com/?q=rockefeller%20park%20(battery%20park%20city)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-5pm: the annual big aussie bbq: rockefeller park (battery park city). rsvp required."
-    },
-    "skint_90038_3_bomb_s_annual_small_press_flea": {
-      "title": "bomb‘s annual small press flea",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-15",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 08/15 · 12-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "amant (east williamsburg)",
-      "source": "The Skint",
-      "link": "https://bombmagazine.org/events",
-      "map": "https://maps.google.com/?q=amant%20(east%20williamsburg)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-6pm: bomb‘s annual small press flea: amant (east williamsburg)."
-    },
-    "skint_90038_4_pasar_malam_new_york_taste_of_merdeka_indonesian_cul": {
-      "title": "pasar malam new york: taste of merdeka indonesian cultural and culinary festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-15",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 08/15 · 12-9pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "culture lab (lic)",
-      "source": "The Skint",
-      "link": "https://pasarmalamny.wixsite.com/pasar-malam-new-york/event-details/taste-of-merdeka-2026",
-      "map": "https://maps.google.com/?q=culture%20lab%20(lic)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-9pm: pasar malam new york: taste of merdeka indonesian cultural and culinary festival: culture lab (lic)."
-    },
-    "skint_90038_5_brooklyn_bound_vintage_s_two_year_anniversary_pop_up": {
-      "title": "brooklyn bound vintage’s two-year anniversary pop-up market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-15",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 08/15 · 1-6pm",
-      "price": "$5",
-      "free": false,
-      "place": "erf gallery (east williamsburg)",
-      "source": "The Skint",
-      "link": "https://posh.vip/e/222-years-of-brooklyn-bound",
-      "map": "https://maps.google.com/?q=erf%20gallery%20(east%20williamsburg)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 1-6pm: brooklyn bound vintage’s two-year anniversary pop-up market: erf gallery (east williamsburg). $5 early bird admission 1-2pm, free admission 2-6pm."
-    },
-    "skint_90038_6_the_annual_blues_bbq_music_food_festival": {
-      "title": "the annual blues bbq music + food festival",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sat",
-      "date": "2026-08-15",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 08/15 · 1-9pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "pier 76 (midtown west)",
-      "source": "The Skint",
-      "link": "https://hudsonriverpark.org/visit/events/event/blues-bbq-festival-2025/",
-      "map": "https://maps.google.com/?q=pier%2076%20(midtown%20west)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 1-9pm: the annual blues bbq music + food festival: pier 76 (midtown west)."
-    },
-    "skint_90038_7_66th_annual_jersey_city_puerto_rican_parade_festival": {
-      "title": "66th annual jersey city puerto rican parade + festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-15",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 08/15 · + sun",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "festival is on christopher columbus dr between marin blvd + warren st (sat + sun 12-10pm); parade kicks off from lincoln park (sun 10pm)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/p/Db00tY8IAWC/?hl=en&img_index=1",
-      "map": "https://maps.google.com/?q=festival%20is%20on%20christopher%20columbus%20dr%20between%20marin%20blvd%20%2B%20warren%20st%20(sat%20%2B%20sun%2012-10pm)%3B%20parade%20kicks%20off%20from%20lincoln%20park%20(sun%2010pm)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun: 66th annual jersey city puerto rican parade + festival: festival is on christopher columbus dr between marin blvd + warren st (sat + sun 12-10pm); parade kicks off from lincoln park (sun 10pm)."
-    },
-    "skint_90038_8_alfargo_s_marketplace_menswear_pop_up_market": {
-      "title": "alfargo’s marketplace menswear pop-up market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-15",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 08/15 · + sun 11am-6pm (+ 9/12-13)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "seaport square, pier 17",
-      "source": "The Skint",
-      "link": "https://theseaport.nyc/events/market/",
-      "map": "https://maps.google.com/?q=seaport%20square%2C%20pier%2017%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun 11am-6pm (+ 9/12-13): alfargo’s marketplace menswear pop-up market: seaport square, pier 17."
-    },
-    "skint_90038_9_44th_india_day_parade_and_festival": {
+    "skint_90038_0_44th_india_day_parade_and_festival": {
       "title": "44th india day parade and festival",
       "type": "market",
       "label": "Festival / Market",
@@ -620,7 +466,7 @@
       "map": "https://maps.google.com/?q=parade%3A%20madison%20ave%20from%20e%2038th%20to%20e%2027th%20st%3B%20food%20fest%2C%20booths%2C%20and%20cultural%20programs%3A%20madison%20ave%20from%20e%2024th%20to%20e%2025th%20st%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: 44th india day parade and festival: parade: madison ave from e 38th to e 27th st; food fest, booths, and cultural programs: madison ave from e 24th to e 25th st."
     },
-    "skint_90038_10_free_art_book_fair_at_the_flag_art_foundation": {
+    "skint_90038_1_free_art_book_fair_at_the_flag_art_foundation": {
       "title": "free art book fair at the flag art foundation",
       "type": "market",
       "label": "Festival / Market",
@@ -637,7 +483,7 @@
       "map": "https://maps.google.com/?q=chelsea%20arts%20tower%2C%2010th%20floor%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon thru weds: free art book fair at the flag art foundation: chelsea arts tower, 10th floor."
     },
-    "skint_90038_11_us_open_free_ice_cream_truck": {
+    "skint_90038_2_us_open_free_ice_cream_truck": {
       "title": "us open free ice cream truck",
       "type": "market",
       "label": "Festival / Market",
@@ -653,40 +499,6 @@
       "link": "https://www.facebook.com/usopentennis/posts/the-first-ever-us-open-ice-cream-truck-is-coming-to-a-park-near-you-the-ice-crea/1601599544670612/",
       "map": "https://maps.google.com/?q=bronx%20(mon)%2C%20manhattan%20(tues)%2C%20brooklyn%20(weds)%2C%20staten%20island%20(thurs)%2C%20queens%20(fri)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon thru fri: us open free ice cream truck: bronx (mon), manhattan (tues), brooklyn (weds), staten island (thurs), queens (fri)."
-    },
-    "gary_2026_08_16_ship_like_a_baddie_vibe_code_a_startup_ship_it_in_5_": {
-      "title": "Ship Like A Baddie - Vibe Code A Startup & Ship It In 5 Hours",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-08-16",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 08/16 · 12:00pm",
-      "price": "$30",
-      "free": false,
-      "place": "Cre8ive NYC, 134 W 29th St, 2nd Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/yx1lv6p/Ship-Like-A-Baddie-Vibe-Code-A-Startup-Ship-It-In-5-Hours",
-      "map": "https://maps.google.com/?q=Cre8ive%20NYC%2C%20134%20W%2029th%20St%2C%202nd%20Fl",
-      "summary": "Gary's Guide: With Alisha Outridge (Founder, AIFounderPlaybook)."
-    },
-    "gary_2026_08_16_investor_founder_series_soho_loft_brazilian_lunch": {
-      "title": "Investor & Founder Series - Soho Loft Brazilian Lunch",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sun",
-      "date": "2026-08-16",
-      "time": "1:30 PM",
-      "sort": 13.5,
-      "when": "Sun, 08/16 · 1:30pm",
-      "price": "Varies",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/6mcs2n5/Investor-Founder-Series-Soho-Loft-Brazilian-Lunch",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Francesca Poupel (F&G Capital Partners), Jay Spindel (SOJA Ventures & INTE Securities)."
     },
     "gary_2026_08_18_tech_x_market_decoders": {
       "title": "Tech x Market Decoders",
@@ -805,7 +617,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/o5i6stj/Grow-NY-2026",
       "map": "https://maps.google.com/?q=Center415%2C%20415%20Fifth%20Ave",
-      "summary": "Gary's Guide: With Michelle Carrara (VP Growth & Analytics, Boll & Branch), Samuel Sternberg (Chief Growth Officer, Jomashop), Cody Plofker (CMO, Jones Road Beauty), Jacqs Carroll (Dir., Digital, Reebok | GUESS | Lucky Brand), Mike Jacobs (Chief Growth Officer, Jonathan Adler | Draper James | Outdoor Voices), Danny Hershey (Growth Mktg, Shinesty), Suzie Waller (Dir., Growth Mktg, Peloton), Harry Roth (Dir., eCommerce, CRO & Customer Journeys, AS Beauty Group), Mike McGee (Dir. - Stores & Ops, Mugsy, George Kelly (E-com, Retail Mktg Dir., Vintage Tub & Bath)."
+      "summary": "Gary's Guide: With Samuel Sternberg (Chief Growth Officer, Jomashop), Cody Plofker (CMO, Jones Road Beauty), Michelle Carrara (VP Growth, Boll & Branch), Jacqs Carroll (Dir. Digital, Reebok), Danny Hershey (Growth Mktg, Shinesty), Suzie Waller (Dir. Growth Mktg, Peloton)."
     },
     "gary_2026_08_19_ai_x_gtm_meetup": {
       "title": "AI x GTM Meetup",
@@ -1419,6 +1231,40 @@
       "map": "https://maps.google.com/?q=Sugar%20Mouse%2C%2047%203rd%20Ave",
       "summary": "Gary's Guide: Drinks, games, & a chance to hang with engineering peers from across the city. Every month, we bring together NYC's top AI & product engineers for a low-key night out. Drinks are on us, & the pool, ping-pong, foosball, shuffleboard, & arcade games are all fair game. No panels. No pitches. Just a good time with people building cool stuff. About the host: Fonzi is a recruiting platform focused exclusively on product & AI engineering hires in NYC & SF. We manage 75+ open roles at some of the best startups in the country, including hiring partners like Suno, Graphite, Tennr, FLORA, OpenRouter, & more Hiring? Want intros to startups?"
     },
+    "gary_2026_08_27_gtm_leaders_vol_1_breaking_through_the_ai_slop": {
+      "title": "GTM Leaders, Vol. 1 - Breaking Through The AI Slop",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-08-27",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 08/27 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/i0pe3ol/GTM-Leaders-Vol-1-Breaking-Through-The-AI-Slop",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Tanny Kang (COO, Vibranium Labs), Josh Kim (Chief of GTM & Growth, Remy by MindStudio), Eric Fleshman (GTM Enggr, Kizen)."
+    },
+    "gary_2026_08_27_ai_vs_human_roast_battle": {
+      "title": "AI vs Human Roast Battle",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-08-27",
+      "time": "8 PM",
+      "sort": 20,
+      "when": "Thu, 08/27 · 8:00pm",
+      "price": "$10",
+      "free": false,
+      "place": "Pine Box Rock Shop, 12 Grattan St, Brooklyn",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/b0oe4gd/AI-vs-Human-Roast-Battle",
+      "map": "https://maps.google.com/?q=Pine%20Box%20Rock%20Shop%2C%2012%20Grattan%20St%2C%20Brooklyn",
+      "summary": "Gary's Guide: With Harmon Leon (HBO Max, This American Life)."
+    },
     "luma_2026_08_17_august_design_talks_with_daniela_ocana_and_arix_king": {
       "title": "☀️🧑‍🏫 August Design Talks with Daniela Ocana and Arix King 🤓🗽",
       "type": "startup",
@@ -1588,23 +1434,6 @@
       "link": "https://engineering.nyu.edu/events/2026/09/25/risk-maps-resilience-investments-making-climate-ai-decision-ready",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel,"
-    },
-    "jc_culture_38059_2026_08_16_moved_to_train_terminal_jc_summerfest_2026_marel_hid": {
-      "title": "MOVED TO TRAIN TERMINAL/ JC Summerfest 2026 / Marel Hidalgo Jamaican Jazz Quintet",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sun",
-      "date": "2026-08-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sun, 08/16 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Liberty State Park, North Cove",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jc-summerfest-2026-marel-hildago-jamaican-jazz-quintet/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "&nbsp; JC Summerfest featuring Marel Hildago Jamaican Jazz Quintet Location has changed to Train Terminal. 6pm-8pm"
     },
     "jc_culture_42715_2026_08_17_india_flag_raising_ceremony_2026": {
       "title": "India Flag Raising Ceremony 2026",
@@ -2098,6 +1927,23 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-09-16/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_42957_2026_09_17_post_card_memories_ellis_island_2026": {
+      "title": "Post Card Memories Ellis Island 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-09-17",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Thu, 09/17 · 10am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ELLIS ISLAND",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/post-card-memories-ellis-island-2026/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community."
     }
   },
   "clusters": {
@@ -2110,27 +1956,9 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_08_15_10_am": [
-      "skint_90038_0_bookstore_romance_day",
-      "skint_90038_7_66th_annual_jersey_city_puerto_rican_parade_festival"
-    ],
-    "cluster_2026_08_15_12_pm": [
-      "skint_90038_1_night_owl_video_s_physical_media_artisan_market",
-      "skint_90038_2_the_annual_big_aussie_bbq",
-      "skint_90038_3_bomb_s_annual_small_press_flea",
-      "skint_90038_4_pasar_malam_new_york_taste_of_merdeka_indonesian_cul"
-    ],
-    "cluster_2026_08_15_1_pm": [
-      "skint_90038_5_brooklyn_bound_vintage_s_two_year_anniversary_pop_up",
-      "skint_90038_6_the_annual_blues_bbq_music_food_festival"
-    ],
-    "cluster_2026_08_16_12_pm": [
-      "skint_90038_9_44th_india_day_parade_and_festival",
-      "gary_2026_08_16_ship_like_a_baddie_vibe_code_a_startup_ship_it_in_5_"
-    ],
     "cluster_2026_08_17_10_am": [
-      "skint_90038_10_free_art_book_fair_at_the_flag_art_foundation",
-      "skint_90038_11_us_open_free_ice_cream_truck"
+      "skint_90038_1_free_art_book_fair_at_the_flag_art_foundation",
+      "skint_90038_2_us_open_free_ice_cream_truck"
     ],
     "cluster_2026_08_18_5_pm": [
       "gary_2026_08_18_ai_demo_night",
@@ -2183,13 +2011,14 @@
       "gary_2026_08_25_building_an_ai_agent_native_marketing_org",
       "gary_2026_08_25_tech_x_market_decoders_this_week_s_topic_anthropic_s"
     ],
+    "cluster_2026_08_27_6_30_pm": [
+      "gary_2026_08_27_gtm_leaders_vol_1_breaking_through_the_ai_slop",
+      "jc_culture_38073_2026_08_27_berry_lane_music_fest_2026_marlena_moniece",
+      "jc_culture_42396_2026_08_27_berry_lane_music_fest_2026_demolition_brass_band"
+    ],
     "cluster_2026_08_20_10_pm": [
       "luma_2026_08_20_nyc_claude_content_creation_with_thevibefounder_mika",
       "luma_2026_08_20_open_models_nyc_together_ai_openrouter"
-    ],
-    "cluster_2026_08_27_6_30_pm": [
-      "jc_culture_38073_2026_08_27_berry_lane_music_fest_2026_marlena_moniece",
-      "jc_culture_42396_2026_08_27_berry_lane_music_fest_2026_demolition_brass_band"
     ]
   }
 }
