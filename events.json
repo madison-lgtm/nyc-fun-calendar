@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 18, 2026, 7:16 AM EDT",
+    "checked": "Aug 18, 2026, 3:50 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1485,39 +1485,39 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
-    "nyu_tandon_2026_09_25_ai_applications_in_urban_transportation_management_s": {
-      "title": "AI Applications in Urban Transportation Management Symposium",
+    "nyu_tandon_2026_09_01_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
       "type": "tech",
-      "label": "Conference / Symposium",
-      "day": "Fri",
-      "date": "2026-09-25",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 09/25 · All Day",
+      "label": "Workshop / Training",
+      "day": "Tue",
+      "date": "2026-09-01",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Tue, 09/01 · 11:00 AM",
       "price": "Free / varies",
       "free": true,
       "place": "NYU Tandon / Online",
       "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/09/25/ai-applications-urban-transportation-management-symposium",
+      "link": "https://engineering.nyu.edu/events/2026/09/01/instructional-tech-drop-sessions",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Conference / Symposium"
+      "summary": "NYU Tandon: Workshop / Training"
     },
-    "nyu_tandon_2026_09_25_from_risk_maps_to_resilience_investments_making_clim": {
-      "title": "From Risk Maps to Resilience Investments: Making Climate AI Decision-Ready",
+    "nyu_tandon_2026_09_02_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
       "type": "tech",
-      "label": "Lecture / Panel,",
-      "day": "Fri",
-      "date": "2026-09-25",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Fri, 09/25 · 1:00 PM",
+      "label": "Workshop / Training",
+      "day": "Wed",
+      "date": "2026-09-02",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Wed, 09/02 · 11:00 AM",
       "price": "Free / varies",
       "free": true,
       "place": "NYU Tandon / Online",
       "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/09/25/risk-maps-resilience-investments-making-climate-ai-decision-ready",
+      "link": "https://engineering.nyu.edu/events/2026/09/02/instructional-tech-drop-sessions",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel,"
+      "summary": "NYU Tandon: Workshop / Training"
     },
     "jc_culture_38065_2026_08_18_jersey_city_summerfest_2026_wilma_ann": {
       "title": "Jersey City Summerfest 2026 / Wilma Ann",
