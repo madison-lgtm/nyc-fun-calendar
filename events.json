@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 17, 2026, 3:52 PM EDT",
+    "checked": "Aug 18, 2026, 7:16 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-17",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Aug 17"
-      },
       {
         "iso": "2026-08-18",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Aug 23"
+      },
+      {
+        "iso": "2026-08-24",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Aug 24"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-17",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Aug 17"
-      },
       {
         "iso": "2026-08-18",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Sep 16"
+      },
+      {
+        "iso": "2026-09-17",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Sep 17"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "8 AM",
       "8:30 AM",
@@ -249,7 +249,6 @@
       "2 PM",
       "2:30 PM",
       "3 PM",
-      "3:30 PM",
       "4 PM",
       "5 PM",
       "5:30 PM",
@@ -258,8 +257,7 @@
       "7 PM",
       "8 PM",
       "8:30 PM",
-      "10 PM",
-      "10:30 PM"
+      "10 PM"
     ]
   },
   "events": {
@@ -450,24 +448,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_90038_0_44th_india_day_parade_and_festival": {
-      "title": "44th india day parade and festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-08-16",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 08/16 · 12-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "parade: madison ave from e 38th to e 27th st; food fest, booths, and cultural programs: madison ave from e 24th to e 25th st",
-      "source": "The Skint",
-      "link": "https://fianynjct.org",
-      "map": "https://maps.google.com/?q=parade%3A%20madison%20ave%20from%20e%2038th%20to%20e%2027th%20st%3B%20food%20fest%2C%20booths%2C%20and%20cultural%20programs%3A%20madison%20ave%20from%20e%2024th%20to%20e%2025th%20st%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: 44th india day parade and festival: parade: madison ave from e 38th to e 27th st; food fest, booths, and cultural programs: madison ave from e 24th to e 25th st."
-    },
-    "skint_90038_1_free_art_book_fair_at_the_flag_art_foundation": {
+    "skint_90038_0_free_art_book_fair_at_the_flag_art_foundation": {
       "title": "free art book fair at the flag art foundation",
       "type": "market",
       "label": "Festival / Market",
@@ -484,7 +465,7 @@
       "map": "https://maps.google.com/?q=chelsea%20arts%20tower%2C%2010th%20floor%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon thru weds: free art book fair at the flag art foundation: chelsea arts tower, 10th floor."
     },
-    "skint_90038_2_us_open_free_ice_cream_truck": {
+    "skint_90038_1_us_open_free_ice_cream_truck": {
       "title": "us open free ice cream truck",
       "type": "market",
       "label": "Festival / Market",
@@ -1266,23 +1247,6 @@
       "map": "https://maps.google.com/?q=Pine%20Box%20Rock%20Shop%2C%2012%20Grattan%20St%2C%20Brooklyn",
       "summary": "Gary's Guide: With Harmon Leon (HBO Max, This American Life)."
     },
-    "luma_2026_08_17_august_design_talks_with_daniela_ocana_and_arix_king": {
-      "title": "☀️🧑‍🏫 August Design Talks with Daniela Ocana and Arix King 🤓🗽",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-08-17",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Mon, 08/17 · 10:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "BrainStation",
-      "source": "Luma NYC",
-      "link": "https://luma.com/eajuy1bm",
-      "map": "https://maps.google.com/?q=BrainStation%20NYC",
-      "summary": "Luma NYC: Brooklyn Product Design, Brian Hui, Collin Hadley, José Arias"
-    },
     "luma_2026_08_18_claude_code_workshop_new_york_city": {
       "title": "Claude Code Workshop - New York City",
       "type": "tech",
@@ -1333,6 +1297,23 @@
       "link": "https://luma.com/juntodinneraug19",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung"
+    },
+    "luma_2026_08_19_no_sandbox_ai_agents_in_high_stakes_industries": {
+      "title": "No Sandbox: AI Agents in High-Stakes Industries",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-08-19",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Wed, 08/19 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/zdpgkshi",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Daniel Tian, Daniel Tian, Olivia Bastianich, Lindsay Amos, Charles Li, Brandon Arvanaghi"
     },
     "luma_2026_08_20_breakfast_q_a_w_henrik_werdelin_founder_barkbox_andr": {
       "title": "Breakfast + Q&A w/ Henrik Werdelin (Founder, BarkBox) & Andrew Yeung",
@@ -1537,23 +1518,6 @@
       "link": "https://engineering.nyu.edu/events/2026/09/25/risk-maps-resilience-investments-making-climate-ai-decision-ready",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel,"
-    },
-    "jc_culture_42715_2026_08_17_india_flag_raising_ceremony_2026": {
-      "title": "India Flag Raising Ceremony 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Mon",
-      "date": "2026-08-17",
-      "time": "3:30 PM",
-      "sort": 15.5,
-      "when": "Mon, 08/17 · 3:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/india-flag-raising-ceremony-2026/",
-      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
     },
     "jc_culture_38065_2026_08_18_jersey_city_summerfest_2026_wilma_ann": {
       "title": "Jersey City Summerfest 2026 / Wilma Ann",
@@ -2047,6 +2011,23 @@
       "link": "https://jerseycityculture.org/event/post-card-memories-ellis-island-2026/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community."
+    },
+    "jc_culture_10004820_2026_09_18_the_society_of_american_graphic_artists_saga_91st_an": {
+      "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-09-18",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Fri, 09/18 · 3pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "MANA CONTEMPORARY, 888 NEWARK AVE., JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-18/",
+      "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
+      "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
     }
   },
   "clusters": {
@@ -2060,8 +2041,8 @@
       "ted_rosenthal"
     ],
     "cluster_2026_08_17_10_am": [
-      "skint_90038_1_free_art_book_fair_at_the_flag_art_foundation",
-      "skint_90038_2_us_open_free_ice_cream_truck"
+      "skint_90038_0_free_art_book_fair_at_the_flag_art_foundation",
+      "skint_90038_1_us_open_free_ice_cream_truck"
     ],
     "cluster_2026_08_18_5_pm": [
       "gary_2026_08_18_ai_demo_night",
@@ -2118,6 +2099,10 @@
       "gary_2026_08_27_gtm_leaders_vol_1_breaking_through_the_ai_slop",
       "jc_culture_38073_2026_08_27_berry_lane_music_fest_2026_marlena_moniece",
       "jc_culture_42396_2026_08_27_berry_lane_music_fest_2026_demolition_brass_band"
+    ],
+    "cluster_2026_08_19_10_pm": [
+      "luma_2026_08_19_junto_founder_dinner_hosted_by_andrew_friends",
+      "luma_2026_08_19_no_sandbox_ai_agents_in_high_stakes_industries"
     ],
     "cluster_2026_08_20_10_pm": [
       "luma_2026_08_20_nyc_claude_content_creation_with_thevibefounder_mika",
