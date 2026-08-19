@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 18, 2026, 3:50 PM EDT",
+    "checked": "Aug 19, 2026, 7:16 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-18",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Aug 18"
-      },
       {
         "iso": "2026-08-19",
         "key": "Wed",
@@ -45,15 +39,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Aug 24"
+      },
+      {
+        "iso": "2026-08-25",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Aug 25"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-18",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Aug 18"
-      },
       {
         "iso": "2026-08-19",
         "key": "Wed",
@@ -233,9 +227,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Sep 17"
+      },
+      {
+        "iso": "2026-09-18",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Sep 18"
       }
     ],
-    "todayKey": "Tue",
+    "todayKey": "Wed",
     "times": [
       "8 AM",
       "8:30 AM",
@@ -447,40 +447,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "skint_90038_0_free_art_book_fair_at_the_flag_art_foundation": {
-      "title": "free art book fair at the flag art foundation",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Mon",
-      "date": "2026-08-17",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Mon, 08/17 · thru weds",
-      "price": "Free",
-      "free": true,
-      "place": "chelsea arts tower, 10th floor",
-      "source": "The Skint",
-      "link": "https://www.flagartfoundation.org/events/free-book-fair",
-      "map": "https://maps.google.com/?q=chelsea%20arts%20tower%2C%2010th%20floor%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon thru weds: free art book fair at the flag art foundation: chelsea arts tower, 10th floor."
-    },
-    "skint_90038_1_us_open_free_ice_cream_truck": {
-      "title": "us open free ice cream truck",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Mon",
-      "date": "2026-08-17",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Mon, 08/17 · thru fri",
-      "price": "Free",
-      "free": true,
-      "place": "bronx (mon), manhattan (tues), brooklyn (weds), staten island (thurs), queens (fri)",
-      "source": "The Skint",
-      "link": "https://www.facebook.com/usopentennis/posts/the-first-ever-us-open-ice-cream-truck-is-coming-to-a-park-near-you-the-ice-crea/1601599544670612/",
-      "map": "https://maps.google.com/?q=bronx%20(mon)%2C%20manhattan%20(tues)%2C%20brooklyn%20(weds)%2C%20staten%20island%20(thurs)%2C%20queens%20(fri)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon thru fri: us open free ice cream truck: bronx (mon), manhattan (tues), brooklyn (weds), staten island (thurs), queens (fri)."
     },
     "gary_2026_08_18_tech_x_market_decoders": {
       "title": "Tech x Market Decoders",
@@ -1247,39 +1213,22 @@
       "map": "https://maps.google.com/?q=Pine%20Box%20Rock%20Shop%2C%2012%20Grattan%20St%2C%20Brooklyn",
       "summary": "Gary's Guide: With Harmon Leon (HBO Max, This American Life)."
     },
-    "luma_2026_08_18_claude_code_workshop_new_york_city": {
-      "title": "Claude Code Workshop - New York City",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-08-18",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Tue, 08/18 · 5pm",
+    "luma_2026_08_19_gen_z_consumer_founder_mixer_microsoft": {
+      "title": "Gen Z Consumer Founder Mixer @ Microsoft",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-08-19",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 08/19 · 6pm",
       "price": "Free",
       "free": true,
       "place": "New York, NY",
       "source": "Luma NYC",
-      "link": "https://luma.com/claude-code-workshop-nyc-aug-18",
+      "link": "https://luma.com/f5cverfc",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Claude Workshops, Build with Claude, Provectus"
-    },
-    "luma_2026_08_18_founder_s_table_nyc": {
-      "title": "Founder's Table NYC",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-08-18",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Tue, 08/18 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "Virgin Hotels New York City",
-      "source": "Luma NYC",
-      "link": "https://luma.com/tavern-lac0",
-      "map": "https://maps.google.com/?q=Virgin%20Hotels%20New%20York%20City%20NYC",
-      "summary": "Luma NYC: Tavern Community Coworking, Benji Schwartz"
+      "summary": "Luma NYC: GenZtea, Natalie Neptune, arlina (yuan le) yang, Christian Phanhthourath"
     },
     "luma_2026_08_19_junto_founder_dinner_hosted_by_andrew_friends": {
       "title": "Junto Founder Dinner (Hosted by Andrew & Friends)",
@@ -1365,23 +1314,6 @@
       "link": "https://luma.com/pl30d8pc",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Together AI Calendar, Together AI, OpenRouter"
-    },
-    "nyu_tandon_2026_08_18_instructional_tech_drop_in_sessions": {
-      "title": "Instructional Tech Drop-in Sessions",
-      "type": "tech",
-      "label": "Workshop / Training",
-      "day": "Tue",
-      "date": "2026-08-18",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Tue, 08/18 · 11:00 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/08/18/instructional-tech-drop-sessions",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Workshop / Training"
     },
     "nyu_tandon_2026_08_19_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1519,56 +1451,22 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
-    "jc_culture_38065_2026_08_18_jersey_city_summerfest_2026_wilma_ann": {
-      "title": "Jersey City Summerfest 2026 / Wilma Ann",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Tue",
-      "date": "2026-08-18",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Tue, 08/18 · 6:30pm",
+    "nyu_tandon_2026_09_03_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
+      "type": "tech",
+      "label": "Workshop / Training",
+      "day": "Thu",
+      "date": "2026-09-03",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Thu, 09/03 · 12:00 PM",
       "price": "Free / varies",
       "free": true,
-      "place": "Liberty State Park. South Lawn, Freedom Way, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-wilma-ann/",
-      "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
-      "summary": "&nbsp; JC Summerfest featuring Wilma Ann Jazz and Soul South Cove Lawn Liberty State Park 6:30pm-8:30pm"
-    },
-    "jc_culture_42663_2026_08_18_green_villain_band_jazz_mashup_in_jersey_city": {
-      "title": "Green Villain Band Jazz Mashup in Jersey City",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Tue",
-      "date": "2026-08-18",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Tue, 08/18 · 7pm",
-      "price": "$9",
-      "free": false,
-      "place": "Green Villain Studios, 15 Wilkinson Avenue, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/green-villain-band-jazz-mashup-in-jersey-city/",
-      "map": "https://maps.google.com/?q=Green%20Villain%20Studios%2C%2015%20Wilkinson%20Avenue%2C%20Jersey%20City%2C%20NJ",
-      "summary": "A soulful fusion of jazz, culture, and community inspired by the vibrant spirit of Jersey City. Green Villain Band Jazz Mashup is more than a concert. It’s an immersive live music experience inspired by the creative energy, cultural diversity, and rhythm of Jersey City. Experience a fresh take on jazz as talented musicians blend soul, funk, R&B, hip-hop, Afrobeat, Latin rhythms, and other global influences into one unforgettable performance. Enjoy handcrafted cocktails, a vibrant atmosphere, and a welcoming community where every moment feels like discovering a new sound, a new connection, and a new reason to stay a little longer. This is where music, creativity, and community come together."
-    },
-    "jc_culture_42741_2026_08_18_movies_in_the_park_2026_lego_batman": {
-      "title": "Movies in the Park 2026 / Lego Batman",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Tue",
-      "date": "2026-08-18",
-      "time": "8:30 PM",
-      "sort": 20.5,
-      "when": "Tue, 08/18 · 8:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ARLINGTON PARK, Btw Grand Street and Arlington Ave",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-lego-batman-2/",
-      "map": "https://maps.google.com/?q=ARLINGTON%20PARK%2C%20Btw%20Grand%20Street%20and%20Arlington%20Ave",
-      "summary": "&nbsp; Arlington Park featuring Lego Batman"
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/03/instructional-tech-drop-sessions",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Workshop / Training"
     },
     "jc_culture_10003564_2026_08_19_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -2028,6 +1926,23 @@
       "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-18/",
       "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
       "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
+    },
+    "jc_culture_10004821_2026_09_19_the_society_of_american_graphic_artists_saga_91st_an": {
+      "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-09-19",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Sat, 09/19 · 3pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "MANA CONTEMPORARY, 888 NEWARK AVE., JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-19/",
+      "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
+      "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
     }
   },
   "clusters": {
@@ -2039,14 +1954,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_08_17_10_am": [
-      "skint_90038_0_free_art_book_fair_at_the_flag_art_foundation",
-      "skint_90038_1_us_open_free_ice_cream_truck"
-    ],
-    "cluster_2026_08_18_5_pm": [
-      "gary_2026_08_18_ai_demo_night",
-      "luma_2026_08_18_claude_code_workshop_new_york_city"
     ],
     "cluster_2026_08_18_6_pm": [
       "gary_2026_08_18_nyc_b2b_ai_founders_investors_meetup",
@@ -2065,7 +1972,8 @@
       "gary_2026_08_19_agentics_use_agents_effectively",
       "gary_2026_08_19_ai_safety_workshop",
       "gary_2026_08_19_underwriting_above_the_hudson_oyster_social_for_lead",
-      "gary_2026_08_19_innovation_in_public_mixer_2_0"
+      "gary_2026_08_19_innovation_in_public_mixer_2_0",
+      "luma_2026_08_19_gen_z_consumer_founder_mixer_microsoft"
     ],
     "cluster_2026_08_19_6_30_pm": [
       "gary_2026_08_19_seed_series_a_founder_happy_hour_building_teams_that",
