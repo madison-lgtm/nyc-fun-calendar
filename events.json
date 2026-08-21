@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 20, 2026, 3:56 PM EDT",
+    "checked": "Aug 21, 2026, 7:17 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-20",
-        "key": "Thu",
-        "label": "Thu",
-        "date": "Aug 20"
-      },
       {
         "iso": "2026-08-21",
         "key": "Fri",
@@ -45,15 +39,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Aug 26"
+      },
+      {
+        "iso": "2026-08-27",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Aug 27"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-20",
-        "key": "Thu",
-        "label": "Thu",
-        "date": "Aug 20"
-      },
       {
         "iso": "2026-08-21",
         "key": "Fri",
@@ -233,16 +227,20 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Sep 19"
+      },
+      {
+        "iso": "2026-09-20",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Sep 20"
       }
     ],
-    "todayKey": "Thu",
+    "todayKey": "Fri",
     "times": [
-      "12 AM",
       "8 AM",
       "8:30 AM",
       "9 AM",
       "10 AM",
-      "10:45 AM",
       "11 AM",
       "11:30 AM",
       "12 PM",
@@ -260,7 +258,7 @@
       "7:30 PM",
       "8 PM",
       "8:30 PM",
-      "10 PM"
+      "9 PM"
     ]
   },
   "events": {
@@ -450,6 +448,176 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
+    },
+    "skint_90233_0_free_ben_jerry_s_roaming_ice_cream_bar_ty": {
+      "title": "free ben + jerry’s roaming ice cream bar-ty",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Fri",
+      "date": "2026-08-21",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Fri, 08/21 · thru sun (12-6pm)",
+      "price": "Free",
+      "free": true,
+      "place": "mccarren park (fri), brooklyn bridge park (sat), and coney island boardwalk (sun)",
+      "source": "The Skint",
+      "link": "https://www.benjerry.com/whats-new/2026/06/great-summer-bar-drop",
+      "map": "https://maps.google.com/?q=mccarren%20park%20(fri)%2C%20brooklyn%20bridge%20park%20(sat)%2C%20and%20coney%20island%20boardwalk%20(sun)%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri thru sun (12-6pm): free ben + jerry’s roaming ice cream bar-ty: mccarren park (fri), brooklyn bridge park (sat), and coney island boardwalk (sun)."
+    },
+    "skint_90233_1_52nd_feast_of_santa_rosalia": {
+      "title": "52nd feast of santa rosalia",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Fri",
+      "date": "2026-08-21",
+      "time": "8 PM",
+      "sort": 20,
+      "when": "Fri, 08/21 · thru 8/30",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "18th avenue from 68th to 75th street in bensonhurst, brooklyn",
+      "source": "The Skint",
+      "link": "https://www.instagram.com/santarosaliafeast/",
+      "map": "https://maps.google.com/?q=18th%20avenue%20from%2068th%20to%2075th%20street%20in%20bensonhurst%2C%20brooklyn%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri thru 8/30: 52nd feast of santa rosalia: 18th avenue from 68th to 75th street in bensonhurst, brooklyn."
+    },
+    "skint_90233_2_fourth_annual_summer_blockfest_hip_hop_festival_comm": {
+      "title": "fourth annual summer blockfest hip-hop festival + community celebration",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-08-22",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 08/22 · 12-7pm (rain date",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "8/29): : 770 jackson street, hoboken",
+      "source": "The Skint",
+      "link": "https://www.eventbrite.com/e/the-4th-annual-summer-blockfest-hip-hop-festival-community-celebration-tickets-1987192865354",
+      "map": "https://maps.google.com/?q=8%2F29)%3A%20%3A%20770%20jackson%20street%2C%20hoboken%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-7pm (rain date: 8/29): fourth annual summer blockfest hip-hop festival + community celebration: 770 jackson street, hoboken."
+    },
+    "skint_90233_3_26th_jersey_city_pride_equality_march_and_festival": {
+      "title": "26th jersey city pride equality march and festival",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-08-22",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 08/22 · 12-9pm",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "march kicks off at 1pm; festival runs 1pm-9pm",
+      "source": "The Skint",
+      "link": "https://www.jerseycitypride.com/events",
+      "map": "https://maps.google.com/?q=march%20kicks%20off%20at%201pm%3B%20festival%20runs%201pm-9pm%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-9pm: 26th jersey city pride equality march and festival: march kicks off at 1pm; festival runs 1pm-9pm."
+    },
+    "skint_90233_4_42nd_pakistan_day_parade": {
+      "title": "42nd pakistan day parade",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sun",
+      "date": "2026-08-23",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Sun, 08/23 · 10am-6pm",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "madison ave from e 38th st to e 24th st",
+      "source": "The Skint",
+      "link": "https://flatironnomad.nyc/event/district-event-pakistan-day-parade-2/",
+      "map": "https://maps.google.com/?q=madison%20ave%20from%20e%2038th%20st%20to%20e%2024th%20st%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm: 42nd pakistan day parade: madison ave from e 38th st to e 24th st."
+    },
+    "skint_90233_5_49th_annual_brighton_jubilee": {
+      "title": "49th annual brighton jubilee",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sun",
+      "date": "2026-08-23",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Sun, 08/23 · 10am-6pm",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "brighton beach avenue between corbin place + coney island ave",
+      "source": "The Skint",
+      "link": "http://brightonbeach.com/jubilee-festival.html",
+      "map": "https://maps.google.com/?q=brighton%20beach%20avenue%20between%20corbin%20place%20%2B%20coney%20island%20ave%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm: 49th annual brighton jubilee: brighton beach avenue between corbin place + coney island ave."
+    },
+    "skint_90233_6_nyc_plant_market": {
+      "title": "nyc plant market",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sun",
+      "date": "2026-08-23",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Sun, 08/23 · 1-7pm (monthly thru 10/18)",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "culture lab lic",
+      "source": "The Skint",
+      "link": "https://nycplantmarket.com",
+      "map": "https://maps.google.com/?q=culture%20lab%20lic%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-7pm (monthly thru 10/18): nyc plant market: culture lab lic."
+    },
+    "skint_90233_7_arthouse_sci_fi": {
+      "title": "arthouse sci-fi",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-08-21",
+      "time": "8 PM",
+      "sort": 20,
+      "when": "Fri, 08/21 · thru 8/27",
+      "price": "$17",
+      "free": false,
+      "place": "films by jean-luc godard, andrei tarkovsky, chris marker, john akomfrah, apichatpong weerasethakul, wong kar-wai, david cronenberg, andrzej żuławski, and more",
+      "source": "The Skint",
+      "link": "https://www.bam.org/film/2026/arthouse-scifi",
+      "map": "https://maps.google.com/?q=films%20by%20jean-luc%20godard%2C%20andrei%20tarkovsky%2C%20chris%20marker%2C%20john%20akomfrah%2C%20apichatpong%20weerasethakul%2C%20wong%20kar-wai%2C%20david%20cronenberg%2C%20andrzej%20%C5%BCu%C5%82awski%2C%20and%20more%20NYC",
+      "summary": "three film series. Pulled from The Skint's public article feed: fri thru 8/27: arthouse sci-fi: films by jean-luc godard, andrei tarkovsky, chris marker, john akomfrah, apichatpong weerasethakul, wong kar-wai, david cronenberg, andrzej żuławski, and more. brooklyn academy of music (fort greene), $17 general, $12 seniors."
+    },
+    "skint_90233_8_coppola": {
+      "title": "coppola",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-08-21",
+      "time": "9 PM",
+      "sort": 21,
+      "when": "Fri, 08/21 · thru 9/10",
+      "price": "$18",
+      "free": false,
+      "place": "a 25-film retrospective of francis ford coppola’s work",
+      "source": "The Skint",
+      "link": "https://filmforum.org/series/coppola",
+      "map": "https://maps.google.com/?q=a%2025-film%20retrospective%20of%20francis%20ford%20coppola%E2%80%99s%20work%20NYC",
+      "summary": "three film series. Pulled from The Skint's public article feed: fri thru 9/10: coppola: a 25-film retrospective of francis ford coppola’s work. film forum (south village), $18."
+    },
+    "skint_90233_9_big_loud": {
+      "title": "big + loud!",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-08-21",
+      "time": "9 PM",
+      "sort": 21,
+      "when": "Fri, 08/21 · thru 9/15",
+      "price": "$17",
+      "free": false,
+      "place": "lawrence of arabia, west side story, the sound of music, marie antoinette, boogie nights, die hard, and more",
+      "source": "The Skint",
+      "link": "https://www.paristheaternyc.com/series/big-loud-2026",
+      "map": "https://maps.google.com/?q=lawrence%20of%20arabia%2C%20west%20side%20story%2C%20the%20sound%20of%20music%2C%20marie%20antoinette%2C%20boogie%20nights%2C%20die%20hard%2C%20and%20more%20NYC",
+      "summary": "three film series. Pulled from The Skint's public article feed: fri thru 9/15: big + loud!: lawrence of arabia, west side story, the sound of music, marie antoinette, boogie nights, die hard, and more. the paris theater (midtown), $17 general, $15 seniors/students."
     },
     "gary_2026_08_20_founder_breakfast": {
       "title": "Founder Breakfast",
@@ -1216,91 +1384,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: This half-day invitation-only event is limited to select CMOs & will provide insights into the strategies, technologies, & leadership practices by peer CMOs who are driving successful AI transformations across the world's best marketing organizations. This half-day invitation-only event is limited to select CMOs & will provide insights into the strategies, technologies, & leadership practices by peer CMOs who are driving successful AI transformations across the world's best marketing organizations. This is more than a learning experience-it's a unique forum for building connections & gaining actionable insights (in true MMA fashion!). You'll hear from leading AI experts but also actively participate in dynamic plenary discussions & breakout sessions with your peers, designed to foster collaboration & actionable takeaways. Prior topics include: HP Putting AI to Practical Use in the Enterprise AT&T's Work with GenAI GenAI Marketing Org AI Personalization (CAP) The Future of Link-based Search Agentic Consumers: Marketing to Bots AI Ethics: Defining \"Ethical AI Marketing\" Moving at the Speed of Culture Harnessing Open Source for AI Breakthroughs Future of AI Marketing & Moving from Experiments to Outcomes"
     },
-    "luma_2026_08_20_nyc_claude_content_creation_with_thevibefounder_mika": {
-      "title": "NYC | Claude Content Creation with TheVibeFounder & Mika Reyes",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-08-20",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Thu, 08/20 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/claude-content-workshop",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Claude Community Events, Mika, Aj Yadav"
-    },
-    "luma_2026_08_20_open_models_nyc_together_ai_openrouter": {
-      "title": "Open Models NYC | Together AI × OpenRouter",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-08-20",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Thu, 08/20 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/pl30d8pc",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Together AI Calendar, Together AI, OpenRouter"
-    },
-    "luma_2026_08_21_nyc_startup_pickleball_meetup_8": {
-      "title": "NYC Startup Pickleball Meetup #8",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-08-21",
-      "time": "12 AM",
-      "sort": 0,
-      "when": "Thu, 08/21 · 12am",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/3g8yrubl",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: NYC Startup Pickleball Meetup, David Ongchoco, Drew Parten, Ali Khokhar, Michelle Wang, Sean Hu, Grant Brewster"
-    },
-    "nyu_tandon_2026_08_20_engineered_design_of_mucus_penetration_nanoparticles": {
-      "title": "“Engineered design of mucus penetration nanoparticles for inhalable vaccines”",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Thu",
-      "date": "2026-08-20",
-      "time": "10:45 AM",
-      "sort": 10.75,
-      "when": "Thu, 08/20 · 10:45 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/08/20/engineered-design-mucus-penetration-nanoparticles-inhalable-vaccines",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_08_20_instructional_tech_drop_in_sessions": {
-      "title": "Instructional Tech Drop-in Sessions",
-      "type": "tech",
-      "label": "Workshop / Training",
-      "day": "Thu",
-      "date": "2026-08-20",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Thu, 08/20 · 11:00 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/08/20/instructional-tech-drop-sessions",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Workshop / Training"
-    },
     "nyu_tandon_2026_08_25_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
       "type": "tech",
@@ -1368,6 +1451,40 @@
       "link": "https://engineering.nyu.edu/events/2026/09/01/instructional-tech-drop-sessions",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
+    },
+    "nyu_tandon_2026_09_02_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
+      "type": "tech",
+      "label": "Workshop / Training",
+      "day": "Wed",
+      "date": "2026-09-02",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Wed, 09/02 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/02/instructional-tech-drop-sessions",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Workshop / Training"
+    },
+    "nyu_tandon_2026_09_02_cue_career_corner_drop_in_hours": {
+      "title": "CUE Career Corner: Drop-In Hours",
+      "type": "tech",
+      "label": "Career Development",
+      "day": "Wed",
+      "date": "2026-09-02",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Wed, 09/02 · 12:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/02/cue-career-corner-drop-hours",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Career Development"
     },
     "jc_culture_42743_2026_08_21_movies_in_the_park_2026_zootopia_2": {
       "title": "Movies in the Park 2026 / Zootopia 2",
@@ -1839,6 +1956,22 @@
       "juggling",
       "ted_rosenthal"
     ],
+    "cluster_2026_08_21_8_pm": [
+      "skint_90233_1_52nd_feast_of_santa_rosalia",
+      "skint_90233_7_arthouse_sci_fi"
+    ],
+    "cluster_2026_08_22_12_pm": [
+      "skint_90233_2_fourth_annual_summer_blockfest_hip_hop_festival_comm",
+      "skint_90233_3_26th_jersey_city_pride_equality_march_and_festival"
+    ],
+    "cluster_2026_08_23_10_am": [
+      "skint_90233_4_42nd_pakistan_day_parade",
+      "skint_90233_5_49th_annual_brighton_jubilee"
+    ],
+    "cluster_2026_08_21_9_pm": [
+      "skint_90233_8_coppola",
+      "skint_90233_9_big_loud"
+    ],
     "cluster_2026_08_20_6_pm": [
       "gary_2026_08_20_the_builder_series_founder_investor_operator_nights",
       "gary_2026_08_20_stronger_together_find_your_co_founder",
@@ -1879,10 +2012,6 @@
     "cluster_2026_09_15_8_am": [
       "gary_2026_09_15_ldx3_2026",
       "gary_2026_09_15_mma_cmo_ai_transformation_summit"
-    ],
-    "cluster_2026_08_20_10_pm": [
-      "luma_2026_08_20_nyc_claude_content_creation_with_thevibefounder_mika",
-      "luma_2026_08_20_open_models_nyc_together_ai_openrouter"
     ]
   }
 }
