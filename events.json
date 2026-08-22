@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 22, 2026, 7:12 AM EDT",
+    "checked": "Aug 22, 2026, 3:47 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -755,8 +755,8 @@
       "map": "https://maps.google.com/?q=Venue%2C%2022%20Vanderbilt%20Ave",
       "summary": "Gary's Guide: SUMMER BUILDERS DAY There's never been a better summer to build. Join Founders House for a special event for founders & builders. We'll kick the day off with an expert deep dive on building AI agents & developer tooling. Come ready to learn what's new & important to stay ahead. After a short break, select members of the Founders House community will participate in a pitch competition. You'll hear from five pre-selected founders, plus two founders chosen live from the audience. (It could be you!) The audience will have the chance to vote on their favorite pitches & provide invaluable feedback to the founders. We'll wrap up the day with cocktails, conversation, & light bites on the terrace. SCHEDULE 1:45 - 2:00 PM Doors Open Registration 2:00 - 3:00 PM Technical Panel & Keynote Talks Hear from experts sharing practical insights on AI agents, developer tooling, & what's next for startups. 3:00 - 3:30 PM Break Coffee, beverages, & snacks 3:30 - 5:00 PM Founder Pitch Competition 5 Founders House founders take the stage 2 additional founders will be selected live from the audience to pitch 5:00 - 7:00 PM Happy Hour Join us on the 7th Floor Terrace to connect with founders, investors, operators, & builders as we close out the afternoon. We can't wait to see you there! Make a Day of It Want to spend the day with the Founders House community? Join us earlier in the day for a morning of yoga followed by coworking from the Founders House space before the Summer Builders Series begins. If you'd like to join us for the full day, RSVP here: https://luma.com/ttsxnqzf"
     },
-    "gary_2026_08_25_new_york_security_speakeasy_offense_vs_defense_in_th": {
-      "title": "New York Security Speakeasy | Offense vs. Defense In The Age Of AI",
+    "gary_2026_08_25_security_speakeasy_offense_vs_defense_in_age_of_ai": {
+      "title": "Security Speakeasy - Offense vs Defense In Age Of AI",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Tue",
@@ -768,7 +768,7 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/0uofvxi/New-York-Security-Speakeasy-Offense-vs-Defense-In-The-Age-Of-AI",
+      "link": "https://www.garysguide.com/events/0uofvxi/Security-Speakeasy-Offense-vs-Defense-In-Age-Of-AI",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Rob Picard (Security Lead, Teleport), Markus Vervier (Nemesis Breach & Attack Simulation)."
     },
@@ -787,7 +787,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/5igyj82/Rooftop-Fireside-w-Startup-Founders",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Jake Moshel (Founder/CEO, Novix AI), Brandon Slicklein (Founder, AuraPath AI), Neel Nimbalkar (Founder, travenai), Akhil Reddy (Founder/CEO, Thera), Christopher Kennamer (Partner/Fund 1 First Member, OneSixOne Ventures), Abraham Rajput (Head of Community, Series)."
+      "summary": "Gary's Guide: With founders Jake Moshel (Novix AI), Brandon Slicklein (AuraPath AI), Neel Nimbalkar (Travenai), Akhil Reddy (Thera), Abraham Rajput (Head of Community, Series), Christopher Kennamer (OneSixOne Ventures)."
     },
     "gary_2026_08_25_kubernetes_developers_meetup": {
       "title": "Kubernetes Developers Meetup",
@@ -1333,8 +1333,8 @@
       "map": "https://maps.google.com/?q=New%20York%20Marriott%20Marquis%2C%201535%20Broadway",
       "summary": "Gary's Guide: With Kaushal Pandia (CDO Corporate & Commercial Segment, US Bank), Stefany Bello (Vice-President, Digital Partnerships, Fintech & Enablers in North America, Mastercard), Rahul Raj (Tech Exec, Walmart), Sherry Graziano (Head of Digital, Client Experience & Mktg, Truist Financial Corporation), Jon Lakefish (Founder, Lakefish Group), Mike Pressman (Dir. Enterprise Sales Enablement, M&T Bank)."
     },
-    "gary_2026_09_09_new_york_fashion_week_fashiontech_x_fintech_mixer": {
-      "title": "New York Fashion Week : FashionTech x FinTech Mixer",
+    "gary_2026_09_09_ny_fashion_week_fashiontech_x_fintech_mixer": {
+      "title": "NY Fashion Week - FashionTech x FinTech Mixer",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Wed",
@@ -1346,9 +1346,9 @@
       "free": false,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/uad4fx6/New-York-Fashion-Week-FashionTech-x-FinTech-Mixer",
+      "link": "https://www.garysguide.com/events/uad4fx6/NY-Fashion-Week-FashionTech-x-FinTech-Mixer",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Clare Tattersall (Founder, Digital Fashion Week), Tony Henry (Founder/CEO, 99 YARDS), Kimberly Morgan (Founder, The Fashion Tech Exec), Lucia Liu (Founder/CEO, Breakline Society)."
+      "summary": "Gary's Guide: With founders Tony Henry (99 YARDS), Lucia Liu (Breakline Society), Clare Tattersall (Digital Fashion Week), Kimberly Morgan (Fashion Tech Exec)."
     },
     "gary_2026_09_09_daytona_ai_builders": {
       "title": "Daytona AI Builders",
@@ -1367,22 +1367,39 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Muhammad Annas Hashmi (DevRel, Daytona), Marijan Cipcic (Principal Events, Daytona)."
     },
-    "gary_2026_09_10_forbes_power_womens_summit": {
-      "title": "Forbes Power Womens Summit",
+    "gary_2026_09_09_new_york_co_founder_matching_find_a_partner_by_solvi": {
+      "title": "New York Co-Founder Matching - Find a Partner by Solving Real Problems",
       "type": "startup",
       "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-09-10",
-      "time": "8 AM",
-      "sort": 8,
-      "when": "Thu, 09/10 · 8:00am",
-      "price": "Varies",
-      "free": false,
-      "place": "Venue, To Be Announced",
+      "day": "Wed",
+      "date": "2026-09-09",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 09/09 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Keybar, 143 Troutman St, Brooklyn, NY 11206",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/f3nmxs8/Forbes-Power-Womens-Summit",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Leena Nair (CEO, Chanel), Cindy Crawford (Supermodel & Founder, Meaningful Beauty), Jennifer Garner (Founder, Once Upon A Farm), Claire Southey (Chief AI Officer, Rokt)."
+      "link": "https://www.garysguide.com/events/dlz3avk/New-York-Co-Founder-Matching-Find-a-Partner-by-Solving-Real-Problems",
+      "map": "https://maps.google.com/?q=Keybar%2C%20143%20Troutman%20St%2C%20Brooklyn%2C%20NY%2011206",
+      "summary": "Gary's Guide: Join a focused startup networking event in New York designed to help founders, builders and entrepreneurs meet potential co-founders through structured conversations and real business challenges. Instead of random networking and exchanging LinkedIn profiles, the evening focuses on meaningful conversations around startup ideas, skills, challenges and what participants are looking to build. What to Expect Co-Founder Matching Meet people with complementary skills, backgrounds and ambitions through structured networking and guided conversations. Real Problem Solving Bring a real startup, business or product challenge and exchange ideas with other founders and builders who may offer a different perspective. Founder Introductions Introduce yourself, share what you're building or looking to build, and explain what you are looking for in a potential co-founder. Targeted Networking Connect with entrepreneurs, developers, designers, marketers, operators and other professionals interested in building startups. Community Mixer Continue conversations after the structured sessions and explore potential collaborations, partnerships and future startup opportunities. Who Should Attend Startup founders looking for a co-founder Entrepreneurs with an early-stage business idea Developers and engineers looking for a business or product partner Designers, product managers and operators interested in founding a company Sales, marketing and growth professionals looking to join a founding team Professionals interested in launching a startup Aspiring entrepreneurs looking to meet complementary talent You don't need to have a fully developed startup to attend. You can come with an early-stage idea, a specific skill set, or simply the motivation to find the right person to build something with. Why Join? Meet potential co-founders, exchange practical ideas, get feedback on real challenges and expand your network within New York's startup ecosystem. The goal is simple: fewer random conversations, more relevant connections and a better chance of finding someone you can actually build with."
+    },
+    "luma_2026_08_24_ai_and_what_makes_us_human_a_fireside_chat_with_cami": {
+      "title": "AI and What Makes Us Human, a Fireside Chat with Camille Carlton + Responsible Tech Mixer",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Mon",
+      "date": "2026-08-24",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Mon, 08/24 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "BrainStation",
+      "source": "Luma NYC",
+      "link": "https://luma.com/84wnmw5y",
+      "map": "https://maps.google.com/?q=BrainStation%20NYC",
+      "summary": "Luma NYC: All Tech Is Human, All Tech Is Human, Center for Humane Technology, BrainStation"
     },
     "luma_2026_08_24_the_shortlist_august_founder_showcase": {
       "title": "The Shortlist: August Founder Showcase",
@@ -1400,6 +1417,23 @@
       "link": "https://luma.com/shortlistaugust",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: The Shortlist NY, Sangavi Suresh, Andrew Yeung, Ivor Stratford, Matthew Harrigan"
+    },
+    "luma_2026_08_25_fintech_run_club_ft_rain_monk_jp_morgan": {
+      "title": "Fintech Run Club ft. Rain + Monk + JP Morgan",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-08-25",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Tue, 08/25 · 11am",
+      "price": "Free",
+      "free": true,
+      "place": "Marsha P. Johnson Memorial Fountain",
+      "source": "Luma NYC",
+      "link": "https://luma.com/2ezybaln",
+      "map": "https://maps.google.com/?q=Marsha%20P.%20Johnson%20Memorial%20Fountain%20NYC",
+      "summary": "Luma NYC: Pedro D'Avila, Pedro D'Avila, FinTech Running Club, Rain Events, Kendall Warson, Connor Griffin, Jacob Tamkin"
     },
     "nyu_tandon_2026_08_25_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -2005,6 +2039,14 @@
     "cluster_2026_09_09_8_am": [
       "gary_2026_09_09_everything_ai_conference",
       "gary_2026_09_09_finovate_fall_2026"
+    ],
+    "cluster_2026_08_24_10_pm": [
+      "luma_2026_08_24_ai_and_what_makes_us_human_a_fireside_chat_with_cami",
+      "luma_2026_08_24_the_shortlist_august_founder_showcase"
+    ],
+    "cluster_2026_08_25_11_am": [
+      "luma_2026_08_25_fintech_run_club_ft_rain_monk_jp_morgan",
+      "nyu_tandon_2026_08_25_instructional_tech_drop_in_sessions"
     ]
   }
 }
