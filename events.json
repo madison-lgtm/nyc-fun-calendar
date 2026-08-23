@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 22, 2026, 3:47 PM EDT",
+    "checked": "Aug 23, 2026, 7:12 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-22",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Aug 22"
-      },
       {
         "iso": "2026-08-23",
         "key": "Sun",
@@ -45,15 +39,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Aug 28"
+      },
+      {
+        "iso": "2026-08-29",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Aug 29"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-22",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Aug 22"
-      },
       {
         "iso": "2026-08-23",
         "key": "Sun",
@@ -233,9 +227,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Sep 21"
+      },
+      {
+        "iso": "2026-09-22",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Sep 22"
       }
     ],
-    "todayKey": "Sat",
+    "todayKey": "Sun",
     "times": [
       "8 AM",
       "8:30 AM",
@@ -257,7 +257,6 @@
       "7:30 PM",
       "8 PM",
       "8:30 PM",
-      "9 PM",
       "10 PM"
     ]
   },
@@ -449,41 +448,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_90233_0_free_ben_jerry_s_roaming_ice_cream_bar_ty": {
-      "title": "free ben + jerry’s roaming ice cream bar-ty",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Fri",
-      "date": "2026-08-21",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Fri, 08/21 · thru sun (12-6pm)",
-      "price": "Free",
-      "free": true,
-      "place": "mccarren park (fri), brooklyn bridge park (sat), and coney island boardwalk (sun)",
-      "source": "The Skint",
-      "link": "https://www.benjerry.com/whats-new/2026/06/great-summer-bar-drop",
-      "map": "https://maps.google.com/?q=mccarren%20park%20(fri)%2C%20brooklyn%20bridge%20park%20(sat)%2C%20and%20coney%20island%20boardwalk%20(sun)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri thru sun (12-6pm): free ben + jerry’s roaming ice cream bar-ty: mccarren park (fri), brooklyn bridge park (sat), and coney island boardwalk (sun)."
-    },
-    "skint_90233_1_52nd_feast_of_santa_rosalia": {
-      "title": "52nd feast of santa rosalia",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Fri",
-      "date": "2026-08-21",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Fri, 08/21 · thru 8/30",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "18th avenue from 68th to 75th street in bensonhurst, brooklyn",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/santarosaliafeast/",
-      "map": "https://maps.google.com/?q=18th%20avenue%20from%2068th%20to%2075th%20street%20in%20bensonhurst%2C%20brooklyn%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri thru 8/30: 52nd feast of santa rosalia: 18th avenue from 68th to 75th street in bensonhurst, brooklyn."
-    },
-    "skint_90233_2_fourth_annual_summer_blockfest_hip_hop_festival_comm": {
+    "skint_90233_0_fourth_annual_summer_blockfest_hip_hop_festival_comm": {
       "title": "fourth annual summer blockfest hip-hop festival + community celebration",
       "type": "market",
       "label": "Festival / Market",
@@ -500,7 +465,7 @@
       "map": "https://maps.google.com/?q=8%2F29)%3A%20%3A%20770%20jackson%20street%2C%20hoboken%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-7pm (rain date: 8/29): fourth annual summer blockfest hip-hop festival + community celebration: 770 jackson street, hoboken."
     },
-    "skint_90233_3_26th_jersey_city_pride_equality_march_and_festival": {
+    "skint_90233_1_26th_jersey_city_pride_equality_march_and_festival": {
       "title": "26th jersey city pride equality march and festival",
       "type": "market",
       "label": "Festival / Market",
@@ -517,7 +482,7 @@
       "map": "https://maps.google.com/?q=march%20kicks%20off%20at%201pm%3B%20festival%20runs%201pm-9pm%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-9pm: 26th jersey city pride equality march and festival: march kicks off at 1pm; festival runs 1pm-9pm."
     },
-    "skint_90233_4_42nd_pakistan_day_parade": {
+    "skint_90233_2_42nd_pakistan_day_parade": {
       "title": "42nd pakistan day parade",
       "type": "market",
       "label": "Festival / Market",
@@ -534,7 +499,7 @@
       "map": "https://maps.google.com/?q=madison%20ave%20from%20e%2038th%20st%20to%20e%2024th%20st%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm: 42nd pakistan day parade: madison ave from e 38th st to e 24th st."
     },
-    "skint_90233_5_49th_annual_brighton_jubilee": {
+    "skint_90233_3_49th_annual_brighton_jubilee": {
       "title": "49th annual brighton jubilee",
       "type": "market",
       "label": "Festival / Market",
@@ -551,7 +516,7 @@
       "map": "https://maps.google.com/?q=brighton%20beach%20avenue%20between%20corbin%20place%20%2B%20coney%20island%20ave%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm: 49th annual brighton jubilee: brighton beach avenue between corbin place + coney island ave."
     },
-    "skint_90233_6_nyc_plant_market": {
+    "skint_90233_4_nyc_plant_market": {
       "title": "nyc plant market",
       "type": "market",
       "label": "Festival / Market",
@@ -567,57 +532,6 @@
       "link": "https://nycplantmarket.com",
       "map": "https://maps.google.com/?q=culture%20lab%20lic%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-7pm (monthly thru 10/18): nyc plant market: culture lab lic."
-    },
-    "skint_90233_7_arthouse_sci_fi": {
-      "title": "arthouse sci-fi",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-08-21",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Fri, 08/21 · thru 8/27",
-      "price": "$17",
-      "free": false,
-      "place": "films by jean-luc godard, andrei tarkovsky, chris marker, john akomfrah, apichatpong weerasethakul, wong kar-wai, david cronenberg, andrzej żuławski, and more",
-      "source": "The Skint",
-      "link": "https://www.bam.org/film/2026/arthouse-scifi",
-      "map": "https://maps.google.com/?q=films%20by%20jean-luc%20godard%2C%20andrei%20tarkovsky%2C%20chris%20marker%2C%20john%20akomfrah%2C%20apichatpong%20weerasethakul%2C%20wong%20kar-wai%2C%20david%20cronenberg%2C%20andrzej%20%C5%BCu%C5%82awski%2C%20and%20more%20NYC",
-      "summary": "three film series. Pulled from The Skint's public article feed: fri thru 8/27: arthouse sci-fi: films by jean-luc godard, andrei tarkovsky, chris marker, john akomfrah, apichatpong weerasethakul, wong kar-wai, david cronenberg, andrzej żuławski, and more. brooklyn academy of music (fort greene), $17 general, $12 seniors."
-    },
-    "skint_90233_8_coppola": {
-      "title": "coppola",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-08-21",
-      "time": "9 PM",
-      "sort": 21,
-      "when": "Fri, 08/21 · thru 9/10",
-      "price": "$18",
-      "free": false,
-      "place": "a 25-film retrospective of francis ford coppola’s work",
-      "source": "The Skint",
-      "link": "https://filmforum.org/series/coppola",
-      "map": "https://maps.google.com/?q=a%2025-film%20retrospective%20of%20francis%20ford%20coppola%E2%80%99s%20work%20NYC",
-      "summary": "three film series. Pulled from The Skint's public article feed: fri thru 9/10: coppola: a 25-film retrospective of francis ford coppola’s work. film forum (south village), $18."
-    },
-    "skint_90233_9_big_loud": {
-      "title": "big + loud!",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-08-21",
-      "time": "9 PM",
-      "sort": 21,
-      "when": "Fri, 08/21 · thru 9/15",
-      "price": "$17",
-      "free": false,
-      "place": "lawrence of arabia, west side story, the sound of music, marie antoinette, boogie nights, die hard, and more",
-      "source": "The Skint",
-      "link": "https://www.paristheaternyc.com/series/big-loud-2026",
-      "map": "https://maps.google.com/?q=lawrence%20of%20arabia%2C%20west%20side%20story%2C%20the%20sound%20of%20music%2C%20marie%20antoinette%2C%20boogie%20nights%2C%20die%20hard%2C%20and%20more%20NYC",
-      "summary": "three film series. Pulled from The Skint's public article feed: fri thru 9/15: big + loud!: lawrence of arabia, west side story, the sound of music, marie antoinette, boogie nights, die hard, and more. the paris theater (midtown), $17 general, $15 seniors/students."
     },
     "gary_2026_08_22_the_great_founder_river_float_of_2026": {
       "title": "The Great Founder River Float Of 2026",
@@ -1537,23 +1451,6 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Career Development"
     },
-    "jc_culture_42499_2026_08_22_hope_rising_gospel_celebration_2026": {
-      "title": "Hope Rising Gospel Celebration 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sat",
-      "date": "2026-08-22",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 08/22 · 1pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "BETHUNE PARK, 143 Martin Luther King Dr., JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hope-rising-gospel-celebration-2026/",
-      "map": "https://maps.google.com/?q=BETHUNE%20PARK%2C%20143%20Martin%20Luther%20King%20Dr.%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor."
-    },
     "jc_culture_42971_2026_08_23_charity_vyshyvanka_run_walk_2026": {
       "title": "Charity Vyshyvanka Run & Walk 2026",
       "type": "park",
@@ -1978,6 +1875,23 @@
       "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-20/",
       "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
       "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
+    },
+    "jc_culture_10003569_2026_09_23_hamilton_park_farmers_market_2026": {
+      "title": "Hamilton Park Farmers Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-09-23",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 09/23 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-09-23/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     }
   },
   "clusters": {
@@ -1990,21 +1904,13 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_08_21_8_pm": [
-      "skint_90233_1_52nd_feast_of_santa_rosalia",
-      "skint_90233_7_arthouse_sci_fi"
-    ],
     "cluster_2026_08_22_12_pm": [
-      "skint_90233_2_fourth_annual_summer_blockfest_hip_hop_festival_comm",
-      "skint_90233_3_26th_jersey_city_pride_equality_march_and_festival"
+      "skint_90233_0_fourth_annual_summer_blockfest_hip_hop_festival_comm",
+      "skint_90233_1_26th_jersey_city_pride_equality_march_and_festival"
     ],
     "cluster_2026_08_23_10_am": [
-      "skint_90233_4_42nd_pakistan_day_parade",
-      "skint_90233_5_49th_annual_brighton_jubilee"
-    ],
-    "cluster_2026_08_21_9_pm": [
-      "skint_90233_8_coppola",
-      "skint_90233_9_big_loud"
+      "skint_90233_2_42nd_pakistan_day_parade",
+      "skint_90233_3_49th_annual_brighton_jubilee"
     ],
     "cluster_2026_08_22_9_am": [
       "gary_2026_08_22_the_great_founder_river_float_of_2026",
