@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 23, 2026, 3:47 PM EDT",
+    "checked": "Aug 24, 2026, 7:18 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-23",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Aug 23"
-      },
       {
         "iso": "2026-08-24",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Aug 29"
+      },
+      {
+        "iso": "2026-08-30",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Aug 30"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-23",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Aug 23"
-      },
       {
         "iso": "2026-08-24",
         "key": "Mon",
@@ -233,9 +227,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Sep 22"
+      },
+      {
+        "iso": "2026-09-23",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Sep 23"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
       "8 AM",
       "8:30 AM",
@@ -448,41 +448,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_90233_0_fourth_annual_summer_blockfest_hip_hop_festival_comm": {
-      "title": "fourth annual summer blockfest hip-hop festival + community celebration",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-22",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 08/22 · 12-7pm (rain date",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "8/29): : 770 jackson street, hoboken",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/the-4th-annual-summer-blockfest-hip-hop-festival-community-celebration-tickets-1987192865354",
-      "map": "https://maps.google.com/?q=8%2F29)%3A%20%3A%20770%20jackson%20street%2C%20hoboken%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-7pm (rain date: 8/29): fourth annual summer blockfest hip-hop festival + community celebration: 770 jackson street, hoboken."
-    },
-    "skint_90233_1_26th_jersey_city_pride_equality_march_and_festival": {
-      "title": "26th jersey city pride equality march and festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-22",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 08/22 · 12-9pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "march kicks off at 1pm; festival runs 1pm-9pm",
-      "source": "The Skint",
-      "link": "https://www.jerseycitypride.com/events",
-      "map": "https://maps.google.com/?q=march%20kicks%20off%20at%201pm%3B%20festival%20runs%201pm-9pm%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-9pm: 26th jersey city pride equality march and festival: march kicks off at 1pm; festival runs 1pm-9pm."
-    },
-    "skint_90233_2_42nd_pakistan_day_parade": {
+    "skint_90233_0_42nd_pakistan_day_parade": {
       "title": "42nd pakistan day parade",
       "type": "market",
       "label": "Festival / Market",
@@ -499,7 +465,7 @@
       "map": "https://maps.google.com/?q=madison%20ave%20from%20e%2038th%20st%20to%20e%2024th%20st%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm: 42nd pakistan day parade: madison ave from e 38th st to e 24th st."
     },
-    "skint_90233_3_49th_annual_brighton_jubilee": {
+    "skint_90233_1_49th_annual_brighton_jubilee": {
       "title": "49th annual brighton jubilee",
       "type": "market",
       "label": "Festival / Market",
@@ -516,7 +482,7 @@
       "map": "https://maps.google.com/?q=brighton%20beach%20avenue%20between%20corbin%20place%20%2B%20coney%20island%20ave%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm: 49th annual brighton jubilee: brighton beach avenue between corbin place + coney island ave."
     },
-    "skint_90233_4_nyc_plant_market": {
+    "skint_90233_2_nyc_plant_market": {
       "title": "nyc plant market",
       "type": "market",
       "label": "Festival / Market",
@@ -532,57 +498,6 @@
       "link": "https://nycplantmarket.com",
       "map": "https://maps.google.com/?q=culture%20lab%20lic%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-7pm (monthly thru 10/18): nyc plant market: culture lab lic."
-    },
-    "gary_2026_08_22_the_great_founder_river_float_of_2026": {
-      "title": "The Great Founder River Float Of 2026",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sat",
-      "date": "2026-08-22",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sat, 08/22 · 9:00am",
-      "price": "Varies",
-      "free": false,
-      "place": "Delaware River, To Be Announced-, Easton",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/qzbem30/The-Great-Founder-River-Float-Of-2026",
-      "map": "https://maps.google.com/?q=Delaware%20River%2C%20To%20Be%20Announced-%2C%20Easton",
-      "summary": "Gary's Guide: 90m private charter from NYC, followed by 3 hr float down Delaware River w/ other founders."
-    },
-    "gary_2026_08_22_dell_x_nvidia_hackathon": {
-      "title": "Dell x NVIDIA Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-08-22",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sat, 08/22 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/hr2t1pt/Dell-x-NVIDIA-Hackathon",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Local AI on Dell Pro Max w/ GB10."
-    },
-    "gary_2026_08_22_dell_x_nvidia_hackathon_local_ai_on_dell_pro_max": {
-      "title": "Dell x NVIDIA Hackathon - Local AI On Dell Pro Max",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-08-22",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sat, 08/22 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 601 W 26th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ggqzphe/Dell-x-NVIDIA-Hackathon-Local-AI-On-Dell-Pro-Max",
-      "map": "https://maps.google.com/?q=Venue%2C%20601%20W%2026th%20St",
-      "summary": "Gary's Guide: Dell x NVIDIA's Local AI on Dell Pro Max with GB10 is a oneday build sprint where you ship an alwayson business agent running locally on the Dell Pro Max with GB10. A one-day hackathon. Real hardware on the line. 40 teams. 40 Dell Pro Max with GB10 units. One day to build an AI agent that runs locally on the box (no cloud API) & helps businesses or corporates. You get the hardware. You get the stack. You get a day to ship something real. Prizes - 1st place takes home a Dell Pro Max with GB10p per team. - 2nd & 3rd win a Dell laptop per team. ---- Your AI model on a drive. Venue Wi-Fi won't be fast enough for everyone to download models on the day, so load anything you want to use onto a USB or external drive ahead of time. A laptop for development. You'll get a Dell Pro Max with GB10 for the day, but bring your own laptop to code on. Your demo has to run locally on the box. A power strip or extension. We won't have one outlet per person, so if your battery's weak, a splitter or extension cord is a smart backup. Sign up here or sign up at the main event page & hackathon platform - BuilderBase https://builderbase.com/event/dell-x-nvidia-ai-hackathon-nyc How it works 01 Apply Fill out the application form on this page. We review on a rolling basis & confirm your spot by email. 02 Team formation Teams of 2-4 builders. If you register alone, use the BuilderBase dashboard to find teammates or we'll pair you before the event. 03 Build Show up on August 22th. You get a Dell Pro Max with GB10 for the day. Build an AI agent that runs locally on the box. Business or corporate use cases, required stack: OpenClaw + NVIDIA NemoClaw + OpenShell. 04 Submit Submit your working demo through the BuilderBase portal before the deadline. Demo must run on the Dell Pro Max with GB10. 05 Live pitch Top 8 teams are selected from all submissions & deliver a short live pitch to the judges the same evening. 06 Win 07 Mingle/Networking 1st place takes home a Dell Pro Max with GB10p per team. 2nd & 3rd win a Dell laptop per team. Sign up here!"
     },
     "gary_2026_08_24_ai_what_makes_us_human": {
       "title": "AI & What Makes Us Human",
@@ -753,23 +668,6 @@
       "link": "https://www.garysguide.com/events/i9s4ql9/Tech-x-Market-Decoders-This-week-s-topic-Anthropic-s-IPO",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: We decode tech & market signals together - so you can operate, invest, & decide better. AI can build a financial model, summarize an earnings call, or map a competitive landscape in seconds. What it can't do is connect the dots around a technology, a trend, a business, an idea, a decision. That takes human judgment, experience, & taste. The kind you only build by studying real examples, arguing them out loud, & testing your read against people who see it differently than you do. That's what Tech x Market Decoders is for. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: 15-20 minutes - decode solo. Quiet research time. Dig into the news, the product, the tech stack, the data. No talking, just thinking. 35-40 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up. This week's topic: Anthropic's upcoming IPO Anthropic filed confidentially for one of the most anticipated debuts in years, with a listing expected in Sept/Oct 2026. We're decoding the business behind Claude; the revenue growth, the compute costs, & whether the valuation actually holds up once Wall Street gets a look. Come as you are - operator, investor, builder, or just someone who reads too much tech or business news & wants to discuss with smart people."
-    },
-    "gary_2026_08_25_kubernetes_observability_agentic_ops_w_elastic": {
-      "title": "Kubernetes Observability & Agentic Ops w/ Elastic",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-08-25",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 08/25 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 1250 Broadway, 16th Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/h2ntig3/Kubernetes-Observability-Agentic-Ops-w-Elastic",
-      "map": "https://maps.google.com/?q=Venue%2C%201250%20Broadway%2C%2016th%20Fl",
-      "summary": "Gary's Guide: With Michael Guarino (Founder, Plural), Eric Mustin (Customer Architect, Elastic)."
     },
     "gary_2026_08_26_she_ai_coffee_chat": {
       "title": "She AI Coffee Chat",
@@ -1281,22 +1179,90 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Muhammad Annas Hashmi (DevRel, Daytona), Marijan Cipcic (Principal Events, Daytona)."
     },
-    "gary_2026_09_09_new_york_co_founder_matching_find_a_partner_by_solvi": {
-      "title": "New York Co-Founder Matching - Find a Partner by Solving Real Problems",
+    "gary_2026_09_10_forbes_power_womens_summit": {
+      "title": "Forbes Power Womens Summit",
       "type": "startup",
       "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-09",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 09/09 · 6:00pm",
+      "day": "Thu",
+      "date": "2026-09-10",
+      "time": "8 AM",
+      "sort": 8,
+      "when": "Thu, 09/10 · 8:00am",
+      "price": "Varies",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/f3nmxs8/Forbes-Power-Womens-Summit",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Leena Nair (CEO, Chanel), Cindy Crawford (Supermodel & Founder, Meaningful Beauty), Jennifer Garner (Founder, Once Upon A Farm), Claire Southey (Chief AI Officer, Rokt)."
+    },
+    "gary_2026_09_10_open_house_new_york": {
+      "title": "Open House New York",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-09-10",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Thu, 09/10 · 9:00am",
       "price": "Free",
       "free": true,
-      "place": "Keybar, 143 Troutman St, Brooklyn, NY 11206",
+      "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/dlz3avk/New-York-Co-Founder-Matching-Find-a-Partner-by-Solving-Real-Problems",
-      "map": "https://maps.google.com/?q=Keybar%2C%20143%20Troutman%20St%2C%20Brooklyn%2C%20NY%2011206",
-      "summary": "Gary's Guide: Join a focused startup networking event in New York designed to help founders, builders and entrepreneurs meet potential co-founders through structured conversations and real business challenges. Instead of random networking and exchanging LinkedIn profiles, the evening focuses on meaningful conversations around startup ideas, skills, challenges and what participants are looking to build. What to Expect Co-Founder Matching Meet people with complementary skills, backgrounds and ambitions through structured networking and guided conversations. Real Problem Solving Bring a real startup, business or product challenge and exchange ideas with other founders and builders who may offer a different perspective. Founder Introductions Introduce yourself, share what you're building or looking to build, and explain what you are looking for in a potential co-founder. Targeted Networking Connect with entrepreneurs, developers, designers, marketers, operators and other professionals interested in building startups. Community Mixer Continue conversations after the structured sessions and explore potential collaborations, partnerships and future startup opportunities. Who Should Attend Startup founders looking for a co-founder Entrepreneurs with an early-stage business idea Developers and engineers looking for a business or product partner Designers, product managers and operators interested in founding a company Sales, marketing and growth professionals looking to join a founding team Professionals interested in launching a startup Aspiring entrepreneurs looking to meet complementary talent You don't need to have a fully developed startup to attend. You can come with an early-stage idea, a specific skill set, or simply the motivation to find the right person to build something with. Why Join? Meet potential co-founders, exchange practical ideas, get feedback on real challenges and expand your network within New York's startup ecosystem. The goal is simple: fewer random conversations, more relevant connections and a better chance of finding someone you can actually build with."
+      "link": "https://www.garysguide.com/events/p88jn85/Open-House-New-York",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Tanya Bragin (VP Product & Mktg, ClickHouse), Mike Shi (Principal PM, ClickHouse), Krithika Balagurunathan (Dir., ClickHouse), Zach Naimon (Principal PM, ClickHouse)."
+    },
+    "gary_2026_09_10_same_team_triple_the_volume_ai_masterclass_sessions": {
+      "title": "Same Team, Triple The Volume - AI Masterclass Sessions",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-09-10",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Thu, 09/10 · 9:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, 57 W 57th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/0o5nbml/Same-Team-Triple-The-Volume-AI-Masterclass-Sessions",
+      "map": "https://maps.google.com/?q=Venue%2C%2057%20W%2057th%20St",
+      "summary": "Gary's Guide: A working session for eCommerce operators. Get your holiday AI stack sorted before Q4. Hosted by Streamline Agency with Gorgias, Retell AI, & Backstroke. Get a clear, practical read on where AI belongs in their BFCM stack, from creative production through operations & support, before Q4 locks & there is no time left to change anything. Sit with brands using AI to scale revenue & team capacity through peak season, & with the platform teams behind those tools. Creative production, operations, retention, & support, all in one morning. No decks. No 40 minute conference talks. Come with questions & your actual stack in mind. What you leave with Real AI use cases running inside real brands, not roadmap slides Direct conversation with the platform teams & with peers already running the setup A read on the specific gap in your stack while there is still time to close it A short list of what to test in September, & what to leave alone until January Masterclass Sessions: CX & Support. Gorgias, with a brand walking through the workflow they will actually run on Black Friday. Where AI resolution ends & a human has to take over. Voice & Intake. Retell AI on capturing after hours & overflow calls & turning them into structured records something downstream can act on. Retention & Lifecycle. Backstroke on AI generated campaigns & segmentation that stay on brand when send volume spikes. Integration & Automation. n8n on the plumbing between all of it, & what happens when a step fails at 2am on Cyber Monday. Who this is for Built for eCommerce & D2C brands doing roughly $20M to $200M, & specifically for the people who feel peak season in their day: COO & VP Operations VP & Director of eCommerce or Digital Head or Director of Customer Experience & Support Director of Retention, Lifecycle, or CRM Business Operations & Ops Tech leads Founders at the earlier end of that range If you are the person currently holding your stack together with manual exports & good intentions, this room is for you. Who we are Streamline Agency builds the integration layer between the tools eCommerce brands already own. Certified n8n & Anthropic Claude partner."
+    },
+    "gary_2026_09_10_health2tech": {
+      "title": "Health2Tech",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-09-10",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Thu, 09/10 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/j5qzosx/Health2Tech",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Margaret Davidson (Company Ventures), Michelle Wang (Wavemaker 360), Jessie Gentil (Health Enterprise Partners)."
+    },
+    "gary_2026_09_10_the_builder_series_founder_investor_operator_nights": {
+      "title": "The Builder Series - Founder, Investor & Operator Nights",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-09-10",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 09/10 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/z3rpm9p/The-Builder-Series-Founder-Investor-Operator-Nights",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Connect w/ founders, operators, investors & others w/ experiences people remember & relationships that last"
     },
     "luma_2026_08_24_ai_and_what_makes_us_human_a_fireside_chat_with_cami": {
       "title": "AI and What Makes Us Human, a Fireside Chat with Camille Carlton + Responsible Tech Mixer",
@@ -1450,40 +1416,6 @@
       "link": "https://engineering.nyu.edu/events/2026/09/02/cue-career-corner-drop-hours",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Career Development"
-    },
-    "jc_culture_42971_2026_08_23_charity_vyshyvanka_run_walk_2026": {
-      "title": "Charity Vyshyvanka Run & Walk 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sun",
-      "date": "2026-08-23",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sun, 08/23 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "JC WATER FRONT",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/charity-vyshyvanka-run-walk-2026/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor What's Coming Up?."
-    },
-    "jc_culture_38060_2026_08_23_jersey_city_summerfest_2026_3d_rhythm_of_life": {
-      "title": "Jersey City Summerfest 2026 / 3D Rhythm of Life",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sun",
-      "date": "2026-08-23",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sun, 08/23 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Liberty State Park, North Cove",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-rhythm-of-life/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "&nbsp; JC Summerfest featuring 3D Rhythm of Life Tropical Latin Soul North Cove Field Liberty State Park 6pm-8pm"
     },
     "jc_culture_41602_2026_08_24_ukraine_flag_raising_ceremony_2026": {
       "title": "Ukraine Flag Raising Ceremony 2026",
@@ -1892,6 +1824,23 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-09-23/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_10004827_2026_09_24_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Thu",
+      "date": "2026-09-24",
+      "time": "7:30 PM",
+      "sort": 19.5,
+      "when": "Thu, 09/24 · 7:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-09-24/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
     }
   },
   "clusters": {
@@ -1904,18 +1853,9 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_08_22_12_pm": [
-      "skint_90233_0_fourth_annual_summer_blockfest_hip_hop_festival_comm",
-      "skint_90233_1_26th_jersey_city_pride_equality_march_and_festival"
-    ],
     "cluster_2026_08_23_10_am": [
-      "skint_90233_2_42nd_pakistan_day_parade",
-      "skint_90233_3_49th_annual_brighton_jubilee"
-    ],
-    "cluster_2026_08_22_9_am": [
-      "gary_2026_08_22_the_great_founder_river_float_of_2026",
-      "gary_2026_08_22_dell_x_nvidia_hackathon",
-      "gary_2026_08_22_dell_x_nvidia_hackathon_local_ai_on_dell_pro_max"
+      "skint_90233_0_42nd_pakistan_day_parade",
+      "skint_90233_1_49th_annual_brighton_jubilee"
     ],
     "cluster_2026_08_24_6_pm": [
       "gary_2026_08_24_ai_what_makes_us_human",
@@ -1925,8 +1865,7 @@
     "cluster_2026_08_25_6_pm": [
       "gary_2026_08_25_kubernetes_developers_meetup",
       "gary_2026_08_25_building_an_ai_agent_native_marketing_org",
-      "gary_2026_08_25_tech_x_market_decoders_this_week_s_topic_anthropic_s",
-      "gary_2026_08_25_kubernetes_observability_agentic_ops_w_elastic"
+      "gary_2026_08_25_tech_x_market_decoders_this_week_s_topic_anthropic_s"
     ],
     "cluster_2026_08_27_6_pm": [
       "gary_2026_08_27_ai_engineers_devs_drinks",
@@ -1945,6 +1884,10 @@
     "cluster_2026_09_09_8_am": [
       "gary_2026_09_09_everything_ai_conference",
       "gary_2026_09_09_finovate_fall_2026"
+    ],
+    "cluster_2026_09_10_9_am": [
+      "gary_2026_09_10_open_house_new_york",
+      "gary_2026_09_10_same_team_triple_the_volume_ai_masterclass_sessions"
     ],
     "cluster_2026_08_24_10_pm": [
       "luma_2026_08_24_ai_and_what_makes_us_human_a_fireside_chat_with_cami",
