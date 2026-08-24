@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 24, 2026, 7:18 AM EDT",
+    "checked": "Aug 24, 2026, 3:56 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1296,7 +1296,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/shortlistaugust",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: The Shortlist NY, Sangavi Suresh, Andrew Yeung, Ivor Stratford, Matthew Harrigan"
+      "summary": "Luma NYC: The Shortlist NY, Sangavi Suresh, Andrew Yeung, Ivor Stratford"
     },
     "luma_2026_08_25_fintech_run_club_ft_rain_monk_jp_morgan": {
       "title": "Fintech Run Club ft. Rain + Monk + JP Morgan",
@@ -1586,6 +1586,23 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-09-02/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_43029_2026_09_05_labor_day_weekend_salsa_at_grundy_park": {
+      "title": "Labor Day Weekend: Salsa at Grundy Park",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-09-05",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Sat, 09/05 · 1pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "J OWEN GRUNDY PIER, HUDSON ST, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/labor-day-weekend-salsa-at-grundy-park/",
+      "map": "https://maps.google.com/?q=J%20OWEN%20GRUNDY%20PIER%2C%20HUDSON%20ST%2C%20JERSEY%20CITY",
+      "summary": "Labor Day Weekend (Saturday, September 5) 5th Annual Salsa at Grundy Park Pier (Exchange Place-Jersey City) Free Community Event: Brought to you by U-neekSounds Entertainment in Partnership with RWJ Barnabas Health / Jersey City Medical Center Zumba Class @ 2PM by Wilson “El Bailarin” Gutierrez Followed By Live Music with Richie Gonzalez & The Copacabana All-Stars @3PM Follow on Instagram @salsaatgrundypark"
     },
     "jc_culture_42524_2026_09_08_summer_fest_south_lawn_lsp_carlos_jimenez_mambo_dulc": {
       "title": "Summer Fest South Lawn LSP CARLOS JIMENEZ MAMBO DULCET 2026",
