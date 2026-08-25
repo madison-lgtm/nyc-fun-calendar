@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 25, 2026, 7:18 AM EDT",
+    "checked": "Aug 25, 2026, 3:56 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1214,23 +1214,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Connect w/ founders, operators, investors & others w/ experiences people remember & relationships that last"
     },
-    "luma_2026_08_25_fintech_run_club_ft_rain_monk_jp_morgan": {
-      "title": "Fintech Run Club ft. Rain + Monk + JP Morgan",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-08-25",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Tue, 08/25 · 11am",
-      "price": "Free",
-      "free": true,
-      "place": "Marsha P. Johnson Memorial Fountain",
-      "source": "Luma NYC",
-      "link": "https://luma.com/2ezybaln",
-      "map": "https://maps.google.com/?q=Marsha%20P.%20Johnson%20Memorial%20Fountain%20NYC",
-      "summary": "Luma NYC: Pedro D'Avila, Pedro D'Avila, FinTech Running Club, Rain Events, Kendall Warson, Connor Griffin, Jacob Tamkin"
-    },
     "luma_2026_08_25_marketing_engineer_happy_hour": {
       "title": "Marketing Engineer Happy Hour",
       "type": "tech",
@@ -1247,6 +1230,23 @@
       "link": "https://luma.com/r3pdbsea",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Profound Community Events, Kate Underwood, Nick Lafferty, Eleanor Hooker, Kaylin Wallen"
+    },
+    "luma_2026_08_27_building_the_agentic_economy_with_fireblocks_circle_": {
+      "title": "Building the Agentic Economy with Fireblocks, Circle & Blockrun",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-08-27",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Thu, 08/27 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "5 Pennsylvania Plaza",
+      "source": "Luma NYC",
+      "link": "https://luma.com/lon7mu2d",
+      "map": "https://maps.google.com/?q=5%20Pennsylvania%20Plaza%20NYC",
+      "summary": "Luma NYC: Dynamic, Dynamic, Fireblocks, Circle, BlockRun AI"
     },
     "luma_2026_08_27_the_self_driving_product_merge_x_posthog_x_redis_tec": {
       "title": "The Self-Driving Product: Merge x PostHog x Redis Technical Talks",
@@ -1469,23 +1469,6 @@
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "Berry Lane Park featuring Wicked for Good"
     },
-    "jc_culture_38073_2026_08_27_berry_lane_music_fest_2026_marlena_moniece": {
-      "title": "Berry Lane Music Fest 2026 / Marlena Moniece",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Thu",
-      "date": "2026-08-27",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Thu, 08/27 · 6:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Berry Lane Park, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-marlena-moniece/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "&nbsp; JC Summerfest featuring Marlena Moniece Berry Lane Park 6:30pm-8:30pm"
-    },
     "jc_culture_42396_2026_08_27_berry_lane_music_fest_2026_demolition_brass_band": {
       "title": "Berry Lane Music Fest 2026 / Demolition Brass Band",
       "type": "entertainment",
@@ -1502,6 +1485,23 @@
       "link": "https://jerseycityculture.org/event/berry-lane-music-fest-2026-demolition-brass-band/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "JC Summerfest featuring Demolition Brass Band Berry Lane Park 6:30pm-8:30pm"
+    },
+    "jc_culture_43437_2026_08_29_back_to_school_book_bag_supply_drive_2026": {
+      "title": "Back to School Book Bag & Supply Drive 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Sat",
+      "date": "2026-08-29",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Sat, 08/29 · 10am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ARLINGTON PARK, Btw Grand Street and Arlington Ave",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/back-to-school-book-bag-supply-drive-2026/",
+      "map": "https://maps.google.com/?q=ARLINGTON%20PARK%2C%20Btw%20Grand%20Street%20and%20Arlington%20Ave",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor What's Coming Up?."
     },
     "jc_culture_42206_2026_09_01_summer_fest_south_lawn_lsp_forget_the_whale_2026": {
       "title": "Summer Fest South Lawn LSP FORGET THE WHALE 2026",
@@ -1871,7 +1871,6 @@
     "cluster_2026_08_27_6_30_pm": [
       "gary_2026_08_27_gtm_leaders_vol_1_breaking_through_the_ai_slop",
       "gary_2026_08_27_founders_operators_rooftop_social",
-      "jc_culture_38073_2026_08_27_berry_lane_music_fest_2026_marlena_moniece",
       "jc_culture_42396_2026_08_27_berry_lane_music_fest_2026_demolition_brass_band"
     ],
     "cluster_2026_09_03_12_pm": [
@@ -1890,9 +1889,9 @@
       "gary_2026_09_10_open_house_new_york",
       "gary_2026_09_10_same_team_triple_the_volume_ai_masterclass_sessions"
     ],
-    "cluster_2026_08_25_11_am": [
-      "luma_2026_08_25_fintech_run_club_ft_rain_monk_jp_morgan",
-      "nyu_tandon_2026_08_25_instructional_tech_drop_in_sessions"
+    "cluster_2026_08_27_10_pm": [
+      "luma_2026_08_27_building_the_agentic_economy_with_fireblocks_circle_",
+      "luma_2026_08_27_the_self_driving_product_merge_x_posthog_x_redis_tec"
     ]
   }
 }
