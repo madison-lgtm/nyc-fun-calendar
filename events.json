@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 24, 2026, 3:56 PM EDT",
+    "checked": "Aug 25, 2026, 7:18 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-24",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Aug 24"
-      },
       {
         "iso": "2026-08-25",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Aug 30"
+      },
+      {
+        "iso": "2026-08-31",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Aug 31"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-24",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Aug 24"
-      },
       {
         "iso": "2026-08-25",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Sep 23"
+      },
+      {
+        "iso": "2026-09-24",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Sep 24"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "8 AM",
       "8:30 AM",
@@ -257,7 +257,8 @@
       "7:30 PM",
       "8 PM",
       "8:30 PM",
-      "10 PM"
+      "10 PM",
+      "10:30 PM"
     ]
   },
   "events": {
@@ -447,57 +448,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "skint_90233_0_42nd_pakistan_day_parade": {
-      "title": "42nd pakistan day parade",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-08-23",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 08/23 · 10am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "madison ave from e 38th st to e 24th st",
-      "source": "The Skint",
-      "link": "https://flatironnomad.nyc/event/district-event-pakistan-day-parade-2/",
-      "map": "https://maps.google.com/?q=madison%20ave%20from%20e%2038th%20st%20to%20e%2024th%20st%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm: 42nd pakistan day parade: madison ave from e 38th st to e 24th st."
-    },
-    "skint_90233_1_49th_annual_brighton_jubilee": {
-      "title": "49th annual brighton jubilee",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-08-23",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 08/23 · 10am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "brighton beach avenue between corbin place + coney island ave",
-      "source": "The Skint",
-      "link": "http://brightonbeach.com/jubilee-festival.html",
-      "map": "https://maps.google.com/?q=brighton%20beach%20avenue%20between%20corbin%20place%20%2B%20coney%20island%20ave%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm: 49th annual brighton jubilee: brighton beach avenue between corbin place + coney island ave."
-    },
-    "skint_90233_2_nyc_plant_market": {
-      "title": "nyc plant market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-08-23",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 08/23 · 1-7pm (monthly thru 10/18)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "culture lab lic",
-      "source": "The Skint",
-      "link": "https://nycplantmarket.com",
-      "map": "https://maps.google.com/?q=culture%20lab%20lic%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-7pm (monthly thru 10/18): nyc plant market: culture lab lic."
     },
     "gary_2026_08_24_ai_what_makes_us_human": {
       "title": "AI & What Makes Us Human",
@@ -1264,40 +1214,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Connect w/ founders, operators, investors & others w/ experiences people remember & relationships that last"
     },
-    "luma_2026_08_24_ai_and_what_makes_us_human_a_fireside_chat_with_cami": {
-      "title": "AI and What Makes Us Human, a Fireside Chat with Camille Carlton + Responsible Tech Mixer",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-08-24",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Mon, 08/24 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "BrainStation",
-      "source": "Luma NYC",
-      "link": "https://luma.com/84wnmw5y",
-      "map": "https://maps.google.com/?q=BrainStation%20NYC",
-      "summary": "Luma NYC: All Tech Is Human, All Tech Is Human, Center for Humane Technology, BrainStation"
-    },
-    "luma_2026_08_24_the_shortlist_august_founder_showcase": {
-      "title": "The Shortlist: August Founder Showcase",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-08-24",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Mon, 08/24 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/shortlistaugust",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: The Shortlist NY, Sangavi Suresh, Andrew Yeung, Ivor Stratford"
-    },
     "luma_2026_08_25_fintech_run_club_ft_rain_monk_jp_morgan": {
       "title": "Fintech Run Club ft. Rain + Monk + JP Morgan",
       "type": "startup",
@@ -1314,6 +1230,40 @@
       "link": "https://luma.com/2ezybaln",
       "map": "https://maps.google.com/?q=Marsha%20P.%20Johnson%20Memorial%20Fountain%20NYC",
       "summary": "Luma NYC: Pedro D'Avila, Pedro D'Avila, FinTech Running Club, Rain Events, Kendall Warson, Connor Griffin, Jacob Tamkin"
+    },
+    "luma_2026_08_25_marketing_engineer_happy_hour": {
+      "title": "Marketing Engineer Happy Hour",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-08-25",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Tue, 08/25 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/r3pdbsea",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Profound Community Events, Kate Underwood, Nick Lafferty, Eleanor Hooker, Kaylin Wallen"
+    },
+    "luma_2026_08_27_the_self_driving_product_merge_x_posthog_x_redis_tec": {
+      "title": "The Self-Driving Product: Merge x PostHog x Redis Technical Talks",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-08-27",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Thu, 08/27 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/gfn0jy68",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Merge Events, Merge Team, Shensi Ding, Matthew Feroz, PostHog, Nitin kanukolanu"
     },
     "nyu_tandon_2026_08_25_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1417,22 +1367,22 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Career Development"
     },
-    "jc_culture_41602_2026_08_24_ukraine_flag_raising_ceremony_2026": {
-      "title": "Ukraine Flag Raising Ceremony 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Mon",
-      "date": "2026-08-24",
-      "time": "11:30 AM",
-      "sort": 11.5,
-      "when": "Mon, 08/24 · 11:30am",
+    "nyu_tandon_2026_09_03_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
+      "type": "tech",
+      "label": "Workshop / Training",
+      "day": "Thu",
+      "date": "2026-09-03",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Thu, 09/03 · 12:00 PM",
       "price": "Free / varies",
       "free": true,
-      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/ukraine-flag-raising-ceremony-2026/",
-      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/03/instructional-tech-drop-sessions",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Workshop / Training"
     },
     "jc_culture_38068_2026_08_25_jersey_city_summerfest_2026_annie_minogue_band": {
       "title": "Jersey City Summerfest 2026 / Annie Minogue Band",
@@ -1858,6 +1808,40 @@
       "link": "https://jerseycityculture.org/event/rent-the-musical/2026-09-24/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10004823_2026_09_25_the_society_of_american_graphic_artists_saga_91st_an": {
+      "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-09-25",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Fri, 09/25 · 3pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "MANA CONTEMPORARY, 888 NEWARK AVE., JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-25/",
+      "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
+      "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
+    },
+    "jc_culture_10004828_2026_09_25_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-09-25",
+      "time": "7:30 PM",
+      "sort": 19.5,
+      "when": "Fri, 09/25 · 7:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-09-25/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
     }
   },
   "clusters": {
@@ -1869,10 +1853,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_08_23_10_am": [
-      "skint_90233_0_42nd_pakistan_day_parade",
-      "skint_90233_1_49th_annual_brighton_jubilee"
     ],
     "cluster_2026_08_24_6_pm": [
       "gary_2026_08_24_ai_what_makes_us_human",
@@ -1894,6 +1874,10 @@
       "jc_culture_38073_2026_08_27_berry_lane_music_fest_2026_marlena_moniece",
       "jc_culture_42396_2026_08_27_berry_lane_music_fest_2026_demolition_brass_band"
     ],
+    "cluster_2026_09_03_12_pm": [
+      "gary_2026_09_03_everything_i_learned_scaling_my_business_to_7_figure",
+      "nyu_tandon_2026_09_03_instructional_tech_drop_in_sessions"
+    ],
     "cluster_2026_09_03_6_pm": [
       "gary_2026_09_03_the_capital_mixer_6_active_funds_meet_seed_series_a_",
       "gary_2026_09_03_sell_me_this_ai_a_no_bs_sales_workshop"
@@ -1905,10 +1889,6 @@
     "cluster_2026_09_10_9_am": [
       "gary_2026_09_10_open_house_new_york",
       "gary_2026_09_10_same_team_triple_the_volume_ai_masterclass_sessions"
-    ],
-    "cluster_2026_08_24_10_pm": [
-      "luma_2026_08_24_ai_and_what_makes_us_human_a_fireside_chat_with_cami",
-      "luma_2026_08_24_the_shortlist_august_founder_showcase"
     ],
     "cluster_2026_08_25_11_am": [
       "luma_2026_08_25_fintech_run_club_ft_rain_monk_jp_morgan",
