@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 26, 2026, 7:20 AM EDT",
+    "checked": "Aug 26, 2026, 6:25 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -248,6 +248,7 @@
       "2 PM",
       "2:30 PM",
       "3 PM",
+      "3:30 PM",
       "4 PM",
       "5 PM",
       "5:30 PM",
@@ -1486,6 +1487,23 @@
       "map": "https://maps.google.com/?q=ARLINGTON%20PARK%2C%20Btw%20Grand%20Street%20and%20Arlington%20Ave",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor What's Coming Up?."
     },
+    "jc_culture_43470_2026_09_01_childhood_cancer_flag_raising_ceremony_2026": {
+      "title": "Childhood Cancer Flag Raising Ceremony 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Tue",
+      "date": "2026-09-01",
+      "time": "3:30 PM",
+      "sort": 15.5,
+      "when": "Tue, 09/01 · 3:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "City Hall Balcony, 280 GROVE ST, JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/childhood-cancer-flag-raising-ceremony-2026/",
+      "map": "https://maps.google.com/?q=City%20Hall%20Balcony%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Outdoor What's Coming Up?."
+    },
     "jc_culture_42206_2026_09_01_summer_fest_south_lawn_lsp_forget_the_whale_2026": {
       "title": "Summer Fest South Lawn LSP FORGET THE WHALE 2026",
       "type": "park",
@@ -1536,6 +1554,23 @@
       "link": "https://jerseycityculture.org/event/labor-day-weekend-salsa-at-grundy-park/",
       "map": "https://maps.google.com/?q=J%20OWEN%20GRUNDY%20PIER%2C%20HUDSON%20ST%2C%20JERSEY%20CITY",
       "summary": "Labor Day Weekend (Saturday, September 5) 5th Annual Salsa at Grundy Park Pier (Exchange Place-Jersey City) Free Community Event: Brought to you by U-neekSounds Entertainment in Partnership with RWJ Barnabas Health / Jersey City Medical Center Zumba Class @ 2PM by Wilson “El Bailarin” Gutierrez Followed By Live Music with Richie Gonzalez & The Copacabana All-Stars @3PM Follow on Instagram @salsaatgrundypark"
+    },
+    "jc_culture_43472_2026_09_08_children_of_faith_flag_raising_ceremony_2026": {
+      "title": "Children of Faith Flag Raising Ceremony 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Tue",
+      "date": "2026-09-08",
+      "time": "11:30 AM",
+      "sort": 11.5,
+      "when": "Tue, 09/08 · 11:30am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/children-of-faith-flag-raising-ceremony-2026/",
+      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Festivals Kids Activities Outdoor What's Coming Up?."
     },
     "jc_culture_42524_2026_09_08_summer_fest_south_lawn_lsp_carlos_jimenez_mambo_dulc": {
       "title": "Summer Fest South Lawn LSP CARLOS JIMENEZ MAMBO DULCET 2026",
@@ -1622,6 +1657,23 @@
       "map": "https://maps.google.com/?q=BERGEN%20SQUARE%2C%20BERGEN%20SQUARE%20%26%20ACAMDEMY%20ST%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor Visual & Performing Arts What's Coming Up?."
     },
+    "jc_culture_43474_2026_09_12_children_of_faith_festival_2026": {
+      "title": "Children of Faith Festival 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-09-12",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 09/12 · 12pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "CITY OF JC CITY HALL PARK, 280 GROVE ST, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/children-of-faith-festival-2026/",
+      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%20PARK%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Festivals Kids Activities Outdoor What's Coming Up?."
+    },
     "jc_culture_10004818_2026_09_12_the_society_of_american_graphic_artists_saga_91st_an": {
       "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
       "type": "art",
@@ -1689,6 +1741,23 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-09-16/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_43485_2026_09_16_remembering_honoring_mayor_state_senator_glenn_dale_": {
+      "title": "Remembering & Honoring Mayor & State Senator Glenn Dale Cunningham 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Wed",
+      "date": "2026-09-16",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Wed, 09/16 · 5pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "GLENN DALE CUNNINGHAM LIBRARY, 275 MLK DRIVE, JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/remembering-honoring-mayor-state-senator-glenn-dale-cunningham-2026/",
+      "map": "https://maps.google.com/?q=GLENN%20DALE%20CUNNINGHAM%20LIBRARY%2C%20275%20MLK%20DRIVE%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community History What's Coming Up?."
     },
     "jc_culture_42957_2026_09_17_post_card_memories_ellis_island_2026": {
       "title": "Post Card Memories Ellis Island 2026",
@@ -1926,6 +1995,10 @@
       "luma_2026_08_27_building_the_agentic_economy_with_fireblocks_circle_",
       "luma_2026_08_27_i_have_an_idea_club_1_vibe_coding_night",
       "luma_2026_08_27_the_self_driving_product_merge_x_posthog_x_redis_tec"
+    ],
+    "cluster_2026_09_12_12_pm": [
+      "jc_culture_42953_2026_09_12_bergen_square_day_2026",
+      "jc_culture_43474_2026_09_12_children_of_faith_festival_2026"
     ]
   }
 }
