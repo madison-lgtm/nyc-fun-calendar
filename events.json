@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 25, 2026, 3:56 PM EDT",
+    "checked": "Aug 26, 2026, 7:20 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-25",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Aug 25"
-      },
       {
         "iso": "2026-08-26",
         "key": "Wed",
@@ -45,15 +39,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Aug 31"
+      },
+      {
+        "iso": "2026-09-01",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Sep 1"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-25",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Aug 25"
-      },
       {
         "iso": "2026-08-26",
         "key": "Wed",
@@ -233,9 +227,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Sep 24"
+      },
+      {
+        "iso": "2026-09-25",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Sep 25"
       }
     ],
-    "todayKey": "Tue",
+    "todayKey": "Wed",
     "times": [
       "8 AM",
       "8:30 AM",
@@ -448,57 +448,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "gary_2026_08_24_ai_what_makes_us_human": {
-      "title": "AI & What Makes Us Human",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-08-24",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 08/24 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "BrainStation, 136 Crosby St, 4th Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/o4ndosr/AI-What-Makes-Us-Human",
-      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
-      "summary": "Gary's Guide: With Camille Carlton (Dir. Strategy & Impact, Center for Humane Tech)."
-    },
-    "gary_2026_08_24_the_shortlist_founder_showcase": {
-      "title": "The Shortlist Founder Showcase",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-08-24",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 08/24 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/icibb23/The-Shortlist-Founder-Showcase",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: The Shortlist NYC - August Founder Showcase (#8) The Shortlist is back for our monthly Founder Showcase & the room keeps getting better. This is a monthly curated, application-only evening connecting early-stage founders with exceptional operators across New York. No panels. No pitches to VCs. Just six founders building breakout companies, a room full of people who've built things themselves, & the kind of candid conversation you don't get at most events. Each founder will share what they're building, why it matters, & the specific roles they're actively hiring for right now - followed by a mixer. What to expect: Founders presenting at the seed through Series B stage. Operators, builders, & executives who've seen what good looks like. An intentionally small room designed for real connection. Who this is for: Exceptional operators - whether you're actively exploring your next role, casually curious, or simply want to stay close to what's being built in NYC right now. Founders will be announced in the days leading up to the event. Attendance is intentionally limited. Apply to be considered. More information on The Shortlist can be found here. Founded by Andrew Yeung & Ivor Straford."
-    },
-    "gary_2026_08_24_acelab_x_structured_ai_hackathon": {
-      "title": "Acelab x Structured AI Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-08-24",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 08/24 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/15dpu6b/Acelab-x-Structured-AI-Hackathon",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Join Acelab & Structured AI for an evening of building, food, & drinks. On any project the drawings, specs, & material library all disagree with each other in small ways. A door spec'd at a 90-minute fire rating that's scheduled at 60. A product still sitting in the specs years after its certification lapsed. Someone either catches these by reading everything twice, or nobody does. We're opening up Structured's document parsing & Acelab's material search for the night so you can take a run at automating it. Everyone gets the same package with a set of known errors planted in it, & we score what you build against ground truth at the end."
     },
     "gary_2026_08_25_founders_breakfast_club": {
       "title": "Founders Breakfast Club",
@@ -1214,22 +1163,56 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Connect w/ founders, operators, investors & others w/ experiences people remember & relationships that last"
     },
-    "luma_2026_08_25_marketing_engineer_happy_hour": {
-      "title": "Marketing Engineer Happy Hour",
+    "gary_2026_09_10_product_evenings_ai_pm_playbook": {
+      "title": "Product Evenings - AI PM Playbook",
       "type": "tech",
       "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-08-25",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Tue, 08/25 · 10:30pm",
+      "day": "Thu",
+      "date": "2026-09-10",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 09/10 · 6:00pm",
+      "price": "$45",
+      "free": false,
+      "place": "BrainStation, 136 Crosby St, 4th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/cxcp4in/Product-Evenings-AI-PM-Playbook",
+      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
+      "summary": "Gary's Guide: With Sebastian Misiurek (Product, Nvidia)."
+    },
+    "gary_2026_09_10_ai_marketing_salon": {
+      "title": "AI & Marketing Salon",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-09-10",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 09/10 · 6:30pm",
       "price": "Free",
       "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/r3pdbsea",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Profound Community Events, Kate Underwood, Nick Lafferty, Eleanor Hooker, Kaylin Wallen"
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/71j55j5/AI-Marketing-Salon",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: A curated dinner where we discuss the future of marketing. Hi, Andrew Yeung here. I'm hosting edition #5 of our AI & marketing salon, exclusively for CMOs, VPs, Directors, & Heads of Marketing. There are twelve seats available for marketing leaders who are interested in having a conversation about about what's actually working, what's overhyped, & where the puck is heading next. Details: Date: Sep 10, 2026 Time: 6:30pm - 9:00pm Venue: Private Dining Room in NYC Who's in the room? Twelve CMOs, VPs, & Directors of Marketing from mid-market enterprise tech companies & legendary consumer brands. We keep it small on purpose, so every person at the table is someone the rest want to hear from. Past dinners have brought together marketing leaders from L'Oral, Capital One, American Express, Mastercard, Google, Meta, Match Group, Bark, Anthropic, Perplexity, Cloaked, Antimetal, Whizz, & many more. How the night runs Dinner at one of the city's best tables, in a private setting built for real conversation rather than small talk. Over the meal, we post three questions on the biggest shifts in AI & marketing. Each guest shares their perspective, so you leave with twelve points of view from people solving the same problems you are. --- Seats are limited to 12 & are confirmed by the host. Request a spot below & we'll be in touch to finalize your seat. Hosted & moderated by Andrew Yeung & friends. About our Hosts & Sponsors: Andrew Yeung is the founder of Fibe (a portfolio of events companies including Andrew's Mixers, The Junto Series, & Lumos House). He is also a Partner at Next Wave NYC, a pre-seed/seed found backed by Flybridge Capital. Andrew's hosted 200+ events for 50,000+ tech founders & professionals in 8 cities that were featured in Bloomberg, Business Insider, Fast Company, & Fortune Magazine. Business Insider dubbed him the \"Gatsby of Silicon Alley.\" Kamal Bhandal is a marketing executive with expertise at the intersection of consumer health & tech. She's scaled multiple businesses by integrating brands into culture, from major partnerships across sports & entertainment to building with creators early in the creator economy. Kamal has been recognized as a top marketing leader in the industry & has worked in various organizations including startups, Intel, Johnson & Johnson, & currently is the SVP of Marketing for the Invisalign Brand + Americas Marketing. NewForm grows category-disrupting software companies through high volumes of iterative short-form video. Thousands of ads are produced each month, agentically tested & analyzed, with insights fed back to creators. This closed loop builds a consistent & scalable creative engine for paid growth. Petra Labs turns AI Search into a leading, measurable growth channel. We manage the channel end to end & build custom attribution models, so you can see exactly what each effort returns. We currently lead AI Search for brands like Four Seasons, Zapier, Rippling, & others. Get on the list for future events: Twitter Instagram Website"
+    },
+    "gary_2026_09_14_fast_company_innovation_festival": {
+      "title": "Fast Company Innovation Festival",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-09-14",
+      "time": "8 AM",
+      "sort": 8,
+      "when": "Mon, 09/14 · 8:00am",
+      "price": "$749",
+      "free": false,
+      "place": "The Hub at Convene, 225 Liberty St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/5qe9qk1/Fast-Company-Innovation-Festival",
+      "map": "https://maps.google.com/?q=The%20Hub%20at%20Convene%2C%20225%20Liberty%20St",
+      "summary": "Gary's Guide: With Cristiano Amon (CEO, Qualcomm), Paul Dillinger (Head of Design Innovation, Levi Strauss), Mike Intrator (CEO, CoreWeave), Andrew Beebe (MD, Obvious), Chet Kittleson (Founder, Tin Can), Rachel Kornafel (Chief Brand Officer, Union Sq Hospitality)."
     },
     "luma_2026_08_27_building_the_agentic_economy_with_fireblocks_circle_": {
       "title": "Building the Agentic Economy with Fireblocks, Circle & Blockrun",
@@ -1248,6 +1231,23 @@
       "map": "https://maps.google.com/?q=5%20Pennsylvania%20Plaza%20NYC",
       "summary": "Luma NYC: Dynamic, Dynamic, Fireblocks, Circle, BlockRun AI"
     },
+    "luma_2026_08_27_i_have_an_idea_club_1_vibe_coding_night": {
+      "title": "I Have an Idea Club #1: Vibe coding night",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-08-27",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Thu, 08/27 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/y9i7jis8",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Amanda, Amanda, Janky Patel, Deana Davoudiasl"
+    },
     "luma_2026_08_27_the_self_driving_product_merge_x_posthog_x_redis_tec": {
       "title": "The Self-Driving Product: Merge x PostHog x Redis Technical Talks",
       "type": "tech",
@@ -1265,22 +1265,22 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Merge Events, Merge Team, Shensi Ding, Matthew Feroz, PostHog, Nitin kanukolanu"
     },
-    "nyu_tandon_2026_08_25_instructional_tech_drop_in_sessions": {
-      "title": "Instructional Tech Drop-in Sessions",
-      "type": "tech",
-      "label": "Workshop / Training",
-      "day": "Tue",
-      "date": "2026-08-25",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Tue, 08/25 · 11:00 AM",
-      "price": "Free / varies",
+    "luma_2026_08_27_gtm_end_of_summer_rooftop": {
+      "title": "GTM End of Summer Rooftop",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-08-27",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Thu, 08/27 · 10:30pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/08/25/instructional-tech-drop-sessions",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Workshop / Training"
+      "place": "Westlight",
+      "source": "Luma NYC",
+      "link": "https://luma.com/qtqbx1x1",
+      "map": "https://maps.google.com/?q=Westlight%20NYC",
+      "summary": "Luma NYC: Default.com, Nandika, Stan Rymkiewicz, Kate Underwood, Nick Lafferty"
     },
     "nyu_tandon_2026_08_26_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1384,39 +1384,22 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
-    "jc_culture_38068_2026_08_25_jersey_city_summerfest_2026_annie_minogue_band": {
-      "title": "Jersey City Summerfest 2026 / Annie Minogue Band",
-      "type": "entertainment",
-      "label": "Music / Movies",
+    "nyu_tandon_2026_09_08_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
+      "type": "tech",
+      "label": "Workshop / Training",
       "day": "Tue",
-      "date": "2026-08-25",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Tue, 08/25 · 6:30pm",
+      "date": "2026-09-08",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Tue, 09/08 · 11:00 AM",
       "price": "Free / varies",
       "free": true,
-      "place": "Liberty State Park, South lawn",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jersey-city-summerfest-2026-anne-minogue-band/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "&nbsp; JC Summerfest featuring Anne Minogue Band Rock, Pop and Blues South Cove Lawn Liberty State Park 6pm-8pm"
-    },
-    "jc_culture_42988_2026_08_25_movies_in_the_park_2026_luca": {
-      "title": "Movies in the Park 2026 / LUCA",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Tue",
-      "date": "2026-08-25",
-      "time": "8:30 PM",
-      "sort": 20.5,
-      "when": "Tue, 08/25 · 8:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "SGT. ANTHONY PARK, 90-100 Palisade Ave., JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/movies-in-the-park-2026-luca/",
-      "map": "https://maps.google.com/?q=SGT.%20ANTHONY%20PARK%2C%2090-100%20Palisade%20Ave.%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "&nbsp; Sgt Anthony Park featuring LUCA"
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/08/instructional-tech-drop-sessions",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Workshop / Training"
     },
     "jc_culture_10003565_2026_08_26_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -1842,6 +1825,57 @@
       "link": "https://jerseycityculture.org/event/rent-the-musical/2026-09-25/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10004829_2026_09_26_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sat",
+      "date": "2026-09-26",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sat, 09/26 · 2pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-09-26/1/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10004824_2026_09_26_the_society_of_american_graphic_artists_saga_91st_an": {
+      "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-09-26",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Sat, 09/26 · 3pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "MANA CONTEMPORARY, 888 NEWARK AVE., JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-26/",
+      "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
+      "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
+    },
+    "jc_culture_10004830_2026_09_26_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sat",
+      "date": "2026-09-26",
+      "time": "7:30 PM",
+      "sort": 19.5,
+      "when": "Sat, 09/26 · 7:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-09-26/2/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
     }
   },
   "clusters": {
@@ -1853,11 +1887,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_08_24_6_pm": [
-      "gary_2026_08_24_ai_what_makes_us_human",
-      "gary_2026_08_24_the_shortlist_founder_showcase",
-      "gary_2026_08_24_acelab_x_structured_ai_hackathon"
     ],
     "cluster_2026_08_25_6_pm": [
       "gary_2026_08_25_kubernetes_developers_meetup",
@@ -1889,8 +1918,13 @@
       "gary_2026_09_10_open_house_new_york",
       "gary_2026_09_10_same_team_triple_the_volume_ai_masterclass_sessions"
     ],
+    "cluster_2026_09_10_6_pm": [
+      "gary_2026_09_10_the_builder_series_founder_investor_operator_nights",
+      "gary_2026_09_10_product_evenings_ai_pm_playbook"
+    ],
     "cluster_2026_08_27_10_pm": [
       "luma_2026_08_27_building_the_agentic_economy_with_fireblocks_circle_",
+      "luma_2026_08_27_i_have_an_idea_club_1_vibe_coding_night",
       "luma_2026_08_27_the_self_driving_product_merge_x_posthog_x_redis_tec"
     ]
   }
