@@ -1,241 +1,241 @@
 {
   "meta": {
-    "checked": "Aug 28, 2026, 10:23 PM EDT",
+    "checked": "Aug 29, 2026, 11:23 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
         "iso": "2026-08-29",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Aug 28"
-      },
-      {
-        "iso": "2026-08-30",
         "key": "Sat",
         "label": "Sat",
         "date": "Aug 29"
       },
       {
-        "iso": "2026-08-31",
+        "iso": "2026-08-30",
         "key": "Sun",
         "label": "Sun",
         "date": "Aug 30"
       },
       {
-        "iso": "2026-09-01",
+        "iso": "2026-08-31",
         "key": "Mon",
         "label": "Mon",
         "date": "Aug 31"
       },
       {
-        "iso": "2026-09-02",
+        "iso": "2026-09-01",
         "key": "Tue",
         "label": "Tue",
         "date": "Sep 1"
       },
       {
-        "iso": "2026-09-03",
+        "iso": "2026-09-02",
         "key": "Wed",
         "label": "Wed",
         "date": "Sep 2"
       },
       {
-        "iso": "2026-09-04",
+        "iso": "2026-09-03",
         "key": "Thu",
         "label": "Thu",
         "date": "Sep 3"
+      },
+      {
+        "iso": "2026-09-04",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Sep 4"
       }
     ],
     "monthDays": [
       {
         "iso": "2026-08-29",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Aug 28"
-      },
-      {
-        "iso": "2026-08-30",
         "key": "Sat",
         "label": "Sat",
         "date": "Aug 29"
       },
       {
-        "iso": "2026-08-31",
+        "iso": "2026-08-30",
         "key": "Sun",
         "label": "Sun",
         "date": "Aug 30"
       },
       {
-        "iso": "2026-09-01",
+        "iso": "2026-08-31",
         "key": "Mon",
         "label": "Mon",
         "date": "Aug 31"
       },
       {
-        "iso": "2026-09-02",
+        "iso": "2026-09-01",
         "key": "Tue",
         "label": "Tue",
         "date": "Sep 1"
       },
       {
-        "iso": "2026-09-03",
+        "iso": "2026-09-02",
         "key": "Wed",
         "label": "Wed",
         "date": "Sep 2"
       },
       {
-        "iso": "2026-09-04",
+        "iso": "2026-09-03",
         "key": "Thu",
         "label": "Thu",
         "date": "Sep 3"
       },
       {
-        "iso": "2026-09-05",
+        "iso": "2026-09-04",
         "key": "Fri",
         "label": "Fri",
         "date": "Sep 4"
       },
       {
-        "iso": "2026-09-06",
+        "iso": "2026-09-05",
         "key": "Sat",
         "label": "Sat",
         "date": "Sep 5"
       },
       {
-        "iso": "2026-09-07",
+        "iso": "2026-09-06",
         "key": "Sun",
         "label": "Sun",
         "date": "Sep 6"
       },
       {
-        "iso": "2026-09-08",
+        "iso": "2026-09-07",
         "key": "Mon",
         "label": "Mon",
         "date": "Sep 7"
       },
       {
-        "iso": "2026-09-09",
+        "iso": "2026-09-08",
         "key": "Tue",
         "label": "Tue",
         "date": "Sep 8"
       },
       {
-        "iso": "2026-09-10",
+        "iso": "2026-09-09",
         "key": "Wed",
         "label": "Wed",
         "date": "Sep 9"
       },
       {
-        "iso": "2026-09-11",
+        "iso": "2026-09-10",
         "key": "Thu",
         "label": "Thu",
         "date": "Sep 10"
       },
       {
-        "iso": "2026-09-12",
+        "iso": "2026-09-11",
         "key": "Fri",
         "label": "Fri",
         "date": "Sep 11"
       },
       {
-        "iso": "2026-09-13",
+        "iso": "2026-09-12",
         "key": "Sat",
         "label": "Sat",
         "date": "Sep 12"
       },
       {
-        "iso": "2026-09-14",
+        "iso": "2026-09-13",
         "key": "Sun",
         "label": "Sun",
         "date": "Sep 13"
       },
       {
-        "iso": "2026-09-15",
+        "iso": "2026-09-14",
         "key": "Mon",
         "label": "Mon",
         "date": "Sep 14"
       },
       {
-        "iso": "2026-09-16",
+        "iso": "2026-09-15",
         "key": "Tue",
         "label": "Tue",
         "date": "Sep 15"
       },
       {
-        "iso": "2026-09-17",
+        "iso": "2026-09-16",
         "key": "Wed",
         "label": "Wed",
         "date": "Sep 16"
       },
       {
-        "iso": "2026-09-18",
+        "iso": "2026-09-17",
         "key": "Thu",
         "label": "Thu",
         "date": "Sep 17"
       },
       {
-        "iso": "2026-09-19",
+        "iso": "2026-09-18",
         "key": "Fri",
         "label": "Fri",
         "date": "Sep 18"
       },
       {
-        "iso": "2026-09-20",
+        "iso": "2026-09-19",
         "key": "Sat",
         "label": "Sat",
         "date": "Sep 19"
       },
       {
-        "iso": "2026-09-21",
+        "iso": "2026-09-20",
         "key": "Sun",
         "label": "Sun",
         "date": "Sep 20"
       },
       {
-        "iso": "2026-09-22",
+        "iso": "2026-09-21",
         "key": "Mon",
         "label": "Mon",
         "date": "Sep 21"
       },
       {
-        "iso": "2026-09-23",
+        "iso": "2026-09-22",
         "key": "Tue",
         "label": "Tue",
         "date": "Sep 22"
       },
       {
-        "iso": "2026-09-24",
+        "iso": "2026-09-23",
         "key": "Wed",
         "label": "Wed",
         "date": "Sep 23"
       },
       {
-        "iso": "2026-09-25",
+        "iso": "2026-09-24",
         "key": "Thu",
         "label": "Thu",
         "date": "Sep 24"
       },
       {
-        "iso": "2026-09-26",
+        "iso": "2026-09-25",
         "key": "Fri",
         "label": "Fri",
         "date": "Sep 25"
       },
       {
-        "iso": "2026-09-27",
+        "iso": "2026-09-26",
         "key": "Sat",
         "label": "Sat",
         "date": "Sep 26"
       },
       {
-        "iso": "2026-09-28",
+        "iso": "2026-09-27",
         "key": "Sun",
         "label": "Sun",
         "date": "Sep 27"
+      },
+      {
+        "iso": "2026-09-28",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Sep 28"
       }
     ],
-    "todayKey": "Fri",
+    "todayKey": "Sat",
     "times": [
       "12 AM",
       "8 AM",
@@ -260,7 +260,8 @@
       "7 PM",
       "7:30 PM",
       "9 PM",
-      "10 PM"
+      "10 PM",
+      "11:30 PM"
     ]
   },
   "events": {
@@ -1385,6 +1386,23 @@
       "link": "https://luma.com/v4fbpqof",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: AssemblyAI, AssemblyAI, LiveKit Events, Boardy Boardman"
+    },
+    "luma_2026_09_02_frontier_table_nyc_ai_founder_dinner": {
+      "title": "Frontier Table NYC: AI Founder Dinner",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-09-02",
+      "time": "11:30 PM",
+      "sort": 23.5,
+      "when": "Wed, 09/02 · 11:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/frontierTableNYC",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Obvious Community Events, Obvious, Jon Bell, Michelle Parsons"
     },
     "nyu_tandon_2026_09_01_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
