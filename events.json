@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 29, 2026, 11:23 AM EDT",
+    "checked": "Aug 29, 2026, 5:54 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1335,23 +1335,6 @@
       "link": "https://www.garysguide.com/events/gfedbo6/-Dinner-Navigating-International-Business",
       "map": "https://maps.google.com/?q=The%20William%2C%2024%20E%2039th%20St%2C%20Raines%20Law%20Room",
       "summary": "Gary's Guide: Join RTM Nexus & ESW for an intimate evening at Raines Law Room, bringing together a select group of senior retail & brand leaders for an open conversation around the future of international commerce. Expanding globally has never been simple - & AI is adding an entirely new dimension. From entering & scaling in new markets to localization, customer experience, payments, fulfillment & the rise of AI-powered shopping, the way brands approach international growth is quickly changing. Over dinner, we'll explore how leaders are navigating that shift, where AI is creating real opportunities, & what retailers & brands should be thinking about now as commerce becomes increasingly global, intelligent & interconnected. No presentations or sales pitches - just great food, thoughtful conversation & candid discussion with peers tackling many of the same challenges. September 15 | 6:00 PM Raines Law Room | New York City Attendance is limited & reserved for senior leaders from retailers & brands."
-    },
-    "luma_2026_08_29_girls_into_vc_nyc_coffee_hang": {
-      "title": "Girls Into VC NYC Coffee Hang",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sat",
-      "date": "2026-08-29",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sat, 08/29 · 6pm",
-      "price": "Free",
-      "free": true,
-      "place": "Felix Roasting Co.",
-      "source": "Luma NYC",
-      "link": "https://luma.com/f3g7nnhp",
-      "map": "https://maps.google.com/?q=Felix%20Roasting%20Co.%20NYC",
-      "summary": "Luma NYC: Jenny Xie, Jenny Xie, Natalie Boykoff, Sarah Phillips, Suhani Pandya"
     },
     "luma_2026_08_31_corgi_founders_breakfast_club": {
       "title": "Corgi Founders Breakfast Club",
