@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Aug 30, 2026, 11:07 AM EDT",
+    "checked": "Aug 30, 2026, 5:59 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -798,16 +798,16 @@
       "label": "Startup / Business",
       "day": "Thu",
       "date": "2026-09-03",
-      "time": "8 AM",
-      "sort": 8,
-      "when": "Thu, 09/03 · 8:00am",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Thu, 09/03 · 9:00am",
       "price": "Varies",
       "free": false,
-      "place": "Gabelli School of Business, 140 W 62nd St, McNally Amphitheater",
+      "place": "Fordham Gabelli School of Business, 140 W 62 St",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/isxo6an/Investors-For-A-Better-America",
-      "map": "https://maps.google.com/?q=Gabelli%20School%20of%20Business%2C%20140%20W%2062nd%20St%2C%20McNally%20Amphitheater",
-      "summary": "Gary's Guide: InvestorsforaBetterAmerica.org: A nonpartisan investor conference focused on strengthening the rule of law, balance of powers, & other requirements for continued American prosperity"
+      "link": "https://www.garysguide.com/events/ppfh00d/Investors-For-A-Better-America",
+      "map": "https://maps.google.com/?q=Fordham%20Gabelli%20School%20of%20Business%2C%20140%20W%2062%20St",
+      "summary": "Gary's Guide: A nonpartisan conference for family offices & other investors strengthening our capitalist constitutional democracy. Our speakers are senior investors from Millennium, Apogem, Rothschild Asset Management, Harvard Management Company, Goldman Sachs, B Capital, First Round, Renaissance Technologies, District of Columbia Retirement, International Finance Corporation, Cantor Fitzgerald, & TIAA-CREF. We believe a free & fair democracy is foundational to a strong investment climate. Free enterprise depends on civic conditions that markets cannot create on their own, including: - Representative & accountable democracy without over-centralization & with anti-corruption safeguards - Social trust - A responsive, fiscally responsible, & effective government with an independent Federal Reserve - The ability to recruit the best people globally, and - Strong alliances, especially with other capitalist democracies. Who: investors, philanthropists, nonprofits, senior executives, founders Cost: Admission is complimentary for investing principals of family offices, foundations, endowments, & other institutional investors with at least $100m AUM, who do not manage outside capital. All others: $2,026. Use 10% discount code: IBA_Cal_2026. All revenues go to Mediators Foundation, a 501(c)3 nonprofit focused on bridging divides."
     },
     "gary_2026_09_03_everything_i_learned_scaling_my_business_to_7_figure": {
       "title": "Everything I Learned Scaling My Business To 7-Figures Without Raising Venture Capital",
@@ -1336,6 +1336,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: This half-day invitation-only event is limited to select CMOs & will provide insights into the strategies, technologies, & leadership practices by peer CMOs who are driving successful AI transformations across the world's best marketing organizations. This half-day invitation-only event is limited to select CMOs & will provide insights into the strategies, technologies, & leadership practices by peer CMOs who are driving successful AI transformations across the world's best marketing organizations. This is more than a learning experience-it's a unique forum for building connections & gaining actionable insights (in true MMA fashion!). You'll hear from leading AI experts but also actively participate in dynamic plenary discussions & breakout sessions with your peers, designed to foster collaboration & actionable takeaways. Prior topics include: HP Putting AI to Practical Use in the Enterprise AT&T's Work with GenAI GenAI Marketing Org AI Personalization (CAP) The Future of Link-based Search Agentic Consumers: Marketing to Bots AI Ethics: Defining \"Ethical AI Marketing\" Moving at the Speed of Culture Harnessing Open Source for AI Breakthroughs Future of AI Marketing & Moving from Experiments to Outcomes"
     },
+    "gary_2026_09_15_right_sizing_gen_ai_cost_performance_optimization": {
+      "title": "Right-Sizing Gen AI - Cost, Performance & Optimization",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-09-15",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Tue, 09/15 · 5:00pm",
+      "price": "Varies",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ygngyvr/Right-Sizing-Gen-AI-Cost-Performance-Optimization",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: How enterprises balance cost, performance, & efficiency as GenAI scales. As enterprises push more GenAI into production, the pressure to control cost & improve performance is intensifying. Right-Sizing Gen AI brings together leaders focused on tuning, pruning, compression, caching, & the architectural tradeoffs that determine whether GenAI is sustainable at scale. This event tackles the hard questions: which workloads justify premium compute, where small models outperform, how to optimize context flows, & how maturity frameworks can keep AI budgets from spiraling out of control. Trying to rein in costs while boosting performance? Apply to attend & learn from the leaders optimizing GenAI for scale."
+    },
     "luma_2026_08_31_corgi_founders_breakfast_club": {
       "title": "Corgi Founders Breakfast Club",
       "type": "startup",
@@ -1351,7 +1368,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/corginyc-yw1o",
       "map": "https://maps.google.com/?q=Corgi%20Cafe%20NYC",
-      "summary": "Luma NYC: Corgi NYC, Abril Zucchi, Maddie, jamie, Linda"
+      "summary": "Luma NYC: Corgi NYC, Abril Zucchi, Maddie, jamie, Linda, Drew Parten, Sean Hu"
     },
     "luma_2026_09_01_nyc_voice_ai_meetup_build_smarter_voice_agents": {
       "title": "NYC Voice AI Meetup: Build Smarter Voice Agents",
