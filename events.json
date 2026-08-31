@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 30, 2026, 5:59 PM EDT",
+    "checked": "Aug 31, 2026, 1:46 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-30",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Aug 30"
-      },
       {
         "iso": "2026-08-31",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Sep 5"
+      },
+      {
+        "iso": "2026-09-06",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Sep 6"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-30",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Aug 30"
-      },
       {
         "iso": "2026-08-31",
         "key": "Mon",
@@ -233,11 +227,18 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Sep 29"
+      },
+      {
+        "iso": "2026-09-30",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Sep 30"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
       "12 AM",
+      "7 AM",
       "8 AM",
       "8:30 AM",
       "9 AM",
@@ -260,7 +261,6 @@
       "7 PM",
       "7:30 PM",
       "9 PM",
-      "10 PM",
       "11:30 PM"
     ]
   },
@@ -452,92 +452,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_90482_0_metropolitan_postcard_club_show_sale": {
-      "title": "metropolitan postcard club show + sale",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-29",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 08/29 · 10am-5pm",
-      "price": "$3 admission",
-      "free": false,
-      "place": "church of the village (greenwich village)",
-      "source": "The Skint",
-      "link": "https://metropolitanpostcardclub.com",
-      "map": "https://maps.google.com/?q=church%20of%20the%20village%20(greenwich%20village)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-5pm: metropolitan postcard club show + sale: church of the village (greenwich village). $3 admission."
-    },
-    "skint_90482_1_harlem_book_fair": {
-      "title": "harlem book fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-29",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 08/29 · 10am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "adam clayton powell jr",
-      "source": "The Skint",
-      "link": "https://www.harlembookfair.com",
-      "map": "https://maps.google.com/?q=adam%20clayton%20powell%20jr%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-6pm: harlem book fair: adam clayton powell jr. state office building plaza."
-    },
-    "skint_90482_2_philippines_fest_presents_ubeland_x_palengke": {
-      "title": "philippines fest presents: ubeland x palengke",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-29",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 08/29 · 10am-6pm (+ more dates tba)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "broadway between 12th + 13th street (east village)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/philippinesfest/",
-      "map": "https://maps.google.com/?q=broadway%20between%2012th%20%2B%2013th%20street%20(east%20village)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-6pm (+ more dates tba): philippines fest presents: ubeland x palengke: broadway between 12th + 13th street (east village)."
-    },
-    "skint_90482_3_japan_village_summer_festival": {
-      "title": "japan village summer festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-29",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 08/29 · 1-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "japan village at industry city, brooklyn",
-      "source": "The Skint",
-      "link": "https://www.japanvillage.com/summer-festival-2026",
-      "map": "https://maps.google.com/?q=japan%20village%20at%20industry%20city%2C%20brooklyn%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 1-6pm: japan village summer festival: japan village at industry city, brooklyn."
-    },
-    "skint_90482_4_wepa_summer_salsa_socials": {
-      "title": "¡wepa! summer salsa socials",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-08-29",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Sat, 08/29 · 3-5pm (+ 9/26)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "the hispanic society museum + library (washington heights)",
-      "source": "The Skint",
-      "link": "https://hispanicsociety.org/event/wepa-summer-salsa-socials-at-the-hispanic-society/",
-      "map": "https://maps.google.com/?q=the%20hispanic%20society%20museum%20%2B%20library%20(washington%20heights)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 3-5pm (+ 9/26): ¡wepa! summer salsa socials: the hispanic society museum + library (washington heights)."
-    },
-    "skint_90482_5_saz_n_latin_food_festival": {
+    "skint_90482_0_saz_n_latin_food_festival": {
       "title": "sazón latin food festival",
       "type": "market",
       "label": "Festival / Market",
@@ -554,7 +469,7 @@
       "map": "https://maps.google.com/?q=greenwood%20park%20(south%20slope%2C%20brooklyn)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-5pm: sazón latin food festival: greenwood park (south slope, brooklyn)."
     },
-    "skint_90482_6_chinatown_block_party": {
+    "skint_90482_1_chinatown_block_party": {
       "title": "chinatown block party",
       "type": "market",
       "label": "Festival / Market",
@@ -570,40 +485,6 @@
       "link": "https://www.thinkchinatown.org/blockparty",
       "map": "https://maps.google.com/?q=mott%20%2B%20mosco%20streets%20(chinatown%2C%20manhattan)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 4-8pm: chinatown block party: mott + mosco streets (chinatown, manhattan)."
-    },
-    "skint_90482_7_ridgewood_rendezvous_drag_show_dolly_parton_tribute_": {
-      "title": "ridgewood rendezvous drag show: dolly parton tribute night",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-08-29",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Sat, 08/29 · 10pm",
-      "price": "Free admission",
-      "free": true,
-      "place": "cassette (ridgewood), free admission",
-      "source": "The Skint",
-      "link": "https://dice.fm/event/dk7keo-ridgewood-rendezvous-drag-show-dolly-parton-tribute-night-29th-aug-cassette-new-york-city-tickets",
-      "map": "https://maps.google.com/?q=cassette%20(ridgewood)%2C%20free%20admission%20NYC",
-      "summary": "dolly parton tribute events. Pulled from The Skint's public article feed: sat 10pm: ridgewood rendezvous drag show: dolly parton tribute night: cassette (ridgewood), free admission."
-    },
-    "gary_2026_08_30_building_ai_voice_agents_for_production": {
-      "title": "Building AI Voice Agents For Production",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-08-30",
-      "time": "2:30 PM",
-      "sort": 14.5,
-      "when": "Sun, 08/30 · 2:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/k9jl7qs/Building-AI-Voice-Agents-For-Production",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Get ready for an afternoon of building real voice AI agents at Belong NYC. Sam Savage from labs.supafone.ai is hosting a hands-on session focused on what it actually takes to ship voice agents that work in production, not just in a demo video. We'll be digging into the stuff that usually trips people up: phone number provisioning, call transcripts, RAG & reranking, IVR navigation, outbound call recovery, & all the messy infrastructure work that sits between \"cool prototype\" & \"agent that handles real calls reliably.\" Come hang out, bring your laptop, & build alongside others who are tired of duct-taping together five different tools just to get a voice agent to pick up the phone. We'll show you how a single framework & API key can handle voices from every major TTS provider, self-healing agents, QA testing setups, & more. Expect good conversation, good energy, & a few surprises. Voice AI should be easy, & we're excited to prove it."
     },
     "gary_2026_09_01_ai_enterprise_conference": {
       "title": "AI Enterprise Conference",
@@ -792,6 +673,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: An Evening on the AI Frontier - New York A Frontier Table Dinner, hosted by Obvious AI is changing how we build products at a dizzying rate. But it's also transforming how we build teams, companies, & even startup ecosystems. And the implications are moving faster than the conversation around them. This raises questions that matter more than whether to use Claude Code or Codex. What if the way we've built companies for the last 15 years is entirely incompatible with what's needed for the next 15? What constitutes a moat anymore? What does defensibility look like when anyone can build anything? When you're building at the epicenter of AI acceleration - where capital, talent, & ambition are concentrated at unprecedented scale - how do you build something durable instead of just fast? How do we separate what's meaningful from what's hype when everything is changing this fast? These are also the hardest questions to answer, because the answers are emerging & changing in near real time. And there is rarely space to engage them with peers living through the same transformation & operating on the frontier. So this dinner is an attempt to create that space & facilitate these discussions. The format is simple. A small table, great food, & a few hours to think out loud together. We'll open by sharing the model of the near future driving how we operate at Obvious, the one we're working backwards from. Then we'll turn it over to the room. What we'd ask of everyone is the same thing we'll offer: the fundamental observation driving you right now, & the question keeping you up at night. No agenda beyond that. Just the people best equipped to see what's coming, comparing notes before it arrives. // ABOUT OBVIOUS Obvious is an applied AI research lab. We spend our days closing the gap between what's possible & what's doable, treating our own company as the experiment for what it means to operate at agent scale. We've reinvented our product, reshaped our team, accelerated revenue, & 10x our shipping velocity in less than a year."
     },
+    "gary_2026_09_03_coffee_circle_w_daring_ventures": {
+      "title": "Coffee Circle w/ Daring Ventures",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-09-03",
+      "time": "8 AM",
+      "sort": 8,
+      "when": "Thu, 09/03 · 8:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/qqq9f4r/Coffee-Circle-w-Daring-Ventures",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Another week, another Coffee Circle. Were opening up a little time each week for founders to drop in & chat with us.nTheres no agenda & nothing to prepare. Come with a question, something youre working through, a problem you want to think out loud about, or just grab a coffee & hang for a bit.nWere happy to talk fundraising, hiring, product, customers, the joys & frustrations of building a company, or pretty much anything else that comes up.nWell be around. Come say hi."
+    },
     "gary_2026_09_03_investors_for_a_better_america": {
       "title": "Investors For A Better America",
       "type": "startup",
@@ -843,8 +741,8 @@
       "map": "https://maps.google.com/?q=Sour%20Mouse%2C%20110%20Delancey%20St",
       "summary": "Gary's Guide: NYC Tech &Startup Mixer - brought to you by Startup+ We're putting founders, engineers, investors, recruiters, freelancers, & mentors in the same room for a night of straightup networking. No panels, no speeches, just real conversations. If you're testing an idea, raising cash, or hiring your first dev, this is the place to be. Newsletter (exclusive entry & event drops): https://newsletter.startupplus.club Sponsorship / press: email - contact@startupplus.club Volunteer (Complimentary Ticket): email - contact@startupplus.club Why swing by? - Meet 100+ builders & backers in one go - Swap stories, get quick feedback, share lessons learned - Spot future cofounders, investors, customers-maybe all three What's the setup? - We've got a dedicated space, & name tags at the door - Flash a business card or a LinkedIn QR-whatever works - Dress code? Businesscasual. Jeans totally fine. A quick word on Startup+ We kicked this off in 2021, in the middle of the pandemic, because Zoom mixers just weren't cutting it. Fastforward: 25k members, 75+ mixers, 12 pitch nights, & 6000 folks through the doors. We keep it simple, connect good people & let the magic happen. Headsup: capacity is capped. Only confirmed Luma RSVPs are admitted at the door. Walkins = no go."
     },
-    "gary_2026_09_03_the_capital_mixer_6_active_funds_meet_seed_series_a_": {
-      "title": "The Capital Mixer - 6 Active Funds Meet Seed & Series A Founders",
+    "gary_2026_09_03_the_capital_mixer": {
+      "title": "The Capital Mixer",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Thu",
@@ -856,9 +754,9 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/0f2rn9v/The-Capital-Mixer-6-Active-Funds-Meet-Seed-Series-A-Founders",
+      "link": "https://www.garysguide.com/events/0f2rn9v/The-Capital-Mixer",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: The Builder Series: A 45,000+ member community redefining what networking looks like curating founders, operators, investors & more into intentional rooms built for experiences people remember & relationships that last. It's a direct line to the most ambitious builders, with a community that actually shows up.nWe've hosted 70+ events, including:nRooftop mixer series: Our signature event, 14 editionsnFounder & investor-led panels, curated by sectornIntimate lunch & dinner events for SeedSeries A+ founders & investors in our networknFriday & Saturday morning Run ClubnNotable events: Cliqk Launch Party w/ Ilias Anwar & Rohan Gurram (2,000+ RSVPs) $1.5M Pitch Competition with FounderSquarenFind us here: Instagram LinkedIn TikTok Facebook XnnCommunity Snapshot: 7,000+ RSVPs 1100+ unique attendees 80+ avg RSVPs/eventnWho's in the room: Founders ~48% Operators & Senior Professionals ~44% Investors & Advisors ~8% (Angels, VCs, Family Offices)nFounder stage: ~67% Pre-Seed ~17% Seed ~5% Series A ~6% Series B+ ~5% BootstrappednIndustries: 23% AI/Deep Tech 23% SaaS/B2B 13% Consumer 13% Fintech 10% Health 7% MedianInvestor check sizes: ~30% u003c$25K ~32% $25100K ~20% $100500K ~16% $1M+ (median ~$50K)nnWhat you get when you sign up:n$250 Cash Raffle: Every attendee gets 1 entry just for showing up, plus 1 bonus entry for posting on Instagram or LinkedIn & mentioning The Builder Series.nSmall bites served mid-way through event: Pictured belownPhotographer: Headshots, group photos, candid moments & shots at our branded backdropnVideographer: Recap footage + our founder interviewnFounder Spotlight (Series): Share who you are & what youre building for reuse on socials across all our socialsnAttendees will receive a NFC digital business card upon entry, thanks to SmartCardnConcierge Check in: A member of our team greets you, fits your wristband, & walks you through the eventnFree month of Vettable: due diligence software to help founders get funded fastern13 warm intros to people of value, through The Builder Series network & your own intro systemnAccess to The Builder Series network & support from our network & our connections.nA chance to be on a booked guest on The Builder Series podcast & talk about what you're buildingnnPhoto Highlights:nnnnnnnnnnnEvents PartnernSmartCard: A subscription-free digital business card made from aerospace-grade titanium that instantly shares your contact info & social media with just a tap while also capturing the contact details of the person you're speaking with.nSchedule:n6:00 7:00 PM Arrival + Concierge Check-Inn7:00 PM Food Servedn7:15 7:30 PM Group Photo + Announcementsn7:30 8:30 PM Founder Spotlights + Interviewsn7:30 9:00 PM Open NetworkingnnMore DetailsnTickets required for all attendees (+1s included)nContact Info & Sponsorship inquiries:n dylan@thebuilderseries.co, partnerships@thebuilderseries.con 917-242-2821 / Business WhatsAppnJoin The Builder Series network: Apply here or by email dylan@thebuilderseries.conThe Builder Series: Event Disclaimer, Media Consent & Code of Conduct: Click to viewnBy registering or attending The Builder Series event, you acknowledge that you have read, understood, & agree to abide by all policies, rules, & community standards set by The Builder Series.n PLEASE NOTEnTickets are non-refundable unless the event is canceled & not rescheduled.nTickets are non-refundable unless the event is canceled.nRefund & Transfer PolicynTransfers. If you can no longer attend, you may transfer your ticket to someone else by providing the new attendee's name to the organizers.nNo refunds. Tickets are non-refundable. No monetary exchanges will be issued by the organizers.nEvent credit. If you miss an event, you may receive credit toward a future event. Credit expires 30 days after the missed event's date.nWeather cancellations. If an event has to be rescheduled due to weather, you will be re-registered for the new date.nSpotlight tickets. Spotlight tickets are fully non-refundable. If you can't attend, you may speak at a future event instead.nOut-of-state purchases. The only refundable tickets are those purchased from outside New York for example, from Toronto, California, or Austin.nnConnect with Me: Join 42,000+ people shaping the futuren Join the Newslettern Follow the Builder Seriesn Find me here"
+      "summary": "Gary's Guide: 6 active funds meet seed & series A founders."
     },
     "gary_2026_09_03_sell_me_this_ai_a_no_bs_sales_workshop": {
       "title": "Sell Me This AI - A No BS Sales Workshop",
@@ -878,7 +776,7 @@
       "summary": "Gary's Guide: With Farzad Khosravi (Owner, Hot Date Kitchen)."
     },
     "gary_2026_09_03_the_builder_series_founder_investor_operator_nights": {
-      "title": "The Builder Series: Founder, Investor & Operator Nights",
+      "title": "The Builder Series - Founder, Investor & Operator Nights",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Thu",
@@ -892,7 +790,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/5rpis9k/The-Builder-Series-Founder-Investor-Operator-Nights",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: The Builder Series: A 45,000+ member community redefining what networking looks like - curating founders, operators, investors & more into intentional rooms built for experiences people remember & relationships that last. It's a direct line to the most ambitious builders, with a community that actually shows up. We've hosted 70+ events, including: Rooftop mixer series: Our signature event, 14 editions Founder & investor-led panels, curated by sector Intimate lunch & dinner events for Seed-Series A+ founders & investors in our network Friday & Saturday morning Run Club Notable events: Cliqk Launch Party w/ Ilias Anwar & Rohan Gurram (2,000+ RSVPs) $1.5M Pitch Competition with FounderSquare Find us here: Instagram LinkedIn TikTok Facebook X Community Snapshot: 7,000+ RSVPs 1100+ unique attendees 80+ avg RSVPs/event Who's in the room: Founders ~48% Operators & Senior Professionals ~44% Investors & Advisors ~8% (Angels, VCs, Family Offices) Founder stage: ~67% Pre-Seed ~17% Seed ~5% Series A ~6% Series B+ ~5% Bootstrapped Industries: 23% AI/Deep Tech 23% SaaS/B2B 13% Consumer 13% Fintech 10% Health 7% Media Investor check sizes: ~30% What you get when you sign up: $250 Cash Raffle: Every attendee gets 1 entry just for showing up, plus 1 bonus entry for posting on Instagram or LinkedIn & mentioning The Builder Series. Small bites served mid-way through event: Pictured below Photographer: Headshots, group photos, candid moments & shots at our branded backdrop Videographer: Recap footage + our founder interview Founder Spotlight (Series): Share who you are & what you're building for reuse on socials across all our socials Attendees will receive a NFC digital business card upon entry, thanks to SmartCard Concierge Check in: A member of our team greets you, fits your wristband, & walks you through the event Free month of Vettable: due diligence software to help founders get funded faster 1-3 warm intros to people of value, through The Builder Series network & your own intro system Access to The Builder Series network & support from our network & our connections. A chance to be on a booked guest on The Builder Series podcast & talk about what you're building Events Partner SmartCard: A subscription-free digital business card made from aerospace-grade titanium that instantly shares your contact info & social media with just a tap while also capturing the contact details of the person you're speaking with. Schedule: 6:00 - 7:00 PM - Arrival + Concierge Check-In 7:00 PM - Food Served 7:15 - 7:30 PM - Group Photo + Announcements 7:30 - 8:30 PM - Founder Spotlights + Interviews 7:30 - 9:00 PM - Open Networking More Details Tickets required for all attendees (+1s included) Contact Info & Sponsorship inquiries: dylan@thebuilderseries.co, partnerships@thebuilderseries.co 917-242-2821 / Business WhatsApp Join The Builder Series network: Apply here or by email dylan@thebuilderseries.co The Builder Series: Event Disclaimer, Media Consent & Code of Conduct: Click to view By registering or attending The Builder Series event, you acknowledge that you have read, understood, & agree to abide by all policies, rules, & community standards set by The Builder Series. PLEASE NOTE Tickets are non-refundable unless the event is canceled & not rescheduled. Tickets are non-refundable unless the event is canceled. Refund & Transfer Policy Transfers. If you can no longer attend, you may transfer your ticket to someone else by providing the new attendee's name to the organizers. No refunds. Tickets are non-refundable. No monetary exchanges will be issued by the organizers. Event credit. If you miss an event, you may receive credit toward a future event. Credit expires 30 days after the missed event's date. Weather cancellations. If an event has to be rescheduled due to weather, you will be re-registered for the new date. Spotlight tickets. Spotlight tickets are fully non-refundable. If you can't attend, you may speak at a future event instead. Out-of-state purchases. The only refundable tickets are those purchased from outside New York - for example, from Toronto, California, or Austin. Connect with Me: Join 42,000+ people shaping the future Join the Newsletter Follow the Builder Series Find me here"
+      "summary": "Gary's Guide: Connect w/ founders, operators, investors & others w/ experiences people remember & relationships that last"
     },
     "gary_2026_09_08_from_bench_to_boardroom_cellular_logistics_nanobiolo": {
       "title": "From Bench To Boardroom - Cellular Logistics, Nanobiology & VC Biotech",
@@ -978,23 +876,6 @@
       "link": "https://www.garysguide.com/events/11k7sc1/Everything-AI-Conference",
       "map": "https://maps.google.com/?q=Pioneer%20Works%2C%20159%20Pioneer%20St%2C%20Brooklyn",
       "summary": "Gary's Guide: With Paul Ford (Co-Founder, Aboard), Tido Carriero (VP Engg, Cursor), Matt Chamberlain (Product, Braze), David Crawshaw (Founder, Exe.dev), Gina Chua (Dir., Tow-Knight Center for Entrepreneurial Journalism), Andrew Qu (Chief of S/w, Vercel), Magnus Hillestad (CEO, Sanity)."
-    },
-    "gary_2026_09_09_finovate_fall_2026": {
-      "title": "Finovate Fall 2026",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-09",
-      "time": "8 AM",
-      "sort": 8,
-      "when": "Wed, 09/09 · 8:00am",
-      "price": "$3598",
-      "free": false,
-      "place": "New York Marriott Marquis, 1535 Broadway",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/pxjv09q/Finovate-Fall-2026",
-      "map": "https://maps.google.com/?q=New%20York%20Marriott%20Marquis%2C%201535%20Broadway",
-      "summary": "Gary's Guide: With Kaushal Pandia (CDO Corporate & Commercial Segment, US Bank), Stefany Bello (Vice-President, Digital Partnerships, Fintech & Enablers in North America, Mastercard), Rahul Raj (Tech Exec, Walmart), Sherry Graziano (Head of Digital, Client Experience & Mktg, Truist Financial Corporation), Jon Lakefish (Founder, Lakefish Group), Mike Pressman (Dir. Enterprise Sales Enablement, M&T Bank)."
     },
     "gary_2026_09_09_the_founder_s_first_move_early_decisions_that_shape_": {
       "title": "The Founder's First Move - Early Decisions That Shape Every Startup",
@@ -1158,8 +1039,8 @@
       "time": "6 PM",
       "sort": 18,
       "when": "Thu, 09/10 · 6:00pm",
-      "price": "Free",
-      "free": true,
+      "price": "$25",
+      "free": false,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/z3rpm9p/The-Builder-Series-Founder-Investor-Operator-Nights",
@@ -1250,6 +1131,23 @@
       "link": "https://www.garysguide.com/events/j0gjgsm/Founder-Reset",
       "map": "https://maps.google.com/?q=Othership%20Flatiron%2C%2023%20W%2020th%20St",
       "summary": "Gary's Guide: With Series A+ founders."
+    },
+    "gary_2026_09_14_junto_founder_dinner": {
+      "title": "Junto Founder Dinner",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-09-14",
+      "time": "7 AM",
+      "sort": 7,
+      "when": "Mon, 09/14 · 7:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Private Dinner Club, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/62qpz8g/Junto-Founder-Dinner",
+      "map": "https://maps.google.com/?q=Private%20Dinner%20Club%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Hi, Andrew Yeung here. We started the Junto Founder Dinner series two years ago to bring together the top founders + builders. Each month, we invite 24 vetted early-stage founders & CEOs for a 3-hour, multiple-course dinner experience. What to expect: A 3-course meal, courtesy of our partners Conversations with fellow high-performing startup leaders A dinner experience designed to facilitate new connections & conversations, with rotating 6-person table formats Meaningful connections with ambitious peers solving similar problems If you're wondering how our dinners usually go... read this Our only intent is to bring good, smart humans together. Details: Date: Sep 14, 2026 Time: 6:00pm - 8:30pm Venue: Private Dinner Club in NYC Past attendees of my events include the founders/C-suite of Venmo, Duolingo, Foursquare, Lyft, Goldman Sachs, Compass, Superhuman, Yext, OpenDoor, Chief, LearnVest, DocSend, Vercel, Loom, Morning Brew, The Hustle, Gas, Teachable, Replit, Twitter, Slack, Pinterest, Yahoo, MongoDB, Business Insider, Wonder, Hinge. Apply to join by filling out the RSVP form."
     },
     "gary_2026_09_14_fast_company_innovation_festival": {
       "title": "Fast Company Innovation Festival",
@@ -1352,23 +1250,6 @@
       "link": "https://www.garysguide.com/events/ygngyvr/Right-Sizing-Gen-AI-Cost-Performance-Optimization",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: How enterprises balance cost, performance, & efficiency as GenAI scales. As enterprises push more GenAI into production, the pressure to control cost & improve performance is intensifying. Right-Sizing Gen AI brings together leaders focused on tuning, pruning, compression, caching, & the architectural tradeoffs that determine whether GenAI is sustainable at scale. This event tackles the hard questions: which workloads justify premium compute, where small models outperform, how to optimize context flows, & how maturity frameworks can keep AI budgets from spiraling out of control. Trying to rein in costs while boosting performance? Apply to attend & learn from the leaders optimizing GenAI for scale."
-    },
-    "luma_2026_08_31_corgi_founders_breakfast_club": {
-      "title": "Corgi Founders Breakfast Club",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-08-31",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Mon, 08/31 · 2pm",
-      "price": "Free",
-      "free": true,
-      "place": "Corgi Cafe",
-      "source": "Luma NYC",
-      "link": "https://luma.com/corginyc-yw1o",
-      "map": "https://maps.google.com/?q=Corgi%20Cafe%20NYC",
-      "summary": "Luma NYC: Corgi NYC, Abril Zucchi, Maddie, jamie, Linda, Drew Parten, Sean Hu"
     },
     "luma_2026_09_01_nyc_voice_ai_meetup_build_smarter_voice_agents": {
       "title": "NYC Voice AI Meetup: Build Smarter Voice Agents",
@@ -1590,6 +1471,23 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-09-02/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_43627_2026_09_03_new_jersey_symphony_brass_band_2026": {
+      "title": "New Jersey Symphony Brass Band 2026",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Thu",
+      "date": "2026-09-03",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Thu, 09/03 · 5pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/new-jersey-symphony-brass-band-2026/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_43029_2026_09_05_labor_day_weekend_salsa_at_grundy_park": {
       "title": "Labor Day Weekend: Salsa at Grundy Park",
@@ -2117,6 +2015,23 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-09-30/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_10004832_2026_10_01_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Thu",
+      "date": "2026-10-01",
+      "time": "7:30 PM",
+      "sort": 19.5,
+      "when": "Thu, 10/01 · 7:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-01/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
     }
   },
   "clusters": {
@@ -2129,11 +2044,6 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_08_29_10_am": [
-      "skint_90482_0_metropolitan_postcard_club_show_sale",
-      "skint_90482_1_harlem_book_fair",
-      "skint_90482_2_philippines_fest_presents_ubeland_x_palengke"
-    ],
     "cluster_2026_09_02_8_30_am": [
       "gary_2026_09_02_tech_x_market_decoders",
       "gary_2026_09_02_nyc_fintech_coffee"
@@ -2142,8 +2052,12 @@
       "gary_2026_09_03_everything_i_learned_scaling_my_business_to_7_figure",
       "nyu_tandon_2026_09_03_instructional_tech_drop_in_sessions"
     ],
+    "cluster_2026_09_03_5_pm": [
+      "gary_2026_09_03_startup_mixer",
+      "jc_culture_43627_2026_09_03_new_jersey_symphony_brass_band_2026"
+    ],
     "cluster_2026_09_03_6_pm": [
-      "gary_2026_09_03_the_capital_mixer_6_active_funds_meet_seed_series_a_",
+      "gary_2026_09_03_the_capital_mixer",
       "gary_2026_09_03_sell_me_this_ai_a_no_bs_sales_workshop",
       "gary_2026_09_03_the_builder_series_founder_investor_operator_nights"
     ],
@@ -2155,10 +2069,6 @@
     "cluster_2026_09_08_6_30_pm": [
       "gary_2026_09_08_gtm_cocktail_hour",
       "jc_culture_42524_2026_09_08_summer_fest_south_lawn_lsp_carlos_jimenez_mambo_dulc"
-    ],
-    "cluster_2026_09_09_8_am": [
-      "gary_2026_09_09_everything_ai_conference",
-      "gary_2026_09_09_finovate_fall_2026"
     ],
     "cluster_2026_09_10_9_am": [
       "gary_2026_09_10_open_house_new_york",
