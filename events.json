@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 1, 2026, 11:19 AM EDT",
+    "checked": "Sep 1, 2026, 5:55 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -707,23 +707,6 @@
       "map": "https://maps.google.com/?q=Sour%20Mouse%2C%20110%20Delancey%20St",
       "summary": "Gary's Guide: NYC Tech &Startup Mixer - brought to you by Startup+ We're putting founders, engineers, investors, recruiters, freelancers, & mentors in the same room for a night of straightup networking. No panels, no speeches, just real conversations. If you're testing an idea, raising cash, or hiring your first dev, this is the place to be. Newsletter (exclusive entry & event drops): https://newsletter.startupplus.club Sponsorship / press: email - contact@startupplus.club Volunteer (Complimentary Ticket): email - contact@startupplus.club Why swing by? - Meet 100+ builders & backers in one go - Swap stories, get quick feedback, share lessons learned - Spot future cofounders, investors, customers-maybe all three What's the setup? - We've got a dedicated space, & name tags at the door - Flash a business card or a LinkedIn QR-whatever works - Dress code? Businesscasual. Jeans totally fine. A quick word on Startup+ We kicked this off in 2021, in the middle of the pandemic, because Zoom mixers just weren't cutting it. Fastforward: 25k members, 75+ mixers, 12 pitch nights, & 6000 folks through the doors. We keep it simple, connect good people & let the magic happen. Headsup: capacity is capped. Only confirmed Luma RSVPs are admitted at the door. Walkins = no go."
     },
-    "gary_2026_09_03_the_capital_mixer": {
-      "title": "The Capital Mixer",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-09-03",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 09/03 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/0f2rn9v/The-Capital-Mixer",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: 6 active funds meet seed & series A founders."
-    },
     "gary_2026_09_03_sell_me_this_ai_a_no_bs_sales_workshop": {
       "title": "Sell Me This AI - A No BS Sales Workshop",
       "type": "tech",
@@ -1217,6 +1200,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: How enterprises balance cost, performance, & efficiency as GenAI scales. As enterprises push more GenAI into production, the pressure to control cost & improve performance is intensifying. Right-Sizing Gen AI brings together leaders focused on tuning, pruning, compression, caching, & the architectural tradeoffs that determine whether GenAI is sustainable at scale. This event tackles the hard questions: which workloads justify premium compute, where small models outperform, how to optimize context flows, & how maturity frameworks can keep AI budgets from spiraling out of control. Trying to rein in costs while boosting performance? Apply to attend & learn from the leaders optimizing GenAI for scale."
     },
+    "gary_2026_09_15_startup_pitch_night_1k_cash_drop_ai_optional": {
+      "title": "Startup Pitch Night - $1K Cash Drop (AI Optional)",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-09-15",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Tue, 09/15 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Verci Flatiron, 45 E 20th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/u5ay4hw/Startup-Pitch-Night-1K-Cash-Drop-AI-Optional",
+      "map": "https://maps.google.com/?q=Verci%20Flatiron%2C%2045%20E%2020th%20St",
+      "summary": "Gary's Guide: Builders take the stage Apply to pitch! Applications close Sep 10. Each pitcher gets 3 minutes to pitch their idea LIVE, in front of founders, side-hustlers, & builders. The crowd judges & votes. One person goes home with $1,000 cash on the spot. Real demos encouraged. Funded by 1PB.org (One Percent Back) Helping entrepreneurs succeed through mentorship, investment, & support. You pay it forward by donating 1% of the equity to a 501c3 non-profit dedicated to helping more entrepreneurs. How It Works Apply to pitch Submit your pitch deck Get selected Final pitchers confirmed by Sep 10th Pitch live 3 minutes on stage, at Verci Flatiron Audience votes Real-time votes Winner walks out with $1,000 cash, same night You Should Pitch if you: Are building something with AI, no matter how early Have a side project you've been waiting to show someone Want honest feedback from real builders, not just yes-men Are ready to get on a stage & make your case Apply to pitch! Applications close Sep 10. Who Should Attend? Working founders & operators building with AI Side-hustlers shipping nights & weekends Developers & technical builders Anyone curious what's actually getting built in NYC right now Free admission What to Expect 5:30 PM - Doors open, mingle with the crowd 6:00 PM - Pitches begin 7:00 PM - Live voting + winner announcement 7:15 PM - Networking, $1K prize handed out"
+    },
     "luma_2026_09_01_nyc_voice_ai_meetup_build_smarter_voice_agents": {
       "title": "NYC Voice AI Meetup: Build Smarter Voice Agents",
       "type": "tech",
@@ -1403,23 +1403,6 @@
       "link": "https://jerseycityculture.org/event/childhood-cancer-flag-raising-ceremony-2026/",
       "map": "https://maps.google.com/?q=City%20Hall%20Balcony%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Outdoor What's Coming Up?."
-    },
-    "jc_culture_42206_2026_09_01_summer_fest_south_lawn_lsp_forget_the_whale_2026": {
-      "title": "Summer Fest South Lawn LSP FORGET THE WHALE 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Tue",
-      "date": "2026-09-01",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Tue, 09/01 · 6:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Liberty State Park. South Lawn, Freedom Way, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/summer-fest-south-lawn-lsp-forget-the-whale-2026/",
-      "map": "https://maps.google.com/?q=Liberty%20State%20Park.%20South%20Lawn%2C%20Freedom%20Way%2C%20Jersey%20City%2C%20NJ",
-      "summary": "&nbsp; TUESDAYS SOUTH LAWN LIBERTY STATE PARK SIX THIRTY TO EIGHT THIRTY FEATURING FORGET THE WHALE POP / ROCK MUSIC / RAIN LOCATION FORMER TRIAN STATION"
     },
     "jc_culture_10003566_2026_09_02_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -2040,7 +2023,6 @@
       "jc_culture_43627_2026_09_03_new_jersey_symphony_brass_band_2026"
     ],
     "cluster_2026_09_03_6_pm": [
-      "gary_2026_09_03_the_capital_mixer",
       "gary_2026_09_03_sell_me_this_ai_a_no_bs_sales_workshop",
       "gary_2026_09_03_the_builder_series_founder_investor_operator_nights"
     ],
