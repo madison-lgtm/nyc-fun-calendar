@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Aug 31, 2026, 7:17 PM EDT",
+    "checked": "Sep 1, 2026, 11:19 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-08-31",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Aug 31"
-      },
       {
         "iso": "2026-09-01",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Sep 6"
+      },
+      {
+        "iso": "2026-09-07",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Sep 7"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-08-31",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Aug 31"
-      },
       {
         "iso": "2026-09-01",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Sep 30"
+      },
+      {
+        "iso": "2026-10-01",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Oct 1"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "12 AM",
       "7 AM",
@@ -451,40 +451,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "skint_90482_0_saz_n_latin_food_festival": {
-      "title": "sazón latin food festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-08-30",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 08/30 · 12-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "greenwood park (south slope, brooklyn)",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/sazon-latin-food-festival-2026-brooklyns-taste-of-latin-american-food-tickets-1980903880832",
-      "map": "https://maps.google.com/?q=greenwood%20park%20(south%20slope%2C%20brooklyn)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-5pm: sazón latin food festival: greenwood park (south slope, brooklyn)."
-    },
-    "skint_90482_1_chinatown_block_party": {
-      "title": "chinatown block party",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-08-30",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Sun, 08/30 · 4-8pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "mott + mosco streets (chinatown, manhattan)",
-      "source": "The Skint",
-      "link": "https://www.thinkchinatown.org/blockparty",
-      "map": "https://maps.google.com/?q=mott%20%2B%20mosco%20streets%20(chinatown%2C%20manhattan)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 4-8pm: chinatown block party: mott + mosco streets (chinatown, manhattan)."
     },
     "gary_2026_09_01_ai_enterprise_conference": {
       "title": "AI Enterprise Conference",
@@ -2030,6 +1996,23 @@
       "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-01/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10004833_2026_10_02_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-10-02",
+      "time": "7:30 PM",
+      "sort": 19.5,
+      "when": "Fri, 10/02 · 7:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-02/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
     }
