@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 2, 2026, 10:49 AM EDT",
+    "checked": "Sep 2, 2026, 5:56 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1370,22 +1370,22 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
-    "nyu_tandon_2026_09_15_instructional_tech_drop_in_sessions": {
-      "title": "Instructional Tech Drop-in Sessions",
+    "nyu_tandon_2026_09_14_using_biomechanical_principles_to_engineer_the_next_": {
+      "title": "Using Biomechanical Principles to Engineer the Next Generation of Immunotherapies",
       "type": "tech",
-      "label": "Workshop / Training",
-      "day": "Tue",
-      "date": "2026-09-15",
+      "label": "Lecture / Panel",
+      "day": "Mon",
+      "date": "2026-09-14",
       "time": "11 AM",
       "sort": 11,
-      "when": "Tue, 09/15 · 11:00 AM",
+      "when": "Mon, 09/14 · 11:00 AM",
       "price": "Free / varies",
       "free": true,
       "place": "NYU Tandon / Online",
       "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/09/15/instructional-tech-drop-sessions",
+      "link": "https://engineering.nyu.edu/events/2026/09/14/using-biomechanical-principles-engineer-next-generation-immunotherapies",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Workshop / Training"
+      "summary": "NYU Tandon: Lecture / Panel"
     },
     "jc_culture_10003566_2026_09_02_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -1403,23 +1403,6 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-09-02/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
-    },
-    "jc_culture_43627_2026_09_03_new_jersey_symphony_brass_band_2026": {
-      "title": "New Jersey Symphony Brass Band 2026",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Thu",
-      "date": "2026-09-03",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Thu, 09/03 · 5pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/new-jersey-symphony-brass-band-2026/",
-      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_43029_2026_09_05_labor_day_weekend_salsa_at_grundy_park": {
       "title": "Labor Day Weekend: Salsa at Grundy Park",
@@ -1489,6 +1472,40 @@
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     },
+    "jc_culture_43627_2026_09_10_new_jersey_symphony_brass_band_2026_date_change_9_10": {
+      "title": "New Jersey Symphony Brass Band 2026 / DATE CHANGE 9/10",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Thu",
+      "date": "2026-09-10",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Thu, 09/10 · 5pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/new-jersey-symphony-brass-band-2026/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
+    },
+    "jc_culture_43650_2026_09_11_fall_2026_exhibition_highlighting_hudson_s_finest": {
+      "title": "Fall 2026 Exhibition Highlighting Hudson’s Finest",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-09-11",
+      "time": "12 AM",
+      "sort": 0,
+      "when": "Fri, 09/11 · 12am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "BENJAMIN J. DINEEN III & DENNIS C. HULL GALLERY, 71 SIP AVE., JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/fall-2026-exhibition-highlighting-hudsons-finest/",
+      "map": "https://maps.google.com/?q=BENJAMIN%20J.%20DINEEN%20III%20%26%20DENNIS%20C.%20HULL%20GALLERY%2C%2071%20SIP%20AVE.%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
+    },
     "jc_culture_42984_2026_09_11_9_11_memorial_ceremony_25th_anniversary_2026": {
       "title": "9/11 Memorial Ceremony 25th Anniversary 2026",
       "type": "art",
@@ -1505,6 +1522,40 @@
       "link": "https://jerseycityculture.org/event/9-11-memorial-ceremony-25th-anniversary-2026/",
       "map": "https://maps.google.com/?q=HUDSON%20RIVER%20WATER%20FRONT%209-11%20MEMORIAL%2C%20GRAND%20STREET%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: community events."
+    },
+    "jc_culture_43661_2026_09_11_hudson_county_community_college_film_club_presents_9": {
+      "title": "Hudson County Community College Film Club Presents 9/11 Reclaiming Ground Zero",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-09-11",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Fri, 09/11 · 10am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "GABERT LIBRARY ATRIUM, 71 SIP AVE, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hudson-county-community-college-film-club-presents-9-11-reclaiming-ground-zero/",
+      "map": "https://maps.google.com/?q=GABERT%20LIBRARY%20ATRIUM%2C%2071%20SIP%20AVE%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Film Visual & Performing Arts What's Coming Up?."
+    },
+    "jc_culture_43654_2026_09_11_9_11_memorial_2026": {
+      "title": "9/11 Memorial 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-09-11",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Fri, 09/11 · 2pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "GABERT LIBRARY ATRIUM, 71 SIP AVE, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/9-11-memorial-2026/",
+      "map": "https://maps.google.com/?q=GABERT%20LIBRARY%20ATRIUM%2C%2071%20SIP%20AVE%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
     },
     "jc_culture_10004817_2026_09_11_the_society_of_american_graphic_artists_saga_91st_an": {
       "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
@@ -1556,6 +1607,23 @@
       "link": "https://jerseycityculture.org/event/i-know-what-you-did-that-summer-2026/",
       "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
+    },
+    "jc_culture_43667_2026_09_11_the_u_s_army_band_concert_2026": {
+      "title": "The U.S. Army Band Concert 2026",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-09-11",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Fri, 09/11 · 7pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "J. Owen Grundy Pier, Hudson Street, Jersey City",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/the-u-s-army-band-concert-2026/",
+      "map": "https://maps.google.com/?q=J.%20Owen%20Grundy%20Pier%2C%20Hudson%20Street%2C%20Jersey%20City",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community History Outdoor What's Coming Up?."
     },
     "jc_culture_42953_2026_09_12_bergen_square_day_2026": {
       "title": "Bergen Square Day 2026",
@@ -2035,10 +2103,6 @@
       "gary_2026_09_03_everything_i_learned_scaling_my_business_to_7_figure",
       "nyu_tandon_2026_09_03_instructional_tech_drop_in_sessions"
     ],
-    "cluster_2026_09_03_5_pm": [
-      "gary_2026_09_03_startup_mixer",
-      "jc_culture_43627_2026_09_03_new_jersey_symphony_brass_band_2026"
-    ],
     "cluster_2026_09_03_6_pm": [
       "gary_2026_09_03_sell_me_this_ai_a_no_bs_sales_workshop",
       "gary_2026_09_03_the_builder_series_founder_investor_operator_nights"
@@ -2055,6 +2119,10 @@
     "cluster_2026_09_10_9_am": [
       "gary_2026_09_10_open_house_new_york",
       "gary_2026_09_10_same_team_triple_the_volume_ai_masterclass_sessions"
+    ],
+    "cluster_2026_09_10_5_pm": [
+      "gary_2026_09_10_ai_search_meetup",
+      "jc_culture_43627_2026_09_10_new_jersey_symphony_brass_band_2026_date_change_9_10"
     ],
     "cluster_2026_09_10_6_pm": [
       "gary_2026_09_10_the_builder_series_founder_investor_operator_nights",
