@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 3, 2026, 10:49 AM EDT",
+    "checked": "Sep 3, 2026, 5:51 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -481,10 +481,10 @@
       "when": "Thu, 09/03 · 8:00am",
       "price": "Free",
       "free": true,
-      "place": "Cafe, West Village, Bleecker St",
+      "place": "West Village Cafe, Bleecker St",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/n8vpluj/NYC-Founders-Operators-Breakfast-Club",
-      "map": "https://maps.google.com/?q=Cafe%2C%20West%20Village%2C%20Bleecker%20St",
+      "map": "https://maps.google.com/?q=West%20Village%20Cafe%2C%20Bleecker%20St",
       "summary": "Gary's Guide: Join us at one of the best cafs in West Village for coffee & co-working with local founders, operators & investors. Whether you're building your first product, scaling your team, or figuring out go-to-market, this is a room of people who get it. No panels. No pitches. Just great peer to peer conversation over coffee & croissants. Location: Caf, West Village (Bleecker St) Vibe: Coffee, Croissants, Conversation + Co-Working Who this is for: Early-stage founders & growth-stage operators based in NYC Impressions from our rooftop series: Subscribe to our community to hear about future events Interested to partner or sponsor? Reach out at hello@foundersandoperators.nyc Hosted by: Founders & Operators is NYC's curated community for founders, builders & senior operators. We bring together high-signal people across AI, fintech & emerging technology through intimate gatherings, practical programming & original editorial. Stephan Rihs is the founder of Founders & Operators & Rihs Ventures. He works with early-stage companies on strategy, go-to-market, partnerships & fundraising. His background includes Coinbase, BCG, & roles in Austria's Treasury & Chancellor's Office. Location will be revealed to approved attendees."
     },
     "gary_2026_09_03_investors_for_a_better_america": {
@@ -980,6 +980,23 @@
       "map": "https://maps.google.com/?q=Othership%20Flatiron%2C%2023%20W%2020th%20St",
       "summary": "Gary's Guide: With Series A+ founders."
     },
+    "gary_2026_09_13_nyc_founder_reset_othership_series_a_founders_only": {
+      "title": "NYC Founder Reset @ Othership  Series A+ Founders Only",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Sun",
+      "date": "2026-09-13",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Sun, 09/13 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Othership Flatiron, 23 W 20th St New York, NY 10011",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/zj9klhi/NYC-Founder-Reset-Othership-Series-A-Founders-Only",
+      "map": "https://maps.google.com/?q=Othership%20Flatiron%2C%2023%20W%2020th%20St%20New%20York%2C%20NY%2010011",
+      "summary": "Gary's Guide: Presented by NachoNacho, HubSpot for Startups & MongoDB A curated wellness experience exclusively for Series A+ Founders to connect with their peers, let their guard down, and spend time together without the pressure to perform. Sunday, September 13 | 10:30 AM Othership Flatiron | 23 W 20th St, New York About the Event Join us at Othership Flatiron for an exclusive Sunday morning designed to reset, recharge, and connect before another busy week in NYC. This invite-only experience brings together a highly curated group of Series A+ Founders for a morning of restorative wellness, meaningful conversations, and genuine connection - away from the usual conference rooms, pitch decks, and networking happy hours. We'll move through the Othership experience featuring: Guided sauna & heat therapy to relax and recharge. Ice baths & cold plunges for an energizing state shift. We may ask you to do an elevator pitch for your company in the cold plunge. Guided breathwork & mindfulness to reset body and mind. Social Commons for relaxed founder-to-founder conversations. Time to connect, recharge, and start Sunday feeling refreshed. Food, coffee, and other refreshments will be provided. The atmosphere is intentionally curated for authentic conversations between founders who understand the challenges of building and scaling companies. No pitch decks. No panels. Just wellness, connection, and a chance to reset. Who Should Attend - Series A+ Founders - No VCs allowed. This is a founder-only space to connect, recharge, and have open, honest conversations with peers-without pitching, fundraising, or feeling like you need to be on.\" This is a highly curated, invite-only experience. Application and approval are required for entry."
+    },
     "gary_2026_09_14_junto_founder_dinner": {
       "title": "Junto Founder Dinner",
       "type": "startup",
@@ -1150,6 +1167,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: We decode tech & market signals together - so you can operate, invest, & decide better. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: 6 pm - check-in. We kick off at 6.15 pm. 15-20 minutes - decode solo. Quiet research time. Dig into the news, the product, the tech stack, the data. No talking, just thinking. 35-40 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up. You'll leave with a sharper read on the topic than you walked in with, & a few new perspectives you hadn't considered. That's the whole point. This week's topic: Hugging Face - the hack, Microduck & acquisition by Nvidia Hugging Face's busy months - hacked by an OpenAI model, launching a $399 robot duck, & reportedly being bought by Nvidia for $12.9B. We're decoding what it all means for the future of AI. Come as you are - operator, investor, builder, or just someone who reads too much tech or business news & wants to discuss with smart people."
     },
+    "gary_2026_09_15_leaddev_nyc_kickoff_social_w_rootly_ai_docker_twinga": {
+      "title": "LeadDev NYC Kickoff Social w/ Rootly AI, Docker, Twingate, Spacelift, Runpod, Endor Labs, & Logz.io",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-09-15",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 09/15 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "SPIN New York Flatiron, 48 E 23rd St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/t1d9xwh/LeadDev-NYC-Kickoff-Social-w-Rootly-AI-Docker-Twingate-Spacelift-Runpod-Endor-Labs-Logz-io",
+      "map": "https://maps.google.com/?q=SPIN%20New%20York%20Flatiron%2C%2048%20E%2023rd%20St",
+      "summary": "Gary's Guide: Unwind after a full day at LeadDev NYC with an evening of friendly competition, great conversation, and refreshing drinks! Join fellow engineering leaders, CTOs, and dev community peers for a relaxed happy hour packed with ping pong, tasty bites, and great company. Whether you're looking to talk shop on scaling engineering teams or just want to show off your backhand slice, this is the spot to be. What to Expect Ping Pong & Party Games: Reservation-only access to ping pong tables, equipment, and casual games. Open Bar & Bites: Enjoy craft beer, wine, and bar food. Networking: Connect with local and visiting engineering leaders in a vibrant, high-energy environment. Space is limited to ensure everyone gets playing time! Please RSVP early to reserve your spot."
+    },
     "gary_2026_09_16_avalanche_summit": {
       "title": "Avalanche Summit",
       "type": "startup",
@@ -1183,40 +1217,6 @@
       "link": "https://www.garysguide.com/events/l7a7yvk/Table-Solns-For-Founders",
       "map": "https://maps.google.com/?q=Foley%20Hoag%2C%201301%206th%20Ave",
       "summary": "Gary's Guide: Bring your toughest startup challenge, leave with next steps. Table is a community of 1,300+ founders, operators, advisors, & investors. In each session, participants surface real challenges, vote on what matters most, & engage in focused, fast-paced discussions to unlock practical solutions. In a single morning, you'll gain actionable insights, learn new perspectives, & meet peers also looking to move forward. Table is sponsored by Foley Hoag LLP. Foley Hoag helps founders navigate every stage of their startup growth. Photo by Mamadou Ciss"
-    },
-    "gary_2026_09_16_from_concept_to_conviction_ai_in_the_designer_s_tool": {
-      "title": "From Concept To Conviction - AI In The Designer's Toolkit",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 09/16 · 6:00pm",
-      "price": "$45",
-      "free": false,
-      "place": "BrainStation, 136 Crosby St, 4th Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/3xyw56i/From-Concept-To-Conviction-AI-In-The-Designer-s-Toolkit",
-      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
-      "summary": "Gary's Guide: With Mareike Keller (Product Designer, Spotify)."
-    },
-    "gary_2026_09_16_postgres_tuning_in_age_of_ai_context_is_everything": {
-      "title": "Postgres Tuning In Age Of AI - Context Is Everything",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 09/16 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 7 W 34th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/cj9k6pj/Postgres-Tuning-In-Age-Of-AI-Context-Is-Everything",
-      "map": "https://maps.google.com/?q=Venue%2C%207%20W%2034th%20St",
-      "summary": "Gary's Guide: With Ryan Booz (Solns Enggr, Pganalyze)."
     },
     "luma_2026_09_03_gatlin_robotics_physical_ai_demo_happy_hour": {
       "title": "Gatlin Robotics: Physical AI Demo & Happy Hour",
@@ -1268,23 +1268,6 @@
       "link": "https://luma.com/6j6k08r2",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Tusk & Quill, Tusk & Quill, Aishwarya Khanduja"
-    },
-    "luma_2026_09_09_the_frontier_of_enterprise_ai_in_production": {
-      "title": "The Frontier of Enterprise AI in Production",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-09-09",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Wed, 09/09 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/rejfs2o5",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Credal, Jessica Shen, Ravin Thambapillai"
     },
     "nyu_tandon_2026_09_03_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1677,6 +1660,23 @@
       "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%20PARK%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Festivals Kids Activities Outdoor What's Coming Up?."
     },
+    "jc_culture_43696_2026_09_12_day_of_giving_2026": {
+      "title": "Day of Giving 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-09-12",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 09/12 · 12pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "CHRIST OUR REDEEMER LUTHERAN CHURCH, 37 WARNER AVENUE, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/day-of-giving-2026/",
+      "map": "https://maps.google.com/?q=CHRIST%20OUR%20REDEEMER%20LUTHERAN%20CHURCH%2C%2037%20WARNER%20AVENUE%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community."
+    },
     "jc_culture_10004818_2026_09_12_the_society_of_american_graphic_artists_saga_91st_an": {
       "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
       "type": "art",
@@ -1813,6 +1813,23 @@
       "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
       "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
     },
+    "jc_culture_43701_2026_09_18_cat_stick_easel_moon_exhibit_2026": {
+      "title": "Cat, Stick, Easel, Moon Exhibit 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-09-18",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Fri, 09/18 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-2026/",
+      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
+    },
     "jc_culture_10004821_2026_09_19_the_society_of_american_graphic_artists_saga_91st_an": {
       "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
       "type": "art",
@@ -1830,6 +1847,23 @@
       "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
       "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
     },
+    "jc_culture_43705_2026_09_19_cat_stick_easel_moon_exhibit_2026": {
+      "title": "Cat, Stick, Easel, Moon Exhibit 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-09-19",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Sat, 09/19 · 3pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-2026-2/",
+      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
+    },
     "jc_culture_10004822_2026_09_20_the_society_of_american_graphic_artists_saga_91st_an": {
       "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
       "type": "art",
@@ -1846,6 +1880,40 @@
       "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-20/",
       "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
       "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
+    },
+    "jc_culture_43712_2026_09_20_cat_stick_easel_moon_exhibit_2026": {
+      "title": "Cat, Stick, Easel, Moon Exhibit 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sun",
+      "date": "2026-09-20",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Sun, 09/20 · 3pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-2026-4/",
+      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
+    },
+    "jc_culture_43688_2026_09_20_smush_gallery_work_share_monthly_artist_feedback_ses": {
+      "title": "Smush Gallery Work / Share Monthly Artist Feedback Sessions 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sun",
+      "date": "2026-09-20",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Sun, 09/20 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Jersey City",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/smush-gallery-work-share-monthly-artist-feedback-sessions-2026/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community."
     },
     "jc_culture_10003569_2026_09_23_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -2051,6 +2119,23 @@
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
     },
+    "jc_culture_43707_2026_10_02_meet_the_artist_jcast_rachel_l_bedder_2026": {
+      "title": "Meet the Artist @ JCAST Rachel L Bedder 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-10-02",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Fri, 10/02 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-2026-3/",
+      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
+    },
     "jc_culture_10004833_2026_10_02_rent_the_musical": {
       "title": "RENT: The Musical",
       "type": "entertainment",
@@ -2068,56 +2153,22 @@
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
     },
-    "jc_culture_10004834_2026_10_03_rent_the_musical": {
-      "title": "RENT: The Musical",
-      "type": "entertainment",
-      "label": "Music / Movies",
+    "jc_culture_43716_2026_10_03_cat_stick_easel_moon_exhibit_2026_jcast_weekend": {
+      "title": "Cat, Stick, Easel, Moon Exhibit 2026 JCAST WEEKEND",
+      "type": "art",
+      "label": "Art / Culture",
       "day": "Sat",
       "date": "2026-10-03",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sat, 10/03 · 2pm",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 10/03 · 12pm",
       "price": "Free / varies",
       "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
       "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-03/1/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
-    },
-    "jc_culture_10004835_2026_10_03_rent_the_musical": {
-      "title": "RENT: The Musical",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sat",
-      "date": "2026-10-03",
-      "time": "7:30 PM",
-      "sort": 19.5,
-      "when": "Sat, 10/03 · 7:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-03/2/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
-    },
-    "jc_culture_10004836_2026_10_04_rent_the_musical": {
-      "title": "RENT: The Musical",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sun",
-      "date": "2026-10-04",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sun, 10/04 · 2pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-04/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+      "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-2026-jcast-weekend/",
+      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
     }
   },
   "clusters": {
@@ -2180,15 +2231,17 @@
     ],
     "cluster_2026_09_15_6_pm": [
       "gary_2026_09_15_dinner_navigating_international_business",
-      "gary_2026_09_15_tech_x_market_decoders"
-    ],
-    "cluster_2026_09_16_6_pm": [
-      "gary_2026_09_16_from_concept_to_conviction_ai_in_the_designer_s_tool",
-      "gary_2026_09_16_postgres_tuning_in_age_of_ai_context_is_everything"
+      "gary_2026_09_15_tech_x_market_decoders",
+      "gary_2026_09_15_leaddev_nyc_kickoff_social_w_rootly_ai_docker_twinga"
     ],
     "cluster_2026_09_12_12_pm": [
       "jc_culture_42953_2026_09_12_bergen_square_day_2026",
-      "jc_culture_43474_2026_09_12_children_of_faith_festival_2026"
+      "jc_culture_43474_2026_09_12_children_of_faith_festival_2026",
+      "jc_culture_43696_2026_09_12_day_of_giving_2026"
+    ],
+    "cluster_2026_09_19_3_pm": [
+      "jc_culture_10004821_2026_09_19_the_society_of_american_graphic_artists_saga_91st_an",
+      "jc_culture_43705_2026_09_19_cat_stick_easel_moon_exhibit_2026"
     ]
   }
 }
