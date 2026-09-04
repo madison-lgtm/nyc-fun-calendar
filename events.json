@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 4, 2026, 10:38 AM EDT",
+    "checked": "Sep 4, 2026, 5:42 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1389,6 +1389,23 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: SOSV's Events, Supriya Agarwal SOSV, Norm, Jackie Della Torre"
     },
+    "luma_2026_09_08_gtm_cocktail_hour_hosted_by_viktor_com_the_shortlist": {
+      "title": "GTM Cocktail Hour (hosted by viktor.com & The Shortlist)",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-09-08",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Tue, 09/08 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/gtmcocktails",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung, Robbie O'Connor, Kacper Zambrzycki, Matt Swulinski, Antoni Olendzki"
+    },
     "luma_2026_09_08_the_fragility_of_borrowed_intelligence_subtle_risks_": {
       "title": "The Fragility of Borrowed Intelligence: Subtle Risks of AI Dependence",
       "type": "tech",
@@ -1439,6 +1456,23 @@
       "link": "https://engineering.nyu.edu/events/2026/09/08/instructional-tech-drop-sessions",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
+    },
+    "nyu_tandon_2026_09_08_next_generation_grid_codes_towards_a_new_paradigm_fo": {
+      "title": "Next-Generation Grid Codes: Towards a New Paradigm for Dynamic Ancillary Services",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Tue",
+      "date": "2026-09-08",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Tue, 09/08 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/08/next-generation-grid-codes-towards-new-paradigm-dynamic-ancillary-services",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
     },
     "nyu_tandon_2026_09_09_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1542,22 +1576,22 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
-    "nyu_tandon_2026_09_17_extreme_codesign_for_efficient_ai_algorithms_softwar": {
-      "title": "Extreme Codesign for Efficient AI: Algorithms, Software, and Hardware",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Thu",
-      "date": "2026-09-17",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Thu, 09/17 · 11:00 AM",
+    "jc_culture_43741_2026_09_04_city_challenge_obstacle_race_2026_labor_day_discount": {
+      "title": "City Challenge Obstacle Race 2026 / Labor Day Discount",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Fri",
+      "date": "2026-09-04",
+      "time": "12 AM",
+      "sort": 0,
+      "when": "Fri, 09/04 · 12am",
       "price": "Free / varies",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/09/17/extreme-codesign-efficient-ai-algorithms-software-and-hardware",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
+      "place": "Jersey City",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/city-challenge-obstacle-race-2026-labor-day-discount/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor."
     },
     "jc_culture_43029_2026_09_05_labor_day_weekend_salsa_at_grundy_park": {
       "title": "Labor Day Weekend: Salsa at Grundy Park",
@@ -1779,6 +1813,23 @@
       "link": "https://jerseycityculture.org/event/the-u-s-army-band-concert-2026/",
       "map": "https://maps.google.com/?q=J.%20Owen%20Grundy%20Pier%2C%20Hudson%20Street%2C%20Jersey%20City",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community History Outdoor What's Coming Up?."
+    },
+    "jc_culture_43744_2026_09_12_city_challenge_obstacle_race_2026": {
+      "title": "City Challenge Obstacle Race 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Sat",
+      "date": "2026-09-12",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Sat, 09/12 · 9am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "COLGATE CLOCK, ESSEX ST, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/city-challenge-obstacle-race-2026/",
+      "map": "https://maps.google.com/?q=COLGATE%20CLOCK%2C%20ESSEX%20ST%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor What's Coming Up?."
     },
     "jc_culture_42953_2026_09_12_bergen_square_day_2026": {
       "title": "Bergen Square Day 2026",
@@ -2289,40 +2340,6 @@
       "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-2026-3/",
       "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_10004833_2026_10_02_rent_the_musical": {
-      "title": "RENT: The Musical",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-10-02",
-      "time": "7:30 PM",
-      "sort": 19.5,
-      "when": "Fri, 10/02 · 7:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-02/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
-    },
-    "jc_culture_43716_2026_10_03_cat_stick_easel_moon_exhibit_2026_jcast_weekend": {
-      "title": "Cat, Stick, Easel, Moon Exhibit 2026 JCAST WEEKEND",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-10-03",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 10/03 · 12pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-2026-jcast-weekend/",
-      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
     }
   },
   "clusters": {
@@ -2390,6 +2407,14 @@
       "gary_2026_09_16_next100",
       "gary_2026_09_16_leaddev_nyc_after_hours_w_rootly_ai_runpod_endor_lab",
       "gary_2026_09_16_venture_university_event"
+    ],
+    "cluster_2026_09_08_10_30_pm": [
+      "luma_2026_09_08_gtm_cocktail_hour_hosted_by_viktor_com_the_shortlist",
+      "luma_2026_09_08_the_fragility_of_borrowed_intelligence_subtle_risks_"
+    ],
+    "cluster_2026_09_08_11_am": [
+      "nyu_tandon_2026_09_08_instructional_tech_drop_in_sessions",
+      "nyu_tandon_2026_09_08_next_generation_grid_codes_towards_a_new_paradigm_fo"
     ],
     "cluster_2026_09_12_12_pm": [
       "jc_culture_42953_2026_09_12_bergen_square_day_2026",
