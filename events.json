@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Sep 3, 2026, 5:51 PM EDT",
+    "checked": "Sep 4, 2026, 10:38 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-09-03",
-        "key": "Thu",
-        "label": "Thu",
-        "date": "Sep 3"
-      },
       {
         "iso": "2026-09-04",
         "key": "Fri",
@@ -45,15 +39,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Sep 9"
+      },
+      {
+        "iso": "2026-09-10",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Sep 10"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-09-03",
-        "key": "Thu",
-        "label": "Thu",
-        "date": "Sep 3"
-      },
       {
         "iso": "2026-09-04",
         "key": "Fri",
@@ -233,15 +227,22 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 3"
+      },
+      {
+        "iso": "2026-10-04",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Oct 4"
       }
     ],
-    "todayKey": "Thu",
+    "todayKey": "Fri",
     "times": [
       "12 AM",
       "7 AM",
       "8 AM",
       "8:30 AM",
       "9 AM",
+      "9:30 AM",
       "10 AM",
       "10:45 AM",
       "11 AM",
@@ -260,7 +261,7 @@
       "6:30 PM",
       "7 PM",
       "7:30 PM",
-      "9 PM",
+      "8 PM",
       "10 PM",
       "10:30 PM"
     ]
@@ -453,124 +454,158 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "gary_2026_09_03_coffee_circle_w_daring_ventures": {
-      "title": "Coffee Circle w/ Daring Ventures",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-09-03",
-      "time": "8 AM",
-      "sort": 8,
-      "when": "Thu, 09/03 · 8:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/qqq9f4r/Coffee-Circle-w-Daring-Ventures",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Another week, another Coffee Circle. Were opening up a little time each week for founders to drop in & chat with us.nTheres no agenda & nothing to prepare. Come with a question, something youre working through, a problem you want to think out loud about, or just grab a coffee & hang for a bit.nWere happy to talk fundraising, hiring, product, customers, the joys & frustrations of building a company, or pretty much anything else that comes up.nWell be around. Come say hi."
-    },
-    "gary_2026_09_03_nyc_founders_operators_breakfast_club": {
-      "title": "NYC Founders & Operators - Breakfast Club",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-09-03",
-      "time": "8 AM",
-      "sort": 8,
-      "when": "Thu, 09/03 · 8:00am",
-      "price": "Free",
-      "free": true,
-      "place": "West Village Cafe, Bleecker St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/n8vpluj/NYC-Founders-Operators-Breakfast-Club",
-      "map": "https://maps.google.com/?q=West%20Village%20Cafe%2C%20Bleecker%20St",
-      "summary": "Gary's Guide: Join us at one of the best cafs in West Village for coffee & co-working with local founders, operators & investors. Whether you're building your first product, scaling your team, or figuring out go-to-market, this is a room of people who get it. No panels. No pitches. Just great peer to peer conversation over coffee & croissants. Location: Caf, West Village (Bleecker St) Vibe: Coffee, Croissants, Conversation + Co-Working Who this is for: Early-stage founders & growth-stage operators based in NYC Impressions from our rooftop series: Subscribe to our community to hear about future events Interested to partner or sponsor? Reach out at hello@foundersandoperators.nyc Hosted by: Founders & Operators is NYC's curated community for founders, builders & senior operators. We bring together high-signal people across AI, fintech & emerging technology through intimate gatherings, practical programming & original editorial. Stephan Rihs is the founder of Founders & Operators & Rihs Ventures. He works with early-stage companies on strategy, go-to-market, partnerships & fundraising. His background includes Coinbase, BCG, & roles in Austria's Treasury & Chancellor's Office. Location will be revealed to approved attendees."
-    },
-    "gary_2026_09_03_investors_for_a_better_america": {
-      "title": "Investors For A Better America",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-09-03",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Thu, 09/03 · 9:00am",
-      "price": "Varies",
-      "free": false,
-      "place": "Fordham Gabelli School of Business, 140 W 62 St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ppfh00d/Investors-For-A-Better-America",
-      "map": "https://maps.google.com/?q=Fordham%20Gabelli%20School%20of%20Business%2C%20140%20W%2062%20St",
-      "summary": "Gary's Guide: A nonpartisan conference for family offices & other investors strengthening our capitalist constitutional democracy. Our speakers are senior investors from Millennium, Apogem, Rothschild Asset Management, Harvard Management Company, Goldman Sachs, B Capital, First Round, Renaissance Technologies, District of Columbia Retirement, International Finance Corporation, Cantor Fitzgerald, & TIAA-CREF. We believe a free & fair democracy is foundational to a strong investment climate. Free enterprise depends on civic conditions that markets cannot create on their own, including: - Representative & accountable democracy without over-centralization & with anti-corruption safeguards - Social trust - A responsive, fiscally responsible, & effective government with an independent Federal Reserve - The ability to recruit the best people globally, and - Strong alliances, especially with other capitalist democracies. Who: investors, philanthropists, nonprofits, senior executives, founders Cost: Admission is complimentary for investing principals of family offices, foundations, endowments, & other institutional investors with at least $100m AUM, who do not manage outside capital. All others: $2,026. Use 10% discount code: IBA_Cal_2026. All revenues go to Mediators Foundation, a 501(c)3 nonprofit focused on bridging divides."
-    },
-    "gary_2026_09_03_everything_i_learned_scaling_my_business_to_7_figure": {
-      "title": "Everything I Learned Scaling My Business To 7-Figures Without Raising Venture Capital",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-09-03",
+    "skint_90704_0_lesbian_renaissance_a_medieval_themed_lavender_marke": {
+      "title": "lesbian renaissance: a medieval themed lavender market",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-09-05",
       "time": "12 PM",
       "sort": 12,
-      "when": "Thu, 09/03 · 12:00pm",
+      "when": "Sat, 09/05 · 12-6pm",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "boyfriend co-op café + bar (bed-stuy / bushwick)",
+      "source": "The Skint",
+      "link": "https://www.instagram.com/lavendermarketnyc/",
+      "map": "https://maps.google.com/?q=boyfriend%20co-op%20caf%C3%A9%20%2B%20bar%20(bed-stuy%20%2F%20bushwick)%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-6pm: lesbian renaissance: a medieval themed lavender market: boyfriend co-op café + bar (bed-stuy / bushwick)."
+    },
+    "skint_90704_1_brasilian_independence_day_fest": {
+      "title": "brasilian independence day fest",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-09-05",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sat, 09/05 · 2-7pm",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "31st avenue between 33rd + 35th streets (astoria’s open street)",
+      "source": "The Skint",
+      "link": "https://www.instagram.com/brasilfestnyc/",
+      "map": "https://maps.google.com/?q=31st%20avenue%20between%2033rd%20%2B%2035th%20streets%20(astoria%E2%80%99s%20open%20street)%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 2-7pm: brasilian independence day fest: 31st avenue between 33rd + 35th streets (astoria’s open street)."
+    },
+    "skint_90704_2_46th_annual_richmond_county_fair": {
+      "title": "46th annual richmond county fair",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-09-05",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 09/05 · thru mon (12-8pm)",
+      "price": "$15",
+      "free": false,
+      "place": "historic richmond town, staten island",
+      "source": "The Skint",
+      "link": "https://www.historicrichmondtown.org/rcf",
+      "map": "https://maps.google.com/?q=historic%20richmond%20town%2C%20staten%20island%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat thru mon (12-8pm): 46th annual richmond county fair: historic richmond town, staten island. $15 general, $12 seniors, $7 youths."
+    },
+    "skint_90704_3_free_olive_oil_y_ice_cream": {
+      "title": "free olive oil-y ice cream",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sun",
+      "date": "2026-09-06",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Sun, 09/06 · 1-3pm (+ 9/13)",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/oj2w2on/Everything-I-Learned-Scaling-My-Business-To-7-Figures-Without-Raising-Venture-Capital",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Andrew Yeung (Founder, Fibe)."
+      "place": "mccarren parkhouse (williamsburg)",
+      "source": "The Skint",
+      "link": "https://www.instagram.com/p/DcJ98u-xjuA/",
+      "map": "https://maps.google.com/?q=mccarren%20parkhouse%20(williamsburg)%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-3pm (+ 9/13): free olive oil-y ice cream: mccarren parkhouse (williamsburg)."
     },
-    "gary_2026_09_03_startup_mixer": {
-      "title": "Startup Mixer",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-09-03",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Thu, 09/03 · 5:00pm",
-      "price": "Varies",
-      "free": false,
-      "place": "Sour Mouse, 110 Delancey St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/kb9lg0l/Startup-Mixer",
-      "map": "https://maps.google.com/?q=Sour%20Mouse%2C%20110%20Delancey%20St",
-      "summary": "Gary's Guide: NYC Tech &Startup Mixer - brought to you by Startup+ We're putting founders, engineers, investors, recruiters, freelancers, & mentors in the same room for a night of straightup networking. No panels, no speeches, just real conversations. If you're testing an idea, raising cash, or hiring your first dev, this is the place to be. Newsletter (exclusive entry & event drops): https://newsletter.startupplus.club Sponsorship / press: email - contact@startupplus.club Volunteer (Complimentary Ticket): email - contact@startupplus.club Why swing by? - Meet 100+ builders & backers in one go - Swap stories, get quick feedback, share lessons learned - Spot future cofounders, investors, customers-maybe all three What's the setup? - We've got a dedicated space, & name tags at the door - Flash a business card or a LinkedIn QR-whatever works - Dress code? Businesscasual. Jeans totally fine. A quick word on Startup+ We kicked this off in 2021, in the middle of the pandemic, because Zoom mixers just weren't cutting it. Fastforward: 25k members, 75+ mixers, 12 pitch nights, & 6000 folks through the doors. We keep it simple, connect good people & let the magic happen. Headsup: capacity is capped. Only confirmed Luma RSVPs are admitted at the door. Walkins = no go."
+    "skint_90704_4_west_side_county_fair": {
+      "title": "west side county fair",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sun",
+      "date": "2026-09-06",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Sun, 09/06 · 1-6pm (rain date 9/13)",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "pier i in riverside park south (uws)",
+      "source": "The Skint",
+      "link": "https://riversideparknyc.org/event/west-side-county-fair-4/",
+      "map": "https://maps.google.com/?q=pier%20i%20in%20riverside%20park%20south%20(uws)%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-6pm (rain date 9/13): west side county fair: pier i in riverside park south (uws)."
     },
-    "gary_2026_09_03_sell_me_this_ai_a_no_bs_sales_workshop": {
-      "title": "Sell Me This AI - A No BS Sales Workshop",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-09-03",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 09/03 · 6:00pm",
+    "skint_90704_5_our_little_bake_sale_fundraiser_for_make_the_road_ne": {
+      "title": "our little bake sale fundraiser for make the road new york",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sun",
+      "date": "2026-09-06",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Sun, 09/06 · 3-5pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/q7d4qbm/Sell-Me-This-AI-A-No-BS-Sales-Workshop",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Farzad Khosravi (Owner, Hot Date Kitchen)."
+      "place": "the play ground at little island, free admission, $10 per pastry",
+      "source": "The Skint",
+      "link": "https://www.tickettailor.com/events/ourlittlebakesale/2376982",
+      "map": "https://maps.google.com/?q=the%20play%20ground%20at%20little%20island%2C%20free%20admission%2C%20%2410%20per%20pastry%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 3-5pm: our little bake sale fundraiser for make the road new york: the play ground at little island, free admission, $10 per pastry."
     },
-    "gary_2026_09_03_the_builder_series_founder_investor_operator_nights": {
-      "title": "The Builder Series - Founder, Investor & Operator Nights",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-09-03",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 09/03 · 6:00pm",
-      "price": "$25",
+    "skint_90704_6_59th_annual_west_indian_day_parade": {
+      "title": "59th annual west indian day parade",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Mon",
+      "date": "2026-09-07",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Mon, 09/07 · 11am-6pm",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "eastern parkway from utica avenue to grand army plaza (brooklyn)",
+      "source": "The Skint",
+      "link": "https://www.timeout.com/newyork/west-indian-american-day-carnival-new-york",
+      "map": "https://maps.google.com/?q=eastern%20parkway%20from%20utica%20avenue%20to%20grand%20army%20plaza%20(brooklyn)%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon 11am-6pm: 59th annual west indian day parade: eastern parkway from utica avenue to grand army plaza (brooklyn)."
+    },
+    "skint_90704_7_we_will_always_love_you_a_dolly_parton_celebration_w": {
+      "title": "we will always love you: a dolly parton celebration with cover band doll parts",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sun",
+      "date": "2026-09-06",
+      "time": "8 PM",
+      "sort": 20,
+      "when": "Sun, 09/06 · 8pm",
+      "price": "$20",
       "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/5rpis9k/The-Builder-Series-Founder-Investor-Operator-Nights",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Connect w/ founders, operators, investors & others w/ experiences people remember & relationships that last"
+      "place": "littlefield (gowanus), $20",
+      "source": "The Skint",
+      "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1999060666266",
+      "map": "https://maps.google.com/?q=littlefield%20(gowanus)%2C%20%2420%20NYC",
+      "summary": "dolly parton tribute events. Pulled from The Skint's public article feed: sun 8pm: we will always love you: a dolly parton celebration with cover band doll parts: littlefield (gowanus), $20."
+    },
+    "skint_90704_8_dolly_a_live_musical_tribute": {
+      "title": "dolly: a live musical tribute",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Tue",
+      "date": "2026-09-08",
+      "time": "8 PM",
+      "sort": 20,
+      "when": "Tue, 09/08 · 8pm",
+      "price": "$13.39",
+      "free": false,
+      "place": "c’mon everybody (bed-stuy), $13",
+      "source": "The Skint",
+      "link": "https://dice.fm/event/q2d5dx-dolly-a-live-musical-tribute-8th-sep-cmon-everybody-new-york-tickets",
+      "map": "https://maps.google.com/?q=c%E2%80%99mon%20everybody%20(bed-stuy)%2C%20%2413%20NYC",
+      "summary": "dolly parton tribute events. Pulled from The Skint's public article feed: tues 8pm: dolly: a live musical tribute: c’mon everybody (bed-stuy), $13.39."
     },
     "gary_2026_09_08_from_bench_to_boardroom_cellular_logistics_nanobiolo": {
       "title": "From Bench To Boardroom - Cellular Logistics, Nanobiology & VC Biotech",
@@ -673,6 +708,23 @@
       "link": "https://www.garysguide.com/events/tfshk8j/The-Founder-s-First-Move-Early-Decisions-That-Shape-Every-Startup",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Elizabeth Vincent (VP, JPMorgan Asset Mgmt), Breen Sullivan (CoFounder, The Fourth Effect), Emma Usich (Girl Math Capital), Andy Walsh (Host, Startups Decoded)."
+    },
+    "gary_2026_09_09_wednesday_coworking": {
+      "title": "Wednesday Coworking",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-09-09",
+      "time": "9:30 AM",
+      "sort": 9.5,
+      "when": "Wed, 09/09 · 9:30am",
+      "price": "Free",
+      "free": true,
+      "place": "Moxy LES, 145 Bowery",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/w8hev5c/Wednesday-Coworking",
+      "map": "https://maps.google.com/?q=Moxy%20LES%2C%20145%20Bowery",
+      "summary": "Gary's Guide: With founders, builders, creatives, researchers."
     },
     "gary_2026_09_09_ny_fashion_week_fashiontech_x_fintech_mixer": {
       "title": "NY Fashion Week - FashionTech x FinTech Mixer",
@@ -938,13 +990,13 @@
       "time": "6:30 PM",
       "sort": 18.5,
       "when": "Thu, 09/10 · 6:30pm",
-      "price": "$25",
+      "price": "$30",
       "free": false,
-      "place": "Puttery, 446 W 14th St, New York, NY 10014, Basement",
+      "place": "Puttery, 446 W 14th St, Basement",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/ete99bj/An-UNMUTED-Debate-AI-Education",
-      "map": "https://maps.google.com/?q=Puttery%2C%20446%20W%2014th%20St%2C%20New%20York%2C%20NY%2010014%2C%20Basement",
-      "summary": "Gary's Guide: Chat, are we cooked? Majoring in AI, Minoring in Education? For decades, higher ed has sold two things at once and dared you not to notice: an education and a credential. The lecture and the diploma. The learning and the line on your resume. You couldn't buy one without the other, so nobody made you choose. AI rips the bundle apart. For the optimists, this is the best thing to happen to learning in a century. A tireless tutor for every student, instant feedback, personalized pacing, the death of the dead-eyed lecture hall. Used well, AI could finally force institutions to deliver on the teaching mission they've spent centuries claiming as their reason to exist. For the skeptics, the machine has been let loose and it isn't coming back under control. Call it Skynet for higher ed: once a model teaches the material better than the median professor, and a student can prove mastery without four years and six figures of debt, the institution can't put the thing back in the box. The emperor has no clothes. Strip away the instruction nobody needed the building for anyway, and you're left with what the university was actually charging for: the stamp, the gate, the brand. The degree stops mattering, and everyone finally admits it never really did. Two people who built their careers inside the machine. Two very different verdicts on whether it survives the decade. John Katzman founded The Princeton Review and now runs Noodle, building the infrastructure behind online degree programs. He has spent decades on the business of how education actually gets delivered and paid for. If you want the case that AI makes institutions more effective, not less, he's your guy. Akil Bello got his start in test prep under John Katzman at The Princeton Review. He went on to found Bell Curves and has spent thirty years studying how the educational industry actually works, who it serves, and what it obscures. He agrees AI will transform higher ed. He's less convinced institutions will lead that transformation rather than be dragged through it. UNMUTED is a discussion forum for the politically curious. Engaging. Accessible. Social. Open-minded is the name of the game. Join your people."
+      "map": "https://maps.google.com/?q=Puttery%2C%20446%20W%2014th%20St%2C%20Basement",
+      "summary": "Gary's Guide: DOORS OPEN AT 6:30, SHOW STARTS AT 7 Majoring in AI, Minoring in Education? For decades, higher ed has sold two things at once & dared you not to notice: an education & a credential. The lecture & the diploma. The learning & the line on your resume. You couldn't buy one without the other, so nobody made you choose. AI rips the bundle apart. For the optimists, this is the best thing to happen to learning in a century. A tireless tutor for every student, instant feedback, personalized pacing, the death of the dead-eyed lecture hall. Used well, AI could finally force institutions to deliver on the teaching mission they've spent centuries claiming as their reason to exist. For the skeptics, the machine has been let loose & it isn't coming back under control. Call it Skynet for higher ed: once a model teaches the material better than the median professor, & a student can prove mastery without four years & six figures of debt, the institution can't put the thing back in the box. The emperor has no clothes. Strip away the instruction nobody needed the building for anyway, & you're left with what the university was actually charging for: the stamp, the gate, the brand. The degree stops mattering, & everyone finally admits it never really did. Two people who built their careers inside the machine. Two very different verdicts on whether it survives the decade. John Katzman founded The Princeton Review & now runs Noodle, building the infrastructure behind online degree programs. He has spent decades on the business of how education actually gets delivered & paid for. If you want the case that AI makes institutions more effective, not less, he's your guy. Akil Bello got his start in test prep under John Katzman at The Princeton Review. He went on to found Bell Curves & has spent thirty years studying how the educational industry actually works, who it serves, & what it obscures. He agrees AI will transform higher ed. He's less convinced institutions will lead that transformation rather than be dragged through it. UNMUTED is a discussion forum for the politically curious. Engaging. Accessible. Social. Open-minded is the name of the game. Join your people."
     },
     "gary_2026_09_11_the_ai_briefing_by_startup_grind_the_workforce_gap_i": {
       "title": "The AI Briefing By Startup Grind - The Workforce Gap In AI Readiness",
@@ -980,8 +1032,8 @@
       "map": "https://maps.google.com/?q=Othership%20Flatiron%2C%2023%20W%2020th%20St",
       "summary": "Gary's Guide: With Series A+ founders."
     },
-    "gary_2026_09_13_nyc_founder_reset_othership_series_a_founders_only": {
-      "title": "NYC Founder Reset @ Othership  Series A+ Founders Only",
+    "gary_2026_09_13_founder_reset_othership_series_a_founders_only": {
+      "title": "Founder Reset @ Othership  Series A+ Founders Only",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Sun",
@@ -991,11 +1043,11 @@
       "when": "Sun, 09/13 · 5:00pm",
       "price": "Free",
       "free": true,
-      "place": "Othership Flatiron, 23 W 20th St New York, NY 10011",
+      "place": "Othership Flatiron, 23 W 20th St",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/zj9klhi/NYC-Founder-Reset-Othership-Series-A-Founders-Only",
-      "map": "https://maps.google.com/?q=Othership%20Flatiron%2C%2023%20W%2020th%20St%20New%20York%2C%20NY%2010011",
-      "summary": "Gary's Guide: Presented by NachoNacho, HubSpot for Startups & MongoDB A curated wellness experience exclusively for Series A+ Founders to connect with their peers, let their guard down, and spend time together without the pressure to perform. Sunday, September 13 | 10:30 AM Othership Flatiron | 23 W 20th St, New York About the Event Join us at Othership Flatiron for an exclusive Sunday morning designed to reset, recharge, and connect before another busy week in NYC. This invite-only experience brings together a highly curated group of Series A+ Founders for a morning of restorative wellness, meaningful conversations, and genuine connection - away from the usual conference rooms, pitch decks, and networking happy hours. We'll move through the Othership experience featuring: Guided sauna & heat therapy to relax and recharge. Ice baths & cold plunges for an energizing state shift. We may ask you to do an elevator pitch for your company in the cold plunge. Guided breathwork & mindfulness to reset body and mind. Social Commons for relaxed founder-to-founder conversations. Time to connect, recharge, and start Sunday feeling refreshed. Food, coffee, and other refreshments will be provided. The atmosphere is intentionally curated for authentic conversations between founders who understand the challenges of building and scaling companies. No pitch decks. No panels. Just wellness, connection, and a chance to reset. Who Should Attend - Series A+ Founders - No VCs allowed. This is a founder-only space to connect, recharge, and have open, honest conversations with peers-without pitching, fundraising, or feeling like you need to be on.\" This is a highly curated, invite-only experience. Application and approval are required for entry."
+      "link": "https://www.garysguide.com/events/zj9klhi/Founder-Reset-Othership-Series-A-Founders-Only",
+      "map": "https://maps.google.com/?q=Othership%20Flatiron%2C%2023%20W%2020th%20St",
+      "summary": "Gary's Guide: NYC Founder Reset @ Othership - Series A+ Founders Only (No VCs) Presented by NachoNacho, HubSpot for Startups & MongoDB A curated wellness experience exclusively for Series A+ Founders to connect with their peers, let their guard down, & spend time together without the pressure to perform. Sunday, September 13 | 10:30 AM Othership Flatiron | 23 W 20th St, New York About the Event Join us at Othership Flatiron for an exclusive Sunday morning designed to reset, recharge, & connect before another busy week in NYC. This invite-only experience brings together a highly curated group of Series A+ Founders for a morning of restorative wellness, meaningful conversations, & genuine connection - away from the usual conference rooms, pitch decks, & networking happy hours. We'll move through the Othership experience featuring: Guided sauna & heat therapy to relax & recharge Ice baths & cold plunges for an energizing state shift. We may ask you to do an elevator pitch for your company in the cold plunge. Guided breathwork & mindfulness to reset body & mind Social Commons for relaxed founder-to-founder conversations Time to connect, recharge, & start Sunday feeling refreshed. Food, coffee, & other refreshments will be provided. The atmosphere is intentionally curated for authentic conversations between founders who understand the challenges of building & scaling companies. No pitch decks. No panels. Just wellness, connection, & a chance to reset. Who Should Attend Series A+ Founders No VCs allowed. This is a founder-only space to connect, recharge, & have open, honest conversations with peers-without pitching, fundraising, or feeling like you need to be on.\" This is a highly curated, invite-only experience. Application & approval are required for entry. Location Othership Flatiron 23 W 20th St New York, NY 10011 Brought to you by: NachoNacho: The B2B SaaS & AI + Services Marketplace - your first stop for software savings. MongoDB: The modern, AI-ready data platform helping startups build faster, innovate, & scale from their first product to global growth. Learn more at MongoDB.com HubSpot for Startups helps venture-backed startups grow better with access to HubSpot's full suite of marketing, sales, & customer service tools at up to 90% off, startup-friendly pricing built for founders scaling fast. We partner with leading VCs, accelerators, & startup communities globally to give founders the tools they need to go from Series A to IPO. Apply here: https://app.hubspot.com/signup-hubspot/hubspot-for-startups?partner-code=pQ2OHLVuVKXI&program=startups"
     },
     "gary_2026_09_14_junto_founder_dinner": {
       "title": "Junto Founder Dinner",
@@ -1182,7 +1234,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/t1d9xwh/LeadDev-NYC-Kickoff-Social-w-Rootly-AI-Docker-Twingate-Spacelift-Runpod-Endor-Labs-Logz-io",
       "map": "https://maps.google.com/?q=SPIN%20New%20York%20Flatiron%2C%2048%20E%2023rd%20St",
-      "summary": "Gary's Guide: Unwind after a full day at LeadDev NYC with an evening of friendly competition, great conversation, and refreshing drinks! Join fellow engineering leaders, CTOs, and dev community peers for a relaxed happy hour packed with ping pong, tasty bites, and great company. Whether you're looking to talk shop on scaling engineering teams or just want to show off your backhand slice, this is the spot to be. What to Expect Ping Pong & Party Games: Reservation-only access to ping pong tables, equipment, and casual games. Open Bar & Bites: Enjoy craft beer, wine, and bar food. Networking: Connect with local and visiting engineering leaders in a vibrant, high-energy environment. Space is limited to ensure everyone gets playing time! Please RSVP early to reserve your spot."
+      "summary": "Gary's Guide: Unwind after a full day at LeadDev NYC with an evening of friendly competition, great conversation, & refreshing drinks! Join fellow engineering leaders, CTOs, & dev community peers for a relaxed happy hour packed with ping pong, tasty bites, & great company. Whether you're looking to talk shop on scaling engineering teams or just want to show off your backhand slice, this is the spot to be. What to Expect Ping Pong & Party Games: Reservation-only access to ping pong tables, equipment, & casual games. Open Bar & Bites: Enjoy craft beer, wine, & bar food. Networking: Connect with local & visiting engineering leaders in a vibrant, high-energy environment. Space is limited to ensure everyone gets playing time! Please RSVP early to reserve your spot. About Rootly AI Rootly AI is the AI-native on-call & incident response platform that provides proactive support to help Site Reliability Engineers resolve incidents faster, improve system resilience, & streamline on-call operations. It's your always-on SRE copilot that automates root cause analysis & identifies patterns that drive continuous improvement-trusted by hundreds of companies like LinkedIn, NVIDIA, Replit, Elastic, Canva, Clay, Tripadvisor, & Shell. About Endor Labs Endor Labs is the AppSec platform built for the AI era. It helps teams find, prioritize, & fix the most critical risks in code-whether written by humans or AI-faster. Endor Labs understands the entire structure of your codebase-from 40 year-old C++ to modern Bazel monorepos. Powered by AI agents & the industry's richest security dataset about open source code, Endor Labs doesn't just flag issues-it reduces noise, prioritizes what matters most, & proposes intelligent remediations based on the context of your code. Whether you're an upstart or in the Fortune 500, Endor Labs helps AppSec & development teams eliminate noisy alerts, fix code 6.2x faster, & stay compliant with standards like FedRAMP, PCI, SLSA, & NIST SSDF. About Twingate Twingate is the identity-aware access platform that helps modern engineering & infrastructure teams securely access critical systems, production environments, & internal resources without the friction of legacy VPNs & cloud-proxies. By simplifying authentication, improving visibility, & enforcing granular access controls across private & privileged resources, Twingate helps teams move faster while strengthening security-trusted by companies like Notion, Confluent, Wiz, Scopely, Red Hat, & Chargebee. About Spacelift Spacelift is the infrastructure orchestration platform built for the AI-accelerated software era. It manages the full lifecycle of both traditional IaC & AI-provisioned infrastructure, integrating with tools like Terraform, OpenTofu, CloudFormation, Pulumi, & Ansible in a single governed workflow. See how Duolingo, Figma, Moody's, Checkout.com, 1Password, Redfin, & others manage infrastructure for the AI-accelerated software era at spacelift.io/customers."
     },
     "gary_2026_09_16_avalanche_summit": {
       "title": "Avalanche Summit",
@@ -1218,22 +1270,107 @@
       "map": "https://maps.google.com/?q=Foley%20Hoag%2C%201301%206th%20Ave",
       "summary": "Gary's Guide: Bring your toughest startup challenge, leave with next steps. Table is a community of 1,300+ founders, operators, advisors, & investors. In each session, participants surface real challenges, vote on what matters most, & engage in focused, fast-paced discussions to unlock practical solutions. In a single morning, you'll gain actionable insights, learn new perspectives, & meet peers also looking to move forward. Table is sponsored by Foley Hoag LLP. Foley Hoag helps founders navigate every stage of their startup growth. Photo by Mamadou Ciss"
     },
-    "luma_2026_09_03_gatlin_robotics_physical_ai_demo_happy_hour": {
-      "title": "Gatlin Robotics: Physical AI Demo & Happy Hour",
+    "gary_2026_09_16_from_concept_to_conviction_ai_in_the_designer_s_tool": {
+      "title": "From Concept To Conviction - AI In The Designer's Toolkit",
       "type": "tech",
       "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-09-03",
-      "time": "9 PM",
-      "sort": 21,
-      "when": "Thu, 09/03 · 9pm",
+      "day": "Wed",
+      "date": "2026-09-16",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 09/16 · 6:00pm",
+      "price": "$45",
+      "free": false,
+      "place": "BrainStation, 136 Crosby St, 4th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/3xyw56i/From-Concept-To-Conviction-AI-In-The-Designer-s-Toolkit",
+      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
+      "summary": "Gary's Guide: With Mareike Keller (Product Designer, Spotify)."
+    },
+    "gary_2026_09_16_postgres_tuning_in_age_of_ai_context_is_everything": {
+      "title": "Postgres Tuning In Age Of AI - Context Is Everything",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-09-16",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 09/16 · 6:00pm",
       "price": "Free",
       "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/bxbg8t59",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Gatlin Robotics, Isaac Qureshi, Zach Zweig-Vinegar, Erika Hang, Theophila Lee"
+      "place": "Venue, 7 W 34th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/cj9k6pj/Postgres-Tuning-In-Age-Of-AI-Context-Is-Everything",
+      "map": "https://maps.google.com/?q=Venue%2C%207%20W%2034th%20St",
+      "summary": "Gary's Guide: With Ryan Booz (Solns Enggr, Pganalyze)."
+    },
+    "gary_2026_09_16_next100": {
+      "title": "NEXT100",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-09-16",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 09/16 · 6:00pm",
+      "price": "$50",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/dygmetn/NEXT100",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Shilpi Nayak (Founder, House of 434), Moshe Neuman (Investor)."
+    },
+    "gary_2026_09_16_leaddev_nyc_after_hours_w_rootly_ai_runpod_endor_lab": {
+      "title": "LeadDev NYC After-Hours w/ Rootly AI, Runpod, Endor Labs, Twingate, Swarmia, & Logz.io",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-09-16",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 09/16 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Coexist GameHouse, 325 W 38th St Ground Floor",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/q970zo7/LeadDev-NYC-After-Hours-w-Rootly-AI-Runpod-Endor-Labs-Twingate-Swarmia-Logz-io",
+      "map": "https://maps.google.com/?q=Coexist%20GameHouse%2C%20325%20W%2038th%20St%20Ground%20Floor",
+      "summary": "Gary's Guide: Unwind after a full day at LeadDev NYC with an evening of friendly competition, great conversation, & refreshing drinks! Join fellow engineering leaders, CTOs, & dev community peers for a relaxed happy hour packed with ping pong, tasty bites, & great company. Whether you're looking to talk shop on scaling engineering teams or just want to show off your backhand slice, this is the spot to be. What to Expect Video Games: Access to arcade games, consoles, & casual board games. Open Bar & Bites: Enjoy craft beer, wine, & bar food. Networking: Connect with local & visiting engineering leaders in a vibrant, high-energy environment. Space is limited to ensure everyone gets playing time! Please RSVP early to reserve your spot. About Rootly AI Rootly AI is the AI-native on-call & incident response platform that provides proactive support to help Site Reliability Engineers resolve incidents faster, improve system resilience, & streamline on-call operations. It's your always-on SRE copilot that automates root cause analysis & identifies patterns that drive continuous improvement-trusted by hundreds of companies like LinkedIn, NVIDIA, Replit, Elastic, Canva, Clay, Tripadvisor, & Shell. About Twingate Twingate is the identity-aware access platform that helps modern engineering & infrastructure teams securely access critical systems, production environments, & internal resources without the friction of legacy VPNs & cloud-proxies. By simplifying authentication, improving visibility, & enforcing granular access controls across private & privileged resources, Twingate helps teams move faster while strengthening security-trusted by companies like Notion, Confluent, Wiz, Scopely, Red Hat, & Chargebee. About Endor Labs Endor Labs is the AppSec platform built for the AI era. It helps teams find, prioritize, & fix the most critical risks in code-whether written by humans or AI-faster. Endor Labs understands the entire structure of your codebase-from 40 year-old C++ to modern Bazel monorepos. Powered by AI agents & the industry's richest security dataset about open source code, Endor Labs doesn't just flag issues-it reduces noise, prioritizes what matters most, & proposes intelligent remediations based on the context of your code. Whether you're an upstart or in the Fortune 500, Endor Labs helps AppSec & development teams eliminate noisy alerts, fix code 6.2x faster, & stay compliant with standards like FedRAMP, PCI, SLSA, & NIST SSDF."
+    },
+    "gary_2026_09_16_venture_university_event": {
+      "title": "Venture University Event",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-09-16",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 09/16 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, 66 E 55th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/d5zky5q/Venture-University-Event",
+      "map": "https://maps.google.com/?q=Venue%2C%2066%20E%2055th%20St",
+      "summary": "Gary's Guide: The Next 250 Wednesday, September 16, 2026 6:00-9:00 PM Classic Car Club Manhattan Building Ventures for the Age of AI This fall, Base44, Boardy, & Venture University NYC are bringing together a curated group of founders, investors, accelerators, & ecosystem leaders for an evening focused on what comes next. As America marks 250 years, we'll look forwardat the people, technologies, & collaborations that can shape the next 250. Expect bold ideas, sharp conversations, & a room full of people building the future. Invitation & details coming soon. Presented by Base44 In collaboration with Boardy & Venture University NYC"
+    },
+    "gary_2026_09_16_seed_series_a_founder_roundtable_building_teams_that": {
+      "title": "Seed-Series A Founder Roundtable - Building Teams That Scale",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-09-16",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Wed, 09/16 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/8p1gfrw/Seed-Series-A-Founder-Roundtable-Building-Teams-That-Scale",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Genevieve Herron (Founder, Pinnacle Path)."
     },
     "luma_2026_09_08_from_bench_to_boardroom_nobel_laureate_james_rothman": {
       "title": "From Bench to Boardroom: Nobel Laureate James Rothman on Cellular Logistics, Nanobiology, & VC Biotech (In-Person)",
@@ -1269,22 +1406,22 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Tusk & Quill, Tusk & Quill, Aishwarya Khanduja"
     },
-    "nyu_tandon_2026_09_03_instructional_tech_drop_in_sessions": {
-      "title": "Instructional Tech Drop-in Sessions",
+    "luma_2026_09_09_the_frontier_of_enterprise_ai_in_production": {
+      "title": "The Frontier of Enterprise AI in Production",
       "type": "tech",
-      "label": "Workshop / Training",
-      "day": "Thu",
-      "date": "2026-09-03",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Thu, 09/03 · 12:00 PM",
-      "price": "Free / varies",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-09-09",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Wed, 09/09 · 10pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/09/03/instructional-tech-drop-sessions",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Workshop / Training"
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/rejfs2o5",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Credal, Jessica Shen, Ravin Thambapillai"
     },
     "nyu_tandon_2026_09_08_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1404,6 +1541,23 @@
       "link": "https://engineering.nyu.edu/events/2026/09/16/instructional-tech-drop-sessions",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
+    },
+    "nyu_tandon_2026_09_17_extreme_codesign_for_efficient_ai_algorithms_softwar": {
+      "title": "Extreme Codesign for Efficient AI: Algorithms, Software, and Hardware",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Thu",
+      "date": "2026-09-17",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Thu, 09/17 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/17/extreme-codesign-efficient-ai-algorithms-software-and-hardware",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
     },
     "jc_culture_43029_2026_09_05_labor_day_weekend_salsa_at_grundy_park": {
       "title": "Labor Day Weekend: Salsa at Grundy Park",
@@ -2181,17 +2335,13 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_09_03_8_am": [
-      "gary_2026_09_03_coffee_circle_w_daring_ventures",
-      "gary_2026_09_03_nyc_founders_operators_breakfast_club"
+    "cluster_2026_09_05_12_pm": [
+      "skint_90704_0_lesbian_renaissance_a_medieval_themed_lavender_marke",
+      "skint_90704_2_46th_annual_richmond_county_fair"
     ],
-    "cluster_2026_09_03_12_pm": [
-      "gary_2026_09_03_everything_i_learned_scaling_my_business_to_7_figure",
-      "nyu_tandon_2026_09_03_instructional_tech_drop_in_sessions"
-    ],
-    "cluster_2026_09_03_6_pm": [
-      "gary_2026_09_03_sell_me_this_ai_a_no_bs_sales_workshop",
-      "gary_2026_09_03_the_builder_series_founder_investor_operator_nights"
+    "cluster_2026_09_06_1_pm": [
+      "skint_90704_3_free_olive_oil_y_ice_cream",
+      "skint_90704_4_west_side_county_fair"
     ],
     "cluster_2026_09_08_6_pm": [
       "gary_2026_09_08_from_bench_to_boardroom_cellular_logistics_nanobiolo",
@@ -2233,6 +2383,13 @@
       "gary_2026_09_15_dinner_navigating_international_business",
       "gary_2026_09_15_tech_x_market_decoders",
       "gary_2026_09_15_leaddev_nyc_kickoff_social_w_rootly_ai_docker_twinga"
+    ],
+    "cluster_2026_09_16_6_pm": [
+      "gary_2026_09_16_from_concept_to_conviction_ai_in_the_designer_s_tool",
+      "gary_2026_09_16_postgres_tuning_in_age_of_ai_context_is_everything",
+      "gary_2026_09_16_next100",
+      "gary_2026_09_16_leaddev_nyc_after_hours_w_rootly_ai_runpod_endor_lab",
+      "gary_2026_09_16_venture_university_event"
     ],
     "cluster_2026_09_12_12_pm": [
       "jc_culture_42953_2026_09_12_bergen_square_day_2026",
