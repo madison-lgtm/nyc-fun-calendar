@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Sep 4, 2026, 5:42 PM EDT",
+    "checked": "Sep 5, 2026, 9:37 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-09-04",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Sep 4"
-      },
       {
         "iso": "2026-09-05",
         "key": "Sat",
@@ -45,15 +39,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Sep 10"
+      },
+      {
+        "iso": "2026-09-11",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Sep 11"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-09-04",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Sep 4"
-      },
       {
         "iso": "2026-09-05",
         "key": "Sat",
@@ -233,9 +227,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 4"
+      },
+      {
+        "iso": "2026-10-05",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Oct 5"
       }
     ],
-    "todayKey": "Fri",
+    "todayKey": "Sat",
     "times": [
       "12 AM",
       "7 AM",
@@ -1576,23 +1576,6 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
-    "jc_culture_43741_2026_09_04_city_challenge_obstacle_race_2026_labor_day_discount": {
-      "title": "City Challenge Obstacle Race 2026 / Labor Day Discount",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Fri",
-      "date": "2026-09-04",
-      "time": "12 AM",
-      "sort": 0,
-      "when": "Fri, 09/04 · 12am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/city-challenge-obstacle-race-2026-labor-day-discount/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor."
-    },
     "jc_culture_43029_2026_09_05_labor_day_weekend_salsa_at_grundy_park": {
       "title": "Labor Day Weekend: Salsa at Grundy Park",
       "type": "market",
@@ -2340,6 +2323,23 @@
       "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-2026-3/",
       "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
+    },
+    "jc_culture_10004833_2026_10_02_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-10-02",
+      "time": "7:30 PM",
+      "sort": 19.5,
+      "when": "Fri, 10/02 · 7:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-02/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
     }
   },
   "clusters": {
