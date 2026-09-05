@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 5, 2026, 9:37 AM EDT",
+    "checked": "Sep 5, 2026, 5:35 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -607,6 +607,74 @@
       "map": "https://maps.google.com/?q=c%E2%80%99mon%20everybody%20(bed-stuy)%2C%20%2413%20NYC",
       "summary": "dolly parton tribute events. Pulled from The Skint's public article feed: tues 8pm: dolly: a live musical tribute: c’mon everybody (bed-stuy), $13.39."
     },
+    "gary_2026_09_05_ai_x_finance_hackathon_money_talks": {
+      "title": "AI x Finance Hackathon -  Money Talks",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sat",
+      "date": "2026-09-05",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Sat, 09/05 · 10:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/eno0ufy/AI-x-Finance-Hackathon-Money-Talks",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: New York is where finance gets built. Now it's time to show Wall Street what AI can do. Build a real AI product for finance in one day, solve problems coming from companies working in the space, & put what you build in front of founders, operators, hiring teams & technology companies. Build with PRISM by Block Convey: Build Observe Improve Prove Demo. What You Leave With Up to $5,000 in cash prizes + partner credits, made possible by our sponsors. 1st Place: $1,000 cash + $1,000+ worth of sponsor credits & technology access. Walk away with cash, tools to keep building after the hackathon, & direct visibility with our partner companies. Two Runner-Up Awards: $500 cash + $500+ in sponsor credits each. Top-performing builders will also have the opportunity to speak directly with the recruiting teams at Maximor & TechNovaTime, turning a one-day project into a potential interview conversation. Live Interview This is not just about winning a hackathon. Build something useful. Prove it works. Get it in front of people who can open the next door. Track Sponsors Maximor | Official Money Operations Track Sponsor What should the AI-native finance team look like? Maximor is building AI-powered finance operations for the modern CFO organization, making them a natural partner to shape the Money Operations challenge. What happens when an AI agent can actually do it? Maximor will help shape the challenge around problems finance teams are dealing with today. maximor.ai Regodit | Official Trust & Risk Track Sponsor Financial AI does not become enterprise-ready just because the model works. Regodit builds AI-powered compliance & risk automation around evidence collection, control readiness, monitoring & audit preparation. The challenge is to build AI that companies can not only use, but trust, monitor & defend in a real enterprise environment. regodit.com Money Intelligence Build AI that helps people & businesses make better decisions around: Investing Market Research Financial Analysis Portfolio Intelligence Personal Finance Use agents, real-time information & financial data to turn information into something people can actually act on. Your Hackathon Project Could Become Your Interview TechNovaTime | Official Hiring Partner TechNovaTime builds digital employees & AI agents that operate across complex real-world interfaces & workflows. They are joining MONEY TALKS specifically to meet engineers who can build: UI Agents Workflow Automation Autonomous Digital Workers AI-Powered Product Experiences Their team will be watching what participants actually ship. Your Hackathon demo shows them what you can do. technovatime.com Technology Partners Our technology partners are giving teams tools & credits that can help them move faster during the hackathon. GIDE A local-first AI coding environment where builders can run models locally, work offline, bring their own cloud models & keep control over what an AI coding agent changes. generativeide.com Prelint AI can generate code quickly. Prelint helps answer the next question: did the AI actually build what the product was supposed to do? It reviews AI-written changes against product requirements, rules & decisions. prelint.com Tavily Give your agents access to the live web. Tavily is providing builders with web search, extraction & crawling credits, making it easier to build agents that research, gather fresh information & act on real-world web data. tavily.com One Day. New York City. Show Wall Street What You Can Build. Come with a team or apply solo. Bring an idea, choose a track, use the partner technologies that help you build faster, connect your project with PRISM, test it, improve it & put the final result in front of the room. September 5, 2026 10:00 AM - 6:00 PM New York City Registration is free & subject to approval Your agent. Your idea. One day to prove what you can build. Build with PRISM. Build for finance. Show Wall Street what AI can do."
+    },
+    "gary_2026_09_06_code_in_white_labor_day_weekend_pre_nyfw_rooftop_poo": {
+      "title": "Code In White - Labor Day Weekend Pre-NYFW Rooftop Pool Experience",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sun",
+      "date": "2026-09-06",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Sun, 09/06 · 3:00pm",
+      "price": "$35",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/di2pfus/Code-In-White-Labor-Day-Weekend-Pre-NYFW-Rooftop-Pool-Experience",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Rah RiptheRunway (Founder, CCP & ViralVibez), Tony Henry (Fashion Producer), Ashlee Stephenson (Model) + music by DJ Pelau."
+    },
+    "gary_2026_09_08_beyond_vibe_coding_let_s_build_a_native_mobile_app": {
+      "title": "Beyond Vibe Coding - Let's Build A Native Mobile App",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-09-08",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Tue, 09/08 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/29g7tb1/Beyond-Vibe-Coding-Let-s-Build-A-Native-Mobile-App",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: So, you want to create a native app, eh? Yes, let's do it. GPS . Camera . Accelerometer / gyroscope . Building things for mobile gives us great powers, but also a little bit more complexity. So let's walk through some of the basics together. What will we be using? We'll be building with React Native through Expo. This enables us to launch apps for both iOS & Android with the same codebase. Win. Expo also makes it easy to test apps directly on our phones while we are developing them. How this workshop will work. First, I'll (hi, it's me Jeff) will give a quick intro to mobile app development. Then, I'll get you & your agent(s) set up to build. Finally, I'll give you some fun prompts for mobile app ideas to try building & you'll have time to build on your own. It's kinda like a quick workshop + a mini-hackathon. It's fun. You'll learn something new. Annnnnd importantly, you get to hang out with other fun people building cool stuff. Agenda 5:30pm: Door open, come hang out. 6:00pm: Jeff does a quick workshop 6:45pm: Everyone has time to build. 8:15pm: Demo time. 8:30pm: We start heading home. Do you need to be super technical? Some vibe coding experience is helpful. But, I try to make these as approachable as possible. Even if this will be your first app ever made, as long as you come with a curiosity to learn, you'll come away with something. Ahead of the event, I'll share some getting started guides to ensure you are all set up when the event starts. Any other details? This workshop is part of the Product Builders Club. It is hosted by Jeff Buzulencia, founder of Blank Slate Labs, an AI-native product studio. The spots are limited, so grab a seat while they are available! Please note: By signing up for this event you agree to receive email communication from the Product Builders Club (and from Fabrik) related to this gathering & future offerings. You can unsubscribe at any time."
+    },
+    "gary_2026_09_08_build_ai_agents_that_qualify_leads_book_meetings_res": {
+      "title": "Build AI Agents That Qualify Leads, Book Meetings & Resolve Customer Issues",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-09-08",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Tue, 09/08 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/lasbzbp/Build-AI-Agents-That-Qualify-Leads-Book-Meetings-Resolve-Customer-Issues",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Chanl AI & Fabrik."
+    },
     "gary_2026_09_08_from_bench_to_boardroom_cellular_logistics_nanobiolo": {
       "title": "From Bench To Boardroom - Cellular Logistics, Nanobiology & VC Biotech",
       "type": "startup",
@@ -709,23 +777,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Elizabeth Vincent (VP, JPMorgan Asset Mgmt), Breen Sullivan (CoFounder, The Fourth Effect), Emma Usich (Girl Math Capital), Andy Walsh (Host, Startups Decoded)."
     },
-    "gary_2026_09_09_wednesday_coworking": {
-      "title": "Wednesday Coworking",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-09",
-      "time": "9:30 AM",
-      "sort": 9.5,
-      "when": "Wed, 09/09 · 9:30am",
-      "price": "Free",
-      "free": true,
-      "place": "Moxy LES, 145 Bowery",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/w8hev5c/Wednesday-Coworking",
-      "map": "https://maps.google.com/?q=Moxy%20LES%2C%20145%20Bowery",
-      "summary": "Gary's Guide: With founders, builders, creatives, researchers."
-    },
     "gary_2026_09_09_ny_fashion_week_fashiontech_x_fintech_mixer": {
       "title": "NY Fashion Week - FashionTech x FinTech Mixer",
       "type": "startup",
@@ -794,6 +845,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join us for an intimate evening with a highly curated group of Series A/B founders that are scaling at the most beautiful venue in NYC. Who Should Attend? Founders who have raised Series A Founders at $2M ARR Why Attend? Honest conversations with the best founders at similar stages Tactical insights on fundraising, GTM, & scaling from peers who get it What Is Included? 3-course dinner with sommelier-paired wines Live pianist The builders behind some of the fastest-growing companies in the country Important Reminders: Dress Code: Business, smart casual Stay Connected: Follow us on Instagram or LinkedIn for updates on our community, events & opportunities. Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes. About the Hosts & Sponsors: Brderless brings together the most extraordinary founders through a carefully curated community. MongoDB is a document database with the scalability & flexibility that you want with the querying & indexing that you need. Build, scale, & succeed with MongoDB for Startups. Whop is building the first end-to-end API for running a business, enabling money movement, customer acquisition, & mobilization of an on-demand workforce. Brex is the financial stack that scales with you, from incorporation to IPO. Manage all your company spending & vendor payments from a single dashboard, including credit card, bill pay, & reimbursements, all while extending your runway with a high-yield business account. Join the ranks of 1 in 3 venture-backed US startups already using Brex & start enjoying 20x higher credit limit, community events, & exclusive rewards that help your business grow."
     },
+    "gary_2026_09_09_agentic_frameworks_open_source": {
+      "title": "Agentic Frameworks & Open Source",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-09-09",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Wed, 09/09 · 7:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/o95ejmg/Agentic-Frameworks-Open-Source",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: A little over a year ago, Claude Code heralded the Agentic Age. And in January the field blew up with OpenClaw. Now, with more advanced models & new & improved Agentic Harnesses like Hermes, OpenClaw, Codex, Deepseek Harness, Grok Bot, & Claude Code/Cowork, the field is exploding. At the same time, Open Source models, primarily from China, have made tremendous progress in coding & agentic processes. So the question we will answer on Sep 9 is: Can we get at least the same level of agentic performance from cheaper Open Weight models as we had from the commercial frontier models 8 months ago, which was already pretty good? Do we need the frontier to run our agents? And we'll dive into the various Open Source models, both cloud & local. Or we might wind up talking about Grok Bot. Who knows? Hoping that everyone will share their personal & technical experience with the Agentic Age so far."
+    },
     "gary_2026_09_10_forbes_power_womens_summit": {
       "title": "Forbes Power Womens Summit",
       "type": "startup",
@@ -810,6 +878,23 @@
       "link": "https://www.garysguide.com/events/f3nmxs8/Forbes-Power-Womens-Summit",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Leena Nair (CEO, Chanel), Cindy Crawford (Supermodel & Founder, Meaningful Beauty), Jennifer Garner (Founder, Once Upon A Farm), Claire Southey (Chief AI Officer, Rokt)."
+    },
+    "gary_2026_09_10_build_raise_exit_ai_founder_investor_breakfast": {
+      "title": "Build, Raise, Exit - AI Founder & Investor Breakfast",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-09-10",
+      "time": "8:30 AM",
+      "sort": 8.5,
+      "when": "Thu, 09/10 · 8:30am",
+      "price": "Free",
+      "free": true,
+      "place": "Reitler, 885 3rd Ave, 20th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/2bnrh2b/Build-Raise-Exit-AI-Founder-Investor-Breakfast",
+      "map": "https://maps.google.com/?q=Reitler%2C%20885%203rd%20Ave%2C%2020th%20Fl",
+      "summary": "Gary's Guide: What does it take to build an AI company that someone wants to buy? And how early should founders be thinking about it? Join Raisi & Reitler for an intimate breakfast with a curated group of seed & Series A founders & investors. We'll explore M&A as an exit path for AI companies: how acquisitions happen, what buyers look for, & how decisions around building & fundraising can shape future opportunities. The breakfast will feature a live podcast interview recording, with room to ask questions, exchange perspectives, & join the conversation. We'll explore: Building with an exit in mind: Positioning your company for a potential acquisition while building a strong, independent business. Raising with alignment: How funding decisions & investor expectations influence exit opportunities. Understanding the process: How relationships with potential buyers develop & what happens as an acquisition takes shape. Expect a candid conversation in a small room, with time to connect over breakfast. Date & time: September 10, 2026, from 8:30 to 11:30 a.m. ET Location: Reitler's office, Manhattan Breakfast will be served. Attendance is limited & subject to approval. Join the waitlist to request an invitation. About Raisi Raisi is an AI-powered fundraising platform that helps founders identify relevant investors, personalize outreach, & manage investor relationships. By combining company context with live investor signals, Raisi helps founders approach their raise with greater focus & clarity. About Reitler Reitler Kailas & Rosenblatt LLP is a New York-based law firm advising startups, growth companies, & investors. Its practice spans venture capital financing, fund formation, mergers & acquisitions, & other business needs, supporting clients from early funding through growth & exit."
     },
     "gary_2026_09_10_open_house_new_york": {
       "title": "Open House New York",
@@ -964,8 +1049,8 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: A curated dinner where we discuss the future of marketing. Hi, Andrew Yeung here. I'm hosting edition #5 of our AI & marketing salon, exclusively for CMOs, VPs, Directors, & Heads of Marketing. There are twelve seats available for marketing leaders who are interested in having a conversation about about what's actually working, what's overhyped, & where the puck is heading next. Details: Date: Sep 10, 2026 Time: 6:30pm - 9:00pm Venue: Private Dining Room in NYC Who's in the room? Twelve CMOs, VPs, & Directors of Marketing from mid-market enterprise tech companies & legendary consumer brands. We keep it small on purpose, so every person at the table is someone the rest want to hear from. Past dinners have brought together marketing leaders from L'Oral, Capital One, American Express, Mastercard, Google, Meta, Match Group, Bark, Anthropic, Perplexity, Cloaked, Antimetal, Whizz, & many more. How the night runs Dinner at one of the city's best tables, in a private setting built for real conversation rather than small talk. Over the meal, we post three questions on the biggest shifts in AI & marketing. Each guest shares their perspective, so you leave with twelve points of view from people solving the same problems you are. --- Seats are limited to 12 & are confirmed by the host. Request a spot below & we'll be in touch to finalize your seat. Hosted & moderated by Andrew Yeung & friends. About our Hosts & Sponsors: Andrew Yeung is the founder of Fibe (a portfolio of events companies including Andrew's Mixers, The Junto Series, & Lumos House). He is also a Partner at Next Wave NYC, a pre-seed/seed found backed by Flybridge Capital. Andrew's hosted 200+ events for 50,000+ tech founders & professionals in 8 cities that were featured in Bloomberg, Business Insider, Fast Company, & Fortune Magazine. Business Insider dubbed him the \"Gatsby of Silicon Alley.\" Kamal Bhandal is a marketing executive with expertise at the intersection of consumer health & tech. She's scaled multiple businesses by integrating brands into culture, from major partnerships across sports & entertainment to building with creators early in the creator economy. Kamal has been recognized as a top marketing leader in the industry & has worked in various organizations including startups, Intel, Johnson & Johnson, & currently is the SVP of Marketing for the Invisalign Brand + Americas Marketing. NewForm grows category-disrupting software companies through high volumes of iterative short-form video. Thousands of ads are produced each month, agentically tested & analyzed, with insights fed back to creators. This closed loop builds a consistent & scalable creative engine for paid growth. Petra Labs turns AI Search into a leading, measurable growth channel. We manage the channel end to end & build custom attribution models, so you can see exactly what each effort returns. We currently lead AI Search for brands like Four Seasons, Zapier, Rippling, & others. Get on the list for future events: Twitter Instagram Website"
     },
-    "gary_2026_09_10_nyc_founders_operators_rooftop_social": {
-      "title": "NYC Founders & Operators - Rooftop Social",
+    "gary_2026_09_10_founders_operators_rooftop_social": {
+      "title": "Founders & Operators Rooftop Social",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Thu",
@@ -975,14 +1060,14 @@
       "when": "Thu, 09/10 · 6:30pm",
       "price": "Free",
       "free": true,
-      "place": "Rooftop, Lower E Side",
+      "place": "LES Rooftop, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/xrh2etg/NYC-Founders-Operators-Rooftop-Social",
-      "map": "https://maps.google.com/?q=Rooftop%2C%20Lower%20E%20Side",
-      "summary": "Gary's Guide: With Stephan Rihs (Founder of Founders & Operators and RegLayer)."
+      "link": "https://www.garysguide.com/events/xrh2etg/Founders-Operators-Rooftop-Social",
+      "map": "https://maps.google.com/?q=LES%20Rooftop%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Join us for a curated mixer bringing together local founders, operators & investors at one of New York's most iconic rooftops. Whether you're building your first product, scaling your team, or figuring out go-to-market, this is a room of people who get it. No panels. No pitches. Just great peer to peer conversation over drinks. With friends from: YC, ScaleAI, Stripe, Block, Meta, Whop, Normal Computing, BPIFrance, Tower Research, Snowflake, & more Location: Premium Rooftop Bar, Lower East Side Vibe: Summer Spritz & Conversation Who this is for: Early-stage founders & growth-stage operators based in NYC Impressions from last time: Subscribe to our community to follow future events Interested to partner or sponsor? Reach out at hello@foundersandoperators.nyc - Founders & Operators is NYC's curated community for founders, builders & senior operators. We convene talent across AI, fintech & emerging technology through intimate gatherings, practical programming & original content. - Stephan Rihs is the founder of Founders & Operators & RegLayer. He works with early-stage companies on strategy, go-to-market, partnerships & fundraising. His background includes Coinbase, BCG, & roles in Austria's Treasury & Chancellor's Office."
     },
     "gary_2026_09_10_an_unmuted_debate_ai_education": {
-      "title": "An UNMUTED Debate - AI & Education",
+      "title": "An Unmuted Debate - AI & Education",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Thu",
@@ -994,12 +1079,29 @@
       "free": false,
       "place": "Puttery, 446 W 14th St, Basement",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ete99bj/An-UNMUTED-Debate-AI-Education",
+      "link": "https://www.garysguide.com/events/ete99bj/An-Unmuted-Debate-AI-Education",
       "map": "https://maps.google.com/?q=Puttery%2C%20446%20W%2014th%20St%2C%20Basement",
       "summary": "Gary's Guide: DOORS OPEN AT 6:30, SHOW STARTS AT 7 Majoring in AI, Minoring in Education? For decades, higher ed has sold two things at once & dared you not to notice: an education & a credential. The lecture & the diploma. The learning & the line on your resume. You couldn't buy one without the other, so nobody made you choose. AI rips the bundle apart. For the optimists, this is the best thing to happen to learning in a century. A tireless tutor for every student, instant feedback, personalized pacing, the death of the dead-eyed lecture hall. Used well, AI could finally force institutions to deliver on the teaching mission they've spent centuries claiming as their reason to exist. For the skeptics, the machine has been let loose & it isn't coming back under control. Call it Skynet for higher ed: once a model teaches the material better than the median professor, & a student can prove mastery without four years & six figures of debt, the institution can't put the thing back in the box. The emperor has no clothes. Strip away the instruction nobody needed the building for anyway, & you're left with what the university was actually charging for: the stamp, the gate, the brand. The degree stops mattering, & everyone finally admits it never really did. Two people who built their careers inside the machine. Two very different verdicts on whether it survives the decade. John Katzman founded The Princeton Review & now runs Noodle, building the infrastructure behind online degree programs. He has spent decades on the business of how education actually gets delivered & paid for. If you want the case that AI makes institutions more effective, not less, he's your guy. Akil Bello got his start in test prep under John Katzman at The Princeton Review. He went on to found Bell Curves & has spent thirty years studying how the educational industry actually works, who it serves, & what it obscures. He agrees AI will transform higher ed. He's less convinced institutions will lead that transformation rather than be dragged through it. UNMUTED is a discussion forum for the politically curious. Engaging. Accessible. Social. Open-minded is the name of the game. Join your people."
     },
-    "gary_2026_09_11_the_ai_briefing_by_startup_grind_the_workforce_gap_i": {
-      "title": "The AI Briefing By Startup Grind - The Workforce Gap In AI Readiness",
+    "gary_2026_09_11_build_with_you_live_web_agent_hackathon": {
+      "title": "Build With You - Live Web Agent Hackathon",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-09-11",
+      "time": "9:30 AM",
+      "sort": 9.5,
+      "when": "Fri, 09/11 · 9:30am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, 124 E 14th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/1gzhet6/Build-With-You-Live-Web-Agent-Hackathon",
+      "map": "https://maps.google.com/?q=Venue%2C%20124%20E%2014th%20St",
+      "summary": "Gary's Guide: With Vedran Jukic (Founder/CTO, Daytona), Michael Munson (Founder, Clean Data Alliance), Tom Haddock (FDE Head, CrewAI), Jacob Rissman (Head of GTM, One), Brian Sparker (Product, You.com)."
+    },
+    "gary_2026_09_11_ai_briefing_by_startup_grind_workforce_gap_in_ai_rea": {
+      "title": "AI Briefing By Startup Grind - Workforce Gap In AI Readiness",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Fri",
@@ -1011,9 +1113,43 @@
       "free": true,
       "place": "Civic Hall, 124 E 14th St",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/m5g3is5/The-AI-Briefing-By-Startup-Grind-The-Workforce-Gap-In-AI-Readiness",
+      "link": "https://www.garysguide.com/events/m5g3is5/AI-Briefing-By-Startup-Grind-Workforce-Gap-In-AI-Readiness",
       "map": "https://maps.google.com/?q=Civic%20Hall%2C%20124%20E%2014th%20St",
       "summary": "Gary's Guide: The AI Briefing is a high-velocity roundtable for decision-makers brought to you by Startup Grind. We bypass the hype by dissecting one high-signal industry deck with a room of vetted founders, operators, & enterprise executives. No lectures-just a 60-minute deep-dive into the tactics & data defining your next quarter. The AI Briefing is a recurring AI deep-dive for decision-makers. Each month, we select one high-signal industry report, circulate it in advance, & meet to cut through the noise. This Month's Source: 2026 People Readiness Report (Kyndryl - Jun 2026) Kyndryl's newest survey of 1,100 business & technology leaders found something specific: workforce readiness dropped 6 points this year, to just 23%, even as broad AI deployment climbed to 57%. The gap between rollout speed & people readiness is widening. Leaders agree the technology itself isn't the constraint anymore. 79% say AI will outpace their organization's ability to adapt its workforce, governance, & operating model. And the confidence gap tracks straight down the org chart: half of executive leadership believes their teams are enthusiastic about AI, but only 3 in 10 individual contributors & entry-level employees agree. The same survey found 66% of organizations have already given AI agents unsupervised read & write access to their core systems of record. Trust & governance haven't caught up with what's already running in production. The Mission: Where adoption, the C-suite divide, & agentic governance actually meet Every AI Briefing this year has examined one piece of this from the top: how fast enterprises adopted, where leadership's confidence outran execution, & how governance is lagging behind autonomous agents. This session looks at the piece none of those touched directly: whether the workforce itself is ready, & what the data says happens to trust & outcomes when it isn't. We'll use Kyndryl's own segmentation, the small group of organizations it calls Pacesetters, to ground the conversation in what readiness actually requires versus what most organizations are doing instead. The Format: We'll open with the readiness numbers: adoption at 57%, workforce readiness at 23% & falling, & the widening distance between what executives report & what individual contributors experience. From there, the room works through Kyndryl's Pacesetter data: the 9% of organizations that redesigned roles, built change management, & got measurably better outcomes for it. What's replicable here, & what's easy to claim but hard to actually execute. We'll also spend time on the report's agentic AI numbers: two-thirds of organizations already letting agents act on core systems without a person in the loop, & what that means for a governance conversation this room started in August. Who Should Attend: Enterprise Executives: Compare your own workforce-readiness numbers against Kyndryl's benchmark, & see what actually separates the 9% of organizations getting outcomes from the 91% still catching up. Founders & Builders: See where the readiness gap (skills visibility, change management, trust-building) is becoming a real buying trigger for enterprise customers, not just a talking point in their RFPs. Product, Data, & Operations Leads: Get concrete detail on what change management & role redesign look like at organizations that have already done the work, not just the aspiration. The Prep: This is a working session, not a lecture. Read the report here. Bring a specific example from your own org, especially anywhere the gap between leadership's read & the floor's experience showed up."
+    },
+    "gary_2026_09_12_dell_x_nvidia_hackathon_local_ai_on_dell_pro_max_w_g": {
+      "title": "Dell x NVIDIA Hackathon - Local AI On Dell Pro Max w/ GB10",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sat",
+      "date": "2026-09-12",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Sat, 09/12 · 9:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Cornell Univ., Ithaca, Ithaca",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/jg8jx7x/Dell-x-NVIDIA-Hackathon-Local-AI-On-Dell-Pro-Max-w-GB10",
+      "map": "https://maps.google.com/?q=Cornell%20Univ.%2C%20Ithaca%2C%20Ithaca",
+      "summary": "Gary's Guide: Dell x NVIDIA's Local AI on Dell Pro Max with GB10 is a one-day build sprint where you ship an always-on business agent running locally on the Dell Pro Max with GB10. A one-day hackathon. Real hardware on the line. 40 teams. 40 Dell Pro Max with GB10 units. One day to build an AI agent that runs locally on the box (no cloud API) & helps businesses or corporates. You get the hardware. You get the stack. You get a day to ship something real."
+    },
+    "gary_2026_09_12_the_cookie_social_founders_investors": {
+      "title": "The Cookie Social - Founders & Investors",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Sat",
+      "date": "2026-09-12",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Sat, 09/12 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/lrnou1o/The-Cookie-Social-Founders-Investors",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: The Cookie Social - Founders & Investors Meetup Tech networking, but make it sweeter. We're bringing together founders, investors, builders, & friends from the NYC tech community for a sunset rooftop gathering in Williamsburg, with freshly baked cookies, a DJ set, & views of the Manhattan skyline. The Cookie Social is the first pop-up for our new home bakery, created by two cousins with a shared obsession for making really, really good cookies. Come meet someone new, catch the sunset over Manhattan, dance a little, & try our first cookie drop. Freshly baked cookies available for purchase DJ set Rooftop + Manhattan skyline views Founders, investors & NYC tech community Williamsburg, Brooklyn September 12 5:00 PM Come for the cookies. Stay for the sunset."
     },
     "gary_2026_09_13_founder_reset": {
       "title": "Founder Reset",
@@ -1031,23 +1167,6 @@
       "link": "https://www.garysguide.com/events/j0gjgsm/Founder-Reset",
       "map": "https://maps.google.com/?q=Othership%20Flatiron%2C%2023%20W%2020th%20St",
       "summary": "Gary's Guide: With Series A+ founders."
-    },
-    "gary_2026_09_13_founder_reset_othership_series_a_founders_only": {
-      "title": "Founder Reset @ Othership  Series A+ Founders Only",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sun",
-      "date": "2026-09-13",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Sun, 09/13 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Othership Flatiron, 23 W 20th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/zj9klhi/Founder-Reset-Othership-Series-A-Founders-Only",
-      "map": "https://maps.google.com/?q=Othership%20Flatiron%2C%2023%20W%2020th%20St",
-      "summary": "Gary's Guide: NYC Founder Reset @ Othership - Series A+ Founders Only (No VCs) Presented by NachoNacho, HubSpot for Startups & MongoDB A curated wellness experience exclusively for Series A+ Founders to connect with their peers, let their guard down, & spend time together without the pressure to perform. Sunday, September 13 | 10:30 AM Othership Flatiron | 23 W 20th St, New York About the Event Join us at Othership Flatiron for an exclusive Sunday morning designed to reset, recharge, & connect before another busy week in NYC. This invite-only experience brings together a highly curated group of Series A+ Founders for a morning of restorative wellness, meaningful conversations, & genuine connection - away from the usual conference rooms, pitch decks, & networking happy hours. We'll move through the Othership experience featuring: Guided sauna & heat therapy to relax & recharge Ice baths & cold plunges for an energizing state shift. We may ask you to do an elevator pitch for your company in the cold plunge. Guided breathwork & mindfulness to reset body & mind Social Commons for relaxed founder-to-founder conversations Time to connect, recharge, & start Sunday feeling refreshed. Food, coffee, & other refreshments will be provided. The atmosphere is intentionally curated for authentic conversations between founders who understand the challenges of building & scaling companies. No pitch decks. No panels. Just wellness, connection, & a chance to reset. Who Should Attend Series A+ Founders No VCs allowed. This is a founder-only space to connect, recharge, & have open, honest conversations with peers-without pitching, fundraising, or feeling like you need to be on.\" This is a highly curated, invite-only experience. Application & approval are required for entry. Location Othership Flatiron 23 W 20th St New York, NY 10011 Brought to you by: NachoNacho: The B2B SaaS & AI + Services Marketplace - your first stop for software savings. MongoDB: The modern, AI-ready data platform helping startups build faster, innovate, & scale from their first product to global growth. Learn more at MongoDB.com HubSpot for Startups helps venture-backed startups grow better with access to HubSpot's full suite of marketing, sales, & customer service tools at up to 90% off, startup-friendly pricing built for founders scaling fast. We partner with leading VCs, accelerators, & startup communities globally to give founders the tools they need to go from Series A to IPO. Apply here: https://app.hubspot.com/signup-hubspot/hubspot-for-startups?partner-code=pQ2OHLVuVKXI&program=startups"
     },
     "gary_2026_09_14_junto_founder_dinner": {
       "title": "Junto Founder Dinner",
@@ -1168,6 +1287,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: How enterprises balance cost, performance, & efficiency as GenAI scales. As enterprises push more GenAI into production, the pressure to control cost & improve performance is intensifying. Right-Sizing Gen AI brings together leaders focused on tuning, pruning, compression, caching, & the architectural tradeoffs that determine whether GenAI is sustainable at scale. This event tackles the hard questions: which workloads justify premium compute, where small models outperform, how to optimize context flows, & how maturity frameworks can keep AI budgets from spiraling out of control. Trying to rein in costs while boosting performance? Apply to attend & learn from the leaders optimizing GenAI for scale."
     },
+    "gary_2026_09_15_ai_founders_mixer": {
+      "title": "AI Founders Mixer",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-09-15",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Tue, 09/15 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/zyjey6s/AI-Founders-Mixer",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Join us at ERA for a happy hour bringing together AI founders in NYC. This is a great setting to meet other people working on the future of AI. Come by to meet other founders & the ERA team. Hosted by Entrepreneurs Roundtable Accelerator. ERA is NYC's leading tech accelerator. Since 2011, ERA has invested in 400+ companies; alumni companies have raised $2 billion in investor capital & collectively exceed $10 billion in market capitalization. Applications for the Winter 2027 cohort are open. Learn more & apply here."
+    },
     "gary_2026_09_15_startup_pitch_night_1k_cash_drop_ai_optional": {
       "title": "Startup Pitch Night - $1K Cash Drop (AI Optional)",
       "type": "tech",
@@ -1235,142 +1371,6 @@
       "link": "https://www.garysguide.com/events/t1d9xwh/LeadDev-NYC-Kickoff-Social-w-Rootly-AI-Docker-Twingate-Spacelift-Runpod-Endor-Labs-Logz-io",
       "map": "https://maps.google.com/?q=SPIN%20New%20York%20Flatiron%2C%2048%20E%2023rd%20St",
       "summary": "Gary's Guide: Unwind after a full day at LeadDev NYC with an evening of friendly competition, great conversation, & refreshing drinks! Join fellow engineering leaders, CTOs, & dev community peers for a relaxed happy hour packed with ping pong, tasty bites, & great company. Whether you're looking to talk shop on scaling engineering teams or just want to show off your backhand slice, this is the spot to be. What to Expect Ping Pong & Party Games: Reservation-only access to ping pong tables, equipment, & casual games. Open Bar & Bites: Enjoy craft beer, wine, & bar food. Networking: Connect with local & visiting engineering leaders in a vibrant, high-energy environment. Space is limited to ensure everyone gets playing time! Please RSVP early to reserve your spot. About Rootly AI Rootly AI is the AI-native on-call & incident response platform that provides proactive support to help Site Reliability Engineers resolve incidents faster, improve system resilience, & streamline on-call operations. It's your always-on SRE copilot that automates root cause analysis & identifies patterns that drive continuous improvement-trusted by hundreds of companies like LinkedIn, NVIDIA, Replit, Elastic, Canva, Clay, Tripadvisor, & Shell. About Endor Labs Endor Labs is the AppSec platform built for the AI era. It helps teams find, prioritize, & fix the most critical risks in code-whether written by humans or AI-faster. Endor Labs understands the entire structure of your codebase-from 40 year-old C++ to modern Bazel monorepos. Powered by AI agents & the industry's richest security dataset about open source code, Endor Labs doesn't just flag issues-it reduces noise, prioritizes what matters most, & proposes intelligent remediations based on the context of your code. Whether you're an upstart or in the Fortune 500, Endor Labs helps AppSec & development teams eliminate noisy alerts, fix code 6.2x faster, & stay compliant with standards like FedRAMP, PCI, SLSA, & NIST SSDF. About Twingate Twingate is the identity-aware access platform that helps modern engineering & infrastructure teams securely access critical systems, production environments, & internal resources without the friction of legacy VPNs & cloud-proxies. By simplifying authentication, improving visibility, & enforcing granular access controls across private & privileged resources, Twingate helps teams move faster while strengthening security-trusted by companies like Notion, Confluent, Wiz, Scopely, Red Hat, & Chargebee. About Spacelift Spacelift is the infrastructure orchestration platform built for the AI-accelerated software era. It manages the full lifecycle of both traditional IaC & AI-provisioned infrastructure, integrating with tools like Terraform, OpenTofu, CloudFormation, Pulumi, & Ansible in a single governed workflow. See how Duolingo, Figma, Moody's, Checkout.com, 1Password, Redfin, & others manage infrastructure for the AI-accelerated software era at spacelift.io/customers."
-    },
-    "gary_2026_09_16_avalanche_summit": {
-      "title": "Avalanche Summit",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "7 AM",
-      "sort": 7,
-      "when": "Wed, 09/16 · 7:00am",
-      "price": "$100",
-      "free": false,
-      "place": "Chelsea Industrial, 535-551 W 28th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/7ylmqs1/Avalanche-Summit",
-      "map": "https://maps.google.com/?q=Chelsea%20Industrial%2C%20535-551%20W%2028th%20St",
-      "summary": "Gary's Guide: With Meltem Demirors (Founder, Crucible), David Lane (CEO, Sports Illustrated), Chi Zhang (CEO, Kite), Matthew Hougan (Chief Investment Ocer, Bitwise), Sandy Kaul (Head of Innovation, Franklin Templeton), Haseeb Qureshi (Dragonfly),Michael Bucella (Neoclassic Capital)."
-    },
-    "gary_2026_09_16_table_solns_for_founders": {
-      "title": "Table - Solns For Founders",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Wed, 09/16 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Foley Hoag, 1301 6th Ave",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/l7a7yvk/Table-Solns-For-Founders",
-      "map": "https://maps.google.com/?q=Foley%20Hoag%2C%201301%206th%20Ave",
-      "summary": "Gary's Guide: Bring your toughest startup challenge, leave with next steps. Table is a community of 1,300+ founders, operators, advisors, & investors. In each session, participants surface real challenges, vote on what matters most, & engage in focused, fast-paced discussions to unlock practical solutions. In a single morning, you'll gain actionable insights, learn new perspectives, & meet peers also looking to move forward. Table is sponsored by Foley Hoag LLP. Foley Hoag helps founders navigate every stage of their startup growth. Photo by Mamadou Ciss"
-    },
-    "gary_2026_09_16_from_concept_to_conviction_ai_in_the_designer_s_tool": {
-      "title": "From Concept To Conviction - AI In The Designer's Toolkit",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 09/16 · 6:00pm",
-      "price": "$45",
-      "free": false,
-      "place": "BrainStation, 136 Crosby St, 4th Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/3xyw56i/From-Concept-To-Conviction-AI-In-The-Designer-s-Toolkit",
-      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St%2C%204th%20Fl",
-      "summary": "Gary's Guide: With Mareike Keller (Product Designer, Spotify)."
-    },
-    "gary_2026_09_16_postgres_tuning_in_age_of_ai_context_is_everything": {
-      "title": "Postgres Tuning In Age Of AI - Context Is Everything",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 09/16 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 7 W 34th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/cj9k6pj/Postgres-Tuning-In-Age-Of-AI-Context-Is-Everything",
-      "map": "https://maps.google.com/?q=Venue%2C%207%20W%2034th%20St",
-      "summary": "Gary's Guide: With Ryan Booz (Solns Enggr, Pganalyze)."
-    },
-    "gary_2026_09_16_next100": {
-      "title": "NEXT100",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 09/16 · 6:00pm",
-      "price": "$50",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/dygmetn/NEXT100",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Shilpi Nayak (Founder, House of 434), Moshe Neuman (Investor)."
-    },
-    "gary_2026_09_16_leaddev_nyc_after_hours_w_rootly_ai_runpod_endor_lab": {
-      "title": "LeadDev NYC After-Hours w/ Rootly AI, Runpod, Endor Labs, Twingate, Swarmia, & Logz.io",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 09/16 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Coexist GameHouse, 325 W 38th St Ground Floor",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/q970zo7/LeadDev-NYC-After-Hours-w-Rootly-AI-Runpod-Endor-Labs-Twingate-Swarmia-Logz-io",
-      "map": "https://maps.google.com/?q=Coexist%20GameHouse%2C%20325%20W%2038th%20St%20Ground%20Floor",
-      "summary": "Gary's Guide: Unwind after a full day at LeadDev NYC with an evening of friendly competition, great conversation, & refreshing drinks! Join fellow engineering leaders, CTOs, & dev community peers for a relaxed happy hour packed with ping pong, tasty bites, & great company. Whether you're looking to talk shop on scaling engineering teams or just want to show off your backhand slice, this is the spot to be. What to Expect Video Games: Access to arcade games, consoles, & casual board games. Open Bar & Bites: Enjoy craft beer, wine, & bar food. Networking: Connect with local & visiting engineering leaders in a vibrant, high-energy environment. Space is limited to ensure everyone gets playing time! Please RSVP early to reserve your spot. About Rootly AI Rootly AI is the AI-native on-call & incident response platform that provides proactive support to help Site Reliability Engineers resolve incidents faster, improve system resilience, & streamline on-call operations. It's your always-on SRE copilot that automates root cause analysis & identifies patterns that drive continuous improvement-trusted by hundreds of companies like LinkedIn, NVIDIA, Replit, Elastic, Canva, Clay, Tripadvisor, & Shell. About Twingate Twingate is the identity-aware access platform that helps modern engineering & infrastructure teams securely access critical systems, production environments, & internal resources without the friction of legacy VPNs & cloud-proxies. By simplifying authentication, improving visibility, & enforcing granular access controls across private & privileged resources, Twingate helps teams move faster while strengthening security-trusted by companies like Notion, Confluent, Wiz, Scopely, Red Hat, & Chargebee. About Endor Labs Endor Labs is the AppSec platform built for the AI era. It helps teams find, prioritize, & fix the most critical risks in code-whether written by humans or AI-faster. Endor Labs understands the entire structure of your codebase-from 40 year-old C++ to modern Bazel monorepos. Powered by AI agents & the industry's richest security dataset about open source code, Endor Labs doesn't just flag issues-it reduces noise, prioritizes what matters most, & proposes intelligent remediations based on the context of your code. Whether you're an upstart or in the Fortune 500, Endor Labs helps AppSec & development teams eliminate noisy alerts, fix code 6.2x faster, & stay compliant with standards like FedRAMP, PCI, SLSA, & NIST SSDF."
-    },
-    "gary_2026_09_16_venture_university_event": {
-      "title": "Venture University Event",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 09/16 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 66 E 55th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/d5zky5q/Venture-University-Event",
-      "map": "https://maps.google.com/?q=Venue%2C%2066%20E%2055th%20St",
-      "summary": "Gary's Guide: The Next 250 Wednesday, September 16, 2026 6:00-9:00 PM Classic Car Club Manhattan Building Ventures for the Age of AI This fall, Base44, Boardy, & Venture University NYC are bringing together a curated group of founders, investors, accelerators, & ecosystem leaders for an evening focused on what comes next. As America marks 250 years, we'll look forwardat the people, technologies, & collaborations that can shape the next 250. Expect bold ideas, sharp conversations, & a room full of people building the future. Invitation & details coming soon. Presented by Base44 In collaboration with Boardy & Venture University NYC"
-    },
-    "gary_2026_09_16_seed_series_a_founder_roundtable_building_teams_that": {
-      "title": "Seed-Series A Founder Roundtable - Building Teams That Scale",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Wed, 09/16 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/8p1gfrw/Seed-Series-A-Founder-Roundtable-Building-Teams-That-Scale",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Genevieve Herron (Founder, Pinnacle Path)."
     },
     "luma_2026_09_08_from_bench_to_boardroom_nobel_laureate_james_rothman": {
       "title": "From Bench to Boardroom: Nobel Laureate James Rothman on Cellular Logistics, Nanobiology, & VC Biotech (In-Person)",
@@ -2360,6 +2360,14 @@
       "skint_90704_3_free_olive_oil_y_ice_cream",
       "skint_90704_4_west_side_county_fair"
     ],
+    "cluster_2026_09_06_3_pm": [
+      "skint_90704_5_our_little_bake_sale_fundraiser_for_make_the_road_ne",
+      "gary_2026_09_06_code_in_white_labor_day_weekend_pre_nyfw_rooftop_poo"
+    ],
+    "cluster_2026_09_08_5_30_pm": [
+      "gary_2026_09_08_beyond_vibe_coding_let_s_build_a_native_mobile_app",
+      "gary_2026_09_08_build_ai_agents_that_qualify_leads_book_meetings_res"
+    ],
     "cluster_2026_09_08_6_pm": [
       "gary_2026_09_08_from_bench_to_boardroom_cellular_logistics_nanobiolo",
       "gary_2026_09_08_entrepreneurs_roundtable_w_lakehouse_ventures",
@@ -2385,28 +2393,29 @@
     ],
     "cluster_2026_09_10_6_30_pm": [
       "gary_2026_09_10_ai_marketing_salon",
-      "gary_2026_09_10_nyc_founders_operators_rooftop_social",
+      "gary_2026_09_10_founders_operators_rooftop_social",
       "gary_2026_09_10_an_unmuted_debate_ai_education"
     ],
     "cluster_2026_09_11_10_am": [
-      "gary_2026_09_11_the_ai_briefing_by_startup_grind_the_workforce_gap_i",
+      "gary_2026_09_11_ai_briefing_by_startup_grind_workforce_gap_in_ai_rea",
       "jc_culture_43661_2026_09_11_hudson_county_community_college_film_club_presents_9"
+    ],
+    "cluster_2026_09_12_9_am": [
+      "gary_2026_09_12_dell_x_nvidia_hackathon_local_ai_on_dell_pro_max_w_g",
+      "jc_culture_43744_2026_09_12_city_challenge_obstacle_race_2026"
     ],
     "cluster_2026_09_15_8_am": [
       "gary_2026_09_15_ldx3_2026",
       "gary_2026_09_15_mma_cmo_ai_transformation_summit"
     ],
+    "cluster_2026_09_15_5_30_pm": [
+      "gary_2026_09_15_ai_founders_mixer",
+      "gary_2026_09_15_startup_pitch_night_1k_cash_drop_ai_optional"
+    ],
     "cluster_2026_09_15_6_pm": [
       "gary_2026_09_15_dinner_navigating_international_business",
       "gary_2026_09_15_tech_x_market_decoders",
       "gary_2026_09_15_leaddev_nyc_kickoff_social_w_rootly_ai_docker_twinga"
-    ],
-    "cluster_2026_09_16_6_pm": [
-      "gary_2026_09_16_from_concept_to_conviction_ai_in_the_designer_s_tool",
-      "gary_2026_09_16_postgres_tuning_in_age_of_ai_context_is_everything",
-      "gary_2026_09_16_next100",
-      "gary_2026_09_16_leaddev_nyc_after_hours_w_rootly_ai_runpod_endor_lab",
-      "gary_2026_09_16_venture_university_event"
     ],
     "cluster_2026_09_08_10_30_pm": [
       "luma_2026_09_08_gtm_cocktail_hour_hosted_by_viktor_com_the_shortlist",
