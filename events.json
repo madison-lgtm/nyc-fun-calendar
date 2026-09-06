@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Sep 5, 2026, 5:35 PM EDT",
+    "checked": "Sep 6, 2026, 9:51 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-09-05",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Sep 5"
-      },
       {
         "iso": "2026-09-06",
         "key": "Sun",
@@ -45,15 +39,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Sep 11"
+      },
+      {
+        "iso": "2026-09-12",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Sep 12"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-09-05",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Sep 5"
-      },
       {
         "iso": "2026-09-06",
         "key": "Sun",
@@ -233,9 +227,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Oct 5"
+      },
+      {
+        "iso": "2026-10-06",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Oct 6"
       }
     ],
-    "todayKey": "Sat",
+    "todayKey": "Sun",
     "times": [
       "12 AM",
       "7 AM",
@@ -606,23 +606,6 @@
       "link": "https://dice.fm/event/q2d5dx-dolly-a-live-musical-tribute-8th-sep-cmon-everybody-new-york-tickets",
       "map": "https://maps.google.com/?q=c%E2%80%99mon%20everybody%20(bed-stuy)%2C%20%2413%20NYC",
       "summary": "dolly parton tribute events. Pulled from The Skint's public article feed: tues 8pm: dolly: a live musical tribute: c’mon everybody (bed-stuy), $13.39."
-    },
-    "gary_2026_09_05_ai_x_finance_hackathon_money_talks": {
-      "title": "AI x Finance Hackathon -  Money Talks",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-09-05",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 09/05 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/eno0ufy/AI-x-Finance-Hackathon-Money-Talks",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: New York is where finance gets built. Now it's time to show Wall Street what AI can do. Build a real AI product for finance in one day, solve problems coming from companies working in the space, & put what you build in front of founders, operators, hiring teams & technology companies. Build with PRISM by Block Convey: Build Observe Improve Prove Demo. What You Leave With Up to $5,000 in cash prizes + partner credits, made possible by our sponsors. 1st Place: $1,000 cash + $1,000+ worth of sponsor credits & technology access. Walk away with cash, tools to keep building after the hackathon, & direct visibility with our partner companies. Two Runner-Up Awards: $500 cash + $500+ in sponsor credits each. Top-performing builders will also have the opportunity to speak directly with the recruiting teams at Maximor & TechNovaTime, turning a one-day project into a potential interview conversation. Live Interview This is not just about winning a hackathon. Build something useful. Prove it works. Get it in front of people who can open the next door. Track Sponsors Maximor | Official Money Operations Track Sponsor What should the AI-native finance team look like? Maximor is building AI-powered finance operations for the modern CFO organization, making them a natural partner to shape the Money Operations challenge. What happens when an AI agent can actually do it? Maximor will help shape the challenge around problems finance teams are dealing with today. maximor.ai Regodit | Official Trust & Risk Track Sponsor Financial AI does not become enterprise-ready just because the model works. Regodit builds AI-powered compliance & risk automation around evidence collection, control readiness, monitoring & audit preparation. The challenge is to build AI that companies can not only use, but trust, monitor & defend in a real enterprise environment. regodit.com Money Intelligence Build AI that helps people & businesses make better decisions around: Investing Market Research Financial Analysis Portfolio Intelligence Personal Finance Use agents, real-time information & financial data to turn information into something people can actually act on. Your Hackathon Project Could Become Your Interview TechNovaTime | Official Hiring Partner TechNovaTime builds digital employees & AI agents that operate across complex real-world interfaces & workflows. They are joining MONEY TALKS specifically to meet engineers who can build: UI Agents Workflow Automation Autonomous Digital Workers AI-Powered Product Experiences Their team will be watching what participants actually ship. Your Hackathon demo shows them what you can do. technovatime.com Technology Partners Our technology partners are giving teams tools & credits that can help them move faster during the hackathon. GIDE A local-first AI coding environment where builders can run models locally, work offline, bring their own cloud models & keep control over what an AI coding agent changes. generativeide.com Prelint AI can generate code quickly. Prelint helps answer the next question: did the AI actually build what the product was supposed to do? It reviews AI-written changes against product requirements, rules & decisions. prelint.com Tavily Give your agents access to the live web. Tavily is providing builders with web search, extraction & crawling credits, making it easier to build agents that research, gather fresh information & act on real-world web data. tavily.com One Day. New York City. Show Wall Street What You Can Build. Come with a team or apply solo. Bring an idea, choose a track, use the partner technologies that help you build faster, connect your project with PRISM, test it, improve it & put the final result in front of the room. September 5, 2026 10:00 AM - 6:00 PM New York City Registration is free & subject to approval Your agent. Your idea. One day to prove what you can build. Build with PRISM. Build for finance. Show Wall Street what AI can do."
     },
     "gary_2026_09_06_code_in_white_labor_day_weekend_pre_nyfw_rooftop_poo": {
       "title": "Code In White - Labor Day Weekend Pre-NYFW Rooftop Pool Experience",
@@ -1372,6 +1355,23 @@
       "map": "https://maps.google.com/?q=SPIN%20New%20York%20Flatiron%2C%2048%20E%2023rd%20St",
       "summary": "Gary's Guide: Unwind after a full day at LeadDev NYC with an evening of friendly competition, great conversation, & refreshing drinks! Join fellow engineering leaders, CTOs, & dev community peers for a relaxed happy hour packed with ping pong, tasty bites, & great company. Whether you're looking to talk shop on scaling engineering teams or just want to show off your backhand slice, this is the spot to be. What to Expect Ping Pong & Party Games: Reservation-only access to ping pong tables, equipment, & casual games. Open Bar & Bites: Enjoy craft beer, wine, & bar food. Networking: Connect with local & visiting engineering leaders in a vibrant, high-energy environment. Space is limited to ensure everyone gets playing time! Please RSVP early to reserve your spot. About Rootly AI Rootly AI is the AI-native on-call & incident response platform that provides proactive support to help Site Reliability Engineers resolve incidents faster, improve system resilience, & streamline on-call operations. It's your always-on SRE copilot that automates root cause analysis & identifies patterns that drive continuous improvement-trusted by hundreds of companies like LinkedIn, NVIDIA, Replit, Elastic, Canva, Clay, Tripadvisor, & Shell. About Endor Labs Endor Labs is the AppSec platform built for the AI era. It helps teams find, prioritize, & fix the most critical risks in code-whether written by humans or AI-faster. Endor Labs understands the entire structure of your codebase-from 40 year-old C++ to modern Bazel monorepos. Powered by AI agents & the industry's richest security dataset about open source code, Endor Labs doesn't just flag issues-it reduces noise, prioritizes what matters most, & proposes intelligent remediations based on the context of your code. Whether you're an upstart or in the Fortune 500, Endor Labs helps AppSec & development teams eliminate noisy alerts, fix code 6.2x faster, & stay compliant with standards like FedRAMP, PCI, SLSA, & NIST SSDF. About Twingate Twingate is the identity-aware access platform that helps modern engineering & infrastructure teams securely access critical systems, production environments, & internal resources without the friction of legacy VPNs & cloud-proxies. By simplifying authentication, improving visibility, & enforcing granular access controls across private & privileged resources, Twingate helps teams move faster while strengthening security-trusted by companies like Notion, Confluent, Wiz, Scopely, Red Hat, & Chargebee. About Spacelift Spacelift is the infrastructure orchestration platform built for the AI-accelerated software era. It manages the full lifecycle of both traditional IaC & AI-provisioned infrastructure, integrating with tools like Terraform, OpenTofu, CloudFormation, Pulumi, & Ansible in a single governed workflow. See how Duolingo, Figma, Moody's, Checkout.com, 1Password, Redfin, & others manage infrastructure for the AI-accelerated software era at spacelift.io/customers."
     },
+    "gary_2026_09_16_avalanche_summit": {
+      "title": "Avalanche Summit",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-09-16",
+      "time": "7 AM",
+      "sort": 7,
+      "when": "Wed, 09/16 · 7:00am",
+      "price": "$100",
+      "free": false,
+      "place": "Chelsea Industrial, 535-551 W 28th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/7ylmqs1/Avalanche-Summit",
+      "map": "https://maps.google.com/?q=Chelsea%20Industrial%2C%20535-551%20W%2028th%20St",
+      "summary": "Gary's Guide: With Meltem Demirors (Founder, Crucible), David Lane (CEO, Sports Illustrated), Chi Zhang (CEO, Kite), Matthew Hougan (Chief Investment Ocer, Bitwise), Sandy Kaul (Head of Innovation, Franklin Templeton), Haseeb Qureshi (Dragonfly),Michael Bucella (Neoclassic Capital)."
+    },
     "luma_2026_09_08_from_bench_to_boardroom_nobel_laureate_james_rothman": {
       "title": "From Bench to Boardroom: Nobel Laureate James Rothman on Cellular Logistics, Nanobiology, & VC Biotech (In-Person)",
       "type": "startup",
@@ -1576,22 +1576,22 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
-    "jc_culture_43029_2026_09_05_labor_day_weekend_salsa_at_grundy_park": {
-      "title": "Labor Day Weekend: Salsa at Grundy Park",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-09-05",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 09/05 · 1pm",
+    "nyu_tandon_2026_09_17_extreme_codesign_for_efficient_ai_algorithms_softwar": {
+      "title": "Extreme Codesign for Efficient AI: Algorithms, Software, and Hardware",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Thu",
+      "date": "2026-09-17",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Thu, 09/17 · 11:00 AM",
       "price": "Free / varies",
       "free": true,
-      "place": "J OWEN GRUNDY PIER, HUDSON ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/labor-day-weekend-salsa-at-grundy-park/",
-      "map": "https://maps.google.com/?q=J%20OWEN%20GRUNDY%20PIER%2C%20HUDSON%20ST%2C%20JERSEY%20CITY",
-      "summary": "Labor Day Weekend (Saturday, September 5) 5th Annual Salsa at Grundy Park Pier (Exchange Place-Jersey City) Free Community Event: Brought to you by U-neekSounds Entertainment in Partnership with RWJ Barnabas Health / Jersey City Medical Center Zumba Class @ 2PM by Wilson “El Bailarin” Gutierrez Followed By Live Music with Richie Gonzalez & The Copacabana All-Stars @3PM Follow on Instagram @salsaatgrundypark"
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/17/extreme-codesign-efficient-ai-algorithms-software-and-hardware",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
     },
     "jc_culture_43472_2026_09_08_children_of_faith_flag_raising_ceremony_2026": {
       "title": "Children of Faith Flag Raising Ceremony 2026",
@@ -2340,6 +2340,23 @@
       "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-02/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_43716_2026_10_03_cat_stick_easel_moon_exhibit_2026_jcast_weekend": {
+      "title": "Cat, Stick, Easel, Moon Exhibit 2026 JCAST WEEKEND",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-10-03",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 10/03 · 12pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-2026-jcast-weekend/",
+      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
     }
   },
   "clusters": {
