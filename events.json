@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 6, 2026, 9:51 AM EDT",
+    "checked": "Sep 6, 2026, 5:36 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1355,22 +1355,22 @@
       "map": "https://maps.google.com/?q=SPIN%20New%20York%20Flatiron%2C%2048%20E%2023rd%20St",
       "summary": "Gary's Guide: Unwind after a full day at LeadDev NYC with an evening of friendly competition, great conversation, & refreshing drinks! Join fellow engineering leaders, CTOs, & dev community peers for a relaxed happy hour packed with ping pong, tasty bites, & great company. Whether you're looking to talk shop on scaling engineering teams or just want to show off your backhand slice, this is the spot to be. What to Expect Ping Pong & Party Games: Reservation-only access to ping pong tables, equipment, & casual games. Open Bar & Bites: Enjoy craft beer, wine, & bar food. Networking: Connect with local & visiting engineering leaders in a vibrant, high-energy environment. Space is limited to ensure everyone gets playing time! Please RSVP early to reserve your spot. About Rootly AI Rootly AI is the AI-native on-call & incident response platform that provides proactive support to help Site Reliability Engineers resolve incidents faster, improve system resilience, & streamline on-call operations. It's your always-on SRE copilot that automates root cause analysis & identifies patterns that drive continuous improvement-trusted by hundreds of companies like LinkedIn, NVIDIA, Replit, Elastic, Canva, Clay, Tripadvisor, & Shell. About Endor Labs Endor Labs is the AppSec platform built for the AI era. It helps teams find, prioritize, & fix the most critical risks in code-whether written by humans or AI-faster. Endor Labs understands the entire structure of your codebase-from 40 year-old C++ to modern Bazel monorepos. Powered by AI agents & the industry's richest security dataset about open source code, Endor Labs doesn't just flag issues-it reduces noise, prioritizes what matters most, & proposes intelligent remediations based on the context of your code. Whether you're an upstart or in the Fortune 500, Endor Labs helps AppSec & development teams eliminate noisy alerts, fix code 6.2x faster, & stay compliant with standards like FedRAMP, PCI, SLSA, & NIST SSDF. About Twingate Twingate is the identity-aware access platform that helps modern engineering & infrastructure teams securely access critical systems, production environments, & internal resources without the friction of legacy VPNs & cloud-proxies. By simplifying authentication, improving visibility, & enforcing granular access controls across private & privileged resources, Twingate helps teams move faster while strengthening security-trusted by companies like Notion, Confluent, Wiz, Scopely, Red Hat, & Chargebee. About Spacelift Spacelift is the infrastructure orchestration platform built for the AI-accelerated software era. It manages the full lifecycle of both traditional IaC & AI-provisioned infrastructure, integrating with tools like Terraform, OpenTofu, CloudFormation, Pulumi, & Ansible in a single governed workflow. See how Duolingo, Figma, Moody's, Checkout.com, 1Password, Redfin, & others manage infrastructure for the AI-accelerated software era at spacelift.io/customers."
     },
-    "gary_2026_09_16_avalanche_summit": {
-      "title": "Avalanche Summit",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "7 AM",
-      "sort": 7,
-      "when": "Wed, 09/16 · 7:00am",
-      "price": "$100",
-      "free": false,
-      "place": "Chelsea Industrial, 535-551 W 28th St",
+    "gary_2026_09_15_build_w_ai_meetup": {
+      "title": "Build w/ AI Meetup",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-09-15",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Tue, 09/15 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Bar Veloce, 176 7th Ave",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/7ylmqs1/Avalanche-Summit",
-      "map": "https://maps.google.com/?q=Chelsea%20Industrial%2C%20535-551%20W%2028th%20St",
-      "summary": "Gary's Guide: With Meltem Demirors (Founder, Crucible), David Lane (CEO, Sports Illustrated), Chi Zhang (CEO, Kite), Matthew Hougan (Chief Investment Ocer, Bitwise), Sandy Kaul (Head of Innovation, Franklin Templeton), Haseeb Qureshi (Dragonfly),Michael Bucella (Neoclassic Capital)."
+      "link": "https://www.garysguide.com/events/jfryg4c/Build-w-AI-Meetup",
+      "map": "https://maps.google.com/?q=Bar%20Veloce%2C%20176%207th%20Ave",
+      "summary": "Gary's Guide: With AudaciousAF women's community for AI founders, solo entrepreneurs, leaders, hustlers."
     },
     "luma_2026_09_08_from_bench_to_boardroom_nobel_laureate_james_rothman": {
       "title": "From Bench to Boardroom: Nobel Laureate James Rothman on Cellular Logistics, Nanobiology, & VC Biotech (In-Person)",
