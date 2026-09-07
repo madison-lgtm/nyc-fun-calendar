@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Sep 6, 2026, 5:36 PM EDT",
+    "checked": "Sep 7, 2026, 12:13 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-09-06",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Sep 6"
-      },
       {
         "iso": "2026-09-07",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Sep 12"
+      },
+      {
+        "iso": "2026-09-13",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Sep 13"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-09-06",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Sep 6"
-      },
       {
         "iso": "2026-09-07",
         "key": "Mon",
@@ -233,12 +227,17 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 6"
+      },
+      {
+        "iso": "2026-10-07",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Oct 7"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
       "12 AM",
-      "7 AM",
       "8 AM",
       "8:30 AM",
       "9 AM",
@@ -454,58 +453,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_90704_0_lesbian_renaissance_a_medieval_themed_lavender_marke": {
-      "title": "lesbian renaissance: a medieval themed lavender market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-09-05",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 09/05 · 12-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "boyfriend co-op café + bar (bed-stuy / bushwick)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/lavendermarketnyc/",
-      "map": "https://maps.google.com/?q=boyfriend%20co-op%20caf%C3%A9%20%2B%20bar%20(bed-stuy%20%2F%20bushwick)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-6pm: lesbian renaissance: a medieval themed lavender market: boyfriend co-op café + bar (bed-stuy / bushwick)."
-    },
-    "skint_90704_1_brasilian_independence_day_fest": {
-      "title": "brasilian independence day fest",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-09-05",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sat, 09/05 · 2-7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "31st avenue between 33rd + 35th streets (astoria’s open street)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/brasilfestnyc/",
-      "map": "https://maps.google.com/?q=31st%20avenue%20between%2033rd%20%2B%2035th%20streets%20(astoria%E2%80%99s%20open%20street)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 2-7pm: brasilian independence day fest: 31st avenue between 33rd + 35th streets (astoria’s open street)."
-    },
-    "skint_90704_2_46th_annual_richmond_county_fair": {
-      "title": "46th annual richmond county fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-09-05",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 09/05 · thru mon (12-8pm)",
-      "price": "$15",
-      "free": false,
-      "place": "historic richmond town, staten island",
-      "source": "The Skint",
-      "link": "https://www.historicrichmondtown.org/rcf",
-      "map": "https://maps.google.com/?q=historic%20richmond%20town%2C%20staten%20island%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat thru mon (12-8pm): 46th annual richmond county fair: historic richmond town, staten island. $15 general, $12 seniors, $7 youths."
-    },
-    "skint_90704_3_free_olive_oil_y_ice_cream": {
+    "skint_90704_0_free_olive_oil_y_ice_cream": {
       "title": "free olive oil-y ice cream",
       "type": "market",
       "label": "Festival / Market",
@@ -522,7 +470,7 @@
       "map": "https://maps.google.com/?q=mccarren%20parkhouse%20(williamsburg)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-3pm (+ 9/13): free olive oil-y ice cream: mccarren parkhouse (williamsburg)."
     },
-    "skint_90704_4_west_side_county_fair": {
+    "skint_90704_1_west_side_county_fair": {
       "title": "west side county fair",
       "type": "market",
       "label": "Festival / Market",
@@ -539,7 +487,7 @@
       "map": "https://maps.google.com/?q=pier%20i%20in%20riverside%20park%20south%20(uws)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-6pm (rain date 9/13): west side county fair: pier i in riverside park south (uws)."
     },
-    "skint_90704_5_our_little_bake_sale_fundraiser_for_make_the_road_ne": {
+    "skint_90704_2_our_little_bake_sale_fundraiser_for_make_the_road_ne": {
       "title": "our little bake sale fundraiser for make the road new york",
       "type": "market",
       "label": "Festival / Market",
@@ -556,7 +504,7 @@
       "map": "https://maps.google.com/?q=the%20play%20ground%20at%20little%20island%2C%20free%20admission%2C%20%2410%20per%20pastry%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 3-5pm: our little bake sale fundraiser for make the road new york: the play ground at little island, free admission, $10 per pastry."
     },
-    "skint_90704_6_59th_annual_west_indian_day_parade": {
+    "skint_90704_3_59th_annual_west_indian_day_parade": {
       "title": "59th annual west indian day parade",
       "type": "market",
       "label": "Festival / Market",
@@ -573,7 +521,7 @@
       "map": "https://maps.google.com/?q=eastern%20parkway%20from%20utica%20avenue%20to%20grand%20army%20plaza%20(brooklyn)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon 11am-6pm: 59th annual west indian day parade: eastern parkway from utica avenue to grand army plaza (brooklyn)."
     },
-    "skint_90704_7_we_will_always_love_you_a_dolly_parton_celebration_w": {
+    "skint_90704_4_we_will_always_love_you_a_dolly_parton_celebration_w": {
       "title": "we will always love you: a dolly parton celebration with cover band doll parts",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -590,7 +538,7 @@
       "map": "https://maps.google.com/?q=littlefield%20(gowanus)%2C%20%2420%20NYC",
       "summary": "dolly parton tribute events. Pulled from The Skint's public article feed: sun 8pm: we will always love you: a dolly parton celebration with cover band doll parts: littlefield (gowanus), $20."
     },
-    "skint_90704_8_dolly_a_live_musical_tribute": {
+    "skint_90704_5_dolly_a_live_musical_tribute": {
       "title": "dolly: a live musical tribute",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -607,22 +555,22 @@
       "map": "https://maps.google.com/?q=c%E2%80%99mon%20everybody%20(bed-stuy)%2C%20%2413%20NYC",
       "summary": "dolly parton tribute events. Pulled from The Skint's public article feed: tues 8pm: dolly: a live musical tribute: c’mon everybody (bed-stuy), $13.39."
     },
-    "gary_2026_09_06_code_in_white_labor_day_weekend_pre_nyfw_rooftop_poo": {
-      "title": "Code In White - Labor Day Weekend Pre-NYFW Rooftop Pool Experience",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-09-06",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Sun, 09/06 · 3:00pm",
-      "price": "$35",
-      "free": false,
-      "place": "Venue, To Be Announced",
+    "gary_2026_09_08_svb_industrial_tech_breakfast": {
+      "title": "SVB Industrial Tech Breakfast",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-09-08",
+      "time": "8:30 AM",
+      "sort": 8.5,
+      "when": "Tue, 09/08 · 8:30am",
+      "price": "Free",
+      "free": true,
+      "place": "SVB, 11 W 42nd St",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/di2pfus/Code-In-White-Labor-Day-Weekend-Pre-NYFW-Rooftop-Pool-Experience",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Rah RiptheRunway (Founder, CCP & ViralVibez), Tony Henry (Fashion Producer), Ashlee Stephenson (Model) + music by DJ Pelau."
+      "link": "https://www.garysguide.com/events/wpj7bd9/SVB-Industrial-Tech-Breakfast",
+      "map": "https://maps.google.com/?q=SVB%2C%2011%20W%2042nd%20St",
+      "summary": "Gary's Guide: With founder/CEOs Chris Price (Atomscale), Matt Emerzian (Indigo MFG), Shawn Fitzgerald (CRO, Formic), Ironspring Ventures, Blackhorn Ventures."
     },
     "gary_2026_09_08_beyond_vibe_coding_let_s_build_a_native_mobile_app": {
       "title": "Beyond Vibe Coding - Let's Build A Native Mobile App",
@@ -913,6 +861,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%2057%20W%2057th%20St",
       "summary": "Gary's Guide: A working session for eCommerce operators. Get your holiday AI stack sorted before Q4. Hosted by Streamline Agency with Gorgias, Retell AI, & Backstroke. Get a clear, practical read on where AI belongs in their BFCM stack, from creative production through operations & support, before Q4 locks & there is no time left to change anything. Sit with brands using AI to scale revenue & team capacity through peak season, & with the platform teams behind those tools. Creative production, operations, retention, & support, all in one morning. No decks. No 40 minute conference talks. Come with questions & your actual stack in mind. What you leave with Real AI use cases running inside real brands, not roadmap slides Direct conversation with the platform teams & with peers already running the setup A read on the specific gap in your stack while there is still time to close it A short list of what to test in September, & what to leave alone until January Masterclass Sessions: CX & Support. Gorgias, with a brand walking through the workflow they will actually run on Black Friday. Where AI resolution ends & a human has to take over. Voice & Intake. Retell AI on capturing after hours & overflow calls & turning them into structured records something downstream can act on. Retention & Lifecycle. Backstroke on AI generated campaigns & segmentation that stay on brand when send volume spikes. Integration & Automation. n8n on the plumbing between all of it, & what happens when a step fails at 2am on Cyber Monday. Who this is for Built for eCommerce & D2C brands doing roughly $20M to $200M, & specifically for the people who feel peak season in their day: COO & VP Operations VP & Director of eCommerce or Digital Head or Director of Customer Experience & Support Director of Retention, Lifecycle, or CRM Business Operations & Ops Tech leads Founders at the earlier end of that range If you are the person currently holding your stack together with manual exports & good intentions, this room is for you. Who we are Streamline Agency builds the integration layer between the tools eCommerce brands already own. Certified n8n & Anthropic Claude partner."
     },
+    "gary_2026_09_10_female_founder_collective_member_mingle": {
+      "title": "Female Founder Collective Member Mingle",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-09-10",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Thu, 09/10 · 4:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Hungry Llama, 679 Washington St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/zdywc7j/Female-Founder-Collective-Member-Mingle",
+      "map": "https://maps.google.com/?q=Hungry%20Llama%2C%20679%20Washington%20St",
+      "summary": "Gary's Guide: Join us for a day of connection, collaboration, & community with fellow female founders in the NYC area! Gather in a spacious, welcoming caf for meaningful conversations, new connections, & the opportunity to exchange ideas with women building businesses across industries. This meetup is especially suited for beauty founders working in the clean space, while welcoming founders from across all industries. This event will follow a pay as you buy format, meaning attendees will be responsible for purchasing their own food & beverages at the venue."
+    },
     "gary_2026_09_10_ai_search_meetup": {
       "title": "AI Search Meetup",
       "type": "tech",
@@ -1100,6 +1065,23 @@
       "map": "https://maps.google.com/?q=Civic%20Hall%2C%20124%20E%2014th%20St",
       "summary": "Gary's Guide: The AI Briefing is a high-velocity roundtable for decision-makers brought to you by Startup Grind. We bypass the hype by dissecting one high-signal industry deck with a room of vetted founders, operators, & enterprise executives. No lectures-just a 60-minute deep-dive into the tactics & data defining your next quarter. The AI Briefing is a recurring AI deep-dive for decision-makers. Each month, we select one high-signal industry report, circulate it in advance, & meet to cut through the noise. This Month's Source: 2026 People Readiness Report (Kyndryl - Jun 2026) Kyndryl's newest survey of 1,100 business & technology leaders found something specific: workforce readiness dropped 6 points this year, to just 23%, even as broad AI deployment climbed to 57%. The gap between rollout speed & people readiness is widening. Leaders agree the technology itself isn't the constraint anymore. 79% say AI will outpace their organization's ability to adapt its workforce, governance, & operating model. And the confidence gap tracks straight down the org chart: half of executive leadership believes their teams are enthusiastic about AI, but only 3 in 10 individual contributors & entry-level employees agree. The same survey found 66% of organizations have already given AI agents unsupervised read & write access to their core systems of record. Trust & governance haven't caught up with what's already running in production. The Mission: Where adoption, the C-suite divide, & agentic governance actually meet Every AI Briefing this year has examined one piece of this from the top: how fast enterprises adopted, where leadership's confidence outran execution, & how governance is lagging behind autonomous agents. This session looks at the piece none of those touched directly: whether the workforce itself is ready, & what the data says happens to trust & outcomes when it isn't. We'll use Kyndryl's own segmentation, the small group of organizations it calls Pacesetters, to ground the conversation in what readiness actually requires versus what most organizations are doing instead. The Format: We'll open with the readiness numbers: adoption at 57%, workforce readiness at 23% & falling, & the widening distance between what executives report & what individual contributors experience. From there, the room works through Kyndryl's Pacesetter data: the 9% of organizations that redesigned roles, built change management, & got measurably better outcomes for it. What's replicable here, & what's easy to claim but hard to actually execute. We'll also spend time on the report's agentic AI numbers: two-thirds of organizations already letting agents act on core systems without a person in the loop, & what that means for a governance conversation this room started in August. Who Should Attend: Enterprise Executives: Compare your own workforce-readiness numbers against Kyndryl's benchmark, & see what actually separates the 9% of organizations getting outcomes from the 91% still catching up. Founders & Builders: See where the readiness gap (skills visibility, change management, trust-building) is becoming a real buying trigger for enterprise customers, not just a talking point in their RFPs. Product, Data, & Operations Leads: Get concrete detail on what change management & role redesign look like at organizations that have already done the work, not just the aspiration. The Prep: This is a working session, not a lecture. Read the report here. Bring a specific example from your own org, especially anywhere the gap between leadership's read & the floor's experience showed up."
     },
+    "gary_2026_09_11_founders_friday_w_youcanfreeus_neo_club": {
+      "title": "Founders Friday w/ YouCanFreeUs & Neo Club",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-09-11",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Fri, 09/11 · 4:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/jufvyo2/Founders-Friday-w-YouCanFreeUs-Neo-Club",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Sujo John (Founder, YouCanFreeUs)."
+    },
     "gary_2026_09_12_dell_x_nvidia_hackathon_local_ai_on_dell_pro_max_w_g": {
       "title": "Dell x NVIDIA Hackathon - Local AI On Dell Pro Max w/ GB10",
       "type": "tech",
@@ -1151,23 +1133,6 @@
       "map": "https://maps.google.com/?q=Othership%20Flatiron%2C%2023%20W%2020th%20St",
       "summary": "Gary's Guide: With Series A+ founders."
     },
-    "gary_2026_09_14_junto_founder_dinner": {
-      "title": "Junto Founder Dinner",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-14",
-      "time": "7 AM",
-      "sort": 7,
-      "when": "Mon, 09/14 · 7:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Private Dinner Club, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/62qpz8g/Junto-Founder-Dinner",
-      "map": "https://maps.google.com/?q=Private%20Dinner%20Club%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Hi, Andrew Yeung here. We started the Junto Founder Dinner series two years ago to bring together the top founders + builders. Each month, we invite 24 vetted early-stage founders & CEOs for a 3-hour, multiple-course dinner experience. What to expect: A 3-course meal, courtesy of our partners Conversations with fellow high-performing startup leaders A dinner experience designed to facilitate new connections & conversations, with rotating 6-person table formats Meaningful connections with ambitious peers solving similar problems If you're wondering how our dinners usually go... read this Our only intent is to bring good, smart humans together. Details: Date: Sep 14, 2026 Time: 6:00pm - 8:30pm Venue: Private Dinner Club in NYC Past attendees of my events include the founders/C-suite of Venmo, Duolingo, Foursquare, Lyft, Goldman Sachs, Compass, Superhuman, Yext, OpenDoor, Chief, LearnVest, DocSend, Vercel, Loom, Morning Brew, The Hustle, Gas, Teachable, Replit, Twitter, Slack, Pinterest, Yahoo, MongoDB, Business Insider, Wonder, Hinge. Apply to join by filling out the RSVP form."
-    },
     "gary_2026_09_14_fast_company_innovation_festival": {
       "title": "Fast Company Innovation Festival",
       "type": "startup",
@@ -1218,6 +1183,23 @@
       "link": "https://www.garysguide.com/events/o162jqh/An-Evening-w-Hot-Smart-Rich-Forbes",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Maggie Reum (Founder/CEO, Hot Smart Rich & HSR Ventures), Sherry Phillips (CEO, Forbes)."
+    },
+    "gary_2026_09_14_junto_founder_dinner": {
+      "title": "Junto Founder Dinner",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-09-14",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Mon, 09/14 · 7:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Private Dinner Club, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/62qpz8g/Junto-Founder-Dinner",
+      "map": "https://maps.google.com/?q=Private%20Dinner%20Club%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Hi, Andrew Yeung here. We started the Junto Founder Dinner series two years ago to bring together the top founders + builders. Each month, we invite 24 vetted early-stage founders & CEOs for a 3-hour, multiple-course dinner experience. What to expect: A 3-course meal, courtesy of our partners Conversations with fellow high-performing startup leaders A dinner experience designed to facilitate new connections & conversations, with rotating 6-person table formats Meaningful connections with ambitious peers solving similar problems If you're wondering how our dinners usually go... read this Our only intent is to bring good, smart humans together. Details: Date: Sep 14, 2026 Time: 6:00pm - 8:30pm Venue: Private Dinner Club in NYC Past attendees of my events include the founders/C-suite of Venmo, Duolingo, Foursquare, Lyft, Goldman Sachs, Compass, Superhuman, Yext, OpenDoor, Chief, LearnVest, DocSend, Vercel, Loom, Morning Brew, The Hustle, Gas, Teachable, Replit, Twitter, Slack, Pinterest, Yahoo, MongoDB, Business Insider, Wonder, Hinge. Apply to join by filling out the RSVP form."
     },
     "gary_2026_09_15_ldx3_2026": {
       "title": "LDX3 2026",
@@ -1337,40 +1319,6 @@
       "link": "https://www.garysguide.com/events/6rd9tm2/Tech-x-Market-Decoders",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: We decode tech & market signals together - so you can operate, invest, & decide better. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: 6 pm - check-in. We kick off at 6.15 pm. 15-20 minutes - decode solo. Quiet research time. Dig into the news, the product, the tech stack, the data. No talking, just thinking. 35-40 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up. You'll leave with a sharper read on the topic than you walked in with, & a few new perspectives you hadn't considered. That's the whole point. This week's topic: Hugging Face - the hack, Microduck & acquisition by Nvidia Hugging Face's busy months - hacked by an OpenAI model, launching a $399 robot duck, & reportedly being bought by Nvidia for $12.9B. We're decoding what it all means for the future of AI. Come as you are - operator, investor, builder, or just someone who reads too much tech or business news & wants to discuss with smart people."
-    },
-    "gary_2026_09_15_leaddev_nyc_kickoff_social_w_rootly_ai_docker_twinga": {
-      "title": "LeadDev NYC Kickoff Social w/ Rootly AI, Docker, Twingate, Spacelift, Runpod, Endor Labs, & Logz.io",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-09-15",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 09/15 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "SPIN New York Flatiron, 48 E 23rd St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/t1d9xwh/LeadDev-NYC-Kickoff-Social-w-Rootly-AI-Docker-Twingate-Spacelift-Runpod-Endor-Labs-Logz-io",
-      "map": "https://maps.google.com/?q=SPIN%20New%20York%20Flatiron%2C%2048%20E%2023rd%20St",
-      "summary": "Gary's Guide: Unwind after a full day at LeadDev NYC with an evening of friendly competition, great conversation, & refreshing drinks! Join fellow engineering leaders, CTOs, & dev community peers for a relaxed happy hour packed with ping pong, tasty bites, & great company. Whether you're looking to talk shop on scaling engineering teams or just want to show off your backhand slice, this is the spot to be. What to Expect Ping Pong & Party Games: Reservation-only access to ping pong tables, equipment, & casual games. Open Bar & Bites: Enjoy craft beer, wine, & bar food. Networking: Connect with local & visiting engineering leaders in a vibrant, high-energy environment. Space is limited to ensure everyone gets playing time! Please RSVP early to reserve your spot. About Rootly AI Rootly AI is the AI-native on-call & incident response platform that provides proactive support to help Site Reliability Engineers resolve incidents faster, improve system resilience, & streamline on-call operations. It's your always-on SRE copilot that automates root cause analysis & identifies patterns that drive continuous improvement-trusted by hundreds of companies like LinkedIn, NVIDIA, Replit, Elastic, Canva, Clay, Tripadvisor, & Shell. About Endor Labs Endor Labs is the AppSec platform built for the AI era. It helps teams find, prioritize, & fix the most critical risks in code-whether written by humans or AI-faster. Endor Labs understands the entire structure of your codebase-from 40 year-old C++ to modern Bazel monorepos. Powered by AI agents & the industry's richest security dataset about open source code, Endor Labs doesn't just flag issues-it reduces noise, prioritizes what matters most, & proposes intelligent remediations based on the context of your code. Whether you're an upstart or in the Fortune 500, Endor Labs helps AppSec & development teams eliminate noisy alerts, fix code 6.2x faster, & stay compliant with standards like FedRAMP, PCI, SLSA, & NIST SSDF. About Twingate Twingate is the identity-aware access platform that helps modern engineering & infrastructure teams securely access critical systems, production environments, & internal resources without the friction of legacy VPNs & cloud-proxies. By simplifying authentication, improving visibility, & enforcing granular access controls across private & privileged resources, Twingate helps teams move faster while strengthening security-trusted by companies like Notion, Confluent, Wiz, Scopely, Red Hat, & Chargebee. About Spacelift Spacelift is the infrastructure orchestration platform built for the AI-accelerated software era. It manages the full lifecycle of both traditional IaC & AI-provisioned infrastructure, integrating with tools like Terraform, OpenTofu, CloudFormation, Pulumi, & Ansible in a single governed workflow. See how Duolingo, Figma, Moody's, Checkout.com, 1Password, Redfin, & others manage infrastructure for the AI-accelerated software era at spacelift.io/customers."
-    },
-    "gary_2026_09_15_build_w_ai_meetup": {
-      "title": "Build w/ AI Meetup",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-09-15",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Tue, 09/15 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Bar Veloce, 176 7th Ave",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/jfryg4c/Build-w-AI-Meetup",
-      "map": "https://maps.google.com/?q=Bar%20Veloce%2C%20176%207th%20Ave",
-      "summary": "Gary's Guide: With AudaciousAF women's community for AI founders, solo entrepreneurs, leaders, hustlers."
     },
     "luma_2026_09_08_from_bench_to_boardroom_nobel_laureate_james_rothman": {
       "title": "From Bench to Boardroom: Nobel Laureate James Rothman on Cellular Logistics, Nanobiology, & VC Biotech (In-Person)",
@@ -2369,17 +2317,9 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_09_05_12_pm": [
-      "skint_90704_0_lesbian_renaissance_a_medieval_themed_lavender_marke",
-      "skint_90704_2_46th_annual_richmond_county_fair"
-    ],
     "cluster_2026_09_06_1_pm": [
-      "skint_90704_3_free_olive_oil_y_ice_cream",
-      "skint_90704_4_west_side_county_fair"
-    ],
-    "cluster_2026_09_06_3_pm": [
-      "skint_90704_5_our_little_bake_sale_fundraiser_for_make_the_road_ne",
-      "gary_2026_09_06_code_in_white_labor_day_weekend_pre_nyfw_rooftop_poo"
+      "skint_90704_0_free_olive_oil_y_ice_cream",
+      "skint_90704_1_west_side_county_fair"
     ],
     "cluster_2026_09_08_5_30_pm": [
       "gary_2026_09_08_beyond_vibe_coding_let_s_build_a_native_mobile_app",
@@ -2431,8 +2371,7 @@
     ],
     "cluster_2026_09_15_6_pm": [
       "gary_2026_09_15_dinner_navigating_international_business",
-      "gary_2026_09_15_tech_x_market_decoders",
-      "gary_2026_09_15_leaddev_nyc_kickoff_social_w_rootly_ai_docker_twinga"
+      "gary_2026_09_15_tech_x_market_decoders"
     ],
     "cluster_2026_09_08_10_30_pm": [
       "luma_2026_09_08_gtm_cocktail_hour_hosted_by_viktor_com_the_shortlist",
