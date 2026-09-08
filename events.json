@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 8, 2026, 10:49 AM EDT",
+    "checked": "Sep 8, 2026, 5:58 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -261,6 +261,7 @@
       "7 PM",
       "7:30 PM",
       "8 PM",
+      "9 PM",
       "10 PM",
       "10:30 PM"
     ]
@@ -770,10 +771,10 @@
       "when": "Thu, 09/10 · 9:00am",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "Times Center, 242 W 41st St",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/p88jn85/Open-House-New-York",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "map": "https://maps.google.com/?q=Times%20Center%2C%20242%20W%2041st%20St",
       "summary": "Gary's Guide: With Tanya Bragin (VP Product & Mktg, ClickHouse), Mike Shi (Principal PM, ClickHouse), Krithika Balagurunathan (Dir., ClickHouse), Zach Naimon (Principal PM, ClickHouse)."
     },
     "gary_2026_09_10_same_team_triple_the_volume_ai_masterclass_sessions": {
@@ -826,6 +827,23 @@
       "link": "https://www.garysguide.com/events/a8eqaqz/AI-Search-Meetup",
       "map": "https://maps.google.com/?q=Venue%2C%20307%20W%2038th%20St%2C%20Ste%201505",
       "summary": "Gary's Guide: With Nick Lafferty (Mktg Enggr, Profound), Alexia LaFata (SEO Strategy, Meta), Will Guevara (Dir. SEO, Amsive)."
+    },
+    "gary_2026_09_10_women_founders_afterwork": {
+      "title": "Women Founders Afterwork",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-09-10",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Thu, 09/10 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Castell Terrace, 260 W 40th St, 2nd Fl1",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/1kcybds/Women-Founders-Afterwork",
+      "map": "https://maps.google.com/?q=Castell%20Terrace%2C%20260%20W%2040th%20St%2C%202nd%20Fl1",
+      "summary": "Gary's Guide: Looking to connect with your crowd? BuildHer Labs, Yorkseed, & Tison.io are hosting an evening of genuine connection with no panels, no pitches, just founders & allies who are building, backing, & betting on women in tech. Whether you're at idea stage, growing a startup, or working to support women-led companies, this is your space. WHAT TO EXPECT Drop in from 5:00pm Two hours of networking in a curated, welcoming space Conversations that go beyond small talk with founders, operators, investors, & allies in one room Real connections WHO THIS IS FOR Women founders at any stage Allies who actively support women-led startups Investors looking to meet early-stage women founders Operators, advisors, & ecosystem builders Apply to join Yorkseed NYC Chapter | NYC style The right rooms. The right people. The right tools - for every step of the journey, including the ones you have not thought about yet. All attendees are encouraged to join Yorkseed Connect this week to access Connection Intelligence & better understand who you're meeting. 2 months complimentary Yorkseed Connect Membership https://app.yorkseed.co/eventoffer Stay updated with Yorkseed latest news https://pulse.yorkseed.co/ We look forward to seeing you there. ABOUT THE HOSTS BuildHer Labs is a venture studio built for female & non-binary founders. Whether you're sitting on an idea, an early pitch, or a first build, we work with you to sharpen your thinking, pressure-test your business model, & nail your next move to becoming investor-ready. buildherlabs.com Yorkseed is a curated, application-reviewed network of startup founders raising capital & investors actively deploying it. Yorkseed Connect, our deal platform, handles discovery, diligence, & introductions in one place, across 50+ city hubs worldwide. yorkseed.co Tison.io is a mission-driven boutique software & GTM engineering agency working exclusively with bootstrapped & pre-seed founders on the journey from Zero to One. Tison sources its talent from DirectEd Development, an elite academy for top 0.1% African tech prodigy that has collaborations with companies like Lovable, Neo4j & Canva. tison.io Check out our other NYC founder events this week: Bootstrapped & Solo Founders Afterwork (Fri, Sep 11) For founders building with small teams, limited capital, & a focus on customers & revenue. https://luma.com/uuprbwf6 Curious About Starting a Startup? (Sat, Sep 12) Talk through your idea with founders who have already taken the first steps. https://luma.com/6uy57p58 Co-Founder Speed Dating Picnic (Sun, Sep 13) Meet potential co-founders, founding hires, & early-stage collaborators. https://luma.com/1gx7o99r Marketplace Founders Afterwork (Mon, Sep 14) A peer exchange about liquidity, take rates, supply, demand, & marketplace growth. https://luma.com/hb1r9l8m Seed-to-Series-A Growth Hacking Exchange (Tue, Sep 15) Swap real growth experiments, results, costs, & lessons with founders & operators. https://luma.com/t5yhhipc Women Founders Social (Wed, Sep 16) Close the week with women founders, investors, operators, & allies in the East Village. https://luma.com/wxew0x7y"
     },
     "gary_2026_09_10_health2tech": {
       "title": "Health2Tech",
@@ -1014,6 +1032,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Sujo John (Founder, YouCanFreeUs)."
     },
+    "gary_2026_09_11_bootstrapped_solo_founders_afterwork": {
+      "title": "Bootstrapped & Solo Founders Afterwork",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-09-11",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Fri, 09/11 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "The Copper Still Chelsea, 206 7th Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/jlyairp/Bootstrapped-Solo-Founders-Afterwork",
+      "map": "https://maps.google.com/?q=The%20Copper%20Still%20Chelsea%2C%20206%207th%20Ave",
+      "summary": "Gary's Guide: Google began because Sergey Brin happened to be assigned to show Larry Page around Stanford. Ben & Jerry met because they were the two slowest kids in gym class. Bill Gates nearly skipped the gathering where he met Warren Buffett because Warren was \"just some guy who picks stocks\", but his mother convinced him to still go, & they ended up speaking for hours. That kind of serendipity is what we want to create. Yorkseed & Tison.io are bringing together bootstrapped founders, solo founders & early-stage builders in New York for an evening of meeting people who are figuring out many of the same things you are. WHAT TO EXPECT Honest conversations about what's working, what isn't, & what founders are learning A room full of people building with similar constraints Practical ideas you can apply to your own company New customers, collaborators, introductions, or simply useful new connections A relaxed afterwork atmosphere without the usual networking theatre There'll also be an attendee-only WhatsApp group so the conversations can continue after the event. WHO THIS IS FOR Solo & bootstrapped founders Technical & non-technical founders Indie hackers & early-stage builders Founders at the idea, MVP, or early-revenue stage Anyone building with a small team, limited capital, & a focus on customers Apply to join Yorkseed NYC Chapter | NYC style The right rooms. The right people. The right tools - for every step of the journey, including the ones you have not thought about yet. All attendees are encouraged to join Yorkseed Connect this week to access Connection Intelligence & better understand who you're meeting. 2 months complimentary Yorkseed Connect Membership https://app.yorkseed.co/eventoffer Stay updated with Yorkseed latest news https://pulse.yorkseed.co/ We look forward to seeing you there. ABOUT THE HOSTS Yorkseed is a curated, application-reviewed network of startup founders raising capital & investors actively deploying it. Yorkseed Connect, our deal platform, handles discovery, diligence, & introductions in one place, across 50+ city hubs worldwide. yorkseed.co Tison.io is a mission-driven boutique software & GTM engineering agency working exclusively with bootstrapped & pre-seed founders on the journey from Zero to One. Tison sources its talent from DirectEd Development, an elite academy for top 0.1% African tech prodigy that has collaborations with companies like Lovable, Neo4j & Canva. tison.io Check out our other NYC founder events this week: Bootstrapped & Solo Founders Afterwork (Fri, Sep 11) For founders building with small teams, limited capital, & a focus on customers & revenue. https://luma.com/uuprbwf6 Curious About Starting a Startup? (Sat, Sep 12) Talk through your idea with founders who have already taken the first steps. https://luma.com/6uy57p58 Co-Founder Speed Dating Picnic (Sun, Sep 13) Meet potential co-founders, founding hires, & early-stage collaborators. https://luma.com/1gx7o99r Marketplace Founders Afterwork (Mon, Sep 14) A peer exchange about liquidity, take rates, supply, demand, & marketplace growth. https://luma.com/hb1r9l8m Seed-to-Series-A Growth Hacking Exchange (Tue, Sep 15) Swap real growth experiments, results, costs, & lessons with founders & operators. https://luma.com/t5yhhipc Women Founders Social (Wed, Sep 16) Close the week with women founders, investors, operators, & allies in the East Village. https://luma.com/wxew0x7y"
+    },
     "gary_2026_09_12_dell_x_nvidia_hackathon_local_ai_on_dell_pro_max_w_g": {
       "title": "Dell x NVIDIA Hackathon - Local AI On Dell Pro Max w/ GB10",
       "type": "tech",
@@ -1030,6 +1065,23 @@
       "link": "https://www.garysguide.com/events/jg8jx7x/Dell-x-NVIDIA-Hackathon-Local-AI-On-Dell-Pro-Max-w-GB10",
       "map": "https://maps.google.com/?q=Cornell%20Univ.%2C%20Ithaca%2C%20Ithaca",
       "summary": "Gary's Guide: Dell x NVIDIA's Local AI on Dell Pro Max with GB10 is a one-day build sprint where you ship an always-on business agent running locally on the Dell Pro Max with GB10. A one-day hackathon. Real hardware on the line. 40 teams. 40 Dell Pro Max with GB10 units. One day to build an AI agent that runs locally on the box (no cloud API) & helps businesses or corporates. You get the hardware. You get the stack. You get a day to ship something real."
+    },
+    "gary_2026_09_12_curious_about_launching_a_startup": {
+      "title": "Curious About Launching A Startup?",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Sat",
+      "date": "2026-09-12",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sat, 09/12 · 2:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Anytime Bar & Billiards, 112 W 30th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/pe0mmqc/Curious-About-Launching-A-Startup",
+      "map": "https://maps.google.com/?q=Anytime%20Bar%20%26%20Billiards%2C%20112%20W%2030th%20St",
+      "summary": "Gary's Guide: Thinking about starting something? Yorkseed & Tison.io are hosting a Saturday afternoon for people who have an idea, or half of one, & want to talk it through with founders who have already started. You don't need a deck, a co-founder, or a plan. Turning up counts. WHAT TO EXPECT Drop in any time between 2:00pm & 5:00pm A billiards bar in NoMad. Pool tables held for the group, so there's something to do if you don't know anyone yet Founders who will tell you what the first six months actually looked like Real connections WHO THIS IS FOR Anyone sitting on an idea they haven't started People thinking about leaving a job to build something First-time founders in their first year Operators curious about the founder route ABOUT US Yorkseed is a curated, application-reviewed network of startup founders raising capital & investors actively deploying it. Yorkseed Connect, our deal platform, handles discovery, diligence, & introductions in one place, across 50+ city hubs worldwide. yorkseed.co Tison.io is a mission-driven boutique software & GTM engineering agency working exclusively with bootstrapped & pre-seed founders on the journey from Zero to One. Tison sources its talent from DirectEd Development, an elite academy for top 0.1% African tech prodigy that has collaborations with companies like Lovable, Neo4j & Canva. tison.io Check out our other NYC founder events this week: Bootstrapped & Solo Founders Afterwork (Fri, Sep 11) For founders building with small teams, limited capital, & a focus on customers & revenue. https://luma.com/uuprbwf6 Curious About Starting a Startup? (Sat, Sep 12) Talk through your idea with founders who have already taken the first steps. https://luma.com/6uy57p58 Co-Founder Speed Dating Picnic (Sun, Sep 13) Meet potential co-founders, founding hires, & early-stage collaborators. https://luma.com/1gx7o99r Marketplace Founders Afterwork (Mon, Sep 14) A peer exchange about liquidity, take rates, supply, demand, & marketplace growth. https://luma.com/hb1r9l8m Seed-to-Series-A Growth Hacking Exchange (Tue, Sep 15) Swap real growth experiments, results, costs, & lessons with founders & operators. https://luma.com/t5yhhipc Women Founders Social (Wed, Sep 16) Close the week with women founders, investors, operators, & allies in the East Village. https://luma.com/wxew0x7y Apply to join Yorkseed NYC Chapter | NYC style The right rooms. The right people. The right tools - for every step of the journey, including the ones you have not thought about yet. All attendees are encouraged to join Yorkseed Connect this week to access Connection Intelligence & better understand who you're meeting. 2 months complimentary Yorkseed Connect Membership https://app.yorkseed.co/eventoffer Stay updated with Yorkseed latest news https://pulse.yorkseed.co/ We look forward to seeing you there."
     },
     "gary_2026_09_12_the_cookie_social_founders_investors": {
       "title": "The Cookie Social - Founders & Investors",
@@ -1065,6 +1117,23 @@
       "map": "https://maps.google.com/?q=Othership%20Flatiron%2C%2023%20W%2020th%20St",
       "summary": "Gary's Guide: With Series A+ founders."
     },
+    "gary_2026_09_13_co_founder_speed_dating_picnic": {
+      "title": "Co-Founder Speed Dating Picnic",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Sun",
+      "date": "2026-09-13",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sun, 09/13 · 2:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Central Park - Sheep Meadow, Sheep Meadow, Central Park",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/qmge683/Co-Founder-Speed-Dating-Picnic",
+      "map": "https://maps.google.com/?q=Central%20Park%20-%20Sheep%20Meadow%2C%20Sheep%20Meadow%2C%20Central%20Park",
+      "summary": "Gary's Guide: Looking for a co-founder or a first hire? Yorkseed & Tison.io are running a matchmaking picnic in Central Park. Structured speed dating for founders looking for a co-founder, & for engineers, designers, & operators looking for a founding team to join. Here's how it works. You tell us in one line what you're building or what you want to build on. We pair you up for short rotating conversations, roughly 10-15 minutes each. After the rotations we open it up, lay out the blankets, & let the interesting pairs keep talking. There'll be a WhatsApp group that attendees only will be invited to join. Bring a blanket & something to share. We'll bring the name tags. WHAT TO EXPECT Rotations start at 2:30pm, so try to arrive by 2:15pm to participate from the first round A picnic on the Sheep Meadow lawn. Free, outdoors, weather permitting Short structured conversations with people you would not otherwise meet Real connections WHO THIS IS FOR Founders looking for a technical or commercial co-founder Engineers & designers who want to join something early Operators ready to be employee number one Anyone with an idea & no one to build it with ABOUT US Yorkseed is a curated, application-reviewed network of startup founders raising capital & investors actively deploying it. Yorkseed Connect, our deal platform, handles discovery, diligence, & introductions in one place, across 50+ city hubs worldwide. yorkseed.co Tison.io is a mission-driven boutique software & GTM engineering agency working exclusively with bootstrapped & pre-seed founders on the journey from Zero to One. Tison sources its talent from DirectEd Development, an elite academy for top 0.1% African tech prodigy that has collaborations with companies like Lovable, Neo4j & Canva. tison.io Check out our other NYC founder events this week: Bootstrapped & Solo Founders Afterwork (Fri, Sep 11) For founders building with small teams, limited capital, & a focus on customers & revenue. https://luma.com/uuprbwf6 Curious About Starting a Startup? (Sat, Sep 12) Talk through your idea with founders who have already taken the first steps. https://luma.com/6uy57p58 Co-Founder Speed Dating Picnic (Sun, Sep 13) Meet potential co-founders, founding hires, & early-stage collaborators. https://luma.com/1gx7o99r Marketplace Founders Afterwork (Mon, Sep 14) A peer exchange about liquidity, take rates, supply, demand, & marketplace growth. https://luma.com/hb1r9l8m Seed-to-Series-A Growth Hacking Exchange (Tue, Sep 15) Swap real growth experiments, results, costs, & lessons with founders & operators. https://luma.com/t5yhhipc Women Founders Social (Wed, Sep 16) Close the week with women founders, investors, operators, & allies in the East Village. https://luma.com/wxew0x7y Apply to join Yorkseed NYC Chapter | NYC style The right rooms. The right people. The right tools - for every step of the journey, including the ones you have not thought about yet. All attendees are encouraged to join Yorkseed Connect this week to access Connection Intelligence & better understand who you're meeting. 2 months complimentary Yorkseed Connect Membership https://app.yorkseed.co/eventoffer Stay updated with Yorkseed latest news https://pulse.yorkseed.co/ We look forward to seeing you there."
+    },
     "gary_2026_09_14_fast_company_innovation_festival": {
       "title": "Fast Company Innovation Festival",
       "type": "startup",
@@ -1098,6 +1167,23 @@
       "link": "https://www.garysguide.com/events/8x1893s/Tech-Council-Summit",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Kellie Romack (Chief Digital Information Officer, ServiceNow), Marina Bellini (President, Mars), Kristin Myers (CDO, Northwell Health), Deepa Soni (CIO, New York Life), Tilak Mandadi (Chief Experience Officer, CVS Health), Joon Sung Park (Founder/CEO, Simile)."
+    },
+    "gary_2026_09_14_marketplace_founders_afterwork": {
+      "title": "Marketplace Founders Afterwork",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-09-14",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Mon, 09/14 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "all & sundry, 312 W 58th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/v4ra3jy/Marketplace-Founders-Afterwork",
+      "map": "https://maps.google.com/?q=all%20%26%20sundry%2C%20312%20W%2058th%20St",
+      "summary": "Gary's Guide: Running a marketplace startup? Yorkseed & Tison.io are hosting a peer exchange for people building two-sided businesses. Liquidity, take rate, which side to subsidise, why the supply side keeps churning. Come when you get off work. Happy hour at all & sundry runs to 7pm. WHAT TO EXPECT Drop in any time between 5:00pm & 7:30pm A bar & bistro by Columbus Circle. Happy hour until 7pm Founders who have solved the cold start problem, & some who are still in it Real connections WHO THIS IS FOR Marketplace & platform founders at any stage Growth & ops people working on supply or demand Investors who back marketplaces Anyone about to launch one & wondering which side to build first ABOUT THE HOSTS Yorkseed is a curated, application-reviewed network of startup founders raising capital & investors actively deploying it. Yorkseed Connect, our deal platform, handles discovery, diligence, & introductions in one place, across 50+ city hubs worldwide. yorkseed.co Tison.io is a mission-driven boutique software & GTM engineering agency working exclusively with bootstrapped & pre-seed founders on the journey from Zero to One. Tison sources its talent from DirectEd Development, an elite academy for top 0.1% African tech prodigy that has collaborations with companies like Lovable, Neo4j & Canva. tison.io Check out our other NYC founder events this week: Bootstrapped & Solo Founders Afterwork (Fri, Sep 11) For founders building with small teams, limited capital, & a focus on customers & revenue. https://luma.com/uuprbwf6 Curious About Starting a Startup? (Sat, Sep 12) Talk through your idea with founders who have already taken the first steps. https://luma.com/6uy57p58 Co-Founder Speed Dating Picnic (Sun, Sep 13) Meet potential co-founders, founding hires, & early-stage collaborators. https://luma.com/1gx7o99r Marketplace Founders Afterwork (Mon, Sep 14) A peer exchange about liquidity, take rates, supply, demand, & marketplace growth. https://luma.com/hb1r9l8m Seed-to-Series-A Growth Hacking Exchange (Tue, Sep 15) Swap real growth experiments, results, costs, & lessons with founders & operators. https://luma.com/t5yhhipc Women Founders Social (Wed, Sep 16) Close the week with women founders, investors, operators, & allies in the East Village. https://luma.com/wxew0x7y Apply to join Yorkseed NYC Chapter | NYC style The right rooms. The right people. The right tools - for every step of the journey, including the ones you have not thought about yet. All attendees are encouraged to join Yorkseed Connect this week to access Connection Intelligence & better understand who you're meeting. 2 months complimentary Yorkseed Connect Membership https://app.yorkseed.co/eventoffer Stay updated with Yorkseed latest news https://pulse.yorkseed.co/ We look forward to seeing you there."
     },
     "gary_2026_09_14_an_evening_w_hot_smart_rich_forbes": {
       "title": "An Evening w/ Hot Smart Rich & Forbes",
@@ -1167,91 +1253,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: This half-day invitation-only event is limited to select CMOs & will provide insights into the strategies, technologies, & leadership practices by peer CMOs who are driving successful AI transformations across the world's best marketing organizations. This half-day invitation-only event is limited to select CMOs & will provide insights into the strategies, technologies, & leadership practices by peer CMOs who are driving successful AI transformations across the world's best marketing organizations. This is more than a learning experience-it's a unique forum for building connections & gaining actionable insights (in true MMA fashion!). You'll hear from leading AI experts but also actively participate in dynamic plenary discussions & breakout sessions with your peers, designed to foster collaboration & actionable takeaways. Prior topics include: HP Putting AI to Practical Use in the Enterprise AT&T's Work with GenAI GenAI Marketing Org AI Personalization (CAP) The Future of Link-based Search Agentic Consumers: Marketing to Bots AI Ethics: Defining \"Ethical AI Marketing\" Moving at the Speed of Culture Harnessing Open Source for AI Breakthroughs Future of AI Marketing & Moving from Experiments to Outcomes"
     },
-    "gary_2026_09_15_right_sizing_gen_ai_cost_performance_optimization": {
-      "title": "Right-Sizing Gen AI - Cost, Performance & Optimization",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-09-15",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Tue, 09/15 · 5:00pm",
-      "price": "Varies",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ygngyvr/Right-Sizing-Gen-AI-Cost-Performance-Optimization",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: How enterprises balance cost, performance, & efficiency as GenAI scales. As enterprises push more GenAI into production, the pressure to control cost & improve performance is intensifying. Right-Sizing Gen AI brings together leaders focused on tuning, pruning, compression, caching, & the architectural tradeoffs that determine whether GenAI is sustainable at scale. This event tackles the hard questions: which workloads justify premium compute, where small models outperform, how to optimize context flows, & how maturity frameworks can keep AI budgets from spiraling out of control. Trying to rein in costs while boosting performance? Apply to attend & learn from the leaders optimizing GenAI for scale."
-    },
-    "gary_2026_09_15_ai_founders_mixer": {
-      "title": "AI Founders Mixer",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-09-15",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Tue, 09/15 · 5:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/zyjey6s/AI-Founders-Mixer",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Join us at ERA for a happy hour bringing together AI founders in NYC. This is a great setting to meet other people working on the future of AI. Come by to meet other founders & the ERA team. Hosted by Entrepreneurs Roundtable Accelerator. ERA is NYC's leading tech accelerator. Since 2011, ERA has invested in 400+ companies; alumni companies have raised $2 billion in investor capital & collectively exceed $10 billion in market capitalization. Applications for the Winter 2027 cohort are open. Learn more & apply here."
-    },
-    "gary_2026_09_15_startup_pitch_night_1k_cash_drop_ai_optional": {
-      "title": "Startup Pitch Night - $1K Cash Drop (AI Optional)",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-09-15",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Tue, 09/15 · 5:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Verci Flatiron, 45 E 20th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/u5ay4hw/Startup-Pitch-Night-1K-Cash-Drop-AI-Optional",
-      "map": "https://maps.google.com/?q=Verci%20Flatiron%2C%2045%20E%2020th%20St",
-      "summary": "Gary's Guide: Builders take the stage Apply to pitch! Applications close Sep 10. Each pitcher gets 3 minutes to pitch their idea LIVE, in front of founders, side-hustlers, & builders. The crowd judges & votes. One person goes home with $1,000 cash on the spot. Real demos encouraged. Funded by 1PB.org (One Percent Back) Helping entrepreneurs succeed through mentorship, investment, & support. You pay it forward by donating 1% of the equity to a 501c3 non-profit dedicated to helping more entrepreneurs. How It Works Apply to pitch Submit your pitch deck Get selected Final pitchers confirmed by Sep 10th Pitch live 3 minutes on stage, at Verci Flatiron Audience votes Real-time votes Winner walks out with $1,000 cash, same night You Should Pitch if you: Are building something with AI, no matter how early Have a side project you've been waiting to show someone Want honest feedback from real builders, not just yes-men Are ready to get on a stage & make your case Apply to pitch! Applications close Sep 10. Who Should Attend? Working founders & operators building with AI Side-hustlers shipping nights & weekends Developers & technical builders Anyone curious what's actually getting built in NYC right now Free admission What to Expect 5:30 PM - Doors open, mingle with the crowd 6:00 PM - Pitches begin 7:00 PM - Live voting + winner announcement 7:15 PM - Networking, $1K prize handed out"
-    },
-    "gary_2026_09_15_dinner_navigating_international_business": {
-      "title": "[Dinner] Navigating International Business",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-09-15",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 09/15 · 6:00pm",
-      "price": "Varies",
-      "free": false,
-      "place": "The William, 24 E 39th St, Raines Law Room",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/gfedbo6/-Dinner-Navigating-International-Business",
-      "map": "https://maps.google.com/?q=The%20William%2C%2024%20E%2039th%20St%2C%20Raines%20Law%20Room",
-      "summary": "Gary's Guide: Join RTM Nexus & ESW for an intimate evening at Raines Law Room, bringing together a select group of senior retail & brand leaders for an open conversation around the future of international commerce. Expanding globally has never been simple - & AI is adding an entirely new dimension. From entering & scaling in new markets to localization, customer experience, payments, fulfillment & the rise of AI-powered shopping, the way brands approach international growth is quickly changing. Over dinner, we'll explore how leaders are navigating that shift, where AI is creating real opportunities, & what retailers & brands should be thinking about now as commerce becomes increasingly global, intelligent & interconnected. No presentations or sales pitches - just great food, thoughtful conversation & candid discussion with peers tackling many of the same challenges. September 15 | 6:00 PM Raines Law Room | New York City Attendance is limited & reserved for senior leaders from retailers & brands."
-    },
-    "gary_2026_09_15_tech_x_market_decoders": {
-      "title": "Tech x Market Decoders",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-09-15",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 09/15 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/6rd9tm2/Tech-x-Market-Decoders",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: We decode tech & market signals together - so you can operate, invest, & decide better. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: 6 pm - check-in. We kick off at 6.15 pm. 15-20 minutes - decode solo. Quiet research time. Dig into the news, the product, the tech stack, the data. No talking, just thinking. 35-40 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up. You'll leave with a sharper read on the topic than you walked in with, & a few new perspectives you hadn't considered. That's the whole point. This week's topic: Hugging Face - the hack, Microduck & acquisition by Nvidia Hugging Face's busy months - hacked by an OpenAI model, launching a $399 robot duck, & reportedly being bought by Nvidia for $12.9B. We're decoding what it all means for the future of AI. Come as you are - operator, investor, builder, or just someone who reads too much tech or business news & wants to discuss with smart people."
-    },
     "luma_2026_09_08_from_bench_to_boardroom_nobel_laureate_james_rothman": {
       "title": "From Bench to Boardroom: Nobel Laureate James Rothman on Cellular Logistics, Nanobiology, & VC Biotech (In-Person)",
       "type": "startup",
@@ -1303,6 +1304,23 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Tusk & Quill, Tusk & Quill, Aishwarya Khanduja"
     },
+    "luma_2026_09_09_nyc_startup_x_tech_sushi_and_drinks_mixer": {
+      "title": "NYC Startup x Tech: Sushi and Drinks Mixer",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-09-09",
+      "time": "9 PM",
+      "sort": 21,
+      "when": "Wed, 09/09 · 9pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/1bbw00h0",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Flow by Oasis HQ, Jayson Tian, Naveen Sharma, Stefano Delmanto"
+    },
     "luma_2026_09_09_the_frontier_of_enterprise_ai_in_production": {
       "title": "The Frontier of Enterprise AI in Production",
       "type": "tech",
@@ -1318,7 +1336,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/rejfs2o5",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Credal, Jessica Shen, Ravin Thambapillai"
+      "summary": "Luma NYC: Credal, Ravin Thambapillai"
     },
     "nyu_tandon_2026_09_08_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -2268,6 +2286,7 @@
     ],
     "cluster_2026_09_10_5_pm": [
       "gary_2026_09_10_ai_search_meetup",
+      "gary_2026_09_10_women_founders_afterwork",
       "jc_culture_43627_2026_09_10_new_jersey_symphony_brass_band_2026"
     ],
     "cluster_2026_09_10_6_pm": [
@@ -2292,14 +2311,6 @@
     "cluster_2026_09_15_8_am": [
       "gary_2026_09_15_ldx3_2026",
       "gary_2026_09_15_mma_cmo_ai_transformation_summit"
-    ],
-    "cluster_2026_09_15_5_30_pm": [
-      "gary_2026_09_15_ai_founders_mixer",
-      "gary_2026_09_15_startup_pitch_night_1k_cash_drop_ai_optional"
-    ],
-    "cluster_2026_09_15_6_pm": [
-      "gary_2026_09_15_dinner_navigating_international_business",
-      "gary_2026_09_15_tech_x_market_decoders"
     ],
     "cluster_2026_09_08_10_30_pm": [
       "luma_2026_09_08_gtm_cocktail_hour_hosted_by_viktor_com_the_shortlist",
