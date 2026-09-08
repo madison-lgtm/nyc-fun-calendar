@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Sep 7, 2026, 6:13 PM EDT",
+    "checked": "Sep 8, 2026, 10:49 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-09-07",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Sep 7"
-      },
       {
         "iso": "2026-09-08",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Sep 13"
+      },
+      {
+        "iso": "2026-09-14",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Sep 14"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-09-07",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Sep 7"
-      },
       {
         "iso": "2026-09-08",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 7"
+      },
+      {
+        "iso": "2026-10-08",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Oct 8"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "12 AM",
       "8 AM",
@@ -453,58 +453,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_90704_0_free_olive_oil_y_ice_cream": {
-      "title": "free olive oil-y ice cream",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-06",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 09/06 · 1-3pm (+ 9/13)",
-      "price": "Free",
-      "free": true,
-      "place": "mccarren parkhouse (williamsburg)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/p/DcJ98u-xjuA/",
-      "map": "https://maps.google.com/?q=mccarren%20parkhouse%20(williamsburg)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-3pm (+ 9/13): free olive oil-y ice cream: mccarren parkhouse (williamsburg)."
-    },
-    "skint_90704_1_west_side_county_fair": {
-      "title": "west side county fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-06",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 09/06 · 1-6pm (rain date 9/13)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "pier i in riverside park south (uws)",
-      "source": "The Skint",
-      "link": "https://riversideparknyc.org/event/west-side-county-fair-4/",
-      "map": "https://maps.google.com/?q=pier%20i%20in%20riverside%20park%20south%20(uws)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-6pm (rain date 9/13): west side county fair: pier i in riverside park south (uws)."
-    },
-    "skint_90704_2_our_little_bake_sale_fundraiser_for_make_the_road_ne": {
-      "title": "our little bake sale fundraiser for make the road new york",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-06",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Sun, 09/06 · 3-5pm",
-      "price": "Free",
-      "free": true,
-      "place": "the play ground at little island, free admission, $10 per pastry",
-      "source": "The Skint",
-      "link": "https://www.tickettailor.com/events/ourlittlebakesale/2376982",
-      "map": "https://maps.google.com/?q=the%20play%20ground%20at%20little%20island%2C%20free%20admission%2C%20%2410%20per%20pastry%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 3-5pm: our little bake sale fundraiser for make the road new york: the play ground at little island, free admission, $10 per pastry."
-    },
-    "skint_90704_3_59th_annual_west_indian_day_parade": {
+    "skint_90704_0_59th_annual_west_indian_day_parade": {
       "title": "59th annual west indian day parade",
       "type": "market",
       "label": "Festival / Market",
@@ -521,24 +470,7 @@
       "map": "https://maps.google.com/?q=eastern%20parkway%20from%20utica%20avenue%20to%20grand%20army%20plaza%20(brooklyn)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon 11am-6pm: 59th annual west indian day parade: eastern parkway from utica avenue to grand army plaza (brooklyn)."
     },
-    "skint_90704_4_we_will_always_love_you_a_dolly_parton_celebration_w": {
-      "title": "we will always love you: a dolly parton celebration with cover band doll parts",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sun",
-      "date": "2026-09-06",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Sun, 09/06 · 8pm",
-      "price": "$20",
-      "free": false,
-      "place": "littlefield (gowanus), $20",
-      "source": "The Skint",
-      "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1999060666266",
-      "map": "https://maps.google.com/?q=littlefield%20(gowanus)%2C%20%2420%20NYC",
-      "summary": "dolly parton tribute events. Pulled from The Skint's public article feed: sun 8pm: we will always love you: a dolly parton celebration with cover band doll parts: littlefield (gowanus), $20."
-    },
-    "skint_90704_5_dolly_a_live_musical_tribute": {
+    "skint_90704_1_dolly_a_live_musical_tribute": {
       "title": "dolly: a live musical tribute",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -1592,8 +1524,8 @@
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     },
-    "jc_culture_43627_2026_09_10_new_jersey_symphony_brass_band_2026_date_change_9_10": {
-      "title": "New Jersey Symphony Brass Band 2026 / DATE CHANGE 9/10",
+    "jc_culture_43627_2026_09_10_new_jersey_symphony_brass_band_2026": {
+      "title": "New Jersey Symphony Brass Band 2026",
       "type": "entertainment",
       "label": "Music / Movies",
       "day": "Thu",
@@ -2317,10 +2249,6 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_09_06_1_pm": [
-      "skint_90704_0_free_olive_oil_y_ice_cream",
-      "skint_90704_1_west_side_county_fair"
-    ],
     "cluster_2026_09_08_5_30_pm": [
       "gary_2026_09_08_beyond_vibe_coding_let_s_build_a_native_mobile_app",
       "gary_2026_09_08_build_ai_agents_that_qualify_leads_book_meetings_res"
@@ -2340,7 +2268,7 @@
     ],
     "cluster_2026_09_10_5_pm": [
       "gary_2026_09_10_ai_search_meetup",
-      "jc_culture_43627_2026_09_10_new_jersey_symphony_brass_band_2026_date_change_9_10"
+      "jc_culture_43627_2026_09_10_new_jersey_symphony_brass_band_2026"
     ],
     "cluster_2026_09_10_6_pm": [
       "gary_2026_09_10_the_builder_series_founder_investor_operator_nights",
