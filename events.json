@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 9, 2026, 10:55 AM EDT",
+    "checked": "Sep 9, 2026, 5:52 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1286,6 +1286,23 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
+    "nyu_tandon_2026_09_09_cue_career_corner_drop_in_hours": {
+      "title": "CUE Career Corner: Drop-In Hours",
+      "type": "tech",
+      "label": "Career Development",
+      "day": "Wed",
+      "date": "2026-09-09",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Wed, 09/09 · 12:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/09/cue-career-corner-drop-hours",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Career Development"
+    },
     "nyu_tandon_2026_09_10_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
       "type": "tech",
@@ -1926,11 +1943,11 @@
       "when": "Fri, 09/25 · 12am",
       "price": "Free / varies",
       "free": true,
-      "place": "Jersey City",
+      "place": "MANA CONTEMPORARY, 888 NEWARK AVE., JERSEY CITY",
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/43488/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Please CLICK HERE for details"
+      "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
+      "summary": "The Jersey City Poetry Festival (JCPOFEST) is an interdisciplinary, intergenerational event taking place September 25–27 under this year’s theme “Viva! Joy as Resistance.” This multi-venue celebration fuses poetry with music, dance, visual art, storytelling, and film—bringing generations, disciplines, and communities together to imagine, question, connect, and experience the radical possibility of collective JOY. Showcasing an extraordinary constellation of emerging and critically acclaimed voices, the festival features 5th U.S. Presidential Inaugural Poet Richard Blanco, the Grammy-performing Resistance Revival Chorus, and a panel with poets from Cave Canem (represented by Pulitzer Prize finalist Evie Shockley), Kundiman, and CantoMundo. FESTIVAL AT A GLANCE I JCPOFEST 2026 9/25 — Kick-Off Party & VIP Networking | The Stork Club I 7pm -11pm I Venue: Chapel Ave. Jersey City, NJ 07305 9/26 — SYNERGY: Interdisciplinary Exploration of Poetry | 3pm -9pm | Venue: MONIRA FOUNDATION Address: Mana Contemporary 888 Newark Ave, Jersey City, NJ 07306 9/27 — Lazul: An Eco-Centric Group Exhibition | 301 West Side Ave. Jersey City, NJ 07305 May–November — The Pursuit of Happiness | Museum of Jersey City History I Saturday & Wednesdays 1pm – 5pm For more information: www.jcpofest.org Please CLICK HERE for details"
     },
     "jc_culture_10004823_2026_09_25_the_society_of_american_graphic_artists_saga_91st_an": {
       "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
