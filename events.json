@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 10, 2026, 10:42 AM EDT",
+    "checked": "Sep 10, 2026, 5:47 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -893,6 +893,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Maggie Reum (Founder/CEO, Hot Smart Rich & HSR Ventures), Sherry Phillips (CEO, Forbes)."
     },
+    "gary_2026_09_14_sgn_x_cohort_art_after_ai": {
+      "title": "SGN x Cohort - Art After AI",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Mon",
+      "date": "2026-09-14",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Mon, 09/14 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Sour Mouse, 110 Delancey St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/36ruspd/SGN-x-Cohort-Art-After-AI",
+      "map": "https://maps.google.com/?q=Sour%20Mouse%2C%20110%20Delancey%20St",
+      "summary": "Gary's Guide: Patrick McAndrew (Actor & playwright, The Startup & Terms of Service), Michael Tay (Writer & filmmaker), Matthew James Scott Lee (AI-safety Enggr), Isaac Ting (Product Designer)."
+    },
     "gary_2026_09_14_junto_founder_dinner": {
       "title": "Junto Founder Dinner",
       "type": "startup",
@@ -978,6 +995,23 @@
       "map": "https://maps.google.com/?q=Everything's%20Jake%20NYC%20Bar%20%26%20Lounge%2C%2054%20E%2013th%20St",
       "summary": "Gary's Guide: Founders, meet the operators who've done your GTM Yorkseed & Tison.io are hosting a matchmaking evening in New York. One side of the room: founders between seed & Series A who need a growth engine & don't yet have the person to build it. The other side: GTM operators, consultants & agencies in New York who have built one before, usually more than once. Tell us at signup what you need or what you've done, & we'll make the introductions ourselves rather than leaving it to who you happen to stand next to at the bar. WHAT TO EXPECT Drop in any time between 5:00pm & 7:30pm A cocktail lounge off Union Square Introductions we've thought about in advance, not a room of strangers with name tags Nobody speaks from a stage WHO THIS IS FOR Founders & GTM leads at startups between seed & Series A, especially if your buyer is a developer GTM consultants, fractional operators & agencies taking on new work Growth, paid, outbound & partnerships people in New York looking for their next engagement Investors who spend their time on go-to-market GETTING IN Free for founders & in-house operators $20 for consultants, agencies & service providers. Covers the drinks & keeps the room to people who actually want the introductions ABOUT THE HOSTS Yorkseed is a curated, application-reviewed network of startup founders raising capital & investors actively deploying it. Yorkseed Connect, our deal platform, handles discovery, diligence, & introductions in one place, across 50+ city hubs worldwide. yorkseed.co Tison.io is a mission-driven boutique software & GTM engineering agency working exclusively with bootstrapped & pre-seed founders on the journey from Zero to One. Tison sources its talent from DirectEd Development, an elite academy for top 0.1% African tech prodigy that has collaborations with companies like Lovable, Neo4j & Canva. tison.io Check out our other NYC founder events this week: Bootstrapped & Solo Founders Afterwork (Fri, Sep 11) For founders building with small teams, limited capital, & a focus on customers & revenue. https://luma.com/uuprbwf6 Curious About Starting a Startup? (Sat, Sep 12) Talk through your idea with founders who have already taken the first steps. https://luma.com/6uy57p58 Co-Founder Speed Dating Picnic (Sun, Sep 13) Meet potential co-founders, founding hires, & early-stage collaborators. https://luma.com/1gx7o99r Marketplace Founders Afterwork (Mon, Sep 14) A peer exchange about liquidity, take rates, supply, demand, & marketplace growth. https://luma.com/hb1r9l8m Seed-to-Series-A Growth Hacking Exchange (Tue, Sep 15) Swap real growth experiments, results, costs, & lessons with founders & operators. https://luma.com/t5yhhipc Women Founders Social (Wed, Sep 16) Close the week with women founders, investors, operators, & allies in the East Village. https://luma.com/wxew0x7y Apply to join Yorkseed NYC Chapter | NYC style The right rooms. The right people. The right tools - for every step of the journey, including the ones you have not thought about yet. All attendees are encouraged to join Yorkseed Connect this week to access Connection Intelligence & better understand who you're meeting. 2 months complimentary Yorkseed Connect Membership https://app.yorkseed.co/eventoffer Stay updated with Yorkseed latest news https://pulse.yorkseed.co/ We look forward to seeing you there."
     },
+    "gary_2026_09_15_claude_for_private_equity_venture_capital": {
+      "title": "Claude For Private Equity & Venture Capital",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-09-15",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Tue, 09/15 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/dyoq3o1/Claude-For-Private-Equity-Venture-Capital",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Join a Claude Community Event, organized by local enthusiasts for everyone who loves building with Claude! Claude for Private Equity & VC - an industry-specific workshop. About Our Host Antler works with early founders in-person & backs them as first believers. That's how we find conviction at inception, when it's hardest to see & most valuable to back."
+    },
     "gary_2026_09_15_ai_founders_mixer": {
       "title": "AI Founders Mixer",
       "type": "tech",
@@ -1062,6 +1096,23 @@
       "link": "https://www.garysguide.com/events/u038q1m/NYC-VC-PE-Happy-Hour",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Welcome to the NYC VC & PE Happy Hour. We're uniting tech investors in New York City for collaborations & deal-making. What is this? Join us & a group of investors across both private & public markets for an evening of conversations & connections. Where is it? We're at a relaxed indoor venue in Midtown. Who's coming? Our typical attendee profile is a mix of private & public investors across PE, IB, & VC, including General Partners, Managing Directors, Operating Partners, Venture Partners, Venture Scouts, & Limited Partners, but all investors are welcome too. Whether you're looking to fundraise, deploy capital, or share dealflow, you'll be in a collaborative community. About the hosts & sponsors: David Yakobovitch is 5X startup operator, community builder & VC (Currently: DataPower & Tech Power Network). He is active in NYC's & Silicon Valley's tech communities, having hosted 180+ community mixers & brand activations since 2020. Photography & Filming Please note, this event may be photographed & filmed. Tech Power Network reserves the right to use photographs & video from the event for marketing & communications purposes. By attending the event you consent to your image being used for these purposes."
+    },
+    "gary_2026_09_15_3percentclub_ai_architects_launch_community_mixer": {
+      "title": "3percentclub AI Architects Launch & Community Mixer",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-09-15",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 09/15 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/nbmr3ns/3percentclub-AI-Architects-Launch-Community-Mixer",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: The 3percentclub AI Architects Fellowship is here & we're celebrating with a NYC community mixer! Join us Tuesday, September 15th from 6:00 to 9:00 PM for an evening of food, drinks, conversation, & the official launch of our Fall Fellowship cohort. We're bringing together NYC's developers, founders, educators, & civic leaders not just to exchange business cards, but to build real connections. As the industry rushes toward automation, we're gathering to center what matters most: the human in the loop. Keynote: Human Centered AI & Stewards of the Loop Our keynote addresses what it means to keep humanity, ethics, & emotion at the core of technological progress. With New York City introducing new AI literacy requirements in high schools, we'll explore what responsible stewardship of both emerging tools & local communities looks like in practice. Expect an interactive session built for genuine dialogue & shared perspective, not a lecture. Instant Cohort Access (Auto-Accepted!) We believe in lowering the barrier to real technical education. If you submit your fellowship application, you are automatically accepted into the Fall cohort! Whether you want to master deep technical AI architectures or learn how to automate real workflows with AI tools, there is a seat for you: Builders Track: For technical builders diving into MCPs, Claude skills, open models, & system architecture. Citizens Track: For operators, designers, founders, & newcomers looking for applied, practical AI skills & Claude workflow automations. The Grand Finale: Both tracks team up for a 48-hour NYC Civic Hackathon & a public Demo Night! Lock in your spot immediately: Submit Your Fellowship Application Here(Auto-Accepted!) The Evening Breakdown 6:00 PM - 6:45 PM: Drinks, bites, & open community networking 7:00 PM - 8:00PM: Keynote + audience Q&A 8:00 PM - 9:00 PM: Music, community mixer, & on-site sign-ups Space is limited-RSVP to reserve your spot! The exact venue address in NYC will be emailed to registered attendees prior to the event."
     },
     "gary_2026_09_15_build_w_ai_meetup": {
       "title": "Build w/ AI Meetup",
@@ -1164,57 +1215,6 @@
       "link": "https://www.garysguide.com/events/dygmetn/NEXT100",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Shilpi Nayak (Founder, House of 434), Moshe Neuman (Investor)."
-    },
-    "gary_2026_09_16_venture_university": {
-      "title": "Venture University",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 09/16 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 66 E 55th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/d5zky5q/Venture-University",
-      "map": "https://maps.google.com/?q=Venue%2C%2066%20E%2055th%20St",
-      "summary": "Gary's Guide: With Base44, Boardy & Venture Univ.."
-    },
-    "gary_2026_09_16_startup_mixer": {
-      "title": "Startup Mixer",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 09/16 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "A to Z Rooftop on Fifth, 16 E 39th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/t36vea7/Startup-Mixer",
-      "map": "https://maps.google.com/?q=A%20to%20Z%20Rooftop%20on%20Fifth%2C%2016%20E%2039th%20St",
-      "summary": "Gary's Guide: New York Startup Networking Event. Meet Founders, Investors, & Talent - Build or Scale Your Startup Startup Networking Event in New York for founders, investors, & tech talent. Join a high-signal startup networking event in New York where founders, investors, & talent connect to build & scale startups.Meet the right people, unlock real opportunities, & grow within the New York startup ecosystem. Why This Event Is Different Most networking events end with exchanged LinkedIn profiles. This one focuses on real conversations & real opportunities. We bring together founders, investors, engineers, operators & talent in a curated environment designed to create meaningful connections. Through interactive networking rounds, open conversations & pitch opportunities, participants can share challenges, exchange insights & build relationships that last beyond the event. What to Expect Startup Networking in New York Structured networking rounds where founders, investors, & talent connect, share challenges, & explore opportunities. Talent & Hiring Connections Meet engineers, operators, & professionals in the New York startup ecosystem. Startup & Investor Conversations Discussions around fundraising, product development, & scaling startups. Want to Pitch? A limited number of founders will have the opportunity to present their startup. Selected founders will showcase their pitch deck to the audience & attending investors, followed by a short Q&A where participants can ask questions & share feedback. Apply by sending your pitch Spots are limited & founders will be selected in advance. Who Should Attend Startup founders in New York VC & angels investors Engineers & builders Operators & product managers Recruiters & HR professionals Sales & business development professionals Job seekers interested in startups Newcomers to the New York tech ecosystem For Investors We invite local investors, angels & venture capitalists to join the event. Investor participation is complimentary. After verification, investors receive access to the Ascent Valley ecosystem, including: curated startup introductions access to our startup digest access to our platform & founder community Interested investors can request verification"
-    },
-    "gary_2026_09_16_seed_series_a_founder_roundtable_building_teams_that": {
-      "title": "Seed-Series A Founder Roundtable - Building Teams That Scale",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Wed, 09/16 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/8p1gfrw/Seed-Series-A-Founder-Roundtable-Building-Teams-That-Scale",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Genevieve Herron (Founder, Pinnacle Path)."
     },
     "nyu_tandon_2026_09_10_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1640,6 +1640,23 @@
       "link": "https://jerseycityculture.org/event/water-color-painting-workshop-with-leo/",
       "map": "https://maps.google.com/?q=Camp%20Liberty%2C%20300%20Morris%20Pesin%20Drive%2C%20Jersey%20City%2C%20NJ",
       "summary": "Explore the beautiful art of watercolor at Camp Liberty. Join Artist Leo Emabat for a FREE 6-week program filled with painting projects for ages 9-12. Program will run every Tuesday from Sept. 15- October 20; 3:45PM-5:00PM. Space is limited! Scan QR Code to register and secure your spot."
+    },
+    "jc_culture_43804_2026_09_15_play_reading_series_clue": {
+      "title": "Play Reading Series – Clue",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Tue",
+      "date": "2026-09-15",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Tue, 09/15 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Camp Liberty, 300 Morris Pesin Drive, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/play-reading-series-clue/",
+      "map": "https://maps.google.com/?q=Camp%20Liberty%2C%20300%20Morris%20Pesin%20Drive%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us for a FREE script-in-hand reading of CLUE at Camp Liberty on Tuesday, September 15 from 5:30PM-8:30PM. NO ACTING EXPERIENCE is required. Email david@educationalartsteam.org to RSVP and secure your spot. Light refreshments will be served, and free parking onsite. This free event is in partnership with Speranza Theater Group."
     },
     "jc_culture_10003568_2026_09_16_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -2099,23 +2116,6 @@
       "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-03/2/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
-    },
-    "jc_culture_43718_2026_10_04_cat_stick_easel_moon_exhibit_2026_jcast_weekend": {
-      "title": "Cat, Stick, Easel, Moon Exhibit 2026 JCAST WEEKEND",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-10-04",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 10/04 · 12pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-2026-jcast-weekend-2/",
-      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
     }
   },
   "clusters": {
@@ -2161,23 +2161,24 @@
     ],
     "cluster_2026_09_15_5_pm": [
       "gary_2026_09_15_right_sizing_gen_ai_cost_performance_optimization",
-      "gary_2026_09_15_seed_to_series_a_growth_hacking_afterwork"
+      "gary_2026_09_15_seed_to_series_a_growth_hacking_afterwork",
+      "gary_2026_09_15_claude_for_private_equity_venture_capital"
     ],
     "cluster_2026_09_15_5_30_pm": [
       "gary_2026_09_15_ai_founders_mixer",
-      "gary_2026_09_15_startup_pitch_night_1k_cash_drop_ai_optional"
+      "gary_2026_09_15_startup_pitch_night_1k_cash_drop_ai_optional",
+      "jc_culture_43804_2026_09_15_play_reading_series_clue"
     ],
     "cluster_2026_09_15_6_pm": [
       "gary_2026_09_15_dinner_navigating_international_business",
       "gary_2026_09_15_tech_x_market_decoders",
-      "gary_2026_09_15_nyc_vc_pe_happy_hour"
+      "gary_2026_09_15_nyc_vc_pe_happy_hour",
+      "gary_2026_09_15_3percentclub_ai_architects_launch_community_mixer"
     ],
     "cluster_2026_09_16_6_pm": [
       "gary_2026_09_16_from_concept_to_conviction_ai_in_the_designer_s_tool",
       "gary_2026_09_16_postgres_tuning_in_age_of_ai_context_is_everything",
-      "gary_2026_09_16_next100",
-      "gary_2026_09_16_venture_university",
-      "gary_2026_09_16_startup_mixer"
+      "gary_2026_09_16_next100"
     ],
     "cluster_2026_09_12_12_pm": [
       "jc_culture_42953_2026_09_12_bergen_square_day_2026",
