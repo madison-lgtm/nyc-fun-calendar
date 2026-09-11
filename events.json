@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 11, 2026, 10:43 AM EDT",
+    "checked": "Sep 11, 2026, 5:51 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -261,8 +261,7 @@
       "6 PM",
       "6:30 PM",
       "7 PM",
-      "7:30 PM",
-      "10 PM"
+      "7:30 PM"
     ]
   },
   "events": {
@@ -878,23 +877,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Kellie Romack (Chief Digital Information Officer, ServiceNow), Marina Bellini (President, Mars), Kristin Myers (CDO, Northwell Health), Deepa Soni (CIO, New York Life), Tilak Mandadi (Chief Experience Officer, CVS Health), Joon Sung Park (Founder/CEO, Simile)."
     },
-    "gary_2026_09_14_marketplace_founders_afterwork": {
-      "title": "Marketplace Founders Afterwork",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-14",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Mon, 09/14 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "all & sundry, 312 W 58th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/v4ra3jy/Marketplace-Founders-Afterwork",
-      "map": "https://maps.google.com/?q=all%20%26%20sundry%2C%20312%20W%2058th%20St",
-      "summary": "Gary's Guide: Running a marketplace startup? Yorkseed & Tison.io are hosting a peer exchange for people building two-sided businesses. Liquidity, take rate, which side to subsidise, why the supply side keeps churning. Come when you get off work. Happy hour at all & sundry runs to 7pm. WHAT TO EXPECT Drop in any time between 5:00pm & 7:30pm A bar & bistro by Columbus Circle. Happy hour until 7pm Founders who have solved the cold start problem, & some who are still in it Real connections WHO THIS IS FOR Marketplace & platform founders at any stage Growth & ops people working on supply or demand Investors who back marketplaces Anyone about to launch one & wondering which side to build first ABOUT THE HOSTS Yorkseed is a curated, application-reviewed network of startup founders raising capital & investors actively deploying it. Yorkseed Connect, our deal platform, handles discovery, diligence, & introductions in one place, across 50+ city hubs worldwide. yorkseed.co Tison.io is a mission-driven boutique software & GTM engineering agency working exclusively with bootstrapped & pre-seed founders on the journey from Zero to One. Tison sources its talent from DirectEd Development, an elite academy for top 0.1% African tech prodigy that has collaborations with companies like Lovable, Neo4j & Canva. tison.io Check out our other NYC founder events this week: Bootstrapped & Solo Founders Afterwork (Fri, Sep 11) For founders building with small teams, limited capital, & a focus on customers & revenue. https://luma.com/uuprbwf6 Curious About Starting a Startup? (Sat, Sep 12) Talk through your idea with founders who have already taken the first steps. https://luma.com/6uy57p58 Co-Founder Speed Dating Picnic (Sun, Sep 13) Meet potential co-founders, founding hires, & early-stage collaborators. https://luma.com/1gx7o99r Marketplace Founders Afterwork (Mon, Sep 14) A peer exchange about liquidity, take rates, supply, demand, & marketplace growth. https://luma.com/hb1r9l8m Seed-to-Series-A Growth Hacking Exchange (Tue, Sep 15) Swap real growth experiments, results, costs, & lessons with founders & operators. https://luma.com/t5yhhipc Women Founders Social (Wed, Sep 16) Close the week with women founders, investors, operators, & allies in the East Village. https://luma.com/wxew0x7y Apply to join Yorkseed NYC Chapter | NYC style The right rooms. The right people. The right tools - for every step of the journey, including the ones you have not thought about yet. All attendees are encouraged to join Yorkseed Connect this week to access Connection Intelligence & better understand who you're meeting. 2 months complimentary Yorkseed Connect Membership https://app.yorkseed.co/eventoffer Stay updated with Yorkseed latest news https://pulse.yorkseed.co/ We look forward to seeing you there."
-    },
     "gary_2026_09_14_an_evening_w_hot_smart_rich_forbes": {
       "title": "An Evening w/ Hot Smart Rich & Forbes",
       "type": "startup",
@@ -1252,23 +1234,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Shilpi Nayak (Founder, House of 434), Moshe Neuman (Investor)."
     },
-    "gary_2026_09_16_venture_university": {
-      "title": "Venture University",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 09/16 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 66 E 55th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/d5zky5q/Venture-University",
-      "map": "https://maps.google.com/?q=Venue%2C%2066%20E%2055th%20St",
-      "summary": "Gary's Guide: With Base44, Boardy & Venture Univ.."
-    },
     "gary_2026_09_16_startup_mixer": {
       "title": "Startup Mixer",
       "type": "startup",
@@ -1473,22 +1438,39 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: NachoNacho - The B2B SaaS & AI + Services Marketplace will host this exclusive SaaStr San Francisco SaaS & AI Founder + Investor rooftop happy hour event. This event will include sponsored drinks & appetizers. This networking event will be exclusively for SaaS/AI: Founders (minimum Seed funded & later) C-Suites Investors/VCs Tech media Your application will be carefully screened. No +1s allowed. Only approved guests will be allowed onto the premises. We regularly host Founder + VC events in NYC, SF, LA, & Austin with an amazing turnout of hundreds of participating investors & Founders. You can see photos from our previous events here to get an idea. We want everyone to have genuine conversations & build real connections here where founders can share their vision, investors can find the next great startup investment opportunity, & media members can get an inside track of the latest deals & tech trends. This is part of our NachoTuesday series, which includes in-person events as well as online thought leadership C-Suite interviews (https://nachonacho.com/nachotuesday)."
     },
-    "luma_2026_09_14_junto_founder_dinner_hosted_by_andrew_friends": {
-      "title": "Junto Founder Dinner (Hosted by Andrew & Friends)",
+    "gary_2026_09_17_the_startup_pitch_demo_showcase_by_startup_grind": {
+      "title": "The Startup Pitch - Demo Showcase By Startup Grind",
       "type": "startup",
       "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-14",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Mon, 09/14 · 10pm",
+      "day": "Thu",
+      "date": "2026-09-17",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Thu, 09/17 · 5:30pm",
+      "price": "$5",
+      "free": false,
+      "place": "The Yard: Herald Sq, 106 W 32nd St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/vy6b3vd/The-Startup-Pitch-Demo-Showcase-By-Startup-Grind",
+      "map": "https://maps.google.com/?q=The%20Yard%3A%20Herald%20Sq%2C%20106%20W%2032nd%20St",
+      "summary": "Gary's Guide: See the newest companies coming out of the NYC startup ecosystem. Provide peer feedback & network with ambitious founders at The Startup Pitch: Demo Showcase. It's time to go beyond the deck & see the best live tech from New York's emerging startups. Welcome to a pitch event with a twist. We skip the fluff & focus on what matters: a live look at real products. This pitch & demo showcase gives you a first look at new technology from startups that are actively building & shipping product - sometimes even before VCs have seen them! The format is fast-paced & interactive. After each demo, the floor is open for questions, ideas, & honest feedback from the community. We welcome investors who want an unfiltered look at new technology & early-stage teams. Date: Thursday, September 17th Time: 5:30 PM - 7:30 PM Venue: The Yard: Herald Square Tickets: Only $5 (includes happy hour drinks) Founders: Sign up here to apply to pitch at an upcoming event WHO SHOULD ATTEND Startups ready to demo a real product & get honest feedback Engineers, PMs, & designers who love seeing new tech in action Investors looking for a ground-floor, early look at local startups Anyone in the NYC tech scene who wants to connect with & support the people building things AGENDA 5:30 PM: Doors Open & Networking 6:00 PM: Startup Pitches & Demos with Audience Q&A 7:00 PM: Meet the Presenting Startups This is not a competition -- it's an opportunity for founders to showcase their projects, exchange insights, & receive constructive feedback from founder peers. PITCH FORMAT Pitch & Demo - 6 minutes Audience Q&A - 4 minutes Pitch deck AND product demo are required"
+    },
+    "gary_2026_09_17_padel_w_founders": {
+      "title": "Padel w/ Founders",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-09-17",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 09/17 · 6:00pm",
       "price": "Free",
       "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/juntodinnersep14",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung"
+      "place": "Mink Padel, 439 W 127th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/e8d6am0/Padel-w-Founders",
+      "map": "https://maps.google.com/?q=Mink%20Padel%2C%20439%20W%20127th%20St",
+      "summary": "Gary's Guide: Oceans Talent & Mink Padel invite you to eat, drink, learn & PLAY PADEL . Join us for an evening with fellow founders & learn how to leverage global talent to scale operations & build brands. What to expect: Break a sweat: pick up a racket & join a padel game (beginners & advanced players welcome!) Eat: delicious bites from our favorite local Vietnamese spot Hydrate: seltzers, beers, refreshers! Network: meet fellow founders across CPG, tech, law & creative media Learn: how your peers are solving problems & scaling operations Most importantly, come to have fun! This is a private event. RSVP is required. Please contact marietta@oceanstalent.com for more information."
     },
     "nyu_tandon_2026_09_11_the_advancing_prediction_frontier_for_chemistry_and_": {
       "title": "The Advancing Prediction Frontier for Chemistry and Materials",
@@ -2467,7 +2449,6 @@
       "gary_2026_09_16_from_concept_to_conviction_ai_in_the_designer_s_tool",
       "gary_2026_09_16_postgres_tuning_in_age_of_ai_context_is_everything",
       "gary_2026_09_16_next100",
-      "gary_2026_09_16_venture_university",
       "gary_2026_09_16_startup_mixer"
     ],
     "cluster_2026_09_16_6_30_pm": [
