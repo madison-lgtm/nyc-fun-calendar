@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Sep 11, 2026, 5:51 PM EDT",
+    "checked": "Sep 12, 2026, 9:48 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-09-11",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Sep 11"
-      },
       {
         "iso": "2026-09-12",
         "key": "Sat",
@@ -45,15 +39,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Sep 17"
+      },
+      {
+        "iso": "2026-09-18",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Sep 18"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-09-11",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Sep 11"
-      },
       {
         "iso": "2026-09-12",
         "key": "Sat",
@@ -233,19 +227,23 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 11"
+      },
+      {
+        "iso": "2026-10-12",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Oct 12"
       }
     ],
-    "todayKey": "Fri",
+    "todayKey": "Sat",
     "times": [
       "12 AM",
       "7 AM",
       "8 AM",
-      "8:30 AM",
       "9 AM",
       "9:30 AM",
       "10 AM",
       "10:30 AM",
-      "10:45 AM",
       "11 AM",
       "11:30 AM",
       "12 PM",
@@ -261,7 +259,8 @@
       "6 PM",
       "6:30 PM",
       "7 PM",
-      "7:30 PM"
+      "7:30 PM",
+      "10 PM"
     ]
   },
   "events": {
@@ -1472,22 +1471,39 @@
       "map": "https://maps.google.com/?q=Mink%20Padel%2C%20439%20W%20127th%20St",
       "summary": "Gary's Guide: Oceans Talent & Mink Padel invite you to eat, drink, learn & PLAY PADEL . Join us for an evening with fellow founders & learn how to leverage global talent to scale operations & build brands. What to expect: Break a sweat: pick up a racket & join a padel game (beginners & advanced players welcome!) Eat: delicious bites from our favorite local Vietnamese spot Hydrate: seltzers, beers, refreshers! Network: meet fellow founders across CPG, tech, law & creative media Learn: how your peers are solving problems & scaling operations Most importantly, come to have fun! This is a private event. RSVP is required. Please contact marietta@oceanstalent.com for more information."
     },
-    "nyu_tandon_2026_09_11_the_advancing_prediction_frontier_for_chemistry_and_": {
-      "title": "The Advancing Prediction Frontier for Chemistry and Materials",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Fri",
-      "date": "2026-09-11",
-      "time": "10:45 AM",
-      "sort": 10.75,
-      "when": "Fri, 09/11 · 10:45 AM",
-      "price": "Free / varies",
+    "luma_2026_09_14_junto_founder_dinner_hosted_by_andrew_friends": {
+      "title": "Junto Founder Dinner (Hosted by Andrew & Friends)",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-09-14",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Mon, 09/14 · 10pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/09/11/advancing-prediction-frontier-chemistry-and-materials",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/juntodinnersep14",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung"
+    },
+    "luma_2026_09_14_nyc_b2b_ai_founders_investors_meetup": {
+      "title": "NYC B2B: AI Founders & Investors Meetup",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Mon",
+      "date": "2026-09-14",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Mon, 09/14 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/coos76ur",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: NYC B2B: Startup Events, NYC B2B, Lauren Houpt, Ignition Benefits"
     },
     "nyu_tandon_2026_09_14_using_biomechanical_principles_to_engineer_the_next_": {
       "title": "Using Biomechanical Principles to Engineer the Next Generation of Immunotherapies",
@@ -1608,141 +1624,22 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
-    "jc_culture_43650_2026_09_11_fall_2026_exhibition_highlighting_hudson_s_finest": {
-      "title": "Fall 2026 Exhibition Highlighting Hudson’s Finest",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-09-11",
-      "time": "12 AM",
-      "sort": 0,
-      "when": "Fri, 09/11 · 12am",
+    "nyu_tandon_2026_09_23_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
+      "type": "tech",
+      "label": "Workshop / Training",
+      "day": "Wed",
+      "date": "2026-09-23",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Wed, 09/23 · 11:00 AM",
       "price": "Free / varies",
       "free": true,
-      "place": "BENJAMIN J. DINEEN III & DENNIS C. HULL GALLERY, 71 SIP AVE., JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/fall-2026-exhibition-highlighting-hudsons-finest/",
-      "map": "https://maps.google.com/?q=BENJAMIN%20J.%20DINEEN%20III%20%26%20DENNIS%20C.%20HULL%20GALLERY%2C%2071%20SIP%20AVE.%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_42984_2026_09_11_9_11_memorial_ceremony_25th_anniversary_2026": {
-      "title": "9/11 Memorial Ceremony 25th Anniversary 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-09-11",
-      "time": "8:30 AM",
-      "sort": 8.5,
-      "when": "Fri, 09/11 · 8:30am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "HUDSON RIVER WATER FRONT 9-11 MEMORIAL, GRAND STREET, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/9-11-memorial-ceremony-25th-anniversary-2026/",
-      "map": "https://maps.google.com/?q=HUDSON%20RIVER%20WATER%20FRONT%209-11%20MEMORIAL%2C%20GRAND%20STREET%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: community events."
-    },
-    "jc_culture_43661_2026_09_11_hudson_county_community_college_film_club_presents_9": {
-      "title": "Hudson County Community College Film Club Presents 9/11 Reclaiming Ground Zero",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-09-11",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 09/11 · 10am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "GABERT LIBRARY ATRIUM, 71 SIP AVE, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hudson-county-community-college-film-club-presents-9-11-reclaiming-ground-zero/",
-      "map": "https://maps.google.com/?q=GABERT%20LIBRARY%20ATRIUM%2C%2071%20SIP%20AVE%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Film Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_43654_2026_09_11_9_11_memorial_2026": {
-      "title": "9/11 Memorial 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-09-11",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Fri, 09/11 · 2pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "GABERT LIBRARY ATRIUM, 71 SIP AVE, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/9-11-memorial-2026/",
-      "map": "https://maps.google.com/?q=GABERT%20LIBRARY%20ATRIUM%2C%2071%20SIP%20AVE%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
-    },
-    "jc_culture_10004817_2026_09_11_the_society_of_american_graphic_artists_saga_91st_an": {
-      "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-09-11",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Fri, 09/11 · 3pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "MANA CONTEMPORARY, 888 NEWARK AVE., JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-11/",
-      "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
-      "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
-    },
-    "jc_culture_43497_2026_09_11_creation_from_destruction_art_exhibition_2026": {
-      "title": "Creation from Destruction Art Exhibition 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-09-11",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 09/11 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/creation-from-destruction-art-exhibition-2026/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "&nbsp; &nbsp; &nbsp; &nbsp;"
-    },
-    "jc_culture_43562_2026_09_11_i_know_what_you_did_that_summer_2026": {
-      "title": "I Know What You Did That Summer 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-09-11",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Fri, 09/11 · 6:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/i-know-what-you-did-that-summer-2026/",
-      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_43667_2026_09_11_the_u_s_army_band_concert_2026": {
-      "title": "The U.S. Army Band Concert 2026",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-09-11",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Fri, 09/11 · 7pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "J. Owen Grundy Pier, Hudson Street, Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/the-u-s-army-band-concert-2026/",
-      "map": "https://maps.google.com/?q=J.%20Owen%20Grundy%20Pier%2C%20Hudson%20Street%2C%20Jersey%20City",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community History Outdoor What's Coming Up?."
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/23/instructional-tech-drop-sessions",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Workshop / Training"
     },
     "jc_culture_43744_2026_09_12_city_challenge_obstacle_race_2026": {
       "title": "City Challenge Obstacle Race 2026",
@@ -2372,6 +2269,125 @@
       "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-2026-jcast-weekend-2/",
       "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
+    },
+    "jc_culture_10004836_2026_10_04_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sun",
+      "date": "2026-10-04",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sun, 10/04 · 2pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-04/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10003571_2026_10_07_hamilton_park_farmers_market_2026": {
+      "title": "Hamilton Park Farmers Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-10-07",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 10/07 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-10-07/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_10004837_2026_10_08_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "7:30 PM",
+      "sort": 19.5,
+      "when": "Thu, 10/08 · 7:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-08/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10004838_2026_10_09_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-10-09",
+      "time": "7:30 PM",
+      "sort": 19.5,
+      "when": "Fri, 10/09 · 7:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-09/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10004839_2026_10_10_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sat",
+      "date": "2026-10-10",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sat, 10/10 · 2pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-10/1/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10004840_2026_10_10_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sat",
+      "date": "2026-10-10",
+      "time": "7:30 PM",
+      "sort": 19.5,
+      "when": "Sat, 10/10 · 7:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-10/2/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10004841_2026_10_11_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sun",
+      "date": "2026-10-11",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sun, 10/11 · 2pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-11/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
     }
   },
   "clusters": {
@@ -2386,8 +2402,7 @@
     ],
     "cluster_2026_09_11_10_am": [
       "skint_90937_0_100th_hoboken_italian_festival_feast_of_the_madonna_",
-      "gary_2026_09_11_ai_briefing_by_startup_grind_workforce_gap_in_ai_rea",
-      "jc_culture_43661_2026_09_11_hudson_county_community_college_film_club_presents_9"
+      "gary_2026_09_11_ai_briefing_by_startup_grind_workforce_gap_in_ai_rea"
     ],
     "cluster_2026_09_12_12_pm": [
       "skint_90937_1_antrhos_an_anthropomorphic_arts_exhibition_and_marke",
@@ -2462,6 +2477,10 @@
     "cluster_2026_09_17_3_pm": [
       "gary_2026_09_17_venture_at_work_nyc_2026",
       "gary_2026_09_17_nyc_gtm_x_ai_meetup"
+    ],
+    "cluster_2026_09_14_10_pm": [
+      "luma_2026_09_14_junto_founder_dinner_hosted_by_andrew_friends",
+      "luma_2026_09_14_nyc_b2b_ai_founders_investors_meetup"
     ],
     "cluster_2026_09_19_3_pm": [
       "jc_culture_10004821_2026_09_19_the_society_of_american_graphic_artists_saga_91st_an",
