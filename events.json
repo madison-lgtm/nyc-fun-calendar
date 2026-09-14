@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 14, 2026, 12:42 PM EDT",
+    "checked": "Sep 14, 2026, 6:40 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -260,6 +260,7 @@
       "6:30 PM",
       "7 PM",
       "7:30 PM",
+      "9 PM",
       "10 PM"
     ]
   },
@@ -1352,6 +1353,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: A full day of heads-down work at No More, with other people who are actually building things. No talks. No panels. No pitch round. Just a good room, good coffee, & everyone finally getting through the thing they have been putting off all month. Why this space works No More is genuinely built for working, which is rarer in this city than it should be. Outlets everywhere, so nobody is rationing battery by 2 PM Fast wifi that holds up with a room full of laptops Music stays low, so you can take a call without walking outside Long communal tables & a full counter, room to actually spread out Coffee & snacks all day without leaving your seat Who it is for Founders, researchers, designers, creatives, engineers, writers, & anyone with a side project they keep meaning to ship. If you build things, you belong here. How the day runs 9:00 AM, doors open, coffee & quick introductions 9:30 AM to 5:00 PM, open work, break whenever you need to 5:00 PM, mocktails, & we find out what everyone actually got done Food & coffee Nothing structured. The cafe has coffee & snacks all day, & the East Village is full of options if you want a proper meal. The company Honestly the main reason to come. A room where everyone is working on something they care about changes how your own day goes. Quiet focus while the work is happening, real conversation over mocktails at the end. Come for the whole day or drop in for a few hours. Both are fine. Bring your laptop, your headphones, & real work. Space is limited, so please only register if you actually plan to show up. Hosted by Ishaan from TechBrig."
     },
+    "luma_2026_09_14_runtime_agent_week_opening_night": {
+      "title": "Runtime Agent Week: Opening Night",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Mon",
+      "date": "2026-09-14",
+      "time": "9 PM",
+      "sort": 21,
+      "when": "Mon, 09/14 · 9pm",
+      "price": "Free",
+      "free": true,
+      "place": "Brooklyn, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/agentweekopen",
+      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
+      "summary": "Luma NYC: Runtime Agent Week, David, Bobby Thakkar"
+    },
     "luma_2026_09_14_junto_founder_dinner_hosted_by_andrew_friends": {
       "title": "Junto Founder Dinner (Hosted by Andrew & Friends)",
       "type": "startup",
@@ -1386,6 +1404,23 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: NYC B2B: Startup Events, NYC B2B, Lauren Houpt, Ignition Benefits"
     },
+    "luma_2026_09_16_williamsburg_run_founders_creators_coffee": {
+      "title": "Williamsburg Run: Founders, Creators & Coffee",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-09-16",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Wed, 09/16 · 11am",
+      "price": "Free",
+      "free": true,
+      "place": "Padel Haus Williamsburg",
+      "source": "Luma NYC",
+      "link": "https://luma.com/5s6ppztf",
+      "map": "https://maps.google.com/?q=Padel%20Haus%20Williamsburg%20NYC",
+      "summary": "Luma NYC: Founders Common, Jonathan Bensimon, Damian Tenuta"
+    },
     "luma_2026_09_16_claude_code_workshop_with_provectus_new_york_city": {
       "title": "Claude Code Workshop with Provectus - New York City",
       "type": "tech",
@@ -1419,23 +1454,6 @@
       "link": "https://luma.com/3vq1wyra",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Coffee & Career Transitions NYC, Erica Hanson, Meredith Tibbals"
-    },
-    "luma_2026_09_17_frontier_build_nyc_build_your_autonomous_code_factor": {
-      "title": "Frontier Build NYC: Build your Autonomous Code Factory",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-09-17",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Thu, 09/17 · 2pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/frontierNYC",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Obvious Community Events, Obvious, Jon Bell, David Boskovic"
     },
     "nyu_tandon_2026_09_14_using_biomechanical_principles_to_engineer_the_next_": {
       "title": "Using Biomechanical Principles to Engineer the Next Generation of Immunotherapies",
@@ -2305,10 +2323,6 @@
       "gary_2026_09_16_founders_operators_investors_mocktails_legal_ama",
       "gary_2026_09_16_build_w_stripe_community_ship_an_ai_app_in_90_minute"
     ],
-    "cluster_2026_09_17_2_pm": [
-      "gary_2026_09_17_ai_native_accelerator_demo_day",
-      "luma_2026_09_17_frontier_build_nyc_build_your_autonomous_code_factor"
-    ],
     "cluster_2026_09_17_3_pm": [
       "gary_2026_09_17_venture_at_work",
       "gary_2026_09_17_gtm_x_ai_meetup"
@@ -2325,6 +2339,10 @@
     "cluster_2026_09_14_10_pm": [
       "luma_2026_09_14_junto_founder_dinner_hosted_by_andrew_friends",
       "luma_2026_09_14_nyc_b2b_ai_founders_investors_meetup"
+    ],
+    "cluster_2026_09_16_11_am": [
+      "luma_2026_09_16_williamsburg_run_founders_creators_coffee",
+      "nyu_tandon_2026_09_16_instructional_tech_drop_in_sessions"
     ],
     "cluster_2026_09_16_5_pm": [
       "luma_2026_09_16_claude_code_workshop_with_provectus_new_york_city",
