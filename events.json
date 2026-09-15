@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Sep 14, 2026, 6:40 PM EDT",
+    "checked": "Sep 15, 2026, 11:20 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-09-14",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Sep 14"
-      },
       {
         "iso": "2026-09-15",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Sep 20"
+      },
+      {
+        "iso": "2026-09-21",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Sep 21"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-09-14",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Sep 14"
-      },
       {
         "iso": "2026-09-15",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 14"
+      },
+      {
+        "iso": "2026-10-15",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Oct 15"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "12 AM",
       "7 AM",
@@ -247,7 +247,6 @@
       "11:30 AM",
       "12 PM",
       "12:30 PM",
-      "1 PM",
       "1:30 PM",
       "2 PM",
       "2:30 PM",
@@ -260,8 +259,7 @@
       "6:30 PM",
       "7 PM",
       "7:30 PM",
-      "9 PM",
-      "10 PM"
+      "9:30 PM"
     ]
   },
   "events": {
@@ -452,126 +450,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_90937_0_philippines_fest_x_korea_fest_kopino_new_york": {
-      "title": "philippines fest x korea fest: kopino new york",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-13",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 09/13 · 10am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "6th ave between 31st + 32nd streets, manhattan",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/philippinesfest/",
-      "map": "https://maps.google.com/?q=6th%20ave%20between%2031st%20%2B%2032nd%20streets%2C%20manhattan%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm: philippines fest x korea fest: kopino new york: 6th ave between 31st + 32nd streets, manhattan."
-    },
-    "skint_90937_1_repair_caf_fair_symposium": {
-      "title": "repair café: fair + symposium",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-13",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 09/13 · 11am-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "el barrio’s artspace ps109 (east harlem)",
-      "source": "The Skint",
-      "link": "https://partiful.com/e/qboF51Fddb599cYVfkQF",
-      "map": "https://maps.google.com/?q=el%20barrio%E2%80%99s%20artspace%20ps109%20(east%20harlem)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-5pm: repair café: fair + symposium: el barrio’s artspace ps109 (east harlem)."
-    },
-    "skint_90937_2_students_for_a_free_tibet_s_14th_annual_momo_crawl": {
-      "title": "students for a free tibet’s 14th annual momo crawl",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-13",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 09/13 · 12-5pm",
-      "price": "Free",
-      "free": true,
-      "place": "diversity plaza (jackson heights)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/momocrawl/",
-      "map": "https://maps.google.com/?q=diversity%20plaza%20(jackson%20heights)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-5pm: students for a free tibet’s 14th annual momo crawl: diversity plaza (jackson heights). $15 ‘passport’ gets you access to $1 momos at the participating restaurants."
-    },
-    "skint_90937_3_29th_annual_ferragosto_festival": {
-      "title": "29th annual ferragosto festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-13",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 09/13 · 12-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "arthur avenue between east 187th st + crescent ave (bronx)",
-      "source": "The Skint",
-      "link": "https://ferragosto.com",
-      "map": "https://maps.google.com/?q=arthur%20avenue%20between%20east%20187th%20st%20%2B%20crescent%20ave%20(bronx)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: 29th annual ferragosto festival: arthur avenue between east 187th st + crescent ave (bronx)"
-    },
-    "skint_90937_4_tiny_arts_makers_market": {
-      "title": "tiny arts makers market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-13",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 09/13 · 12-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "gottscheer hall (ridgewood)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/tinyartssupply/p/DdCRGivoaNn/",
-      "map": "https://maps.google.com/?q=gottscheer%20hall%20(ridgewood)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: tiny arts makers market: gottscheer hall (ridgewood)."
-    },
-    "skint_90937_5_still_split_n_lanes_a_classic_motorcycle_show": {
-      "title": "still split’n lanes: a classic motorcycle show",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-13",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 09/13 · 12-6pm",
-      "price": "$15 admission",
-      "free": false,
-      "place": "brooklyn bowl (williamsburg), $15 admission",
-      "source": "The Skint",
-      "link": "https://www.brooklynbowl.com/brooklyn/events/detail/still-split-n-lanes-a-classic-motorcycle-show-k7vgf_6nlfszy",
-      "map": "https://maps.google.com/?q=brooklyn%20bowl%20(williamsburg)%2C%20%2415%20admission%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: still split’n lanes: a classic motorcycle show: brooklyn bowl (williamsburg), $15 admission."
-    },
-    "skint_90937_6_free_olive_oil_y_ice_cream": {
-      "title": "free olive oil-y ice cream",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-13",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 09/13 · 1-3pm",
-      "price": "Free",
-      "free": true,
-      "place": "mccarren parkhouse (williamsburg)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/p/DcJ98u-xjuA/",
-      "map": "https://maps.google.com/?q=mccarren%20parkhouse%20(williamsburg)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-3pm: free olive oil-y ice cream: mccarren parkhouse (williamsburg)."
-    },
-    "skint_90937_7_fashion_designers_of_latin_america_runway_show": {
+    "skint_90937_0_fashion_designers_of_latin_america_runway_show": {
       "title": "fashion designers of latin america runway show",
       "type": "art",
       "label": "Art / Culture",
@@ -587,125 +466,6 @@
       "link": "https://unitedpalace.boletosexpress.com/event.php?event_id=89584",
       "map": "https://maps.google.com/?q=united%20palace%20(washington%20heights)%20NYC",
       "summary": "fashion week related events: in addition to fashionista’s round up of public events and pop-ups, here are a few more to add to the list. Pulled from The Skint's public article feed: mon 6pm doors: fashion designers of latin america runway show: united palace (washington heights)."
-    },
-    "gary_2026_09_14_fast_company_innovation_festival": {
-      "title": "Fast Company Innovation Festival",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-14",
-      "time": "8 AM",
-      "sort": 8,
-      "when": "Mon, 09/14 · 8:00am",
-      "price": "$749",
-      "free": false,
-      "place": "The Hub at Convene, 225 Liberty St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/5qe9qk1/Fast-Company-Innovation-Festival",
-      "map": "https://maps.google.com/?q=The%20Hub%20at%20Convene%2C%20225%20Liberty%20St",
-      "summary": "Gary's Guide: With Cristiano Amon (CEO, Qualcomm), Paul Dillinger (Head of Design Innovation, Levi Strauss), Mike Intrator (CEO, CoreWeave), Andrew Beebe (MD, Obvious), Chet Kittleson (Founder, Tin Can), Rachel Kornafel (Chief Brand Officer, Union Sq Hospitality)."
-    },
-    "gary_2026_09_14_micro_monday_coworking_x_cohort_monday_founders_pod": {
-      "title": "Micro Monday Coworking x Cohort Monday Founders Pod",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-14",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Mon, 09/14 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Moxy Chelsea, 105 W 28th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/8d8w3q5/Micro-Monday-Coworking-x-Cohort-Monday-Founders-Pod",
-      "map": "https://maps.google.com/?q=Moxy%20Chelsea%2C%20105%20W%2028th%20St",
-      "summary": "Gary's Guide: Micro Monday's is a Coworking session for founders, indie hackers, investors, builders, & anyone interested in startups & technology. Cohort is a deep community based on ideas & building that hosts smaller focused work sessions on Mondays for founders & builders. We're putting it together to support each other & create a space where founders, indie hackers, investors, builders, & anyone interested in startups & technology can come, work, help, get helped, get feedback, & build genuine relationships. This as an outgrowth of Cohort's Wednesday coworking events where we are obsessed on creating the idea & building culture NYC deserves. And we are equally obsessed on supporting great ideas & founders like Micro. About Micro Micro is ending online subscriptions. We're building a wallet that lets you pay for digital products & services one use at a time, instead of signing up for another monthly subscription that you don't need. Learn more at trymicro.io. Bring your laptop, grab a seat, & spend the day building with people who are just as excited about creating as you are. About Cohort Cohort is a community of builders, creatives, & founders in NYC. We show up for each other every week - with true accountability, real support, & honest feedback. Our goal is to create a community with a culture of building ideas in NYC."
-    },
-    "gary_2026_09_14_tech_council_summit": {
-      "title": "Tech Council Summit",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-14",
-      "time": "1:30 PM",
-      "sort": 13.5,
-      "when": "Mon, 09/14 · 1:30pm",
-      "price": "Varies",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/8x1893s/Tech-Council-Summit",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Kellie Romack (Chief Digital Information Officer, ServiceNow), Marina Bellini (President, Mars), Kristin Myers (CDO, Northwell Health), Deepa Soni (CIO, New York Life), Tilak Mandadi (Chief Experience Officer, CVS Health), Joon Sung Park (Founder/CEO, Simile)."
-    },
-    "gary_2026_09_14_an_evening_w_hot_smart_rich_forbes": {
-      "title": "An Evening w/ Hot Smart Rich & Forbes",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-14",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Mon, 09/14 · 5:30pm",
-      "price": "$130",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/o162jqh/An-Evening-w-Hot-Smart-Rich-Forbes",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Maggie Reum (Founder/CEO, Hot Smart Rich & HSR Ventures), Sherry Phillips (CEO, Forbes)."
-    },
-    "gary_2026_09_14_vc_playbook_2027_fundraising_deal_sourcing_due_dilig": {
-      "title": "VC Playbook 2027 - Fundraising, Deal Sourcing, Due Diligence, Ops, Growing AUM",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-14",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Mon, 09/14 · 5:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/kj9kfx2/VC-Playbook-2027-Fundraising-Deal-Sourcing-Due-Diligence-Ops-Growing-AUM",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Snehal Shah (Good Investor Club)."
-    },
-    "gary_2026_09_14_sgn_x_cohort_art_after_ai": {
-      "title": "SGN x Cohort - Art After AI",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-09-14",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Mon, 09/14 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Sour Mouse, 110 Delancey St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/36ruspd/SGN-x-Cohort-Art-After-AI",
-      "map": "https://maps.google.com/?q=Sour%20Mouse%2C%20110%20Delancey%20St",
-      "summary": "Gary's Guide: Patrick McAndrew (Actor & playwright, The Startup & Terms of Service), Michael Tay (Writer & filmmaker), Matthew James Scott Lee (AI-safety Enggr), Isaac Ting (Product Designer)."
-    },
-    "gary_2026_09_14_junto_founder_dinner": {
-      "title": "Junto Founder Dinner",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-14",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Mon, 09/14 · 7:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Private Dinner Club, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/62qpz8g/Junto-Founder-Dinner",
-      "map": "https://maps.google.com/?q=Private%20Dinner%20Club%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Hi, Andrew Yeung here. We started the Junto Founder Dinner series two years ago to bring together the top founders + builders. Each month, we invite 24 vetted early-stage founders & CEOs for a 3-hour, multiple-course dinner experience. What to expect: A 3-course meal, courtesy of our partners Conversations with fellow high-performing startup leaders A dinner experience designed to facilitate new connections & conversations, with rotating 6-person table formats Meaningful connections with ambitious peers solving similar problems If you're wondering how our dinners usually go... read this Our only intent is to bring good, smart humans together. Details: Date: Sep 14, 2026 Time: 6:00pm - 8:30pm Venue: Private Dinner Club in NYC Past attendees of my events include the founders/C-suite of Venmo, Duolingo, Foursquare, Lyft, Goldman Sachs, Compass, Superhuman, Yext, OpenDoor, Chief, LearnVest, DocSend, Vercel, Loom, Morning Brew, The Hustle, Gas, Teachable, Replit, Twitter, Slack, Pinterest, Yahoo, MongoDB, Business Insider, Wonder, Hinge. Apply to join by filling out the RSVP form."
     },
     "gary_2026_09_15_ldx3_2026": {
       "title": "LDX3 2026",
@@ -1353,56 +1113,124 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: A full day of heads-down work at No More, with other people who are actually building things. No talks. No panels. No pitch round. Just a good room, good coffee, & everyone finally getting through the thing they have been putting off all month. Why this space works No More is genuinely built for working, which is rarer in this city than it should be. Outlets everywhere, so nobody is rationing battery by 2 PM Fast wifi that holds up with a room full of laptops Music stays low, so you can take a call without walking outside Long communal tables & a full counter, room to actually spread out Coffee & snacks all day without leaving your seat Who it is for Founders, researchers, designers, creatives, engineers, writers, & anyone with a side project they keep meaning to ship. If you build things, you belong here. How the day runs 9:00 AM, doors open, coffee & quick introductions 9:30 AM to 5:00 PM, open work, break whenever you need to 5:00 PM, mocktails, & we find out what everyone actually got done Food & coffee Nothing structured. The cafe has coffee & snacks all day, & the East Village is full of options if you want a proper meal. The company Honestly the main reason to come. A room where everyone is working on something they care about changes how your own day goes. Quiet focus while the work is happening, real conversation over mocktails at the end. Come for the whole day or drop in for a few hours. Both are fine. Bring your laptop, your headphones, & real work. Space is limited, so please only register if you actually plan to show up. Hosted by Ishaan from TechBrig."
     },
-    "luma_2026_09_14_runtime_agent_week_opening_night": {
-      "title": "Runtime Agent Week: Opening Night",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-09-14",
-      "time": "9 PM",
-      "sort": 21,
-      "when": "Mon, 09/14 · 9pm",
-      "price": "Free",
-      "free": true,
-      "place": "Brooklyn, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/agentweekopen",
-      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
-      "summary": "Luma NYC: Runtime Agent Week, David, Bobby Thakkar"
-    },
-    "luma_2026_09_14_junto_founder_dinner_hosted_by_andrew_friends": {
-      "title": "Junto Founder Dinner (Hosted by Andrew & Friends)",
+    "gary_2026_09_18_coffee_club_early_stage_b2b_founders_funders": {
+      "title": "Coffee Club - Early-Stage B2B Founders & Funders",
       "type": "startup",
       "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-14",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Mon, 09/14 · 10pm",
+      "day": "Fri",
+      "date": "2026-09-18",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Fri, 09/18 · 10:00am",
       "price": "Free",
       "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/juntodinnersep14",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung"
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/3x2rlzt/Coffee-Club-Early-Stage-B2B-Founders-Funders",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Olivia O'Sullivan Naomi Goez, Lauren Roberts & Alice Krenitski (Forum Ventures)."
     },
-    "luma_2026_09_14_nyc_b2b_ai_founders_investors_meetup": {
-      "title": "NYC B2B: AI Founders & Investors Meetup",
+    "gary_2026_09_18_ai_databricks_hackathon": {
+      "title": "AI Databricks Hackathon",
       "type": "tech",
       "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-09-14",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Mon, 09/14 · 10pm",
+      "day": "Fri",
+      "date": "2026-09-18",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Fri, 09/18 · 3:00pm",
+      "price": "$20",
+      "free": false,
+      "place": "Queens College, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/9kuxoai/AI-Databricks-Hackathon",
+      "map": "https://maps.google.com/?q=Queens%20College%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Beginner-friendly 3-day AI Hackathon for students/career switchers/people interested in working in tech. Registration on Luma is required for entrance."
+    },
+    "gary_2026_09_18_bowling_business": {
+      "title": "Bowling & Business",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-09-18",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Fri, 09/18 · 6:00pm",
       "price": "Free",
       "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/coos76ur",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: NYC B2B: Startup Events, NYC B2B, Lauren Houpt, Ignition Benefits"
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/zsnpjg7/Bowling-Business",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With founders, investors, doctors & hospital execs."
+    },
+    "gary_2026_09_18_nyc_venture_week_networking_mixer": {
+      "title": "NYC Venture Week - Networking Mixer",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-09-18",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Fri, 09/18 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/805wrbk/NYC-Venture-Week-Networking-Mixer",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: One night to bring everyone together.Join us for the Venture Week NYC Networking Mixer, an elevated evening celebrating the founders, investors, operators, creators, & leaders shaping the next generation of technology & business.After a week of events, panels, dinners, mixers, & conversations across New York City, the Gala brings the Venture Week community together under one roof.Expect an evening of: Founders & startup leaders Investors & venture professionals Executives & operators Creators, marketers & tastemakers Drinks, music & exceptional conversation New connections & old friends A celebration of the people building whats nextThis will be a room full of people who are building, investing in, & shaping the future.Whether youve spent the week meeting founders, exploring new ideas, raising capital, hiring, launching a company, building an audience, or simply immersing yourself in NYCs technology ecosystemthe Gala is where the community comes together.Dress to impress (think business chic). Bring your curiosity. Come ready to meet someone you didnt know you needed to meet.ALINE X THE BUILDER SERIESALINE is a networking app that helps user connect with people based on their profile.The Builder Series: A 42,000+ member community redefining what networking looks like curating founders, operators, investors & more into intentional rooms built for experiences people remember & relationships that last. It's a direct line to the most ambitious builders, with a community that actually shows up.We've hosted 11 signature mixers & co-hosted 70+ events. We also host:Founder & investor-led panels curated by sectorIntimate penthouse & dinners for our Seed to Series A+ founders & investors in our networkA Tuesday & Saturday morning Startup Run ClubNotable events: Cliqk Launch Party w/ Ilias Anwar & Rohan Gurram (2,000+ RSVPs) $1.5M Pitch Competition with FounderSquareFind us here: Instagram LinkedIn TikTok Facebook XAbout Venture WeekVenture Week is a global collection of events bringing together founders, investors, executives, marketers, operators, & leaders across technology, business, andAttendance will be approved once you have downloaded the ALINE app.Exact location will be shared with approved attendees.This is part of Venture Week. For more info & questions email: info@venture-week.com"
+    },
+    "gary_2026_09_19_healthtech_launchathon_clawcamp": {
+      "title": "HealthTech Launchathon & ClawCamp",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Sat",
+      "date": "2026-09-19",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Sat, 09/19 · 9:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Arya Health, 307 W 36th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/vzixkw6/HealthTech-Launchathon-ClawCamp",
+      "map": "https://maps.google.com/?q=Arya%20Health%2C%20307%20W%2036th%20St",
+      "summary": "Gary's Guide: With Khan Siddiqui (Founder/CEO, HOPPR)."
+    },
+    "gary_2026_09_19_trust_in_the_hiring_funnel_hackathon": {
+      "title": "Trust In The Hiring Funnel Hackathon",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sat",
+      "date": "2026-09-19",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Sat, 09/19 · 10:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/iuy5ggy/Trust-In-The-Hiring-Funnel-Hackathon",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Event Description Generative AI broke hiring on both sides at once. Recruiters can't tell which applicants are real, & candidates can't tell which employers are. Come spend a day building something that fixes it - with the founders, engineers, & TA practitioners who live this problem every week. This is a full-day, in-person hackathon co-hosted by localhost:nyc, Integral Recruiting (IRD), & NYU - where builders team up with real talent-acquisition operators to ship working tools against a single, focused challenge. The Challenge: Trust in the Hiring Funnel Hiring has a trust crisis on both sides of the funnel - recruiters can't tell which applicants are real, & candidates can't tell which employers are. Talent acquisition runs on a basic assumption: that the person applying is who they say they are, & that the company reaching out is who it says it is. Generative AI has broken both halves of that assumption at once. Your job for the day is to rebuild it. You can attack either side of the funnel - or the seam between them. Side A - Trust coming in: the applicant flood. A role that used to draw 30 applicants now draws 500, & a growing share aren't real, aren't qualified, or are gaming the system. Candidates embed hidden prompt-injection text to manipulate the AI tools that screen resumes. And increasingly, applicants appear qualified but look strikingly alike - the same phrasing, the same structure, the same accomplishments - a tell that everyone is leaning on the same AI tools to write their applications. Recruiters are drowning, & the tools meant to help have no clear winner yet. The challenge: reliably separate real, qualified humans from AI-inflated noise - without punishing legitimate candidates who simply used AI to polish their resume. Questions worth chasing: What signals - behavioral, identity, provenance - actually distinguish a real applicant from a manufactured one? When applications converge on the same AI-generated look, how do you tell genuine signal from sameness? How do you detect a manipulated or machine-generated application without false-flagging honest people? How do you surface the candidates who deserve attention fast, inside an existing recruiting workflow rather than replacing it? Side B - Trust going out: impersonation & candidate scams. Bad actors register look-alike domains to send fake offer letters, run deepfake recruiter calls, & scam job seekers out of money & data. Employers have almost no way to detect it or warn candidates. The challenge: make it harder to impersonate a real employer, & easier for a candidate to verify that an offer or a recruiter is genuine. Questions worth chasing: How would a candidate confirm that an offer or outreach is legitimately from the company? Can impersonating domains be detected & flagged early? What does a lightweight \"trust signal\" look like on a careers page or an offer letter? What a strong build looks like. A working tool that raises trust in the funnel & fits the way hiring actually happens - a triage or screening layer that plugs into an existing applicant tracking system rather than replacing it, or a candidate/employer verification tool that makes impersonation harder to pull off & easier to catch. We care more about a real, demonstrable solution to a narrow slice of the problem than a broad concept that doesn't run. You don't need HR or recruiting-software experience to compete here - that's the point of a single, focused theme. Engineers & builders can go straight at the detection, identity, & verification problems. HR-technology practitioners will be in the room to keep your build grounded in how hiring actually works, & to pressure-test whether a recruiter would trust what you've made. What to Expect A full day of building - 10:00 AM to 6:00 PM, hard stop Small teams (or solo if you insist) working in one shared room TA practitioners from the SAI community in the room to keep your build grounded in how hiring really works A panel of expert judges: HR-tech founders, operators, & system admins who know these problems cold End-of-day demos to judges, investors, & real TA leaders The strongest teams get connected to investors - and, over time, to real customers Prizes Winners walk away with build-tool & platform credits, expert consulting sessions, & investor time. Everyone in the room gets connections that outlast the day - this is a room full of builders & buyers. Judges Tiffany Jin: Eqo. Building in the employee-referral & hiring space; brings a founder's eye for what actually ships. Steven Grover: Partnerspring. Operator & builder in the HR-tech ecosystem. Shane Papp: Ex-iCIMS. Deep insider knowledge of the ATS world these tools have to live inside. Adam Treitler: Related Industries. HR-tech operator with a practitioner's view of the funnel. Shiv Jethi - Engineer at SpaceX. Olivia Iarmak - Meta Reality Labs. AI quality & operations leader; researcher. Brings a practitioner's lens to trustworthy AI. D. J. Patel - VC | 3x exited founder. Prince Rumi - Excelsior Edge Ventures, Partner | AI Researcher Rami Abouemira, formerly People Ops at Square & VMware, now building the future of work with All Good HR & Founders Foundry. Ishaan Das (TechBrig) - Leads AI transformation & product design for several recruiting firms & recruiting SaaS like SquarePeg. More judges to be announced - investors & TA buyers joining the panel. Who Should Attend Engineers - full-stack, backend, frontend, AI/ML Founders & aspiring founders who like shipping fast Recent grads, master's students, & NYC college builders TA ops & recruiting-systems practitioners who want to build alongside engineers HR / recruiting professionals newer to the space - join a team as a product advisor You do not need HR or recruiting-software experience to compete - that's the whole point of one focused theme. Engineers go straight at the detection, identity, & verification problems; practitioners keep it real. Just show up ready to build. Credit Sponsors Solari is the world's fastest agent infrastructure provider. Run headless browsers, sandboxes, & desktops from one API, & automate at scale. Block Convey is an AI reliability & observability platform for AI agents. It helps teams see what an agent is doing across model calls, tools, retrieval & decisions, identify where it fails, & improve it. Hosts Somya Gupta: The face of NYC startup ecosystem. Integral Recruiting (IRD): Enterprise talent-acquisition & iCIMS/ATS specialists, & stewards of the ~350-member SAI community of TA operators & system admins. Greg Mendez: NYU. Bringing the university's builder & HR-analytics community into the room. TechSHRM is NYU Tandon's, award-winning student chapter of the Society for Human Resource Management (SHRM). Established in 1987, we bridge data science, technology, & organizational strategy through people analytics - leveraging data to optimize workforce decision-making, recruitment, & employee performance."
+    },
+    "gary_2026_09_19_the_deployment_room": {
+      "title": "The Deployment Room",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Sat",
+      "date": "2026-09-19",
+      "time": "1:30 PM",
+      "sort": 13.5,
+      "when": "Sat, 09/19 · 1:30pm",
+      "price": "Varies",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/yfayl2m/The-Deployment-Room",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Francesca Poupel (F&G Capital Partners), Jay Spindel (SOJA Ventures & INTE Securities), 6 active funds & 20 seed to series A+ founders."
     },
     "luma_2026_09_16_williamsburg_run_founders_creators_coffee": {
       "title": "Williamsburg Run: Founders, Creators & Coffee",
@@ -1455,22 +1283,39 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Coffee & Career Transitions NYC, Erica Hanson, Meredith Tibbals"
     },
-    "nyu_tandon_2026_09_14_using_biomechanical_principles_to_engineer_the_next_": {
-      "title": "Using Biomechanical Principles to Engineer the Next Generation of Immunotherapies",
+    "luma_2026_09_17_frontier_build_nyc_build_your_autonomous_code_factor": {
+      "title": "Frontier Build NYC: Build your Autonomous Code Factory",
       "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Mon",
-      "date": "2026-09-14",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Mon, 09/14 · 11:00 AM",
-      "price": "Free / varies",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-09-17",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Thu, 09/17 · 2pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/09/14/using-biomechanical-principles-engineer-next-generation-immunotherapies",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/frontierNYC",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Obvious Community Events, Obvious, Jon Bell, David Boskovic"
+    },
+    "luma_2026_09_17_an_evening_with_the_pragmatic_engineer": {
+      "title": "An evening with The Pragmatic Engineer",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-09-17",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Thu, 09/17 · 9:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "WorkOS",
+      "source": "Luma NYC",
+      "link": "https://luma.com/pragmatic-engineer-26",
+      "map": "https://maps.google.com/?q=WorkOS%20NYC",
+      "summary": "Luma NYC: WorkOS Events, WorkOS, Michael Grinich"
     },
     "nyu_tandon_2026_09_15_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1591,6 +1436,23 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
+    "nyu_tandon_2026_09_24_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
+      "type": "tech",
+      "label": "Workshop / Training",
+      "day": "Thu",
+      "date": "2026-09-24",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Thu, 09/24 · 12:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/24/instructional-tech-drop-sessions",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Workshop / Training"
+    },
     "jc_culture_43481_2026_09_15_water_color_painting_workshop_with_leo": {
       "title": "Water Color Painting Workshop with Leo",
       "type": "art",
@@ -1659,6 +1521,23 @@
       "map": "https://maps.google.com/?q=GLENN%20DALE%20CUNNINGHAM%20LIBRARY%2C%20275%20MLK%20DRIVE%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community History What's Coming Up?."
     },
+    "jc_culture_43918_2026_09_16_fall_carnival_2026": {
+      "title": "Fall Carnival 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Wed",
+      "date": "2026-09-16",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 09/16 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "PERSHING FIELD PARK, 201 CENTRAL AVE, JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/fall-carnival-2026/",
+      "map": "https://maps.google.com/?q=PERSHING%20FIELD%20PARK%2C%20201%20CENTRAL%20AVE%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor What's Coming Up?."
+    },
     "jc_culture_42957_2026_09_17_post_card_memories_ellis_island_2026": {
       "title": "Post Card Memories Ellis Island 2026",
       "type": "art",
@@ -1675,6 +1554,23 @@
       "link": "https://jerseycityculture.org/event/post-card-memories-ellis-island-2026/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community."
+    },
+    "jc_culture_43923_2026_09_17_mjch_summer_cultural_series_2026": {
+      "title": "MJCH Summer Cultural Series 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Thu",
+      "date": "2026-09-17",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 09/17 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/mjch-summer-cultural-series-2026/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Outdoor What's Coming Up?."
     },
     "jc_culture_10004820_2026_09_18_the_society_of_american_graphic_artists_saga_91st_an": {
       "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
@@ -1863,6 +1759,23 @@
       "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
       "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
     },
+    "jc_culture_43925_2026_09_25_mjch_summer_cultural_series_2026": {
+      "title": "MJCH Summer Cultural Series 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Fri",
+      "date": "2026-09-25",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Fri, 09/25 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/mjch-summer-cultural-series-2026-2/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Outdoor What's Coming Up?."
+    },
     "jc_culture_10004828_2026_09_25_rent_the_musical": {
       "title": "RENT: The Musical",
       "type": "entertainment",
@@ -1913,6 +1826,23 @@
       "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-26/",
       "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
       "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
+    },
+    "jc_culture_43929_2026_09_26_freestyle_in_the_heights_2026": {
+      "title": "Freestyle in the Heights 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Sat",
+      "date": "2026-09-26",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Sat, 09/26 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "PERSHING FIELD PARK, 201 CENTRAL AVE, JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/freestyle-in-the-heights-2026/",
+      "map": "https://maps.google.com/?q=PERSHING%20FIELD%20PARK%2C%20201%20CENTRAL%20AVE%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_10004830_2026_09_26_rent_the_musical": {
       "title": "RENT: The Musical",
@@ -2270,6 +2200,23 @@
       "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-15/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10004843_2026_10_16_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-10-16",
+      "time": "7:30 PM",
+      "sort": 19.5,
+      "when": "Fri, 10/16 · 7:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-16/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
     }
   },
   "clusters": {
@@ -2281,16 +2228,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_09_13_12_pm": [
-      "skint_90937_2_students_for_a_free_tibet_s_14th_annual_momo_crawl",
-      "skint_90937_3_29th_annual_ferragosto_festival",
-      "skint_90937_4_tiny_arts_makers_market",
-      "skint_90937_5_still_split_n_lanes_a_classic_motorcycle_show"
-    ],
-    "cluster_2026_09_14_5_30_pm": [
-      "gary_2026_09_14_an_evening_w_hot_smart_rich_forbes",
-      "gary_2026_09_14_vc_playbook_2027_fundraising_deal_sourcing_due_dilig"
     ],
     "cluster_2026_09_15_8_am": [
       "gary_2026_09_15_ldx3_2026",
@@ -2317,11 +2254,16 @@
       "gary_2026_09_16_postgres_tuning_in_age_of_ai_context_is_everything",
       "gary_2026_09_16_nyc_venture_week_founder_funder_tech",
       "gary_2026_09_16_startup_mixer",
-      "gary_2026_09_16_for_the_firsts"
+      "gary_2026_09_16_for_the_firsts",
+      "jc_culture_43918_2026_09_16_fall_carnival_2026"
     ],
     "cluster_2026_09_16_7_pm": [
       "gary_2026_09_16_founders_operators_investors_mocktails_legal_ama",
       "gary_2026_09_16_build_w_stripe_community_ship_an_ai_app_in_90_minute"
+    ],
+    "cluster_2026_09_17_2_pm": [
+      "gary_2026_09_17_ai_native_accelerator_demo_day",
+      "luma_2026_09_17_frontier_build_nyc_build_your_autonomous_code_factor"
     ],
     "cluster_2026_09_17_3_pm": [
       "gary_2026_09_17_venture_at_work",
@@ -2334,11 +2276,17 @@
     "cluster_2026_09_17_6_pm": [
       "gary_2026_09_17_padel_w_founders",
       "gary_2026_09_17_superplane_elastic_ai_agents_that_build_ship_code",
-      "gary_2026_09_17_data_ai_happy_hour"
+      "gary_2026_09_17_data_ai_happy_hour",
+      "jc_culture_43923_2026_09_17_mjch_summer_cultural_series_2026"
     ],
-    "cluster_2026_09_14_10_pm": [
-      "luma_2026_09_14_junto_founder_dinner_hosted_by_andrew_friends",
-      "luma_2026_09_14_nyc_b2b_ai_founders_investors_meetup"
+    "cluster_2026_09_18_3_pm": [
+      "gary_2026_09_18_ai_databricks_hackathon",
+      "jc_culture_10004820_2026_09_18_the_society_of_american_graphic_artists_saga_91st_an"
+    ],
+    "cluster_2026_09_18_6_pm": [
+      "gary_2026_09_18_bowling_business",
+      "gary_2026_09_18_nyc_venture_week_networking_mixer",
+      "jc_culture_43701_2026_09_18_cat_stick_easel_moon_exhibit_2026"
     ],
     "cluster_2026_09_16_11_am": [
       "luma_2026_09_16_williamsburg_run_founders_creators_coffee",
