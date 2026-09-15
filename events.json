@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 15, 2026, 11:20 AM EDT",
+    "checked": "Sep 15, 2026, 6:24 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -247,6 +247,7 @@
       "11:30 AM",
       "12 PM",
       "12:30 PM",
+      "1 PM",
       "1:30 PM",
       "2 PM",
       "2:30 PM",
@@ -259,7 +260,8 @@
       "6:30 PM",
       "7 PM",
       "7:30 PM",
-      "9:30 PM"
+      "9:30 PM",
+      "10 PM"
     ]
   },
   "events": {
@@ -935,8 +937,8 @@
       "time": "4 PM",
       "sort": 16,
       "when": "Thu, 09/17 · 4:00pm",
-      "price": "Free",
-      "free": true,
+      "price": "$20",
+      "free": false,
       "place": "Cooley, 55 Hudson Yards",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/02vknr4/Women-In-AI-Pitch-Competition",
@@ -971,10 +973,10 @@
       "when": "Thu, 09/17 · 5:00pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "Mr Purple, 180 Orchard St, 15th Fl",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/hpuz9ky/NachoThursday-SaaS-AI-Rooftop-Happy-Hour",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "map": "https://maps.google.com/?q=Mr%20Purple%2C%20180%20Orchard%20St%2C%2015th%20Fl",
       "summary": "Gary's Guide: NachoNacho - The B2B SaaS & AI + Services Marketplace will host this exclusive SaaStr San Francisco SaaS & AI Founder + Investor rooftop happy hour event. This event will include sponsored drinks & appetizers. This networking event will be exclusively for SaaS/AI: Founders (minimum Seed funded & later) C-Suites Investors/VCs Tech media Your application will be carefully screened. No +1s allowed. Only approved guests will be allowed onto the premises. We regularly host Founder + VC events in NYC, SF, LA, & Austin with an amazing turnout of hundreds of participating investors & Founders. You can see photos from our previous events here to get an idea. We want everyone to have genuine conversations & build real connections here where founders can share their vision, investors can find the next great startup investment opportunity, & media members can get an inside track of the latest deals & tech trends. This is part of our NachoTuesday series, which includes in-person events as well as online thought leadership C-Suite interviews (https://nachonacho.com/nachotuesday)."
     },
     "gary_2026_09_17_the_startup_pitch_demo_showcase_by_startup_grind": {
@@ -1231,6 +1233,23 @@
       "link": "https://www.garysguide.com/events/yfayl2m/The-Deployment-Room",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Francesca Poupel (F&G Capital Partners), Jay Spindel (SOJA Ventures & INTE Securities), 6 active funds & 20 seed to series A+ founders."
+    },
+    "luma_2026_09_15_modal_rooftop_happy_hour_gtm_edition": {
+      "title": "Modal Rooftop Happy Hour: GTM Edition",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-09-15",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Tue, 09/15 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/modal-4ufv",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Modal, justin Dignelli, Hugh Killingbeck-Jones"
     },
     "luma_2026_09_16_williamsburg_run_founders_creators_coffee": {
       "title": "Williamsburg Run: Founders, Creators & Coffee",
@@ -1912,6 +1931,23 @@
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     },
+    "jc_culture_43935_2026_09_30_mjch_boss_rule_jc_under_hague_2026": {
+      "title": "MJCH BOSS RULE / JC UNDER HAGUE 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Wed",
+      "date": "2026-09-30",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 09/30 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/mjch-boss-rule-jc-under-hague-2026/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community What's Coming Up?."
+    },
     "jc_culture_10004832_2026_10_01_rent_the_musical": {
       "title": "RENT: The Musical",
       "type": "entertainment",
@@ -1928,6 +1964,23 @@
       "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-01/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_43942_2026_10_02_mjch_art_sale_jcast_2026": {
+      "title": "MJCH Art Sale / JCAST 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-10-02",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Fri, 10/02 · 1pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/mjch-art-sale-jcast-2026/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_43707_2026_10_02_meet_the_artist_jcast_rachel_l_bedder_2026": {
       "title": "Meet the Artist @ JCAST Rachel L Bedder 2026",
@@ -1980,6 +2033,23 @@
       "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
     },
+    "jc_culture_43945_2026_10_03_mjch_art_sale_jcast_2026": {
+      "title": "MJCH Art Sale / JCAST 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-10-03",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 10/03 · 12pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/mjch-art-sale-jcast-2026-2/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
+    },
     "jc_culture_10004834_2026_10_03_rent_the_musical": {
       "title": "RENT: The Musical",
       "type": "entertainment",
@@ -2030,6 +2100,23 @@
       "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-2026-jcast-weekend-2/",
       "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
+    },
+    "jc_culture_43947_2026_10_04_mjch_art_sale_jcast_2026": {
+      "title": "MJCH Art Sale / JCAST 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sun",
+      "date": "2026-10-04",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Sun, 10/04 · 1pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/mjch-art-sale-jcast-2026-3/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_10004836_2026_10_04_rent_the_musical": {
       "title": "RENT: The Musical",
@@ -2149,74 +2236,6 @@
       "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-11/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
-    },
-    "jc_culture_10003572_2026_10_14_hamilton_park_farmers_market_2026": {
-      "title": "Hamilton Park Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Wed",
-      "date": "2026-10-14",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Wed, 10/14 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-10-14/",
-      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
-    },
-    "jc_culture_43676_2026_10_15_fall_2026_open_house_hudson_county_community_college": {
-      "title": "Fall 2026 Open House Hudson County Community College",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Thu",
-      "date": "2026-10-15",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Thu, 10/15 · 5:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "HUDSON COUNTY COMMUNITY COLLEGE NORHT CAMPUS, 4800 KENNEDY BLVD, UNION CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/fall-2026-open-house-hudson-county-community-college/",
-      "map": "https://maps.google.com/?q=HUDSON%20COUNTY%20COMMUNITY%20COLLEGE%20NORHT%20CAMPUS%2C%204800%20KENNEDY%20BLVD%2C%20UNION%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
-    },
-    "jc_culture_10004842_2026_10_15_rent_the_musical": {
-      "title": "RENT: The Musical",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Thu",
-      "date": "2026-10-15",
-      "time": "7:30 PM",
-      "sort": 19.5,
-      "when": "Thu, 10/15 · 7:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-15/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
-    },
-    "jc_culture_10004843_2026_10_16_rent_the_musical": {
-      "title": "RENT: The Musical",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-10-16",
-      "time": "7:30 PM",
-      "sort": 19.5,
-      "when": "Fri, 10/16 · 7:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-16/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
     }
   },
   "clusters": {
@@ -2299,6 +2318,10 @@
     "cluster_2026_09_19_3_pm": [
       "jc_culture_10004821_2026_09_19_the_society_of_american_graphic_artists_saga_91st_an",
       "jc_culture_43705_2026_09_19_cat_stick_easel_moon_exhibit_2026"
+    ],
+    "cluster_2026_10_03_12_pm": [
+      "jc_culture_43716_2026_10_03_cat_stick_easel_moon_exhibit_2026_jcast_weekend",
+      "jc_culture_43945_2026_10_03_mjch_art_sale_jcast_2026"
     ]
   }
 }
