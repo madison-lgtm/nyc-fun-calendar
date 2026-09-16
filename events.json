@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Sep 15, 2026, 6:24 PM EDT",
+    "checked": "Sep 16, 2026, 11:13 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-09-15",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Sep 15"
-      },
       {
         "iso": "2026-09-16",
         "key": "Wed",
@@ -45,15 +39,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Sep 21"
+      },
+      {
+        "iso": "2026-09-22",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Sep 22"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-09-15",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Sep 15"
-      },
       {
         "iso": "2026-09-16",
         "key": "Wed",
@@ -233,9 +227,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 15"
+      },
+      {
+        "iso": "2026-10-16",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Oct 16"
       }
     ],
-    "todayKey": "Tue",
+    "todayKey": "Wed",
     "times": [
       "12 AM",
       "7 AM",
@@ -252,7 +252,6 @@
       "2 PM",
       "2:30 PM",
       "3 PM",
-      "3:45 PM",
       "4 PM",
       "5 PM",
       "5:30 PM",
@@ -261,7 +260,8 @@
       "7 PM",
       "7:30 PM",
       "9:30 PM",
-      "10 PM"
+      "10 PM",
+      "10:30 PM"
     ]
   },
   "events": {
@@ -451,23 +451,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "skint_90937_0_fashion_designers_of_latin_america_runway_show": {
-      "title": "fashion designers of latin america runway show",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Mon",
-      "date": "2026-09-14",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 09/14 · 6pm doors",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "united palace (washington heights)",
-      "source": "The Skint",
-      "link": "https://unitedpalace.boletosexpress.com/event.php?event_id=89584",
-      "map": "https://maps.google.com/?q=united%20palace%20(washington%20heights)%20NYC",
-      "summary": "fashion week related events: in addition to fashionista’s round up of public events and pop-ups, here are a few more to add to the list. Pulled from The Skint's public article feed: mon 6pm doors: fashion designers of latin america runway show: united palace (washington heights)."
     },
     "gary_2026_09_15_ldx3_2026": {
       "title": "LDX3 2026",
@@ -1234,40 +1217,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Francesca Poupel (F&G Capital Partners), Jay Spindel (SOJA Ventures & INTE Securities), 6 active funds & 20 seed to series A+ founders."
     },
-    "luma_2026_09_15_modal_rooftop_happy_hour_gtm_edition": {
-      "title": "Modal Rooftop Happy Hour: GTM Edition",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-09-15",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Tue, 09/15 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/modal-4ufv",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Modal, justin Dignelli, Hugh Killingbeck-Jones"
-    },
-    "luma_2026_09_16_williamsburg_run_founders_creators_coffee": {
-      "title": "Williamsburg Run: Founders, Creators & Coffee",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-16",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Wed, 09/16 · 11am",
-      "price": "Free",
-      "free": true,
-      "place": "Padel Haus Williamsburg",
-      "source": "Luma NYC",
-      "link": "https://luma.com/5s6ppztf",
-      "map": "https://maps.google.com/?q=Padel%20Haus%20Williamsburg%20NYC",
-      "summary": "Luma NYC: Founders Common, Jonathan Bensimon, Damian Tenuta"
-    },
     "luma_2026_09_16_claude_code_workshop_with_provectus_new_york_city": {
       "title": "Claude Code Workshop with Provectus - New York City",
       "type": "tech",
@@ -1284,6 +1233,23 @@
       "link": "https://luma.com/claude-code-workshop-nyc-sept-16",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Claude Workshops, Build with Claude, Provectus"
+    },
+    "luma_2026_09_16_ai_x_finance_founding_engineer_panel": {
+      "title": "AI x Finance: Founding Engineer Panel",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-09-16",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Wed, 09/16 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/pxv5f0gf",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Neal Patel, Neal Patel, Lelani Clark, courtney lechner, Neal Sivadas, Adam Snyder, Jenna Sekutera, Elisa Gonzalez, Austin Berke"
     },
     "luma_2026_09_17_coffee_career_transitions_nyc_tech_startups_edition": {
       "title": "Coffee & Career Transitions NYC: Tech & Startups Edition",
@@ -1320,7 +1286,7 @@
       "summary": "Luma NYC: Obvious Community Events, Obvious, Jon Bell, David Boskovic"
     },
     "luma_2026_09_17_an_evening_with_the_pragmatic_engineer": {
-      "title": "An evening with The Pragmatic Engineer",
+      "title": "An Evening with The Pragmatic Engineer",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Thu",
@@ -1336,22 +1302,39 @@
       "map": "https://maps.google.com/?q=WorkOS%20NYC",
       "summary": "Luma NYC: WorkOS Events, WorkOS, Michael Grinich"
     },
-    "nyu_tandon_2026_09_15_instructional_tech_drop_in_sessions": {
-      "title": "Instructional Tech Drop-in Sessions",
+    "luma_2026_09_17_honcho_happy_hour_nyc_agent_builders": {
+      "title": "Honcho Happy Hour - NYC Agent Builders",
       "type": "tech",
-      "label": "Workshop / Training",
-      "day": "Tue",
-      "date": "2026-09-15",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Tue, 09/15 · 11:00 AM",
-      "price": "Free / varies",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-09-17",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Thu, 09/17 · 10pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/09/15/instructional-tech-drop-sessions",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Workshop / Training"
+      "place": "The Woods",
+      "source": "Luma NYC",
+      "link": "https://luma.com/honchohh",
+      "map": "https://maps.google.com/?q=The%20Woods%20NYC",
+      "summary": "Luma NYC: Plastic Labs, Marc, Lily Luo"
+    },
+    "luma_2026_09_17_september_happy_hour_with_fellow_designers": {
+      "title": "🗽🍻 September Happy Hour with fellow Designers 🤩🥂",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-09-17",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Thu, 09/17 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Parklife",
+      "source": "Luma NYC",
+      "link": "https://luma.com/bs2ol7sc",
+      "map": "https://maps.google.com/?q=Parklife%20NYC",
+      "summary": "Luma NYC: New York Product Design, Brian Hui, Collin Hadley"
     },
     "nyu_tandon_2026_09_16_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1471,40 +1454,6 @@
       "link": "https://engineering.nyu.edu/events/2026/09/24/instructional-tech-drop-sessions",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
-    },
-    "jc_culture_43481_2026_09_15_water_color_painting_workshop_with_leo": {
-      "title": "Water Color Painting Workshop with Leo",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Tue",
-      "date": "2026-09-15",
-      "time": "3:45 PM",
-      "sort": 15.75,
-      "when": "Tue, 09/15 · 3:45pm",
-      "price": "Free",
-      "free": true,
-      "place": "Camp Liberty, 300 Morris Pesin Drive, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/water-color-painting-workshop-with-leo/",
-      "map": "https://maps.google.com/?q=Camp%20Liberty%2C%20300%20Morris%20Pesin%20Drive%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Explore the beautiful art of watercolor at Camp Liberty. Join Artist Leo Emabat for a FREE 6-week program filled with painting projects for ages 9-12. Program will run every Tuesday from Sept. 15- October 20; 3:45PM-5:00PM. Space is limited! Scan QR Code to register and secure your spot."
-    },
-    "jc_culture_43804_2026_09_15_play_reading_series_clue": {
-      "title": "Play Reading Series – Clue",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Tue",
-      "date": "2026-09-15",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Tue, 09/15 · 5:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Camp Liberty, 300 Morris Pesin Drive, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/play-reading-series-clue/",
-      "map": "https://maps.google.com/?q=Camp%20Liberty%2C%20300%20Morris%20Pesin%20Drive%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us for a FREE script-in-hand reading of CLUE at Camp Liberty on Tuesday, September 15 from 5:30PM-8:30PM. NO ACTING EXPERIENCE is required. Email david@educationalartsteam.org to RSVP and secure your spot. Light refreshments will be served, and free parking onsite. This free event is in partnership with Speranza Theater Group."
     },
     "jc_culture_10003568_2026_09_16_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -2236,6 +2185,40 @@
       "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-11/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10003572_2026_10_14_hamilton_park_farmers_market_2026": {
+      "title": "Hamilton Park Farmers Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-10-14",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 10/14 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-10-14/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_43676_2026_10_15_fall_2026_open_house_hudson_county_community_college": {
+      "title": "Fall 2026 Open House Hudson County Community College",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Thu, 10/15 · 5:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "HUDSON COUNTY COMMUNITY COLLEGE NORHT CAMPUS, 4800 KENNEDY BLVD, UNION CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/fall-2026-open-house-hudson-county-community-college/",
+      "map": "https://maps.google.com/?q=HUDSON%20COUNTY%20COMMUNITY%20COLLEGE%20NORHT%20CAMPUS%2C%204800%20KENNEDY%20BLVD%2C%20UNION%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
     }
   },
   "clusters": {
@@ -2259,8 +2242,7 @@
     ],
     "cluster_2026_09_15_5_30_pm": [
       "gary_2026_09_15_ai_founders_mixer",
-      "gary_2026_09_15_startup_pitch_night_1k_cash_drop_ai_optional",
-      "jc_culture_43804_2026_09_15_play_reading_series_clue"
+      "gary_2026_09_15_startup_pitch_night_1k_cash_drop_ai_optional"
     ],
     "cluster_2026_09_15_6_pm": [
       "gary_2026_09_15_dinner_navigating_international_business",
@@ -2306,10 +2288,6 @@
       "gary_2026_09_18_bowling_business",
       "gary_2026_09_18_nyc_venture_week_networking_mixer",
       "jc_culture_43701_2026_09_18_cat_stick_easel_moon_exhibit_2026"
-    ],
-    "cluster_2026_09_16_11_am": [
-      "luma_2026_09_16_williamsburg_run_founders_creators_coffee",
-      "nyu_tandon_2026_09_16_instructional_tech_drop_in_sessions"
     ],
     "cluster_2026_09_16_5_pm": [
       "luma_2026_09_16_claude_code_workshop_with_provectus_new_york_city",
