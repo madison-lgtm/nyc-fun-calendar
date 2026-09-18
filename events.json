@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 18, 2026, 10:42 AM EDT",
+    "checked": "Sep 18, 2026, 5:47 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1572,23 +1572,6 @@
       "link": "https://luma.com/1dmo9dwu",
       "map": "https://maps.google.com/?q=NYU%20370%20Jay%20Street%20NYC",
       "summary": "Luma NYC: SWARM NYC, SWARM NYC, CUSP at NYU Tandon, Twilio, Cloudflare Developer"
-    },
-    "luma_2026_09_21_climate_tech_demo_series_collab_fund_streetlife_vent": {
-      "title": "Climate Tech Demo Series - Collab Fund, Streetlife Ventures",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-21",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Mon, 09/21 · 1pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, New York",
-      "source": "Luma NYC",
-      "link": "https://luma.com/l99e5v88",
-      "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
-      "summary": "Luma NYC: Laura Fox, Laura Fox, Craig Wilson, Lisbeth Kaufman, Sonam Velani, Streetlife Ventures"
     },
     "nyu_tandon_2026_09_21_scaling_metabolic_health_with_foundation_models_and_": {
       "title": "Scaling Metabolic Health with Foundation Models and AI Agents",
