@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Sep 18, 2026, 5:47 PM EDT",
+    "checked": "Sep 19, 2026, 10:03 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-09-18",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Sep 18"
-      },
       {
         "iso": "2026-09-19",
         "key": "Sat",
@@ -45,15 +39,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Sep 24"
+      },
+      {
+        "iso": "2026-09-25",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Sep 25"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-09-18",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Sep 18"
-      },
       {
         "iso": "2026-09-19",
         "key": "Sat",
@@ -233,13 +227,20 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 18"
+      },
+      {
+        "iso": "2026-10-19",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Oct 19"
       }
     ],
-    "todayKey": "Fri",
+    "todayKey": "Sat",
     "times": [
       "12 AM",
       "7 AM",
       "8 AM",
+      "8:30 AM",
       "8:45 AM",
       "9 AM",
       "10 AM",
@@ -252,8 +253,9 @@
       "2 PM",
       "2:30 PM",
       "3 PM",
-      "3:15 PM",
+      "3:30 PM",
       "4 PM",
+      "5 PM",
       "5:30 PM",
       "6 PM",
       "6:30 PM",
@@ -774,91 +776,6 @@
       "map": "https://maps.google.com/?q=enter%20at%20washington%20street%20and%20little%20west%2012th%20street%20(meatpacking%20district)%20NYC",
       "summary": "Daily picks. Pulled from The Skint's public article feed: sun 1-7pm: 18th annual urban bear nyc street fair: enter at washington street and little west 12th street (meatpacking district). $20 suggested donation."
     },
-    "gary_2026_09_18_founders_makers_coworking_mocktails": {
-      "title": "Founders & Makers - Coworking & Mocktails",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-09-18",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Fri, 09/18 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/fjwy9qx/Founders-Makers-Coworking-Mocktails",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: A full day of heads-down work at No More, with other people who are actually building things. No talks. No panels. No pitch round. Just a good room, good coffee, & everyone finally getting through the thing they have been putting off all month. Why this space works No More is genuinely built for working, which is rarer in this city than it should be. Outlets everywhere, so nobody is rationing battery by 2 PM Fast wifi that holds up with a room full of laptops Music stays low, so you can take a call without walking outside Long communal tables & a full counter, room to actually spread out Coffee & snacks all day without leaving your seat Who it is for Founders, researchers, designers, creatives, engineers, writers, & anyone with a side project they keep meaning to ship. If you build things, you belong here. How the day runs 9:00 AM, doors open, coffee & quick introductions 9:30 AM to 5:00 PM, open work, break whenever you need to 5:00 PM, mocktails, & we find out what everyone actually got done Food & coffee Nothing structured. The cafe has coffee & snacks all day, & the East Village is full of options if you want a proper meal. The company Honestly the main reason to come. A room where everyone is working on something they care about changes how your own day goes. Quiet focus while the work is happening, real conversation over mocktails at the end. Come for the whole day or drop in for a few hours. Both are fine. Bring your laptop, your headphones, & real work. Space is limited, so please only register if you actually plan to show up. Hosted by Ishaan from TechBrig."
-    },
-    "gary_2026_09_18_coffee_club_early_stage_b2b_founders_funders": {
-      "title": "Coffee Club - Early-Stage B2B Founders & Funders",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-09-18",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 09/18 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/3x2rlzt/Coffee-Club-Early-Stage-B2B-Founders-Funders",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Olivia O'Sullivan Naomi Goez, Lauren Roberts & Alice Krenitski (Forum Ventures)."
-    },
-    "gary_2026_09_18_ai_databricks_hackathon": {
-      "title": "AI Databricks Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-09-18",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Fri, 09/18 · 3:00pm",
-      "price": "$20",
-      "free": false,
-      "place": "Queens College, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/9kuxoai/AI-Databricks-Hackathon",
-      "map": "https://maps.google.com/?q=Queens%20College%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Beginner-friendly 3-day AI Hackathon for students/career switchers/people interested in working in tech. Registration on Luma is required for entrance."
-    },
-    "gary_2026_09_18_bowling_business": {
-      "title": "Bowling & Business",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-09-18",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 09/18 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/zsnpjg7/Bowling-Business",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With founders, investors, doctors & hospital execs."
-    },
-    "gary_2026_09_18_nyc_venture_week_networking_mixer": {
-      "title": "NYC Venture Week - Networking Mixer",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-09-18",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 09/18 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue,, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/805wrbk/NYC-Venture-Week-Networking-Mixer",
-      "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: One night to bring everyone together.Join us for the Venture Week NYC Networking Mixer, an elevated evening celebrating the founders, investors, operators, creators, & leaders shaping the next generation of technology & business.After a week of events, panels, dinners, mixers, & conversations across New York City, the Gala brings the Venture Week community together under one roof.Expect an evening of: Founders & startup leaders Investors & venture professionals Executives & operators Creators, marketers & tastemakers Drinks, music & exceptional conversation New connections & old friends A celebration of the people building whats nextThis will be a room full of people who are building, investing in, & shaping the future.Whether youve spent the week meeting founders, exploring new ideas, raising capital, hiring, launching a company, building an audience, or simply immersing yourself in NYCs technology ecosystemthe Gala is where the community comes together.Dress to impress (think business chic). Bring your curiosity. Come ready to meet someone you didnt know you needed to meet.ALINE X THE BUILDER SERIESALINE is a networking app that helps user connect with people based on their profile.The Builder Series: A 42,000+ member community redefining what networking looks like curating founders, operators, investors & more into intentional rooms built for experiences people remember & relationships that last. It's a direct line to the most ambitious builders, with a community that actually shows up.We've hosted 11 signature mixers & co-hosted 70+ events. We also host:Founder & investor-led panels curated by sectorIntimate penthouse & dinners for our Seed to Series A+ founders & investors in our networkA Tuesday & Saturday morning Startup Run ClubNotable events: Cliqk Launch Party w/ Ilias Anwar & Rohan Gurram (2,000+ RSVPs) $1.5M Pitch Competition with FounderSquareFind us here: Instagram LinkedIn TikTok Facebook XAbout Venture WeekVenture Week is a global collection of events bringing together founders, investors, executives, marketers, operators, & leaders across technology, business, andAttendance will be approved once you have downloaded the ALINE app.Exact location will be shared with approved attendees.This is part of Venture Week. For more info & questions email: info@venture-week.com"
-    },
     "gary_2026_09_19_healthtech_launchathon_clawcamp": {
       "title": "HealthTech Launchathon & ClawCamp",
       "type": "startup",
@@ -910,6 +827,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Francesca Poupel (F&G Capital Partners), Jay Spindel (SOJA Ventures & INTE Securities), 6 active funds & 20 seed to series A+ founders."
     },
+    "gary_2026_09_21_making_circularity_pay_off": {
+      "title": "Making Circularity Pay Off",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-09-21",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Mon, 09/21 · 9:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Juunoo, 41 Union Square West, #320",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/wtbadon/Making-Circularity-Pay-Off",
+      "map": "https://maps.google.com/?q=Juunoo%2C%2041%20Union%20Square%20West%2C%20%23320",
+      "summary": "Gary's Guide: With Chris Van de Voorde (Founder, Circular Value Institute), Sandra Goldmark (Assoc. Dean, Columbia Climate School)."
+    },
     "gary_2026_09_21_columbia_fashion_energy_climate_summit": {
       "title": "Columbia Fashion, Energy & Climate Summit",
       "type": "startup",
@@ -926,6 +860,57 @@
       "link": "https://www.garysguide.com/events/jkd837d/Columbia-Fashion-Energy-Climate-Summit",
       "map": "https://maps.google.com/?q=Columbia%2C%202950%20Broadway%2C%20Pulitzer%20Hall",
       "summary": "Gary's Guide: With Kelly Kizzier (Dir., Bezos Earth Fund), Liz Alessi (Founder, Crisis Of Stuff), Alexis Abramson (Dean, Columbia Climate School), Vanessa Barboni (Founder, Another Tomorrow), Tricia Carey (CCO, Avalo)."
+    },
+    "gary_2026_09_21_building_for_the_future_data_centers_water_stewardsh": {
+      "title": "Building For The Future - Data Centers, Water Stewardship & Decarbonization",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Mon",
+      "date": "2026-09-21",
+      "time": "11:30 AM",
+      "sort": 11.5,
+      "when": "Mon, 09/21 · 11:30am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, 605 3rd Ave, 2nd Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/mweblvf/Building-For-The-Future-Data-Centers-Water-Stewardship-Decarbonization",
+      "map": "https://maps.google.com/?q=Venue%2C%20605%203rd%20Ave%2C%202nd%20Fl",
+      "summary": "Gary's Guide: Two of the hardest problems in corporate climate action right now are water & energy, & both are being tested in real time by companies making infrastructure decisions with long lifespans. This event brings together cross-sector practitioners to discuss what's working, what's stuck, & what needs to change to achieve meaningful, shared solutions at scale. Panel one - data centers & water: Water is an increasing source of tension as data center development accelerates. Data center developers are setting water positive commitments that include reducing water demand & increasing reuse, & also investing in water replenishment that goes beyond the fenceline to invest in watersheds. In this panel, we will bring together speakers representing hyperscalers, utilities, & communities to explore what is needed to effectively support communities & ecosystems while reducing data center risks. Panel two - portfolio decarbonization: Setting a corporate emissions target is straightforward; delivering it across a portfolio of facilities built over decades is not. Public & private sector panelists will discuss how large organizations sequence capital across sites with different ages, uses, & local grids - where electrification pencils out, where it doesn't yet, & what actually moves a portfolio rather than a single flagship building."
+    },
+    "gary_2026_09_21_built_world_resiliency_from_data_centers_to_material": {
+      "title": "Built World Resiliency - From Data Centers To Materials",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Mon",
+      "date": "2026-09-21",
+      "time": "3:30 PM",
+      "sort": 15.5,
+      "when": "Mon, 09/21 · 3:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/bqpzp9i/Built-World-Resiliency-From-Data-Centers-To-Materials",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With founders Greg Robinson (Aston Power), Erin Bobicki (Cura), Leise Sanderman (Pathways), Vardhan Meta (Acelabs), Zak Kostura (Chief Growth Officer, Flexnode), Isela Bahena (Infra, Nuveen)."
+    },
+    "gary_2026_09_21_when_data_goes_dark_preparing_for_climate_disasters_": {
+      "title": "When Data Goes Dark - Preparing For Climate Disasters In Era Of Science Disinvestment",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Mon",
+      "date": "2026-09-21",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Mon, 09/21 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Civic Hall, 124 E 14th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ekr8za9/When-Data-Goes-Dark-Preparing-For-Climate-Disasters-In-Era-Of-Science-Disinvestment",
+      "map": "https://maps.google.com/?q=Civic%20Hall%2C%20124%20E%2014th%20St",
+      "summary": "Gary's Guide: Over the past year, climate science & environmental data & tools have faced steep disinvestment, but maintaining a strong scientific enterprise & the data it creates is critical to helping communities & businesses prepare for & respond to climate risks. When that data disappears, so does our ability to anticipate, prepare for, & respond to climate disasters before they strike. This panel starts by looking at what's been lost, & at the rescue efforts now underway to preserve high-fidelity climate data & disaster-cost datasets before they disappear for good. It then turns forward: what will it take to rebuild a more resilient, connected environmental data ecosystem - one built so that this kind of loss can't happen again? Join us for a conversation that moves from triage to reimagining, bringing together leaders in climate science, environmental data, global research, & emergency management to chart what comes next. Sponsored By: American Geophysical Union Climate Central The New York Climate Exchange Open Environmental Data Project"
     },
     "gary_2026_09_21_ai_show_tell": {
       "title": "AI Show & Tell",
@@ -1080,6 +1065,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Kat Esser (Global Impact Accelerators), Rachel Opitz (Taylor Geospatial), Ben Strong (Earth Genome), Matt Houser (The Nature Conservancy)."
     },
+    "gary_2026_09_22_activating_data_across_urban_environments": {
+      "title": "Activating Data Across Urban Environments",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-09-22",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Tue, 09/22 · 1:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, 110 Andes Rd",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/vwm587f/Activating-Data-Across-Urban-Environments",
+      "map": "https://maps.google.com/?q=Venue%2C%20110%20Andes%20Rd",
+      "summary": "Gary's Guide: This session brings together the scientists, agencies, & community partners generating environmental data across New York City to confront a shared challenge: critical atmospheric & marine data is being collected across the region, but too often in silos that limit its reach & impact. The program uses Governors Island's own environmental sensing efforts as a working case study, then opens into a broader conversation about how disparate data streams across NYC can be coordinated, shared, & activated-pointing toward the kind of cross-sector collaboration The Exchange's campus is designed to enable."
+    },
     "gary_2026_09_22_climatetech_startup_showcase": {
       "title": "Climatetech Startup Showcase",
       "type": "startup",
@@ -1091,10 +1093,10 @@
       "when": "Tue, 09/22 · 1:30pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "Venue,, To Be Announced",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/a9anzqk/Climatetech-Startup-Showcase",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Georgina Flatter (CEO, Greentown)."
     },
     "gary_2026_09_22_nordic_investor_night_lp_reception": {
@@ -1114,6 +1116,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: We're back for round two! Last year during New York Climate Week, we gathered a roomful of international investors & Nordic LPs & GPs for the first time to talk about the opportunities up north & added a little flavour to the evening by bringing in delicacies from the Nordics. This year we're doing it again! And here's the pitch: the Nordics have become a hotbed for the climate economy. Clean energy, green industry, the talent to build it, & the kind of public-private teamwork that actually move things ahead. It's a lot of opportunity for a corner of the world best known for dark winters & excellent coffee consumption. This evening is for the people deciding where the capital goes next: a handpicked crowd of VC funds, sovereign & institutional LPs, & family offices. A nice dinner will be served, along with drinks & good conversations. Join us for a lovely night with an Arctic flavour! Brought to you in the true nature of Nordic collaboration by: Copenhagen Capacity, Stockholm Business Region, Oslo & Co, Helsinki Partners & Business Iceland; along with our ecosystem partners: Startuplab & Invest In Denmark."
     },
+    "gary_2026_09_22_how_data_center_fights_renewing_local_power_across_u": {
+      "title": "How Data Center Fights Renewing Local Power Across US",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-09-22",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Tue, 09/22 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Retro Report, 633 3rd Ave, 16th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/09cesz3/How-Data-Center-Fights-Renewing-Local-Power-Across-US",
+      "map": "https://maps.google.com/?q=Retro%20Report%2C%20633%203rd%20Ave%2C%2016th%20Fl",
+      "summary": "Gary's Guide: This is an in-person event happening as part of NYC Climate Week. To hear many in the tech industry tell it, data centers will bring wealth & prosperity not only to those who build them, but to the communities that ultimately live with & around them. However, drawing a longer historical arc is essential: AI is proposed as a new industrial moonshot in communities that have already seen the rise & fall of steel factories, coal plants, fracking infrastructure, & more. Today's companies are trying to sell communities on yet another industrial vision. On Sept. 22 at 5:30 p.m., join us in Midtown East, Manhattan, for a panel discussion featuring journalists, nonprofits, & community organizers who are uncovering the impact of data centers across the country & sharing that information with the public. Our panel discussion will feature Maia Woluchem, program director of Data & Society's Trustworthy Infrastructures program; Alejandra Martinez, The Texas Tribune environmental reporter & Pulitzer Center grantee; Brian Crawford, Texas resident with the nonprofit Protect the Paluxy Valley; & Ginny Marcille-Kerslake, Pennsylvania resident & Senior Organizer at Food & Water Watch. Kit R. Roane, award-winning senior producer at Retro Report, will be the moderator. This event is anchored by the launch of Data & Society's forthcoming report, The AI Factory: Data Centers, Power & Resistance in Late Industrial Pennsylvania, a landmark study emerging out of eighteen months of field research in the Keystone State, as well as Pulitzer Center-supported reporting on data center development by The Texas Tribune. Light refreshments will be served. Seating is limited, & R.S.V.P. is required. This panel discussion is co-organized by Data & Society, Retro Report, & The Pulitzer Center."
+    },
     "gary_2026_09_22_tech_social": {
       "title": "Tech Social",
       "type": "startup",
@@ -1130,6 +1149,23 @@
       "link": "https://www.garysguide.com/events/44fnpaj/Tech-Social",
       "map": "https://maps.google.com/?q=Seven24%20Collective%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With KevinPark (Founder/CEO, Concord Visa), Elena Obukhova & Christopher Michael (Co-Founders, Supermoon), Manan Patel (Dir., Avahi)."
+    },
+    "gary_2026_09_22_buildings_as_grid_assets": {
+      "title": "Buildings As Grid Assets",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-09-22",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Tue, 09/22 · 5:30pm",
+      "price": "$18",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/djcumek/Buildings-As-Grid-Assets",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Alex Blumberg (Founder, DaisyChain Energy), Richard Yancey (CEO, Building Energy Exchange), Ryan Baxter (Carbon Strategist, Energy By 5), Alexander Potulicki (ConEd)."
     },
     "gary_2026_09_22_future_of_financial_services_w_microsoft_ai": {
       "title": "Future Of Financial Services w/ Microsoft AI",
@@ -1267,6 +1303,23 @@
       "map": "https://maps.google.com/?q=Columbia%20Business%20School%2C%20665%20W%20130th%20St%2C%20Rm%201040",
       "summary": "Gary's Guide: With Devrim Celal (CMO, Kraken), Dana Guernsey (Founder, Voltus), Robert Metcalfe (Chief Economist, Centre For Net Zero), Gernot Wagner (Climate Economist, Columbia Biz School)."
     },
+    "gary_2026_09_22_creative_ai_forum": {
+      "title": "Creative AI Forum",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-09-22",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 09/22 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/jsuxvto/Creative-AI-Forum",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: NYC Creative AI (formerly ComfyUI NYC) hosted by ZeroSpace & Daydream September 22nd, 2026 Livestream link Join us for our monthly NYC Creative AI event, where we explore the broader AI ecosystem & the tools, models, workflows, & the artists & builders pushing this space forward. Each event features technical sessions, live demos, & discussions with community experts. ComfyUI remains close to the community's roots, & as the AI landscape evolves, this event is growing into a home for all of creative AI in New York. Hosted at ZeroSpace, a next-gen production & creative studio specializing in the integration of digital, virtual, & live content. Speakers TBA We have an open call for speakers who want to present at our upcoming events! Please fill out this form if you are interested. Sponsors ZeroSpace ZeroSpace is a next-gen production & creative studio specializing in the integration of digital, virtual, & live content. 4Wall Entertainment 4Wall Entertainment provides entertainment equipment & production services across all facets of the entertainment industry. HP Z Power through your heaviest workloads with high-performance workstation computers, including AI-enhanced laptops, desktops, monitors & solutions. Past Events: Aug: Step Alinsug demo'ed Livepeer Agent, Rithik Kundu demo'ed an AI-powered audio generation plugin for Ableton Live, MetaDJ performed a completely AI generated DJ set. July: Matt Miller of Comfy Org on MCP integrations in ComfyUI, Gil Shefler from Bria announce their latest video background removal model, Xuelong Mu from ZeroSpace introduces ZeroGen. April: Louis Castricato from Overworld presents Waypoint-1.5 world model, & RyanOnTheInside on an ACEStep 1.5 XL ComfyUI integration. March: Michael Gold on an Comfy agent harness for 3D characters & James Barnes on ETHEREA, an engine for collective imagination February: RyanOnTheInside on VACE for autoregressive video models & ACEStep 1.5 audio model integration January: Purz on integrating Comfy with GLSL Shaders & Bria AI on FIBO, FIBO Edit workflows December: Yondon Fu on Scope & Alex Katzfey on ComfyGit October: Automating ComfyUI with agents by Fill, plus an introduction to the LTX-2 video model by Lightricks August: Advanced ComfyUI workflows with Wan: Advanced Techniques by @allhailthealgo, plus a deep dive into WAN 2.2 + the Banodoco community with shadowworksltd.com. July: A showcase of real-time AI video workflows using ComfyUI, TouchDesigner, & Livepeer by Dotsimulate, plus a production-focused session with Jacky Lu. June: Calvin Herbst showcasing FLUX & WAN 14B using open-source multimodal pipelines within ComfyUI. May: A demo of Daydream + ComfyStream for real-time video AI, paired with techniques for using ComfyUI to leverage generative AI in accelerating & extending traditional 3D production pipelines. April: Demo by Flipping Sigmas, a professional AI artist at Asteria Film, using ComfyUI for animation & film production. March: Honouring International Women's Day with an inspiring meetup focused on women in AI! Emma, a Comfy Ambassador, leads an engaging workshop designed to celebrate & empower women in the field. February: Interview with Spencer Sterling, multidisciplinary artist & machine learning researcher who transforms musical experiences into immersive visual environments. January: Kosinkadink, creator of the ComfyUI extension for AnimateDiff, presented on Masking & Scheduling LoRA & Model Weights. He also demonstrated his new real-time manipulation system for LoRA weights, integrated with ComfyStream for AI-driven video adjustments. December: Interview with ComfyAnonymous: We explored ComfyUI, its impact on AI workflows, & its role in shaping the future of creative AI."
+    },
     "gary_2026_09_22_gtm_ai_lightning_talks": {
       "title": "GTM & AI Lightning Talks",
       "type": "tech",
@@ -1351,6 +1404,23 @@
       "link": "https://www.garysguide.com/events/pf00luj/Regenerative-Materials-Across-Industries",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With founders Stephanie Down (Uncaged Innovations), Janet Rodriguez (SoHarlem), Aradhita Parasrampuria (Cellsense), Samia Lemfadli (Change For Good), Kate Ascher & Helen Lu (Dir., Gotham Foundry), Jui Chaugule (Head of Research, Provizigen), Sonia Park (VP Innovation, NYCEDC)."
+    },
+    "gary_2026_09_23_turning_geospatial_data_into_action_on_pollution_cli": {
+      "title": "Turning Geospatial Data Into Action On Pollution & Climate",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-09-23",
+      "time": "8:30 AM",
+      "sort": 8.5,
+      "when": "Wed, 09/23 · 8:30am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, 307 W 38th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/gp1hnbx/Turning-Geospatial-Data-Into-Action-On-Pollution-Climate",
+      "map": "https://maps.google.com/?q=Venue%2C%20307%20W%2038th%20St",
+      "summary": "Gary's Guide: Join Leading Voices Shaping the Future of Climate & Conservation Technology SkyTruth is convening the field's top leaders & practitioners for a high-impact gathering focused on one overarching question: how can geospatial data accelerate our collective progress on the planet's most pressing environmental challenges? This isn't just a series of panels, but a working session designed to surface gaps, spark partnerships, & drive action. It is built around three of the most consequential data frontiers in environmental science today: Exposing Ocean Pollution at Scale Be part of the conversation around SkyTruth's groundbreaking new report revealing the extent, concentration, & culpability of chronic oil pollution in our oceans - a major advancement for mapping human industrial activity at sea & an essential step towards holding polluters accountable. Uncovering the Hidden Costs of Oil & Gas Join leading organizations tackling one of climate's biggest blind spots: emissions caused by the offshore oil & gas industry. Help close the gap between detection & action on the sector's least-visible but most damaging climate impacts. Protecting Biodiversity from Industrial Threats Contribute to cross-sector efforts spanning philanthropy, government, & the environmental movement to measure & mitigate the impact of mining operations on the world's most critical ecosystems. About the host: SkyTruth (skytruth.org) is a conservation technology nonprofit that leverages satellite imagery & environmental data to create tools & develop insights that drive accountability, accelerate climate action, & support biodiversity protection. Connect with us: LinkedIn: / skytruth Instagram, BlueSky: @skytruth Facebook: facebook.com/skytruth Sign up for our newsletter: ttps://bit.ly/SkyTruth-newsletter"
     },
     "gary_2026_09_23_talent_leaders_breakfast": {
       "title": "Talent Leaders Breakfast",
@@ -1437,141 +1507,73 @@
       "map": "https://maps.google.com/?q=Performance%20Space%2C%20150%201st%20Ave%2C%204th%20Fl",
       "summary": "Gary's Guide: With JC Jung (Anywhere Ventures), Civic Innocent (Frankenbuild Ventures), Natalie Cira (HG Ventures), Nathalie Moral (Vitamino'C)."
     },
-    "gary_2026_09_23_accommodating_growth_in_the_global_south": {
-      "title": "Accommodating Growth In The Global South",
+    "gary_2026_09_23_climate_action_delivers_affordability_for_new_yorker": {
+      "title": "Climate Action Delivers Affordability For New Yorkers",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Wed",
       "date": "2026-09-23",
-      "time": "1:30 PM",
-      "sort": 13.5,
-      "when": "Wed, 09/23 · 1:30pm",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Wed, 09/23 · 1:00pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, 395 Hudson St",
+      "place": "The Mezzanine at Bond Gather, 55 Broadway",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/0ndow9y/Accommodating-Growth-In-The-Global-South",
-      "map": "https://maps.google.com/?q=Venue%2C%20395%20Hudson%20St",
-      "summary": "Gary's Guide: All guests are welcome to arrive early for a light lunch & networking beginning around noon. Most of the world's urban growth over the next few decades will happen in cities that don't yet exist at scale - concentrated in the Global South, where population growth is fastest & infrastructure is least locked in. Whether that growth compounds sprawl-driven emissions or avoids them depends on choices being made right now about housing & land use policy, as well as transportation infrastructure investments. Once made, these decisions produce long-lasting impacts for climate, accessibility, & economies. This panel will draw from the experience of urban planning, land use, & transportation experts actively working on efforts in the global south. Speakers: Robin King (Moderator), Director, Knowledge Capture & Collaboration, Universidad Torcuato Di Tella Cynthia Goytia, Head of the Master of Science in Urban Economics Program, WRI Solly Angel, Professor of City Planning, NYU Marron Samhita Shiledar, Principal, RMI Adriana Akers, Senior Project Manager, Gehl This session is hosted by Gehl, the NYU Marron Institute, the Parking Reform Network, & WRI & is a part of The Urban Climate Solution track at NYC Climate Week 2026. View all events in the track at https://www.urbanclimatesolution.org/. By registering for this event, you agree to share your contact information with the organizers of Urban Climate Solution & co-hosting partner organization(s) for this session. This may include being added to mailing lists for future updates. You also agree that photos, video, & materials captured during the session may be used to document & promote the event & the organizers' work."
+      "link": "https://www.garysguide.com/events/n22vb9c/Climate-Action-Delivers-Affordability-For-New-Yorkers",
+      "map": "https://maps.google.com/?q=The%20Mezzanine%20at%20Bond%20Gather%2C%2055%20Broadway",
+      "summary": "Gary's Guide: With Andrew Wang (Founder/CEO, Every Electric), Julie Tighe (President, NY League of Conservation Voters), Marguerite Wells (Dir., Alliance for Clean Energy NY)."
     },
-    "gary_2026_09_23_family_offices_investors_summit": {
-      "title": "Family Offices & Investors Summit",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-23",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Wed, 09/23 · 2:00pm",
-      "price": "$399",
-      "free": false,
-      "place": "3 West Club, 3 W 51st St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ojboi6t/Family-Offices-Investors-Summit",
-      "map": "https://maps.google.com/?q=3%20West%20Club%2C%203%20W%2051st%20St",
-      "summary": "Gary's Guide: 150 seats. One room. For the family offices & investors shaping the next decade of climate & frontier tech. *************************************** A NOTE ON THIS YEAR'S FORMAT After 6 summits & conversations with some of the most respected allocators in our network, we rebuilt this event from the ground up. The feedback was clear: fewer people, sharper curation, more structured conversations, less noise. We listened. This year, we are introducing a phased entry system designed to protect the quality of every interaction in the room. Phase 1 (2:00 PM): Family offices & institutional LPs enter first. For one full hour, the room belongs exclusively to verified allocators. No pitches. No founders. No fund managers. Just the people who write the largest checks, meeting each other on their own terms. Phase 2 (3:00 PM): Fund managers & GPs join. They enter a room where 45+ family offices are already warmed up & engaged. Thematic breakout rooms open by vertical: Energy Abundance, Grid Optimization, Climate Resilience, Built Environment. No random panels. Every room has a thesis. Phase 3 (4:00 PM): Founders enter. They walk into a room of 90+ allocators & fund managers who have been having substantive capital conversations for two hours. The conversations are flowing. The context is set. 150 seats. Three phases. Every phase designed so the right people meet at the right moment. We are not getting bigger. We are getting better. This is the most curated, most intentional event we have ever produced. If you have been in our rooms before, you will notice the difference. If this is your first time, you are walking into something we spent three years learning how to build. For this 7th edition of our summit, we are coming back with a professional event production team, snacks & wine, jazz band & a investors speed dating platform designed to break the ice & maximize your fundraising during Climate Week NYC! The Family Offices & Investors Summit @ Climate Week NYC is not another conference - it's a curated, closed-door gathering where LPs, GPs, & climate founders sit at the same table & do business. Last year, our events facilitated over $37M in investments & transactions (+the ones we have not made aware of). This year, we're raising the bar & want to double that number. WHO'S BEEN IN THE ROOM: Invited Family Offices & Institutional Capital KKR ($361B+ AUM, New York) - Global investment firm. Principal from KKR's Sustainability & Capital Formation team joining us. Generation Investment Management ($44B+ AUM, San Francisco / London) - Al Gore's sustainable investment firm. Founding Partner Colin le Duc returning for the second consecutive year. Rockefeller Foundation ($6B endowment, New York) - Director of Energy Technology & Innovation Shunondo Basu. Net-zero endowment commitment. Speaker at both 2025 summits, returning for 2026 Merit France / CMA CGM Saade Family (~$18B family fortune, France) - The world's 3rd largest shipping company. Committed $18B to fleet decarbonization & launched a $1.5B Pulse Fund dedicated to frontier & clean energy innovation. Energy Impact Partners ($4.5B AUM, New York) - Climate infrastructure VC backed by 80+ global utility & energy partners. Returning for 2026. Schmidt Sciences (Multi-$B, Palo Alto) - Eric Schmidt's frontier science & technology initiative. Returning for 2026 Wittington Ventures ($500M venture platform / $21B Weston family, Canada) - The venture arm of one of North America's largest private family enterprises. Sending a new team member for the third consecutive event. B Capital Group / EE Capital (Eduardo Saverin's $9B+ venture platform, Singapore) - One of Asia's most active frontier & climate tech investors, recently hired Temasek's Head of Sustainable Investing. Merit France / CMA CGM Saad Family (~$18B family fortune, France) - The world's 3rd largest shipping company. Committed $18B to fleet decarbonization & launched a $1.5B Pulse Fund dedicated to frontier & clean energy innovation. TIME Ventures / Benioff Family ($300M+ committed to frontier tech & climate, San Francisco) - Salesforce founder Marc Benioff's personal fund backing fusion energy, reforestation, & ecopreneur ventures. Ho Family Office / Banyan Group (100+ properties across 28 countries, Singapore) - Founder Ho Kwon Ping built a global hospitality empire from an abandoned tin mine. Now deploying family capital into resilience & adaptation across Asia. PETRONAS Ventures ($800M+ CVC, Malaysia) - The energy giant's corporate venture arm, backing breakthrough energy startups from Kuala Lumpur to Silicon Valley. Aglaia Family Office (Leading multi-family office, Singapore) - Independent MFO serving UHNW families from SEA. BlackRock ($11.5T+ AUM, New York) - World's largest asset manager. SK Discovery ($10B+ market cap, Seoul) - Korean industrial conglomerate's venture investment arm. Deploying across materials, energy, & chemicals innovation. BASF Corporate Venture Capital ($87B revenue parent, Germany) - Venture arm of the world's largest chemical company. Hennessy Capital Group ($1.8B+ deployed via SPAC, Houston) - Five completed climate & industrial technology SPACs. SOSV HAX IndieBio ($1.5B AUM, San Francisco) - The #1 most active climate tech venture investor globally. GP returning for 2026 Invited Founders & Fund Managers Nicholas Flanders - Co-Founder & CEO, Twelve (turning CO into jet fuel, backed by TPG Rise Climate) Martijn Lopes Cardozo - Partner, Regeneration.VC (Leonardo DiCaprio-backed circular economy fund) Brian Riordan - Co-Founder & COO, Avalanche Energy (compact fusion systems advancing next-generation clean energy) Daria Saharova - General Partner, World Fund (350M European climate VC. One of Europe's largest dedicated climate funds. Joining SF 2026) Peter Hirsch - Head of Sustainability & Partnerships, 2150 (300M+ urban sustainability deep tech VC, London/Copenhagen. Joining SF 2026) Mira Inbar - Partner, ArcTern Ventures ($500M+ deployed into climate tech across 40+ companies. Joining SF 2026) Jocelyn Matyas - Cisco Foundation (supporting climate innovation & early-stage impact ventures) More speakers to be announced $110 BILLION in committed capital represented in this room. This is an 150-person event. Every seat is curated. No expo booths. No filler panels. Just the people writing checks & the founders building the future. OUR TRACK RECORD: WHO HAS BEEN IN THE ROOM: Since 2023, Family Offices & Investors summits & The Climate & Frontier Tech Coalition have convened 280+ verified family offices & LPs alumni across 8 cities - including New York, San Francisco, Paris, Singapore, & Abu Dhabi. Here's a sample of who has attended & engaged: Family Offices & Principals Who Have Attended Our Events: Rockefeller family entities - ~$133B (Rockefeller Capital Management client assets) Rothschild Family Foundation (US) - ~$1B (foundation assets; broader Rothschild & Co. manages ~$100B+) Bill & Melinda Gates Foundation (US) - ~$77B (endowment as of Dec 2024) MacArthur Foundation (US) - ~$9.2B (endowment as of Dec 2024) Martin Bouygues Family Office (France) - ~$20B (Bouygues Group enterprise value) Yves Saint Laurent Kering Family Office (France) - ~$30B (Pinault family Artemis holding; Kering market cap ~$25B+) CMA CGM / Saad Family Office - ~$24B (Saad family net worth; CMA CGM revenue $50B+) Schmidt Family Office (US) - ~$30B (Eric Schmidt net worth; Hillspire manages investments across AI, deep tech) Tsao Family Office (IMC / Pacific International Lines) - ~$4B (PIL enterprise value) Koch family representatives (US) - ~$125B+ (Koch Industries annual revenue ~$125-140B; family net worth ~$130B) Wittington Investments / Weston Family Office - ~$35B (controls Associated British Foods, Loblaw, Primark, Fortnum & Mason) Kuok Family Office (Southeast Asia) - ~$15B (Robert Kuok net worth; Shangri-La, Kerry Group, Wilmar) Singha Family Office (Thailand) - ~$5B (Boon Rawd Brewery / Singha Corp enterprise value) ThaiBev Family Office (Thailand) - ~$15B (ThaiBev market cap; Charoen Sirivadhanabhakdi family) Genting Family Office (Singapore) - ~$12B (Genting Group market cap across listed entities) Petronas Family Office (Malaysia) - ~$80B (Petronas total assets; sovereign-linked) Hartanto Family Office (Indonesia) - ~$1-2B (estimated private holdings) VinGroup (Vietnam) - ~$8B (VinGroup market cap; Pham Nhat Vuong net worth ~$9B) YTL Family Office (Malaysia) - ~$8B (YTL Corp + YTL Power combined market cap) Rosewood / New World Group Family Office (Hong Kong) - ~$12B (Cheng family; New World Development market cap + private holdings) Corporate & Institutional Investors Who Have Attended: Temasek - ~$324B (US$324B net portfolio value as of March 2025; 52% in unlisted/private assets) GIC - ~$800-930B (estimated AUM; ~18% allocated to private equity + 13% to real estate) BlackRock - ~$675B in alternatives (total AUM $14T; top-5 global alternatives platform) Salesforce - ~$3B (Salesforce Ventures, one of the largest corporate VC arms) Circo - ~$1B (estimated private market exposure) Merrill Lynch - ~$3.4T+ (client assets via BofA Wealth Management; significant alts allocation) Bank of America - ~$5.7T (total assets; extensive private market & principal investment exposure) CP Group (Thailand) - ~$90B+ (Charoen Pokphand Group; Dhanin Chearavanont family conglomerate spanning agribusiness, telecom, retail) SCG (Siam Cement Group) - ~$15B (enterprise value; Crown Property Bureau) PTT Group (Thailand) - ~$50B+ (PTT Public Company market cap + subsidiaries; state-owned energy) NEOM - ~$500B (official project budget; backed by PIF, Saudi Arabia's $925B sovereign wealth fund) TotalEnergies - ~$160B (market cap; $2B+ annual venture/low-carbon investment) Shell - ~$200B (market cap; Shell Ventures active in energy transition & deep tech) Frontier & Venture Capital Firms Who Have Attended: LowerCarbon Capital - ~$2B+ (AUM across 4 funds; Chris Sacca-led climate VC) SOSV - ~$1.5B (AUM; most active deep tech pre-seed investor globally) DCVC - ~$3B+ (total AUM across multiple deep tech funds + DCVC Climate Select ~$400M) Breakthrough Energy Ventures - ~$3.5B+ (committed capital across 3 flagship funds; backed by Gates, Bezos, Bloomberg) Combined estimated private market exposure represented at Atlas Coaliton's events: $2.5T+ USD Sponsors & Partners: Get full access to our alumni directory of 280+ verified past family offices guests - including family offices, institutional LPs, & hardware / frontier tech founders - through our WeTheAtlas Family Office & Investors Matching System. Search by investor type, AUM range, sector focus, & geography. Request warm introductions to any previous guest directly through the platform. Reach out to us at : team@wetheatlas.com WHAT HAPPENED AFTER OUR LAST SUMMITS This is not a talking shop. Capital moves in this room. $15M Raised - Twelve (SAF Carbon Transformation). An introduction made through our summit network connected Twelve - the company turning CO into jet fuel & chemicals for Mercedes-Benz, P&G, & British Airways - with the CMA CGM Saad family office. Result: $15M raised to scale the technology that's replacing fossil fuels with air & water. $37M+ in Funds LPs Investments Value Facilitated in 2025. Across our summits & coalition network, Atlas team facilitated more than $37M in transaction value between LPs & GPs of frontier & climate tech funds in a single year. 500+ Investor-Innovators Connections Made. Our events don't end when the panels do. Through structured 1:1 matching, post-event introductions, & the WeTheAtlas platform, our summits have generated over 500 qualified LP-GPs connections since 2024. Every number on this page is real. We don't count badge scans. We count capital deployed. THE FORMAT: BUILT FOR DEALS, NOT PANELS This is not a 3,000-person conference with a lanyard & a prayer. Here's exactly how the day works: 150 attendees. That's it. We cap attendance & curate every seat. Ratio target: 50% LPs & family offices, 30% GPs & fund managers, 20% frontier tech founders. Everyone in the room is either writing checks or building companies worth funding. Structured 1:1 Investor-Founder Matching. Every sponsors is matched with up to 10 relevant connections before the event through our WeTheAtlas matching system. You'll arrive knowing exactly who to meet, what time & which table number - no cold intros, no wasted conversations. 3 Deep-Dive Panels (Not TED Talks) Moderated discussions with founders & investors who are in the trenches - not keynotes from people selling you a vision. Topics this year: Energy Abundance: Nuclear Power, SAF & the New Economics of the Energy Renaissance From Bits to Atoms: Physical AI, Robotics & the Climate Resilient Infrastructure Revolution LP & GP Perspectives: Deploying Capital in Vital, Frontier Tech, Resilience & the Rise of Secondaries Old Money, New Frontiers: Foundations, Endowments & Corporates Are Funding Existential Resilience The 2026 Portfolio: How Family Offices Are Navigating War, Tariffs, Reshoring & the New World Order About WeTheAtlas WeTheAtlas is the capital mobilization platform for frontier & climate tech. We connect family offices, institutional LPs, & regional conglomerates with the founders building the future of energy, AI infrastructure, robotics, & industrial decarbonization. The platform integrates four engines: Summits - 150-person curated events in New York & San Francisco bringing LPs face-to-face with frontier tech founders The Adaptive Economy Newsletter - Weekly intelligence reaching 15,000+ frontier & resilience investors & founders worldwide LP-GP Matching - Proprietary family offices / LPs & investor-founder matching system powering warm introductions year-round SPVs & Co-Investment - Direct co-investment vehicles alongside vetted fund managers & family offices In 2025: $37M+ in investments facilitated. 280+ family offices alumni. 1,200+ coalition members representing $500B in committed capital. Learn more: wethetatlas.com About The Atlas Coalition The Atlas Coalition is a community focused on funding vital innovations for our society & our only planet. With $22B committed across 1,200 members (70% investors, 30% founders), the coalition hosted events in 8+ cities, share a monthly newsletter, conduct media interviews, & connect active frontier & climate investors through deal flow. Learn more: https://www.atlascoalition.com/ By registering for this event, you agree to share your registration information with the organizers of Climate Week NYC."
-    },
-    "gary_2026_09_23_shaping_the_data_center_narrative": {
-      "title": "Shaping The Data Center Narrative",
+    "gary_2026_09_23_from_data_to_decarbonization_ai_powered_climate_acti": {
+      "title": "From Data To Decarbonization - AI-Powered Climate Action Across The Value Chain",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Wed",
       "date": "2026-09-23",
-      "time": "2:30 PM",
-      "sort": 14.5,
-      "when": "Wed, 09/23 · 2:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "LUME Studios, 393 Broadway",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/0nhlzrr/Shaping-The-Data-Center-Narrative",
-      "map": "https://maps.google.com/?q=LUME%20Studios%2C%20393%20Broadway",
-      "summary": "Gary's Guide: With Keith Zakheim (CEO, Antenna Group), Marcus Krembs (Head of External Relations & Sustainability, Enel)."
-    },
-    "gary_2026_09_23_will_autonomous_vehicles_improve_the_environment": {
-      "title": "Will Autonomous Vehicles Improve The Environment",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-23",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Wed, 09/23 · 3:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 15 W 39th St, 10th fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/9afl2ht/Will-Autonomous-Vehicles-Improve-The-Environment",
-      "map": "https://maps.google.com/?q=Venue%2C%2015%20W%2039th%20St%2C%2010th%20fl",
-      "summary": "Gary's Guide: With Jeffrey Tumlin (ex-Exec. Dir., SF Municipal Transportation Agency), Jeral Poskey (Founder, Swyft Cities), David Zipper (Bloomberg City Lab)."
-    },
-    "gary_2026_09_23_visualizing_climate_worlds_data_ai_immersive_futures": {
-      "title": "Visualizing Climate Worlds - Data, AI & Immersive Futures",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-09-23",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Wed, 09/23 · 3:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Performance Space, 150 1st Ave, 4th Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/05w2t9g/Visualizing-Climate-Worlds-Data-AI-Immersive-Futures",
-      "map": "https://maps.google.com/?q=Performance%20Space%2C%20150%201st%20Ave%2C%204th%20Fl",
-      "summary": "Gary's Guide: Thanks to a proliferation of climate data, processed & interpreted with AI tools & new visualization methods, we can recognize new patterns in our relationship with our cities & our planet, predict extreme events or future hazards, & inform the hard work of climate adaptation & mitigation. Visualizing Climate Worlds brings together three projects that turn data into new ways of seeing - & living in - a changing planet. The Better Planet Laboratory at CU Boulder uses satellite data, sensors, & AI to monitor global food & environmental systems, transforming planetary-scale information into early-warning & decision tools for a more resilient, equitable future. MIT's Urban Metabolism Environmental Research & Action Lab (UMERA) applies Material Flow Analysis & machine learning to 11,000+ cities worldwide, surfacing productive & sometimes unexpected climate sister-city networks & modeling how they converge on unique sustainability paths to 2050. And BEAM Studio's TIDELANDS 2100 draws on NOAA flood models & the oral histories of Rhode Island's coastal residents to build immersive VR worlds of adaptation in place. Together they move from planetary monitoring to urban comparison to lived experience, asking: once we can model & see a changing planet, how do we choose to live in it? More information, speakers, & event program This event is part of Assembly, the main Swiss stage at Climate Week NYC 2026. As world leaders gather in Midtown Manhattan, Swissnex assembles Swiss & global voices - from private sector innovators & researchers to artists & policymakers - in the East Village for three days of communal climate thinking & action. Assembly speaks to deliberation & democracy - the idea that communities must collectively define their futures - as well as the ongoing, creative, improvisational process of constructing those futures from the pieces of our present."
-    },
-    "gary_2026_09_23_ai_needs_more_power_who_builds_it_what_gets_built_wh": {
-      "title": "AI Needs More Power - Who Builds It, What Gets Built & Who Gets Paid",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-09-23",
-      "time": "3:15 PM",
-      "sort": 15.25,
-      "when": "Wed, 09/23 · 3:15pm",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Wed, 09/23 · 1:00pm",
       "price": "Free",
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/jkymgj6/AI-Needs-More-Power-Who-Builds-It-What-Gets-Built-Who-Gets-Paid",
+      "link": "https://www.garysguide.com/events/firkx4p/From-Data-To-Decarbonization-AI-Powered-Climate-Action-Across-The-Value-Chain",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: New York's decision to temporarily halt permitting for new hyperscale data centers is the latest sign of a much bigger collision: AI needs enormous amounts of power, but who will build it, what needs to be deployed, who will finance it, & who will ultimately pay for it? From Texas & Virginia to Europe, the race to power AI is driving demand for new generation, transmission, storage & other infrastructure, & creating a potentially massive new opportunity for investors, developers & energy companies. On-site resources are becoming critical & can potentially offer flexibility while reducing ratepayer impact. Moderated by Lisa Martine Jenkins of Latitude Media, energy leaders & investors from Aston Power, Commonwealth Station A, & Redwood Materials will debate where capital is moving, what actually needs to get built, & whether the AI boom will fundamentally reshape how, & from whom, large energy users get their power Moderator: Lisa Martine Jenkins | Editor | Latitude Media Panelists: Doug Chambers | Chief Development Officer | Aston Travis Metcalfe | Energy Strategist | Commonwealth Asset Management Group Kevin Berekemeyer | Co-Founder & CEO | Station A Claire McConnell | Vice President of Business Development | Redwood Materials Antenna Group is the public relations & strategic marketing agency of choice for climate, energy, mobility, real estate, & infrastructure leaders. If you're a startup, investor, or global corporation that's looking to tell your climate story, demonstrate your impact, or accelerate your growth, Antenna Group's team of industry insiders is ready to help. Learn more at antennagroup.com."
+      "summary": "Gary's Guide: Join the ASUENE Group during Climate Week NYC as ASUENE, NZero, Iconic Air, & Secaro come together for an afternoon exploring the technologies, strategies, & partnerships shaping the future of corporate decarbonization. Attendees will gain practical insights into: - How supplier & value chain data can support Scope 3 decarbonization - Practical approaches to carbon accounting & regulatory reporting - AI-powered energy management & industrial decarbonization - The latest policy developments affecting businesses, including methane regulations & carbon markets - How open APIs & ecosystem partnerships are enabling more connected sustainability solutions The program features expert presentations, customer case studies, & a fireside discussion with sustainability leaders, followed by a networking reception with professionals from across the Climate Week NYC community. Who should attend - Sustainability & ESG leaders - Energy & facilities managers - Supply chain & procurement professionals - Corporate executives driving decarbonization initiatives - Companies looking to leverage AI & data for measurable climate action We look forward to welcoming you during Climate Week NYC for an afternoon of learning, discussion, & networking."
     },
-    "luma_2026_09_18_robot_hackathon_fine_motor_skills": {
-      "title": "Robot Hackathon: Fine Motor Skills",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-09-18",
+    "luma_2026_09_21_climate_tech_demo_series_collab_fund_streetlife_vent": {
+      "title": "Climate Tech Demo Series - Collab Fund, Streetlife Ventures",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-09-21",
       "time": "1 PM",
       "sort": 13,
-      "when": "Fri, 09/18 · 1pm",
+      "when": "Mon, 09/21 · 1pm",
       "price": "Free",
       "free": true,
-      "place": "Viam",
+      "place": "New York, New York",
       "source": "Luma NYC",
-      "link": "https://luma.com/wuo6ynis",
-      "map": "https://maps.google.com/?q=Viam%20NYC",
-      "summary": "Luma NYC: Viam, Camila Lamoratta, Alyssa Demirjian, Shannon Bradshaw"
+      "link": "https://luma.com/l99e5v88",
+      "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
+      "summary": "Luma NYC: Laura Fox, Laura Fox, Craig Wilson, Lisbeth Kaufman, Sonam Velani, Streetlife Ventures"
     },
-    "luma_2026_09_18_space_apps_nyc_exploring_this_year_s_nasa_challenges": {
-      "title": "Space Apps NYC: Exploring This Year's NASA Challenges – with Twilio, Cloudflare, and Open Space",
+    "luma_2026_09_21_1_for_the_planet_volunteer_hackathon": {
+      "title": "1% for the Planet Volunteer Hackathon",
       "type": "tech",
       "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-09-18",
-      "time": "9 PM",
-      "sort": 21,
-      "when": "Fri, 09/18 · 9pm",
+      "day": "Mon",
+      "date": "2026-09-21",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Mon, 09/21 · 2pm",
       "price": "Free",
       "free": true,
-      "place": "NYU 370 Jay Street",
+      "place": "Hairstory",
       "source": "Luma NYC",
-      "link": "https://luma.com/1dmo9dwu",
-      "map": "https://maps.google.com/?q=NYU%20370%20Jay%20Street%20NYC",
-      "summary": "Luma NYC: SWARM NYC, SWARM NYC, CUSP at NYU Tandon, Twilio, Cloudflare Developer"
+      "link": "https://luma.com/r58e2nbe",
+      "map": "https://maps.google.com/?q=Hairstory%20NYC",
+      "summary": "Luma NYC: 1% for the Planet Volunteer Hackathons, 1% for the Planet, Toni Finnimore"
     },
     "nyu_tandon_2026_09_21_scaling_metabolic_health_with_foundation_models_and_": {
       "title": "Scaling Metabolic Health with Foundation Models and AI Agents",
@@ -1708,57 +1710,6 @@
       "link": "https://engineering.nyu.edu/events/2026/09/25/risk-maps-resilience-investments-making-climate-ai-decision-ready",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel,"
-    },
-    "jc_culture_10004820_2026_09_18_the_society_of_american_graphic_artists_saga_91st_an": {
-      "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-09-18",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Fri, 09/18 · 3pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "MANA CONTEMPORARY, 888 NEWARK AVE., JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-18/",
-      "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
-      "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
-    },
-    "jc_culture_43701_2026_09_18_cat_stick_easel_moon_exhibit_2026": {
-      "title": "Cat, Stick, Easel, Moon Exhibit 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-09-18",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 09/18 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-2026/",
-      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
-    },
-    "jc_culture_43997_2026_09_18_art_for_puerto_rico_2026": {
-      "title": "Art for Puerto Rico 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-09-18",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Fri, 09/18 · 7pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "COQUI CLUB, 370 PACIFIC AVE, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/art-for-puerto-rico-2026/",
-      "map": "https://maps.google.com/?q=COQUI%20CLUB%2C%20370%20PACIFIC%20AVE%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
     },
     "jc_culture_44000_2026_09_19_shoe_drive_2026": {
       "title": "Shoe Drive 2026",
@@ -2473,6 +2424,57 @@
       "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-15/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10004843_2026_10_16_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-10-16",
+      "time": "7:30 PM",
+      "sort": 19.5,
+      "when": "Fri, 10/16 · 7:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-16/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10004844_2026_10_17_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sat",
+      "date": "2026-10-17",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sat, 10/17 · 2pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-17/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10004845_2026_10_18_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sun",
+      "date": "2026-10-18",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sun, 10/18 · 2pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-18/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
     }
   },
   "clusters": {
@@ -2484,10 +2486,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_09_18_9_pm": [
-      "skint_91190_0_14th_annual_lungs_loisaida_united_neighborhood_garde",
-      "luma_2026_09_18_space_apps_nyc_exploring_this_year_s_nasa_challenges"
     ],
     "cluster_2026_09_19_10_am": [
       "skint_91190_1_brooklyn_bike_jumble_new_used_bicycle_and_accessorie",
@@ -2518,14 +2516,9 @@
       "skint_91190_17_nyc_plant_market",
       "skint_91190_18_18th_annual_urban_bear_nyc_street_fair"
     ],
-    "cluster_2026_09_18_3_pm": [
-      "gary_2026_09_18_ai_databricks_hackathon",
-      "jc_culture_10004820_2026_09_18_the_society_of_american_graphic_artists_saga_91st_an"
-    ],
-    "cluster_2026_09_18_6_pm": [
-      "gary_2026_09_18_bowling_business",
-      "gary_2026_09_18_nyc_venture_week_networking_mixer",
-      "jc_culture_43701_2026_09_18_cat_stick_easel_moon_exhibit_2026"
+    "cluster_2026_09_21_9_am": [
+      "gary_2026_09_21_making_circularity_pay_off",
+      "gary_2026_09_21_columbia_fashion_energy_climate_summit"
     ],
     "cluster_2026_09_22_7_am": [
       "gary_2026_09_22_solve_challenges_final",
@@ -2545,7 +2538,9 @@
     ],
     "cluster_2026_09_22_5_30_pm": [
       "gary_2026_09_22_nordic_investor_night_lp_reception",
-      "gary_2026_09_22_tech_social"
+      "gary_2026_09_22_how_data_center_fights_renewing_local_power_across_u",
+      "gary_2026_09_22_tech_social",
+      "gary_2026_09_22_buildings_as_grid_assets"
     ],
     "cluster_2026_09_22_6_pm": [
       "gary_2026_09_22_future_of_financial_services_w_microsoft_ai",
@@ -2556,6 +2551,7 @@
       "gary_2026_09_22_interior_ecologies",
       "gary_2026_09_22_tech_x_market_decoders",
       "gary_2026_09_22_35_moment_what_will_it_take_to_electrify_global_econ",
+      "gary_2026_09_22_creative_ai_forum",
       "gary_2026_09_22_gtm_ai_lightning_talks"
     ],
     "cluster_2026_09_23_8_am": [
@@ -2566,9 +2562,10 @@
       "gary_2026_09_23_what_is_shaping_data_center_energy",
       "nyu_tandon_2026_09_23_instructional_tech_drop_in_sessions"
     ],
-    "cluster_2026_09_23_3_pm": [
-      "gary_2026_09_23_will_autonomous_vehicles_improve_the_environment",
-      "gary_2026_09_23_visualizing_climate_worlds_data_ai_immersive_futures"
+    "cluster_2026_09_23_1_pm": [
+      "gary_2026_09_23_swiss_climatetech_showcase",
+      "gary_2026_09_23_climate_action_delivers_affordability_for_new_yorker",
+      "gary_2026_09_23_from_data_to_decarbonization_ai_powered_climate_acti"
     ],
     "cluster_2026_09_19_3_pm": [
       "jc_culture_10004821_2026_09_19_the_society_of_american_graphic_artists_saga_91st_an",
