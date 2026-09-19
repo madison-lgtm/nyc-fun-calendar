@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 19, 2026, 10:03 AM EDT",
+    "checked": "Sep 19, 2026, 5:39 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -262,7 +262,8 @@
       "7 PM",
       "7:30 PM",
       "8 PM",
-      "9 PM"
+      "9 PM",
+      "10 PM"
     ]
   },
   "events": {
@@ -1331,10 +1332,10 @@
       "when": "Tue, 09/22 · 6:00pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "Venue,, To Be Announced",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/p4mzgec/GTM-AI-Lightning-Talks",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With GTM Enggrs Brandon Galang (Vercel), Edgar Sze (Profound), Thomas Bonagura (Air), Jack Perales (WorkOS), Jen Igartua (CEO, Go Nimbly), Setareh Lotfi (Parallel)."
     },
     "gary_2026_09_22_ai_agents_founders_dinner": {
@@ -1574,6 +1575,57 @@
       "link": "https://luma.com/r58e2nbe",
       "map": "https://maps.google.com/?q=Hairstory%20NYC",
       "summary": "Luma NYC: 1% for the Planet Volunteer Hackathons, 1% for the Planet, Toni Finnimore"
+    },
+    "luma_2026_09_21_carbon_removal_community_reception_climate_week_nyc_": {
+      "title": "Carbon Removal Community Reception: Climate Week NYC Edition!",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-09-21",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Mon, 09/21 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, New York",
+      "source": "Luma NYC",
+      "link": "https://luma.com/p4hl3mtu",
+      "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
+      "summary": "Luma NYC: Carbon Business Council, Carbon Business Council"
+    },
+    "luma_2026_09_22_fintech_run_club_ft_rain_monk_jp_morgan": {
+      "title": "Fintech Run Club ft. Rain + Monk + JP Morgan",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-09-22",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Tue, 09/22 · 11am",
+      "price": "Free",
+      "free": true,
+      "place": "Marsha P. Johnson Memorial Fountain",
+      "source": "Luma NYC",
+      "link": "https://luma.com/iy073jdo",
+      "map": "https://maps.google.com/?q=Marsha%20P.%20Johnson%20Memorial%20Fountain%20NYC",
+      "summary": "Luma NYC: Pedro D'Avila, Pedro D'Avila, Connor Griffin, Kendall Warson, Rain Events"
+    },
+    "luma_2026_09_22_founders_breakfast_club_and_coworking_corgi_cafe": {
+      "title": "Founders Breakfast Club and Coworking @ Corgi Cafe",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-09-22",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Tue, 09/22 · 2pm",
+      "price": "Free",
+      "free": true,
+      "place": "Corgi Cafe",
+      "source": "Luma NYC",
+      "link": "https://luma.com/u5n33rk8",
+      "map": "https://maps.google.com/?q=Corgi%20Cafe%20NYC",
+      "summary": "Luma NYC: Corgi NYC, Abril Zucchi, Maddie, Linda, jamie"
     },
     "nyu_tandon_2026_09_21_scaling_metabolic_health_with_foundation_models_and_": {
       "title": "Scaling Metabolic Health with Foundation Models and AI Agents",
@@ -2566,6 +2618,10 @@
       "gary_2026_09_23_swiss_climatetech_showcase",
       "gary_2026_09_23_climate_action_delivers_affordability_for_new_yorker",
       "gary_2026_09_23_from_data_to_decarbonization_ai_powered_climate_acti"
+    ],
+    "cluster_2026_09_22_11_am": [
+      "luma_2026_09_22_fintech_run_club_ft_rain_monk_jp_morgan",
+      "nyu_tandon_2026_09_22_instructional_tech_drop_in_sessions"
     ],
     "cluster_2026_09_19_3_pm": [
       "jc_culture_10004821_2026_09_19_the_society_of_american_graphic_artists_saga_91st_an",
