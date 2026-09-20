@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 20, 2026, 10:23 AM EDT",
+    "checked": "Sep 20, 2026, 5:45 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1559,6 +1559,23 @@
       "map": "https://maps.google.com/?q=Hairstory%20NYC",
       "summary": "Luma NYC: 1% for the Planet Volunteer Hackathons, 1% for the Planet, Toni Finnimore"
     },
+    "luma_2026_09_21_ai_at_scale_building_intelligence_on_african_data_ta": {
+      "title": "AI at Scale: Building Intelligence on African Data, Talent and Infrastructure",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Mon",
+      "date": "2026-09-21",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Mon, 09/21 · 6pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/fvy5zafk",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: FMCIDE at UNGA81, FMCIDE, Francis Sani"
+    },
     "luma_2026_09_21_carbon_removal_community_reception_climate_week_nyc_": {
       "title": "Carbon Removal Community Reception: Climate Week NYC Edition!",
       "type": "startup",
@@ -1643,6 +1660,23 @@
       "link": "https://luma.com/nuclear-night-2026",
       "map": "https://maps.google.com/?q=Alumni%20Ventures%20NYC",
       "summary": "Luma NYC: AV Events, Alumni Ventures, Drew Wandzilak, Pete Mathias, Ally Dweck, Ben Sack, 53 Stations"
+    },
+    "luma_2026_09_22_120th_ny_hardware_meetup_climate_tech_week_at_antler": {
+      "title": "120th NY Hardware Meetup - Climate Tech Week at Antler VC",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-09-22",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Tue, 09/22 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/021ztfq8",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: NY Hardware Meetup, Mercer Borris, Kaila J. Lim, Anthony Dzaba, Lindsey Gideon, Paul Vizzio"
     },
     "nyu_tandon_2026_09_21_scaling_metabolic_health_with_foundation_models_and_": {
       "title": "Scaling Metabolic Health with Foundation Models and AI Agents",
@@ -2570,6 +2604,10 @@
     "cluster_2026_09_21_9_am": [
       "gary_2026_09_21_making_circularity_pay_off",
       "gary_2026_09_21_columbia_fashion_energy_climate_summit"
+    ],
+    "cluster_2026_09_21_6_pm": [
+      "gary_2026_09_21_ai_show_tell",
+      "luma_2026_09_21_ai_at_scale_building_intelligence_on_african_data_ta"
     ],
     "cluster_2026_09_22_7_am": [
       "gary_2026_09_22_solve_challenges_final",
