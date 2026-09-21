@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 21, 2026, 12:42 PM EDT",
+    "checked": "Sep 21, 2026, 6:45 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1320,23 +1320,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join us during New York Climate Week 2026 for the SEE THE FUTURE Startup Competition, bringing together the next generation of entrepreneurs, researchers, investors, & climate leaders to spotlight ideas with the potential to create meaningful environmental impact. Co-hosted by Columbia Climate School, the Society of Entrepreneurs & Ecology (SEE), Foundations Platform F20 & Vectors Capital, the competition invites university students, researchers, & early-stage entrepreneurs to develop & showcase innovative solutions addressing today's most pressing climate & environmental challenges. From climate adaptation & clean energy to biodiversity, nature-based solutions, sustainable food systems, circular economy, & green finance, the competition is designed to give emerging ventures a platform to share bold ideas, receive expert feedback, & connect with a broader network of leaders working across climate, business, & investment. On September 23, five finalist teams will take the stage at Columbia University to pitch their ventures live before a panel of academics, investors, climate experts, & industry leaders. Interested in pitching your startup? If you would like the opportunity to pitch at the SEE THE FUTURE Startup Competition, please submit your application through the link below: Apply to the Start Up Competition Open Google Form The afternoon will also bring together founders, students, investors, & members of the climate community for conversations, networking, & a shared look at the solutions shaping our future. September 23, 2026 | 2:30-6:00 PM Columbia University | New York City Whether you're a founder ready to share your idea, an investor looking to discover emerging solutions, or simply interested in the future of climate innovation, we invite you to join us at SEE THE FUTURE 2026."
     },
-    "luma_2026_09_21_ai_at_scale_building_intelligence_on_african_data_ta": {
-      "title": "AI at Scale: Building Intelligence on African Data, Talent and Infrastructure",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-09-21",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 09/21 · 6pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/fvy5zafk",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: FMCIDE at UNGA81, FMCIDE, Francis Sani, Eliezer Ajah, JK Ladipo, Temiloluwa Okeowo"
-    },
     "luma_2026_09_21_carbon_removal_community_reception_climate_week_nyc_": {
       "title": "Carbon Removal Community Reception: Climate Week NYC Edition!",
       "type": "startup",
@@ -2328,10 +2311,6 @@
     "cluster_2026_09_21_9_am": [
       "gary_2026_09_21_making_circularity_pay_off",
       "gary_2026_09_21_columbia_fashion_energy_climate_summit"
-    ],
-    "cluster_2026_09_21_6_pm": [
-      "gary_2026_09_21_ai_show_tell",
-      "luma_2026_09_21_ai_at_scale_building_intelligence_on_african_data_ta"
     ],
     "cluster_2026_09_22_7_am": [
       "gary_2026_09_22_solve_challenges_final",
