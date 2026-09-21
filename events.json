@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Sep 20, 2026, 5:45 PM EDT",
+    "checked": "Sep 21, 2026, 12:42 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-09-20",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Sep 20"
-      },
       {
         "iso": "2026-09-21",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Sep 26"
+      },
+      {
+        "iso": "2026-09-27",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Sep 27"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-09-20",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Sep 20"
-      },
       {
         "iso": "2026-09-21",
         "key": "Mon",
@@ -233,9 +227,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 20"
+      },
+      {
+        "iso": "2026-10-21",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Oct 21"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
       "12 AM",
       "7 AM",
@@ -261,7 +261,6 @@
       "6:30 PM",
       "7 PM",
       "7:30 PM",
-      "8 PM",
       "9 PM",
       "10 PM"
     ]
@@ -454,211 +453,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_91190_0_brooklyn_bike_jumble_new_used_bicycle_and_accessorie": {
-      "title": "brooklyn bike jumble – new/used bicycle and accessories flea market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-09-19",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 09/19 · 10am-4pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "old stone house at washington / jj byrne park (park slope)",
-      "source": "The Skint",
-      "link": "http://www.nybikejumble.com",
-      "map": "https://maps.google.com/?q=old%20stone%20house%20at%20washington%20%2F%20jj%20byrne%20park%20(park%20slope)%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sat 10am-4pm: brooklyn bike jumble – new/used bicycle and accessories flea market: old stone house at washington / jj byrne park (park slope)."
-    },
-    "skint_91190_1_greenlight_bookstore_sidewalk_sale_book_drive": {
-      "title": "greenlight bookstore sidewalk sale + book drive",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sat",
-      "date": "2026-09-19",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 09/19 · 10am-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "fort greene",
-      "source": "The Skint",
-      "link": "https://greenlightbookstore.com/event/2026-09-19/sidewalk-sale-book-drive",
-      "map": "https://maps.google.com/?q=fort%20greene%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sat 10am-5pm: greenlight bookstore sidewalk sale + book drive: fort greene."
-    },
-    "skint_91190_2_annual_brooklyn_flea_record_fair": {
-      "title": "annual brooklyn flea record fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-09-19",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 09/19 · 11am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "marsha p",
-      "source": "The Skint",
-      "link": "https://www.brooklynflearecordfair.com",
-      "map": "https://maps.google.com/?q=marsha%20p%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sat 11am-6pm: annual brooklyn flea record fair: marsha p. johnson state park (williamsburg), next to smorgasburg."
-    },
-    "skint_91190_3_9th_10th_street_block_festivals": {
-      "title": "9th + 10th street block festivals",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-09-19",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 09/19 · 11am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "9th st bet ave a + 1st ave (11am-5pm); 10th st between second + third aves (9am-6pm)",
-      "source": "The Skint",
-      "link": "https://evgrieve.com/2026/09/antiques-music-and-more-on-10th-street.html",
-      "map": "https://maps.google.com/?q=9th%20st%20bet%20ave%20a%20%2B%201st%20ave%20(11am-5pm)%3B%2010th%20st%20between%20second%20%2B%20third%20aves%20(9am-6pm)%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sat 11am-6pm: 9th + 10th street block festivals: 9th st bet ave a + 1st ave (11am-5pm); 10th st between second + third aves (9am-6pm)."
-    },
-    "skint_91190_4_69th_annual_german_american_steuben_parade": {
-      "title": "69th annual german-american steuben parade",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-09-19",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 09/19 · 12pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "fifth avenue from 68th street to 86th street",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/steubenparadeny",
-      "map": "https://maps.google.com/?q=fifth%20avenue%20from%2068th%20street%20to%2086th%20street%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sat 12pm: 69th annual german-american steuben parade: fifth avenue from 68th street to 86th street."
-    },
-    "skint_91190_5_paws_on_parade_dog_parade_and_social": {
-      "title": "paws on parade: dog parade and social",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-09-19",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 09/19 · 12-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "bryant park (midtown)",
-      "source": "The Skint",
-      "link": "https://bryantpark.org/calendar/event/akc-museum-dog-parade/2026-09-19",
-      "map": "https://maps.google.com/?q=bryant%20park%20(midtown)%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sat 12-5pm: paws on parade: dog parade and social: bryant park (midtown)."
-    },
-    "skint_91190_6_jersey_city_s_15th_annual_all_about_downtown_street_": {
-      "title": "jersey city’s 15th annual all about downtown street fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-09-19",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 09/19 · 12-8pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "newark ave bet",
-      "source": "The Skint",
-      "link": "https://jcdowntown.org/event/all-about-downtown/",
-      "map": "https://maps.google.com/?q=newark%20ave%20bet%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sat 12-8pm: jersey city’s 15th annual all about downtown street fair: newark ave bet. grove st. + coles st., jersey city."
-    },
-    "skint_91190_7_the_annual_freddy_s_dog_fashion_show_and_badass_anim": {
-      "title": "the annual freddy’s dog fashion show and badass animal rescue adoption event",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-09-19",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sat, 09/19 · 2-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "outside freddy’s bar in south slope (brooklyn)",
-      "source": "The Skint",
-      "link": "https://parkslopefifthavenuebid.com/event/freddys-dog-fashion-show-2/",
-      "map": "https://maps.google.com/?q=outside%20freddy%E2%80%99s%20bar%20in%20south%20slope%20(brooklyn)%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sat 2-6pm: the annual freddy’s dog fashion show and badass animal rescue adoption event: outside freddy’s bar in south slope (brooklyn)."
-    },
-    "skint_91190_8_pete_s_annual_mini_zine_fest": {
-      "title": "pete’s annual mini zine fest",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-09-19",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sat, 09/19 · 2-7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "pete’s candy store (williamsburg)",
-      "source": "The Skint",
-      "link": "https://www.facebook.com/petesmzf",
-      "map": "https://maps.google.com/?q=pete%E2%80%99s%20candy%20store%20(williamsburg)%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sat 2-7pm: pete’s annual mini zine fest: pete’s candy store (williamsburg)."
-    },
-    "skint_91190_9_queens_night_market": {
-      "title": "queens night market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-09-19",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Sat, 09/19 · 4pm-midnight (saturdays thru 10/31)",
-      "price": "Free admission",
-      "free": true,
-      "place": "behind the new york hall of science at flushing meadows corona park",
-      "source": "The Skint",
-      "link": "https://queensnightmarket.com",
-      "map": "https://maps.google.com/?q=behind%20the%20new%20york%20hall%20of%20science%20at%20flushing%20meadows%20corona%20park%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sat 4pm-midnight (saturdays thru 10/31): queens night market: behind the new york hall of science at flushing meadows corona park. free admission."
-    },
-    "skint_91190_10_15th_annual_morningside_lights_procession_a_common_t": {
-      "title": "15th annual morningside lights procession: a common thread",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-09-19",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Sat, 09/19 · 8pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "begins in morningside park at 116th street and morningside avenue",
-      "source": "The Skint",
-      "link": "https://www.morningside-lights.com",
-      "map": "https://maps.google.com/?q=begins%20in%20morningside%20park%20at%20116th%20street%20and%20morningside%20avenue%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sat 8pm: 15th annual morningside lights procession: a common thread: begins in morningside park at 116th street and morningside avenue."
-    },
-    "skint_91190_11_brooklyn_pop_up_x_bwac_red_hook_market": {
-      "title": "brooklyn pop-up x bwac red hook market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-09-19",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 09/19 · + sun (12-6pm)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "hook studios (161 dikeman street, brooklyn)",
-      "source": "The Skint",
-      "link": "https://www.brooklynpop-up.com/market-event-details/2026-09-19/r/recT3LGdzVWvc5szI",
-      "map": "https://maps.google.com/?q=hook%20studios%20(161%20dikeman%20street%2C%20brooklyn)%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sat + sun (12-6pm): brooklyn pop-up x bwac red hook market: hook studios (161 dikeman street, brooklyn)."
-    },
-    "skint_91190_12_ready_for_fall_bazaar_at_grand_bazaar_nyc": {
+    "skint_91190_0_ready_for_fall_bazaar_at_grand_bazaar_nyc": {
       "title": "ready for fall bazaar at grand bazaar nyc",
       "type": "market",
       "label": "Festival / Market",
@@ -675,7 +470,7 @@
       "map": "https://maps.google.com/?q=100%20w%2077th%20st%20at%20columbus%20ave%20(indoors%20%2B%20outdoors)%20NYC",
       "summary": "Daily picks. Pulled from The Skint's public article feed: sun 10am-5pm: ready for fall bazaar at grand bazaar nyc: 100 w 77th st at columbus ave (indoors + outdoors). free admission."
     },
-    "skint_91190_13_fad_fashion_art_design_pop_up_market": {
+    "skint_91190_1_fad_fashion_art_design_pop_up_market": {
       "title": "fad (fashion art design) pop-up market",
       "type": "market",
       "label": "Festival / Market",
@@ -692,7 +487,7 @@
       "map": "https://maps.google.com/?q=part%20of%20open%20streets%20on%20montague%2C%20brooklyn%20heights%20NYC",
       "summary": "Daily picks. Pulled from The Skint's public article feed: sun 11am-6pm: fad (fashion art design) pop-up market: part of open streets on montague, brooklyn heights."
     },
-    "skint_91190_14_32nd_mexican_independence_day_parade": {
+    "skint_91190_2_32nd_mexican_independence_day_parade": {
       "title": "32nd mexican independence day parade",
       "type": "art",
       "label": "Art / Culture",
@@ -709,7 +504,7 @@
       "map": "https://maps.google.com/?q=madison%20ave%20from%20e%2038th%20to%20e%2027th%20street%20(flatiron)%20NYC",
       "summary": "Daily picks. Pulled from The Skint's public article feed: sun 12pm: 32nd mexican independence day parade: madison ave from e 38th to e 27th street (flatiron)."
     },
-    "skint_91190_15_10th_annual_house_of_yes_block_party": {
+    "skint_91190_3_10th_annual_house_of_yes_block_party": {
       "title": "10th annual house of yes block party",
       "type": "market",
       "label": "Festival / Market",
@@ -726,7 +521,7 @@
       "map": "https://maps.google.com/?q=house%20of%20yes%20(bushwick)%20NYC",
       "summary": "Daily picks. Pulled from The Skint's public article feed: sun 12-6pm: 10th annual house of yes block party: house of yes (bushwick)."
     },
-    "skint_91190_16_nyc_plant_market": {
+    "skint_91190_4_nyc_plant_market": {
       "title": "nyc plant market",
       "type": "market",
       "label": "Festival / Market",
@@ -743,7 +538,7 @@
       "map": "https://maps.google.com/?q=culture%20lab%20lic%20NYC",
       "summary": "Daily picks. Pulled from The Skint's public article feed: sun 1-7pm (monthly thru 10/18): nyc plant market: culture lab lic."
     },
-    "skint_91190_17_18th_annual_urban_bear_nyc_street_fair": {
+    "skint_91190_5_18th_annual_urban_bear_nyc_street_fair": {
       "title": "18th annual urban bear nyc street fair",
       "type": "market",
       "label": "Festival / Market",
@@ -759,57 +554,6 @@
       "link": "https://www.eventbrite.com/e/urban-bear-annual-street-fair-tickets-1999810401745",
       "map": "https://maps.google.com/?q=enter%20at%20washington%20street%20and%20little%20west%2012th%20street%20(meatpacking%20district)%20NYC",
       "summary": "Daily picks. Pulled from The Skint's public article feed: sun 1-7pm: 18th annual urban bear nyc street fair: enter at washington street and little west 12th street (meatpacking district). $20 suggested donation."
-    },
-    "gary_2026_09_19_healthtech_launchathon_clawcamp": {
-      "title": "HealthTech Launchathon & ClawCamp",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sat",
-      "date": "2026-09-19",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sat, 09/19 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Arya Health, 307 W 36th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/vzixkw6/HealthTech-Launchathon-ClawCamp",
-      "map": "https://maps.google.com/?q=Arya%20Health%2C%20307%20W%2036th%20St",
-      "summary": "Gary's Guide: With Khan Siddiqui (Founder/CEO, HOPPR)."
-    },
-    "gary_2026_09_19_trust_in_the_hiring_funnel_hackathon": {
-      "title": "Trust In The Hiring Funnel Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-09-19",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 09/19 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/iuy5ggy/Trust-In-The-Hiring-Funnel-Hackathon",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Event Description Generative AI broke hiring on both sides at once. Recruiters can't tell which applicants are real, & candidates can't tell which employers are. Come spend a day building something that fixes it - with the founders, engineers, & TA practitioners who live this problem every week. This is a full-day, in-person hackathon co-hosted by localhost:nyc, Integral Recruiting (IRD), & NYU - where builders team up with real talent-acquisition operators to ship working tools against a single, focused challenge. The Challenge: Trust in the Hiring Funnel Hiring has a trust crisis on both sides of the funnel - recruiters can't tell which applicants are real, & candidates can't tell which employers are. Talent acquisition runs on a basic assumption: that the person applying is who they say they are, & that the company reaching out is who it says it is. Generative AI has broken both halves of that assumption at once. Your job for the day is to rebuild it. You can attack either side of the funnel - or the seam between them. Side A - Trust coming in: the applicant flood. A role that used to draw 30 applicants now draws 500, & a growing share aren't real, aren't qualified, or are gaming the system. Candidates embed hidden prompt-injection text to manipulate the AI tools that screen resumes. And increasingly, applicants appear qualified but look strikingly alike - the same phrasing, the same structure, the same accomplishments - a tell that everyone is leaning on the same AI tools to write their applications. Recruiters are drowning, & the tools meant to help have no clear winner yet. The challenge: reliably separate real, qualified humans from AI-inflated noise - without punishing legitimate candidates who simply used AI to polish their resume. Questions worth chasing: What signals - behavioral, identity, provenance - actually distinguish a real applicant from a manufactured one? When applications converge on the same AI-generated look, how do you tell genuine signal from sameness? How do you detect a manipulated or machine-generated application without false-flagging honest people? How do you surface the candidates who deserve attention fast, inside an existing recruiting workflow rather than replacing it? Side B - Trust going out: impersonation & candidate scams. Bad actors register look-alike domains to send fake offer letters, run deepfake recruiter calls, & scam job seekers out of money & data. Employers have almost no way to detect it or warn candidates. The challenge: make it harder to impersonate a real employer, & easier for a candidate to verify that an offer or a recruiter is genuine. Questions worth chasing: How would a candidate confirm that an offer or outreach is legitimately from the company? Can impersonating domains be detected & flagged early? What does a lightweight \"trust signal\" look like on a careers page or an offer letter? What a strong build looks like. A working tool that raises trust in the funnel & fits the way hiring actually happens - a triage or screening layer that plugs into an existing applicant tracking system rather than replacing it, or a candidate/employer verification tool that makes impersonation harder to pull off & easier to catch. We care more about a real, demonstrable solution to a narrow slice of the problem than a broad concept that doesn't run. You don't need HR or recruiting-software experience to compete here - that's the point of a single, focused theme. Engineers & builders can go straight at the detection, identity, & verification problems. HR-technology practitioners will be in the room to keep your build grounded in how hiring actually works, & to pressure-test whether a recruiter would trust what you've made. What to Expect A full day of building - 10:00 AM to 6:00 PM, hard stop Small teams (or solo if you insist) working in one shared room TA practitioners from the SAI community in the room to keep your build grounded in how hiring really works A panel of expert judges: HR-tech founders, operators, & system admins who know these problems cold End-of-day demos to judges, investors, & real TA leaders The strongest teams get connected to investors - and, over time, to real customers Prizes Winners walk away with build-tool & platform credits, expert consulting sessions, & investor time. Everyone in the room gets connections that outlast the day - this is a room full of builders & buyers. Judges Tiffany Jin: Eqo. Building in the employee-referral & hiring space; brings a founder's eye for what actually ships. Steven Grover: Partnerspring. Operator & builder in the HR-tech ecosystem. Shane Papp: Ex-iCIMS. Deep insider knowledge of the ATS world these tools have to live inside. Adam Treitler: Related Industries. HR-tech operator with a practitioner's view of the funnel. Shiv Jethi - Engineer at SpaceX. Olivia Iarmak - Meta Reality Labs. AI quality & operations leader; researcher. Brings a practitioner's lens to trustworthy AI. D. J. Patel - VC | 3x exited founder. Prince Rumi - Excelsior Edge Ventures, Partner | AI Researcher Rami Abouemira, formerly People Ops at Square & VMware, now building the future of work with All Good HR & Founders Foundry. Ishaan Das (TechBrig) - Leads AI transformation & product design for several recruiting firms & recruiting SaaS like SquarePeg. More judges to be announced - investors & TA buyers joining the panel. Who Should Attend Engineers - full-stack, backend, frontend, AI/ML Founders & aspiring founders who like shipping fast Recent grads, master's students, & NYC college builders TA ops & recruiting-systems practitioners who want to build alongside engineers HR / recruiting professionals newer to the space - join a team as a product advisor You do not need HR or recruiting-software experience to compete - that's the whole point of one focused theme. Engineers go straight at the detection, identity, & verification problems; practitioners keep it real. Just show up ready to build. Credit Sponsors Solari is the world's fastest agent infrastructure provider. Run headless browsers, sandboxes, & desktops from one API, & automate at scale. Block Convey is an AI reliability & observability platform for AI agents. It helps teams see what an agent is doing across model calls, tools, retrieval & decisions, identify where it fails, & improve it. Hosts Somya Gupta: The face of NYC startup ecosystem. Integral Recruiting (IRD): Enterprise talent-acquisition & iCIMS/ATS specialists, & stewards of the ~350-member SAI community of TA operators & system admins. Greg Mendez: NYU. Bringing the university's builder & HR-analytics community into the room. TechSHRM is NYU Tandon's, award-winning student chapter of the Society for Human Resource Management (SHRM). Established in 1987, we bridge data science, technology, & organizational strategy through people analytics - leveraging data to optimize workforce decision-making, recruitment, & employee performance."
-    },
-    "gary_2026_09_19_the_deployment_room": {
-      "title": "The Deployment Room",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sat",
-      "date": "2026-09-19",
-      "time": "1:30 PM",
-      "sort": 13.5,
-      "when": "Sat, 09/19 · 1:30pm",
-      "price": "Varies",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/yfayl2m/The-Deployment-Room",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Francesca Poupel (F&G Capital Partners), Jay Spindel (SOJA Ventures & INTE Securities), 6 active funds & 20 seed to series A+ founders."
     },
     "gary_2026_09_21_making_circularity_pay_off": {
       "title": "Making Circularity Pay Off",
@@ -1525,39 +1269,56 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join the ASUENE Group during Climate Week NYC as ASUENE, NZero, Iconic Air, & Secaro come together for an afternoon exploring the technologies, strategies, & partnerships shaping the future of corporate decarbonization. Attendees will gain practical insights into: - How supplier & value chain data can support Scope 3 decarbonization - Practical approaches to carbon accounting & regulatory reporting - AI-powered energy management & industrial decarbonization - The latest policy developments affecting businesses, including methane regulations & carbon markets - How open APIs & ecosystem partnerships are enabling more connected sustainability solutions The program features expert presentations, customer case studies, & a fireside discussion with sustainability leaders, followed by a networking reception with professionals from across the Climate Week NYC community. Who should attend - Sustainability & ESG leaders - Energy & facilities managers - Supply chain & procurement professionals - Corporate executives driving decarbonization initiatives - Companies looking to leverage AI & data for measurable climate action We look forward to welcoming you during Climate Week NYC for an afternoon of learning, discussion, & networking."
     },
-    "luma_2026_09_21_climate_tech_demo_series_collab_fund_streetlife_vent": {
-      "title": "Climate Tech Demo Series - Collab Fund, Streetlife Ventures",
+    "gary_2026_09_23_accommodating_growth_in_the_global_south": {
+      "title": "Accommodating Growth In The Global South",
       "type": "startup",
       "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-21",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Mon, 09/21 · 1pm",
+      "day": "Wed",
+      "date": "2026-09-23",
+      "time": "1:30 PM",
+      "sort": 13.5,
+      "when": "Wed, 09/23 · 1:30pm",
       "price": "Free",
       "free": true,
-      "place": "New York, New York",
-      "source": "Luma NYC",
-      "link": "https://luma.com/l99e5v88",
-      "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
-      "summary": "Luma NYC: Laura Fox, Laura Fox, Craig Wilson, Lisbeth Kaufman, Sonam Velani, Streetlife Ventures"
+      "place": "Venue, 395 Hudson St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/0ndow9y/Accommodating-Growth-In-The-Global-South",
+      "map": "https://maps.google.com/?q=Venue%2C%20395%20Hudson%20St",
+      "summary": "Gary's Guide: All guests are welcome to arrive early for a light lunch & networking beginning around noon. Most of the world's urban growth over the next few decades will happen in cities that don't yet exist at scale - concentrated in the Global South, where population growth is fastest & infrastructure is least locked in. Whether that growth compounds sprawl-driven emissions or avoids them depends on choices being made right now about housing & land use policy, as well as transportation infrastructure investments. Once made, these decisions produce long-lasting impacts for climate, accessibility, & economies. This panel will draw from the experience of urban planning, land use, & transportation experts actively working on efforts in the global south. Speakers: Robin King (Moderator), Director, Knowledge Capture & Collaboration, Universidad Torcuato Di Tella Cynthia Goytia, Head of the Master of Science in Urban Economics Program, WRI Solly Angel, Professor of City Planning, NYU Marron Samhita Shiledar, Principal, RMI Adriana Akers, Senior Project Manager, Gehl This session is hosted by Gehl, the NYU Marron Institute, the Parking Reform Network, & WRI & is a part of The Urban Climate Solution track at NYC Climate Week 2026. View all events in the track at https://www.urbanclimatesolution.org/. By registering for this event, you agree to share your contact information with the organizers of Urban Climate Solution & co-hosting partner organization(s) for this session. This may include being added to mailing lists for future updates. You also agree that photos, video, & materials captured during the session may be used to document & promote the event & the organizers' work."
     },
-    "luma_2026_09_21_1_for_the_planet_volunteer_hackathon": {
-      "title": "1% for the Planet Volunteer Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-09-21",
+    "gary_2026_09_23_family_offices_investors_summit": {
+      "title": "Family Offices & Investors Summit",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-09-23",
       "time": "2 PM",
       "sort": 14,
-      "when": "Mon, 09/21 · 2pm",
+      "when": "Wed, 09/23 · 2:00pm",
+      "price": "$399",
+      "free": false,
+      "place": "3 West Club, 3 W 51st St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ojboi6t/Family-Offices-Investors-Summit",
+      "map": "https://maps.google.com/?q=3%20West%20Club%2C%203%20W%2051st%20St",
+      "summary": "Gary's Guide: 150 seats. One room. For the family offices & investors shaping the next decade of climate & frontier tech. *************************************** A NOTE ON THIS YEAR'S FORMAT After 6 summits & conversations with some of the most respected allocators in our network, we rebuilt this event from the ground up. The feedback was clear: fewer people, sharper curation, more structured conversations, less noise. We listened. This year, we are introducing a phased entry system designed to protect the quality of every interaction in the room. Phase 1 (2:00 PM): Family offices & institutional LPs enter first. For one full hour, the room belongs exclusively to verified allocators. No pitches. No founders. No fund managers. Just the people who write the largest checks, meeting each other on their own terms. Phase 2 (3:00 PM): Fund managers & GPs join. They enter a room where 45+ family offices are already warmed up & engaged. Thematic breakout rooms open by vertical: Energy Abundance, Grid Optimization, Climate Resilience, Built Environment. No random panels. Every room has a thesis. Phase 3 (4:00 PM): Founders enter. They walk into a room of 90+ allocators & fund managers who have been having substantive capital conversations for two hours. The conversations are flowing. The context is set. 150 seats. Three phases. Every phase designed so the right people meet at the right moment. We are not getting bigger. We are getting better. This is the most curated, most intentional event we have ever produced. If you have been in our rooms before, you will notice the difference. If this is your first time, you are walking into something we spent three years learning how to build. For this 7th edition of our summit, we are coming back with a professional event production team, snacks & wine, jazz band & a investors speed dating platform designed to break the ice & maximize your fundraising during Climate Week NYC! The Family Offices & Investors Summit @ Climate Week NYC is not another conference - it's a curated, closed-door gathering where LPs, GPs, & climate founders sit at the same table & do business. Last year, our events facilitated over $37M in investments & transactions (+the ones we have not made aware of). This year, we're raising the bar & want to double that number. WHO'S BEEN IN THE ROOM: Invited Family Offices & Institutional Capital KKR ($361B+ AUM, New York) - Global investment firm. Principal from KKR's Sustainability & Capital Formation team joining us. Generation Investment Management ($44B+ AUM, San Francisco / London) - Al Gore's sustainable investment firm. Founding Partner Colin le Duc returning for the second consecutive year. Rockefeller Foundation ($6B endowment, New York) - Director of Energy Technology & Innovation Shunondo Basu. Net-zero endowment commitment. Speaker at both 2025 summits, returning for 2026 Merit France / CMA CGM Saade Family (~$18B family fortune, France) - The world's 3rd largest shipping company. Committed $18B to fleet decarbonization & launched a $1.5B Pulse Fund dedicated to frontier & clean energy innovation. Energy Impact Partners ($4.5B AUM, New York) - Climate infrastructure VC backed by 80+ global utility & energy partners. Returning for 2026. Schmidt Sciences (Multi-$B, Palo Alto) - Eric Schmidt's frontier science & technology initiative. Returning for 2026 Wittington Ventures ($500M venture platform / $21B Weston family, Canada) - The venture arm of one of North America's largest private family enterprises. Sending a new team member for the third consecutive event. B Capital Group / EE Capital (Eduardo Saverin's $9B+ venture platform, Singapore) - One of Asia's most active frontier & climate tech investors, recently hired Temasek's Head of Sustainable Investing. Merit France / CMA CGM Saad Family (~$18B family fortune, France) - The world's 3rd largest shipping company. Committed $18B to fleet decarbonization & launched a $1.5B Pulse Fund dedicated to frontier & clean energy innovation. TIME Ventures / Benioff Family ($300M+ committed to frontier tech & climate, San Francisco) - Salesforce founder Marc Benioff's personal fund backing fusion energy, reforestation, & ecopreneur ventures. Ho Family Office / Banyan Group (100+ properties across 28 countries, Singapore) - Founder Ho Kwon Ping built a global hospitality empire from an abandoned tin mine. Now deploying family capital into resilience & adaptation across Asia. PETRONAS Ventures ($800M+ CVC, Malaysia) - The energy giant's corporate venture arm, backing breakthrough energy startups from Kuala Lumpur to Silicon Valley. Aglaia Family Office (Leading multi-family office, Singapore) - Independent MFO serving UHNW families from SEA. BlackRock ($11.5T+ AUM, New York) - World's largest asset manager. SK Discovery ($10B+ market cap, Seoul) - Korean industrial conglomerate's venture investment arm. Deploying across materials, energy, & chemicals innovation. BASF Corporate Venture Capital ($87B revenue parent, Germany) - Venture arm of the world's largest chemical company. Hennessy Capital Group ($1.8B+ deployed via SPAC, Houston) - Five completed climate & industrial technology SPACs. SOSV HAX IndieBio ($1.5B AUM, San Francisco) - The #1 most active climate tech venture investor globally. GP returning for 2026 Invited Founders & Fund Managers Nicholas Flanders - Co-Founder & CEO, Twelve (turning CO into jet fuel, backed by TPG Rise Climate) Martijn Lopes Cardozo - Partner, Regeneration.VC (Leonardo DiCaprio-backed circular economy fund) Brian Riordan - Co-Founder & COO, Avalanche Energy (compact fusion systems advancing next-generation clean energy) Daria Saharova - General Partner, World Fund (350M European climate VC. One of Europe's largest dedicated climate funds. Joining SF 2026) Peter Hirsch - Head of Sustainability & Partnerships, 2150 (300M+ urban sustainability deep tech VC, London/Copenhagen. Joining SF 2026) Mira Inbar - Partner, ArcTern Ventures ($500M+ deployed into climate tech across 40+ companies. Joining SF 2026) Jocelyn Matyas - Cisco Foundation (supporting climate innovation & early-stage impact ventures) More speakers to be announced $110 BILLION in committed capital represented in this room. This is an 150-person event. Every seat is curated. No expo booths. No filler panels. Just the people writing checks & the founders building the future. OUR TRACK RECORD: WHO HAS BEEN IN THE ROOM: Since 2023, Family Offices & Investors summits & The Climate & Frontier Tech Coalition have convened 280+ verified family offices & LPs alumni across 8 cities - including New York, San Francisco, Paris, Singapore, & Abu Dhabi. Here's a sample of who has attended & engaged: Family Offices & Principals Who Have Attended Our Events: Rockefeller family entities - ~$133B (Rockefeller Capital Management client assets) Rothschild Family Foundation (US) - ~$1B (foundation assets; broader Rothschild & Co. manages ~$100B+) Bill & Melinda Gates Foundation (US) - ~$77B (endowment as of Dec 2024) MacArthur Foundation (US) - ~$9.2B (endowment as of Dec 2024) Martin Bouygues Family Office (France) - ~$20B (Bouygues Group enterprise value) Yves Saint Laurent Kering Family Office (France) - ~$30B (Pinault family Artemis holding; Kering market cap ~$25B+) CMA CGM / Saad Family Office - ~$24B (Saad family net worth; CMA CGM revenue $50B+) Schmidt Family Office (US) - ~$30B (Eric Schmidt net worth; Hillspire manages investments across AI, deep tech) Tsao Family Office (IMC / Pacific International Lines) - ~$4B (PIL enterprise value) Koch family representatives (US) - ~$125B+ (Koch Industries annual revenue ~$125-140B; family net worth ~$130B) Wittington Investments / Weston Family Office - ~$35B (controls Associated British Foods, Loblaw, Primark, Fortnum & Mason) Kuok Family Office (Southeast Asia) - ~$15B (Robert Kuok net worth; Shangri-La, Kerry Group, Wilmar) Singha Family Office (Thailand) - ~$5B (Boon Rawd Brewery / Singha Corp enterprise value) ThaiBev Family Office (Thailand) - ~$15B (ThaiBev market cap; Charoen Sirivadhanabhakdi family) Genting Family Office (Singapore) - ~$12B (Genting Group market cap across listed entities) Petronas Family Office (Malaysia) - ~$80B (Petronas total assets; sovereign-linked) Hartanto Family Office (Indonesia) - ~$1-2B (estimated private holdings) VinGroup (Vietnam) - ~$8B (VinGroup market cap; Pham Nhat Vuong net worth ~$9B) YTL Family Office (Malaysia) - ~$8B (YTL Corp + YTL Power combined market cap) Rosewood / New World Group Family Office (Hong Kong) - ~$12B (Cheng family; New World Development market cap + private holdings) Corporate & Institutional Investors Who Have Attended: Temasek - ~$324B (US$324B net portfolio value as of March 2025; 52% in unlisted/private assets) GIC - ~$800-930B (estimated AUM; ~18% allocated to private equity + 13% to real estate) BlackRock - ~$675B in alternatives (total AUM $14T; top-5 global alternatives platform) Salesforce - ~$3B (Salesforce Ventures, one of the largest corporate VC arms) Circo - ~$1B (estimated private market exposure) Merrill Lynch - ~$3.4T+ (client assets via BofA Wealth Management; significant alts allocation) Bank of America - ~$5.7T (total assets; extensive private market & principal investment exposure) CP Group (Thailand) - ~$90B+ (Charoen Pokphand Group; Dhanin Chearavanont family conglomerate spanning agribusiness, telecom, retail) SCG (Siam Cement Group) - ~$15B (enterprise value; Crown Property Bureau) PTT Group (Thailand) - ~$50B+ (PTT Public Company market cap + subsidiaries; state-owned energy) NEOM - ~$500B (official project budget; backed by PIF, Saudi Arabia's $925B sovereign wealth fund) TotalEnergies - ~$160B (market cap; $2B+ annual venture/low-carbon investment) Shell - ~$200B (market cap; Shell Ventures active in energy transition & deep tech) Frontier & Venture Capital Firms Who Have Attended: LowerCarbon Capital - ~$2B+ (AUM across 4 funds; Chris Sacca-led climate VC) SOSV - ~$1.5B (AUM; most active deep tech pre-seed investor globally) DCVC - ~$3B+ (total AUM across multiple deep tech funds + DCVC Climate Select ~$400M) Breakthrough Energy Ventures - ~$3.5B+ (committed capital across 3 flagship funds; backed by Gates, Bezos, Bloomberg) Combined estimated private market exposure represented at Atlas Coaliton's events: $2.5T+ USD Sponsors & Partners: Get full access to our alumni directory of 280+ verified past family offices guests - including family offices, institutional LPs, & hardware / frontier tech founders - through our WeTheAtlas Family Office & Investors Matching System. Search by investor type, AUM range, sector focus, & geography. Request warm introductions to any previous guest directly through the platform. Reach out to us at : team@wetheatlas.com WHAT HAPPENED AFTER OUR LAST SUMMITS This is not a talking shop. Capital moves in this room. $15M Raised - Twelve (SAF Carbon Transformation). An introduction made through our summit network connected Twelve - the company turning CO into jet fuel & chemicals for Mercedes-Benz, P&G, & British Airways - with the CMA CGM Saad family office. Result: $15M raised to scale the technology that's replacing fossil fuels with air & water. $37M+ in Funds LPs Investments Value Facilitated in 2025. Across our summits & coalition network, Atlas team facilitated more than $37M in transaction value between LPs & GPs of frontier & climate tech funds in a single year. 500+ Investor-Innovators Connections Made. Our events don't end when the panels do. Through structured 1:1 matching, post-event introductions, & the WeTheAtlas platform, our summits have generated over 500 qualified LP-GPs connections since 2024. Every number on this page is real. We don't count badge scans. We count capital deployed. THE FORMAT: BUILT FOR DEALS, NOT PANELS This is not a 3,000-person conference with a lanyard & a prayer. Here's exactly how the day works: 150 attendees. That's it. We cap attendance & curate every seat. Ratio target: 50% LPs & family offices, 30% GPs & fund managers, 20% frontier tech founders. Everyone in the room is either writing checks or building companies worth funding. Structured 1:1 Investor-Founder Matching. Every sponsors is matched with up to 10 relevant connections before the event through our WeTheAtlas matching system. You'll arrive knowing exactly who to meet, what time & which table number - no cold intros, no wasted conversations. 3 Deep-Dive Panels (Not TED Talks) Moderated discussions with founders & investors who are in the trenches - not keynotes from people selling you a vision. Topics this year: Energy Abundance: Nuclear Power, SAF & the New Economics of the Energy Renaissance From Bits to Atoms: Physical AI, Robotics & the Climate Resilient Infrastructure Revolution LP & GP Perspectives: Deploying Capital in Vital, Frontier Tech, Resilience & the Rise of Secondaries Old Money, New Frontiers: Foundations, Endowments & Corporates Are Funding Existential Resilience The 2026 Portfolio: How Family Offices Are Navigating War, Tariffs, Reshoring & the New World Order About WeTheAtlas WeTheAtlas is the capital mobilization platform for frontier & climate tech. We connect family offices, institutional LPs, & regional conglomerates with the founders building the future of energy, AI infrastructure, robotics, & industrial decarbonization. The platform integrates four engines: Summits - 150-person curated events in New York & San Francisco bringing LPs face-to-face with frontier tech founders The Adaptive Economy Newsletter - Weekly intelligence reaching 15,000+ frontier & resilience investors & founders worldwide LP-GP Matching - Proprietary family offices / LPs & investor-founder matching system powering warm introductions year-round SPVs & Co-Investment - Direct co-investment vehicles alongside vetted fund managers & family offices In 2025: $37M+ in investments facilitated. 280+ family offices alumni. 1,200+ coalition members representing $500B in committed capital. Learn more: wethetatlas.com About The Atlas Coalition The Atlas Coalition is a community focused on funding vital innovations for our society & our only planet. With $22B committed across 1,200 members (70% investors, 30% founders), the coalition hosted events in 8+ cities, share a monthly newsletter, conduct media interviews, & connect active frontier & climate investors through deal flow. Learn more: https://www.atlascoalition.com/ By registering for this event, you agree to share your registration information with the organizers of Climate Week NYC."
+    },
+    "gary_2026_09_23_see_the_future_startup_competition": {
+      "title": "SEE The Future Startup Competition",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-09-23",
+      "time": "2:30 PM",
+      "sort": 14.5,
+      "when": "Wed, 09/23 · 2:30pm",
       "price": "Free",
       "free": true,
-      "place": "Hairstory",
-      "source": "Luma NYC",
-      "link": "https://luma.com/r58e2nbe",
-      "map": "https://maps.google.com/?q=Hairstory%20NYC",
-      "summary": "Luma NYC: 1% for the Planet Volunteer Hackathons, 1% for the Planet, Toni Finnimore"
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/r1yg8s9/SEE-The-Future-Startup-Competition",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Join us during New York Climate Week 2026 for the SEE THE FUTURE Startup Competition, bringing together the next generation of entrepreneurs, researchers, investors, & climate leaders to spotlight ideas with the potential to create meaningful environmental impact. Co-hosted by Columbia Climate School, the Society of Entrepreneurs & Ecology (SEE), Foundations Platform F20 & Vectors Capital, the competition invites university students, researchers, & early-stage entrepreneurs to develop & showcase innovative solutions addressing today's most pressing climate & environmental challenges. From climate adaptation & clean energy to biodiversity, nature-based solutions, sustainable food systems, circular economy, & green finance, the competition is designed to give emerging ventures a platform to share bold ideas, receive expert feedback, & connect with a broader network of leaders working across climate, business, & investment. On September 23, five finalist teams will take the stage at Columbia University to pitch their ventures live before a panel of academics, investors, climate experts, & industry leaders. Interested in pitching your startup? If you would like the opportunity to pitch at the SEE THE FUTURE Startup Competition, please submit your application through the link below: Apply to the Start Up Competition Open Google Form The afternoon will also bring together founders, students, investors, & members of the climate community for conversations, networking, & a shared look at the solutions shaping our future. September 23, 2026 | 2:30-6:00 PM Columbia University | New York City Whether you're a founder ready to share your idea, an investor looking to discover emerging solutions, or simply interested in the future of climate innovation, we invite you to join us at SEE THE FUTURE 2026."
     },
     "luma_2026_09_21_ai_at_scale_building_intelligence_on_african_data_ta": {
       "title": "AI at Scale: Building Intelligence on African Data, Talent and Infrastructure",
@@ -1574,7 +1335,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/fvy5zafk",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: FMCIDE at UNGA81, FMCIDE, Francis Sani"
+      "summary": "Luma NYC: FMCIDE at UNGA81, FMCIDE, Francis Sani, Eliezer Ajah, JK Ladipo, Temiloluwa Okeowo"
     },
     "luma_2026_09_21_carbon_removal_community_reception_climate_week_nyc_": {
       "title": "Carbon Removal Community Reception: Climate Week NYC Edition!",
@@ -1677,6 +1438,23 @@
       "link": "https://luma.com/021ztfq8",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: NY Hardware Meetup, Mercer Borris, Kaila J. Lim, Anthony Dzaba, Lindsey Gideon, Paul Vizzio"
+    },
+    "luma_2026_09_22_gtm_as_code_gtm_ai_lightning_talks_with_experts_from": {
+      "title": "GTM as Code: GTM + AI Lightning Talks with experts from Vercel, Parallel, WorkOS, Adapt, Air.inc, and Go Nimbly!",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-09-22",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Tue, 09/22 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/8fxsv5y6",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Deepline, Seth Hanes, Jai Toor, WorkOS, Parallel Web Systems"
     },
     "nyu_tandon_2026_09_21_scaling_metabolic_health_with_foundation_models_and_": {
       "title": "Scaling Metabolic Health with Foundation Models and AI Agents",
@@ -1814,74 +1592,6 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel,"
     },
-    "jc_culture_10004822_2026_09_20_the_society_of_american_graphic_artists_saga_91st_an": {
-      "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-09-20",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 09/20 · 12pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "MANA CONTEMPORARY, 888 NEWARK AVE., JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-20/",
-      "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
-      "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
-    },
-    "jc_culture_43712_2026_09_20_cat_stick_easel_moon_exhibit_2026": {
-      "title": "Cat, Stick, Easel, Moon Exhibit 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-09-20",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Sun, 09/20 · 3pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-2026-4/",
-      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
-    },
-    "jc_culture_43688_2026_09_20_smush_gallery_work_share_monthly_artist_feedback_ses": {
-      "title": "Smush Gallery Work / Share Monthly Artist Feedback Sessions 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-09-20",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sun, 09/20 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/smush-gallery-work-share-monthly-artist-feedback-sessions-2026/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community."
-    },
-    "jc_culture_43994_2026_09_20_moores_lounge_winard_harper_guest_2026": {
-      "title": "Moores Lounge Winard Harper & Guest 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-09-20",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Sun, 09/20 · 8pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "MOORES LOUNGE, 189 MONTICELLO AVE, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/moores-lounge-winard-harper-guest-2026/",
-      "map": "https://maps.google.com/?q=MOORES%20LOUNGE%2C%20189%20MONTICELLO%20AVE%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
-    },
     "jc_culture_10003569_2026_09_23_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
       "type": "market",
@@ -1898,6 +1608,23 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-09-23/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_44028_2026_09_24_smush_gallery_artist_talk_2026": {
+      "title": "SMUSH Gallery Artist Talk 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-09-24",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 09/24 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/smush-gallery-artist-talk-2026/",
+      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
     },
     "jc_culture_10004827_2026_09_24_rent_the_musical": {
       "title": "RENT: The Musical",
@@ -2341,6 +2068,23 @@
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     },
+    "jc_culture_43985_2026_10_08_national_hispanic_heritage_month_flag_raising_ceremo": {
+      "title": "National Hispanic Heritage Month Flag Raising Ceremony 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "3:30 PM",
+      "sort": 15.5,
+      "when": "Thu, 10/08 · 3:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/national-hispanic-heritage-month-flag-raising-ceremony-2026/",
+      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
+    },
     "jc_culture_10004837_2026_10_08_rent_the_musical": {
       "title": "RENT: The Musical",
       "type": "entertainment",
@@ -2573,33 +2317,13 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_09_19_10_am": [
-      "skint_91190_0_brooklyn_bike_jumble_new_used_bicycle_and_accessorie",
-      "skint_91190_1_greenlight_bookstore_sidewalk_sale_book_drive",
-      "gary_2026_09_19_trust_in_the_hiring_funnel_hackathon"
-    ],
-    "cluster_2026_09_19_11_am": [
-      "skint_91190_2_annual_brooklyn_flea_record_fair",
-      "skint_91190_3_9th_10th_street_block_festivals"
-    ],
-    "cluster_2026_09_19_12_pm": [
-      "skint_91190_4_69th_annual_german_american_steuben_parade",
-      "skint_91190_5_paws_on_parade_dog_parade_and_social",
-      "skint_91190_6_jersey_city_s_15th_annual_all_about_downtown_street_",
-      "skint_91190_11_brooklyn_pop_up_x_bwac_red_hook_market"
-    ],
-    "cluster_2026_09_19_2_pm": [
-      "skint_91190_7_the_annual_freddy_s_dog_fashion_show_and_badass_anim",
-      "skint_91190_8_pete_s_annual_mini_zine_fest"
-    ],
     "cluster_2026_09_20_12_pm": [
-      "skint_91190_14_32nd_mexican_independence_day_parade",
-      "skint_91190_15_10th_annual_house_of_yes_block_party",
-      "jc_culture_10004822_2026_09_20_the_society_of_american_graphic_artists_saga_91st_an"
+      "skint_91190_2_32nd_mexican_independence_day_parade",
+      "skint_91190_3_10th_annual_house_of_yes_block_party"
     ],
     "cluster_2026_09_20_1_pm": [
-      "skint_91190_16_nyc_plant_market",
-      "skint_91190_17_18th_annual_urban_bear_nyc_street_fair"
+      "skint_91190_4_nyc_plant_market",
+      "skint_91190_5_18th_annual_urban_bear_nyc_street_fair"
     ],
     "cluster_2026_09_21_9_am": [
       "gary_2026_09_21_making_circularity_pay_off",
@@ -2663,6 +2387,10 @@
     "cluster_2026_09_22_9_pm": [
       "luma_2026_09_22_adaptation_in_action",
       "luma_2026_09_22_nuclear_night_nyc"
+    ],
+    "cluster_2026_09_22_10_pm": [
+      "luma_2026_09_22_120th_ny_hardware_meetup_climate_tech_week_at_antler",
+      "luma_2026_09_22_gtm_as_code_gtm_ai_lightning_talks_with_experts_from"
     ],
     "cluster_2026_10_03_12_pm": [
       "jc_culture_43716_2026_10_03_cat_stick_easel_moon_exhibit_2026_jcast_weekend",
