@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Sep 21, 2026, 6:45 PM EDT",
+    "checked": "Sep 22, 2026, 11:17 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-09-21",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Sep 21"
-      },
       {
         "iso": "2026-09-22",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Sep 27"
+      },
+      {
+        "iso": "2026-09-28",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Sep 28"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-09-21",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Sep 21"
-      },
       {
         "iso": "2026-09-22",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 21"
+      },
+      {
+        "iso": "2026-10-22",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Oct 22"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "12 AM",
       "7 AM",
@@ -248,6 +248,7 @@
       "11 AM",
       "11:30 AM",
       "12 PM",
+      "12:30 PM",
       "1 PM",
       "1:30 PM",
       "2 PM",
@@ -452,108 +453,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "skint_91190_0_ready_for_fall_bazaar_at_grand_bazaar_nyc": {
-      "title": "ready for fall bazaar at grand bazaar nyc",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-20",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 09/20 · 10am-5pm",
-      "price": "Free admission",
-      "free": true,
-      "place": "100 w 77th st at columbus ave (indoors + outdoors)",
-      "source": "The Skint",
-      "link": "https://grandbazaarnyc.org/events/ready-for-fall-vintage-bazaar/",
-      "map": "https://maps.google.com/?q=100%20w%2077th%20st%20at%20columbus%20ave%20(indoors%20%2B%20outdoors)%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sun 10am-5pm: ready for fall bazaar at grand bazaar nyc: 100 w 77th st at columbus ave (indoors + outdoors). free admission."
-    },
-    "skint_91190_1_fad_fashion_art_design_pop_up_market": {
-      "title": "fad (fashion art design) pop-up market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-20",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 09/20 · 11am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "part of open streets on montague, brooklyn heights",
-      "source": "The Skint",
-      "link": "https://fadmarket.co/open-streets-on-montague",
-      "map": "https://maps.google.com/?q=part%20of%20open%20streets%20on%20montague%2C%20brooklyn%20heights%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sun 11am-6pm: fad (fashion art design) pop-up market: part of open streets on montague, brooklyn heights."
-    },
-    "skint_91190_2_32nd_mexican_independence_day_parade": {
-      "title": "32nd mexican independence day parade",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-09-20",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 09/20 · 12pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "madison ave from e 38th to e 27th street (flatiron)",
-      "source": "The Skint",
-      "link": "https://www.manhattanbp.nyc.gov/events/32nd-annual-mexican-independence-day-parade-nyc-2026/",
-      "map": "https://maps.google.com/?q=madison%20ave%20from%20e%2038th%20to%20e%2027th%20street%20(flatiron)%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sun 12pm: 32nd mexican independence day parade: madison ave from e 38th to e 27th street (flatiron)."
-    },
-    "skint_91190_3_10th_annual_house_of_yes_block_party": {
-      "title": "10th annual house of yes block party",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-20",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 09/20 · 12-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "house of yes (bushwick)",
-      "source": "The Skint",
-      "link": "https://calendar.houseofyes.org/e/jbGeEKPbX5",
-      "map": "https://maps.google.com/?q=house%20of%20yes%20(bushwick)%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sun 12-6pm: 10th annual house of yes block party: house of yes (bushwick)."
-    },
-    "skint_91190_4_nyc_plant_market": {
-      "title": "nyc plant market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-20",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 09/20 · 1-7pm (monthly thru 10/18)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "culture lab lic",
-      "source": "The Skint",
-      "link": "https://nycplantmarket.com",
-      "map": "https://maps.google.com/?q=culture%20lab%20lic%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sun 1-7pm (monthly thru 10/18): nyc plant market: culture lab lic."
-    },
-    "skint_91190_5_18th_annual_urban_bear_nyc_street_fair": {
-      "title": "18th annual urban bear nyc street fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-20",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 09/20 · 1-7pm",
-      "price": "$20 suggested",
-      "free": false,
-      "place": "enter at washington street and little west 12th street (meatpacking district)",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/urban-bear-annual-street-fair-tickets-1999810401745",
-      "map": "https://maps.google.com/?q=enter%20at%20washington%20street%20and%20little%20west%2012th%20street%20(meatpacking%20district)%20NYC",
-      "summary": "Daily picks. Pulled from The Skint's public article feed: sun 1-7pm: 18th annual urban bear nyc street fair: enter at washington street and little west 12th street (meatpacking district). $20 suggested donation."
     },
     "gary_2026_09_21_making_circularity_pay_off": {
       "title": "Making Circularity Pay Off",
@@ -1320,40 +1219,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join us during New York Climate Week 2026 for the SEE THE FUTURE Startup Competition, bringing together the next generation of entrepreneurs, researchers, investors, & climate leaders to spotlight ideas with the potential to create meaningful environmental impact. Co-hosted by Columbia Climate School, the Society of Entrepreneurs & Ecology (SEE), Foundations Platform F20 & Vectors Capital, the competition invites university students, researchers, & early-stage entrepreneurs to develop & showcase innovative solutions addressing today's most pressing climate & environmental challenges. From climate adaptation & clean energy to biodiversity, nature-based solutions, sustainable food systems, circular economy, & green finance, the competition is designed to give emerging ventures a platform to share bold ideas, receive expert feedback, & connect with a broader network of leaders working across climate, business, & investment. On September 23, five finalist teams will take the stage at Columbia University to pitch their ventures live before a panel of academics, investors, climate experts, & industry leaders. Interested in pitching your startup? If you would like the opportunity to pitch at the SEE THE FUTURE Startup Competition, please submit your application through the link below: Apply to the Start Up Competition Open Google Form The afternoon will also bring together founders, students, investors, & members of the climate community for conversations, networking, & a shared look at the solutions shaping our future. September 23, 2026 | 2:30-6:00 PM Columbia University | New York City Whether you're a founder ready to share your idea, an investor looking to discover emerging solutions, or simply interested in the future of climate innovation, we invite you to join us at SEE THE FUTURE 2026."
     },
-    "luma_2026_09_21_carbon_removal_community_reception_climate_week_nyc_": {
-      "title": "Carbon Removal Community Reception: Climate Week NYC Edition!",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-21",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Mon, 09/21 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, New York",
-      "source": "Luma NYC",
-      "link": "https://luma.com/p4hl3mtu",
-      "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
-      "summary": "Luma NYC: Carbon Business Council, Carbon Business Council"
-    },
-    "luma_2026_09_22_fintech_run_club_ft_rain_monk_jp_morgan": {
-      "title": "Fintech Run Club ft. Rain + Monk + JP Morgan",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-09-22",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Tue, 09/22 · 11am",
-      "price": "Free",
-      "free": true,
-      "place": "Marsha P. Johnson Memorial Fountain",
-      "source": "Luma NYC",
-      "link": "https://luma.com/iy073jdo",
-      "map": "https://maps.google.com/?q=Marsha%20P.%20Johnson%20Memorial%20Fountain%20NYC",
-      "summary": "Luma NYC: Pedro D'Avila, Pedro D'Avila, Connor Griffin, Kendall Warson, Rain Events"
-    },
     "luma_2026_09_22_founders_breakfast_club_and_coworking_corgi_cafe": {
       "title": "Founders Breakfast Club and Coworking @ Corgi Cafe",
       "type": "startup",
@@ -1439,22 +1304,22 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Deepline, Seth Hanes, Jai Toor, WorkOS, Parallel Web Systems"
     },
-    "nyu_tandon_2026_09_21_scaling_metabolic_health_with_foundation_models_and_": {
-      "title": "Scaling Metabolic Health with Foundation Models and AI Agents",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Mon",
-      "date": "2026-09-21",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Mon, 09/21 · 11:00 AM",
-      "price": "Free / varies",
+    "luma_2026_09_23_nuclear_futures_hosted_by_wireframe_prelude_and_over": {
+      "title": "Nuclear Futures | Hosted by Wireframe, Prelude and Overture",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-09-23",
+      "time": "12:30 PM",
+      "sort": 12.5,
+      "when": "Wed, 09/23 · 12:30pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/09/21/scaling-metabolic-health-foundation-models-and-ai-agents",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
+      "place": "The Malin Chelsea Events",
+      "source": "Luma NYC",
+      "link": "https://luma.com/dc8k7pg9",
+      "map": "https://maps.google.com/?q=The%20Malin%20Chelsea%20Events%20NYC",
+      "summary": "Luma NYC: Wireframe Ventures, Wireframe Ventures, Overture Ventures, Prelude Ventures, Lily Bernicker"
     },
     "nyu_tandon_2026_09_22_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1574,6 +1439,23 @@
       "link": "https://engineering.nyu.edu/events/2026/09/25/risk-maps-resilience-investments-making-climate-ai-decision-ready",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel,"
+    },
+    "nyu_tandon_2026_09_27_personal_agent_hackathon": {
+      "title": "Personal Agent Hackathon",
+      "type": "tech",
+      "label": "Special",
+      "day": "Sun",
+      "date": "2026-09-27",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Sun, 09/27 · 10:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/27/personal-agent-hackathon",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Special"
     },
     "jc_culture_10003569_2026_09_23_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -2288,6 +2170,23 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-10-21/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_43493_2026_10_23_ariel_rivka_dance_2026": {
+      "title": "Ariel Rivka Dance 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Fri",
+      "date": "2026-10-23",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Fri, 10/23 · 5:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Exchange Place, MONTGOMERY ST BETWEEN HUDSON ST. AND GREEN ST.",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/ariel-rivka-dance-2026/",
+      "map": "https://maps.google.com/?q=Exchange%20Place%2C%20MONTGOMERY%20ST%20BETWEEN%20HUDSON%20ST.%20AND%20GREEN%20ST.",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor Visual & Performing Arts What's Coming Up?."
     }
   },
   "clusters": {
@@ -2299,14 +2198,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_09_20_12_pm": [
-      "skint_91190_2_32nd_mexican_independence_day_parade",
-      "skint_91190_3_10th_annual_house_of_yes_block_party"
-    ],
-    "cluster_2026_09_20_1_pm": [
-      "skint_91190_4_nyc_plant_market",
-      "skint_91190_5_18th_annual_urban_bear_nyc_street_fair"
     ],
     "cluster_2026_09_21_9_am": [
       "gary_2026_09_21_making_circularity_pay_off",
@@ -2358,10 +2249,6 @@
       "gary_2026_09_23_swiss_climatetech_showcase",
       "gary_2026_09_23_climate_action_delivers_affordability_for_new_yorker",
       "gary_2026_09_23_from_data_to_decarbonization_ai_powered_climate_acti"
-    ],
-    "cluster_2026_09_22_11_am": [
-      "luma_2026_09_22_fintech_run_club_ft_rain_monk_jp_morgan",
-      "nyu_tandon_2026_09_22_instructional_tech_drop_in_sessions"
     ],
     "cluster_2026_09_22_9_pm": [
       "luma_2026_09_22_adaptation_in_action",
