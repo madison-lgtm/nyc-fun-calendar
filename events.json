@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Sep 23, 2026, 6:25 PM EDT",
+    "checked": "Sep 24, 2026, 11:36 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-09-23",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Sep 23"
-      },
       {
         "iso": "2026-09-24",
         "key": "Thu",
@@ -45,15 +39,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Sep 29"
+      },
+      {
+        "iso": "2026-09-30",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Sep 30"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-09-23",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Sep 23"
-      },
       {
         "iso": "2026-09-24",
         "key": "Thu",
@@ -233,9 +227,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 23"
+      },
+      {
+        "iso": "2026-10-24",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Oct 24"
       }
     ],
-    "todayKey": "Wed",
+    "todayKey": "Thu",
     "times": [
       "12 AM",
       "7 AM",
@@ -263,8 +263,7 @@
       "7:30 PM",
       "8:30 PM",
       "9 PM",
-      "10:30 PM",
-      "11 PM"
+      "10:30 PM"
     ]
   },
   "events": {
@@ -1220,40 +1219,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%202%20Penn%20Plaza",
       "summary": "Gary's Guide: With Timothy Hoffman (Dir. Climate Initiatives Group, Columbia Tech Ventures), Soojin Choung (CEO, Witness Creative Partners), Yong Hyun Kim (Envisioning Partners)."
     },
-    "luma_2026_09_23_hidden_patterns_the_visual_journey_of_networks": {
-      "title": "Hidden Patterns: The Visual Journey of Networks",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-23",
-      "time": "11 PM",
-      "sort": 23,
-      "when": "Wed, 09/23 · 11pm",
-      "price": "Free",
-      "free": true,
-      "place": "The National Arts Club",
-      "source": "Luma NYC",
-      "link": "https://luma.com/startup-xe83",
-      "map": "https://maps.google.com/?q=The%20National%20Arts%20Club%20NYC",
-      "summary": "Luma NYC: Startup Grind NYC, Joshua Ness"
-    },
-    "luma_2026_09_23_nyc_startup_casino_night": {
-      "title": "NYC Startup Casino Night🗽🎲",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-23",
-      "time": "11 PM",
-      "sort": 23,
-      "when": "Wed, 09/23 · 11pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/z7nms29p",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: MongoDB, MongoDB"
-    },
     "luma_2026_09_24_2026_climate_capital_summit": {
       "title": "2026 Climate Capital Summit",
       "type": "startup",
@@ -1288,22 +1253,39 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: NYC Founders Club, Jordan Deasy, John Neil, Arjun Gheewala, J-Wan Kim, Holden Catlett, Nick Bainter, Justin Avery"
     },
-    "nyu_tandon_2026_09_23_instructional_tech_drop_in_sessions": {
-      "title": "Instructional Tech Drop-in Sessions",
-      "type": "tech",
-      "label": "Workshop / Training",
-      "day": "Wed",
-      "date": "2026-09-23",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Wed, 09/23 · 11:00 AM",
-      "price": "Free / varies",
+    "luma_2026_09_25_shakes_and_cakes_with_climate_friends": {
+      "title": "Shakes and Cakes with Climate Friends",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-09-25",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Fri, 09/25 · 4pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/09/23/instructional-tech-drop-sessions",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Workshop / Training"
+      "place": "Madison Square Park",
+      "source": "Luma NYC",
+      "link": "https://luma.com/jhse1n1a",
+      "map": "https://maps.google.com/?q=Madison%20Square%20Park%20NYC",
+      "summary": "Luma NYC: Sonam Velani, Sonam Velani, Laura Fox, Streetlife Ventures, Climate Tech Cities, HappyBoards 🧀"
+    },
+    "luma_2026_09_26_the_harness_engineering_model_wrangling_hackathon": {
+      "title": "The Harness Engineering & Model Wrangling Hackathon",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sat",
+      "date": "2026-09-26",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Sat, 09/26 · 1pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/j4jecx72",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: MongoDB, MongoDB, Cerebral Valley"
     },
     "nyu_tandon_2026_09_24_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1424,39 +1406,22 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
-    "jc_culture_10003569_2026_09_23_hamilton_park_farmers_market_2026": {
-      "title": "Hamilton Park Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Wed",
-      "date": "2026-09-23",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Wed, 09/23 · 4pm",
+    "nyu_tandon_2026_09_29_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
+      "type": "tech",
+      "label": "Workshop / Training",
+      "day": "Tue",
+      "date": "2026-09-29",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Tue, 09/29 · 11:00 AM",
       "price": "Free / varies",
       "free": true,
-      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-09-23/",
-      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
-    },
-    "jc_culture_44044_2026_09_23_music_at_the_fountain_2026": {
-      "title": "Music at the Fountain 2026",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Wed",
-      "date": "2026-09-23",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Wed, 09/23 · 7pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Lincoln Park, 1 County Rd 605, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/music-at-the-fountain-2026/",
-      "map": "https://maps.google.com/?q=Lincoln%20Park%2C%201%20County%20Rd%20605%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor What's Coming Up?."
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/29/instructional-tech-drop-sessions",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Workshop / Training"
     },
     "jc_culture_44028_2026_09_24_smush_gallery_artist_talk_2026": {
       "title": "SMUSH Gallery Artist Talk 2026",
@@ -1611,8 +1576,8 @@
       "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
       "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
     },
-    "jc_culture_43929_2026_09_26_freestyle_in_the_heights_2026": {
-      "title": "Freestyle in the Heights 2026",
+    "jc_culture_43929_2026_09_26_freestyle_in_the_heights_2026_being_rescheduled_tbd": {
+      "title": "Freestyle in the Heights 2026 / BEING RESCHEDULED TBD",
       "type": "park",
       "label": "Parks / Outdoor",
       "day": "Sat",
@@ -2188,6 +2153,40 @@
       "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-15/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10004843_2026_10_16_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-10-16",
+      "time": "7:30 PM",
+      "sort": 19.5,
+      "when": "Fri, 10/16 · 7:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-16/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_10004844_2026_10_17_rent_the_musical": {
+      "title": "RENT: The Musical",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sat",
+      "date": "2026-10-17",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sat, 10/17 · 2pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-17/",
+      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
+      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
     }
   },
   "clusters": {
@@ -2204,10 +2203,6 @@
       "gary_2026_09_23_race_to_recover_america_s_critical_minerals_when_sta",
       "gary_2026_09_23_regenerative_materials_across_industries"
     ],
-    "cluster_2026_09_23_11_am": [
-      "gary_2026_09_23_what_is_shaping_data_center_energy",
-      "nyu_tandon_2026_09_23_instructional_tech_drop_in_sessions"
-    ],
     "cluster_2026_09_23_1_pm": [
       "gary_2026_09_23_swiss_climatetech_showcase",
       "gary_2026_09_23_climate_action_delivers_affordability_for_new_yorker",
@@ -2221,10 +2216,6 @@
       "gary_2026_09_23_will_autonomous_vehicles_improve_the_environment",
       "gary_2026_09_23_visualizing_climate_worlds_data_ai_immersive_futures",
       "gary_2026_09_23_ai_sustainability_mgmt_case_studies_from_the_field"
-    ],
-    "cluster_2026_09_23_4_pm": [
-      "gary_2026_09_23_customer_first_path_to_powering_ai",
-      "jc_culture_10003569_2026_09_23_hamilton_park_farmers_market_2026"
     ],
     "cluster_2026_09_23_5_pm": [
       "gary_2026_09_23_founders_investors_soiree",
@@ -2252,9 +2243,9 @@
       "gary_2026_09_24_founders_operators_oktoberfest",
       "jc_culture_44028_2026_09_24_smush_gallery_artist_talk_2026"
     ],
-    "cluster_2026_09_23_11_pm": [
-      "luma_2026_09_23_hidden_patterns_the_visual_journey_of_networks",
-      "luma_2026_09_23_nyc_startup_casino_night"
+    "cluster_2026_09_26_1_pm": [
+      "luma_2026_09_26_the_harness_engineering_model_wrangling_hackathon",
+      "jc_culture_44071_2026_09_26_what_we_keep_2026"
     ],
     "cluster_2026_09_27_12_pm": [
       "jc_culture_10004825_2026_09_27_the_society_of_american_graphic_artists_saga_91st_an",
