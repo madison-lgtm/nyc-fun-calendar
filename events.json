@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 25, 2026, 11:41 AM EDT",
+    "checked": "Sep 25, 2026, 6:42 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1508,23 +1508,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Creativity & Business Problems in the Age of AI - a workshop for entrepreneurs We are entering a strange moment for creativity. For decades, we have been taught that innovation comes from thinking outside the box, brainstorming more ideas, & waiting for that breakthrough moment. But in the age of AI, & ideas are suddenly abundant, the real challenge is no longer simply coming up with more ideas. It is knowing how to find the right pieces, make unexpected connections, & turn them into something genuinely new & useful. This hands-on workshop, led by our head of program Jeffrey, introduces a practical methodology for doing exactly that. What we'll cover We'll start by looking at some of the traditional assumptions behind creativity & innovation: brainstorming, originality, intuition, & the idea of the lone creative genius, & why some of those assumptions are becoming less useful in an AI-native world. We'll then introduce a different way to approach creative problem-solving: instead of trying to invent the answer from scratch, you'll learn how to break a problem apart, deliberately search for useful precedents & ideas, & recombine existing elements in new ways. Through real-world case studies, we'll examine how successful products, businesses, & innovations often emerge not from a completely original idea, but from making the right connection between things that already exist. Most importantly, this will not be a lecture. You'll work through the methodology yourself, apply it to actual business problems, & leave with a framework you can reuse when thinking about products, positioning, growth, operations, or your next startup idea. Who should attend This workshop is designed primarily for: Early-stage founders, aspiring entrepreneurs, small business owners, product builders, & operators who regularly need to solve ambiguous problems with limited resources. No technical background is required. If you have ever stared at a blank page thinking, I need a better idea, this workshop is for you. Come with a problem. Leave with a different way of thinking about it."
     },
-    "luma_2026_09_25_shakes_and_cakes_with_climate_friends": {
-      "title": "Shakes and Cakes with Climate Friends",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-09-25",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Fri, 09/25 · 4pm",
-      "price": "Free",
-      "free": true,
-      "place": "Madison Square Park",
-      "source": "Luma NYC",
-      "link": "https://luma.com/jhse1n1a",
-      "map": "https://maps.google.com/?q=Madison%20Square%20Park%20NYC",
-      "summary": "Luma NYC: Sonam Velani, Sonam Velani, Laura Fox, Streetlife Ventures, Climate Tech Cities, HappyBoards 🧀"
-    },
     "luma_2026_09_26_the_harness_engineering_model_wrangling_hackathon": {
       "title": "The Harness Engineering & Model Wrangling Hackathon",
       "type": "tech",
@@ -1692,6 +1675,23 @@
       "place": "NYU Tandon / Online",
       "source": "NYU Tandon",
       "link": "https://engineering.nyu.edu/events/2026/09/28/molecular-bioengineering-crispr-based-therapeutic-gene-editing-and-rna-targeting",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_09_28_structure_and_data_mechanism_understanding_and_knowl": {
+      "title": "Structure and Data - Mechanism Understanding and Knowledge Discovery in Complex Energy Systems",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Mon",
+      "date": "2026-09-28",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Mon, 09/28 · 12:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/09/28/structure-and-data-mechanism-understanding-and-knowledge-discovery-complex-energy",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
@@ -1915,23 +1915,6 @@
       "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-27/",
       "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
       "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
-    },
-    "jc_culture_44048_2026_09_27_egyptian_festival_2026": {
-      "title": "Egyptian Festival 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-27",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 09/27 · 12pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "BERGEN SQUARE, BERGEN SQUARE & ACAMDEMY ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/egyptian-festival-2026/",
-      "map": "https://maps.google.com/?q=BERGEN%20SQUARE%2C%20BERGEN%20SQUARE%20%26%20ACAMDEMY%20ST%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Kids Activities Outdoor What's Coming Up?."
     },
     "jc_culture_10004831_2026_09_27_rent_the_musical": {
       "title": "RENT: The Musical",
@@ -2493,6 +2476,23 @@
       "link": "https://jerseycityculture.org/event/smush-gallery-work-share-monthly-artist-feedback-sessions-2026-2/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community."
+    },
+    "jc_culture_10003573_2026_10_21_hamilton_park_farmers_market_2026": {
+      "title": "Hamilton Park Farmers Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-10-21",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 10/21 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-10-21/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     }
   },
   "clusters": {
@@ -2538,8 +2538,7 @@
     ],
     "cluster_2026_09_27_12_pm": [
       "skint_91432_15_upcycle_community_tag_sale",
-      "jc_culture_10004825_2026_09_27_the_society_of_american_graphic_artists_saga_91st_an",
-      "jc_culture_44048_2026_09_27_egyptian_festival_2026"
+      "jc_culture_10004825_2026_09_27_the_society_of_american_graphic_artists_saga_91st_an"
     ],
     "cluster_2026_09_25_9_am": [
       "gary_2026_09_25_climate_techwalk",
