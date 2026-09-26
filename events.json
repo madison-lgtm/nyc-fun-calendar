@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 26, 2026, 10:48 AM EDT",
+    "checked": "Sep 26, 2026, 6:08 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -879,8 +879,8 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Liran Zvibel (Weka)."
     },
-    "gary_2026_09_29_events_as_a_growth_strategy_supermoon_playbook": {
-      "title": "Events As A Growth Strategy | Supermoon Playbook",
+    "gary_2026_09_29_events_as_a_growth_strategy": {
+      "title": "Events As A Growth Strategy",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Tue",
@@ -892,9 +892,9 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/460cuwu/Events-As-A-Growth-Strategy-Supermoon-Playbook",
+      "link": "https://www.garysguide.com/events/460cuwu/Events-As-A-Growth-Strategy",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Elena Obukhova (Founder, Supermoon & Supermoon Ventures)."
+      "summary": "Gary's Guide: With Elena Obukhova (Founder, Supermoon)."
     },
     "gary_2026_09_29_ai_marketing_french_tech": {
       "title": "AI Marketing  French Tech",
@@ -911,7 +911,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/wokkb85/AI-Marketing-French-Tech",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Nadia Carta (Global Head of Agency, Google), Elav Horwitz (Chief Innvovation Officer, WPP), Anne Vigier (Global Dir., YouTube Moderator)."
+      "summary": "Gary's Guide: With Nadia Carta (Head of Agency, Google), Elav Horwitz (Chief Innvovation Officer, WPP), Anne Vigier (Dir., YouTube)."
     },
     "gary_2026_09_29_ugly_talk_how_trusted_creators_monetize_their_audien": {
       "title": "Ugly Talk - How Trusted Creators Monetize Their Audience Without Selling Out",
@@ -929,6 +929,23 @@
       "link": "https://www.garysguide.com/events/cryfbhl/Ugly-Talk-How-Trusted-Creators-Monetize-Their-Audience-Without-Selling-Out",
       "map": "https://maps.google.com/?q=Kit%20Studios%2C%20109%20W%2027th%20St%2C%202nd%20Fl",
       "summary": "Gary's Guide: With Matt Mitsui (Founder, CCExNYC), Haley Janicek (Head of Creator Community, Kit)."
+    },
+    "gary_2026_09_29_consumer_founders_dinner": {
+      "title": "Consumer Founders Dinner",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-09-29",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Tue, 09/29 · 7:00pm",
+      "price": "Varies",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ix4plrj/Consumer-Founders-Dinner",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Imaginary Ventures, Verci, JPMorgan."
     },
     "gary_2026_09_30_mongodb_local_for_founders_building_what_s_next": {
       "title": "MongoDB.local - For Founders Building What's Next",
@@ -963,6 +980,23 @@
       "link": "https://www.garysguide.com/events/9emke3o/Distribution-Is-Your-Moat",
       "map": "https://maps.google.com/?q=Betaworks%2C%2029%20Little%20W%2012th%20St",
       "summary": "Gary's Guide: With Alex Chung (Head of Growth, System)."
+    },
+    "gary_2026_09_30_microsofts_ai_momentum_fueling_next_wave_of_enterpri": {
+      "title": "Microsofts AI Momentum - Fueling Next Wave Of Enterprise AI",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-09-30",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Wed, 09/30 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/53msebc/Microsofts-AI-Momentum-Fueling-Next-Wave-Of-Enterprise-AI",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Rafah Hosn (GM AI Frontiers, Microsoft Research), Ayo Haruna (Partnerships, Microsoft For Startups), Bhaskar Lokanathan (Startup Development Lead, Microsoft For Startups)."
     },
     "gary_2026_09_30_junto_founder_dinner": {
       "title": "Junto Founder Dinner",
@@ -1237,7 +1271,7 @@
       "summary": "Gary's Guide: Innovate. Pitch. Impact. Join the CASTGNY Startup Pitch Competition on October 4, 2026, in the heart of Manhattan! This event brings together aspiring founders, entrepreneurs, investors, & industry professionals for a morning of pitching, feedback, networking, & practical insights into building & growing a startup. This is an opportunity to showcase your idea, learn from experienced professionals, & connect with the Greater New York innovation community. Grand Prizes A Mac Mini M6 for the winning team! Tentative Agenda 9:30 - 9:45 AM Check-in & Networking 9:45 - 9:50 AM Welcome Remarks 9:50 - 10:10 AM Lightning Pitch Workshop 10:10 - 10:20 AM Introduction to the Startup Pitch Competition - Rules, format & judging criteria 10:20 - 11:30 AM Startup Pitch Competition - Startup pitches & judges' Q&A 11:30 - 11:40 AM Judges' Deliberation 11:40 AM - 12:25 PM Entrepreneurship & Innovation Discussion- Insights from founders, investors, scientists & technology leaders 12:25 - 12:30 PM Award Ceremony & Grand Prize Presentation (Agenda is subject to change.) Want to Pitch? Register on Luma to attend the event. You will receive a link to submit your full application. You will be asked to submit: Project Name Elevator Pitch About the Project (what inspired you, what you learned, how you built your project, & the challenges you faced) Built with (what tools, what models, what languages, ...) \"Try it out\" Links (links to your prototype, business, ...) Image Gallery (up to 15 images) Video Demo Link Current Stage: Prototype / MVP Early users / Pilot Revenue-generating Other Industry / Category: AI / Software Healthcare / Biotech FinTech Education Consumer Sustainability / Climate Hardware Other Supplementary Materials"
     },
     "gary_2026_10_04_brderless_buildathon_ai_agents": {
-      "title": "Brderless Buildathon: AI Agents",
+      "title": "Brderless Buildathon - AI Agents",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Sun",
@@ -1474,40 +1508,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: We decode tech and market signals together, salon-style with a small, curated group - so you can operate, invest, and decide better. Past attendees have been founders, investors and operators who work in tech or tech-adjacent roles across industries - Our Why AI can build a financial model, summarize an earnings call, or map a competitive landscape in seconds. What AI cannot do is connect the dots around what's happening right now - a technology, a trend, a business, an idea, a decision. Or what a moment like that actually signals. That takes human judgment, experience, and taste. The kind you only build by studying real examples, arguing them out loud, and testing your read against people who see it differently than you do. If you want a space to actually grow your thinking IRL and connect with people who match that energy, this is it. That's what Tech x Market Decoders is for. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: Check-in and Intros 15 minutes - decode solo. Quiet research time. Dig into the news, the product, the tech, the data. No talking, just thinking. 45 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up. You'll leave with a sharper read on the topic than you walked in with, and a few new perspectives you hadn't considered. That's the whole point. This week's topic: Let's Talk About Jev! A tiny AI startup called Jev just went viral for doing the opposite of what every other AI company is doing - it doesn't chat at all. Built by an ex-OpenAI researcher, Jev only returns fast, structured decisions (yes/no, multiple choice, confidence scores) instead of generating text, and it's reportedly fielding funding offers north of $10 billion just over a week after launch. We're decoding: Is Jev a genuinely new category of AI - a faster, cheaper layer sitting underneath the chatbots - or is this hype-cycle enthusiasm for something that's really just a narrow classifier with good marketing? Supporting questions: Does the \"specialized model\" approach threaten the big general-purpose LLMs, or complement them? What would it take for Jev's $10B valuation talk to actually make sense a year from now? Come as you are - operator, investor, builder, or just someone who reads too much tech or business news and wants to discuss with smart people. Prep not required but feel free to do some home research before you arrive if you'd like. **Refunds available up to 48 hours before the session. After that, we are sorry but the fee is non-refundable."
     },
-    "gary_2026_10_06_ai_enabled_services_founder_dinner": {
-      "title": "AI-Enabled Services Founder Dinner",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-10-06",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Tue, 10/06 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ye4b0h9/AI-Enabled-Services-Founder-Dinner",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Join us for an intimate evening with a highly curated group of founders building in AI-enabled services that are scaling at the most beautiful venue in NYC. Who Should Attend? Founders building in AI-enabled services Why Attend? Honest conversations with the best founders at similar stages Tactical insights on fundraising, GTM, & scaling from peers who get it What Is Included? 3-course dinner with sommelier-paired wines Live pianist The builders behind some of the fastest-growing companies in the country Important Reminders: Dress Code: Business, smart casual Stay Connected: Follow us on Instagram or LinkedIn for updates on our community, events & opportunities. Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes. About the Hosts & Sponsors: Brderless brings together the most extraordinary founders through a carefully curated community. Rho is the all-in-one banking platform for startups & the accountants supporting them. With banking setup in minutes, 2% cashback cards, & powerful tools for managing spend, paying bills, & closing the books, Rho helps high-growth startups move fast & stay focused, backed by support that goes to the end of the earth to help you win. Rho is a fintech company, not a bank. Checking & card services are provided by Webster Bank, N.A., member FDIC; savings account services are provided by American Deposit Management Co. & its partner banks. Corridor is an AI-native health insurance brokerage that helps businesses take care of their people. Corridor was created by a world class technical & service team from Scale AI, McKinsey, & Perplexity."
-    },
-    "gary_2026_10_07_pmai_creativity_business_problems_in_age_of_ai": {
-      "title": "PMAI - Creativity & Business Problems In Age Of AI",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-10-07",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Wed, 10/07 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/u4cdazx/PMAI-Creativity-Business-Problems-In-Age-Of-AI",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Creativity & Business Problems in the Age of AI - a workshop for entrepreneurs We are entering a strange moment for creativity. For decades, we have been taught that innovation comes from thinking outside the box, brainstorming more ideas, & waiting for that breakthrough moment. But in the age of AI, & ideas are suddenly abundant, the real challenge is no longer simply coming up with more ideas. It is knowing how to find the right pieces, make unexpected connections, & turn them into something genuinely new & useful. This hands-on workshop, led by our head of program Jeffrey, introduces a practical methodology for doing exactly that. What we'll cover We'll start by looking at some of the traditional assumptions behind creativity & innovation: brainstorming, originality, intuition, & the idea of the lone creative genius, & why some of those assumptions are becoming less useful in an AI-native world. We'll then introduce a different way to approach creative problem-solving: instead of trying to invent the answer from scratch, you'll learn how to break a problem apart, deliberately search for useful precedents & ideas, & recombine existing elements in new ways. Through real-world case studies, we'll examine how successful products, businesses, & innovations often emerge not from a completely original idea, but from making the right connection between things that already exist. Most importantly, this will not be a lecture. You'll work through the methodology yourself, apply it to actual business problems, & leave with a framework you can reuse when thinking about products, positioning, growth, operations, or your next startup idea. Who should attend This workshop is designed primarily for: Early-stage founders, aspiring entrepreneurs, small business owners, product builders, & operators who regularly need to solve ambiguous problems with limited resources. No technical background is required. If you have ever stared at a blank page thinking, I need a better idea, this workshop is for you. Come with a problem. Leave with a different way of thinking about it."
-    },
     "luma_2026_09_26_the_harness_engineering_model_wrangling_hackathon": {
       "title": "The Harness Engineering & Model Wrangling Hackathon",
       "type": "tech",
@@ -1626,6 +1626,23 @@
       "link": "https://luma.com/build-content-os",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Notion, Hannah zhang, Nancy Chen, Ellie de Wit, HappyBoards 🧀"
+    },
+    "luma_2026_09_30_mongodb_local_nyc_for_startups_building_what_s_next": {
+      "title": "MongoDB.local NYC: For Startups Building What's Next",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-09-30",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Wed, 09/30 · 1pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/7hlijfri",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: MongoDB, MongoDB"
     },
     "nyu_tandon_2026_09_27_personal_agent_hackathon": {
       "title": "Personal Agent Hackathon",
@@ -2559,7 +2576,7 @@
     ],
     "cluster_2026_09_29_5_30_pm": [
       "gary_2026_09_29_token_economics_why_cost_kills_more_ai_projects_than",
-      "gary_2026_09_29_events_as_a_growth_strategy_supermoon_playbook"
+      "gary_2026_09_29_events_as_a_growth_strategy"
     ],
     "cluster_2026_09_30_6_pm": [
       "gary_2026_09_30_junto_founder_dinner",
