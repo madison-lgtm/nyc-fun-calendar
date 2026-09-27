@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Sep 26, 2026, 6:08 PM EDT",
+    "checked": "Sep 27, 2026, 11:27 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-09-26",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Sep 26"
-      },
       {
         "iso": "2026-09-27",
         "key": "Sun",
@@ -45,15 +39,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 2"
+      },
+      {
+        "iso": "2026-10-03",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Oct 3"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-09-26",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Sep 26"
-      },
       {
         "iso": "2026-09-27",
         "key": "Sun",
@@ -233,12 +227,19 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Oct 26"
+      },
+      {
+        "iso": "2026-10-27",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Oct 27"
       }
     ],
-    "todayKey": "Sat",
+    "todayKey": "Sun",
     "times": [
       "7 AM",
       "8 AM",
+      "8:30 AM",
       "9 AM",
       "9:30 AM",
       "10 AM",
@@ -260,7 +261,6 @@
       "7 PM",
       "7:30 PM",
       "8:30 PM",
-      "9 PM",
       "9:30 PM",
       "10 PM",
       "10:30 PM"
@@ -454,24 +454,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_91432_0_printed_matter_s_ny_art_book_fair": {
-      "title": "printed matter’s ny art book fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Fri",
-      "date": "2026-09-25",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 09/25 · thru sun",
-      "price": "$10 admission",
-      "free": false,
-      "place": "moma ps1 (lic), $10 admission",
-      "source": "The Skint",
-      "link": "https://nyabf2026.printedmatterartbookfairs.org",
-      "map": "https://maps.google.com/?q=moma%20ps1%20(lic)%2C%20%2410%20admission%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri thru sun: printed matter’s ny art book fair: moma ps1 (lic), $10 admission."
-    },
-    "skint_91432_1_36th_annual_west_104th_street_yard_sale": {
+    "skint_91432_0_36th_annual_west_104th_street_yard_sale": {
       "title": "36th annual west 104th street yard sale",
       "type": "market",
       "label": "Festival / Market",
@@ -488,7 +471,7 @@
       "map": "https://maps.google.com/?q=west%20104th%20st%20bet%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-5pm: 36th annual west 104th street yard sale: west 104th st bet. west end ave + riverside drive. update: postponed to 10/3 due to the weather."
     },
-    "skint_91432_2_brooklyn_pop_up_x_old_stone_house_traditional_makers": {
+    "skint_91432_1_brooklyn_pop_up_x_old_stone_house_traditional_makers": {
       "title": "brooklyn pop-up x old stone house traditional makers fair",
       "type": "market",
       "label": "Festival / Market",
@@ -505,7 +488,7 @@
       "map": "https://maps.google.com/?q=sunday)%3A%20%3A%204th%20street%20cul%20de%20sac%20at%20washington%20park%20(park%20slope)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-5pm (extreme weather date: sunday): brooklyn pop-up x old stone house traditional makers fair: 4th street cul de sac at washington park (park slope)."
     },
-    "skint_91432_3_moonies_club_presents_the_third_annual_magical_girls": {
+    "skint_91432_2_moonies_club_presents_the_third_annual_magical_girls": {
       "title": "moonies club presents: the third annual magical girls festival",
       "type": "market",
       "label": "Festival / Market",
@@ -522,7 +505,7 @@
       "map": "https://maps.google.com/?q=5-2-a%20in%20industry%20city%20(sunset%20park)%2C%20%2420%20admission%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-10pm: moonies club presents: the third annual magical girls festival: 5-2-a in industry city (sunset park), $20 admission."
     },
-    "skint_91432_4_the_second_annual_park_slope_super_stoop_sale": {
+    "skint_91432_3_the_second_annual_park_slope_super_stoop_sale": {
       "title": "the second annual park slope super stoop sale",
       "type": "market",
       "label": "Festival / Market",
@@ -539,7 +522,7 @@
       "map": "https://maps.google.com/?q=sunday)%3A%20%3A%20throughout%20park%20slope%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-4pm (rain date: sunday): the second annual park slope super stoop sale: throughout park slope."
     },
-    "skint_91432_5_manhattan_vintage_clothing_show_denim_edition": {
+    "skint_91432_4_manhattan_vintage_clothing_show_denim_edition": {
       "title": "manhattan vintage clothing show: denim edition",
       "type": "market",
       "label": "Festival / Market",
@@ -556,7 +539,7 @@
       "map": "https://maps.google.com/?q=59%20orchard%20street%20(les)%2C%20%2415-%2425%20admission%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-7pm: manhattan vintage clothing show: denim edition: 59 orchard street (les), $15-$25 admission."
     },
-    "skint_91432_6_20th_annual_nyc_anarchist_book_fair_festival": {
+    "skint_91432_5_20th_annual_nyc_anarchist_book_fair_festival": {
       "title": "20th annual nyc anarchist book fair + festival",
       "type": "market",
       "label": "Festival / Market",
@@ -573,7 +556,7 @@
       "map": "https://maps.google.com/?q=la%20plaza%20cultural%20community%20garden%20and%20tompkins%20square%20park%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-11pm: 20th annual nyc anarchist book fair + festival: la plaza cultural community garden and tompkins square park."
     },
-    "skint_91432_7_thrift2death_jersey_city_thrift_market": {
+    "skint_91432_6_thrift2death_jersey_city_thrift_market": {
       "title": "thrift2death jersey city thrift market",
       "type": "market",
       "label": "Festival / Market",
@@ -590,7 +573,7 @@
       "map": "https://maps.google.com/?q=grove%20street%20path%20plaza%20(jersey%20city)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-5pm: thrift2death jersey city thrift market: grove street path plaza (jersey city). update: postponed to 10/10 due to the weather."
     },
-    "skint_91432_8_poseidon_s_parade": {
+    "skint_91432_7_poseidon_s_parade": {
       "title": "poseidon’s parade",
       "type": "market",
       "label": "Festival / Market",
@@ -607,7 +590,7 @@
       "map": "https://maps.google.com/?q=boardwalk%20at%20beach%20105th%20st%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 1pm: poseidon’s parade: boardwalk at beach 105th st. to 95th st. (rockaway beach). $5 to march, free to watch."
     },
-    "skint_91432_9_vegan_garden_social_harlem_edition": {
+    "skint_91432_8_vegan_garden_social_harlem_edition": {
       "title": "vegan garden social: harlem edition",
       "type": "market",
       "label": "Festival / Market",
@@ -624,7 +607,7 @@
       "map": "https://maps.google.com/?q=sugar%20hill%20hope%20garden%20(harlem)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 1-7pm: vegan garden social: harlem edition: sugar hill hope garden (harlem). donations welcome."
     },
-    "skint_91432_10_wepa_summer_salsa_socials": {
+    "skint_91432_9_wepa_summer_salsa_socials": {
       "title": "¡wepa! summer salsa socials",
       "type": "market",
       "label": "Festival / Market",
@@ -641,7 +624,7 @@
       "map": "https://maps.google.com/?q=the%20hispanic%20society%20museum%20%2B%20library%20(washington%20heights)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 3-5pm: ¡wepa! summer salsa socials: the hispanic society museum + library (washington heights)."
     },
-    "skint_91432_11_record_riot": {
+    "skint_91432_10_record_riot": {
       "title": "record riot",
       "type": "market",
       "label": "Festival / Market",
@@ -658,7 +641,7 @@
       "map": "https://maps.google.com/?q=grove%20street%20path%20plaza%20(jersey%20city)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 9am-5pm: record riot: grove street path plaza (jersey city)."
     },
-    "skint_91432_12_53rd_annual_3rd_avenue_festival": {
+    "skint_91432_11_53rd_annual_3rd_avenue_festival": {
       "title": "53rd annual 3rd avenue festival",
       "type": "market",
       "label": "Festival / Market",
@@ -675,7 +658,7 @@
       "map": "https://maps.google.com/?q=3rd%20avenue%20from%2069th%20to%2094th%20street%20(bay%20ridge)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm: 53rd annual 3rd avenue festival: 3rd avenue from 69th to 94th street (bay ridge). update: postponed to 10/4 due to the weather."
     },
-    "skint_91432_13_51st_annual_flatbush_frolic_street_fair": {
+    "skint_91432_12_51st_annual_flatbush_frolic_street_fair": {
       "title": "51st annual flatbush frolic street fair",
       "type": "market",
       "label": "Festival / Market",
@@ -692,7 +675,7 @@
       "map": "https://maps.google.com/?q=cortelyou%20road%20between%20ocean%20ave%20and%20coney%20island%20ave%2C%20brooklyn%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm: 51st annual flatbush frolic street fair: cortelyou road between ocean ave and coney island ave, brooklyn."
     },
-    "skint_91432_14_broadway_flea_market_grand_auction": {
+    "skint_91432_13_broadway_flea_market_grand_auction": {
       "title": "broadway flea market + grand auction",
       "type": "market",
       "label": "Festival / Market",
@@ -709,7 +692,7 @@
       "map": "https://maps.google.com/?q=w%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-7pm: broadway flea market + grand auction: w. 44th + 45 sts., shubert alley, and the times square pedestrian plaza between 45th + 46th sts. moved indoors to hammerstein ballroom due to weather."
     },
-    "skint_91432_15_upcycle_community_tag_sale": {
+    "skint_91432_14_upcycle_community_tag_sale": {
       "title": "upcycle: community tag sale",
       "type": "market",
       "label": "Festival / Market",
@@ -726,7 +709,7 @@
       "map": "https://maps.google.com/?q=montague%20st%20from%20clinton%20st%20to%20hicks%20st%20in%20brooklyn%20heights%20(part%20of%20montague%20open%20streets)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-4pm: upcycle: community tag sale: montague st from clinton st to hicks st in brooklyn heights (part of montague open streets)."
     },
-    "skint_91432_16_annual_fall_clothing_swap": {
+    "skint_91432_15_annual_fall_clothing_swap": {
       "title": "annual fall clothing swap",
       "type": "market",
       "label": "Festival / Market",
@@ -743,90 +726,22 @@
       "map": "https://maps.google.com/?q=footlight%20underground%20at%20the%20windjammer%20(ridgewood)%2C%20free%20admission%20(donations%20welcome)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon 5-9pm: annual fall clothing swap: footlight underground at the windjammer (ridgewood), free admission (donations welcome)."
     },
-    "gary_2026_09_26_the_harness_engg_model_wrangling_hackathon": {
-      "title": "The Harness Engg & Model Wrangling Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-09-26",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sat, 09/26 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/bmjdy6f/The-Harness-Engg-Model-Wrangling-Hackathon",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: MongoDB's next chapter of agentic infrastructure is memory, persistence, & self-evolving systems. Join us for a hackathon with the MongoDB, as well as our supporting partners - AWS, OpenAI, Fireworks, Vercel, Openrouter, ElevenLabs - focused on solving the hardest problem in agentic AI: building harnesses that can adapt, remember, & operate reliably over the long haul. We're looking for impactful projects built with MongoDB Atlas, Vector Search, & Agentic Memory tooling. Whether you're building agents that rewrite their own guardrails, systems that hold context across weeks-long tasks, or entirely new approaches to persistent agent memory, this is your opportunity to build the infrastructure the next generation of agents will run on. Top judges from across MongoDB's ecosystem will be joining us, & prizes will be announced soon. Note: This event is fully in-person in NYC. Space is limited. Maximum team size is four. All attendees must submit an application & be approved to attend. If selected as a finalist we require one person from your team to record a demo on-site September 26th which will then be displayed at .local NYC. To be eligible to win, finalists must also be available on September 30th to attend MongoDB.local NYC & present their project."
-    },
-    "gary_2026_09_26_ai_x_gtm_hackathon_sales_talks": {
-      "title": "AI x GTM Hackathon - Sales Talks",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-09-26",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sat, 09/26 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/rfcpi8h/AI-x-GTM-Hackathon-Sales-Talks",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: AI GTM Hackathon: Sales Agents One day. One goal: build AI that can actually help companies sell. Hosted by Block Convey, the AI GTM Hackathon brings together builders, founders, engineers, & GTM operators to build real AI agents for sales & revenue teams. Choose one of three tracks: Lead Generation Build agents for prospect research, ICP matching, enrichment, & lead discovery. Sales Automation Build agents for outreach, follow-ups, CRM workflows, scheduling, & pipeline operations. Revenue Intelligence Build agents that analyze pipeline, prioritize opportunities, understand objections, & recommend the next best action. What You'll Get Up to $5,000 in cash prizes + partner credits Build with PRISM by Block Convey Observe how your agent behaves, understand where it fails, improve it, & prove it in your final demo. Build with partner technologies Technology partners will provide tools, credits, & resources for participants. Meet founders, mentors, hiring teams, & GTM operators How It Works Pick a track Build your agent Test it Improve it Demo it. All track instructions, partner resources, team information, & submission details will be shared through Discord & Builderbase. Whether you're an engineer, founder, student, designer, or GTM builder, come with an idea or join a team at the event. Hosted by Block Convey One day to build the future of sales."
-    },
-    "gary_2026_09_26_pmai_vibe_coding_workshop": {
-      "title": "PMAI: Vibe Coding Workshop",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-09-26",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 09/26 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/lwl5fln/PMAI-Vibe-Coding-Workshop",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Curious about coding with AI? This is the perfect place to start. If you are a: Non-technical founder/operator SME who wants to incorporate AI Someone who feel left behind by AI Aspiring builders/students Working professionals looking to 10x productivity Generally curious about agentic AI You have to come! In this beginner-friendly workshop, we'll walk you through everything you need to go from zero to building with Codex from Open AI, among with other tools. We cover: Understanding the basics of how the tools work as an agentic coding assistant in your terminal Building a real project from scratch using natural language commands Learning how to prompt effectively so the AI tools do what you actually want No prior experience with AI coding tools is required, just bring your laptop! Participants are responsible for their own subscriptions. By the end of this session, you'll have a working project & the confidence to keep building on your own. About Narra Collective: Narra Collective is a community-driven coworking & flex workspace in Jersey City serving founders, small business owners, & corporate teams. Part of the less than 1% of coworking spaces in the U.S. that are both women- & minority-owned, Narra brings a perspective shaped by lived experience, building spaces where access, connection, & opportunity are intentionally created. Through thoughtfully designed space & programming, Narra facilitates meaningful relationships, knowledge exchange, & business growth within a highly engaged local ecosystem. About Pioneering Minds AI: At pioneeringminds.ai, we grow AI native pioneers who build, deploy, & govern AI responsibly & put humans at the front seat. We help YOU - our AI pioneers - to truly understand AI & create real value out of AI. Our mission is straightforward: Accelerate Innovation: Equip participants with cutting-edge AI tools to deliver rapid prototypes. Foster Collaboration: Unite diverse teams-students, engineers, & civic leaders-to tackle urban challenges head-on. Create Lasting Impact: Offer continued mentorship & post-event partnerships so promising concepts can scale beyond the weekend."
-    },
-    "gary_2026_09_26_the_veiled_truth_unga_81_an_evening_of_women_culture": {
-      "title": "The Veiled Truth Unga 81 | An Evening Of Women, Culture & Global Impact",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sat",
-      "date": "2026-09-26",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Sat, 09/26 · 5:00pm",
-      "price": "$50",
-      "free": false,
-      "place": "Venue, 29 Nassau Ave, Brooklyn",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/6l6yunp/The-Veiled-Truth-Unga-81-An-Evening-Of-Women-Culture-Global-Impact",
-      "map": "https://maps.google.com/?q=Venue%2C%2029%20Nassau%20Ave%2C%20Brooklyn",
-      "summary": "Gary's Guide: With First Lady of Kwara State, Jordan March (Luxury Real Estate Leader), Richie Hosein (Founder/CEO, FreeHealth AI)."
-    },
-    "gary_2026_09_28_notion_101_for_small_businesses": {
-      "title": "Notion 101 For Small Businesses",
+    "gary_2026_09_28_2026_global_beauty_fashion_tech_forum": {
+      "title": "2026 Global Beauty & Fashion Tech Forum",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Mon",
       "date": "2026-09-28",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Mon, 09/28 · 4:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Silence Please, 132 Bowery Fl 2",
+      "time": "8:30 AM",
+      "sort": 8.5,
+      "when": "Mon, 09/28 · 8:30am",
+      "price": "$199",
+      "free": false,
+      "place": "Fashion Institute of Tech, Haft Theater, 227 W 27th St",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/imso2yd/Notion-101-For-Small-Businesses",
-      "map": "https://maps.google.com/?q=Silence%20Please%2C%20132%20Bowery%20Fl%202",
-      "summary": "Gary's Guide: Part workshop, part co-build, designed for small businesses. Notion 101 for Small Businesses is a hands-on session for operators who want one place to run the business. You'll learn the fundamentals, see workflows built for businesses like yours, connect your Notion to all your tools & platforms, then build your own Business OS in the room with a Notion expert at your table. You leave with something you can actually use tomorrow. Not a blank page with good intentions. How it works Learn the basics. Pages, databases, views, templates. Fast, no jargon, no prior Notion experience needed. See your use case. Live demos tailored to your track: brick & mortar, e-comm, or services. Build it live. Pick one workflow, build it with help from Notion experts, & add an AI layer to it before you go. Who this is for Brick & mortar: cafes, retail, salons, studios, appointment-based businesses E-comm / online: Shopify, marketplaces, digital products, creator-led stores Services: agencies, consultants, coaches, photographers, trades, event planners Details Monday, September 28 4:00PM -6:30PM Silence Please, 132 Bowery Fl 2, New York, NY 10013 ~2.5 hours, including build time Bring your laptop Coffee + snacks on us Application-based. An RSVP isn't confirmed until you're accepted. Important: This is a beginner-friendly workshop plus build session. Come with a real business problem, like scheduling, inventory, clients, or content. For bugs or account issues, our support team has you covered. See you there. Come ready to build."
+      "link": "https://www.garysguide.com/events/jxftdyd/2026-Global-Beauty-Fashion-Tech-Forum",
+      "map": "https://maps.google.com/?q=Fashion%20Institute%20of%20Tech%2C%20Haft%20Theater%2C%20227%20W%2027th%20St",
+      "summary": "Gary's Guide: With Wayne Liu (Chief Growth & Mktg Officer, Perfect), Elana Drell-Szyfer (President, Cew), Melis del Rey (CEO, Supergoop), Natasha Khan (Reporter, The Wall St Journal), Meredith Epstein Goodman (Global Strategic Mktg & Retail Exec), Lisa Stroud (Founder/CEO, True Beauty Cashes), Emilie Sydney-Smith (Founder/CEO, Vereme), Ebony Karim (Founder/CEO, The Beauty Genie), Steve Tsai (CEO, Kabob), Nikita Sachdev (Founder/CEO, Luna)."
     },
     "gary_2026_09_28_the_shortlist_founder_showcase": {
       "title": "The Shortlist Founder Showcase",
@@ -1287,6 +1202,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Brderless Buildathon: AI Agents - NYC Most hackathons end at the demo. We built this differently. The Brderless Buildathon is a two-part format: a curated 24-hour build in New York, then two weeks to keep shipping, then a Demo Day where the selected winning teams show a real product. Part 1 - The Buildathon (October 4) 100 vetted builders. One theme: AI agents that do real work - planning, tool use, multi-step execution, human-in-the-loop. Not chatbots. The day: 10:00am: Doors open, breakfast 11:00am: Keynote from speakers & team formation 12:00pm: Lunch & build 3:00pm: Project check-ins 4:00pm: Submissions close & final selections 5:00pm: Judging round one, awards, & selection of the teams advancing to Part 2 Food & caffeine for the full 24. Top teams advance to part 2. Part 2 - Demo Day (October 8) Selected teams get two weeks & mentor support + credits to turn the weekend into a product. Then they demo live to a curated room of investors, operators, & sponsors - 7-min demo, 5-min Q&A. Who should apply? Engineers, technical founders, AI/agents engineers, & product people who ship. Solo, with a team, or matched with one - all fine. If you come as a pair or group, please make sure that everyone registers. About the Hosts & Sponsors Brderless brings together the most extraordinary founders & builders through a carefully curated community."
     },
+    "gary_2026_10_05_advertising_week_2026": {
+      "title": "Advertising Week 2026",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-10-05",
+      "time": "8 AM",
+      "sort": 8,
+      "when": "Mon, 10/05 · 8:00am",
+      "price": "$400",
+      "free": false,
+      "place": "The Penn District, 100 W 33rd St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/dhssdqm/Advertising-Week-2026",
+      "map": "https://maps.google.com/?q=The%20Penn%20District%2C%20100%20W%2033rd%20St",
+      "summary": "Gary's Guide: With Jackie Aina (CEO, FORVR MOOD), Patrick Arthur (CMO, Washington Commanders), Denis Asamoah (Founder/CEO, FORVR MOOD), Remi Bader (Content Creator & Mental Health Advocate), Sophia Bush (Actress, Activist), Sabrina Callahan (SVP - Chief Digital & Mktg Officer, Southwest Airlines), Katie Chaffin (Dir. Mktg, Garner Foods/Texas Pete), Ben Cohen (Founder, Ben & Jerry's), Amani Duncan (CEO, My Code), John Espley (VP - Corporate Partnerships, PGA TOUR), Aude Gandon (EVP, Global Chief Digital & Mktg Officer, The Este Lauder Companies), Greg Hamilton (CMO, Little Caesars)."
+    },
     "gary_2026_10_05_brits_in_tech_startups_happy_hour": {
       "title": "Brits In Tech & Startups - Happy Hour",
       "type": "startup",
@@ -1315,10 +1247,10 @@
       "when": "Tue, 10/06 · 7:00am",
       "price": "Free",
       "free": true,
-      "place": "Elsie's Rooftop - Penthouse, 1412 Broadway, 24th",
+      "place": "Elsie's Rooftop Penthouse, 1412 Broadway, 24th Fl",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/mk8qn39/Unique-AI-Presents-New-AI-Teammates",
-      "map": "https://maps.google.com/?q=Elsie's%20Rooftop%20-%20Penthouse%2C%201412%20Broadway%2C%2024th",
+      "map": "https://maps.google.com/?q=Elsie's%20Rooftop%20Penthouse%2C%201412%20Broadway%2C%2024th%20Fl",
       "summary": "Gary's Guide: With Dana Ritter (CPO, Unique AI)."
     },
     "gary_2026_10_06_forbes_future_of_work_summit": {
@@ -1440,6 +1372,23 @@
       "map": "https://maps.google.com/?q=Kiehl's%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Adtech Mask Party: An Intimate Evening of Self-Care & Connection Join us for an exclusive evening in East Village, where self-care meets entrepreneurship! Limited to just 15 ambitious individuals, this intimate gathering brings together Gen Z founders, creators, & investors in the adtech sector for a summer celebration of skincare & meaningful connections. Fall Special Experience: Love your skin! Join us in-store for a relaxing afternoon & discover the perfect mask for your skin's needs. Our skincare experts will be on hand to provide personalized consultations & complimentary samples. RSVP to secure your spot! Reserve your spot quickly as spaces are limited. 5:30pm-5:45pm Check-In all guests & Signup for Kiehl's Loyalty 5:45pm-6:00pm Quick Derma-Reader Skin Analysis 6:00pm-6:30pm Expert led mask application 6:30pm-7:00pm Mingle ok but who even is genztea?? we're an experimental marketing agency of Gen Z founders, creators, & investors across 119+ universities in 21+ countries. we're not just getting invited into the room, we're LEADING it. join our newsletter for monthly deep dives with a Gen Z lens https://genztea.beehiiv.com/subscribe reach is the new resume Event Notice: This event will be photographed & filmed. By attending, you grant GenZtea permission to use photographs & video footage for marketing & communication purposes. Attendance also includes subscription to the GenZtea newsletter."
     },
+    "gary_2026_10_06_female_founders_member_mingle": {
+      "title": "Female Founders Member Mingle",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-10-06",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 10/06 · 6:00pm",
+      "price": "$20",
+      "free": false,
+      "place": "Bedford Studio, 62 Bedford St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/sqqzskm/Female-Founders-Member-Mingle",
+      "map": "https://maps.google.com/?q=Bedford%20Studio%2C%2062%20Bedford%20St",
+      "summary": "Gary's Guide: Build a Profitable Product Business Have a great product? Let's make sure you're building a great business around it. Join us for a practical, engaging conversation for product-based founders-from jewelry & apparel to food & beverage, home goods, CPG, & beyond. Our panel of experts will break down the essentials of building & scaling a profitable product business, including branding, legal & IP protection, manufacturing, profitability, & more. Come with questions & leave with actionable strategies, fresh ideas, & a clearer path for growing your business. Stay after the conversation for networking, light bites, & great company."
+    },
     "gary_2026_10_06_storytelling_as_gtm": {
       "title": "Storytelling As GTM",
       "type": "startup",
@@ -1506,24 +1455,41 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/0cct3su/Tech-x-Market-Decoders-This-week-Let-s-Talk-about-Jev",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: We decode tech and market signals together, salon-style with a small, curated group - so you can operate, invest, and decide better. Past attendees have been founders, investors and operators who work in tech or tech-adjacent roles across industries - Our Why AI can build a financial model, summarize an earnings call, or map a competitive landscape in seconds. What AI cannot do is connect the dots around what's happening right now - a technology, a trend, a business, an idea, a decision. Or what a moment like that actually signals. That takes human judgment, experience, and taste. The kind you only build by studying real examples, arguing them out loud, and testing your read against people who see it differently than you do. If you want a space to actually grow your thinking IRL and connect with people who match that energy, this is it. That's what Tech x Market Decoders is for. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: Check-in and Intros 15 minutes - decode solo. Quiet research time. Dig into the news, the product, the tech, the data. No talking, just thinking. 45 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up. You'll leave with a sharper read on the topic than you walked in with, and a few new perspectives you hadn't considered. That's the whole point. This week's topic: Let's Talk About Jev! A tiny AI startup called Jev just went viral for doing the opposite of what every other AI company is doing - it doesn't chat at all. Built by an ex-OpenAI researcher, Jev only returns fast, structured decisions (yes/no, multiple choice, confidence scores) instead of generating text, and it's reportedly fielding funding offers north of $10 billion just over a week after launch. We're decoding: Is Jev a genuinely new category of AI - a faster, cheaper layer sitting underneath the chatbots - or is this hype-cycle enthusiasm for something that's really just a narrow classifier with good marketing? Supporting questions: Does the \"specialized model\" approach threaten the big general-purpose LLMs, or complement them? What would it take for Jev's $10B valuation talk to actually make sense a year from now? Come as you are - operator, investor, builder, or just someone who reads too much tech or business news and wants to discuss with smart people. Prep not required but feel free to do some home research before you arrive if you'd like. **Refunds available up to 48 hours before the session. After that, we are sorry but the fee is non-refundable."
+      "summary": "Gary's Guide: We decode tech & market signals together, salon-style with a small, curated group - so you can operate, invest, & decide better. Past attendees have been founders, investors & operators who work in tech or tech-adjacent roles across industries - Our Why AI can build a financial model, summarize an earnings call, or map a competitive landscape in seconds. What AI cannot do is connect the dots around what's happening right now - a technology, a trend, a business, an idea, a decision. Or what a moment like that actually signals. That takes human judgment, experience, & taste. The kind you only build by studying real examples, arguing them out loud, & testing your read against people who see it differently than you do. If you want a space to actually grow your thinking IRL & connect with people who match that energy, this is it. That's what Tech x Market Decoders is for. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: Check-in & Intros 15 minutes - decode solo. Quiet research time. Dig into the news, the product, the tech, the data. No talking, just thinking. 45 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up. You'll leave with a sharper read on the topic than you walked in with, & a few new perspectives you hadn't considered. That's the whole point. This week's topic: Let's Talk About Jev! A tiny AI startup called Jev just went viral for doing the opposite of what every other AI company is doing - it doesn't chat at all. Built by an ex-OpenAI researcher, Jev only returns fast, structured decisions (yes/no, multiple choice, confidence scores) instead of generating text, & it's reportedly fielding funding offers north of $10 billion just over a week after launch. We're decoding: Is Jev a genuinely new category of AI - a faster, cheaper layer sitting underneath the chatbots - or is this hype-cycle enthusiasm for something that's really just a narrow classifier with good marketing? Supporting questions: Does the \"specialized model\" approach threaten the big general-purpose LLMs, or complement them? What would it take for Jev's $10B valuation talk to actually make sense a year from now? Come as you are - operator, investor, builder, or just someone who reads too much tech or business news & wants to discuss with smart people. Prep not required but feel free to do some home research before you arrive if you'd like. **Refunds available up to 48 hours before the session. After that, we are sorry but the fee is non-refundable."
     },
-    "luma_2026_09_26_the_harness_engineering_model_wrangling_hackathon": {
-      "title": "The Harness Engineering & Model Wrangling Hackathon",
+    "gary_2026_10_06_scene_by_scene_brand_relevance_video_ai_next_era_of_": {
+      "title": "Scene By Scene - Brand Relevance, Video AI & Next Era Of CTV",
       "type": "tech",
       "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-09-26",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 09/26 · 1pm",
+      "day": "Tue",
+      "date": "2026-10-06",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Tue, 10/06 · 6:30pm",
+      "price": "Varies",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/os48lqi/Scene-By-Scene-Brand-Relevance-Video-AI-Next-Era-Of-CTV",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Jaeho Oh (Founder/CEO, PYLER), Matt Groshong (Dir. Biz Dev, NVIDIA)."
+    },
+    "gary_2026_10_06_ai_enabled_services_founder_dinner": {
+      "title": "AI-enabled Services Founder Dinner",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-10-06",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Tue, 10/06 · 6:30pm",
       "price": "Free",
       "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/j4jecx72",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: MongoDB, MongoDB, Cerebral Valley"
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ye4b0h9/AI-enabled-Services-Founder-Dinner",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Join us for an intimate evening with a highly curated group of founders building in AI-enabled services that are scaling at the most beautiful venue in NYC. Who Should Attend? Founders building in AI-enabled services Why Attend? Honest conversations with the best founders at similar stages Tactical insights on fundraising, GTM, & scaling from peers who get it What Is Included? 3-course dinner with sommelier-paired wines Live pianist The builders behind some of the fastest-growing companies in the country Important Reminders: Dress Code: Business, smart casual Stay Connected: Follow us on Instagram or LinkedIn for updates on our community, events & opportunities. Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes. About the Hosts & Sponsors: Brderless brings together the most extraordinary founders through a carefully curated community. Rho is the all-in-one banking platform for startups & the accountants supporting them. With banking setup in minutes, 2% cashback cards, & powerful tools for managing spend, paying bills, & closing the books, Rho helps high-growth startups move fast & stay focused, backed by support that goes to the end of the earth to help you win. Rho is a fintech company, not a bank. Checking & card services are provided by Webster Bank, N.A., member FDIC; savings account services are provided by American Deposit Management Co. & its partner banks. Corridor is an AI-native health insurance brokerage that helps businesses take care of their people. Corridor was created by a world class technical & service team from Scale AI, McKinsey, & Perplexity."
     },
     "luma_2026_09_28_book_launch_foreign_policy_at_the_ai_frontier_how_ai": {
       "title": "Book Launch—Foreign Policy at the AI Frontier: How AI is Reshaping Progress, Power, and Peace",
@@ -1643,6 +1609,57 @@
       "link": "https://luma.com/7hlijfri",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: MongoDB, MongoDB"
+    },
+    "luma_2026_09_30_claude_code_workshop_with_provectus_new_york_city": {
+      "title": "Claude Code Workshop with Provectus - New York City",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-09-30",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Wed, 09/30 · 5pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/claude-code-workshop-nyc-sept-30",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Claude Workshops, Build with Claude, Provectus"
+    },
+    "luma_2026_09_30_best_of_nyc_with_work_bench_forward_deployed_enginee": {
+      "title": "Best of NYC with Work-Bench: Forward Deployed Engineers!",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-09-30",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Wed, 09/30 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "Brooklyn, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/bestofnyc03",
+      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
+      "summary": "Luma NYC: Work-Bench, Work-Bench, Daniel Chesley"
+    },
+    "luma_2026_09_30_junto_founder_dinner_hosted_by_andrew_friends": {
+      "title": "Junto Founder Dinner (Hosted by Andrew & Friends)",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-09-30",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Wed, 09/30 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/juntodinnersep30",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung"
     },
     "nyu_tandon_2026_09_27_personal_agent_hackathon": {
       "title": "Personal Agent Hackathon",
@@ -1779,108 +1796,6 @@
       "link": "https://engineering.nyu.edu/events/2026/10/02/hybrid-modeling-chemical-processes-integrating-physics-machine-learning-capture",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_44071_2026_09_26_what_we_keep_2026": {
-      "title": "What We Keep 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-09-26",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 09/26 · 1pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "COMMUNIPAW BRANCH LIBRARY, 295 JOHNSTON AVE., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/what-we-keep-2026/",
-      "map": "https://maps.google.com/?q=COMMUNIPAW%20BRANCH%20LIBRARY%2C%20295%20JOHNSTON%20AVE.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
-    },
-    "jc_culture_10004829_2026_09_26_rent_the_musical": {
-      "title": "RENT: The Musical",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sat",
-      "date": "2026-09-26",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sat, 09/26 · 2pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-09-26/1/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
-    },
-    "jc_culture_10004824_2026_09_26_the_society_of_american_graphic_artists_saga_91st_an": {
-      "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-09-26",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Sat, 09/26 · 3pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "MANA CONTEMPORARY, 888 NEWARK AVE., JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/the-society-of-american-graphic-artists-saga-91st-annual-members-exhibition-2026/2026-09-26/",
-      "map": "https://maps.google.com/?q=MANA%20CONTEMPORARY%2C%20888%20NEWARK%20AVE.%2C%20JERSEY%20CITY",
-      "summary": "91st Annual Members Exhibition The Society of American Graphic Artists (SAGA) is excited to announce its upcoming 91st Annual Members Exhibition, to be held at Mana Contemporary in Jersey City from September 11–27, 2026 (Fridays and Saturdays, 3:00–7:00 PM; Sundays, 12:00–3:00 PM). The exhibition will feature 200 hand-pulled prints representing a broad range of printmaking techniques and subjects, created by SAGA artists from across the country. Awards will be juried by Leslie Diuguid, founder of Du-Good Press in Brooklyn. The Society of American Graphic Artists (SAGA) is a nonprofit organization established in 1915 whose mission is to promote contemporary printmakers, cultivate printmaking appreciation and education, and provide a collaborative and inclusive platform for artists across the country. https://sagaprints.com/ Hosting this year’s exhibition is Monira Foundation, an independent nonprofit institution that functions as a radical experimental laboratory, working in close collaboration with artists, curators, musicians, dancers, producers, and writers to conceive, realize, and present innovative projects in all media. Monira is located within Mana Contemporary, a 2-million-square-foot art center. The complex occupies a renovated 100-year-old former tobacco warehouse, featuring expansive exhibition spaces, working artist studios, the International Center of Photography archives, and more. A free public reception and awards ceremony with participating artists will be held on Saturday, September 26, from 3:00–5:00 PM. Guests are invited to enjoy light refreshments while celebrating the diversity and innovation of contemporary printmaking. WHEN Exhibition: Fridays–Sundays, September 11–27, 2026 Public Reception & Awards Ceremony: Saturday, September 26, 2026 3:00–5:00 PM WHERE Mana Contemporary 888 Newark Avenue Jersey City, NJ 07306"
-    },
-    "jc_culture_43929_2026_09_26_freestyle_in_the_heights_2026_being_rescheduled_tbd": {
-      "title": "Freestyle in the Heights 2026 / BEING RESCHEDULED TBD",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sat",
-      "date": "2026-09-26",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Sat, 09/26 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "PERSHING FIELD PARK, 201 CENTRAL AVE, JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/freestyle-in-the-heights-2026/",
-      "map": "https://maps.google.com/?q=PERSHING%20FIELD%20PARK%2C%20201%20CENTRAL%20AVE%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_10004830_2026_09_26_rent_the_musical": {
-      "title": "RENT: The Musical",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sat",
-      "date": "2026-09-26",
-      "time": "7:30 PM",
-      "sort": 19.5,
-      "when": "Sat, 09/26 · 7:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-09-26/2/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
-    },
-    "jc_culture_43877_2026_09_26_vinyl_groove_night": {
-      "title": "VINYL GROOVE NIGHT",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-09-26",
-      "time": "9 PM",
-      "sort": 21,
-      "when": "Sat, 09/26 · 9pm",
-      "price": "Free",
-      "free": true,
-      "place": "Pet Shop, 193 Newark Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/vinyl-groove-night/",
-      "map": "https://maps.google.com/?q=Pet%20Shop%2C%20193%20Newark%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "A night of music on wax at Pet Shop in Jersey City. 🎶 Hip Hop 🎶 R&B 🎶 Soul 🎶 Funk 🎶 Jazz 🎶 And more Expect a vinyl-focused selection featuring records you may have heard before — and maybe some you’ve never heard before. For all of you who enjoy and value music. 📍 PET SHOP 193 Newark Avenue, Jersey City, NJ 07302 📅 Saturday, September 26 🕘 9PM–1AM 🎟️ FREE ENTRY 🎧 DJ HIROSKI"
     },
     "jc_culture_10004825_2026_09_27_the_society_of_american_graphic_artists_saga_91st_an": {
       "title": "The Society of American Graphic Artists (SAGA) 91st Annual Members Exhibition 2026",
@@ -2527,6 +2442,23 @@
       "link": "https://jerseycityculture.org/event/creation-from-destruction-art-exhibition-2026-2/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "&nbsp; &nbsp; &nbsp; &nbsp;"
+    },
+    "jc_culture_10003574_2026_10_28_hamilton_park_farmers_market_2026": {
+      "title": "Hamilton Park Farmers Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-10-28",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 10/28 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-10-28/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     }
   },
   "clusters": {
@@ -2540,43 +2472,36 @@
       "ted_rosenthal"
     ],
     "cluster_2026_09_26_10_am": [
-      "skint_91432_1_36th_annual_west_104th_street_yard_sale",
-      "skint_91432_2_brooklyn_pop_up_x_old_stone_house_traditional_makers",
-      "skint_91432_3_moonies_club_presents_the_third_annual_magical_girls",
-      "gary_2026_09_26_pmai_vibe_coding_workshop"
+      "skint_91432_0_36th_annual_west_104th_street_yard_sale",
+      "skint_91432_1_brooklyn_pop_up_x_old_stone_house_traditional_makers",
+      "skint_91432_2_moonies_club_presents_the_third_annual_magical_girls"
     ],
     "cluster_2026_09_26_11_am": [
-      "skint_91432_4_the_second_annual_park_slope_super_stoop_sale",
-      "skint_91432_5_manhattan_vintage_clothing_show_denim_edition",
-      "skint_91432_6_20th_annual_nyc_anarchist_book_fair_festival"
+      "skint_91432_3_the_second_annual_park_slope_super_stoop_sale",
+      "skint_91432_4_manhattan_vintage_clothing_show_denim_edition",
+      "skint_91432_5_20th_annual_nyc_anarchist_book_fair_festival"
     ],
     "cluster_2026_09_26_1_pm": [
-      "skint_91432_8_poseidon_s_parade",
-      "skint_91432_9_vegan_garden_social_harlem_edition",
-      "luma_2026_09_26_the_harness_engineering_model_wrangling_hackathon",
-      "jc_culture_44071_2026_09_26_what_we_keep_2026"
-    ],
-    "cluster_2026_09_26_3_pm": [
-      "skint_91432_10_wepa_summer_salsa_socials",
-      "jc_culture_10004824_2026_09_26_the_society_of_american_graphic_artists_saga_91st_an"
+      "skint_91432_7_poseidon_s_parade",
+      "skint_91432_8_vegan_garden_social_harlem_edition"
     ],
     "cluster_2026_09_27_10_am": [
-      "skint_91432_12_53rd_annual_3rd_avenue_festival",
-      "skint_91432_13_51st_annual_flatbush_frolic_street_fair",
-      "skint_91432_14_broadway_flea_market_grand_auction",
+      "skint_91432_11_53rd_annual_3rd_avenue_festival",
+      "skint_91432_12_51st_annual_flatbush_frolic_street_fair",
+      "skint_91432_13_broadway_flea_market_grand_auction",
       "nyu_tandon_2026_09_27_personal_agent_hackathon"
     ],
     "cluster_2026_09_27_12_pm": [
-      "skint_91432_15_upcycle_community_tag_sale",
+      "skint_91432_14_upcycle_community_tag_sale",
       "jc_culture_10004825_2026_09_27_the_society_of_american_graphic_artists_saga_91st_an"
-    ],
-    "cluster_2026_09_26_9_am": [
-      "gary_2026_09_26_the_harness_engg_model_wrangling_hackathon",
-      "gary_2026_09_26_ai_x_gtm_hackathon_sales_talks"
     ],
     "cluster_2026_09_29_5_30_pm": [
       "gary_2026_09_29_token_economics_why_cost_kills_more_ai_projects_than",
       "gary_2026_09_29_events_as_a_growth_strategy"
+    ],
+    "cluster_2026_09_30_5_pm": [
+      "gary_2026_09_30_microsofts_ai_momentum_fueling_next_wave_of_enterpri",
+      "luma_2026_09_30_claude_code_workshop_with_provectus_new_york_city"
     ],
     "cluster_2026_09_30_6_pm": [
       "gary_2026_09_30_junto_founder_dinner",
@@ -2609,14 +2534,23 @@
     "cluster_2026_10_06_6_pm": [
       "gary_2026_10_06_ai_engineers_presents_fonzi_s_founders_to_follow",
       "gary_2026_10_06_adtech_founder_facials",
+      "gary_2026_10_06_female_founders_member_mingle",
       "gary_2026_10_06_storytelling_as_gtm",
       "gary_2026_10_06_coding_agents_with_elastic_memory_the_evolution_to_s",
       "gary_2026_10_06_nyc_fintech_marketing_social",
       "gary_2026_10_06_tech_x_market_decoders_this_week_let_s_talk_about_je"
     ],
+    "cluster_2026_10_06_6_30_pm": [
+      "gary_2026_10_06_scene_by_scene_brand_relevance_video_ai_next_era_of_",
+      "gary_2026_10_06_ai_enabled_services_founder_dinner"
+    ],
     "cluster_2026_09_29_10_pm": [
       "luma_2026_09_29_agent_builders_night_nyc",
       "luma_2026_09_29_build_your_content_operating_system_an_ai_personal_b"
+    ],
+    "cluster_2026_09_30_10_pm": [
+      "luma_2026_09_30_best_of_nyc_with_work_bench_forward_deployed_enginee",
+      "luma_2026_09_30_junto_founder_dinner_hosted_by_andrew_friends"
     ],
     "cluster_2026_10_03_12_pm": [
       "jc_culture_43716_2026_10_03_cat_stick_easel_moon_exhibit_2026_jcast_weekend",
