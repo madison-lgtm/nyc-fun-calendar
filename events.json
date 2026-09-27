@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 27, 2026, 11:27 AM EDT",
+    "checked": "Sep 27, 2026, 6:30 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -726,8 +726,8 @@
       "map": "https://maps.google.com/?q=footlight%20underground%20at%20the%20windjammer%20(ridgewood)%2C%20free%20admission%20(donations%20welcome)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon 5-9pm: annual fall clothing swap: footlight underground at the windjammer (ridgewood), free admission (donations welcome)."
     },
-    "gary_2026_09_28_2026_global_beauty_fashion_tech_forum": {
-      "title": "2026 Global Beauty & Fashion Tech Forum",
+    "gary_2026_09_28_beauty_fashion_tech_forum": {
+      "title": "Beauty & Fashion Tech Forum",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Mon",
@@ -737,11 +737,11 @@
       "when": "Mon, 09/28 · 8:30am",
       "price": "$199",
       "free": false,
-      "place": "Fashion Institute of Tech, Haft Theater, 227 W 27th St",
+      "place": "Fashion Inst of Tech, 227 W 27th St, Haft Theater",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/jxftdyd/2026-Global-Beauty-Fashion-Tech-Forum",
-      "map": "https://maps.google.com/?q=Fashion%20Institute%20of%20Tech%2C%20Haft%20Theater%2C%20227%20W%2027th%20St",
-      "summary": "Gary's Guide: With Wayne Liu (Chief Growth & Mktg Officer, Perfect), Elana Drell-Szyfer (President, Cew), Melis del Rey (CEO, Supergoop), Natasha Khan (Reporter, The Wall St Journal), Meredith Epstein Goodman (Global Strategic Mktg & Retail Exec), Lisa Stroud (Founder/CEO, True Beauty Cashes), Emilie Sydney-Smith (Founder/CEO, Vereme), Ebony Karim (Founder/CEO, The Beauty Genie), Steve Tsai (CEO, Kabob), Nikita Sachdev (Founder/CEO, Luna)."
+      "link": "https://www.garysguide.com/events/jxftdyd/Beauty-Fashion-Tech-Forum",
+      "map": "https://maps.google.com/?q=Fashion%20Inst%20of%20Tech%2C%20227%20W%2027th%20St%2C%20Haft%20Theater",
+      "summary": "Gary's Guide: With founder/CEOs Emilie Sydney-Smith (Vereme), Ebony Karim (Beauty Genie), Steve Tsai (Kabob), Nikita Sachdev (Luna), Lisa Stroud (True Beauty Cashes), Melis del Rey (Supergoop), Wayne Liu (CMO, Perfect), Elana Drell-Szyfer (President, Cew), Natasha Khan (WSJ)."
     },
     "gary_2026_09_28_the_shortlist_founder_showcase": {
       "title": "The Shortlist Founder Showcase",
@@ -1406,8 +1406,8 @@
       "map": "https://maps.google.com/?q=Midtown%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Great products don't sell themselves, but clear stories can. Join for an intimate conversation on how early-stage founders can use storytelling as their go-to-market advantage. From sharpening positioning, defining a clear proposition, & communicating in a way that moves customers & investors. We will be diving into it all with our founder & investor panel. This event is for founders who are actively planning to raise in the next 3 months. Come for actionable frameworks, candid lessons, & conversations with other ambitious builders. Our panelists & sponsors will be announced soon. If you would like to get your product or services in front of founders, email us hello@narrativak.com for sponsorship opportunities. By registering for this event, I understand that my email may be shared with event organizers & sponsors."
     },
-    "gary_2026_10_06_coding_agents_with_elastic_memory_the_evolution_to_s": {
-      "title": "Coding Agents with Elastic Memory + The Evolution To Stateless Serverless",
+    "gary_2026_10_06_coding_agents_w_elastic_memory_evolution_to_stateles": {
+      "title": "Coding Agents w/ Elastic Memory + Evolution To Stateless Serverless",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Tue",
@@ -1419,12 +1419,12 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/twpz4yh/Coding-Agents-with-Elastic-Memory-The-Evolution-To-Stateless-Serverless",
+      "link": "https://www.garysguide.com/events/twpz4yh/Coding-Agents-w-Elastic-Memory-Evolution-To-Stateless-Serverless",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Engin Diri (Principal Solns Architect, Pulumi), Ines Potier (S/w Enggr, Elastic)."
     },
-    "gary_2026_10_06_nyc_fintech_marketing_social": {
-      "title": "NYC Fintech Marketing Social",
+    "gary_2026_10_06_fintech_marketing_social": {
+      "title": "Fintech Marketing Social",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Tue",
@@ -1434,14 +1434,14 @@
       "when": "Tue, 10/06 · 6:00pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, Coast Offices",
+      "place": "Coast HQ, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/epcrokv/NYC-Fintech-Marketing-Social",
-      "map": "https://maps.google.com/?q=Venue%2C%20Coast%20Offices",
+      "link": "https://www.garysguide.com/events/epcrokv/Fintech-Marketing-Social",
+      "map": "https://maps.google.com/?q=Coast%20HQ%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Nick Lembo (VP Mktg, Coast), Sonja Forgo-Hess (Dir. Brand Mktg, Carta), Jessica Manna (SVP Growth Mktg, Better), Casey Akerblom (SVP Mktg, Bluevine), Duarte Garrido (Founder, DOJO AI), Veronica Mendoza (VP Growth Mktg, Betterment), Araminta Robertson (Dir., Mint Studios)."
     },
-    "gary_2026_10_06_tech_x_market_decoders_this_week_let_s_talk_about_je": {
-      "title": "Tech x Market Decoders (This week - Let's Talk about Jev)",
+    "gary_2026_10_06_tech_x_market_decoders_let_s_talk_about_jev": {
+      "title": "Tech x Market Decoders - Let's Talk About Jev",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Tue",
@@ -1449,11 +1449,11 @@
       "time": "6 PM",
       "sort": 18,
       "when": "Tue, 10/06 · 6:00pm",
-      "price": "$12",
+      "price": "$10",
       "free": false,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/0cct3su/Tech-x-Market-Decoders-This-week-Let-s-Talk-about-Jev",
+      "link": "https://www.garysguide.com/events/0cct3su/Tech-x-Market-Decoders-Let-s-Talk-About-Jev",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: We decode tech & market signals together, salon-style with a small, curated group - so you can operate, invest, & decide better. Past attendees have been founders, investors & operators who work in tech or tech-adjacent roles across industries - Our Why AI can build a financial model, summarize an earnings call, or map a competitive landscape in seconds. What AI cannot do is connect the dots around what's happening right now - a technology, a trend, a business, an idea, a decision. Or what a moment like that actually signals. That takes human judgment, experience, & taste. The kind you only build by studying real examples, arguing them out loud, & testing your read against people who see it differently than you do. If you want a space to actually grow your thinking IRL & connect with people who match that energy, this is it. That's what Tech x Market Decoders is for. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: Check-in & Intros 15 minutes - decode solo. Quiet research time. Dig into the news, the product, the tech, the data. No talking, just thinking. 45 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up. You'll leave with a sharper read on the topic than you walked in with, & a few new perspectives you hadn't considered. That's the whole point. This week's topic: Let's Talk About Jev! A tiny AI startup called Jev just went viral for doing the opposite of what every other AI company is doing - it doesn't chat at all. Built by an ex-OpenAI researcher, Jev only returns fast, structured decisions (yes/no, multiple choice, confidence scores) instead of generating text, & it's reportedly fielding funding offers north of $10 billion just over a week after launch. We're decoding: Is Jev a genuinely new category of AI - a faster, cheaper layer sitting underneath the chatbots - or is this hype-cycle enthusiasm for something that's really just a narrow classifier with good marketing? Supporting questions: Does the \"specialized model\" approach threaten the big general-purpose LLMs, or complement them? What would it take for Jev's $10B valuation talk to actually make sense a year from now? Come as you are - operator, investor, builder, or just someone who reads too much tech or business news & wants to discuss with smart people. Prep not required but feel free to do some home research before you arrive if you'd like. **Refunds available up to 48 hours before the session. After that, we are sorry but the fee is non-refundable."
     },
@@ -2536,9 +2536,9 @@
       "gary_2026_10_06_adtech_founder_facials",
       "gary_2026_10_06_female_founders_member_mingle",
       "gary_2026_10_06_storytelling_as_gtm",
-      "gary_2026_10_06_coding_agents_with_elastic_memory_the_evolution_to_s",
-      "gary_2026_10_06_nyc_fintech_marketing_social",
-      "gary_2026_10_06_tech_x_market_decoders_this_week_let_s_talk_about_je"
+      "gary_2026_10_06_coding_agents_w_elastic_memory_evolution_to_stateles",
+      "gary_2026_10_06_fintech_marketing_social",
+      "gary_2026_10_06_tech_x_market_decoders_let_s_talk_about_jev"
     ],
     "cluster_2026_10_06_6_30_pm": [
       "gary_2026_10_06_scene_by_scene_brand_relevance_video_ai_next_era_of_",
