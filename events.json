@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 28, 2026, 2:19 PM EDT",
+    "checked": "Sep 28, 2026, 7:53 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -259,7 +259,6 @@
       "6:30 PM",
       "7 PM",
       "7:30 PM",
-      "8:30 PM",
       "9:30 PM",
       "10 PM",
       "10:30 PM"
@@ -1319,23 +1318,6 @@
       "link": "https://www.garysguide.com/events/cll9po9/NYC-Fintech-Coffee",
       "map": "https://maps.google.com/?q=HSBC%2C%2066%20Hudson%20Yards",
       "summary": "Gary's Guide: NYC Fintech Coffee, hosted by This Week in Fintech & HSBC, is an event for Fintech founders, investors & enthusiasts to gather around & talk everything Fintech. This is a no-agenda event, just drop by to make new Fintech friends over breakfast. See you there! Please note - Given the demand & limited capacity, registration & approval are required for attendance! By registering for this event, you will be added to This Week in Fintech's email newsletter, which may include updates about future events, products, & services. You can unsubscribe at any time using the link in any email we send, or by contacting us at support@thisweekinfintech.com. For California residents, under the CCPA, you have the right to know what personal information we collect, request its deletion, & opt out of its sale (we do not sell personal information). To exercise these rights, contact us at support@thisweekinfintech.com or visit our Privacy Policy."
-    },
-    "luma_2026_09_28_book_launch_foreign_policy_at_the_ai_frontier_how_ai": {
-      "title": "Book Launch—Foreign Policy at the AI Frontier: How AI is Reshaping Progress, Power, and Peace",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-09-28",
-      "time": "8:30 PM",
-      "sort": 20.5,
-      "when": "Mon, 09/28 · 8:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York University Pless Hall",
-      "source": "Luma NYC",
-      "link": "https://luma.com/5wnymc0y",
-      "map": "https://maps.google.com/?q=New%20York%20University%20Pless%20Hall%20NYC",
-      "summary": "Luma NYC: NYU Center on International Cooperation"
     },
     "luma_2026_09_28_ai_at_a_crossroads_power_players_and_the_path_forwar": {
       "title": "AI at a Crossroads: Power, Players, and the Path Forward",
