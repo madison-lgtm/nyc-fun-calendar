@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Sep 28, 2026, 7:53 PM EDT",
+    "checked": "Sep 29, 2026, 12:42 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-09-28",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Sep 28"
-      },
       {
         "iso": "2026-09-29",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 4"
+      },
+      {
+        "iso": "2026-10-05",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Oct 5"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-09-28",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Sep 28"
-      },
       {
         "iso": "2026-09-29",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 28"
+      },
+      {
+        "iso": "2026-10-29",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Oct 29"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "7 AM",
       "8 AM",
@@ -452,92 +452,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_91432_0_record_riot": {
-      "title": "record riot",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-27",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sun, 09/27 · 9am-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "grove street path plaza (jersey city)",
-      "source": "The Skint",
-      "link": "https://www.recordriots.com/jersey-city-nj/",
-      "map": "https://maps.google.com/?q=grove%20street%20path%20plaza%20(jersey%20city)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 9am-5pm: record riot: grove street path plaza (jersey city)."
-    },
-    "skint_91432_1_53rd_annual_3rd_avenue_festival": {
-      "title": "53rd annual 3rd avenue festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-27",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 09/27 · 10am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "3rd avenue from 69th to 94th street (bay ridge)",
-      "source": "The Skint",
-      "link": "https://www.merchantsofthirdave.com/events/third-avenue-festival",
-      "map": "https://maps.google.com/?q=3rd%20avenue%20from%2069th%20to%2094th%20street%20(bay%20ridge)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm: 53rd annual 3rd avenue festival: 3rd avenue from 69th to 94th street (bay ridge). update: postponed to 10/4 due to the weather."
-    },
-    "skint_91432_2_51st_annual_flatbush_frolic_street_fair": {
-      "title": "51st annual flatbush frolic street fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-27",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 09/27 · 10am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "cortelyou road between ocean ave and coney island ave, brooklyn",
-      "source": "The Skint",
-      "link": "https://www.fdconline.org/news-events/flatbush-frolic-september-27/",
-      "map": "https://maps.google.com/?q=cortelyou%20road%20between%20ocean%20ave%20and%20coney%20island%20ave%2C%20brooklyn%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm: 51st annual flatbush frolic street fair: cortelyou road between ocean ave and coney island ave, brooklyn."
-    },
-    "skint_91432_3_broadway_flea_market_grand_auction": {
-      "title": "broadway flea market + grand auction",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-27",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 09/27 · 10am-7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "w",
-      "source": "The Skint",
-      "link": "https://broadwaycares.org/pre-event/broadway-flea-market-and-grand-auction-2026/",
-      "map": "https://maps.google.com/?q=w%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-7pm: broadway flea market + grand auction: w. 44th + 45 sts., shubert alley, and the times square pedestrian plaza between 45th + 46th sts. moved indoors to hammerstein ballroom due to weather."
-    },
-    "skint_91432_4_upcycle_community_tag_sale": {
-      "title": "upcycle: community tag sale",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-09-27",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 09/27 · 12-4pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "montague st from clinton st to hicks st in brooklyn heights (part of montague open streets)",
-      "source": "The Skint",
-      "link": "https://www.montaguebid.com/open-streets",
-      "map": "https://maps.google.com/?q=montague%20st%20from%20clinton%20st%20to%20hicks%20st%20in%20brooklyn%20heights%20(part%20of%20montague%20open%20streets)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-4pm: upcycle: community tag sale: montague st from clinton st to hicks st in brooklyn heights (part of montague open streets)."
-    },
-    "skint_91432_5_annual_fall_clothing_swap": {
+    "skint_91432_0_annual_fall_clothing_swap": {
       "title": "annual fall clothing swap",
       "type": "market",
       "label": "Festival / Market",
@@ -1319,57 +1234,6 @@
       "map": "https://maps.google.com/?q=HSBC%2C%2066%20Hudson%20Yards",
       "summary": "Gary's Guide: NYC Fintech Coffee, hosted by This Week in Fintech & HSBC, is an event for Fintech founders, investors & enthusiasts to gather around & talk everything Fintech. This is a no-agenda event, just drop by to make new Fintech friends over breakfast. See you there! Please note - Given the demand & limited capacity, registration & approval are required for attendance! By registering for this event, you will be added to This Week in Fintech's email newsletter, which may include updates about future events, products, & services. You can unsubscribe at any time using the link in any email we send, or by contacting us at support@thisweekinfintech.com. For California residents, under the CCPA, you have the right to know what personal information we collect, request its deletion, & opt out of its sale (we do not sell personal information). To exercise these rights, contact us at support@thisweekinfintech.com or visit our Privacy Policy."
     },
-    "luma_2026_09_28_ai_at_a_crossroads_power_players_and_the_path_forwar": {
-      "title": "AI at a Crossroads: Power, Players, and the Path Forward",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-09-28",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Mon, 09/28 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/ebgbwuwa",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Collider, Collider"
-    },
-    "luma_2026_09_28_secrets_of_ai_pilled_organizations": {
-      "title": "Secrets of AI-Pilled Organizations",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-09-28",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Mon, 09/28 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/f8gvnpis",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Helen Moore, Helen Moore"
-    },
-    "luma_2026_09_28_founder_led_content": {
-      "title": "Founder-Led Content",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-28",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Mon, 09/28 · 10:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/lcivl22w",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Founders on Tap, Founders on Tap, Lyvia Chapman, Selina Li, Shailee Sankhala"
-    },
     "luma_2026_09_29_data_dashboards_and_drinks_with_metabase_and_datadog": {
       "title": "Data, Dashboards, and Drinks with Metabase and Datadog",
       "type": "tech",
@@ -1506,39 +1370,56 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung"
     },
-    "nyu_tandon_2026_09_28_molecular_bioengineering_of_crispr_based_therapeutic": {
-      "title": "Molecular Bioengineering of CRISPR-Based Therapeutic, Gene Editing, and RNA-Targeting Biotechnologies",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Mon",
-      "date": "2026-09-28",
+    "luma_2026_10_01_best_workout_ever_nyc_hosted_by_wischoff_ventures_bc": {
+      "title": "Best Workout Ever (NYC) Hosted By Wischoff Ventures & BC Block",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-01",
       "time": "11 AM",
       "sort": 11,
-      "when": "Mon, 09/28 · 11:00 AM",
-      "price": "Free / varies",
+      "when": "Thu, 10/01 · 11am",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/09/28/molecular-bioengineering-crispr-based-therapeutic-gene-editing-and-rna-targeting",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/2ctvefcr",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Nichole Wischoff, Nichole Wischoff, Neal Mintz"
     },
-    "nyu_tandon_2026_09_28_structure_and_data_mechanism_understanding_and_knowl": {
-      "title": "Structure and Data - Mechanism Understanding and Knowledge Discovery in Complex Energy Systems",
+    "luma_2026_10_01_agentic_analytics_in_production_what_s_working_what_": {
+      "title": "Agentic Analytics In Production: What's Working, What's Not",
       "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Mon",
-      "date": "2026-09-28",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Mon, 09/28 · 12:00 PM",
-      "price": "Free / varies",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-01",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Thu, 10/01 · 9:30pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/09/28/structure-and-data-mechanism-understanding-and-knowledge-discovery-complex-energy",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/agenticinprod",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: MotherDuck, MotherDuck, Rebecca Polak"
+    },
+    "luma_2026_10_01_nyc_founders_forum_with_infra_nyc_and_mongodb": {
+      "title": "NYC Founders Forum with infra.nyc and MongoDB",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-01",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Thu, 10/01 · 9:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, New York",
+      "source": "Luma NYC",
+      "link": "https://luma.com/wnlt1wf6",
+      "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
+      "summary": "Luma NYC: MongoDB, MongoDB, Megan Reynolds"
     },
     "nyu_tandon_2026_09_29_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1625,22 +1506,39 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
-    "jc_culture_44131_2026_09_28_noone_fights_alone_independent_film_release_2026": {
-      "title": "NOONE Fights Alone / Independent Film Release 2026",
-      "type": "entertainment",
-      "label": "Music / Movies",
+    "nyu_tandon_2026_10_05_the_cortex_and_pain_from_preclinical_to_human_studie": {
+      "title": "The Cortex and Pain: From Preclinical to Human Studies",
+      "type": "tech",
+      "label": "Lecture / Panel",
       "day": "Mon",
-      "date": "2026-09-28",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Mon, 09/28 · 5pm",
+      "date": "2026-10-05",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Mon, 10/05 · 11:00 AM",
       "price": "Free / varies",
       "free": true,
-      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/noone-fights-alone-independent-film-release-2026/",
-      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Visual & Performing Arts What's Coming Up?."
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/05/cortex-and-pain-preclinical-human-studies",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_10_05_research_seminar_gourab_ghoshal": {
+      "title": "Research Seminar: Gourab Ghoshal",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Mon",
+      "date": "2026-10-05",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Mon, 10/05 · 1:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/05/research-seminar-gourab-ghoshal",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
     },
     "jc_culture_10003570_2026_09_30_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -1676,6 +1574,23 @@
       "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community What's Coming Up?."
     },
+    "jc_culture_44152_2026_10_01_jcast_opening_day_in_the_heights_2026": {
+      "title": "JCAST OPENING DAY IN THE HEIGHTS 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-10-01",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Thu, 10/01 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "353 CENTRAL AVE, 353 CENTRAL AVE, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jcast-opening-day-in-the-heights-2026/",
+      "map": "https://maps.google.com/?q=353%20CENTRAL%20AVE%2C%20353%20CENTRAL%20AVE%2C%20JERSEY%20CITY",
+      "summary": "EVENT SCHEDULE All tickets for JCAST are available here. JCAST MAp is here THURS, OCTOBER 1, 2026: OPENING DAY LOCATION: THE HEIGHTS: 353 CENTRAL AVENUE, JERSEY CITY, NJ, Tickets here 4:00 PM – 5:00 PM: JCAST PRESS PREVIEW (free) Buy tickets here 5:00 PM – 6:00 PM: JCAST VIP PREVIEW ($$) Buy tickets here 6:00 PM – 8:30 PM: JCAST KICK-OFF & OPENING with the JCAST LEGEND AWARDS AND the JCAST OFFICIAL EXHIBITION OPENING IN THE HEIGHTS: LUCY ROVETTO, CURATOR. JCAST LEGEND AWARDEE: DIANE DRAGONE, THE KENNEDY DANCE SCHOOL, PRESENTED BY Dayana De La Torre JCAST LEGEND AWARDEE: BEN JONES, ARTIST, PRESENTED BY Deonté Griffin-Quick. Buy tickets here"
+    },
     "jc_culture_44050_2026_10_01_st_joseph_school_for_the_blind_resource_fair_2026": {
       "title": "St. Joseph School for the Blind Resource Fair 2026",
       "type": "market",
@@ -1709,6 +1624,23 @@
       "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-01/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_44157_2026_10_02_jcast_day_two_2026": {
+      "title": "JCAST DAY TWO 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-10-02",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Fri, 10/02 · 12pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Jersey City",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jcast-day-two-2026/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "EVENT SCHEDULE All tickets for JCAST are available here. JCAST MAp is here FRI, OCTOBER 2, 2026: DAY TWO 12:00 PM – 9:00 PM: JCAST OPENS ACROSS ALL WARDS, Tickets here ART STUDIOS GALLERIES ART IN ALTERNATIVE SPACES Location: Liberty State Park, Central Railroad of NJ Terminal, 1 Audrey Zapp Dr, Jersey City, NJ 07305: 1:00 PM – 2:00 PM: JCAST OFFICIAL BUSINESS NETWORKING WITH HUDSON COUNTY EDC, Buy Tickets here 2:00 PM – 3:00 PM: JCAST OFFICIAL EXHIBITION OPENING: LIBERTY STATE PARK: NICK DE PIRRO, CURATOR, Tickets here Location: Saint Peter’s University Gallery, Mac Mahon Student Center, 5th Floor, 47 Glenwood Ave. Jersey City, NJ 07306: 4:00 PM – 5:30 PM: JCAST OFFICIAL EXHIBITION OPENING: ST. PETERS: BEATRICE MADY, CURATOR, Tickets here Rankin Hall, 920 Montgomery St, Jersey City, NJ 07306: BELOW 5:00 PM – 6:30 PM: JCAST OFFICIAL EXHIBITION OPENING: ST. PETERS: TRISH GIANAKIS, CURATOR, Tickets here Location: 902 Brewing Company, 101 Pacific Ave, Jersey City, NJ 07304: 7:00 PM – 10:00 PM: JCAST ART HAPPY HOUR at 902 BREWING COMPANY, BERGEN LAFAYETTE, Tickets here"
     },
     "jc_culture_43942_2026_10_02_mjch_art_sale_2026": {
       "title": "MJCH Art Sale 2026",
@@ -1811,6 +1743,23 @@
       "link": "https://jerseycityculture.org/event/free-diapers-luvs-wants-you-to-take-their-aid-2026/",
       "map": "https://maps.google.com/?q=Mary%20McLeod%20Bethune%20Park%2C%2043%20Martin%20Luther%20King%20Drive%2C%20Jersey%20City%2C%20NJ",
       "summary": "Please Take Our Ad: Community Giving Luvs is bringing its Give Back Billboard to Jersey City, turning an advertisement into an opportunity to directly support local families with free diapers. From 12–6 p.m., families can visit Mary McLeod Bethune Park and take part in an interactive billboard made from Luvs diaper packs. As the packs are removed, the billboard will gradually reveal the message: “Leak protection shouldn’t be a luxury.” For 50 years, Luvs has stood for value, and as families face the rising cost of raising children, the brand is bringing that commitment directly to the community through free diapers, giveaways and more. One free box of diapers per household, while supplies last. Sizes subject to availability. No purchase necessary."
+    },
+    "jc_culture_44141_2026_10_03_give_me_liberty_or_give_me_art_2026_liberty_arts_fes": {
+      "title": "Give Me Liberty or Give Me Art 2026 Liberty Arts Fest",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sat",
+      "date": "2026-10-03",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Sat, 10/03 · 1pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "PEARL STUDIOS, 90 FORREST ST, JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/give-me-liberty-or-give-me-art-2026-liberty-arts-fest/",
+      "map": "https://maps.google.com/?q=PEARL%20STUDIOS%2C%2090%20FORREST%20ST%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Film Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_10004834_2026_10_03_rent_the_musical": {
       "title": "RENT: The Musical",
@@ -2282,15 +2231,6 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_09_27_10_am": [
-      "skint_91432_1_53rd_annual_3rd_avenue_festival",
-      "skint_91432_2_51st_annual_flatbush_frolic_street_fair",
-      "skint_91432_3_broadway_flea_market_grand_auction"
-    ],
-    "cluster_2026_09_28_5_pm": [
-      "skint_91432_5_annual_fall_clothing_swap",
-      "jc_culture_44131_2026_09_28_noone_fights_alone_independent_film_release_2026"
-    ],
     "cluster_2026_09_29_5_30_pm": [
       "gary_2026_09_29_token_economics_why_cost_kills_more_ai_projects_than",
       "gary_2026_09_29_events_as_a_growth_strategy"
@@ -2342,10 +2282,6 @@
       "gary_2026_10_07_forum_ventures_accelerator_info_session_winter_2027_",
       "jc_culture_10003571_2026_10_07_hamilton_park_farmers_market_2026"
     ],
-    "cluster_2026_09_28_10_pm": [
-      "luma_2026_09_28_ai_at_a_crossroads_power_players_and_the_path_forwar",
-      "luma_2026_09_28_secrets_of_ai_pilled_organizations"
-    ],
     "cluster_2026_09_29_10_pm": [
       "luma_2026_09_29_agent_builders_night_nyc",
       "luma_2026_09_29_build_your_content_operating_system_an_ai_personal_b"
@@ -2353,6 +2289,10 @@
     "cluster_2026_09_30_10_pm": [
       "luma_2026_09_30_best_of_nyc_with_work_bench_forward_deployed_enginee",
       "luma_2026_09_30_junto_founder_dinner_hosted_by_andrew_friends"
+    ],
+    "cluster_2026_10_01_9_30_pm": [
+      "luma_2026_10_01_agentic_analytics_in_production_what_s_working_what_",
+      "luma_2026_10_01_nyc_founders_forum_with_infra_nyc_and_mongodb"
     ],
     "cluster_2026_10_03_12_pm": [
       "jc_culture_43716_2026_10_03_cat_stick_easel_moon_exhibit_2026_jcast_weekend",
