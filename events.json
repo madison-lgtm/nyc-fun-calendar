@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 29, 2026, 12:42 PM EDT",
+    "checked": "Sep 29, 2026, 7:07 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -247,6 +247,7 @@
       "11 AM",
       "11:30 AM",
       "12 PM",
+      "12:30 PM",
       "1 PM",
       "2 PM",
       "2:30 PM",
@@ -468,40 +469,6 @@
       "link": "https://pools.events/event/2P0bRpNs/annual-fall-clothing-swap/",
       "map": "https://maps.google.com/?q=footlight%20underground%20at%20the%20windjammer%20(ridgewood)%2C%20free%20admission%20(donations%20welcome)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon 5-9pm: annual fall clothing swap: footlight underground at the windjammer (ridgewood), free admission (donations welcome)."
-    },
-    "gary_2026_09_28_beauty_fashion_tech_forum": {
-      "title": "Beauty & Fashion Tech Forum",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-28",
-      "time": "8:30 AM",
-      "sort": 8.5,
-      "when": "Mon, 09/28 · 8:30am",
-      "price": "$199",
-      "free": false,
-      "place": "Fashion Inst of Tech, 227 W 27th St, Haft Theater",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/jxftdyd/Beauty-Fashion-Tech-Forum",
-      "map": "https://maps.google.com/?q=Fashion%20Inst%20of%20Tech%2C%20227%20W%2027th%20St%2C%20Haft%20Theater",
-      "summary": "Gary's Guide: With founder/CEOs Emilie Sydney-Smith (Vereme), Ebony Karim (Beauty Genie), Steve Tsai (Kabob), Nikita Sachdev (Luna), Lisa Stroud (True Beauty Cashes), Melis del Rey (Supergoop), Wayne Liu (CMO, Perfect), Elana Drell-Szyfer (President, Cew), Natasha Khan (WSJ)."
-    },
-    "gary_2026_09_28_the_shortlist_founder_showcase": {
-      "title": "The Shortlist Founder Showcase",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-09-28",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 09/28 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/r3qrxuo/The-Shortlist-Founder-Showcase",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: The Shortlist NYC - September Founder Showcase (#9) The Shortlist is back for our monthly Founder Showcase & the room keeps getting better. This is a monthly curated, application-only evening connecting early-stage founders with exceptional operators across New York. No panels. No pitches to VCs. Just six founders building breakout companies, a room full of people who've built things themselves, & the kind of candid conversation you don't get at most events. Each founder will share what they're building, why it matters, & the specific roles they're actively hiring for right now - followed by a mixer. What to expect: Founders presenting at the seed through Series B stage. Operators, builders, & executives who've seen what good looks like. An intentionally small room designed for real connection. Who this is for: Exceptional operators - whether you're actively exploring your next role, casually curious, or simply want to stay close to what's being built in NYC right now. Founders will be announced in the days leading up to the event. Attendance is intentionally limited. Apply to be considered. More information on The Shortlist can be found here. Founded by Andrew Yeung & Ivor Straford."
     },
     "gary_2026_09_29_onestream_developer_day": {
       "title": "OneStream Developer Day",
@@ -1234,6 +1201,40 @@
       "map": "https://maps.google.com/?q=HSBC%2C%2066%20Hudson%20Yards",
       "summary": "Gary's Guide: NYC Fintech Coffee, hosted by This Week in Fintech & HSBC, is an event for Fintech founders, investors & enthusiasts to gather around & talk everything Fintech. This is a no-agenda event, just drop by to make new Fintech friends over breakfast. See you there! Please note - Given the demand & limited capacity, registration & approval are required for attendance! By registering for this event, you will be added to This Week in Fintech's email newsletter, which may include updates about future events, products, & services. You can unsubscribe at any time using the link in any email we send, or by contacting us at support@thisweekinfintech.com. For California residents, under the CCPA, you have the right to know what personal information we collect, request its deletion, & opt out of its sale (we do not sell personal information). To exercise these rights, contact us at support@thisweekinfintech.com or visit our Privacy Policy."
     },
+    "gary_2026_10_08_super_innovation_strategic_growth_summit": {
+      "title": "Super Innovation & Strategic Growth Summit",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "12:30 PM",
+      "sort": 12.5,
+      "when": "Thu, 10/08 · 12:30pm",
+      "price": "Varies",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ztmp3jf/Super-Innovation-Strategic-Growth-Summit",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Julien Moignard (Chief Innovation & Design Officer, Unilever), Mathew Paruthickal (Head of AI Engg, Sanofi/Opella), Stuart McCarthy (UK Mission to UN), Margaret Lim (MD, Amex Ventures), Sanja Partalo (S4S Ventures)."
+    },
+    "gary_2026_10_08_ending_hallucination_tax_governing_backbone_of_enter": {
+      "title": "Ending Hallucination Tax - Governing Backbone Of Enterprise AI",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Thu, 10/08 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/fyuuali/Ending-Hallucination-Tax-Governing-Backbone-Of-Enterprise-AI",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Ren Zhang (Global Head Of AI Product, PayPal), Felix van de Maele (Founder/CEO, Collibra)."
+    },
     "luma_2026_09_29_data_dashboards_and_drinks_with_metabase_and_datadog": {
       "title": "Data, Dashboards, and Drinks with Metabase and Datadog",
       "type": "tech",
@@ -1300,7 +1301,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/brexextendsep29",
       "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
-      "summary": "Luma NYC: Brex Startups Events, Shai Goldman, Laurent Span, Bo Lau, Extend"
+      "summary": "Luma NYC: Brex Startups Events, Shai Goldman, Laurent Span, Bo Lau, Extend, Rohan Nidmarti"
     },
     "luma_2026_09_30_mongodb_local_nyc_for_startups_building_what_s_next": {
       "title": "MongoDB.local NYC: For Startups Building What's Next",
@@ -1386,40 +1387,6 @@
       "link": "https://luma.com/2ctvefcr",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Nichole Wischoff, Nichole Wischoff, Neal Mintz"
-    },
-    "luma_2026_10_01_agentic_analytics_in_production_what_s_working_what_": {
-      "title": "Agentic Analytics In Production: What's Working, What's Not",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-10-01",
-      "time": "9:30 PM",
-      "sort": 21.5,
-      "when": "Thu, 10/01 · 9:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/agenticinprod",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: MotherDuck, MotherDuck, Rebecca Polak"
-    },
-    "luma_2026_10_01_nyc_founders_forum_with_infra_nyc_and_mongodb": {
-      "title": "NYC Founders Forum with infra.nyc and MongoDB",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-10-01",
-      "time": "9:30 PM",
-      "sort": 21.5,
-      "when": "Thu, 10/01 · 9:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, New York",
-      "source": "Luma NYC",
-      "link": "https://luma.com/wnlt1wf6",
-      "map": "https://maps.google.com/?q=New%20York%2C%20New%20York%20NYC",
-      "summary": "Luma NYC: MongoDB, MongoDB, Megan Reynolds"
     },
     "nyu_tandon_2026_09_29_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -2067,6 +2034,23 @@
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
     },
+    "jc_culture_44165_2026_10_16_blindness_awareness_month_flag_raising_ceremony_2026": {
+      "title": "Blindness Awareness Month Flag Raising Ceremony 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-10-16",
+      "time": "11:30 AM",
+      "sort": 11.5,
+      "when": "Fri, 10/16 · 11:30am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/blindness-awareness-month-flag-raising-ceremony-2026/",
+      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
+    },
     "jc_culture_10004843_2026_10_16_rent_the_musical": {
       "title": "RENT: The Musical",
       "type": "entertainment",
@@ -2289,10 +2273,6 @@
     "cluster_2026_09_30_10_pm": [
       "luma_2026_09_30_best_of_nyc_with_work_bench_forward_deployed_enginee",
       "luma_2026_09_30_junto_founder_dinner_hosted_by_andrew_friends"
-    ],
-    "cluster_2026_10_01_9_30_pm": [
-      "luma_2026_10_01_agentic_analytics_in_production_what_s_working_what_",
-      "luma_2026_10_01_nyc_founders_forum_with_infra_nyc_and_mongodb"
     ],
     "cluster_2026_10_03_12_pm": [
       "jc_culture_43716_2026_10_03_cat_stick_easel_moon_exhibit_2026_jcast_weekend",
