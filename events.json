@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Sep 30, 2026, 12:33 PM EDT",
+    "checked": "Sep 30, 2026, 7:09 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -239,6 +239,7 @@
     "times": [
       "6 AM",
       "7 AM",
+      "7:30 AM",
       "8 AM",
       "8:30 AM",
       "9 AM",
@@ -658,6 +659,23 @@
       "map": "https://maps.google.com/?q=The%20Refinery%20at%20Domino%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: NYC AI Demos returns to The Refinery at Domino on October 1 for our eleventh installment, the first since summer break.Ahead of NY AdWeek, our theme is Media, & the lineup doesn't hold back: Kargo, Eleven Labs, Profound, Air, Minerva, & Markup AI, six companies each tackling a different corner of the AI & media landscape.Expect live demos, sharp conversations, & a packed room of founders, investors, engineers, & operators from across New York's tech scene.Space is limited."
     },
+    "gary_2026_10_01_reciprocal_founders_roundtable_40_over": {
+      "title": "Reciprocal Founders Roundtable (40 & Over)",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-01",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 10/01 · 6:00pm",
+      "price": "$15",
+      "free": false,
+      "place": "Fabrik NYC, 12-16 Vestry St, 4th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/5b9fa18/Reciprocal-Founders-Roundtable-40-Over",
+      "map": "https://maps.google.com/?q=Fabrik%20NYC%2C%2012-16%20Vestry%20St%2C%204th%20Fl",
+      "summary": "Gary's Guide: Seen Enough to Know the Risks. Crazy Enough to Take Them. A small roundtable for founders who grew out of hustle culture & kept building anyway. Bring one conversation you've been avoiding. Leave with a clearer view of it, & a handful of founders who know what you're dealing with. No stage. No audience. No pitching. Nothing said here leaves the room. Facilitated by executive coach Daniel Stillman, author of Good Talk: How to Design Conversations that Matter. Who is this for? You're not 25 with nothing to lose. You have a mortgage. You'd like a real vacation this year. Maybe your parents need more of you than they used to. And you still have something you want to build. The hustle story doesn't fit that life. The ambition didn't go anywhere. Why a Roundtable? You've been to the big mixer. You've sat through the panel you could have watched on YouTube at 2x. This is a small, off-the-record table where every person talks & every person gets heard. Founders get honest faster when there's no one to perform for. The Conversation Our lives are built by the conversations we have, & defined by the ones we avoid. The cofounder conflict you brush off every week. The hire you won't admit isn't working. The pivot that's been \"next quarter\" for 3 quarters. The runway number you haven't said out loud. The hardest ones are with yourself. The bargain you made years ago & never renegotiated. The anxiety you can't politely ask to leave. An avoided conversation doesn't disappear. It goes underground & gets more expensive. Bring one. How to get a seat Admission is by application, & the questions are the prework. Give them real answers. That's how we build the table. We pick people who are building right now & who care about the other founders' problems as much as their own. One house rule: if you're accepted & don't show, you won't be invited back. The Format 5 rounds, in order: Who's here. Who you are & why you're building what you're building. The avoided conversation. Each person puts theirs on the table: the conflict or tension they're sitting with. Stories over advice. The group answers with what happened to them. Nobody tries to fix you. Asks & offers. One thing you need from the group. One thing you can give. Close. What you're taking with you, & what you'll do about it. The Follow Up: You'll join an ongoing thread with the people at your table. Send the resource you promised. Ask the follow-up you thought of on the train home. Your Co-Hosts Daniel Stillman designs conversations for a living, & insists that you do too. He's an executive coach & facilitator who works with founders & founding teams on how they lead, communicate, & navigate the conversations that matter. He hosts The Conversation Factory podcast (a top 100 Management podcast) & wrote Good Talk: How to Design Conversations that Matter, a handbook for changemakers & innovators. Anson Wu is the founder of Ugly Talk, the no-BS event series where battle-tested founders share the setbacks, pivots, & lessons behind the wins. Since 2019 it's grown across New York, Chicago, San Francisco, & Miami. Anson also runs Grey Journal, the digital media company behind it, & came up as a designer & agency founder. By his own description, a recovering underthinker still mining the lessons from two failed startups. About Ugly Talk Started in 2019, Ugly Talk has been transforming business setbacks into breakthrough aha! moments by hosting unfiltered, no-nonsense events where battle-tested entrepreneurs share their raw lessons & insights. With a growing presence in cities like New York, Chicago, San Francisco, & Miami, we've built a vibrant community of thousands of founders & industry leaders making a profound impact on the entrepreneurial landscape. Official Website: UglyTalk.com"
+    },
     "gary_2026_10_01_founders_forum": {
       "title": "Founders Forum",
       "type": "startup",
@@ -964,6 +982,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: We decode tech & market signals together, salon-style with a small, curated group - so you can operate, invest, & decide better. Past attendees have been founders, investors & operators who work in tech or tech-adjacent roles across industries - Our Why AI can build a financial model, summarize an earnings call, or map a competitive landscape in seconds. What AI cannot do is connect the dots around what's happening right now - a technology, a trend, a business, an idea, a decision. Or what a moment like that actually signals. That takes human judgment, experience, & taste. The kind you only build by studying real examples, arguing them out loud, & testing your read against people who see it differently than you do. If you want a space to actually grow your thinking IRL & connect with people who match that energy, this is it. That's what Tech x Market Decoders is for. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: Check-in & Intros 15 minutes - decode solo. Quiet research time. Dig into the news, the product, the tech, the data. No talking, just thinking. 45 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up. You'll leave with a sharper read on the topic than you walked in with, & a few new perspectives you hadn't considered. That's the whole point. This week's topic: Let's Talk About Jev! A tiny AI startup called Jev just went viral for doing the opposite of what every other AI company is doing - it doesn't chat at all. Built by an ex-OpenAI researcher, Jev only returns fast, structured decisions (yes/no, multiple choice, confidence scores) instead of generating text, & it's reportedly fielding funding offers north of $10 billion just over a week after launch. We're decoding: Is Jev a genuinely new category of AI - a faster, cheaper layer sitting underneath the chatbots - or is this hype-cycle enthusiasm for something that's really just a narrow classifier with good marketing? Supporting questions: Does the \"specialized model\" approach threaten the big general-purpose LLMs, or complement them? What would it take for Jev's $10B valuation talk to actually make sense a year from now? Come as you are - operator, investor, builder, or just someone who reads too much tech or business news & wants to discuss with smart people. Prep not required but feel free to do some home research before you arrive if you'd like. **Refunds available up to 48 hours before the session. After that, we are sorry but the fee is non-refundable."
     },
+    "gary_2026_10_06_building_internal_community_programs_ambassadors_adv": {
+      "title": "Building Internal Community Programs: Ambassadors, Advocates & Beyond",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-10-06",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 10/06 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Fabrik DUMBO, 20 Jay St, Ste 218, Brooklyn",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/xdp4ihx/Building-Internal-Community-Programs-Ambassadors-Advocates-Beyond",
+      "map": "https://maps.google.com/?q=Fabrik%20DUMBO%2C%2020%20Jay%20St%2C%20Ste%20218%2C%20Brooklyn",
+      "summary": "Gary's Guide: With Lauren Indovino (Community & Client Engagement Manager, Thea), Erica Hanson (Fractional Developer Relations & Community Lead, 645 Ventures), Kayla Green (Senior Community Manager, Gartner)."
+    },
     "gary_2026_10_06_scene_by_scene_brand_relevance_video_ai_next_era_of_": {
       "title": "Scene By Scene - Brand Relevance, Video AI & Next Era Of CTV",
       "type": "tech",
@@ -1048,6 +1083,23 @@
       "link": "https://www.garysguide.com/events/3nlpe4r/Plug-Play-x-PMAI-Hackathon-Rapid-Response",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Plug & Play x PMAI Hackathon: Rapid Response #AIWeekNY Three challenges. Three rounds. 45 minutes each. Most hackathons give you hours - sometimes days - to solve one problem. Rapid Fire is different. In this fast-paced, emergency-response-themed hackathon, participants will compete in teams of 2-4 across a series of short challenges designed to test how quickly you can understand a problem, make decisions, build a solution, & communicate your thinking under pressure. Each round will introduce a new emergency-response scenario. Your team will have roughly 45 minutes to develop & submit a solution before moving immediately into the next challenge. No long build cycle. No endless polishing. You'll have to prioritize what matters, divide responsibilities quickly, & make tradeoffs in real time. How It Works Participants will form teams of 2-4 people. Over the course of the event, teams will face 3-4 short emergency-response challenges, revealed one at a time. For each round: A new problem is announced Teams have approximately 45 minutes to respond Teams submit their solution before the deadline Judges score the submissions The next challenge begins Scores accumulate across the rounds, & the team with the strongest overall performance wins. The challenges may involve areas such as emergency coordination, communication, resource allocation, information management, public safety, or rapid decision-making. What Are We Looking For? You do not need to build a fully finished product. Depending on the challenge, your submission could be a prototype, workflow, AI agent, product concept, operational system, or another practical solution. What matters is your ability to: Identify the real problem. Prioritize under pressure. Build quickly. Make smart tradeoffs. Explain why your solution works. Who Should Join? This event is designed for a mix of: Engineers, designers, product managers, founders, operators, students, & anyone interested in building with AI. You do not need to be highly technical to participate. Strong teams will likely combine different skill sets - technical, product, design, operations, & strategy. Come with teammates or meet people at the event. Why Rapid Fire? Real emergencies rarely give you perfect information, unlimited resources, or weeks to plan. They demand fast thinking, clear priorities, & decisive execution. Rapid Fire is an experiment in building the same way: under constraints, against the clock, & as a team. Think fast. Build fast. Respond faster. Schedule 5:00 - 5:30 Check-in, Team Formation & Food 5:30 - 5:45 Keynote: Sharing by PMAI Team 5:45 - 6:30 First Problem 6:30 - 7:15 Second Problem 7:15 - 8:00 Third Problem 8:00 - 8:30 Judging Session 8:30 - 9:00 Winners Announcement & Group Photos Sponsorship Enquiry: https://community.pioneeringminds.ai/forms/c50df13a About Plug & Play Plug & Play is the leading innovation platform, connecting startups, corporations, venture capital firms, universities, & government agencies. Headquartered in Silicon Valley, we're present in 60+ locations across 25+ industries. We offer corporate innovation programs, helping our partners in every stage of their innovation journey, from education to execution. We also run startup acceleration programs & have built an in-house VC where we've invested in hundreds of successful companies including Dropbox, Guardant Health, Honey, Lending Club, N26, PayPal, & Rappi. For more information, visit Plug & Play. About Vibranium Labs At Vibranium Labs, we build Tony SRE, a 24/7 OnCall AI Incident Commander that proactively hunts down production issues before engineers ever get paged. We help hyperscaling startups & enterprises stay ahead of incidents, cut the 3am wake-ups, & ship with confidence. We're backed by Plug & Play, a16z, Franklin Templeton, Gaingels, & others. Our mission: Get ahead of incidents, not just respond: Tony SRE proactively investigates your systems around the clock, surfacing issues & root causes before anyone gets paged. Kill on-call burnout: Give teams their nights & weekends back by catching problems early, so humans step in only when it truly matters. Build lasting reliability: Every incident makes Tony SRE smarter. It learns your systems, improves your workflows, & becomes the living runbook your team actually uses. About Pioneering Minds AI: At pioneeringminds.ai, we grow AI native pioneers who build, deploy, & govern AI responsibly & put humans at the front seat. We help YOU - our AI pioneers - to truly understand AI & create real value out of AI. Our mission is straightforward: Accelerate Innovation: Equip participants with cutting-edge AI tools to deliver rapid prototypes. Foster Collaboration: Unite diverse teams-students, engineers, & civic leaders-to tackle urban challenges head-on. Create Lasting Impact: Offer continued mentorship & post-event partnerships so promising concepts can scale beyond the weekend. This event is part of #AIWeekNY by Pulse NYC - a community-led festival celebrating innovation across the AI ecosystem. Learn more at https://pulse.nyc/ai-week/"
+    },
+    "gary_2026_10_07_the_founder_s_revenue_lounge": {
+      "title": "The Founder's Revenue Lounge",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-10-07",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 10/07 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/stwmq1w/The-Founder-s-Revenue-Lounge",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: In a founder world not built for us, we create our own rooms. This is one of them. A big living room. 18 women founders who are ready to move. Every business has one action that drives its revenue. Making the offer. Asking for the sale. Setting the price. Following up. The founders who take it move their business forward. You will name your action. You will get sharp ideas from the room. You will leave with a plan for the next 24 hours. Why you should be in this room Name the one action that drives your revenue, while pitching your business. Get fresh ideas from the women in the room, who are building too. Leave with a clear 24-hour plan & the confidence to start. Meet women you will want to cheer for, & who will cheer for you. What's on the table The Core Action: the one move that drives your revenue The 24-Hour Move: the smallest version you can start tomorrow The Chair: take the seat & hear ideas from the room, live The Cheer Section: the women who ask if you did it The Connections: Share what you do & who you help, increase your network. The evening 6:00 pm: Doors, drinks, & the Wall of Moves 6:30 pm: Short talk 6:45 pm: The Chair 7:15 pm: Couch Rounds 7:35 pm: Closing circle 7:45 pm: Mixer 8:15 pm: Close Who this is for Women who run a business or are about to start one. Come alone. Most people do. Then tell a few of your founder friends. Women only. Hosted by Giselle Baumet is a behavioral scientist, doctoral researcher, & founder of NeuroImprint. She bootstrapped her business to $1M in revenue. She studies why high performers leave things unfinished. She wanted a room where women founders can say their next move out loud. Photo & video notice We will take photos & video at this event. We may share them on social media, our website, & other promotion. By attending, you agree to be photographed & filmed."
     },
     "gary_2026_10_08_zeta_live": {
       "title": "Zeta Live",
@@ -1152,7 +1204,7 @@
       "summary": "Gary's Guide: Get comfortable being uncomfortable. OffScript is a night of improv built for Series A teams. Bring your team to get thrown off on purpose, & practice reacting instead of reciting. Prepare for the moment, mid-meeting, where the plan falls apart & you just have to... go. What to expect: Improv games built for founders & teams Group & breakout exercises that surface how you & your team think under pressure Drinks, conversation, & a room full of people who get it Hosted each month by a performer from NYC's comedy & improv scene"
     },
     "gary_2026_10_08_offscript_a_night_of_improv_for_founders_teams": {
-      "title": "OffScript: A Night of Improv for Founders & Teams",
+      "title": "OffScript: A Night Of Improv For Founders & Teams",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Thu",
@@ -1160,98 +1212,13 @@
       "time": "6 PM",
       "sort": 18,
       "when": "Thu, 10/08 · 6:00pm",
-      "price": "Free",
-      "free": true,
+      "price": "$40",
+      "free": false,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/4bic9pf/OffScript-A-Night-of-Improv-for-Founders-amp-Teams",
+      "link": "https://www.garysguide.com/events/4bic9pf/OffScript-A-Night-Of-Improv-For-Founders-Teams",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Raising A Round? OffScript is a night of improv built for Founders & Teams . Get thrown off on purpose, & practice reacting instead of reciting. Prepare for the moment where the plan falls apart & you just have to... go. What to expect: Improv games built for founders & teams Group & breakout exercises that surface how you & your team think under pressure Drinks, conversation, & a room full of people who get it Hosted each month by a performer from NYC's comedy & improv scene $40 per ticket, non-refundable. Every other month. Limited spots to give everyone a chance to participate, perform, & connect. Who's behind this: Tova Feldheim & Caroline Jerome are co-founders of York Effect. York Effect Sprints pair AI + HI for Series A founders & teams who need to scale customers, product or revenue. Test internal assumptions against external evidence. Take the 10-minute KPI Reality Check to find out if you are on track. Book a call Snia Victoria Werner, co-founder, Lighthouse Ladies. actress, & improviser. Snia has improvised alongside Jennifer Lopez & Brett Goldstein for Netflix's Office Romance campaign & starred as Flora in The Winx Club: The Magic Is Back. She'll lead a series of improv games designed to help founders think on their feet, adapt on the fly, & connect with one another. Resident is a curated workspace for startups, founders, & VCs, designed to foster meaningful connections & collaboration. Coworking promised community, but delivered strangers sharing Wi-Fi. Resident is a company club, where every member is intentionally selected for cultural fit & collective ambition. Learn more here."
-    },
-    "gary_2026_10_08_the_ai_founder_playbook_rewritten_aiweekny_dinner": {
-      "title": "The AI Founder Playbook, Rewritten - #AIWeekNY #Dinner",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-10-08",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 10/08 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ho9fxvj/The-AI-Founder-Playbook-Rewritten-AIWeekNY-Dinner",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Invitation only 15 seats Approval required For leaders of Series A+ startups building proprietary AI models, with a select number of seats reserved for investors. This is a roundtable, not a panel: everyone at the table is welcome to bring opinions. Some of the investors in the room: Merck Global Health Innovation Fund (GHI Fund) Presidio Ventures (Sumitomo Corporation) Morgan Stanley Inclusive Ventures Momentum Partners (Private Equity) United Korean Founders (UKF) Description: When AI compresses engineering cycles from months to days, the scarcest thing in a startup is no longer the ability to build. It's knowing what to build, for whom, & how to win when everyone can ship. That shift rewrites the founder's job. Moats move from code to data, distribution, & judgment. Team shapes change. Capital efficiency changes what \"venture scale\" even means. The playbooks most of us learned are quietly going out of date, & the new ones are being written right now, by the people in rooms like this one. The evening: Dinner & conversation with a curated table of ~15 founders, operators, & investors. Exceptional wines, thoughtfully curated cuisine, & original artwork. Guests will experience a thoughtfully curated progression of refined dishes, premium selections, & seasonal ingredients, accompanied by Cava Brut & Ros, Petit Chablis, & Malbec. The evening concludes with an exclusive dessert pairing & the Signature Cocktail, a bespoke finale to the experience. What we'll get into: What's newly easy, what's suddenly hard, & what that does to the first 18 months of a company Where defensibility actually lives when software is cheap How team composition & hiring change when one builder does the work of five What the next generation of founder playbooks will look like House rules: Off the record. No slides, no pitches, no recording. Come with a point of view. Trinovation Partners: The \"Scale AI\" of Venture Backed Startups We are an AI data operations partner for venture-backed teams building computer vision & AI products. We build & run dedicated annotation pods: named, trained teams assigned to your product, not an anonymous crowd. Covering image & video annotation, gold-set calibration, human-in-the-loop QA, & edge-case review. Pods launch in 1-2 weeks, scale with your deployments, & deliver quality you can audit: 500+ annotators deployed, 95%+ QA accuracy, & a 30% model accuracy lift for our clients. Independent & New York-based. Elpis Labs We work with the government sector & international trade agencies to help their startups find corporate partners in the U.S. The Vertical An online publication, community platform, & event series focusing on international venture ecosystem."
-    },
-    "gary_2026_10_08_agents_on_call_live_ai_agents_in_healthcare_ops": {
-      "title": "Agents On Call - Live AI Agents In Healthcare Ops",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-10-08",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Thu, 10/08 · 10:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/eol64b6/Agents-On-Call-Live-AI-Agents-In-Healthcare-Ops",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Healthcare runs on operations: prior auths, intake, scheduling, eligibility checks, denials, follow-up. AI agents are starting to do that work in production - not in demo videos. Pepper brings together operators & builders from health tech teams actually shipping agents into clinical & revenue-cycle workflows. Expect live walkthroughs of agents running real workflows, honest talk about what breaks, & a clear-eyed look at where humans still have to stay in the loop. What you'll leave with: Which healthcare ops workflows agents handle well today - & which they don't How teams handle HIPAA, auditability, & error escalation in production The metrics operators actually use to decide whether an agent is working Who should come: health tech founders & operators, RCM & clinical ops leaders, engineers building in healthcare, & investors tracking the space. 6:00 PM - Doors & networking 6:30 PM - Panel & live agent walkthroughs 7:30 PM - Open networking Hosted by Pepper, a NYC health tech community. This event is part of #AIWeekNY by Pulse NYC - a community-led festival celebrating innovation across the AI ecosystem. More at https://pulse.nyc/ai-week/"
-    },
-    "gary_2026_10_09_ai_briefing_private_equity_what_owners_buyers_pay_fo": {
-      "title": "[AI Briefing] Private Equity - What Owners & Buyers Pay For",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-10-09",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 10/09 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Civic Hall, 124 E 14th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ers45hk/-AI-Briefing-Private-Equity-What-Owners-Buyers-Pay-For",
-      "map": "https://maps.google.com/?q=Civic%20Hall%2C%20124%20E%2014th%20St",
-      "summary": "Gary's Guide: With Startup Grind."
-    },
-    "luma_2026_09_30_mongodb_local_nyc_for_startups_building_what_s_next": {
-      "title": "MongoDB.local NYC: For Startups Building What's Next",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-09-30",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Wed, 09/30 · 1pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/7hlijfri",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: MongoDB, MongoDB"
-    },
-    "luma_2026_09_30_claude_code_workshop_with_provectus_new_york_city": {
-      "title": "Claude Code Workshop with Provectus - New York City",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-09-30",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Wed, 09/30 · 5pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/claude-code-workshop-nyc-sept-30",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Claude Workshops, Build with Claude, Provectus"
     },
     "luma_2026_09_30_best_of_nyc_with_work_bench_forward_deployed_enginee": {
       "title": "Best of NYC with Work-Bench: Forward Deployed Engineers!",
@@ -1319,7 +1286,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/agenticinprod",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: MotherDuck, MotherDuck, Rebecca Polak, Alexa Young"
+      "summary": "Luma NYC: MotherDuck, MotherDuck, Rebecca Polak, Alexa Young, Josh Hanson"
     },
     "luma_2026_10_01_nyc_founders_forum_with_infra_nyc_and_mongodb": {
       "title": "NYC Founders Forum with infra.nyc and MongoDB",
@@ -1576,6 +1543,23 @@
       "map": "https://maps.google.com/?q=Provost%20Square%20Plaza%2C%20151%20Bay%20Street%2C%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor What's Coming Up?."
     },
+    "jc_culture_44208_2026_10_01_music_arts_festival_2026_movie_night": {
+      "title": "Music & Arts Festival 2026 / Movie Night",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Thu",
+      "date": "2026-10-01",
+      "time": "7:30 AM",
+      "sort": 7.5,
+      "when": "Thu, 10/01 · 7:30am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Provost Square Plaza, 151 Bay Street,, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/music-arts-festival-2026-movie-night/",
+      "map": "https://maps.google.com/?q=Provost%20Square%20Plaza%2C%20151%20Bay%20Street%2C%2C%20Jersey%20City%2C%20NJ",
+      "summary": "&nbsp;"
+    },
     "jc_culture_44152_2026_10_01_jcast_opening_day_in_the_heights_2026": {
       "title": "JCAST OPENING DAY IN THE HEIGHTS 2026",
       "type": "art",
@@ -1591,7 +1575,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/jcast-opening-day-in-the-heights-2026/",
       "map": "https://maps.google.com/?q=353%20CENTRAL%20AVE%2C%20353%20CENTRAL%20AVE%2C%20JERSEY%20CITY",
-      "summary": "EVENT SCHEDULE All tickets for JCAST are available here. JCAST MAp is here THURS, OCTOBER 1, 2026: OPENING DAY LOCATION: THE HEIGHTS: 353 CENTRAL AVENUE, JERSEY CITY, NJ, Tickets here 4:00 PM – 5:00 PM: JCAST PRESS PREVIEW (free) Buy tickets here 5:00 PM – 6:00 PM: JCAST VIP PREVIEW ($$) Buy tickets here 6:00 PM – 8:30 PM: JCAST KICK-OFF & OPENING with the JCAST LEGEND AWARDS AND the JCAST OFFICIAL EXHIBITION OPENING IN THE HEIGHTS: LUCY ROVETTO, CURATOR. JCAST LEGEND AWARDEE: DIANE DRAGONE, THE KENNEDY DANCE SCHOOL, PRESENTED BY Dayana De La Torre JCAST LEGEND AWARDEE: BEN JONES, ARTIST, PRESENTED BY Deonté Griffin-Quick. Buy tickets here"
+      "summary": "EVENT SCHEDULE All tickets for JCAST are available here. JCAST MAp is here THURS, OCTOBER 1, 2026: OPENING DAY THE HEIGHTS: 353 CENTRAL AVENUE, JERSEY CITY, NJ, Tickets here &nbsp; THURS, OCTOBER 1, 2026: OPENING DAY 4:00 PM – 5:00 PM: JCAST PRESS PREVIEW (free) Buy tickets here 5:00 PM – 6:00 PM: JCAST VIP PREVIEW ($$) Buy tickets here 6:00 PM – 8:30 PM: JCAST KICK-OFF & OPENING with the JCAST LEGEND AWARDS AND the JCAST OFFICIAL EXHIBITION OPENING IN THE HEIGHTS: LUCY ROVETTO, CURATOR. JCAST LEGEND AWARDEE: DIANE DRAGONE, THE KENNEDY DANCE SCHOOL, PRESENTED BY Dayana De La Torre JCAST LEGEND AWARDEE: BEN JONES, ARTIST, PRESENTED BY Deonté Griffin-Quick. Buy tickets here"
     },
     "jc_culture_44050_2026_10_01_st_joseph_school_for_the_blind_resource_fair_2026": {
       "title": "St. Joseph School for the Blind Resource Fair 2026",
@@ -1642,7 +1626,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/jcast-day-two-2026/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "EVENT SCHEDULE All tickets for JCAST are available here. JCAST MAp is here FRI, OCTOBER 2, 2026: DAY TWO 12:00 PM – 9:00 PM: JCAST OPENS ACROSS ALL WARDS, Tickets here ART STUDIOS GALLERIES ART IN ALTERNATIVE SPACES Location: Liberty State Park, Central Railroad of NJ Terminal, 1 Audrey Zapp Dr, Jersey City, NJ 07305: 1:00 PM – 2:00 PM: JCAST OFFICIAL BUSINESS NETWORKING WITH HUDSON COUNTY EDC, Buy Tickets here 2:00 PM – 3:00 PM: JCAST OFFICIAL EXHIBITION OPENING: LIBERTY STATE PARK: NICK DE PIRRO, CURATOR, Tickets here Location: Saint Peter’s University Gallery, Mac Mahon Student Center, 5th Floor, 47 Glenwood Ave. Jersey City, NJ 07306: 4:00 PM – 5:30 PM: JCAST OFFICIAL EXHIBITION OPENING: ST. PETERS: BEATRICE MADY, CURATOR, Tickets here Rankin Hall, 920 Montgomery St, Jersey City, NJ 07306: BELOW 5:00 PM – 6:30 PM: JCAST OFFICIAL EXHIBITION OPENING: ST. PETERS: TRISH GIANAKIS, CURATOR, Tickets here Location: 902 Brewing Company, 101 Pacific Ave, Jersey City, NJ 07304: 7:00 PM – 10:00 PM: JCAST ART HAPPY HOUR at 902 BREWING COMPANY, BERGEN LAFAYETTE, Tickets here"
+      "summary": "EVENT SCHEDULE All tickets for JCAST are available here. JCAST MAp is here FRI, OCTOBER 2, 2026: DAY TWO 12:00 PM – 9:00 PM: JCAST OPENS ACROSS ALL WARDS, Tickets here ART STUDIOS GALLERIES ART IN ALTERNATIVE SPACES FRI, OCTOBER 2, 2026: DAY TWO 12:00 PM – 9:00 PM: JCAST OPENS ACROSS ALL WARDS, Tickets here ART STUDIOS GALLERIES ART IN ALTERNATIVE SPACES Location: Liberty State Park, Central Railroad of NJ Terminal, 1 Audrey Zapp Dr, Jersey City, NJ 07305: BELOW 1:00 PM – 2:00 PM: JCAST OFFICIAL BUSINESS NETWORKING WITH HUDSON COUNTY EDC, Buy Tickets here 2:00 PM – 3:00 PM: JCAST OFFICIAL EXHIBITION OPENING: LIBERTY STATE PARK: NICK DE PIRRO, CURATOR, Tickets here Location: Saint Peter’s University Gallery, Mac Mahon Student Center, 5th Floor, 47 Glenwood Ave. Jersey City, NJ 07306: BELOW 4:00 PM – 5:30 PM: JCAST OFFICIAL EXHIBITION OPENING: ST. PETERS: BEATRICE MADY, CURATOR, Tickets here Rankin Hall, 920 Montgomery St, Jersey City, NJ 07306: BELOW 5:00 PM – 6:30 PM: JCAST OFFICIAL EXHIBITION OPENING: ST. PETERS: TRISH GIANAKIS, CURATOR, Tickets here Location: 902 Brewing Company, 101 Pacific Ave, Jersey City, NJ 07304: BELOW 7:00 PM – 10:00 PM: JCAST ART HAPPY HOUR at 902 BREWING COMPANY, BERGEN LAFAYETTE, Tickets here"
     },
     "jc_culture_43942_2026_10_02_mjch_art_sale_2026": {
       "title": "MJCH Art Sale 2026",
@@ -1746,6 +1730,40 @@
       "map": "https://maps.google.com/?q=Mary%20McLeod%20Bethune%20Park%2C%2043%20Martin%20Luther%20King%20Drive%2C%20Jersey%20City%2C%20NJ",
       "summary": "Please Take Our Ad: Community Giving Luvs is bringing its Give Back Billboard to Jersey City, turning an advertisement into an opportunity to directly support local families with free diapers. From 12–6 p.m., families can visit Mary McLeod Bethune Park and take part in an interactive billboard made from Luvs diaper packs. As the packs are removed, the billboard will gradually reveal the message: “Leak protection shouldn’t be a luxury.” For 50 years, Luvs has stood for value, and as families face the rising cost of raising children, the brand is bringing that commitment directly to the community through free diapers, giveaways and more. One free box of diapers per household, while supplies last. Sizes subject to availability. No purchase necessary."
     },
+    "jc_culture_44225_2026_10_03_jcast_art_fair_at_mcginley_square_plaza_2026": {
+      "title": "JCAST Art Fair at McGinley Square Plaza 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-10-03",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 10/03 · 12pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "MCGINLEY SQUARE PLAZA, 741 Bergen Avenue, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jcast-art-fair-at-mcginley-square-plaza-2026/",
+      "map": "https://maps.google.com/?q=MCGINLEY%20SQUARE%20PLAZA%2C%20741%20Bergen%20Avenue%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor What's Coming Up?."
+    },
+    "jc_culture_44243_2026_10_03_jcast_day_three_2026": {
+      "title": "JCAST DAY THREE 2026",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sat",
+      "date": "2026-10-03",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 10/03 · 12pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "ALL WARDS OF JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jcast-day-three-2026/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "SAT, OCTOBER 3, 2026: DAY THREE 12:00 PM – 9:00 PM: JCAST OPENS ACROSS ALL WARDS, Tickets here TOURS: 12:00PM – 6:00PM: JCAST X JC BIKE TOUR (join them with your bike), Tickets here 12:30 PM – 3:30 PM: ARTIST STUDIO SHUTTLE FROM DOWNTOWN, BERGEN, GREENVILLE, JOURNAL SQ TO HEIGHTS, Meet “Bus A” at City Hall, Tickets here 1:00 PM – 4:00 PM: JCAST LBGTQ TOUR WITH JESSICA CHAOS, Meet “Bus B” at the Heights, Tickets here Official Exhibition Opening: 2:00 PM: JCAST OFFICIAL EXHIBITION OPENING: THE BETHUNE CENTER: SHANTEL ASANTE-KISSI, CURATOR, Tickets here TOURS: 2 PM-4 PM: MURAL TOUR WITH JAYNE FREEMAN, Meet “Bus C” at City Hall, Tickets here 2 PM-4 PM: HOP, WALK + EAT: JERSEY CITY CULTURE, Tickets here 2:30 PM – 4:30 PM: ART AND FOOD TOUR WITH LORENA LOAYZA, Meet Bus “D” at Saint Peter’s University, Tickets here 4:00 PM – 7PM: ARTIST STUDIO SHUTTLE FROM HEIGHTS, JOURNAL SQ, GREENVILLE, BERGEN TO DOWNTOWN, Meet “Bus A” at City Hall, Tickets here 5:30 PM – 7:00 PM: ARTIST STUDIO SHUTTLE- DOWNTOWN ONLY, Meet “Bus B” at City Hall, Tickets here 5:30 PM – 7:00 PM: JCAST EXHIBITIONS TOURS– LIBERTY STATE PARK AND BETHUNE CENTER, Meet “Bus C” at City Hall, Tickets here CONCERT: 6 PM: NJ SYMPHONY X JCAST: Head to Downtown for Outdoor Concert, Tickets here"
+    },
     "jc_culture_44141_2026_10_03_give_me_liberty_or_give_me_art_2026_liberty_arts_fes": {
       "title": "Give Me Liberty or Give Me Art 2026 Liberty Arts Fest",
       "type": "entertainment",
@@ -1779,6 +1797,23 @@
       "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-03/1/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_44235_2026_10_03_midnight_market_y2k_night_2026": {
+      "title": "Midnight Market Y2K Night 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-10-03",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Sat, 10/03 · 3pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "179 MONTGOMERY ST., JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/midnight-market-y2k-night-2026/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor What's Coming Up?."
     },
     "jc_culture_10004835_2026_10_03_rent_the_musical": {
       "title": "RENT: The Musical",
@@ -1830,6 +1865,23 @@
       "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-2026-jcast-weekend-2/",
       "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
+    },
+    "jc_culture_44216_2026_10_04_jcast_art_fair_at_mcginley_square_2026": {
+      "title": "JCAST Art Fair at McGinley Square 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sun",
+      "date": "2026-10-04",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sun, 10/04 · 12pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "MCGINLEY SQUARE PLAZA, 741 Bergen Avenue, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jcast-art-fair-at-mcginley-square-2026/",
+      "map": "https://maps.google.com/?q=MCGINLEY%20SQUARE%20PLAZA%2C%20741%20Bergen%20Avenue%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor What's Coming Up?."
     },
     "jc_culture_43947_2026_10_04_mjch_art_sale_2026": {
       "title": "MJCH Art Sale 2026",
@@ -2204,74 +2256,6 @@
       "link": "https://jerseycityculture.org/event/ariel-rivka-dance-2026/",
       "map": "https://maps.google.com/?q=Exchange%20Place%2C%20MONTGOMERY%20ST%20BETWEEN%20HUDSON%20ST.%20AND%20GREEN%20ST.",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_43683_2026_10_24_fall_2026_open_house_hudson_county_community_college": {
-      "title": "Fall 2026 Open House Hudson County Community College",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 10/24 · 10am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "HUDSON COUNTY COMMUNITY COLLEGE JOURNAL SQUARE CAMPUS, 161 NEWKIRK STREET CULINARY CONFERENCE CENTER",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/fall-2026-open-house-hudson-county-community-college-2/",
-      "map": "https://maps.google.com/?q=HUDSON%20COUNTY%20COMMUNITY%20COLLEGE%20JOURNAL%20SQUARE%20CAMPUS%2C%20161%20NEWKIRK%20STREET%20CULINARY%20CONFERENCE%20CENTER",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
-    },
-    "jc_culture_44191_2026_10_24_fall_festival_pershing_field_park_2026": {
-      "title": "Fall Festival Pershing Field Park 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 10/24 · 1pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "PERSHING FIELD PARK, 201 CENTRAL AVE, JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/fall-festival-pershing-field-park-2026/",
-      "map": "https://maps.google.com/?q=PERSHING%20FIELD%20PARK%2C%20201%20CENTRAL%20AVE%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor What's Coming Up?."
-    },
-    "jc_culture_43553_2026_10_25_creation_from_destruction_art_exhibition_2026": {
-      "title": "Creation from Destruction Art Exhibition 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-10-25",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Sun, 10/25 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/creation-from-destruction-art-exhibition-2026-2/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "&nbsp; &nbsp; &nbsp; &nbsp;"
-    },
-    "jc_culture_10003574_2026_10_28_hamilton_park_farmers_market_2026": {
-      "title": "Hamilton Park Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Wed",
-      "date": "2026-10-28",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Wed, 10/28 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-10-28/",
-      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     }
   },
   "clusters": {
@@ -2283,10 +2267,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_09_30_5_pm": [
-      "gary_2026_09_30_microsofts_ai_momentum_fueling_next_wave_of_enterpri",
-      "luma_2026_09_30_claude_code_workshop_with_provectus_new_york_city"
     ],
     "cluster_2026_09_30_6_pm": [
       "gary_2026_09_30_junto_founder_dinner",
@@ -2302,7 +2282,8 @@
     "cluster_2026_10_01_6_pm": [
       "gary_2026_10_01_the_builder_series_1_year_mixer_celebration",
       "gary_2026_10_01_medicare_medicaid_founders_funders_dinner_healing_he",
-      "gary_2026_10_01_ai_demos_media"
+      "gary_2026_10_01_ai_demos_media",
+      "gary_2026_10_01_reciprocal_founders_roundtable_40_over"
     ],
     "cluster_2026_10_01_6_30_pm": [
       "gary_2026_10_01_founders_forum",
@@ -2321,7 +2302,8 @@
       "gary_2026_10_06_female_founders_member_mingle",
       "gary_2026_10_06_coding_agents_w_elastic_memory_evolution_to_stateles",
       "gary_2026_10_06_fintech_marketing_social",
-      "gary_2026_10_06_tech_x_market_decoders_let_s_talk_about_jev"
+      "gary_2026_10_06_tech_x_market_decoders_let_s_talk_about_jev",
+      "gary_2026_10_06_building_internal_community_programs_ambassadors_adv"
     ],
     "cluster_2026_10_06_6_30_pm": [
       "gary_2026_10_06_scene_by_scene_brand_relevance_video_ai_next_era_of_",
@@ -2334,8 +2316,7 @@
     "cluster_2026_10_08_6_pm": [
       "gary_2026_10_08_the_ai_founder_playbook_rewritten",
       "gary_2026_10_08_offscript_night_of_improv_for_series_a_founders_thei",
-      "gary_2026_10_08_offscript_a_night_of_improv_for_founders_teams",
-      "gary_2026_10_08_the_ai_founder_playbook_rewritten_aiweekny_dinner"
+      "gary_2026_10_08_offscript_a_night_of_improv_for_founders_teams"
     ],
     "cluster_2026_09_30_10_pm": [
       "luma_2026_09_30_best_of_nyc_with_work_bench_forward_deployed_enginee",
@@ -2353,7 +2334,13 @@
     "cluster_2026_10_03_12_pm": [
       "jc_culture_43716_2026_10_03_cat_stick_easel_moon_exhibit_2026_jcast_weekend",
       "jc_culture_43945_2026_10_03_mjch_art_sale_2026",
-      "jc_culture_44040_2026_10_03_free_diapers_luvs_wants_you_to_take_their_aid_2026"
+      "jc_culture_44040_2026_10_03_free_diapers_luvs_wants_you_to_take_their_aid_2026",
+      "jc_culture_44225_2026_10_03_jcast_art_fair_at_mcginley_square_plaza_2026",
+      "jc_culture_44243_2026_10_03_jcast_day_three_2026"
+    ],
+    "cluster_2026_10_04_12_pm": [
+      "jc_culture_43718_2026_10_04_cat_stick_easel_moon_exhibit_2026_jcast_weekend",
+      "jc_culture_44216_2026_10_04_jcast_art_fair_at_mcginley_square_2026"
     ]
   }
 }
