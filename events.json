@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 1, 2026, 1:11 PM EDT",
+    "checked": "Oct 1, 2026, 7:22 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -862,7 +862,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/0cct3su/Tech-x-Market-Decoders-Let-s-Talk-About-Jev",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: We decode tech & market signals together, salon-style with a small, curated group - so you can operate, invest, & decide better. Past attendees have been founders, investors & operators who work in tech or tech-adjacent roles across industries - Our Why AI can build a financial model, summarize an earnings call, or map a competitive landscape in seconds. What AI cannot do is connect the dots around what's happening right now - a technology, a trend, a business, an idea, a decision. Or what a moment like that actually signals. That takes human judgment, experience, & taste. The kind you only build by studying real examples, arguing them out loud, & testing your read against people who see it differently than you do. If you want a space to actually grow your thinking IRL & connect with people who match that energy, this is it. That's what Tech x Market Decoders is for. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: Check-in & Intros 15 minutes - decode solo. Quiet research time. Dig into the news, the product, the tech, the data. No talking, just thinking. 45 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up. You'll leave with a sharper read on the topic than you walked in with, & a few new perspectives you hadn't considered. That's the whole point. This week's topic: Let's Talk About Jev! A tiny AI startup called Jev just went viral for doing the opposite of what every other AI company is doing - it doesn't chat at all. Built by an ex-OpenAI researcher, Jev only returns fast, structured decisions (yes/no, multiple choice, confidence scores) instead of generating text, & it's reportedly fielding funding offers north of $10 billion just over a week after launch. We're decoding: Is Jev a genuinely new category of AI - a faster, cheaper layer sitting underneath the chatbots - or is this hype-cycle enthusiasm for something that's really just a narrow classifier with good marketing? Supporting questions: Does the \"specialized model\" approach threaten the big general-purpose LLMs, or complement them? What would it take for Jev's $10B valuation talk to actually make sense a year from now? Come as you are - operator, investor, builder, or just someone who reads too much tech or business news & wants to discuss with smart people. Prep not required but feel free to do some home research before you arrive if you'd like. **Refunds available up to 48 hours before the session. After that, we are sorry but the fee is non-refundable."
+      "summary": "Gary's Guide: We decode tech & market signals together, salon-style with a curated group - so you can operate, invest, & decide better. Past attendees have been founders, investors & operators who work in tech or tech-adjacent roles across industries - Our Why AI can build a financial model, summarize an earnings call, or map a competitive landscape in seconds. What AI cannot do is connect the dots around what's happening right now - a technology, a trend, a business, an idea, a decision. Or what a moment like that actually signals. That takes human judgment, experience, & taste. The kind you only build by studying real examples, arguing them out loud, & testing your read against people who see it differently than you do. If you want a space to actually grow your thinking IRL & connect with people who match that energy, this is it. That's what Tech x Market Decoders is for. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: Check-in & Intros 15 minutes - decode solo. Quick research time. Dig into the news, the product, the tech, the data. 45 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up. You'll leave with a sharper read on the topic than you walked in with, & a few new perspectives you hadn't considered. That's the whole point. This week's topic: Let's Talk About Jev! A tiny AI startup called Jev just went viral for doing the opposite of what every other AI company is doing - it doesn't chat at all. Built by an ex-OpenAI researcher, Jev only returns fast, structured decisions (yes/no, multiple choice, confidence scores) instead of generating text, & it's reportedly fielding funding offers north of $10 billion just over a week after launch. We're decoding: Is Jev a genuinely new category of AI - a faster, cheaper layer sitting underneath the chatbots - or is this hype-cycle enthusiasm for something that's really just a narrow classifier with good marketing? Supporting questions: Does the \"specialized model\" approach threaten the big general-purpose LLMs, or complement them? What would it take for Jev's $10B valuation talk to actually make sense a year from now? Come as you are - operator, investor, builder, or just someone who reads too much tech or business news & wants to discuss with smart people. Prep not required but feel free to do some home research before you arrive if you'd like. **Refunds available up to 48 hours before the session. After that, we are sorry but the fee is non-refundable."
     },
     "gary_2026_10_06_building_internal_community_programs_ambassadors_adv": {
       "title": "Building Internal Community Programs: Ambassadors, Advocates & Beyond",
@@ -1317,11 +1317,28 @@
       "when": "Thu, 10/01 · 10:30pm",
       "price": "Free",
       "free": true,
-      "place": "29 Nassau Ave",
+      "place": "Brooklyn, NY",
       "source": "Luma NYC",
       "link": "https://luma.com/wjc0dy6j",
-      "map": "https://maps.google.com/?q=29%20Nassau%20Ave%20NYC",
+      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
       "summary": "Luma NYC: New York Product Design, Brian Hui, Collin Hadley, José Arias, Gonzalo Gelso, Lauren Harrington"
+    },
+    "luma_2026_10_02_friday_founders_breakfast_club": {
+      "title": "Friday Founders Breakfast Club",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-10-02",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Fri, 10/02 · 2pm",
+      "price": "Free",
+      "free": true,
+      "place": "Corgi Cafe",
+      "source": "Luma NYC",
+      "link": "https://luma.com/s9tkpksx",
+      "map": "https://maps.google.com/?q=Corgi%20Cafe%20NYC",
+      "summary": "Luma NYC: Corgi NYC, Maddie, jamie, Abril Zucchi, Linda"
     },
     "nyu_tandon_2026_10_01_peter_carr_seminar_series_bryan_liang": {
       "title": "Peter Carr Seminar Series: Bryan Liang",
@@ -1391,6 +1408,23 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
+    "nyu_tandon_2026_10_05_from_network_dynamics_to_market_dynamics_understandi": {
+      "title": "From Network Dynamics to Market Dynamics: Understanding and Coordinating Future Power Systems",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Mon",
+      "date": "2026-10-05",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Mon, 10/05 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/05/network-dynamics-market-dynamics-understanding-and-coordinating-future-power",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
     "nyu_tandon_2026_10_05_research_seminar_gourab_ghoshal": {
       "title": "Research Seminar: Gourab Ghoshal",
       "type": "tech",
@@ -1422,23 +1456,6 @@
       "place": "NYU Tandon / Online",
       "source": "NYU Tandon",
       "link": "https://engineering.nyu.edu/events/2026/10/08/columbia-nyu-financial-engineering-colloquium-graeme-baker-and-kay-giesecke",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_10_09_beyond_balancing_overcoming_tradeoffs_through_system": {
-      "title": "Beyond balancing: overcoming tradeoffs through systems of dynamic bonds",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Fri",
-      "date": "2026-10-09",
-      "time": "10:45 AM",
-      "sort": 10.75,
-      "when": "Fri, 10/09 · 10:45 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/10/09/beyond-balancing-overcoming-tradeoffs-through-systems-dynamic-bonds",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
@@ -2270,6 +2287,10 @@
       "luma_2026_10_01_ai_demos_11_media",
       "luma_2026_10_01_girls_in_growth_on_the_edge_of_glory",
       "luma_2026_10_01_vibe_coding_for_designers"
+    ],
+    "cluster_2026_10_05_11_am": [
+      "nyu_tandon_2026_10_05_the_cortex_and_pain_from_preclinical_to_human_studie",
+      "nyu_tandon_2026_10_05_from_network_dynamics_to_market_dynamics_understandi"
     ],
     "cluster_2026_10_03_12_pm": [
       "jc_culture_43716_2026_10_03_cat_stick_easel_moon_exhibit_2026_jcast_weekend",
