@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 2, 2026, 12:25 PM EDT",
+    "checked": "Oct 2, 2026, 7:11 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -261,7 +261,6 @@
       "6:30 PM",
       "7 PM",
       "7:30 PM",
-      "8 PM",
       "10 PM",
       "10:30 PM"
     ]
@@ -1168,6 +1167,23 @@
       "map": "https://maps.google.com/?q=Gunderson%20Dettmer%2C%20Nomad%20Tower",
       "summary": "Gary's Guide: We are hosting Founders Day in NYC. If you are a NYC based founder or CEO, please register to join us. Take a break from your team, get out of your office (or apartment), & come get some work done during a day dedicated to our community. The goal of Founders Day is to bring together people for meals, networking, optional workshops & just spending time with each other. We will have dedicated space, & attendees can enjoy a day to work from the venture law firm, Gunderson Dettmer's space. Agenda: 9:30am Arrive & enjoy breakfast; find a spot to cowork All Day: Legal Office Hours with the Gunderson Dettmer team: Feel free to submit your questions ahead of time & you'll be able to sign up day of for a number of limited spots to speak to the team 1:1 to get your legal questions answered. 12:00pm - 1:00pm Legal Workshop with Gunderson Dettmer -what founders should keep top of mind legally as they grow their companies. 1:00 pm Enjoy lunch 5:00 pm Head out The Gunderson Dettmer team will also be available to answer questions during the day. Please RSVP by Wednesday, 9/30 as we'll send the list to security in advance. More about our sponsor: Gunderson Dettmer is the preeminent international law firm with an exclusive focus on the innovation economy. The firm serves market-leading venture capital & growth equity investors & pioneering companies through inception, growth & maturity, as well as groundbreaking public companies that result from the global venture capital ecosystem. Learn more at https://www.gunder.com/en."
     },
+    "gary_2026_10_02_hackers_and_healers_hackathon_nyc": {
+      "title": "Hackers and Healers Hackathon | NYC",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-10-02",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Fri, 10/02 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/rgdkzn1/Hackers-and-Healers-Hackathon-NYC",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Were getting NYCs most ambitious hackers and healers in one room to spark healthcare innovation.Credentialed clinicians (healers) will share the messy realities of patient care and the scar tissue theyve picked up working inside the bureaucracy of US healthcare. Professional builders (hackers) will wield the tools to build scalable solutions for the hardest technical problems. Together, youll jam on prototypes that reimagine how care gets delivered. The point is to facilitate conversations between those who actually practice and those who can build, bypassing everyone who usually gets in between.Hackers, come ready to build your craziest ideas and get a masterclass from those on the front lines on whats actually clogging the pipes of our healthcare system.Healers, bring the ideas you always wanted built but never got around to and the day-to-day pains your admins never get around to fixing.This isnt a pitch competition. There actually wont be any slide decks allowed during the demos. Yes, we said demos, not presentations. Were indexing 100% on live demonstrations of products built during the hackathon. The goal is to inspire curiosity, foster collaboration, and push your vibe coding skills to the limit.Expect passionate discussions about whats actually true, late-night ideas, and a community that thrives on bold thinking. Game planFridaymixer with dinner at 6 PMkickoffattendees pitch ideasself-form teamsHACK as long as you can stay awakeSaturdaybreakfast at 8 AMHACKINGlunchmore HACKINGdemos and judgingwrap up by 7PMFAQWill there be food?yep!and plenty of caffeine + snacksWhats the vibe?super chillroll up in your pajamas, office gear, or even dress it up a little if you feel like itclinicians, feel free to wear your scrubs Who will be in the room?priority access for credentialed clinicians (MD/DO, NP, PA, CRNA, RN) and professional builders (dev, data, ML, AI)well be verifying every attendee via LinkedIn/DoximityWhat if Im a clinician who has never built anything?this event is for YOUmentors will be circulating to help you get started, and there will be pro builders to team up withWill there be prizes?yes! there will be thousands of dollars worth of prizes BUT building with great people who care about healthcare is the real prize from the event PartnersDxAngelsAn investment syndicate of Doximity alumni, physicians, and health tech leaders, co-founded by Ahmed Belal, Mujtaba Badat, and Peter Alperin, MD, to expand the capital and expertise the Doximity alumni community could bring to digital health startups.Redesign HealthRedesign Health is a global venture and applied technology firm focused on building next-generation healthcare companies. We manage venture capital and venture buyout strategies, each powered by an AI operating system and team of leading technologists, entrepreneurs, and investors.Photon HealthWe're building a modern prescription network that empowers people to shop with their prescriptions in hand.TechNovaTimeTechNovaTime deploys digital employees that do the work across healthcare systems from patient access to revenue cycle. Your next best hire won't be human.Visualize AIVisualize AI is an NYC-based AI lab building foundation models for human perception and reasoning on phones. Our founders have built two unicorns, with a team from DeepMind, xAI, Berkeley, Stanford, and Caltech."
+    },
     "gary_2026_10_02_builders_nyc_dev_talk": {
       "title": "Builders NYC - Dev Talk",
       "type": "tech",
@@ -1235,6 +1251,23 @@
       "link": "https://www.garysguide.com/events/dhssdqm/Advertising-Week",
       "map": "https://maps.google.com/?q=The%20Penn%20District%2C%20100%20W%2033rd%20St",
       "summary": "Gary's Guide: With Ben Cohen (Founder, Ben & Jerry's), Aude Gandon (CMO, Estee Lauder), Amani Duncan (CEO, My Code), Sabrina Callahan (CMO, Southwest Airlines), Greg Hamilton (CMO, Little Caesars), John Espley (VP Partnerships, PGA Tour)."
+    },
+    "gary_2026_10_05_embodied_ai_nyc": {
+      "title": "Embodied AI NYC",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Mon",
+      "date": "2026-10-05",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Mon, 10/05 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/vmkp975/Embodied-AI-NYC",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With ​Sebastian Marino (CTO, Monumental Labs), ​Pedro Piacenza (CEO, Tangent Robotics), ​Charlotte Kemp Muhl & Sage Morei (Artists)."
     },
     "gary_2026_10_06_unique_ai_presents_new_ai_teammates": {
       "title": "Unique AI Presents - New AI Teammates",
@@ -1337,6 +1370,40 @@
       "link": "https://www.garysguide.com/events/cocx2fo/Last-Call-Of-Summer-w-Lorikeet",
       "map": "https://maps.google.com/?q=Venue%2C%2023%20W%2031st%20St",
       "summary": "Gary's Guide: With healthcare founders & operators."
+    },
+    "gary_2026_10_06_stamford_ai_meetup_demo_night_7_w_the_ai_collective": {
+      "title": "Stamford AI Meetup | Demo Night 7 | w/ The AI Collective",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-10-06",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Tue, 10/06 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ezlsyng/Stamford-AI-Meetup-Demo-Night-7-w-The-AI-Collective",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Hey Techies,Join us for our 7th Demo Night at Point Caf in Stamford. Three local pre-seed-funded Ai startups will compete for an awesome prizea Stamford Ai Meetup Tee Shirt!!!DEMOS BYArun Thachi - supernila - Nila: an AI assistant that works the leads while the painter works the jobMichael Hermus - VECTROS - the whole AI backend from one data model: database, search, RAG, and agent accessKapil Bhowmik - WealthBrainAI - an AI network that matches investors, advisors, and analystsThe winner will be chosen by applause and will receive a hearty pat on the back, the adoration of their peers and a coveted Stamford Ai Meetup Tee Shirt!!! (Oh, and maybe meet their first angel investor, dev team or co-founder.)So come see what your peers are working on in Stamford, get inspired, and network with us at the nextWHEREPoint Caf - Stamford - 2200 Atlantic StreetWHENTuesday, October 6, 2026. Doors open at 5:30PM.AGENDA5:30 Registration - Networking6:00 Kickoff/Introductions6:30 Demos7:00 Pizza, Beer, Soft Drinks + Networking8:30 ENDVOLUNTEERINGWe are continuing to add new volunteers to our team. Please consider joining us and getting involved in our local Ai community by either letting someone at the event know or email volunteer@stamfordaimeetup.com for more information.SPONSORSHIPWant to help us build the biggest and baddest monthly gathering of technologists, investors and entrepreneurs in the area? Let us know: sponsor@stamfordaimeetup.comWANT TO DEMO?We're always on the lookout for great technology demos to appear at our quarterly Demo Nights. Have something to show? Apply to demo at a future Stamford Ai Meetup.WHO WE AREWe are a monthly gathering of technologists, investors and entrepreneurs in Westchester and Fairfield County focused on Generative Ai. On the first Tuesday of every month, we bring the startup element of the old Stamford Tech Meetup back to Stamford when several technology companies take to the stage and have 5 minutes to show us what they do.WHAT WE DOConnect + Educate + PromoteStamford Ai Meetup provides a no-judgment zone where people come together to connect, learn and grow in the ever-changing Gen Ai landscape.Well give companies an opportunity to demo their product to a captive audience, get real time feedback, introductions to potential employees, customers and partners in and around Fairfield County.ABOUT THE HOSTDarrell DeMakes - Host of Stamford Ai Meetup and a digital product management and product development professional specializing in transforming business goals into products and messages that captivate.Specialties: app development, content creation, creative workflow architecture, creative ideation, digital product development, brainstorming and audio & video production.As always, food and drink, engaging conversation, and incredible company will all be provided!Please be advised: Unfortunately, space is very limited at these community events and we can not always accept everyone we would like to. If you are not accepted to this event, please keep applying! We appreciate your application tremendously and we are looking forward to seeing you at a future event very soon!The AI Collective is a global non-profit building the human layer for the AI era. We unite 200,000+ leaders, builders, and stakeholders across 100+ forums worldwide to democratize the frontier, build trust, and coordinate how society navigates the rapid acceleration of technological progress.All attendees and organizers at events affiliated with The AI Collective agree to our privacy policy and are subject to our code of conduct."
+    },
+    "gary_2026_10_06_stamford_ai_meetup_demo_night_7": {
+      "title": "Stamford AI Meetup - Demo Night 7",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-10-06",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Tue, 10/06 · 5:30pm",
+      "price": "$12",
+      "free": false,
+      "place": "Point Cafe, 2200 Atlantic St, 1st Fl, Stamford",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/zm4yw2m/Stamford-AI-Meetup-Demo-Night-7",
+      "map": "https://maps.google.com/?q=Point%20Cafe%2C%202200%20Atlantic%20St%2C%201st%20Fl%2C%20Stamford",
+      "summary": "Gary's Guide: Demos by Arun Thachi (Nila), Michael Hermus (VECTROS), Kapil Bhowmik (WealthBrainAI)."
     },
     "gary_2026_10_06_adtech_founder_facials": {
       "title": "Adtech Founder Facials",
@@ -1491,6 +1558,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join us for an intimate evening with a highly curated group of founders building in AI-enabled services that are scaling at the most beautiful venue in NYC. Who Should Attend? Founders building in AI-enabled services Why Attend? Honest conversations with the best founders at similar stages Tactical insights on fundraising, GTM, & scaling from peers who get it What Is Included? 3-course dinner with sommelier-paired wines Live pianist The builders behind some of the fastest-growing companies in the country Important Reminders: Dress Code: Business, smart casual Stay Connected: Follow us on Instagram or LinkedIn for updates on our community, events & opportunities. Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes. About the Hosts & Sponsors: Brderless brings together the most extraordinary founders through a carefully curated community. Rho is the all-in-one banking platform for startups & the accountants supporting them. With banking setup in minutes, 2% cashback cards, & powerful tools for managing spend, paying bills, & closing the books, Rho helps high-growth startups move fast & stay focused, backed by support that goes to the end of the earth to help you win. Rho is a fintech company, not a bank. Checking & card services are provided by Webster Bank, N.A., member FDIC; savings account services are provided by American Deposit Management Co. & its partner banks. Corridor is an AI-native health insurance brokerage that helps businesses take care of their people. Corridor was created by a world class technical & service team from Scale AI, McKinsey, & Perplexity."
     },
+    "gary_2026_10_06_elevenlabs_creator_spotlight_the_new_reach_how_ceato": {
+      "title": "ElevenLabs  Creator Spotlight: The New Reach: How Ceators Are Growing with AI Audio Tooling",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-10-06",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Tue, 10/06 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/e0po2tv/ElevenLabs-Creator-Spotlight-The-New-Reach-How-Ceators-Are-Growing-with-AI-Audio-Tooling",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With ​Francis Zierer (Editor in Chief, Creator Spotlight), ​Dara Denney (Creator and Creative Performance Strategist), ​Nathan May (Founder, The Feed Media), ​Ryan Bast (Creators, ElevenLabs)."
+    },
     "gary_2026_10_07_pmai_creativity_business_problems_in_age_of_ai": {
       "title": "PMAI - Creativity & Business Problems In Age Of AI",
       "type": "tech",
@@ -1524,6 +1608,23 @@
       "link": "https://www.garysguide.com/events/uoep3is/Sovereign-AI-At-The-Application-Layer-Enterprise-Finance-Data",
       "map": "https://maps.google.com/?q=IBM%2C%20One%20Madison%20Ave",
       "summary": "Gary's Guide: An AI Alliance Meetup, co-hosted with Neo4j & IBM | October 7, 2026 | IBM One Madison Avenue, New York Every enterprise now has the same problem in a different form. The data that would make a model useful is the data you are not allowed to move. It sits inside one firm, under one regulator, in a schema few have mapped. The interesting work in AI has quietly shifted from training bigger models alone to developing systems to utilize the data enterprises have. This afternoon is about how that is actually built. Potential topic areas: Context. Structuring the data inside a firm so a model may reason. Federation. Connecting institutions to train & evaluate to move an industry forward. Privacy. The architecture that makes cross-institution work permissible. Regulation. Why banks are now being asked to do this. What institutions may or may not allow connecting with closed models. Aligned with these topics sits Project Tapestry, the AI Alliance's consortium driven open-weights model effort. We will open with where it stands: Milestone 0 complete, Milestone 1 underway, & the ecosystem as it develops. This is a technical afternoon for engineers, architects, & data leads. Join with hard questions & connect with others facing similar challenges. Agenda 2:00 PM: Doors open & refreshments 2:30 - 2:40: Welcome & Housekeeping 2:40 - 2:55: Tapestry Updates Tentative Speaking Agenda (confirmed by 10/1) Part 1: The stack 2:40 - 3:20: Context is the product: memory & context graphs on financial data Neo4j 3:20 - 3:45: Federated learning in regulated industries 3:45 - 4:00: Privacy-preserving architecture between institutions 4:00 - 4:15: Break Part 2: Why enterprises & banks care right now 4:15 - 4:35: The regulated stack: what open source is being asked to solve 4:35 - 4:50: Partner Lightning talk: Practitioner view, from inside a financial institution 4:50 - 4:55: Close & where to go next 5:00 - 6:00 PM: Food & networking Speakers for the remaining sessions are being confirmed & will be added as they are announced. Register now to be notified & keep your spot. Space is limited to 150 attendees. Due to capacity, our team will confirm registration closer to the event date. Registration confirmations will close Monday, October 5 at 5:00 PM EDT so confirmed registrations can be confirmed with building security. Getting in Enter through the ground floor IBM entrance at One Madison Avenue & bring photo ID. The auditorium is on the 10th floor. Please arrive by 2:00 for a 2:30 start. This is an AI Alliance event. Code of Conduct We expect our members to treat each other like family, so please click here to read our Code of Conduct. If you see someone violating it, please speak with your event organizer or reach out to the event hosts on this page. The AI Alliance is a non-profit community of 200+ member organizations across 29 countries, including leading enterprises, researchers, & more than 25,000 individuals. Through world-class events, online events, & workshops, members leverage their diverse perspectives & innovative minds to foster meaningful relationships, solve challenging problems, & define the future of AI."
+    },
+    "gary_2026_10_07_co_working_for_social_entrepreneurs": {
+      "title": "Co-Working for Social Entrepreneurs",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-10-07",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Wed, 10/07 · 2:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/jyo8p7w/Co-Working-for-Social-Entrepreneurs",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: A weekly gathering where you can join fellow social impact entrepreneurs of all stripes and co-work over coffee and pastries at Anew Caf & Goods.We'll reserve space in the caf for the meeting, please order a drink or pastry. Looking forward to seeing you!Anew is a gathering space and discovery center for social transformation located in NYC. We host interactive events and workshops, an accelerator program for nonprofits, and a retail lab featuring ethically-sourced coffee and gifts."
     },
     "gary_2026_10_07_forum_ventures_accelerator_info_session_winter_2027_": {
       "title": "Forum Ventures Accelerator Info Session - Winter 2027 Cohort",
@@ -1661,6 +1762,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20Times%20Sq",
       "summary": "Gary's Guide: With Shaul Elson (Apress), Ben Schreiner (Head of AI & Modern Data Strategy, AWS), Justin Leto (Global Principal Solutions, AWS)."
     },
+    "gary_2026_10_08_against_the_inevitable_finding_creative_agency_in_th": {
+      "title": "Against the Inevitable: Finding Creative Agency in the Age of AI",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Thu, 10/08 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/bhlpzpf/Against-the-Inevitable-Finding-Creative-Agency-in-the-Age-of-AI",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: We can do something about it, actually!Frontier AI companies are relying on the inevitability narrative to push every sector to adopt their techuse their products, or get left behind. Yet many of us are concerned about Big Techs increasingly pervasive influence on democracy, the economy, the environment, and the social fabric. How do we realistically counter the narrative and take back our power?Join Anew and representatives from Outside, an impact-driven design & tech studio, will walk through the thinking behind their anti-Big Tech AI policy, unpack the myth of technosolutionism, and propose some ways companies can help counter the inevitable.Vincent Sanchez-Gomez is the New York-based co-founder of Outside, an impact-driven design and technology studio based in Nepal that serves a global clientele. Through his work and writing, Vincent explores ways that for-profit businesses can take new approaches to impact, contribute to regenerative economies, and operate based on values-driven business models.Elizabeth Lepro is the Head of Editorial at Outside. Drawing on her background in journalism and nonprofit communications, she helps purpose-driven organizations clarify their messaging, communicate their missions, and garner support. She co-writes and edits Vincent's Substack essays on impact and wrote Outside's AI Policy.Anew is a gathering space and discovery center for social transformation located in NYC. We host interactive events and workshops, an accelerator program for nonprofits, and a retail lab featuring ethically-sourced coffee and gifts."
+    },
     "gary_2026_10_08_ending_hallucination_tax_governing_backbone_of_enter": {
       "title": "Ending Hallucination Tax - Governing Backbone Of Enterprise AI",
       "type": "tech",
@@ -1762,142 +1880,6 @@
       "link": "https://www.garysguide.com/events/eol64b6/Agents-On-Call-Live-AI-Agents-In-Healthcare-Ops",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Healthcare runs on operations: prior auths, intake, scheduling, eligibility checks, denials, follow-up. AI agents are starting to do that work in production - not in demo videos. Pepper brings together operators & builders from health tech teams actually shipping agents into clinical & revenue-cycle workflows. Expect live walkthroughs of agents running real workflows, honest talk about what breaks, & a clear-eyed look at where humans still have to stay in the loop. What you'll leave with: Which healthcare ops workflows agents handle well today - & which they don't How teams handle HIPAA, auditability, & error escalation in production The metrics operators actually use to decide whether an agent is working Who should come: health tech founders & operators, RCM & clinical ops leaders, engineers building in healthcare, & investors tracking the space. 6:00 PM - Doors & networking 6:30 PM - Panel & live agent walkthroughs 7:30 PM - Open networking Hosted by Pepper, a NYC health tech community. This event is part of #AIWeekNY by Pulse NYC - a community-led festival celebrating innovation across the AI ecosystem. More at https://pulse.nyc/ai-week/"
-    },
-    "gary_2026_10_09_ai_briefing_private_equity_what_owners_buyers_pay_fo": {
-      "title": "[AI Briefing] Private Equity - What Owners & Buyers Pay For",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-10-09",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 10/09 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Civic Hall, 124 E 14th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ers45hk/-AI-Briefing-Private-Equity-What-Owners-Buyers-Pay-For",
-      "map": "https://maps.google.com/?q=Civic%20Hall%2C%20124%20E%2014th%20St",
-      "summary": "Gary's Guide: With Startup Grind."
-    },
-    "gary_2026_10_10_nyc_women_founders_coffee": {
-      "title": "NYC Women Founders Coffee",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sat",
-      "date": "2026-10-10",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 10/10 · 11:00am",
-      "price": "$5",
-      "free": false,
-      "place": "Capital One Cafe, 555 Broadway",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/c4s0ttv/NYC-Women-Founders-Coffee",
-      "map": "https://maps.google.com/?q=Capital%20One%20Cafe%2C%20555%20Broadway",
-      "summary": "Gary's Guide: Meet fellow NYC women founders & entrepreneurs over coffee. Make new connections & grow your founder network in a relaxed, welcoming setting. Hosted by New York Female Founders (NYFF). 11:00 AM to 12:30 PM."
-    },
-    "gary_2026_10_10_latinos_x_ai_hackathon": {
-      "title": "Latinos x AI Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-10-10",
-      "time": "11:30 AM",
-      "sort": 11.5,
-      "when": "Sat, 10/10 · 11:30am",
-      "price": "Free",
-      "free": true,
-      "place": "1WTC, 285 Fulton St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/2rdr33j/Latinos-x-AI-Hackathon",
-      "map": "https://maps.google.com/?q=1WTC%2C%20285%20Fulton%20St",
-      "summary": "Gary's Guide: Latinos x AI Hackathon - NYC Saturday, October 10 10:00 AM - 6:00 PM New York City Nuestra gente. Nuestros problemas. Nuestro cdigo. For Hispanic Heritage Month, 150 builders are spending one Saturday in New York building AI for the problems our communities actually live with. Not a demo day. Not a panel. Eight hours, three tracks, working software by 5pm. Applications are reviewed. Attendance is free. The Three Tracks Pick one when you apply. Build for it all day. 01 Immigration - Papers & Process Status, documents, deadlines, & the systems that decide who belongs. Think intake triage for legal aid clinics, plain-language explainers for immigration forms, interpreter tooling, case-status tracking, know-your-rights assistants. 02 Healthcare - Care Without Barriers Language, coverage, & access for patients the system was not built for. Think interpretation at the point of care, insurance navigation, discharge instructions people can actually read, community health worker tooling, prescription & benefits literacy. 03 Finance - Banking the Unbanked Credit, remittances, & building wealth without a financial history. Think remittance transparency, credit-building for thin-file borrowers, small business bookkeeping for cash operations, benefits & tax navigation, fraud protection for first-generation account holders. Prizes $4,500 total - $1,500 per track. Every track winner also gets [sponsor perks once confirmed]. Schedule Schedule 10:00 AM - Doors, breakfast, team formation 10:45 AM - Opening remarks & track briefings 11:15 AM - Building starts 1:00 PM - Lunch 3:00 PM - Mentor office hours & mid-day checkpoint 4:45 PM - Submissions close 5:00 PM - Demos on stage 5:45 PM - Judging & awards 6:00 PM - Close Who Should Apply Engineers, data scientists, & designers who want to ship something real in a day Product people & founders who can shape a problem & pitch it Clinicians, immigration attorneys, paralegals, social workers, & financial counselors - the people who know the problem from the inside. You do not need to code to be valuable here. Teams with a domain expert consistently win. Students & career switchers You can apply solo or with a team of up to four. Solo applicants will be matched at 10:00 AM. What to Bring Laptop & charger A problem you have seen up close ID for building security We provide breakfast, lunch, coffee, wifi, power, mentors, & the room. Rules Build during the event. Prior research & planning are fine; prior code is not. Teams of one to four. Every submission needs a public repo, a two-minute demo video, & a short written description. You keep everything you build. No IP claims from organizers or sponsors. Be decent to each other. Harassment of any kind means you leave. Mentors & Judges [ADD once confirmed: names, titles, organizations.] Partners & Sponsors [ADD once confirmed: logos & names.] Interested in sponsoring or partnering? Write to chris@ziora-copilot.com or book 30 minutes. Sponsorship closes October 1. FAQ Is it free? Yes. Applications are reviewed because space is limited to 150. Where is it? New York City. The exact address is shared with approved attendees. Do I have to be Latino to attend? No. The event is built by & for the Latino community in New York, & everyone who wants to build for these problems is welcome. Do I need a team? No. Come solo & we will match you at the start. What language is the event in? English, with Spanish spoken throughout. Apply & demo in whichever you prefer. Can I keep working on my project afterward? Please do. That is the point. A note on selection: This edition is built for & centered on the Latino community in New York. Applications from Latino & Hispanic builders will be prioritized. Allies are welcome to apply & will be considered as space allows. Questions: chris@ziora-copilot.com Hosted by Christopher Martinez"
-    },
-    "gary_2026_10_10_decentralized_ai_day": {
-      "title": "Decentralized AI Day",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-10-10",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 10/10 · 1:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/bdeh7vp/Decentralized-AI-Day",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Jason (Founder/CEO, CrowdCent), Nick (Founder/CEO, Allora Labs), Matteo (Co-Founder/CEO, Orion Finance)."
-    },
-    "gary_2026_10_11_ai_engineer_kids_day": {
-      "title": "AI Engineer Kids Day",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-10-11",
-      "time": "12:30 PM",
-      "sort": 12.5,
-      "when": "Sun, 10/11 · 12:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, Bryant Park",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/l8a4xx2/AI-Engineer-Kids-Day",
-      "map": "https://maps.google.com/?q=Venue%2C%20Bryant%20Park",
-      "summary": "Gary's Guide: With Cassandra Chin (Podcast Host)."
-    },
-    "gary_2026_10_12_the_age_of_ai_live_recording_of_the_builders": {
-      "title": "The Age Of AI  - Live Recording Of The Builders",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-10-12",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Mon, 10/12 · 8:00pm",
-      "price": "$40",
-      "free": false,
-      "place": "92NY, 1395 Lexington Ave",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/yri1ik8/The-Age-Of-AI-Live-Recording-Of-The-Builders",
-      "map": "https://maps.google.com/?q=92NY%2C%201395%20Lexington%20Ave",
-      "summary": "Gary's Guide: With Mustafa Suleyman (CEO, Microsoft AI), Walter Isaacson (Host, The Builders podcast & best-selling biographer of Steve Jobs, Leonardo da Vinci & Albert Einstein)."
-    },
-    "gary_2026_10_13_empanada_entrepreneurs": {
-      "title": "Empanada Entrepreneurs",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-10-13",
-      "time": "8:30 AM",
-      "sort": 8.5,
-      "when": "Tue, 10/13 · 8:30am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/x2xcz9s/Empanada-Entrepreneurs",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: We're closing out Hispanic Heritage Month with our partners at SVB, & for this one the bagels step aside. Breakfast is empanadas. They come from Nuchas, the empanada company that Ariel, a Latino founder, built right here in New York. The format stays the same: venture-backed founders in one room, coffee, & time to actually talk. Past editions have brought together close to 200 founders from pre-seed to Series E, along with active investors. Registration is curated to keep the room founder-heavy. If you're a venture-backed founder or an active investor, request a spot."
-    },
-    "luma_2026_10_02_friday_founders_breakfast_club": {
-      "title": "Friday Founders Breakfast Club",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-10-02",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Fri, 10/02 · 2pm",
-      "price": "Free",
-      "free": true,
-      "place": "Corgi Cafe",
-      "source": "Luma NYC",
-      "link": "https://luma.com/s9tkpksx",
-      "map": "https://maps.google.com/?q=Corgi%20Cafe%20NYC",
-      "summary": "Luma NYC: Corgi NYC, Maddie, jamie, Abril Zucchi, Linda"
     },
     "luma_2026_10_04_the_angel_market_x_cloud_closet_jewelry_accessory_po": {
       "title": "The Angel Market x Cloud Closet: Jewelry & Accessory Pop-Up",
@@ -2015,6 +1997,23 @@
       "place": "NYU Tandon / Online",
       "source": "NYU Tandon",
       "link": "https://engineering.nyu.edu/events/2026/10/05/research-seminar-gourab-ghoshal",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_10_08_from_blood_to_brain_to_skin_continuous_multi_bioflui": {
+      "title": "From Blood to Brain to Skin: Continuous Multi-Biofluid Monitoring with Microfluidic and Microneedle Biosensors",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Thu, 10/08 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/08/blood-brain-skin-continuous-multi-biofluid-monitoring-microfluidic-and",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
@@ -2272,6 +2271,23 @@
       "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-03/1/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_44288_2026_10_03_unbounded_nature_jcast_at_the_bethune_center_2026": {
+      "title": "“UNBOUNDED NATURE” JCAST at The Bethune Center 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-10-03",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sat, 10/03 · 2pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Mary McLeod Bethune Life Center, 140 Martin Luther King Drive, Jersey City",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/unbounded-nature-jcast-at-the-bethune-center-2026/",
+      "map": "https://maps.google.com/?q=Mary%20McLeod%20Bethune%20Life%20Center%2C%20140%20Martin%20Luther%20King%20Drive%2C%20Jersey%20City",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_44235_2026_10_03_midnight_market_y2k_night_2026": {
       "title": "Midnight Market Y2K Night 2026",
@@ -2799,23 +2815,6 @@
       "link": "https://jerseycityculture.org/event/creation-from-destruction-art-exhibition-2026-2/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "&nbsp; &nbsp; &nbsp; &nbsp;"
-    },
-    "jc_culture_10003574_2026_10_28_hamilton_park_farmers_market_2026": {
-      "title": "Hamilton Park Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Wed",
-      "date": "2026-10-28",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Wed, 10/28 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-10-28/",
-      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     }
   },
   "clusters": {
@@ -2915,6 +2914,11 @@
       "gary_2026_10_02_builders_nyc_dev_talk",
       "jc_culture_43707_2026_10_02_meet_the_artist_jcast_rachel_l_bedder_2026"
     ],
+    "cluster_2026_10_06_5_30_pm": [
+      "gary_2026_10_06_last_call_of_summer_w_lorikeet",
+      "gary_2026_10_06_stamford_ai_meetup_demo_night_7_w_the_ai_collective",
+      "gary_2026_10_06_stamford_ai_meetup_demo_night_7"
+    ],
     "cluster_2026_10_06_6_pm": [
       "gary_2026_10_06_adtech_founder_facials",
       "gary_2026_10_06_female_founders_member_mingle",
@@ -2926,7 +2930,12 @@
     ],
     "cluster_2026_10_06_6_30_pm": [
       "gary_2026_10_06_scene_by_scene_brand_relevance_video_ai_next_era_of_",
-      "gary_2026_10_06_ai_enabled_services_founder_dinner"
+      "gary_2026_10_06_ai_enabled_services_founder_dinner",
+      "gary_2026_10_06_elevenlabs_creator_spotlight_the_new_reach_how_ceato"
+    ],
+    "cluster_2026_10_07_2_pm": [
+      "gary_2026_10_07_sovereign_ai_at_the_application_layer_enterprise_fin",
+      "gary_2026_10_07_co_working_for_social_entrepreneurs"
     ],
     "cluster_2026_10_07_4_pm": [
       "gary_2026_10_07_forum_ventures_accelerator_info_session_winter_2027_",
@@ -2935,6 +2944,10 @@
     "cluster_2026_10_07_6_pm": [
       "gary_2026_10_07_the_founder_s_revenue_lounge",
       "gary_2026_10_07_ai_citizens_week_4_ai_that_knows_your_documents"
+    ],
+    "cluster_2026_10_08_5_pm": [
+      "gary_2026_10_08_aws_apress_technical_publishing_in_the_ai_age",
+      "gary_2026_10_08_against_the_inevitable_finding_creative_agency_in_th"
     ],
     "cluster_2026_10_08_6_pm": [
       "gary_2026_10_08_the_ai_founder_playbook_rewritten",
@@ -2945,6 +2958,10 @@
     "cluster_2026_10_05_11_am": [
       "nyu_tandon_2026_10_05_the_cortex_and_pain_from_preclinical_to_human_studie",
       "nyu_tandon_2026_10_05_from_network_dynamics_to_market_dynamics_understandi"
+    ],
+    "cluster_2026_10_03_2_pm": [
+      "jc_culture_10004834_2026_10_03_rent_the_musical",
+      "jc_culture_44288_2026_10_03_unbounded_nature_jcast_at_the_bethune_center_2026"
     ]
   }
 }
