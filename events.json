@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 3, 2026, 11:00 AM EDT",
+    "checked": "Oct 3, 2026, 6:21 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1932,6 +1932,40 @@
       "map": "https://maps.google.com/?q=315%20Hudson%20St%20NYC",
       "summary": "Luma NYC: Ahmed Ahres, Ahmed Ahres, Michael Carney, Willem Helmet Pickleman"
     },
+    "luma_2026_10_08_building_at_the_frontier_hypergrowth_startup_operato": {
+      "title": "Building at the Frontier: Hypergrowth Startup Operator Panel",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Thu, 10/08 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "Columbia University",
+      "source": "Luma NYC",
+      "link": "https://luma.com/m2o3zerh",
+      "map": "https://maps.google.com/?q=Columbia%20University%20NYC",
+      "summary": "Luma NYC: CORE, CORE"
+    },
+    "luma_2026_10_08_design_engineering_panel_where_craft_meets_code": {
+      "title": "Design Engineering Panel; Where Craft Meets Code",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Thu, 10/08 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/f9om9e1q",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Tech@NYU, Pope Cruz, Jenn, Charice Huang, Tech@NYU"
+    },
     "nyu_tandon_2026_10_05_the_cortex_and_pain_from_preclinical_to_human_studie": {
       "title": "The Cortex and Pain: From Preclinical to Human Studies",
       "type": "tech",
@@ -2893,6 +2927,10 @@
       "gary_2026_10_08_offscript_night_of_improv_for_series_a_founders_thei",
       "gary_2026_10_08_offscript_a_night_of_improv_for_founders_teams",
       "gary_2026_10_08_the_ai_founder_playbook_rewritten_aiweekny_dinner"
+    ],
+    "cluster_2026_10_08_10_pm": [
+      "gary_2026_10_08_agents_on_call_live_ai_agents_in_healthcare_ops",
+      "luma_2026_10_08_building_at_the_frontier_hypergrowth_startup_operato"
     ],
     "cluster_2026_10_05_11_am": [
       "nyu_tandon_2026_10_05_the_cortex_and_pain_from_preclinical_to_human_studie",
