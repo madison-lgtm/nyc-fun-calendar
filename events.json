@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 4, 2026, 11:34 AM EDT",
+    "checked": "Oct 4, 2026, 6:27 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1761,23 +1761,6 @@
       "link": "https://www.garysguide.com/events/l8a4xx2/AI-Engineer-Kids-Day",
       "map": "https://maps.google.com/?q=Bryant%20Park%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Welcome to our very first AI Engineer Kids Day in New York City. We're thrilled to have you here! This special event brings together curious young minds & their families for a fun, hands-on introduction to artificial intelligence, coding, & technology. We're especially excited to welcome Cassandra Chin, an outstanding computer science graduate & author, who has led engaging workshops at conferences around the world. Cassandra will guide participants through interactive sessions designed to spark creativity, build confidence, & make complex ideas accessible & fun. These workshops are recommended for kids aged 9 to 15, & parents are encouraged to join. Whether you're completely new to AI or already curious about how things work behind the scenes, this is a chance to learn, explore, & create - together! Agenda 12:30 PM - Doors open & registration - Arrive, check in, & get settled. 1:00 PM - AI Workshop 3:00 PM - Workshop concludes, parents arrive for pickup 3:30 PM - Event ends Workshops Learn AI by Making Games with Phippy! Taught by Cassandra Chin What if you could dream up a game & bring it to life with AI? In this hands-on workshop, kids will team up with an AI coding assistant to create their own playable 2D games using the open source Godot game engine & colorful Phippy & Friends characters. From treasure hunts to tricky mazes, they'll choose the adventure & help shape the rules. As they build, play, & improve their games, kids will practice giving AI clear instructions, checking its work, & solving problems when things don't go as planned. Along the way, they'll discover that AI can help write the code, but they're the game designers in charge! No previous coding or game-making experience is needed, just curiosity & a willingness to experiment, explore, & play! Bio: Cassandra Chin is a keynote speaker, author, podcast host, & computer science student. She has led technology workshops for kids at international conferences since age 13 & is passionate about expanding access to tech education for women, minorities, & underserved communities. What to know before you come: Please bring your own laptop so you can fully participate in the hands-on activities. Space is limited, so if you're unable to attend, please cancel your registration to allow another child to join. We will be taking photos & videos during the event, which will be shared online & featured at the keynote of the AI Engineer World Fair conference that week. Please let us know if you agree to be included in the registration process. Parents or guardians will need to be present to sign their child in at the beginning & sign them out at the end of the event & they welcome to stay & assist your child. No lunch provided, please bring your snack & water Call for Volunteers We're looking for volunteers to support kids during the hands-on workshops. Parents & those with some technical background are invited to help guide & inspire kids as they build & explore. Please register at Open Google Form We can't wait to build with you!"
-    },
-    "luma_2026_10_04_the_angel_market_x_cloud_closet_jewelry_accessory_po": {
-      "title": "The Angel Market x Cloud Closet: Jewelry & Accessory Pop-Up",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-10-04",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Sun, 10/04 · 4pm",
-      "price": "Free",
-      "free": true,
-      "place": "178 Bleecker St",
-      "source": "Luma NYC",
-      "link": "https://luma.com/hixlp29d",
-      "map": "https://maps.google.com/?q=178%20Bleecker%20St%20NYC",
-      "summary": "Luma NYC: Dia Gauthier, Dia Gauthier, Cate Navarrete, Caroline Lakshmanan"
     },
     "luma_2026_10_06_elevenlabs_creator_spotlight_the_new_reach_how_creat": {
       "title": "ElevenLabs × Creator Spotlight: The New Reach: How creators are growing with AI audio tooling",
