@@ -1,47 +1,47 @@
 {
   "meta": {
-    "checked": "Oct 5, 2026, 3:37 PM EDT",
+    "checked": "Oct 5, 2026, 8:55 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
-        "iso": "2026-10-05",
+        "iso": "2026-10-06",
         "key": "Mon",
         "label": "Mon",
         "date": "Oct 5"
       },
       {
-        "iso": "2026-10-06",
+        "iso": "2026-10-07",
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 6"
       },
       {
-        "iso": "2026-10-07",
+        "iso": "2026-10-08",
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 7"
       },
       {
-        "iso": "2026-10-08",
+        "iso": "2026-10-09",
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 8"
       },
       {
-        "iso": "2026-10-09",
+        "iso": "2026-10-10",
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 9"
       },
       {
-        "iso": "2026-10-10",
+        "iso": "2026-10-11",
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 10"
       },
       {
-        "iso": "2026-10-11",
+        "iso": "2026-10-12",
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 11"
@@ -49,187 +49,187 @@
     ],
     "monthDays": [
       {
-        "iso": "2026-10-05",
+        "iso": "2026-10-06",
         "key": "Mon",
         "label": "Mon",
         "date": "Oct 5"
       },
       {
-        "iso": "2026-10-06",
+        "iso": "2026-10-07",
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 6"
       },
       {
-        "iso": "2026-10-07",
+        "iso": "2026-10-08",
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 7"
       },
       {
-        "iso": "2026-10-08",
+        "iso": "2026-10-09",
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 8"
       },
       {
-        "iso": "2026-10-09",
+        "iso": "2026-10-10",
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 9"
       },
       {
-        "iso": "2026-10-10",
+        "iso": "2026-10-11",
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 10"
       },
       {
-        "iso": "2026-10-11",
+        "iso": "2026-10-12",
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 11"
       },
       {
-        "iso": "2026-10-12",
+        "iso": "2026-10-13",
         "key": "Mon",
         "label": "Mon",
         "date": "Oct 12"
       },
       {
-        "iso": "2026-10-13",
+        "iso": "2026-10-14",
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 13"
       },
       {
-        "iso": "2026-10-14",
+        "iso": "2026-10-15",
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 14"
       },
       {
-        "iso": "2026-10-15",
+        "iso": "2026-10-16",
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 15"
       },
       {
-        "iso": "2026-10-16",
+        "iso": "2026-10-17",
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 16"
       },
       {
-        "iso": "2026-10-17",
+        "iso": "2026-10-18",
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 17"
       },
       {
-        "iso": "2026-10-18",
+        "iso": "2026-10-19",
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 18"
       },
       {
-        "iso": "2026-10-19",
+        "iso": "2026-10-20",
         "key": "Mon",
         "label": "Mon",
         "date": "Oct 19"
       },
       {
-        "iso": "2026-10-20",
+        "iso": "2026-10-21",
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 20"
       },
       {
-        "iso": "2026-10-21",
+        "iso": "2026-10-22",
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 21"
       },
       {
-        "iso": "2026-10-22",
+        "iso": "2026-10-23",
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 22"
       },
       {
-        "iso": "2026-10-23",
+        "iso": "2026-10-24",
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 23"
       },
       {
-        "iso": "2026-10-24",
+        "iso": "2026-10-25",
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 24"
       },
       {
-        "iso": "2026-10-25",
+        "iso": "2026-10-26",
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 25"
       },
       {
-        "iso": "2026-10-26",
+        "iso": "2026-10-27",
         "key": "Mon",
         "label": "Mon",
         "date": "Oct 26"
       },
       {
-        "iso": "2026-10-27",
+        "iso": "2026-10-28",
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 27"
       },
       {
-        "iso": "2026-10-28",
+        "iso": "2026-10-29",
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 28"
       },
       {
-        "iso": "2026-10-29",
+        "iso": "2026-10-30",
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 29"
       },
       {
-        "iso": "2026-10-30",
+        "iso": "2026-10-31",
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 30"
       },
       {
-        "iso": "2026-10-31",
+        "iso": "2026-11-01",
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 31"
       },
       {
-        "iso": "2026-11-01",
+        "iso": "2026-11-02",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 1"
       },
       {
-        "iso": "2026-11-02",
+        "iso": "2026-11-03",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 2"
       },
       {
-        "iso": "2026-11-03",
+        "iso": "2026-11-04",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 3"
       },
       {
-        "iso": "2026-11-04",
+        "iso": "2026-11-05",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 4"
@@ -453,194 +453,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_91692_0_the_national_arts_club_community_day": {
-      "title": "the national arts club community day",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-04",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 10/04 · 10am-3pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "(gramercy)",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/the-national-arts-club-community-day-tickets-2001023473074",
-      "map": "https://maps.google.com/?q=(gramercy)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-3pm: the national arts club community day (gramercy)."
-    },
-    "skint_91692_1_53rd_annual_3rd_avenue_festival": {
-      "title": "53rd annual 3rd avenue festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-04",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 10/04 · 10am-6pm (rescheduled from 9/27 due to weather)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "3rd avenue from 69th to 94th street (bay ridge)",
-      "source": "The Skint",
-      "link": "https://www.merchantsofthirdave.com/events/third-avenue-festival",
-      "map": "https://maps.google.com/?q=3rd%20avenue%20from%2069th%20to%2094th%20street%20(bay%20ridge)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-6pm (rescheduled from 9/27 due to weather): 53rd annual 3rd avenue festival: 3rd avenue from 69th to 94th street (bay ridge)."
-    },
-    "skint_91692_2_vinyl_revolution_record_show": {
-      "title": "vinyl revolution record show",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-04",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 10/04 · 11am-4pm",
-      "price": "$5 admission",
-      "free": false,
-      "place": "bohemian hall + beer garden (astoria)",
-      "source": "The Skint",
-      "link": "https://www.vinylrevolutionrecordshow.com/upcoming-shows",
-      "map": "https://maps.google.com/?q=bohemian%20hall%20%2B%20beer%20garden%20(astoria)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-4pm: vinyl revolution record show: bohemian hall + beer garden (astoria). $5 admission ($10 for 10am early entry)."
-    },
-    "skint_91692_3_spellbound_fall_market": {
-      "title": "spellbound fall market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-04",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 10/04 · 11am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "honey’s (bushwick)",
-      "source": "The Skint",
-      "link": "https://luma.com/pleasedto-slum",
-      "map": "https://maps.google.com/?q=honey%E2%80%99s%20(bushwick)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-6pm: spellbound fall market: honey’s (bushwick)."
-    },
-    "skint_91692_4_the_annual_st_francis_day_fair_and_pet_blessings": {
-      "title": "the annual st. francis day fair and pet blessings",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-04",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 10/04 · 12-2pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "the cathedral of saint john the divine (morningside heights)",
-      "source": "The Skint",
-      "link": "https://www.stjohndivine.org/calendar/58080/st-francis-day-fair",
-      "map": "https://maps.google.com/?q=the%20cathedral%20of%20saint%20john%20the%20divine%20(morningside%20heights)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-2pm: the annual st. francis day fair and pet blessings: the cathedral of saint john the divine (morningside heights)."
-    },
-    "skint_91692_5_brooklyn_heights_neighborhood_tag_sale": {
-      "title": "brooklyn heights neighborhood tag sale",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-04",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 10/04 · 12-4pm (rescheduled from 9/27 due to weather)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "montague st from henry st to hicks st (part of montague open streets)",
-      "source": "The Skint",
-      "link": "https://www.montaguebid.com/open-streets",
-      "map": "https://maps.google.com/?q=montague%20st%20from%20henry%20st%20to%20hicks%20st%20(part%20of%20montague%20open%20streets)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-4pm (rescheduled from 9/27 due to weather): brooklyn heights neighborhood tag sale: montague st from henry st to hicks st (part of montague open streets)."
-    },
-    "skint_91692_6_celebraci_n_latina_ballet_hisp_nico_s_annual_block_p": {
-      "title": "celebración latina: ballet hispánico’s annual block party",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-04",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 10/04 · 12-4pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "w 89th st between amsterdam + columbus aves",
-      "source": "The Skint",
-      "link": "https://www.ballethispanico.org/communityarts/community/events/blockparty",
-      "map": "https://maps.google.com/?q=w%2089th%20st%20between%20amsterdam%20%2B%20columbus%20aves%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-4pm: celebración latina: ballet hispánico’s annual block party: w 89th st between amsterdam + columbus aves."
-    },
-    "skint_91692_7_the_japanese_folk_dance_institute_of_new_york_presen": {
-      "title": "the japanese folk dance institute of new york presents: fun fest japan",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-04",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 10/04 · 12-4pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "corlears hook park (les)",
-      "source": "The Skint",
-      "link": "https://japanesefolkdance.org/uncategorized/fun-fest-japan-2026.html",
-      "map": "https://maps.google.com/?q=corlears%20hook%20park%20(les)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-4pm: the japanese folk dance institute of new york presents: fun fest japan: corlears hook park (les)."
-    },
-    "skint_91692_8_51st_annual_atlantic_antic_street_festival": {
-      "title": "51st annual atlantic antic street festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-04",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 10/04 · 12-6pm (rescheduled from 9/27 due to weather)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "along brooklyn’s atlantic avenue from hicks st to 4th ave",
-      "source": "The Skint",
-      "link": "https://www.atlanticave.org/atlanticantic",
-      "map": "https://maps.google.com/?q=along%20brooklyn%E2%80%99s%20atlantic%20avenue%20from%20hicks%20st%20to%204th%20ave%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm (rescheduled from 9/27 due to weather): 51st annual atlantic antic street festival: along brooklyn’s atlantic avenue from hicks st to 4th ave."
-    },
-    "skint_91692_9_greenpoint_stoopfest": {
-      "title": "greenpoint stoopfest",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-04",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 10/04 · 1-7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "NYC",
-      "source": "The Skint",
-      "link": "https://greenpointers.com/2026/09/10/greenpoint-stoopfest-brings-neighbors-together-for-a-day-of-food-music-and-community-building/",
-      "map": "https://maps.google.com/?q=NYC%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-7pm: greenpoint stoopfest:"
-    },
-    "skint_91692_10_kids_costume_swap": {
-      "title": "kids costume swap",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-04",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sun, 10/04 · 2-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "footlight underground at the windjammer (ridgewood)",
-      "source": "The Skint",
-      "link": "https://pools.events/event/tMsQODGv/kids-costume-swap/",
-      "map": "https://maps.google.com/?q=footlight%20underground%20at%20the%20windjammer%20(ridgewood)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 2-5pm: kids costume swap: footlight underground at the windjammer (ridgewood)."
-    },
-    "skint_91692_11_seventh_annual_brooklyn_scifi_film_festival": {
+    "skint_91692_0_seventh_annual_brooklyn_scifi_film_festival": {
       "title": "seventh annual brooklyn scifi film festival",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -2095,21 +1908,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_10_04_10_am": [
-      "skint_91692_0_the_national_arts_club_community_day",
-      "skint_91692_1_53rd_annual_3rd_avenue_festival"
-    ],
-    "cluster_2026_10_04_11_am": [
-      "skint_91692_2_vinyl_revolution_record_show",
-      "skint_91692_3_spellbound_fall_market"
-    ],
-    "cluster_2026_10_04_12_pm": [
-      "skint_91692_4_the_annual_st_francis_day_fair_and_pet_blessings",
-      "skint_91692_5_brooklyn_heights_neighborhood_tag_sale",
-      "skint_91692_6_celebraci_n_latina_ballet_hisp_nico_s_annual_block_p",
-      "skint_91692_7_the_japanese_folk_dance_institute_of_new_york_presen",
-      "skint_91692_8_51st_annual_atlantic_antic_street_festival"
     ],
     "cluster_2026_10_05_6_pm": [
       "gary_2026_10_05_brits_in_tech_startups_happy_hour",
