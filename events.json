@@ -1,241 +1,241 @@
 {
   "meta": {
-    "checked": "Oct 5, 2026, 8:55 PM EDT",
+    "checked": "Oct 6, 2026, 12:59 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
         "iso": "2026-10-06",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Oct 5"
-      },
-      {
-        "iso": "2026-10-07",
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 6"
       },
       {
-        "iso": "2026-10-08",
+        "iso": "2026-10-07",
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 7"
       },
       {
-        "iso": "2026-10-09",
+        "iso": "2026-10-08",
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 8"
       },
       {
-        "iso": "2026-10-10",
+        "iso": "2026-10-09",
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 9"
       },
       {
-        "iso": "2026-10-11",
+        "iso": "2026-10-10",
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 10"
       },
       {
-        "iso": "2026-10-12",
+        "iso": "2026-10-11",
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 11"
+      },
+      {
+        "iso": "2026-10-12",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Oct 12"
       }
     ],
     "monthDays": [
       {
         "iso": "2026-10-06",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Oct 5"
-      },
-      {
-        "iso": "2026-10-07",
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 6"
       },
       {
-        "iso": "2026-10-08",
+        "iso": "2026-10-07",
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 7"
       },
       {
-        "iso": "2026-10-09",
+        "iso": "2026-10-08",
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 8"
       },
       {
-        "iso": "2026-10-10",
+        "iso": "2026-10-09",
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 9"
       },
       {
-        "iso": "2026-10-11",
+        "iso": "2026-10-10",
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 10"
       },
       {
-        "iso": "2026-10-12",
+        "iso": "2026-10-11",
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 11"
       },
       {
-        "iso": "2026-10-13",
+        "iso": "2026-10-12",
         "key": "Mon",
         "label": "Mon",
         "date": "Oct 12"
       },
       {
-        "iso": "2026-10-14",
+        "iso": "2026-10-13",
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 13"
       },
       {
-        "iso": "2026-10-15",
+        "iso": "2026-10-14",
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 14"
       },
       {
-        "iso": "2026-10-16",
+        "iso": "2026-10-15",
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 15"
       },
       {
-        "iso": "2026-10-17",
+        "iso": "2026-10-16",
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 16"
       },
       {
-        "iso": "2026-10-18",
+        "iso": "2026-10-17",
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 17"
       },
       {
-        "iso": "2026-10-19",
+        "iso": "2026-10-18",
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 18"
       },
       {
-        "iso": "2026-10-20",
+        "iso": "2026-10-19",
         "key": "Mon",
         "label": "Mon",
         "date": "Oct 19"
       },
       {
-        "iso": "2026-10-21",
+        "iso": "2026-10-20",
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 20"
       },
       {
-        "iso": "2026-10-22",
+        "iso": "2026-10-21",
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 21"
       },
       {
-        "iso": "2026-10-23",
+        "iso": "2026-10-22",
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 22"
       },
       {
-        "iso": "2026-10-24",
+        "iso": "2026-10-23",
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 23"
       },
       {
-        "iso": "2026-10-25",
+        "iso": "2026-10-24",
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 24"
       },
       {
-        "iso": "2026-10-26",
+        "iso": "2026-10-25",
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 25"
       },
       {
-        "iso": "2026-10-27",
+        "iso": "2026-10-26",
         "key": "Mon",
         "label": "Mon",
         "date": "Oct 26"
       },
       {
-        "iso": "2026-10-28",
+        "iso": "2026-10-27",
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 27"
       },
       {
-        "iso": "2026-10-29",
+        "iso": "2026-10-28",
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 28"
       },
       {
-        "iso": "2026-10-30",
+        "iso": "2026-10-29",
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 29"
       },
       {
-        "iso": "2026-10-31",
+        "iso": "2026-10-30",
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 30"
       },
       {
-        "iso": "2026-11-01",
+        "iso": "2026-10-31",
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 31"
       },
       {
-        "iso": "2026-11-02",
+        "iso": "2026-11-01",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 1"
       },
       {
-        "iso": "2026-11-03",
+        "iso": "2026-11-02",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 2"
       },
       {
-        "iso": "2026-11-04",
+        "iso": "2026-11-03",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 3"
       },
       {
-        "iso": "2026-11-05",
+        "iso": "2026-11-04",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 4"
+      },
+      {
+        "iso": "2026-11-05",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Nov 5"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "7 AM",
       "8 AM",
@@ -261,6 +261,7 @@
       "7 PM",
       "7:30 PM",
       "9 PM",
+      "9:45 PM",
       "10 PM",
       "10:30 PM"
     ]
@@ -469,57 +470,6 @@
       "link": "https://brooklynscififilmfest.com/",
       "map": "https://maps.google.com/?q=various%20locations%20and%20online%20NYC",
       "summary": "nine film fests / series (various prices). Pulled from The Skint's public article feed: mon thru 10/11: seventh annual brooklyn scifi film festival: various locations and online."
-    },
-    "gary_2026_10_05_advertising_week": {
-      "title": "Advertising Week",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-10-05",
-      "time": "8 AM",
-      "sort": 8,
-      "when": "Mon, 10/05 · 8:00am",
-      "price": "$400",
-      "free": false,
-      "place": "The Penn District, 100 W 33rd St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/dhssdqm/Advertising-Week",
-      "map": "https://maps.google.com/?q=The%20Penn%20District%2C%20100%20W%2033rd%20St",
-      "summary": "Gary's Guide: With Ben Cohen (Founder, Ben & Jerry's), Aude Gandon (CMO, Estee Lauder), Amani Duncan (CEO, My Code), Sabrina Callahan (CMO, Southwest Airlines), Greg Hamilton (CMO, Little Caesars), John Espley (VP Partnerships, PGA Tour)."
-    },
-    "gary_2026_10_05_brits_in_tech_startups_happy_hour": {
-      "title": "Brits In Tech & Startups - Happy Hour",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-10-05",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 10/05 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/w42l0cq/Brits-In-Tech-Startups-Happy-Hour",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: in You're a Brit in Tech & in New York! Step this way...nThere are never enough opportunities to bring everyone together, come share / learn & collaborate with your peers & allies, changing the world from both sides of the pond.nThis is a no pressure, no agenda, just an informal night to support incredible founders & tech leaders working on the next big thing.n Drinks: Cash bar (Unless you'd love to sponsor...)nIf space gets tight, we will prioritise folks building their own startups, & c-suite execs at Tech companies.n Host:nThe Knowledge Shop is the founder community in NYC. We are industry & stage agnostic, helping not just startups grow, but supporting the founders building them.nCharity Partner:nThe St George's Society of New York, provides life-changing support to immigrants from Britain & the Commonwealth in New York. Established in 1770, we're the second-oldest charity in the city. We hold events year round - join us for Pancake day nn Find even more Tech events at: www.foundereventsnyc.com"
-    },
-    "gary_2026_10_05_embodied_ai": {
-      "title": "Embodied AI",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-10-05",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 10/05 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/vmkp975/Embodied-AI",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Pedro Piacenza (CEO, Tangent Robotics), Sebastian Marino (CTO, Monumental Labs)."
     },
     "gary_2026_10_06_unique_ai_presents_new_ai_teammates": {
       "title": "Unique AI Presents - New AI Teammates",
@@ -1235,6 +1185,40 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Invitation only 15 seats Approval required For leaders of Series A+ startups building proprietary AI models, with a select number of seats reserved for investors. This is a roundtable, not a panel: everyone at the table is welcome to bring opinions. Some of the investors in the room: Merck Global Health Innovation Fund (GHI Fund) Presidio Ventures (Sumitomo Corporation) Morgan Stanley Ventures Lab Description: When AI compresses engineering cycles from months to days, the scarcest thing in a startup is no longer the ability to build. It's knowing what to build, for whom, & how to win when everyone can ship. That shift rewrites the founder's job. Moats move from code to data, distribution, & judgment. Team shapes change. Capital efficiency changes what \"venture scale\" even means. The playbooks most of us learned are quietly going out of date, & the new ones are being written right now, by the people in rooms like this one. The evening: Dinner & conversation with a curated table of ~15 founders, operators, & investors. Exceptional wines, thoughtfully curated cuisine, & original artwork. Guests will experience a thoughtfully curated progression of refined dishes, premium selections, & seasonal ingredients, accompanied by Cava Brut & Ros, Petit Chablis, & Malbec. The evening concludes with an exclusive dessert pairing & the Signature Cocktail, a bespoke finale to the experience. What we'll get into: What's newly easy, what's suddenly hard, & what that does to the first 18 months of a company Where defensibility actually lives when software is cheap How team composition & hiring change when one builder does the work of five What the next generation of founder playbooks will look like House rules: Off the record. No slides, no pitches, no recording. Come with a point of view."
     },
+    "gary_2026_10_08_offscript_night_of_improv_for_series_a_founders_thei": {
+      "title": "Offscript - Night Of Improv For Series A+ Founders & Their Teams",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 10/08 · 6:00pm",
+      "price": "$40",
+      "free": false,
+      "place": "The Resident Flatiron, 115 E 23rd St, 5th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/7x7gek0/Offscript-Night-Of-Improv-For-Series-A-Founders-Their-Teams",
+      "map": "https://maps.google.com/?q=The%20Resident%20Flatiron%2C%20115%20E%2023rd%20St%2C%205th%20Fl",
+      "summary": "Gary's Guide: Get comfortable being uncomfortable. OffScript is a night of improv built for Series A teams. Bring your team to get thrown off on purpose, & practice reacting instead of reciting. Prepare for the moment, mid-meeting, where the plan falls apart & you just have to... go. What to expect: Improv games built for founders & teams Group & breakout exercises that surface how you & your team think under pressure Drinks, conversation, & a room full of people who get it Hosted each month by a performer from NYC's comedy & improv scene"
+    },
+    "gary_2026_10_08_alternative_data_happy_hour": {
+      "title": "Alternative Data Happy Hour",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "9:45 PM",
+      "sort": 21.75,
+      "when": "Thu, 10/08 · 9:45pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/e189u0k/Alternative-Data-Happy-Hour",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Jordan Hauer (Founder/CEO, Amass Insights)."
+    },
     "luma_2026_10_06_product_leader_collective_presents_the_software_fact": {
       "title": "Product Leader Collective presents: The Software Factory Debate",
       "type": "tech",
@@ -1337,57 +1321,6 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Events, Forever 22, Google DeepMind, Betaworks, Kaya Jones"
     },
-    "nyu_tandon_2026_10_05_the_cortex_and_pain_from_preclinical_to_human_studie": {
-      "title": "The Cortex and Pain: From Preclinical to Human Studies",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Mon",
-      "date": "2026-10-05",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Mon, 10/05 · 11:00 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/10/05/cortex-and-pain-preclinical-human-studies",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_10_05_from_network_dynamics_to_market_dynamics_understandi": {
-      "title": "From Network Dynamics to Market Dynamics: Understanding and Coordinating Future Power Systems",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Mon",
-      "date": "2026-10-05",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Mon, 10/05 · 11:00 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/10/05/network-dynamics-market-dynamics-understanding-and-coordinating-future-power",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_10_05_research_seminar_gourab_ghoshal": {
-      "title": "Research Seminar: Gourab Ghoshal",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Mon",
-      "date": "2026-10-05",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Mon, 10/05 · 1:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/10/05/research-seminar-gourab-ghoshal",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
     "nyu_tandon_2026_10_08_from_blood_to_brain_to_skin_continuous_multi_bioflui": {
       "title": "From Blood to Brain to Skin: Continuous Multi-Biofluid Monitoring with Microfluidic and Microneedle Biosensors",
       "type": "tech",
@@ -1453,6 +1386,74 @@
       "place": "NYU Tandon / Online",
       "source": "NYU Tandon",
       "link": "https://engineering.nyu.edu/events/2026/10/14/machine-learning-discovery-deciphering-rna-splicing-logic",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_10_14_creativity_through_flexibility_book_talk_with_kelsey": {
+      "title": "Creativity Through Flexibility | Book Talk with Kelsey Nanan (CUSP ’21)",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Wed",
+      "date": "2026-10-14",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Wed, 10/14 · 12:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/14/creativity-through-flexibility-book-talk-kelsey-nanan-cusp-21",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_10_15_urban_science_ph_d_colloquium_syed_barizuddin": {
+      "title": "Urban Science Ph.D. Colloquium: Syed Barizuddin",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "time": "11:30 AM",
+      "sort": 11.5,
+      "when": "Thu, 10/15 · 11:30 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/15/urban-science-phd-colloquium-syed-barizuddin",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_10_16_cell_signaling_by_design_mechanics_proteases_and_tra": {
+      "title": "Cell Signaling by Design: Mechanics, Proteases, and Translational Control",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Fri",
+      "date": "2026-10-16",
+      "time": "10:45 AM",
+      "sort": 10.75,
+      "when": "Fri, 10/16 · 10:45 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/16/cell-signaling-design-mechanics-proteases-and-translational-control",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_10_19_stem_cell_derived_human_corneal_organoid_model_advan": {
+      "title": "Stem-cell derived human corneal organoid model - advances and challenges in its use as a corneal surrogate",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Mon",
+      "date": "2026-10-19",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Mon, 10/19 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/19/stem-cell-derived-human-corneal-organoid-model-advances-and-challenges-its-use",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
@@ -1909,10 +1910,6 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_10_05_6_pm": [
-      "gary_2026_10_05_brits_in_tech_startups_happy_hour",
-      "gary_2026_10_05_embodied_ai"
-    ],
     "cluster_2026_10_06_5_pm": [
       "gary_2026_10_06_product_leader_collective_the_software_factory_debat",
       "gary_2026_10_06_teaching_america_screening_discussion"
@@ -1975,9 +1972,9 @@
       "gary_2026_10_08_surviving_the_2_00_am_automated_job_rejection",
       "gary_2026_10_08_ending_hallucination_tax_governing_backbone_of_enter"
     ],
-    "cluster_2026_10_05_11_am": [
-      "nyu_tandon_2026_10_05_the_cortex_and_pain_from_preclinical_to_human_studie",
-      "nyu_tandon_2026_10_05_from_network_dynamics_to_market_dynamics_understandi"
+    "cluster_2026_10_08_6_pm": [
+      "gary_2026_10_08_the_ai_founder_playbook_rewritten",
+      "gary_2026_10_08_offscript_night_of_improv_for_series_a_founders_thei"
     ]
   }
 }
