@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 6, 2026, 12:59 PM EDT",
+    "checked": "Oct 6, 2026, 7:12 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1253,6 +1253,23 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: beehiiv, beehiiv, Connie Yao, Francis Zierer"
     },
+    "luma_2026_10_08_founders_breakfast_club_with_compai": {
+      "title": "Founders Breakfast Club with CompAI",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Thu, 10/08 · 2pm",
+      "price": "Free",
+      "free": true,
+      "place": "Corgi Cafe",
+      "source": "Luma NYC",
+      "link": "https://luma.com/2sn6j3r7",
+      "map": "https://maps.google.com/?q=Corgi%20Cafe%20NYC",
+      "summary": "Luma NYC: Corgi NYC, Maddie, Patrick Onusko, jamie, Abril Zucchi, Linda"
+    },
     "luma_2026_10_08_reactor_x_google_world_models_hackathon": {
       "title": "Reactor x Google: World Models Hackathon",
       "type": "tech",
@@ -1303,23 +1320,6 @@
       "link": "https://luma.com/f9om9e1q",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Tech@NYU, Pope Cruz, Jenn, Charice Huang, Tech@NYU"
-    },
-    "luma_2026_10_10_the_new_agentic_economy_hackathon": {
-      "title": "The New Agentic Economy Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-10-10",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 10/10 · 1pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/1ofx14ov",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Events, Forever 22, Google DeepMind, Betaworks, Kaya Jones"
     },
     "nyu_tandon_2026_10_08_from_blood_to_brain_to_skin_continuous_multi_bioflui": {
       "title": "From Blood to Brain to Skin: Continuous Multi-Biofluid Monitoring with Microfluidic and Microneedle Biosensors",
@@ -1473,6 +1473,23 @@
       "link": "https://jerseycityculture.org/event/italian-american-flag-raising-ceremony-2026/",
       "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
+    },
+    "jc_culture_44314_2026_10_06_smush_gallery_regular_paper_launch_party_2026": {
+      "title": "SMUSH Gallery REGULAR PAPER Launch Party 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Tue",
+      "date": "2026-10-06",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Tue, 10/06 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/smush-gallery-regular-paper-launch-party-2026/",
+      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_10003571_2026_10_07_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -1934,7 +1951,8 @@
       "gary_2026_10_06_scene_by_scene_brand_relevance_video_ai_next_era_of_",
       "gary_2026_10_06_ai_enabled_services_founder_dinner",
       "gary_2026_10_06_the_new_reach_how_creators_are_growing_w_ai_audio_to",
-      "gary_2026_10_06_an_unmuted_debate_money_in_politics"
+      "gary_2026_10_06_an_unmuted_debate_money_in_politics",
+      "jc_culture_44314_2026_10_06_smush_gallery_regular_paper_launch_party_2026"
     ],
     "cluster_2026_10_07_2_pm": [
       "gary_2026_10_07_sovereign_ai_at_application_layer_enterprise_finance",
@@ -1958,6 +1976,7 @@
     ],
     "cluster_2026_10_08_2_pm": [
       "gary_2026_10_08_horizons_ai_digital_innovation",
+      "luma_2026_10_08_founders_breakfast_club_with_compai",
       "luma_2026_10_08_reactor_x_google_world_models_hackathon"
     ],
     "cluster_2026_10_08_4_pm": [
