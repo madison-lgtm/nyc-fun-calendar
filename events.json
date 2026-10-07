@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 7, 2026, 1:36 PM EDT",
+    "checked": "Oct 7, 2026, 7:42 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -252,13 +252,13 @@
       "3 PM",
       "3:30 PM",
       "4 PM",
+      "4:30 PM",
       "5 PM",
       "5:30 PM",
       "6 PM",
       "6:30 PM",
       "7 PM",
       "7:30 PM",
-      "8 PM",
       "9:45 PM",
       "10 PM",
       "10:30 PM"
@@ -452,6 +452,23 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
+    "gary_2026_10_07_openart_presents_the_creative_ai_exchange": {
+      "title": "OpenArt Presents: The Creative AI Exchange",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-10-07",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Wed, 10/07 · 9:00am",
+      "price": "Free",
+      "free": true,
+      "place": "One World Trade Center, 285 Fulton St, 72andSunny  66th Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/d7zsah9/OpenArt-Presents-The-Creative-AI-Exchange",
+      "map": "https://maps.google.com/?q=One%20World%20Trade%20Center%2C%20285%20Fulton%20St%2C%2072andSunny%20%2066th%20Fl",
+      "summary": "Gary's Guide: With Kevin Swanepoel (CEO, The One Club for Creativity), Bonin Bough (Founder & CSO, Portrait Media Group), Raj Gajwani (Chief Business Officer, OpenArt AI)."
+    },
     "gary_2026_10_07_pmai_creativity_business_problems_in_age_of_ai": {
       "title": "PMAI - Creativity & Business Problems In Age Of AI",
       "type": "tech",
@@ -519,6 +536,23 @@
       "link": "https://www.garysguide.com/events/7rkmg30/Forum-Ventures-Accelerator-Info-Session-Winter-2027-Cohort",
       "map": "https://maps.google.com/?q=Venue%2C%20Online",
       "summary": "Gary's Guide: Thinking about applying to Forum Ventures' accelerator? Get your questions answered before you hit submit. Applications for Forum Ventures' Winter 2027 cohort are open now, with investment decisions happening through Q4 2026 & the program kicking off in January 2027.What to ExpectJoin Leandra Elberger, Head of Platform at Forum Ventures, for a short overview of the accelerator followed by an open Q&A. Leandra works directly with founders in every cohort & knows what the program looks like from the inside. You'll learn how the program works, what support you get, & what we look for in the founders we back. Then the floor is yours.Questions We'll CoverWhat does the accelerator actually include, week to week?What does the application process look like, & how are decisions made?What makes a strong application, & what do founders often miss?How do you know if you're ready for an accelerator?What kind of B2B & AI companies are a fit for Forum?What happens after the program ends?Who Should AttendPre-seed B2B & AI founders who are considering applying to the Winter 2027 cohort, or who want to understand if Forum is the right fit.About Forum VenturesForum Ventures backs B2B founders at the very start of the journey. $100K investment, hands-on support, & a partner who believes in you before you have all the answers. If you're building something, learn more at https://www.forumvc.com/accelerator"
+    },
+    "gary_2026_10_07_aaaw_agentic_advertising_at_work": {
+      "title": "AAAW  Agentic Advertising At Work",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-10-07",
+      "time": "4:30 PM",
+      "sort": 16.5,
+      "when": "Wed, 10/07 · 4:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Lightbox, 248 W 37th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ztzwbfu/AAAW-Agentic-Advertising-At-Work",
+      "map": "https://maps.google.com/?q=Lightbox%2C%20248%20W%2037th%20St",
+      "summary": "Gary's Guide: See TV reach its next level. AAAW is an event for the people actually doing the work: which task the agents took over, what failed at first, what it cost, & what the team did with the hours it returned. Every vendor in advertising has shipped an AI story in the last eighteen months. Few agree on what it replaces, what it augments, or who is accountable for the outcome. The format favours proof over opinion. One product demonstration, because a question about what agents actually do is better answered by watching one run. Three round tables with practitioners who operate this in production rather than vendors presenting a roadmap. And a guest list weighted towards the buy side."
     },
     "gary_2026_10_07_plug_play_x_pmai_hackathon_rapid_response": {
       "title": "Plug&Play x PMAI Hackathon - Rapid Response",
@@ -639,6 +673,23 @@
       "map": "https://maps.google.com/?q=Lincoln%20Center%2C%2010%20Lincoln%20Center%20Plaza%2C%20David%20Geffen%20Hall",
       "summary": "Gary's Guide: With founders Adam Goldberg (Popup bagels), Adam Singolda (Taboola), Henry Schuck (ZoomInfo), Dooley Tombras (President, Tombras), Ashley Travis (Head of Growth Mktg, Pizza Hut), Imran Khan (Chief Investment Officer, Proem)."
     },
+    "gary_2026_10_08_table_breakfast_for_scaling_founders": {
+      "title": "Table: Breakfast For Scaling Founders",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "8 AM",
+      "sort": 8,
+      "when": "Thu, 10/08 · 8:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/utfh5sv/Table-Breakfast-For-Scaling-Founders",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: From Challenge to Clarity: Real Solutions for Founders The session will be facilitated by Table & hosted by JPMorganChase Innovation Economy in New York. This is a highly interactive session designed to help you make real progress on your most pressing challenges. Together, we will: Turn your current startup challenge into clear, actionable next steps Tackle common obstacles such as fundraising, product-market fit, pricing, leadership, & growth Leverage peer insights with others in the startup ecosystem Move quickly from topic selection to focused, five-minute discussions Gain new perspectives & insights, & meaningful connections Table is a community of 1,400+ founders, operators, advisors, & investors. This session complements our monthly events, where founders pressuretest ideas, swap playbooks, & move forward. J.P. Morgan's Innovation Economy Banking is a dedicated global platform that supports startups, high-growth companies, venture capital (VC) firms, & founders from the seed stage through to an IPO & beyond. Photos by Mamadou Ciss"
+    },
     "gary_2026_10_08_elastic_on": {
       "title": "Elastic{On}",
       "type": "startup",
@@ -672,6 +723,23 @@
       "link": "https://www.garysguide.com/events/cll9po9/NYC-Fintech-Coffee",
       "map": "https://maps.google.com/?q=HSBC%2C%2066%20Hudson%20Yards",
       "summary": "Gary's Guide: NYC Fintech Coffee, hosted by This Week in Fintech & HSBC, is an event for Fintech founders, investors & enthusiasts to gather around & talk everything Fintech. This is a no-agenda event, just drop by to make new Fintech friends over breakfast. See you there! Please note - Given the demand & limited capacity, registration & approval are required for attendance! By registering for this event, you will be added to This Week in Fintech's email newsletter, which may include updates about future events, products, & services. You can unsubscribe at any time using the link in any email we send, or by contacting us at support@thisweekinfintech.com. For California residents, under the CCPA, you have the right to know what personal information we collect, request its deletion, & opt out of its sale (we do not sell personal information). To exercise these rights, contact us at support@thisweekinfintech.com or visit our Privacy Policy."
+    },
+    "gary_2026_10_08_agentic_security_roadshow_microsoft_soho": {
+      "title": "Agentic Security Roadshow @ Microsoft SoHo",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "11:30 AM",
+      "sort": 11.5,
+      "when": "Thu, 10/08 · 11:30am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/g8omm28/Agentic-Security-Roadshow-Microsoft-SoHo",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: See how AI agents move security operations from alert overload to autonomous action on the Microsoft stack you already own.Join TENEX.AI + Microsoft live in NYC for The Agentic Security Roadshow to see how AI agents triage 100% of alerts and clear 98% of false positives directly on your existing Microsoft Sentinel & Defender telemetry.What to expect:Live Agentic SOC Demo: Triage alerts in \\u003c60 secondsMicrosoft Experts: Deep dive into the current threat landscapeHands-On CTF: Simulated intrusion challenge + awardsPeer Networking: Free lunch & closing happy hour When: Thursday, Oct. 8 | 11:30 AM 5:00 PM ET Where: Microsoft SoHo (300 Lafayette St, NYC)Seats are limited for the New York stop, reserve yours today! P.S. $25 gift card for attendees to cover your Uber or your boss' lunch for letting you skip work for the afternoon ;) See you there!"
     },
     "gary_2026_10_08_super_innovation_strategic_growth_summit": {
       "title": "Super Innovation & Strategic Growth Summit",
@@ -723,6 +791,23 @@
       "link": "https://www.garysguide.com/events/ta3zu38/Revolutionizing-Healthcare-w-AI-Powered-Devices",
       "map": "https://maps.google.com/?q=Venue%2C%201300%20York%20Ave",
       "summary": "Gary's Guide: Weill Cornell Medicine's Bioventure eLab."
+    },
+    "gary_2026_10_08_break_it_fix_it_prove_it_the_agentic_data_recovery_w": {
+      "title": "Break It, Fix It, Prove It: The Agentic Data Recovery Workshop",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Thu, 10/08 · 4:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "LOFT39, 38 W 39th St, 5th Fl Loft",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/z5t1jmu/Break-It-Fix-It-Prove-It-The-Agentic-Data-Recovery-Workshop",
+      "map": "https://maps.google.com/?q=LOFT39%2C%2038%20W%2039th%20St%2C%205th%20Fl%20Loft",
+      "summary": "Gary's Guide: Ever wanted to be handed a sandbox where it's safe to break things on purpose? Curious about how to use AI agents to investigate & fix real data incidents? You belong at Break It, Fix It, Prove It: a hands-on workshop built to prepare you for ransomware, recovery, & so much more. In this workshop, you'll: Learn how to run agents securely in Bedrock Agentcore runtime Deploy an end-to-end ransomware recovery workflow on your own laptop Learn about Agentic security best practices, & how to put a human in the loop You'll also hear from peers about how they're navigating agent disruption, testing restores, & juggling their work across regions & clouds. To cap off the workshop, we'll celebrate on a private rooftop with an open bar, plenty of food, & great company. Spaces at this hands-on workshop are limited, so register now to save your spot."
     },
     "gary_2026_10_08_aws_apress_technical_publishing_in_the_ai_age": {
       "title": "AWS & Apress - Technical Publishing In The AI Age",
@@ -826,6 +911,40 @@
       "map": "https://maps.google.com/?q=The%20Resident%20Flatiron%2C%20115%20E%2023rd%20St%2C%205th%20Fl",
       "summary": "Gary's Guide: Get comfortable being uncomfortable. OffScript is a night of improv built for Series A teams. Bring your team to get thrown off on purpose, & practice reacting instead of reciting. Prepare for the moment, mid-meeting, where the plan falls apart & you just have to... go. What to expect: Improv games built for founders & teams Group & breakout exercises that surface how you & your team think under pressure Drinks, conversation, & a room full of people who get it Hosted each month by a performer from NYC's comedy & improv scene"
     },
+    "gary_2026_10_08_build_ai_search_that_finds_the_right_answer": {
+      "title": "Build AI Search That Finds The Right Answer",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 10/08 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Fractal NYC, 111 Conselyea St, 2nd Fl, Brooklyn",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/pi5hutz/Build-AI-Search-That-Finds-The-Right-Answer",
+      "map": "https://maps.google.com/?q=Fractal%20NYC%2C%20111%20Conselyea%20St%2C%202nd%20Fl%2C%20Brooklyn",
+      "summary": "Gary's Guide: Stop pasting whole documents into your prompts. Your AI is only as good as the info you feed it. Dumping huge files wastes money & memory. In this hands-on workshop, you'll split big documents into useful pieces, search thousands of pages in milliseconds, & give your app a memory that stays sharp over long conversations. What you'll do: Smart splitting: break big documents into pieces without losing meaning Fast search: find the exact answer across thousands of pages Hands-on lab: build a working search pipeline on real NYC public data Some coding experience needed. This is about applied engineering, not starting from scratch. New? Jump in anytime. Every class starts with a quick recap, so you won't be lost. Free. Join in person or on Zoom. Joining virtually? Live stream: https://us06web.zoom.us/s/84280401788 Part of the AI Architect Fellowship, a free program from 3percentclub for underrepresented builders in NYC. Applying to the fellowship gets you: Access to our Google Classroom for labs & coursework Mentorship from working AI practitioners Resume workshops Our Discord community A shot at the October hackathon & Demo Night Sign up: https://forms.fillout.com/t/p52mmdNs8jus"
+    },
+    "gary_2026_10_08_building_at_the_frontier_hypergrowth_startup_operato": {
+      "title": "Building At The Frontier: Hypergrowth Startup Operator Panel",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 10/08 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Columbia University, 116th and Broadway",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ylwef0j/Building-At-The-Frontier-Hypergrowth-Startup-Operator-Panel",
+      "map": "https://maps.google.com/?q=Columbia%20University%2C%20116th%20and%20Broadway",
+      "summary": "Gary's Guide: With Johnathan Bridges (Founding Marketing, Antimetal), Brian Zhou (Engineer, Cognition), Ella Colby (MTS, Rogo), Matt Garcia (Business Operations & Strategy Lead, Tennr), Justine Mach (President, CORE), Antonio Warren (Senior Associate, Bleecker Street)."
+    },
     "gary_2026_10_08_alternative_data_happy_hour": {
       "title": "Alternative Data Happy Hour",
       "type": "tech",
@@ -911,6 +1030,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Now that fall is in full swing, we're opening back up our NYC office doors for an operator & future founder co-working day with Antler Frontier & Brex. Take a Friday out of your usual routine & into a room full of people building interesting things. Bring your laptop & set up shop with us for the day. Good wifi, good coffee, low-fi focus music, & a room full of operators, builders, & founders getting things done. No pitches, no panels, just a great space & great company. Details: Friday, October 9th, 11AM-4PM What's included: Coffee & snacks (thanks Brex!), wifi, a dedicated spot to work Dress: Casual (obviously) About Antler Frontier: Antler Frontier is a community & collection of events for operators, builders, & future founders shaping the future. About Brex: Brex is the financial stack that scales with you, from incorporation to IPO. Manage all your company spending & vendor payments from a single dashboard, including credit card, bill pay, & reimbursements, all while extending your runway with a high-yield business accounts & enjoy 20x higher credit limit, community events, & exclusive rewards that help your business grow."
     },
+    "gary_2026_10_09_roast_my_pitch_for_colosseum_hackathon_submissions": {
+      "title": "Roast My Pitch (for Colosseum Hackathon Submissions)",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-10-09",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Fri, 10/09 · 12:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Solana Skyline, 141 E Houston St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/9zg0uzp/Roast-My-Pitch-for-Colosseum-Hackathon-Submissions",
+      "map": "https://maps.google.com/?q=Solana%20Skyline%2C%20141%20E%20Houston%20St",
+      "summary": "Gary's Guide: Colosseum's Crypto World's Fair submissions close Monday, Oct 12. Before the final weekend push, bring your pitch to Skyline & get feedback while you can still fix it. 3 min pitches SIGN UP HERE TO PRESENT YOUR PROJECT Not pitching? Come anyway. There will be coffee, snacks & plenty of roasting to help with."
+    },
     "gary_2026_10_10_new_agentic_economy_hackathon": {
       "title": "New Agentic Economy Hackathon",
       "type": "tech",
@@ -944,6 +1080,23 @@
       "link": "https://www.garysguide.com/events/c4s0ttv/NYC-Women-Founders-Coffee",
       "map": "https://maps.google.com/?q=Capital%20One%20Cafe%2C%20555%20Broadway",
       "summary": "Gary's Guide: Meet fellow NYC women founders & entrepreneurs over coffee. Make new connections & grow your founder network in a relaxed, welcoming setting. Hosted by New York Female Founders (NYFF). 11:00 AM to 12:30 PM."
+    },
+    "gary_2026_10_10_hackathon_build_multiplayer_data_science_agents_aiwe": {
+      "title": "Hackathon: Build Multiplayer Data Science Agents - #AIWeekNY",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sat",
+      "date": "2026-10-10",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Sat, 10/10 · 11:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, 307 W 38th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/rnb42l6/Hackathon-Build-Multiplayer-Data-Science-Agents-AIWeekNY",
+      "map": "https://maps.google.com/?q=Venue%2C%20307%20W%2038th%20St",
+      "summary": "Gary's Guide: Ready to build the future of AI-driven data science? CASTGNY collaborates with PyMC Labs to kick off an intensive, hands-on hackathon during #AIWeekNY focused on solving real-world data problems using autonomous AI agents. In this challenge-driven hackathon, teams will tackle end-to-end data science problems, spanning exploratory analysis, statistical modeling, & automated reporting. You will choose from a set of real-world data challenges & build complete analytical solutions using Daimon (PyMC Labs' open-source data science agent) as your AI copilot & assistant. We will kick off with a live walkthrough on how to leverage AI agents for complex data workflows, followed by the reveal of Daimon's newest library capabilities. From there, you will pick your challenge, team up, & build end-to-end data pipelines & agentic tools from scratch. Challenge tracks, prizes, & judges have been announced. Explore the full challenge details, tracks, judging criteria, prizes, & submission requirements on Daimon hackathon page. Time: 11:00 AM - 4:00 PM Agenda: 11:00 AM - 11:30 AM: Doors Open, Registration, Team Formation & Coffee 11:30 AM - 12:00 PM: Briefing: AI for Data Science & Unveiling Daimon's New Capabilities 12:00 PM - 1:30 PM: Building Session 1:30 PM - 2:30 PM: Lunch Break (Pizza provided) & Judges Preview 2:30 PM - 3:30 PM: Demos, Results, Closing Notes & Networking 4:00 PM: Event Concludes Whether you are an open-source maintainer, ML engineer, data scientist, or developer curious about agentic workflows, this hackathon is your opportunity to build with next-generation collaborative AI. This event is part of #AIWeekNY by Pulse NYC - a community-led festival celebrating innovation across the AI ecosystem. More at https://pulse.nyc/ai-week/"
     },
     "gary_2026_10_10_latinos_x_ai_hackathon": {
       "title": "Latinos x AI Hackathon",
@@ -979,6 +1132,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Jason (Founder/CEO, CrowdCent), Nick (Founder/CEO, Allora Labs), Matteo (Co-Founder/CEO, Orion Finance)."
     },
+    "gary_2026_10_11_ai_engineer_new_york_hackathon": {
+      "title": "AI Engineer New York Hackathon",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sun",
+      "date": "2026-10-11",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Sun, 10/11 · 9:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/tm6uody/AI-Engineer-New-York-Hackathon",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: We are still accepting applications! Apply for the waitlist. --------------------- Spend a day building at the inaugural AI Engineer NYC Hackathon! Join AI Engineer & Major League Hacking (MLH) on Sunday, October 11, for a full day of building, experimenting, & meeting fellow AI engineers. Explore new developer tools, get hands-on support from our team of mentors, & perhaps build that side project you've been thinking about. You can come with or without a project idea, & with or without a team. We'll have a team formation activity & plenty of mentors to help you brainstorm if you aren't sure what you want to build. What to expect Time to build, experiment, & iterate on your project Opportunities to meet other AI engineers & share ideas Project demos & prizes Mentors to help you debug, brainstorm, & work through technical challenges Free food & drinks, including an evening happy hour Details Sunday, October 11, 2026 9 AM-9 PM - we'll share a full schedule with you before the event. 9th & 31st in Manhattan, New York. Register for the exact address! Free to participate Bring your laptop & your curiosity. We'll provide the food, drinks, mentors, & a community to build with!"
+    },
     "gary_2026_10_11_ai_engineer_kids_day": {
       "title": "AI Engineer Kids Day",
       "type": "tech",
@@ -1013,193 +1183,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join us in New York for a small private dinner during AI Engineer NYC. The room is for senior operators in financial services who are already shipping AI. Expect an intentionally unstructured evening with great food, incredible views, & insightful conversations with peers. Space is limited. Registration by invite only. This event is hosted by: Arize AI - Arize gives AI teams the observability & evals to understand agent behavior, measure quality, & run a continual learning loop that turns production signals into better agents. It covers the full AI engineering lifecycle, development through production, & spans the open-source Phoenix project & the managed Arize AX platform. AWS - Amazon Web Services is the world's most comprehensive & broadly adopted cloud. It offers a wide range of compute, storage, & AI services that organizations use to build, deploy, & scale applications."
     },
-    "gary_2026_10_12_b2b_ai_founders_investors_meetup": {
-      "title": "B2B AI Founders & Investors Meetup",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-10-12",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 10/12 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/zfbaeyc/B2B-AI-Founders-Investors-Meetup",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: NYC B2B is the premier community for B2B Founders, Operators, & Investors in NYC. NYC B2B often hosts happy hour events for founders, builders, & investors based in NYC.This is an exclusive event for B2B AI founders & investors.Want to sponsor future events? Email: newyorkcityventures@gmail.comThis meetup is hosted by NYC B2B. Its a great way to meet other founders, builders, & investors. Whether youre building a company, exploring a side project, or considering a new idea, we would love to have you here. NYC B2B has previously hosted events for thousands of B2B startup founders + operators in NYC across Vertical SaaS, AI, FinTech, Healthcare, DevTools, Infrastructure, & more.By signing up, you are confirming your interest in hearing about more events from NYC B2B in the future via email! NYC B2B also helps connect those who sign up with awesome partners.Note: This is a 21+ event. Please let our team know in advance if youd like to bring a guest, as unregistered +1s will not be admitted. Attendees who disregard this policy may not be invited to future NYC B2B events.Hiring or looking for jobs? startupjobs.nyc"
-    },
-    "gary_2026_10_12_the_age_of_ai_live_recording_of_the_builders": {
-      "title": "The Age Of AI  - Live Recording Of The Builders",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-10-12",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Mon, 10/12 · 8:00pm",
-      "price": "$40",
-      "free": false,
-      "place": "92NY, 1395 Lexington Ave",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/yri1ik8/The-Age-Of-AI-Live-Recording-Of-The-Builders",
-      "map": "https://maps.google.com/?q=92NY%2C%201395%20Lexington%20Ave",
-      "summary": "Gary's Guide: With Mustafa Suleyman (CEO, Microsoft AI), Walter Isaacson (Host, The Builders podcast & best-selling biographer of Steve Jobs, Leonardo da Vinci & Albert Einstein)."
-    },
-    "gary_2026_10_13_empanada_entrepreneurs": {
-      "title": "Empanada Entrepreneurs",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-10-13",
-      "time": "8:30 AM",
-      "sort": 8.5,
-      "when": "Tue, 10/13 · 8:30am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/x2xcz9s/Empanada-Entrepreneurs",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: We're closing out Hispanic Heritage Month with our partners at SVB, & for this one the bagels step aside. Breakfast is empanadas. They come from Nuchas, the empanada company that Ariel, a Latino founder, built right here in New York. The format stays the same: venture-backed founders in one room, coffee, & time to actually talk. Past editions have brought together close to 200 founders from pre-seed to Series E, along with active investors. Registration is curated to keep the room founder-heavy. If you're a venture-backed founder or an active investor, request a spot."
-    },
-    "gary_2026_10_13_tech_x_market_decoders_personal_ai_agents_muse_insti": {
-      "title": "Tech x Market Decoders - Personal AI Agents, Muse, Instinct & Fight For Your Inbox",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-10-13",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Tue, 10/13 · 3:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Online, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/uudsh9k/Tech-x-Market-Decoders-Personal-AI-Agents-Muse-Instinct-Fight-For-Your-Inbox",
-      "map": "https://maps.google.com/?q=Online%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: We decode tech & market signals together, salon-style with a curated group - so you can operate, invest, & decide better. Past attendees have been founders, investors & operators who work in tech or tech-adjacent roles across industries Our Why AI can build a financial model, summarize an earnings call, or map a competitive landscape in seconds. What AI cannot do is connect the dots around what's happening right now - a technology, a trend, a business, an idea, a decision. Or what a moment like that actually signals. That takes human judgment, experience, & taste. The kind you only build by studying real examples, arguing them out loud, & testing your read against people who see it differently than you do. If you want a space to actually grow your thinking IRL & connect with people who match that energy, this is it. That's what Tech x Market Decoders is for. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: Check-in & Intros 15 minutes - decode solo. Quick research time. Dig into the news, the product, the tech, the data. 45 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up You'll leave with a sharper read on the topic than you walked in with, & a few new perspectives you hadn't considered. That's the whole point. This week's topic: Personal AI agents - Muse, Instinct, & the fight for your inbox Meta's new agent Muse hit #1 on the App Store within 10 days of launch, passing ChatGPT - while a much smaller startup, Instinct, is quietly building a following by working entirely through text message, no app required. Both agents now book things, send emails, & make purchases on your behalf, & both have already run into real trust & privacy controversies. We're decoding: Are personal AI agents actually ready to be trusted with your accounts & money? Supporting questions: What's the real difference between \"an agent that acts for you\" & \"a chatbot that answers you\" - & does that difference justify the privacy trade-off? Does Meta's distribution advantage make Muse the inevitable winner, or does Instinct's leaner, invite-only approach have a real shot? What if Google, Apple & others launch personal AI Agents like Muse? Come as you are - operator, investor, builder, or just someone who reads too much tech or business news & wants to discuss with smart people. Prep not required but feel free to do some home research before you arrive if you'd like."
-    },
-    "gary_2026_10_13_navigating_transatlantic_m_a_investments": {
-      "title": "Navigating Transatlantic M&A Investments",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-10-13",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 10/13 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/pea9o5h/Navigating-Transatlantic-M-A-Investments",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With founder/CEOs Benjamin Fabre (DataDome), Olivier Havette (Lenet), Jean-Louis Quguiner (Gladia), Valentine Bleicher (M&A, A&O Shearman)."
-    },
-    "gary_2026_10_13_slides_to_startups_what_comes_after_consulting": {
-      "title": "Slides To Startups - What Comes After Consulting",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-10-13",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Tue, 10/13 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/mckgs1h/Slides-To-Startups-What-Comes-After-Consulting",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With EliseAI."
-    },
-    "gary_2026_10_14_code_coffee_hackathon": {
-      "title": "Code & Coffee Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-10-14",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Wed, 10/14 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 128 Washington St, Newark",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/bsfwq74/Code-Coffee-Hackathon",
-      "map": "https://maps.google.com/?q=Venue%2C%20128%20Washington%20St%2C%20Newark",
-      "summary": "Gary's Guide: Everyone's a builder here: coders, PMs, designers, & the just-curious.Get ready to build something real for Newark! We're taking over Rutgers iHub for a full-day hackathon focused on solving problems that actually matter to the people who call this city home, from water safety to food access to just making city government easier to navigate.Theme:Description:This hackathon challenges participants to pick a real issue facing Newark & build something that actually helps: a tool, an assistant, a dashboard, whatever gets the job done. Teams can dig into problem areas like environmental & water justice, food access, cost of living, or civic transparency, or bring their own idea if they see a sharper angle. Expect AI to play a role in your build, but what we're really looking for is a solution that works. Judging will weigh usefulness & execution as heavily as technical approach.Technical Scope:Participants can use any technical stack they prefer (code-based, no-code, or a mix)Projects must be built from scratch during the hackathon, no prebuilt solutionsTeams are free to choose one of our suggested problem areas or pitch their own. We'll share a few starting points at kickoff, but the direction is yoursJudging Criteria:Relevance & Impact: Does this solve a real, specific problem for Newark residents, & could someone actually use it?Execution: How complete & functional is the prototype, given the short build window?Thoughtful AI Use: How & why did you use AI? A simple, well-executed approach counts; bonus points for teams who push further with multi-step reasoning or tool use where it genuinely fits the problem.Usability & Creativity: Would a non-technical resident actually get it? Does the approach show real originality?Pitch & Clarity: Can you clearly explain the problem, the solution, & who it's for in your demo?Agenda:10:00 10:30 AM | Check-in & NetworkingRegistration, coffee/light breakfast, casual networking10:30 11:00 AM | Welcome & Opening RemarksTheme & judging criteria overview11:00 11:30 AM | Team Formation & Idea PitchesParticipants pitch project ideas, team matchmaking session11:30 AM 4:00 PM | Hacking SessionTeams build prototypes, mentors available for tech & business guidance, lunch break at 1:00 PM4:00 5:00 PM | Project Demos & Pitches35 minute demos from each team, judged by partners & industry reps5:00 5:30 PM | Awards & Closing RemarksWinners announced, closing remarks5:30 6:00 PM | Networking & Wrap-UpInformal mingling with participants, judges, & partners"
-    },
-    "gary_2026_10_14_made_in_korea_k_startup_biz_lunch_mixer": {
-      "title": "Made In Korea - K-Startup Biz Lunch Mixer",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-10-14",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Wed, 10/14 · 11:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/6hd1phc/Made-In-Korea-K-Startup-Biz-Lunch-Mixer",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: K-Startup x NYC Market Connect October 14, 2026 | 11:00 AM-2:00 PM | Manhattan, NY Location: Detailed venue information will be shared upon approval Agenda: 11:00 AM - Check-in | Coffee & Mingle 11:20 AM - Welcome 11:30 AM - 60-Second Startup Introductions 11:45 AM - Lunch Opens & Networking 01:45 PM - Final Connections 02:00 PM - Event Ends What happens when ambitious Korean startups meet the people, businesses, & ideas shaping New York City? Made in Korea. Meet NYC. brings together innovative Korean startups entering the U.S. market with NYC-based founders, business leaders, potential customers/buyers, partners, & ecosystem connectors for an afternoon of meaningful conversations & new connections. This is more than a networking lunch. It is an opportunity to discover new products & technologies, explore potential partnerships, exchange market insights, & connect with companies looking to build their next chapter in the U.S. WHAT TO EXPECT Meet founders building & expanding in the U.S. market Discover new technologies, products, & business solutions Explore potential customer, pilot, distribution, & partnership opportunities Exchange market insights with founders & industry professionals Connect with a curated group of NYC business & ecosystem leaders Come curious. Make a connection. Discover what's next. WHY ATTEND? DiscoverExplore emerging technologies & products entering the U.S. market. ConnectMeet founders & potential customers, partners, & collaborators. ExploreDiscuss pilots, distribution, partnerships, & business opportunities. BuildCreate relationships with companies expanding from Korea into the U.S. WHO SHOULD ATTEND? This event is designed for NYC-based professionals interested in discovering emerging companies & exploring new business opportunities, including: Potential Customers & BuyersOrganizations looking for new products, technologies, or solutions. Strategic & Channel PartnersDistributors, retailers, service providers, & organizations exploring collaboration opportunities. Industry Leaders & OperatorsProfessionals who can offer market insight, introductions, or industry expertise. Corporate Innovation & Business DevelopmentTeams exploring emerging technologies, pilots, & new business models. Founders & Ecosystem LeadersNYC entrepreneurs, accelerators, investors, & community leaders interested in Korean innovation & U.S. market expansion. Review our participating cohort below to identify potential pilots, vendors, or partnership opportunities for your organization: [Meet the Companies] ALLSALE Corp. | AI & Commerce AI-powered software solutions designed to help businesses streamline operations & unlock new opportunities through digital transformation. EMCT | Smart Building & Safety IoT-based smart building monitoring platform that enables real-time fire safety & facility management using existing building infrastructure-helping property teams respond faster while reducing costly upgrades. LUMIO | Beauty & Personal Care Professional haircare brand specializing in color-treated hair, scalp care, & damaged-hair solutions, developed with decades of professional haircare expertise. StyleAI | AI & Fashion Tech AI-powered fashion design workspace that turns sketches into realistic virtual samples, helping fashion brands accelerate design decisions, reduce sampling costs, & bring products to market faster. ZEZEDU | AI & EdTech AI-powered personalized math learning platform that analyzes students' problem-solving processes to deliver individualized feedback, learning recommendations, & classroom management tools. Come curious. Make a connection. Discover what's next. Made in Korea. Meet NYC. [Limited attendance. Registration is subject to approval.] HOSTED BY KISED New York The Korea Institute of Startup & Entrepreneurship Development (KISED) is a Korean government-affiliated organization dedicated to supporting entrepreneurship & the growth of startups. KISED operates programs that help Korean startups develop their capabilities, explore new markets, & build connections with domestic & international business ecosystems. Through its international programs & overseas offices, including the KISED New York Office, KISED supports Korean startups in pursuing global expansion & connecting with opportunities in the U.S. market. OPERATED BY PEN Ventures PEN Ventures is a global accelerator & investment firm supporting startups through investment, acceleration, corporate collaboration, open innovation, & global market-entry programs. With an international network across major innovation hubs, PEN Ventures connects startups with investors, corporations, public institutions, & strategic partners to facilitate business expansion & cross-border collaboration. [LinkedIn:/penventures]"
-    },
-    "gary_2026_10_14_unblocking_agi": {
-      "title": "Unblocking AGI",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-10-14",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Wed, 10/14 · 2:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue,, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ei7luec/Unblocking-AGI",
-      "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Alpaca VC & HSBC."
-    },
-    "gary_2026_10_14_coworking_for_social_entrepreneurs": {
-      "title": "Coworking For Social Entrepreneurs",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-10-14",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Wed, 10/14 · 2:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/4pk9s0h/Coworking-For-Social-Entrepreneurs",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: A weekly gathering where you can join fellow social impact entrepreneurs of all stripes & co-work over coffee & pastries at Anew Caf & Goods.We'll reserve space in the caf for the meeting, please order a drink or pastry. Looking forward to seeing you!Anew is a gathering space & discovery center for the social impact community."
-    },
-    "gary_2026_10_14_ai_ml_lecture_mixer": {
-      "title": "AI/ML Lecture & Mixer",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-10-14",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Wed, 10/14 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Amazon JFK27 Hank, 12 W 39th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/4jocmq9/AI-ML-Lecture-Mixer",
-      "map": "https://maps.google.com/?q=Amazon%20JFK27%20Hank%2C%2012%20W%2039th%20St",
-      "summary": "Gary's Guide: With Zayne Sprague (Courant Inst of Mathematical Sciences)."
-    },
     "luma_2026_10_08_founders_breakfast_club_with_compai": {
       "title": "Founders Breakfast Club with CompAI",
       "type": "startup",
@@ -1233,23 +1216,6 @@
       "link": "https://luma.com/3h1nafmg",
       "map": "https://maps.google.com/?q=315%20Hudson%20St%20NYC",
       "summary": "Luma NYC: Ahmed Ahres, Ahmed Ahres, Michael Carney, Willem Helmet Pickleman"
-    },
-    "luma_2026_10_08_building_at_the_frontier_hypergrowth_startup_operato": {
-      "title": "Building at the Frontier: Hypergrowth Startup Operator Panel",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-10-08",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Thu, 10/08 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "Columbia University",
-      "source": "Luma NYC",
-      "link": "https://luma.com/m2o3zerh",
-      "map": "https://maps.google.com/?q=Columbia%20University%20NYC",
-      "summary": "Luma NYC: CORE, CORE"
     },
     "luma_2026_10_08_design_engineering_panel_where_craft_meets_code": {
       "title": "Design Engineering Panel; Where Craft Meets Code",
@@ -1370,6 +1336,23 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
+    "nyu_tandon_2026_10_15_fre_special_seminar_luhao_zhang": {
+      "title": "FRE Special Seminar: Luhao Zhang",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Thu, 10/15 · 5:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/15/fre-special-seminar-luhao-zhang",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
     "nyu_tandon_2026_10_16_cell_signaling_by_design_mechanics_proteases_and_tra": {
       "title": "Cell Signaling by Design: Mechanics, Proteases, and Translational Control",
       "type": "tech",
@@ -1384,23 +1367,6 @@
       "place": "NYU Tandon / Online",
       "source": "NYU Tandon",
       "link": "https://engineering.nyu.edu/events/2026/10/16/cell-signaling-design-mechanics-proteases-and-translational-control",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_10_19_stem_cell_derived_human_corneal_organoid_model_advan": {
-      "title": "Stem-cell derived human corneal organoid model - advances and challenges in its use as a corneal surrogate",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Mon",
-      "date": "2026-10-19",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Mon, 10/19 · 11:00 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/10/19/stem-cell-derived-human-corneal-organoid-model-advances-and-challenges-its-use",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
@@ -1856,6 +1822,10 @@
       "gary_2026_10_07_queens_ai_innovation_day",
       "gary_2026_10_07_the_creative_entrepreneur_building_a_life_in_creativ"
     ],
+    "cluster_2026_10_08_8_am": [
+      "gary_2026_10_08_zeta_live",
+      "gary_2026_10_08_table_breakfast_for_scaling_founders"
+    ],
     "cluster_2026_10_08_8_30_am": [
       "gary_2026_10_08_elastic_on",
       "gary_2026_10_08_nyc_fintech_coffee"
@@ -1867,6 +1837,7 @@
     ],
     "cluster_2026_10_08_4_pm": [
       "gary_2026_10_08_revolutionizing_healthcare_w_ai_powered_devices",
+      "gary_2026_10_08_break_it_fix_it_prove_it_the_agentic_data_recovery_w",
       "nyu_tandon_2026_10_08_columbia_nyu_financial_engineering_colloquium_graeme"
     ],
     "cluster_2026_10_08_5_pm": [
@@ -1879,24 +1850,17 @@
     ],
     "cluster_2026_10_08_6_pm": [
       "gary_2026_10_08_the_ai_founder_playbook_rewritten",
-      "gary_2026_10_08_offscript_night_of_improv_for_series_a_founders_thei"
+      "gary_2026_10_08_offscript_night_of_improv_for_series_a_founders_thei",
+      "gary_2026_10_08_build_ai_search_that_finds_the_right_answer",
+      "gary_2026_10_08_building_at_the_frontier_hypergrowth_startup_operato"
     ],
     "cluster_2026_10_08_10_pm": [
       "gary_2026_10_08_agents_on_call_live_ai_agents_in_healthcare_ops",
-      "gary_2026_10_08_ai_for_small_business_work_smarter_every_day",
-      "luma_2026_10_08_building_at_the_frontier_hypergrowth_startup_operato"
+      "gary_2026_10_08_ai_for_small_business_work_smarter_every_day"
     ],
-    "cluster_2026_10_12_6_pm": [
-      "gary_2026_10_12_ai_leaders_dinner_w_aws_arize",
-      "gary_2026_10_12_b2b_ai_founders_investors_meetup"
-    ],
-    "cluster_2026_10_14_11_am": [
-      "gary_2026_10_14_made_in_korea_k_startup_biz_lunch_mixer",
-      "nyu_tandon_2026_10_14_machine_learning_for_discovery_deciphering_rna_splic"
-    ],
-    "cluster_2026_10_14_2_pm": [
-      "gary_2026_10_14_unblocking_agi",
-      "gary_2026_10_14_coworking_for_social_entrepreneurs"
+    "cluster_2026_10_10_11_am": [
+      "gary_2026_10_10_nyc_women_founders_coffee",
+      "gary_2026_10_10_hackathon_build_multiplayer_data_science_agents_aiwe"
     ]
   }
 }
