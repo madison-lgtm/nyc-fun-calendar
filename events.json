@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 8, 2026, 1:39 PM EDT",
+    "checked": "Oct 8, 2026, 7:52 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1184,23 +1184,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: K-Startup x NYC Market Connect October 14, 2026 | 11:00 AM-2:00 PM | Manhattan, NY Location: Detailed venue information will be shared upon approval Agenda: 11:00 AM - Check-in | Coffee & Mingle 11:20 AM - Welcome 11:30 AM - 60-Second Startup Introductions 11:45 AM - Lunch Opens & Networking 01:45 PM - Final Connections 02:00 PM - Event Ends What happens when ambitious Korean startups meet the people, businesses, & ideas shaping New York City? Made in Korea. Meet NYC. brings together innovative Korean startups entering the U.S. market with NYC-based founders, business leaders, potential customers/buyers, partners, & ecosystem connectors for an afternoon of meaningful conversations & new connections. This is more than a networking lunch. It is an opportunity to discover new products & technologies, explore potential partnerships, exchange market insights, & connect with companies looking to build their next chapter in the U.S. WHAT TO EXPECT Meet founders building & expanding in the U.S. market Discover new technologies, products, & business solutions Explore potential customer, pilot, distribution, & partnership opportunities Exchange market insights with founders & industry professionals Connect with a curated group of NYC business & ecosystem leaders Come curious. Make a connection. Discover what's next. WHY ATTEND? DiscoverExplore emerging technologies & products entering the U.S. market. ConnectMeet founders & potential customers, partners, & collaborators. ExploreDiscuss pilots, distribution, partnerships, & business opportunities. BuildCreate relationships with companies expanding from Korea into the U.S. WHO SHOULD ATTEND? This event is designed for NYC-based professionals interested in discovering emerging companies & exploring new business opportunities, including: Potential Customers & BuyersOrganizations looking for new products, technologies, or solutions. Strategic & Channel PartnersDistributors, retailers, service providers, & organizations exploring collaboration opportunities. Industry Leaders & OperatorsProfessionals who can offer market insight, introductions, or industry expertise. Corporate Innovation & Business DevelopmentTeams exploring emerging technologies, pilots, & new business models. Founders & Ecosystem LeadersNYC entrepreneurs, accelerators, investors, & community leaders interested in Korean innovation & U.S. market expansion. Review our participating cohort below to identify potential pilots, vendors, or partnership opportunities for your organization: [Meet the Companies] ALLSALE Corp. | AI & Commerce AI-powered software solutions designed to help businesses streamline operations & unlock new opportunities through digital transformation. EMCT | Smart Building & Safety IoT-based smart building monitoring platform that enables real-time fire safety & facility management using existing building infrastructure-helping property teams respond faster while reducing costly upgrades. LUMIO | Beauty & Personal Care Professional haircare brand specializing in color-treated hair, scalp care, & damaged-hair solutions, developed with decades of professional haircare expertise. StyleAI | AI & Fashion Tech AI-powered fashion design workspace that turns sketches into realistic virtual samples, helping fashion brands accelerate design decisions, reduce sampling costs, & bring products to market faster. ZEZEDU | AI & EdTech AI-powered personalized math learning platform that analyzes students' problem-solving processes to deliver individualized feedback, learning recommendations, & classroom management tools. Come curious. Make a connection. Discover what's next. Made in Korea. Meet NYC. [Limited attendance. Registration is subject to approval.] HOSTED BY KISED New York The Korea Institute of Startup & Entrepreneurship Development (KISED) is a Korean government-affiliated organization dedicated to supporting entrepreneurship & the growth of startups. KISED operates programs that help Korean startups develop their capabilities, explore new markets, & build connections with domestic & international business ecosystems. Through its international programs & overseas offices, including the KISED New York Office, KISED supports Korean startups in pursuing global expansion & connecting with opportunities in the U.S. market. OPERATED BY PEN Ventures PEN Ventures is a global accelerator & investment firm supporting startups through investment, acceleration, corporate collaboration, open innovation, & global market-entry programs. With an international network across major innovation hubs, PEN Ventures connects startups with investors, corporations, public institutions, & strategic partners to facilitate business expansion & cross-border collaboration. [LinkedIn:/penventures]"
     },
-    "luma_2026_10_08_reactor_x_google_world_models_hackathon": {
-      "title": "Reactor x Google: World Models Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-10-08",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Thu, 10/08 · 2pm",
-      "price": "Free",
-      "free": true,
-      "place": "315 Hudson St",
-      "source": "Luma NYC",
-      "link": "https://luma.com/3h1nafmg",
-      "map": "https://maps.google.com/?q=315%20Hudson%20St%20NYC",
-      "summary": "Luma NYC: Ahmed Ahres, Ahmed Ahres, Michael Carney, Willem Helmet Pickleman"
-    },
     "luma_2026_10_08_design_engineering_panel_where_craft_meets_code": {
       "title": "Design Engineering Panel; Where Craft Meets Code",
       "type": "tech",
@@ -1422,6 +1405,23 @@
       "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
     },
+    "jc_culture_44349_2026_10_08_noche_de_juegos_community_game_night_2026": {
+      "title": "Noche De Juegos Community Game Night 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-10-08",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Thu, 10/08 · 5:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/noche-de-juegos-community-game-night-2026/",
+      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
+    },
     "jc_culture_10004837_2026_10_08_rent_the_musical": {
       "title": "RENT: The Musical",
       "type": "entertainment",
@@ -1438,6 +1438,23 @@
       "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-08/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+    },
+    "jc_culture_44341_2026_10_09_cafe_con_leche_senior_social_2026": {
+      "title": "Cafe con Leche Senior Social 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-10-09",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Fri, 10/09 · 1pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "JOSEPH CONNERS SENIOR CENTER, 394 CNETRAL AVENUE, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/cafe-con-leche-senior-social-2026/",
+      "map": "https://maps.google.com/?q=JOSEPH%20CONNERS%20SENIOR%20CENTER%2C%20394%20CNETRAL%20AVENUE%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
     },
     "jc_culture_10004838_2026_10_09_rent_the_musical": {
       "title": "RENT: The Musical",
@@ -1728,6 +1745,23 @@
       "map": "https://maps.google.com/?q=HUDSON%20COUNTY%20COMMUNITY%20COLLEGE%20JOURNAL%20SQUARE%20CAMPUS%2C%20161%20NEWKIRK%20STREET%20CULINARY%20CONFERENCE%20CENTER",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
     },
+    "jc_culture_44345_2026_10_24_diwali_on_hudson_2026": {
+      "title": "Diwali on Hudson 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Sat",
+      "date": "2026-10-24",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 10/24 · 12pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Exchange Place, MONTGOMERY ST BETWEEN HUDSON ST. AND GREEN ST.",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/diwali-on-hudson-2026/",
+      "map": "https://maps.google.com/?q=Exchange%20Place%2C%20MONTGOMERY%20ST%20BETWEEN%20HUDSON%20ST.%20AND%20GREEN%20ST.",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor Visual & Performing Arts What's Coming Up?."
+    },
     "jc_culture_44191_2026_10_24_fall_festival_pershing_field_park_2026": {
       "title": "Fall Festival Pershing Field Park 2026",
       "type": "market",
@@ -1883,10 +1917,6 @@
       "gary_2026_10_08_elastic_on",
       "gary_2026_10_08_nyc_fintech_coffee"
     ],
-    "cluster_2026_10_08_2_pm": [
-      "gary_2026_10_08_horizons_ai_digital_innovation",
-      "luma_2026_10_08_reactor_x_google_world_models_hackathon"
-    ],
     "cluster_2026_10_08_4_pm": [
       "gary_2026_10_08_revolutionizing_healthcare_w_ai_powered_devices",
       "gary_2026_10_08_break_it_fix_it_prove_it_the_agentic_data_recovery_w",
@@ -1898,7 +1928,8 @@
     ],
     "cluster_2026_10_08_5_30_pm": [
       "gary_2026_10_08_surviving_the_2_00_am_automated_job_rejection",
-      "gary_2026_10_08_ending_hallucination_tax_governing_backbone_of_enter"
+      "gary_2026_10_08_ending_hallucination_tax_governing_backbone_of_enter",
+      "jc_culture_44349_2026_10_08_noche_de_juegos_community_game_night_2026"
     ],
     "cluster_2026_10_08_6_pm": [
       "gary_2026_10_08_the_ai_founder_playbook_rewritten",
