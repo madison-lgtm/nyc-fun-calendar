@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Oct 8, 2026, 7:52 PM EDT",
+    "checked": "Oct 9, 2026, 1:15 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-10-08",
-        "key": "Thu",
-        "label": "Thu",
-        "date": "Oct 8"
-      },
       {
         "iso": "2026-10-09",
         "key": "Fri",
@@ -45,15 +39,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 14"
+      },
+      {
+        "iso": "2026-10-15",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Oct 15"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-10-08",
-        "key": "Thu",
-        "label": "Thu",
-        "date": "Oct 8"
-      },
       {
         "iso": "2026-10-09",
         "key": "Fri",
@@ -233,9 +227,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 7"
+      },
+      {
+        "iso": "2026-11-08",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Nov 8"
       }
     ],
-    "todayKey": "Thu",
+    "todayKey": "Fri",
     "times": [
       "8 AM",
       "8:30 AM",
@@ -250,7 +250,6 @@
       "2 PM",
       "2:30 PM",
       "3 PM",
-      "3:30 PM",
       "4 PM",
       "5 PM",
       "5:30 PM",
@@ -262,7 +261,7 @@
       "9:30 PM",
       "9:45 PM",
       "10 PM",
-      "10:30 PM"
+      "11 PM"
     ]
   },
   "events": {
@@ -452,6 +451,312 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
+    },
+    "skint_91943_0_metropolitan_postcard_club_show_sale": {
+      "title": "metropolitan postcard club show + sale",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Fri",
+      "date": "2026-10-09",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Fri, 10/09 · + sat (fri 12-6pm, sat 10am-5pm)",
+      "price": "$3 admission",
+      "free": false,
+      "place": "church of the village (greenwich village)",
+      "source": "The Skint",
+      "link": "https://metropolitanpostcardclub.com",
+      "map": "https://maps.google.com/?q=church%20of%20the%20village%20(greenwich%20village)%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri + sat (fri 12-6pm, sat 10am-5pm): metropolitan postcard club show + sale: church of the village (greenwich village). $3 admission."
+    },
+    "skint_91943_1_new_york_african_restaurant_week_food_music_festival": {
+      "title": "new york african restaurant week food + music festival",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-10-09",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Fri, 10/09 · thru sun (12-7pm)",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "restoration plaza (bed-stuy)",
+      "source": "The Skint",
+      "link": "https://www.eventbrite.com/e/2026-new-york-african-restaurant-week-festival--tickets-1986132308199",
+      "map": "https://maps.google.com/?q=restoration%20plaza%20(bed-stuy)%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri thru sun (12-7pm): new york african restaurant week food + music festival: restoration plaza (bed-stuy)."
+    },
+    "skint_91943_2_pee_wee_s_playhouse_pop_up_shop": {
+      "title": "pee-wee’s playhouse pop-up shop",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Fri",
+      "date": "2026-10-09",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Fri, 10/09 · thru sun",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "213 bowery @ rivington st (les)",
+      "source": "The Skint",
+      "link": "https://peeweesplayhouse.shop/",
+      "map": "https://maps.google.com/?q=213%20bowery%20%40%20rivington%20st%20(les)%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri thru sun: pee-wee’s playhouse pop-up shop: 213 bowery @ rivington st (les)."
+    },
+    "skint_91943_3_51st_annual_flatbush_frolic_street_fair": {
+      "title": "51st annual flatbush frolic street fair",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-10-10",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Sat, 10/10 · 11am-6pm (rescheduled from 9/27 due to weather)",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "cortelyou road between ocean ave and coney island ave, brooklyn",
+      "source": "The Skint",
+      "link": "https://www.fdconline.org/news-events/flatbush-frolic-october-10/",
+      "map": "https://maps.google.com/?q=cortelyou%20road%20between%20ocean%20ave%20and%20coney%20island%20ave%2C%20brooklyn%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-6pm (rescheduled from 9/27 due to weather): 51st annual flatbush frolic street fair: cortelyou road between ocean ave and coney island ave, brooklyn."
+    },
+    "skint_91943_4_thrift2death_jersey_city_thrift_market": {
+      "title": "thrift2death jersey city thrift market",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-10-10",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 10/10 · 12-5pm (rescheduled from 9/26 due to weather)",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "grove street path plaza (jersey city)",
+      "source": "The Skint",
+      "link": "https://www.instagram.com/p/DeH7gqZm13x/?img_index=1",
+      "map": "https://maps.google.com/?q=grove%20street%20path%20plaza%20(jersey%20city)%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-5pm (rescheduled from 9/26 due to weather): thrift2death jersey city thrift market: grove street path plaza (jersey city)."
+    },
+    "skint_91943_5_junk_drawer_market": {
+      "title": "junk drawer market",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-10-10",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 10/10 · 12-6pm (rain date 10/17)",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "hive mind books (bushwick)",
+      "source": "The Skint",
+      "link": "https://www.hivemindbooks.com/events/6406220261010",
+      "map": "https://maps.google.com/?q=hive%20mind%20books%20(bushwick)%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-6pm (rain date 10/17): junk drawer market: hive mind books (bushwick)."
+    },
+    "skint_91943_6_bronx_night_market": {
+      "title": "bronx night market",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-10-10",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 10/10 · 12-7pm (season finale)",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "grand concourse at 161st street",
+      "source": "The Skint",
+      "link": "https://www.instagram.com/bronxnightmarket/",
+      "map": "https://maps.google.com/?q=grand%20concourse%20at%20161st%20street%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-7pm (season finale): bronx night market: grand concourse at 161st street. rsvp required."
+    },
+    "skint_91943_7_electrix_vintage_pop_up_fill_a_bag_sale": {
+      "title": "electrix vintage pop-up fill-a-bag sale",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-10-10",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Sat, 10/10 · + sun 11am-7pm",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "the maker’s space (williamsburg), $10/bag",
+      "source": "The Skint",
+      "link": "https://posh.vip/e/electrix-vintage-fillabag-sale-wburg-4",
+      "map": "https://maps.google.com/?q=the%20maker%E2%80%99s%20space%20(williamsburg)%2C%20%2410%2Fbag%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun 11am-7pm: electrix vintage pop-up fill-a-bag sale: the maker’s space (williamsburg), $10/bag."
+    },
+    "skint_91943_8_cozy_and_crafted_bazaar_at_grand_bazaar_nyc": {
+      "title": "cozy and crafted bazaar at grand bazaar nyc",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sun",
+      "date": "2026-10-11",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Sun, 10/11 · 10am-5pm",
+      "price": "Free admission",
+      "free": true,
+      "place": "100 w 77th st at columbus ave (indoors + outdoors)",
+      "source": "The Skint",
+      "link": "https://grandbazaarnyc.org/events/cozy-and-crafted-bazaar/",
+      "map": "https://maps.google.com/?q=100%20w%2077th%20st%20at%20columbus%20ave%20(indoors%20%2B%20outdoors)%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-5pm: cozy and crafted bazaar at grand bazaar nyc: 100 w 77th st at columbus ave (indoors + outdoors). free admission."
+    },
+    "skint_91943_9_the_new_york_mycological_society_s_4th_fungus_festiv": {
+      "title": "the new york mycological society’s 4th fungus festival",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sun",
+      "date": "2026-10-11",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Sun, 10/11 · 11am-4pm",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "the battery",
+      "source": "The Skint",
+      "link": "https://www.newyorkmyc.org/fungus-festival-2026-2/",
+      "map": "https://maps.google.com/?q=the%20battery%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-4pm: the new york mycological society’s 4th fungus festival: the battery."
+    },
+    "skint_91943_10_62nd_annual_hispanic_day_parade": {
+      "title": "62nd annual hispanic day parade",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sun",
+      "date": "2026-10-11",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sun, 10/11 · 12-6pm",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "fifth ave from 44th st to 69th st",
+      "source": "The Skint",
+      "link": "https://latinoworldnews.com/hispanic-day-parade-2026-nyc-s-fifth-avenue-celebration-returns",
+      "map": "https://maps.google.com/?q=fifth%20ave%20from%2044th%20st%20to%2069th%20st%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: 62nd annual hispanic day parade: fifth ave from 44th st to 69th st."
+    },
+    "skint_91943_11_please_knock_presents_fourth_annual_erotic_art_fair": {
+      "title": "please knock presents: fourth annual erotic art fair",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sun",
+      "date": "2026-10-11",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sun, 10/11 · 2-9pm",
+      "price": "$5 admission",
+      "free": false,
+      "place": "tv eye (ridgewood), $5 admission ($20 1pm early entry)",
+      "source": "The Skint",
+      "link": "https://www.eventbrite.com/e/please-knock-presents-ny-erotic-art-fair-2026-tickets-1994950436458",
+      "map": "https://maps.google.com/?q=tv%20eye%20(ridgewood)%2C%20%245%20admission%20(%2420%201pm%20early%20entry)%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 2-9pm: please knock presents: fourth annual erotic art fair: tv eye (ridgewood), $5 admission ($20 1pm early entry)."
+    },
+    "skint_91943_12_trans_art_bazaar": {
+      "title": "trans art bazaar",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sun",
+      "date": "2026-10-11",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Sun, 10/11 · 4-9pm",
+      "price": "$5 suggested",
+      "free": false,
+      "place": "brooklyn community pride center (crown heights), $5 suggested donation",
+      "source": "The Skint",
+      "link": "https://www.lgbtbrooklyn.org/event-details/trans-art-boozar-halloween-night-market",
+      "map": "https://maps.google.com/?q=brooklyn%20community%20pride%20center%20(crown%20heights)%2C%20%245%20suggested%20donation%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 4-9pm: trans art bazaar: brooklyn community pride center (crown heights), $5 suggested donation."
+    },
+    "skint_91943_13_11th_annual_indigenous_peoples_day": {
+      "title": "11th annual indigenous peoples day",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sun",
+      "date": "2026-10-11",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Sun, 10/11 · + mon (sun 10am to mon 12pm)",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "randall’s island",
+      "source": "The Skint",
+      "link": "https://ipdnyc.squarespace.com/",
+      "map": "https://maps.google.com/?q=randall%E2%80%99s%20island%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun + mon (sun 10am to mon 12pm): 11th annual indigenous peoples day: randall’s island."
+    },
+    "skint_91943_14_82nd_annual_columbus_day_parade": {
+      "title": "82nd annual columbus day parade",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Mon",
+      "date": "2026-10-12",
+      "time": "11 PM",
+      "sort": 23,
+      "when": "Mon, 10/12 · 11-3pm",
+      "price": "Free / cheap",
+      "free": true,
+      "place": "fifth ave from 44th st to 72nd st",
+      "source": "The Skint",
+      "link": "https://patch.com/new-york/upper-east-side-nyc/columbus-day-parade-closes-upper-east-side-streets-monday-what-know",
+      "map": "https://maps.google.com/?q=fifth%20ave%20from%2044th%20st%20to%2072nd%20st%20NYC",
+      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon 11-3pm: 82nd annual columbus day parade: fifth ave from 44th st to 72nd st."
+    },
+    "skint_91943_15_15th_new_york_shorts_international_film_festival": {
+      "title": "15th new york shorts international film festival",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-10-09",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Fri, 10/09 · thru 10/15",
+      "price": "$19.99",
+      "free": false,
+      "place": "cinema village (greenwich village), $19",
+      "source": "The Skint",
+      "link": "https://www.nyshorts.net/",
+      "map": "https://maps.google.com/?q=cinema%20village%20(greenwich%20village)%2C%20%2419%20NYC",
+      "summary": "film fests/series. Pulled from The Skint's public article feed: fri thru 10/15: 15th new york shorts international film festival: cinema village (greenwich village), $19.99."
+    },
+    "skint_91943_16_women_in_animation": {
+      "title": "women in animation",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sun",
+      "date": "2026-10-11",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Sun, 10/11 · thru 10/15 women in animation",
+      "price": "$14",
+      "free": false,
+      "place": "anthology film archives (east village), $14 general, $10 seniors/students",
+      "source": "The Skint",
+      "link": "https://www.anthologyfilmarchives.org/film_screenings/series/62063",
+      "map": "https://maps.google.com/?q=anthology%20film%20archives%20(east%20village)%2C%20%2414%20general%2C%20%2410%20seniors%2Fstudents%20NYC",
+      "summary": "film fests/series. Pulled from The Skint's public article feed: sun thru 10/15 women in animation: anthology film archives (east village), $14 general, $10 seniors/students."
+    },
+    "skint_91943_17_14th_architecture_design_film_festival": {
+      "title": "14th architecture + design film festival",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Mon",
+      "date": "2026-10-12",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Mon, 10/12 · thru 10/17 14th architecture + design film festival",
+      "price": "$17",
+      "free": false,
+      "place": "village east by angelika, $17 general, $13 students",
+      "source": "The Skint",
+      "link": "https://adfilmfest.com/adff-ny/",
+      "map": "https://maps.google.com/?q=village%20east%20by%20angelika%2C%20%2417%20general%2C%20%2413%20students%20NYC",
+      "summary": "film fests/series. Pulled from The Skint's public article feed: mon thru 10/17 14th architecture + design film festival: village east by angelika, $17 general, $13 students."
     },
     "gary_2026_10_08_zeta_live": {
       "title": "Zeta Live",
@@ -1184,23 +1489,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: K-Startup x NYC Market Connect October 14, 2026 | 11:00 AM-2:00 PM | Manhattan, NY Location: Detailed venue information will be shared upon approval Agenda: 11:00 AM - Check-in | Coffee & Mingle 11:20 AM - Welcome 11:30 AM - 60-Second Startup Introductions 11:45 AM - Lunch Opens & Networking 01:45 PM - Final Connections 02:00 PM - Event Ends What happens when ambitious Korean startups meet the people, businesses, & ideas shaping New York City? Made in Korea. Meet NYC. brings together innovative Korean startups entering the U.S. market with NYC-based founders, business leaders, potential customers/buyers, partners, & ecosystem connectors for an afternoon of meaningful conversations & new connections. This is more than a networking lunch. It is an opportunity to discover new products & technologies, explore potential partnerships, exchange market insights, & connect with companies looking to build their next chapter in the U.S. WHAT TO EXPECT Meet founders building & expanding in the U.S. market Discover new technologies, products, & business solutions Explore potential customer, pilot, distribution, & partnership opportunities Exchange market insights with founders & industry professionals Connect with a curated group of NYC business & ecosystem leaders Come curious. Make a connection. Discover what's next. WHY ATTEND? DiscoverExplore emerging technologies & products entering the U.S. market. ConnectMeet founders & potential customers, partners, & collaborators. ExploreDiscuss pilots, distribution, partnerships, & business opportunities. BuildCreate relationships with companies expanding from Korea into the U.S. WHO SHOULD ATTEND? This event is designed for NYC-based professionals interested in discovering emerging companies & exploring new business opportunities, including: Potential Customers & BuyersOrganizations looking for new products, technologies, or solutions. Strategic & Channel PartnersDistributors, retailers, service providers, & organizations exploring collaboration opportunities. Industry Leaders & OperatorsProfessionals who can offer market insight, introductions, or industry expertise. Corporate Innovation & Business DevelopmentTeams exploring emerging technologies, pilots, & new business models. Founders & Ecosystem LeadersNYC entrepreneurs, accelerators, investors, & community leaders interested in Korean innovation & U.S. market expansion. Review our participating cohort below to identify potential pilots, vendors, or partnership opportunities for your organization: [Meet the Companies] ALLSALE Corp. | AI & Commerce AI-powered software solutions designed to help businesses streamline operations & unlock new opportunities through digital transformation. EMCT | Smart Building & Safety IoT-based smart building monitoring platform that enables real-time fire safety & facility management using existing building infrastructure-helping property teams respond faster while reducing costly upgrades. LUMIO | Beauty & Personal Care Professional haircare brand specializing in color-treated hair, scalp care, & damaged-hair solutions, developed with decades of professional haircare expertise. StyleAI | AI & Fashion Tech AI-powered fashion design workspace that turns sketches into realistic virtual samples, helping fashion brands accelerate design decisions, reduce sampling costs, & bring products to market faster. ZEZEDU | AI & EdTech AI-powered personalized math learning platform that analyzes students' problem-solving processes to deliver individualized feedback, learning recommendations, & classroom management tools. Come curious. Make a connection. Discover what's next. Made in Korea. Meet NYC. [Limited attendance. Registration is subject to approval.] HOSTED BY KISED New York The Korea Institute of Startup & Entrepreneurship Development (KISED) is a Korean government-affiliated organization dedicated to supporting entrepreneurship & the growth of startups. KISED operates programs that help Korean startups develop their capabilities, explore new markets, & build connections with domestic & international business ecosystems. Through its international programs & overseas offices, including the KISED New York Office, KISED supports Korean startups in pursuing global expansion & connecting with opportunities in the U.S. market. OPERATED BY PEN Ventures PEN Ventures is a global accelerator & investment firm supporting startups through investment, acceleration, corporate collaboration, open innovation, & global market-entry programs. With an international network across major innovation hubs, PEN Ventures connects startups with investors, corporations, public institutions, & strategic partners to facilitate business expansion & cross-border collaboration. [LinkedIn:/penventures]"
     },
-    "luma_2026_10_08_design_engineering_panel_where_craft_meets_code": {
-      "title": "Design Engineering Panel; Where Craft Meets Code",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-10-08",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Thu, 10/08 · 10:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/f9om9e1q",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Tech@NYU, Pope Cruz, Jenn, Charice Huang, Tech@NYU"
-    },
     "luma_2026_10_11_ai_engineer_new_york_hackathon": {
       "title": "AI Engineer New York Hackathon",
       "type": "tech",
@@ -1252,39 +1540,39 @@
       "map": "https://maps.google.com/?q=Space%20Ping%20Pong%20Sports%20Bar%20%26%20Lounge%20%7C%20Koreatown%20NYC%20NYC",
       "summary": "Luma NYC: KOOM Week 2026, United Korean Founders, mesh. io, Kihwan Kim"
     },
-    "nyu_tandon_2026_10_08_from_blood_to_brain_to_skin_continuous_multi_bioflui": {
-      "title": "From Blood to Brain to Skin: Continuous Multi-Biofluid Monitoring with Microfluidic and Microneedle Biosensors",
+    "luma_2026_10_13_snowflake_x_google_cloud_ai_agent_lab": {
+      "title": "Snowflake x Google Cloud AI Agent Lab",
       "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Thu",
-      "date": "2026-10-08",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Thu, 10/08 · 11:00 AM",
-      "price": "Free / varies",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-10-13",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 10/13 · 6pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/10/08/blood-brain-skin-continuous-multi-biofluid-monitoring-microfluidic-and",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/SnowflakexGoogle-Newyork",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Major League Hacking, Major League Hacking"
     },
-    "nyu_tandon_2026_10_08_columbia_nyu_financial_engineering_colloquium_graeme": {
-      "title": "Columbia-NYU Financial Engineering Colloquium: Graeme Baker and Kay Giesecke",
+    "luma_2026_10_13_secure_software_factory_show_and_tell": {
+      "title": "Secure Software Factory Show and Tell",
       "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Thu",
-      "date": "2026-10-08",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Thu, 10/08 · 4:00 PM",
-      "price": "Free / varies",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-10-13",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Tue, 10/13 · 9:30pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/10/08/columbia-nyu-financial-engineering-colloquium-graeme-baker-and-kay-giesecke",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
+      "place": "Elsie Rooftop",
+      "source": "Luma NYC",
+      "link": "https://luma.com/keycard-rg1c",
+      "map": "https://maps.google.com/?q=Elsie%20Rooftop%20NYC",
+      "summary": "Luma NYC: Keycard, Keycard, Braintrust, Socket, Docker DevRel"
     },
     "nyu_tandon_2026_10_09_beyond_balancing_overcoming_tradeoffs_through_system": {
       "title": "Beyond balancing: overcoming tradeoffs through systems of dynamic bonds",
@@ -1388,56 +1676,22 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
-    "jc_culture_43985_2026_10_08_national_hispanic_heritage_month_flag_raising_ceremo": {
-      "title": "National Hispanic Heritage Month Flag Raising Ceremony 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Thu",
-      "date": "2026-10-08",
-      "time": "3:30 PM",
-      "sort": 15.5,
-      "when": "Thu, 10/08 · 3:30pm",
+    "nyu_tandon_2026_10_19_stem_cell_derived_human_corneal_organoid_model_advan": {
+      "title": "Stem-cell derived human corneal organoid model - advances and challenges in its use as a corneal surrogate",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Mon",
+      "date": "2026-10-19",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Mon, 10/19 · 11:00 AM",
       "price": "Free / varies",
       "free": true,
-      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/national-hispanic-heritage-month-flag-raising-ceremony-2026/",
-      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
-    },
-    "jc_culture_44349_2026_10_08_noche_de_juegos_community_game_night_2026": {
-      "title": "Noche De Juegos Community Game Night 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Thu",
-      "date": "2026-10-08",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Thu, 10/08 · 5:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/noche-de-juegos-community-game-night-2026/",
-      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
-    },
-    "jc_culture_10004837_2026_10_08_rent_the_musical": {
-      "title": "RENT: The Musical",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Thu",
-      "date": "2026-10-08",
-      "time": "7:30 PM",
-      "sort": 19.5,
-      "when": "Thu, 10/08 · 7:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-08/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/19/stem-cell-derived-human-corneal-organoid-model-advances-and-challenges-its-use",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
     },
     "jc_culture_44341_2026_10_09_cafe_con_leche_senior_social_2026": {
       "title": "Cafe con Leche Senior Social 2026",
@@ -1897,6 +2151,23 @@
       "link": "https://jerseycityculture.org/event/smush-gallery-work-share-monthly-artist-feedback-sessions-2026-3/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community."
+    },
+    "jc_culture_44312_2026_11_09_veterans_day_flag_raising_2026": {
+      "title": "Veterans Day Flag Raising 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Mon",
+      "date": "2026-11-09",
+      "time": "11:30 AM",
+      "sort": 11.5,
+      "when": "Mon, 11/09 · 11:30am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/veterans-day-flag-raising-2026/",
+      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
     }
   },
   "clusters": {
@@ -1909,6 +2180,38 @@
       "juggling",
       "ted_rosenthal"
     ],
+    "cluster_2026_10_09_12_pm": [
+      "skint_91943_0_metropolitan_postcard_club_show_sale",
+      "skint_91943_1_new_york_african_restaurant_week_food_music_festival",
+      "gary_2026_10_09_roast_my_pitch_for_colosseum_hackathon_submissions"
+    ],
+    "cluster_2026_10_09_10_am": [
+      "skint_91943_2_pee_wee_s_playhouse_pop_up_shop",
+      "gary_2026_10_09_ai_briefing_private_equity_what_owners_buyers_pay_fo"
+    ],
+    "cluster_2026_10_10_11_am": [
+      "skint_91943_3_51st_annual_flatbush_frolic_street_fair",
+      "skint_91943_7_electrix_vintage_pop_up_fill_a_bag_sale",
+      "gary_2026_10_10_nyc_women_founders_coffee",
+      "gary_2026_10_10_hackathon_build_multiplayer_data_science_agents_aiwe"
+    ],
+    "cluster_2026_10_10_12_pm": [
+      "skint_91943_4_thrift2death_jersey_city_thrift_market",
+      "skint_91943_5_junk_drawer_market",
+      "skint_91943_6_bronx_night_market"
+    ],
+    "cluster_2026_10_11_10_am": [
+      "skint_91943_8_cozy_and_crafted_bazaar_at_grand_bazaar_nyc",
+      "skint_91943_13_11th_annual_indigenous_peoples_day"
+    ],
+    "cluster_2026_10_11_2_pm": [
+      "skint_91943_11_please_knock_presents_fourth_annual_erotic_art_fair",
+      "jc_culture_10004841_2026_10_11_rent_the_musical"
+    ],
+    "cluster_2026_10_12_10_pm": [
+      "skint_91943_17_14th_architecture_design_film_festival",
+      "luma_2026_10_12_koom_opening_night"
+    ],
     "cluster_2026_10_08_8_am": [
       "gary_2026_10_08_zeta_live",
       "gary_2026_10_08_table_breakfast_for_scaling_founders"
@@ -1919,8 +2222,7 @@
     ],
     "cluster_2026_10_08_4_pm": [
       "gary_2026_10_08_revolutionizing_healthcare_w_ai_powered_devices",
-      "gary_2026_10_08_break_it_fix_it_prove_it_the_agentic_data_recovery_w",
-      "nyu_tandon_2026_10_08_columbia_nyu_financial_engineering_colloquium_graeme"
+      "gary_2026_10_08_break_it_fix_it_prove_it_the_agentic_data_recovery_w"
     ],
     "cluster_2026_10_08_5_pm": [
       "gary_2026_10_08_aws_apress_technical_publishing_in_the_ai_age",
@@ -1928,8 +2230,7 @@
     ],
     "cluster_2026_10_08_5_30_pm": [
       "gary_2026_10_08_surviving_the_2_00_am_automated_job_rejection",
-      "gary_2026_10_08_ending_hallucination_tax_governing_backbone_of_enter",
-      "jc_culture_44349_2026_10_08_noche_de_juegos_community_game_night_2026"
+      "gary_2026_10_08_ending_hallucination_tax_governing_backbone_of_enter"
     ],
     "cluster_2026_10_08_6_pm": [
       "gary_2026_10_08_the_ai_founder_playbook_rewritten",
@@ -1941,17 +2242,14 @@
       "gary_2026_10_08_agents_on_call_live_ai_agents_in_healthcare_ops",
       "gary_2026_10_08_ai_for_small_business_work_smarter_every_day"
     ],
-    "cluster_2026_10_10_11_am": [
-      "gary_2026_10_10_nyc_women_founders_coffee",
-      "gary_2026_10_10_hackathon_build_multiplayer_data_science_agents_aiwe"
-    ],
     "cluster_2026_10_12_6_pm": [
       "gary_2026_10_12_ai_leaders_dinner_w_aws_arize",
       "gary_2026_10_12_b2b_ai_founders_investors_meetup"
     ],
     "cluster_2026_10_13_6_pm": [
       "gary_2026_10_13_navigating_transatlantic_m_a_investments",
-      "gary_2026_10_13_engineering_x_ai_leaders_happy_hour"
+      "gary_2026_10_13_engineering_x_ai_leaders_happy_hour",
+      "luma_2026_10_13_snowflake_x_google_cloud_ai_agent_lab"
     ],
     "cluster_2026_10_14_11_am": [
       "gary_2026_10_14_made_in_korea_k_startup_biz_lunch_mixer",
