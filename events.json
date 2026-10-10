@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 10, 2026, 12:01 PM EDT",
+    "checked": "Oct 10, 2026, 6:52 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -261,6 +261,7 @@
       "8 PM",
       "9:30 PM",
       "10 PM",
+      "10:30 PM",
       "11 PM"
     ]
   },
@@ -757,57 +758,6 @@
       "link": "https://adfilmfest.com/adff-ny/",
       "map": "https://maps.google.com/?q=village%20east%20by%20angelika%2C%20%2417%20general%2C%20%2413%20students%20NYC",
       "summary": "film fests/series. Pulled from The Skint's public article feed: mon thru 10/17 14th architecture + design film festival: village east by angelika, $17 general, $13 students."
-    },
-    "gary_2026_10_09_ai_briefing_private_equity_what_owners_buyers_pay_fo": {
-      "title": "[AI Briefing] Private Equity - What Owners & Buyers Pay For",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-10-09",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 10/09 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Civic Hall, 124 E 14th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ers45hk/-AI-Briefing-Private-Equity-What-Owners-Buyers-Pay-For",
-      "map": "https://maps.google.com/?q=Civic%20Hall%2C%20124%20E%2014th%20St",
-      "summary": "Gary's Guide: With Startup Grind."
-    },
-    "gary_2026_10_09_antler_frontier_founder_operator_co_working_day": {
-      "title": "Antler Frontier Founder & Operator Co-Working Day",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-10-09",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Fri, 10/09 · 11:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/rs50zbq/Antler-Frontier-Founder-Operator-Co-Working-Day",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Now that fall is in full swing, we're opening back up our NYC office doors for an operator & future founder co-working day with Antler Frontier & Brex. Take a Friday out of your usual routine & into a room full of people building interesting things. Bring your laptop & set up shop with us for the day. Good wifi, good coffee, low-fi focus music, & a room full of operators, builders, & founders getting things done. No pitches, no panels, just a great space & great company. Details: Friday, October 9th, 11AM-4PM What's included: Coffee & snacks (thanks Brex!), wifi, a dedicated spot to work Dress: Casual (obviously) About Antler Frontier: Antler Frontier is a community & collection of events for operators, builders, & future founders shaping the future. About Brex: Brex is the financial stack that scales with you, from incorporation to IPO. Manage all your company spending & vendor payments from a single dashboard, including credit card, bill pay, & reimbursements, all while extending your runway with a high-yield business accounts & enjoy 20x higher credit limit, community events, & exclusive rewards that help your business grow."
-    },
-    "gary_2026_10_09_roast_my_pitch_for_colosseum_hackathon_submissions": {
-      "title": "Roast My Pitch (for Colosseum Hackathon Submissions)",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-10-09",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Fri, 10/09 · 12:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Solana Skyline, 141 E Houston St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/9zg0uzp/Roast-My-Pitch-for-Colosseum-Hackathon-Submissions",
-      "map": "https://maps.google.com/?q=Solana%20Skyline%2C%20141%20E%20Houston%20St",
-      "summary": "Gary's Guide: Colosseum's Crypto World's Fair submissions close Monday, Oct 12. Before the final weekend push, bring your pitch to Skyline & get feedback while you can still fix it. 3 min pitches SIGN UP HERE TO PRESENT YOUR PROJECT Not pitching? Come anyway. There will be coffee, snacks & plenty of roasting to help with."
     },
     "gary_2026_10_10_new_agentic_economy_hackathon": {
       "title": "New Agentic Economy Hackathon",
@@ -1506,6 +1456,57 @@
       "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With C10 Labs, NYCEDC & Pegasystems."
     },
+    "gary_2026_10_15_the_quantified_self_what_ai_can_actually_tell_us_abo": {
+      "title": "The Quantified Self - What AI Can Actually Tell US About Our Data",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Thu, 10/15 · 5:00pm",
+      "price": "$10",
+      "free": false,
+      "place": "Civic Hall, 124 E 14th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/cs2q7mz/The-Quantified-Self-What-AI-Can-Actually-Tell-US-About-Our-Data",
+      "map": "https://maps.google.com/?q=Civic%20Hall%2C%20124%20E%2014th%20St",
+      "summary": "Gary's Guide: With Gary Wolf (Founder, Quantified Self)."
+    },
+    "gary_2026_10_15_healthcare_expertise_scaled": {
+      "title": "Healthcare Expertise, Scaled",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 10/15 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/wj9pp8y/Healthcare-Expertise-Scaled",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With John Joshua (Founder, One Health Collective), Ethan Fischer (Head of Health Systems GTM, Nourish), Alice Krenitski (Forum Ventures), Margaret Davidson (Company Ventures & Terrarium)."
+    },
+    "gary_2026_10_15_infinite_possibilities_for_techpreneurs": {
+      "title": "Infinite Possibilities For Techpreneurs",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 10/15 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Equal Space, 550 Broad St, Newark",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/u5oktc3/Infinite-Possibilities-For-Techpreneurs",
+      "map": "https://maps.google.com/?q=Equal%20Space%2C%20550%20Broad%20St%2C%20Newark",
+      "summary": "Gary's Guide: With Tia Lacole Broadus (CEO, Fitness Compulsion), Aquila Leon-Soon (CEO, ATS+Partners), Dee Marshall (CEO, Diverse & Engaged), Vanessa King (Founder, Evara Private)."
+    },
     "luma_2026_10_11_ai_engineer_new_york_hackathon": {
       "title": "AI Engineer New York Hackathon",
       "type": "tech",
@@ -1590,6 +1591,40 @@
       "link": "https://luma.com/keycard-rg1c",
       "map": "https://maps.google.com/?q=Elsie%20Rooftop%20NYC",
       "summary": "Luma NYC: Keycard, Keycard, Braintrust, Socket, Docker DevRel"
+    },
+    "luma_2026_10_14_open_by_design_nyc_developer_meetup_together_ai_nvid": {
+      "title": "Open by Design: NYC Developer Meetup | Together AI × NVIDIA × Reflection",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-10-14",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Wed, 10/14 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/TAIxNvidiaxReflection",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Together AI Calendar, Together AI, NVIDIA"
+    },
+    "luma_2026_10_14_fintech_run_club_oktoberfest_version_ft_rain_monk_jp": {
+      "title": "Fintech Run Club Oktoberfest version ft. Rain + Monk + JP Morgan",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-10-14",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Wed, 10/14 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Marsha P. Johnson Memorial Fountain",
+      "source": "Luma NYC",
+      "link": "https://luma.com/fintech-tw0h",
+      "map": "https://maps.google.com/?q=Marsha%20P.%20Johnson%20Memorial%20Fountain%20NYC",
+      "summary": "Luma NYC: FinTech Run Club, FinTech Run Club, Pedro D'Avila, Kendall Warson, Connor Griffin, Rain Events"
     },
     "nyu_tandon_2026_10_14_machine_learning_for_discovery_deciphering_rna_splic": {
       "title": "Machine Learning for Discovery: Deciphering RNA Splicing Logic",
@@ -2250,12 +2285,7 @@
     ],
     "cluster_2026_10_09_12_pm": [
       "skint_91943_0_metropolitan_postcard_club_show_sale",
-      "skint_91943_1_new_york_african_restaurant_week_food_music_festival",
-      "gary_2026_10_09_roast_my_pitch_for_colosseum_hackathon_submissions"
-    ],
-    "cluster_2026_10_09_10_am": [
-      "skint_91943_2_pee_wee_s_playhouse_pop_up_shop",
-      "gary_2026_10_09_ai_briefing_private_equity_what_owners_buyers_pay_fo"
+      "skint_91943_1_new_york_african_restaurant_week_food_music_festival"
     ],
     "cluster_2026_10_10_11_am": [
       "skint_91943_3_51st_annual_flatbush_frolic_street_fair",
@@ -2320,6 +2350,14 @@
     "cluster_2026_10_14_6_30_pm": [
       "gary_2026_10_14_ai_future_of_education",
       "gary_2026_10_14_yc_alumni_founder_friends"
+    ],
+    "cluster_2026_10_15_5_pm": [
+      "gary_2026_10_15_the_quantified_self_what_ai_can_actually_tell_us_abo",
+      "nyu_tandon_2026_10_15_fre_special_seminar_luhao_zhang"
+    ],
+    "cluster_2026_10_15_6_pm": [
+      "gary_2026_10_15_healthcare_expertise_scaled",
+      "gary_2026_10_15_infinite_possibilities_for_techpreneurs"
     ]
   }
 }
