@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Oct 9, 2026, 7:25 PM EDT",
+    "checked": "Oct 10, 2026, 12:01 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-10-09",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Oct 9"
-      },
       {
         "iso": "2026-10-10",
         "key": "Sat",
@@ -45,15 +39,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 15"
+      },
+      {
+        "iso": "2026-10-16",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Oct 16"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-10-09",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Oct 9"
-      },
       {
         "iso": "2026-10-10",
         "key": "Sat",
@@ -233,9 +227,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 8"
+      },
+      {
+        "iso": "2026-11-09",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Nov 9"
       }
     ],
-    "todayKey": "Fri",
+    "todayKey": "Sat",
     "times": [
       "7 AM",
       "8 AM",
@@ -1591,23 +1591,6 @@
       "map": "https://maps.google.com/?q=Elsie%20Rooftop%20NYC",
       "summary": "Luma NYC: Keycard, Keycard, Braintrust, Socket, Docker DevRel"
     },
-    "nyu_tandon_2026_10_09_beyond_balancing_overcoming_tradeoffs_through_system": {
-      "title": "Beyond balancing: overcoming tradeoffs through systems of dynamic bonds",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Fri",
-      "date": "2026-10-09",
-      "time": "10:45 AM",
-      "sort": 10.75,
-      "when": "Fri, 10/09 · 10:45 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/10/09/beyond-balancing-overcoming-tradeoffs-through-systems-dynamic-bonds",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
     "nyu_tandon_2026_10_14_machine_learning_for_discovery_deciphering_rna_splic": {
       "title": "Machine Learning for Discovery: Deciphering RNA Splicing Logic",
       "type": "tech",
@@ -1710,39 +1693,22 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
-    "jc_culture_44341_2026_10_09_cafe_con_leche_senior_social_2026": {
-      "title": "Cafe con Leche Senior Social 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-10-09",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Fri, 10/09 · 1pm",
+    "nyu_tandon_2026_10_22_securing_the_unseen_identity_management_machine_iden": {
+      "title": "Securing the Unseen: Identity Management, Machine Identities, and AI Threats",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Thu",
+      "date": "2026-10-22",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Thu, 10/22 · 5:30 PM",
       "price": "Free / varies",
       "free": true,
-      "place": "JOSEPH CONNERS SENIOR CENTER, 394 CNETRAL AVENUE, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/cafe-con-leche-senior-social-2026/",
-      "map": "https://maps.google.com/?q=JOSEPH%20CONNERS%20SENIOR%20CENTER%2C%20394%20CNETRAL%20AVENUE%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
-    },
-    "jc_culture_10004838_2026_10_09_rent_the_musical": {
-      "title": "RENT: The Musical",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-10-09",
-      "time": "7:30 PM",
-      "sort": 19.5,
-      "when": "Fri, 10/09 · 7:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-09/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/22/securing-unseen-identity-management-machine-identities-and-ai-threats",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
     },
     "jc_culture_44364_2026_10_10_paper_architects_2026": {
       "title": "Paper Architects 2026",
