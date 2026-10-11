@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 11, 2026, 12:27 PM EDT",
+    "checked": "Oct 11, 2026, 7:05 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -241,6 +241,7 @@
       "8 AM",
       "8:30 AM",
       "9 AM",
+      "9:30 AM",
       "10 AM",
       "10:45 AM",
       "11 AM",
@@ -691,91 +692,6 @@
       "map": "https://maps.google.com/?q=village%20east%20by%20angelika%2C%20%2417%20general%2C%20%2413%20students%20NYC",
       "summary": "film fests/series. Pulled from The Skint's public article feed: mon thru 10/17 14th architecture + design film festival: village east by angelika, $17 general, $13 students."
     },
-    "gary_2026_10_10_new_agentic_economy_hackathon": {
-      "title": "New Agentic Economy Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-10-10",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sat, 10/10 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Betaworks, 29 Little W 12th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/820ndze/New-Agentic-Economy-Hackathon",
-      "map": "https://maps.google.com/?q=Betaworks%2C%2029%20Little%20W%2012th%20St",
-      "summary": "Gary's Guide: With Forever 22, Betaworks, Google DeepMind."
-    },
-    "gary_2026_10_10_nyc_women_founders_coffee": {
-      "title": "NYC Women Founders Coffee",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sat",
-      "date": "2026-10-10",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 10/10 · 11:00am",
-      "price": "$5",
-      "free": false,
-      "place": "Capital One Cafe, 555 Broadway",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/c4s0ttv/NYC-Women-Founders-Coffee",
-      "map": "https://maps.google.com/?q=Capital%20One%20Cafe%2C%20555%20Broadway",
-      "summary": "Gary's Guide: Meet fellow NYC women founders & entrepreneurs over coffee. Make new connections & grow your founder network in a relaxed, welcoming setting. Hosted by New York Female Founders (NYFF). 11:00 AM to 12:30 PM."
-    },
-    "gary_2026_10_10_hackathon_build_multiplayer_data_science_agents_aiwe": {
-      "title": "Hackathon: Build Multiplayer Data Science Agents - #AIWeekNY",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-10-10",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 10/10 · 11:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 307 W 38th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/rnb42l6/Hackathon-Build-Multiplayer-Data-Science-Agents-AIWeekNY",
-      "map": "https://maps.google.com/?q=Venue%2C%20307%20W%2038th%20St",
-      "summary": "Gary's Guide: Ready to build the future of AI-driven data science? CASTGNY collaborates with PyMC Labs to kick off an intensive, hands-on hackathon during #AIWeekNY focused on solving real-world data problems using autonomous AI agents. In this challenge-driven hackathon, teams will tackle end-to-end data science problems, spanning exploratory analysis, statistical modeling, & automated reporting. You will choose from a set of real-world data challenges & build complete analytical solutions using Daimon (PyMC Labs' open-source data science agent) as your AI copilot & assistant. We will kick off with a live walkthrough on how to leverage AI agents for complex data workflows, followed by the reveal of Daimon's newest library capabilities. From there, you will pick your challenge, team up, & build end-to-end data pipelines & agentic tools from scratch. Challenge tracks, prizes, & judges have been announced. Explore the full challenge details, tracks, judging criteria, prizes, & submission requirements on Daimon hackathon page. Time: 11:00 AM - 4:00 PM Agenda: 11:00 AM - 11:30 AM: Doors Open, Registration, Team Formation & Coffee 11:30 AM - 12:00 PM: Briefing: AI for Data Science & Unveiling Daimon's New Capabilities 12:00 PM - 1:30 PM: Building Session 1:30 PM - 2:30 PM: Lunch Break (Pizza provided) & Judges Preview 2:30 PM - 3:30 PM: Demos, Results, Closing Notes & Networking 4:00 PM: Event Concludes Whether you are an open-source maintainer, ML engineer, data scientist, or developer curious about agentic workflows, this hackathon is your opportunity to build with next-generation collaborative AI. This event is part of #AIWeekNY by Pulse NYC - a community-led festival celebrating innovation across the AI ecosystem. More at https://pulse.nyc/ai-week/"
-    },
-    "gary_2026_10_10_latinos_x_ai_hackathon": {
-      "title": "Latinos x AI Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-10-10",
-      "time": "11:30 AM",
-      "sort": 11.5,
-      "when": "Sat, 10/10 · 11:30am",
-      "price": "Free",
-      "free": true,
-      "place": "1WTC, 285 Fulton St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/2rdr33j/Latinos-x-AI-Hackathon",
-      "map": "https://maps.google.com/?q=1WTC%2C%20285%20Fulton%20St",
-      "summary": "Gary's Guide: Latinos x AI Hackathon - NYC Saturday, October 10 10:00 AM - 6:00 PM New York City Nuestra gente. Nuestros problemas. Nuestro cdigo. For Hispanic Heritage Month, 150 builders are spending one Saturday in New York building AI for the problems our communities actually live with. Not a demo day. Not a panel. Eight hours, three tracks, working software by 5pm. Applications are reviewed. Attendance is free. The Three Tracks Pick one when you apply. Build for it all day. 01 Immigration - Papers & Process Status, documents, deadlines, & the systems that decide who belongs. Think intake triage for legal aid clinics, plain-language explainers for immigration forms, interpreter tooling, case-status tracking, know-your-rights assistants. 02 Healthcare - Care Without Barriers Language, coverage, & access for patients the system was not built for. Think interpretation at the point of care, insurance navigation, discharge instructions people can actually read, community health worker tooling, prescription & benefits literacy. 03 Finance - Banking the Unbanked Credit, remittances, & building wealth without a financial history. Think remittance transparency, credit-building for thin-file borrowers, small business bookkeeping for cash operations, benefits & tax navigation, fraud protection for first-generation account holders. Prizes $4,500 total - $1,500 per track. Every track winner also gets [sponsor perks once confirmed]. Schedule Schedule 10:00 AM - Doors, breakfast, team formation 10:45 AM - Opening remarks & track briefings 11:15 AM - Building starts 1:00 PM - Lunch 3:00 PM - Mentor office hours & mid-day checkpoint 4:45 PM - Submissions close 5:00 PM - Demos on stage 5:45 PM - Judging & awards 6:00 PM - Close Who Should Apply Engineers, data scientists, & designers who want to ship something real in a day Product people & founders who can shape a problem & pitch it Clinicians, immigration attorneys, paralegals, social workers, & financial counselors - the people who know the problem from the inside. You do not need to code to be valuable here. Teams with a domain expert consistently win. Students & career switchers You can apply solo or with a team of up to four. Solo applicants will be matched at 10:00 AM. What to Bring Laptop & charger A problem you have seen up close ID for building security We provide breakfast, lunch, coffee, wifi, power, mentors, & the room. Rules Build during the event. Prior research & planning are fine; prior code is not. Teams of one to four. Every submission needs a public repo, a two-minute demo video, & a short written description. You keep everything you build. No IP claims from organizers or sponsors. Be decent to each other. Harassment of any kind means you leave. Mentors & Judges [ADD once confirmed: names, titles, organizations.] Partners & Sponsors [ADD once confirmed: logos & names.] Interested in sponsoring or partnering? Write to chris@ziora-copilot.com or book 30 minutes. Sponsorship closes October 1. FAQ Is it free? Yes. Applications are reviewed because space is limited to 150. Where is it? New York City. The exact address is shared with approved attendees. Do I have to be Latino to attend? No. The event is built by & for the Latino community in New York, & everyone who wants to build for these problems is welcome. Do I need a team? No. Come solo & we will match you at the start. What language is the event in? English, with Spanish spoken throughout. Apply & demo in whichever you prefer. Can I keep working on my project afterward? Please do. That is the point. A note on selection: This edition is built for & centered on the Latino community in New York. Applications from Latino & Hispanic builders will be prioritized. Allies are welcome to apply & will be considered as space allows. Questions: chris@ziora-copilot.com Hosted by Christopher Martinez"
-    },
-    "gary_2026_10_10_decentralized_ai_day": {
-      "title": "Decentralized AI Day",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-10-10",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 10/10 · 1:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/bdeh7vp/Decentralized-AI-Day",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Jason (Founder/CEO, CrowdCent), Nick (Founder/CEO, Allora Labs), Matteo (Co-Founder/CEO, Orion Finance)."
-    },
     "gary_2026_10_11_ai_engineer_hackathon": {
       "title": "AI Engineer Hackathon",
       "type": "tech",
@@ -980,6 +896,23 @@
       "map": "https://maps.google.com/?q=Index%20Chinatown%2C%20120%20Walker%20St%2C%203rd%20Fl",
       "summary": "Gary's Guide: With Katie Ehrlich (Founder, StudioKat)."
     },
+    "gary_2026_10_14_agents_in_the_am_enterprise_ready_agents_w_datarobot": {
+      "title": "Agents In The AM - Enterprise-Ready Agents w/ DataRobot & NVIDIA",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-10-14",
+      "time": "9:30 AM",
+      "sort": 9.5,
+      "when": "Wed, 10/14 · 9:30am",
+      "price": "Free",
+      "free": true,
+      "place": "Westin Times Sq, 270 W 43rd St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/pvguexb/Agents-In-The-AM-Enterprise-Ready-Agents-w-DataRobot-NVIDIA",
+      "map": "https://maps.google.com/?q=Westin%20Times%20Sq%2C%20270%20W%2043rd%20St",
+      "summary": "Gary's Guide: Exec briefing + hands-on workshop. CIOs on running agents in production, NVIDIA building blocks for agentic AI, then a hands-on lab building agents on DataRobot w/ NVIDIA (beginner & advanced tracks). Breakfast & lunch included. Registrations reviewed. With Jeff Wilmot (CRO, DataRobot), Jeff Goldberg (VP Americas, DataRobot), Sam Pastoriza (Solns Architect, NVIDIA), Marlon Fuentes (Lead Product Mktg Engr, DataRobot), Marc Amarillas (Dir. Customer Success Engg, DataRobot). Stay for the afternoon Build Club + happy hour at the same venue: luma.com/u9aqssho"
+    },
     "gary_2026_10_14_code_coffee_hackathon": {
       "title": "Code & Coffee Hackathon",
       "type": "tech",
@@ -1047,6 +980,23 @@
       "link": "https://www.garysguide.com/events/4pk9s0h/Coworking-For-Social-Entrepreneurs",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: A weekly gathering where you can join fellow social impact entrepreneurs of all stripes & co-work over coffee & pastries at Anew Caf & Goods.We'll reserve space in the caf for the meeting, please order a drink or pastry. Looking forward to seeing you!Anew is a gathering space & discovery center for the social impact community."
+    },
+    "gary_2026_10_14_nyc_ai_builders_agent_hack_happy_hour": {
+      "title": "NYC AI Builders - Agent Hack + Happy Hour",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-10-14",
+      "time": "2:30 PM",
+      "sort": 14.5,
+      "when": "Wed, 10/14 · 2:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Times Sq, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/coyleaq/NYC-AI-Builders-Agent-Hack-Happy-Hour",
+      "map": "https://maps.google.com/?q=Times%20Sq%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Casual afternoon of building agents alongside NYC devs. Bring a laptop & an idea, pair-debug, demo what you're working on & get real feedback. No talks, no pitches. DataRobot & AI credits for attendees (limited). Hosted by DataRobot. RSVP required."
     },
     "gary_2026_10_14_ai_builders_agent_hack_happy_hour": {
       "title": "AI Builders - Agent Hack + Happy Hour",
@@ -1439,6 +1389,74 @@
       "map": "https://maps.google.com/?q=Equal%20Space%2C%20550%20Broad%20St%2C%20Newark",
       "summary": "Gary's Guide: With Tia Lacole Broadus (CEO, Fitness Compulsion), Aquila Leon-Soon (CEO, ATS+Partners), Dee Marshall (CEO, Diverse & Engaged), Vanessa King (Founder, Evara Private)."
     },
+    "gary_2026_10_15_building_a_100m_company_leveraging_relationships_as_": {
+      "title": "Building A $100M+ Company - Leveraging Relationships As Growth Capital | The Builder Series X SalesParrot",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 10/15 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/pzk5oyf/Building-A-100M-Company-Leveraging-Relationships-As-Growth-Capital-The-Builder-Series-X-SalesParrot",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: The Builder Series: A 45,000+ member community redefining what networking looks like - curating founders, operators, investors & more into intentional rooms built for experiences people remember & relationships that last. It's a direct line to the most ambitious builders, with a community that actually shows up. We've hosted 95+ events, including: Rooftop mixer series: Our signature event, 18 editions Founder & investor-led panels, curated by sector Intimate lunch & dinner events for Seed-Series A+ founders & investors in our network Notable events: Cliqk Launch Party w/ Ilias Anwar & Rohan Gurram (2,000+ RSVPs) $1.5M Pitch Competition with FounderSquare August founder & investor lunch: 10 investors 20 founders $2.3B+ combined AUM $1M median cheque size $1.4M median raised per founder Find us here: Instagram LinkedIn TikTok Facebook X Website Community snapshot: 7,200+ RSVPs 5,000+ unique people 119 avg RSVPs per event 1,198 people have been to two or more Who's in the room: Founders ~52% Operators, engineers, creatives & senior professionals ~29% Investors & advisors ~19% Founder stage: ~16% idea/pre-product ~17% MVP/early product ~36% pre-seed ~20% seed ~7% Series A ~4% Series B+ Industries: 27% AI/Deep Tech 26% SaaS/B2B 16% Consumer 14% Fintech 13% Health 8% Media Investor cheque sizes: ~8% What you get when you sign up: Small bites served mid-way through event: Pictured below Photographer: Headshots, group photos, candid moments & shots at our branded backdrop Videographer: Recap footage + our founder interview Founder Spotlight (Series): Share who you are & what you're building for reuse on socials across all our socials Attendees will receive a NFC digital business card upon entry, thanks to SmartCard Concierge Check in: A member of our team greets you, fits your wristband, & walks you through the event 1-3 warm intros to people of value, through The Builder Series network & your own intro system Access to The Builder Series network & support from our network & our connections. A chance to be on a booked guest on The Builder Series podcast & talk about what you're building Events Partner SmartCard: A subscription-free digital business card made from aerospace-grade titanium that instantly shares your contact info & social media with just a tap while also capturing the contact details of the person you're speaking with. Schedule: 6:00 - 7:00 PM - Arrival + Concierge Check-In 7:00 PM - Food Served 7:15 - 7:30 PM - Group Photo + Announcements 7:30 - 8:30 PM - Founder Spotlights + Interviews 7:30 - 9:00 PM - Open Networking More Details Tickets required for all attendees (+1s included) Sponsorship inquiries: dylan@thebuilderseries.co, partnerships@thebuilderseries.co 917-242-2821 / Business WhatsApp Join The Builder Series network: Apply here or by email dylan@thebuilderseries.co The Builder Series: Event Disclaimer, Media Consent & Code of Conduct: Click to view By registering or attending The Builder Series event, you acknowledge that you have read, understood, & agree to abide by all policies, rules, & community standards set by The Builder Series. PLEASE NOTE Tickets are non-refundable unless the event is canceled & not rescheduled. Tickets are non-refundable unless the event is canceled. Refund & Transfer Policy Transfers. If you can no longer attend, you may transfer your ticket to someone else by providing the new attendee's name to the organizers. No refunds. Tickets are non-refundable. No monetary exchanges will be issued by the organizers. Event credit. If you miss an event, you may receive credit toward a future event. Credit expires 30 days after the missed event's date. Weather cancellations. If an event has to be rescheduled due to weather, you will be re-registered for the new date. Spotlight tickets. Spotlight tickets are fully non-refundable. If you can't attend, you may speak at a future event instead. Out-of-state purchases. The only refundable tickets are those purchased from outside New York - for example, from Toronto, California, or Austin. Connect with Me: Join 45,000+ people shaping the future Join the Newsletter Follow the Builder Series Find me here"
+    },
+    "gary_2026_10_15_ugly_talk_hispanic_heritage_month": {
+      "title": "Ugly Talk - Hispanic Heritage Month",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 10/15 · 6:30pm",
+      "price": "$15",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/5rbgqy8/Ugly-Talk-Hispanic-Heritage-Month",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With founder/CEOs Christopher Saravia (Carebox), Christopher Martinez (Ziora Copilot)."
+    },
+    "gary_2026_10_15_founder_dinner": {
+      "title": "Founder Dinner",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 10/15 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/6uk2ur4/Founder-Dinner",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Join us for an intimate evening with a highly curated group of Series A/B founders that are scaling at the most beautiful venue in NYC. Who Should Attend? Series A, B & above Why Attend? Honest conversations with the best founders at similar stages Tactical insights on fundraising, GTM, & scaling from peers who get it What Is Included? 4-course dinner with sommelier-paired wines Live pianist The builders behind some of the fastest-growing companies in the country Important Reminders: Dress Code: Business, smart casual Stay Connected: Follow us on Instagram or LinkedIn for updates on our community, events & opportunities. Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes. About the Hosts & Sponsors: Brderless brings together the most extraordinary founders through a carefully curated community. Stifel Financial Corp. (NYSE: SF) is a diversified global wealth management, investment bank, & commercial banking institution with $500B in AUM. Stifel Bank, Member FDIC, provides venture & fund banking solutions to venture capital-backed companies & their investors. Backed by the strength & legacy of Stifel, the Bank delivers tailored banking, treasury management, & lending solutions - working closely with Stifel's Investment Banking & Wealth Management teams to meet the diverse asset management needs of companies & individuals. To learn more, visit: https://stifelventurebanking.com/ Concord Visa is the immigration law firm built for fast-growing companies. Most firms were designed for a slower world: long email chains, unclear timelines, one country at a time. Concord was built differently. Our in-house attorneys cover every visa pathway into the US, UK, Australia, Canada & New Zealand, & our platform lets founders & their teams track every case in one place. We work with founders backed by a16z & YC, scaling companies & top global talent, helping them move & hire across borders without the drag. Don't let immigration be the bottleneck for your growth."
+    },
+    "gary_2026_10_15_next_frontier_of_ai_agents": {
+      "title": "Next Frontier Of AI Agents",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 10/15 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/cpq0kxo/Next-Frontier-Of-AI-Agents",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Most agents live in a terminal window. For one night, we are letting them out. We're keeping the venue spec mostly redacted. It's in Midtown, the field of view is wider than you're used to, & your monitor will feel small when you get home. Join fellow AI engineers for a night built around the next frontier of AI agents, capable of predictions. Bring what you're building & what you're stuck on. The rest you'll see when you get there. Free to attend. Space is limited. Talks by Prior Labs is building foundation models for structured data. Its flagship model, TabPFN, brings the foundation model approach to tabular data, enabling fast predictions without training a model from scratch. Mistral builds frontier AI models & products, with a focus on making powerful, efficient AI accessible to developers & enterprises."
+    },
     "luma_2026_10_11_ai_engineer_new_york_hackathon": {
       "title": "AI Engineer New York Hackathon",
       "type": "tech",
@@ -1557,23 +1575,6 @@
       "link": "https://luma.com/fintech-tw0h",
       "map": "https://maps.google.com/?q=Marsha%20P.%20Johnson%20Memorial%20Fountain%20NYC",
       "summary": "Luma NYC: FinTech Run Club, FinTech Run Club, Pedro D'Avila, Kendall Warson, Connor Griffin, Rain Events"
-    },
-    "luma_2026_10_14_n_yc_alumni_founder_friends_monthly_22_by_rho_and_ny": {
-      "title": "(N)YC Alumni + Founder Friends Monthly #22 by Rho and NYC Founders Club",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-10-14",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Wed, 10/14 · 10:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/4ghynt1i",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: NYC Founders Club, Aakash Shah (NYC Founders Club), Jordan Deasy, Drew Parten, Pilar Pheffer"
     },
     "nyu_tandon_2026_10_14_machine_learning_for_discovery_deciphering_rna_splic": {
       "title": "Machine Learning for Discovery: Deciphering RNA Splicing Logic",
@@ -2183,9 +2184,7 @@
     ],
     "cluster_2026_10_10_11_am": [
       "skint_91943_0_51st_annual_flatbush_frolic_street_fair",
-      "skint_91943_4_electrix_vintage_pop_up_fill_a_bag_sale",
-      "gary_2026_10_10_nyc_women_founders_coffee",
-      "gary_2026_10_10_hackathon_build_multiplayer_data_science_agents_aiwe"
+      "skint_91943_4_electrix_vintage_pop_up_fill_a_bag_sale"
     ],
     "cluster_2026_10_10_12_pm": [
       "skint_91943_1_thrift2death_jersey_city_thrift_market",
@@ -2221,6 +2220,10 @@
       "gary_2026_10_14_unblocking_agi",
       "gary_2026_10_14_coworking_for_social_entrepreneurs"
     ],
+    "cluster_2026_10_14_2_30_pm": [
+      "gary_2026_10_14_nyc_ai_builders_agent_hack_happy_hour",
+      "gary_2026_10_14_ai_builders_agent_hack_happy_hour"
+    ],
     "cluster_2026_10_14_4_pm": [
       "gary_2026_10_14_legal_engineers_nyc_what_do_clients_want_law_firm_ai",
       "jc_culture_10003572_2026_10_14_hamilton_park_farmers_market_2026"
@@ -2250,11 +2253,13 @@
     ],
     "cluster_2026_10_15_6_pm": [
       "gary_2026_10_15_healthcare_expertise_scaled",
-      "gary_2026_10_15_infinite_possibilities_for_techpreneurs"
+      "gary_2026_10_15_infinite_possibilities_for_techpreneurs",
+      "gary_2026_10_15_building_a_100m_company_leveraging_relationships_as_"
     ],
-    "cluster_2026_10_14_10_30_pm": [
-      "luma_2026_10_14_fintech_run_club_oktoberfest_version_ft_rain_monk_jp",
-      "luma_2026_10_14_n_yc_alumni_founder_friends_monthly_22_by_rho_and_ny"
+    "cluster_2026_10_15_6_30_pm": [
+      "gary_2026_10_15_ugly_talk_hispanic_heritage_month",
+      "gary_2026_10_15_founder_dinner",
+      "gary_2026_10_15_next_frontier_of_ai_agents"
     ]
   }
 }
