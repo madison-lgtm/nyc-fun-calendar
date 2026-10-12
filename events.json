@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Oct 11, 2026, 7:05 PM EDT",
+    "checked": "Oct 12, 2026, 4:03 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-10-11",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Oct 11"
-      },
       {
         "iso": "2026-10-12",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 17"
+      },
+      {
+        "iso": "2026-10-18",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Oct 18"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-10-11",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Oct 11"
-      },
       {
         "iso": "2026-10-12",
         "key": "Mon",
@@ -233,21 +227,23 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 10"
+      },
+      {
+        "iso": "2026-11-11",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Nov 11"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
-      "7 AM",
       "8 AM",
       "8:30 AM",
-      "9 AM",
-      "9:30 AM",
       "10 AM",
       "10:45 AM",
       "11 AM",
       "11:30 AM",
       "12 PM",
-      "12:30 PM",
       "1 PM",
       "2 PM",
       "2:30 PM",
@@ -262,7 +258,6 @@
       "8 PM",
       "9:30 PM",
       "10 PM",
-      "10:30 PM",
       "11 PM"
     ]
   },
@@ -454,92 +449,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_91943_0_51st_annual_flatbush_frolic_street_fair": {
-      "title": "51st annual flatbush frolic street fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-10",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 10/10 · 11am-6pm (rescheduled from 9/27 due to weather)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "cortelyou road between ocean ave and coney island ave, brooklyn",
-      "source": "The Skint",
-      "link": "https://www.fdconline.org/news-events/flatbush-frolic-october-10/",
-      "map": "https://maps.google.com/?q=cortelyou%20road%20between%20ocean%20ave%20and%20coney%20island%20ave%2C%20brooklyn%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-6pm (rescheduled from 9/27 due to weather): 51st annual flatbush frolic street fair: cortelyou road between ocean ave and coney island ave, brooklyn."
-    },
-    "skint_91943_1_thrift2death_jersey_city_thrift_market": {
-      "title": "thrift2death jersey city thrift market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-10",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 10/10 · 12-5pm (rescheduled from 9/26 due to weather)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "grove street path plaza (jersey city)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/p/DeH7gqZm13x/?img_index=1",
-      "map": "https://maps.google.com/?q=grove%20street%20path%20plaza%20(jersey%20city)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-5pm (rescheduled from 9/26 due to weather): thrift2death jersey city thrift market: grove street path plaza (jersey city)."
-    },
-    "skint_91943_2_junk_drawer_market": {
-      "title": "junk drawer market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-10",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 10/10 · 12-6pm (rain date 10/17)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "hive mind books (bushwick)",
-      "source": "The Skint",
-      "link": "https://www.hivemindbooks.com/events/6406220261010",
-      "map": "https://maps.google.com/?q=hive%20mind%20books%20(bushwick)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-6pm (rain date 10/17): junk drawer market: hive mind books (bushwick)."
-    },
-    "skint_91943_3_bronx_night_market": {
-      "title": "bronx night market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-10",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 10/10 · 12-7pm (season finale)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "grand concourse at 161st street",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/bronxnightmarket/",
-      "map": "https://maps.google.com/?q=grand%20concourse%20at%20161st%20street%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-7pm (season finale): bronx night market: grand concourse at 161st street. rsvp required."
-    },
-    "skint_91943_4_electrix_vintage_pop_up_fill_a_bag_sale": {
-      "title": "electrix vintage pop-up fill-a-bag sale",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-10",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 10/10 · + sun 11am-7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "the maker’s space (williamsburg), $10/bag",
-      "source": "The Skint",
-      "link": "https://posh.vip/e/electrix-vintage-fillabag-sale-wburg-4",
-      "map": "https://maps.google.com/?q=the%20maker%E2%80%99s%20space%20(williamsburg)%2C%20%2410%2Fbag%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun 11am-7pm: electrix vintage pop-up fill-a-bag sale: the maker’s space (williamsburg), $10/bag."
-    },
-    "skint_91943_5_cozy_and_crafted_bazaar_at_grand_bazaar_nyc": {
+    "skint_91943_0_cozy_and_crafted_bazaar_at_grand_bazaar_nyc": {
       "title": "cozy and crafted bazaar at grand bazaar nyc",
       "type": "market",
       "label": "Festival / Market",
@@ -556,7 +466,7 @@
       "map": "https://maps.google.com/?q=100%20w%2077th%20st%20at%20columbus%20ave%20(indoors%20%2B%20outdoors)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-5pm: cozy and crafted bazaar at grand bazaar nyc: 100 w 77th st at columbus ave (indoors + outdoors). free admission."
     },
-    "skint_91943_6_the_new_york_mycological_society_s_4th_fungus_festiv": {
+    "skint_91943_1_the_new_york_mycological_society_s_4th_fungus_festiv": {
       "title": "the new york mycological society’s 4th fungus festival",
       "type": "market",
       "label": "Festival / Market",
@@ -573,7 +483,7 @@
       "map": "https://maps.google.com/?q=the%20battery%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-4pm: the new york mycological society’s 4th fungus festival: the battery."
     },
-    "skint_91943_7_62nd_annual_hispanic_day_parade": {
+    "skint_91943_2_62nd_annual_hispanic_day_parade": {
       "title": "62nd annual hispanic day parade",
       "type": "market",
       "label": "Festival / Market",
@@ -590,7 +500,7 @@
       "map": "https://maps.google.com/?q=fifth%20ave%20from%2044th%20st%20to%2069th%20st%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: 62nd annual hispanic day parade: fifth ave from 44th st to 69th st."
     },
-    "skint_91943_8_please_knock_presents_fourth_annual_erotic_art_fair": {
+    "skint_91943_3_please_knock_presents_fourth_annual_erotic_art_fair": {
       "title": "please knock presents: fourth annual erotic art fair",
       "type": "market",
       "label": "Festival / Market",
@@ -607,7 +517,7 @@
       "map": "https://maps.google.com/?q=tv%20eye%20(ridgewood)%2C%20%245%20admission%20(%2420%201pm%20early%20entry)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 2-9pm: please knock presents: fourth annual erotic art fair: tv eye (ridgewood), $5 admission ($20 1pm early entry)."
     },
-    "skint_91943_9_trans_art_bazaar": {
+    "skint_91943_4_trans_art_bazaar": {
       "title": "trans art bazaar",
       "type": "market",
       "label": "Festival / Market",
@@ -624,7 +534,7 @@
       "map": "https://maps.google.com/?q=brooklyn%20community%20pride%20center%20(crown%20heights)%2C%20%245%20suggested%20donation%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 4-9pm: trans art bazaar: brooklyn community pride center (crown heights), $5 suggested donation."
     },
-    "skint_91943_10_11th_annual_indigenous_peoples_day": {
+    "skint_91943_5_11th_annual_indigenous_peoples_day": {
       "title": "11th annual indigenous peoples day",
       "type": "market",
       "label": "Festival / Market",
@@ -641,7 +551,7 @@
       "map": "https://maps.google.com/?q=randall%E2%80%99s%20island%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun + mon (sun 10am to mon 12pm): 11th annual indigenous peoples day: randall’s island."
     },
-    "skint_91943_11_82nd_annual_columbus_day_parade": {
+    "skint_91943_6_82nd_annual_columbus_day_parade": {
       "title": "82nd annual columbus day parade",
       "type": "market",
       "label": "Festival / Market",
@@ -658,7 +568,7 @@
       "map": "https://maps.google.com/?q=fifth%20ave%20from%2044th%20st%20to%2072nd%20st%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon 11-3pm: 82nd annual columbus day parade: fifth ave from 44th st to 72nd st."
     },
-    "skint_91943_12_women_in_animation": {
+    "skint_91943_7_women_in_animation": {
       "title": "women in animation",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -675,7 +585,7 @@
       "map": "https://maps.google.com/?q=anthology%20film%20archives%20(east%20village)%2C%20%2414%20general%2C%20%2410%20seniors%2Fstudents%20NYC",
       "summary": "film fests/series. Pulled from The Skint's public article feed: sun thru 10/15 women in animation: anthology film archives (east village), $14 general, $10 seniors/students."
     },
-    "skint_91943_13_14th_architecture_design_film_festival": {
+    "skint_91943_8_14th_architecture_design_film_festival": {
       "title": "14th architecture + design film festival",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -692,39 +602,22 @@
       "map": "https://maps.google.com/?q=village%20east%20by%20angelika%2C%20%2417%20general%2C%20%2413%20students%20NYC",
       "summary": "film fests/series. Pulled from The Skint's public article feed: mon thru 10/17 14th architecture + design film festival: village east by angelika, $17 general, $13 students."
     },
-    "gary_2026_10_11_ai_engineer_hackathon": {
-      "title": "AI Engineer Hackathon",
+    "gary_2026_10_12_ai_engineer_where_ai_engg_meets_wall_street": {
+      "title": "AI Engineer - Where AI Engg Meets Wall Street",
       "type": "tech",
       "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-10-11",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sun, 10/11 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
+      "day": "Mon",
+      "date": "2026-10-12",
+      "time": "8 AM",
+      "sort": 8,
+      "when": "Mon, 10/12 · 8:00am",
+      "price": "$1499",
+      "free": false,
+      "place": "Sheraton Times Sq, West 53rd St",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/tm6uody/AI-Engineer-Hackathon",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: We are still accepting applications! Apply for the waitlist. --------------------- Spend a day building at the inaugural AI Engineer NYC Hackathon! Join AI Engineer & Major League Hacking (MLH) on Sunday, October 11, for a full day of building, experimenting, & meeting fellow AI engineers. Explore new developer tools, get hands-on support from our team of mentors, & perhaps build that side project you've been thinking about. You can come with or without a project idea, & with or without a team. We'll have a team formation activity & plenty of mentors to help you brainstorm if you aren't sure what you want to build. What to expect Time to build, experiment, & iterate on your project Opportunities to meet other AI engineers & share ideas Project demos & prizes Mentors to help you debug, brainstorm, & work through technical challenges Free food & drinks, including an evening happy hour Details Sunday, October 11, 2026 9 AM-9 PM - we'll share a full schedule with you before the event. 9th & 31st in Manhattan, New York. Register for the exact address! Free to participate Bring your laptop & your curiosity. We'll provide the food, drinks, mentors, & a community to build with!"
-    },
-    "gary_2026_10_11_ai_engineer_kids_day": {
-      "title": "AI Engineer Kids Day",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-10-11",
-      "time": "12:30 PM",
-      "sort": 12.5,
-      "when": "Sun, 10/11 · 12:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Bryant Park, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/l8a4xx2/AI-Engineer-Kids-Day",
-      "map": "https://maps.google.com/?q=Bryant%20Park%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Welcome to our very first AI Engineer Kids Day in New York City. We're thrilled to have you here! This special event brings together curious young minds & their families for a fun, hands-on introduction to artificial intelligence, coding, & technology. We're especially excited to welcome Cassandra Chin, an outstanding computer science graduate & author, who has led engaging workshops at conferences around the world. Cassandra will guide participants through interactive sessions designed to spark creativity, build confidence, & make complex ideas accessible & fun. These workshops are recommended for kids aged 9 to 15, & parents are encouraged to join. Whether you're completely new to AI or already curious about how things work behind the scenes, this is a chance to learn, explore, & create - together! Agenda 12:30 PM - Doors open & registration - Arrive, check in, & get settled. 1:00 PM - AI Workshop 3:00 PM - Workshop concludes, parents arrive for pickup 3:30 PM - Event ends Workshops Learn AI by Making Games with Phippy! Taught by Cassandra Chin What if you could dream up a game & bring it to life with AI? In this hands-on workshop, kids will team up with an AI coding assistant to create their own playable 2D games using the open source Godot game engine & colorful Phippy & Friends characters. From treasure hunts to tricky mazes, they'll choose the adventure & help shape the rules. As they build, play, & improve their games, kids will practice giving AI clear instructions, checking its work, & solving problems when things don't go as planned. Along the way, they'll discover that AI can help write the code, but they're the game designers in charge! No previous coding or game-making experience is needed, just curiosity & a willingness to experiment, explore, & play! Bio: Cassandra Chin is a keynote speaker, author, podcast host, & computer science student. She has led technology workshops for kids at international conferences since age 13 & is passionate about expanding access to tech education for women, minorities, & underserved communities. What to know before you come: Please bring your own laptop so you can fully participate in the hands-on activities. Space is limited, so if you're unable to attend, please cancel your registration to allow another child to join. We will be taking photos & videos during the event, which will be shared online & featured at the keynote of the AI Engineer World Fair conference that week. Please let us know if you agree to be included in the registration process. Parents or guardians will need to be present to sign their child in at the beginning & sign them out at the end of the event & they welcome to stay & assist your child. No lunch provided, please bring your snack & water Call for Volunteers We're looking for volunteers to support kids during the hands-on workshops. Parents & those with some technical background are invited to help guide & inspire kids as they build & explore. Please register at Open Google Form We can't wait to build with you!"
+      "link": "https://www.garysguide.com/events/06vpvru/AI-Engineer-Where-AI-Engg-Meets-Wall-Street",
+      "map": "https://maps.google.com/?q=Sheraton%20Times%20Sq%2C%20West%2053rd%20St",
+      "summary": "Gary's Guide: With Stefano Fabbri & Oliver Steffmann (Applied AI Enggr, OpenAI), SallyAnn DeLucia (Head of Product, Arize AI), CJ Avilla & Harrison Stall (Anthropic), Felippe Caso (Analytics Engg, Monzo), Nacho Martinez (AI Dev Advocate, Oracle)."
     },
     "gary_2026_10_12_ai_leaders_dinner_w_aws_arize": {
       "title": "AI Leaders Dinner w/ AWS & Arize",
@@ -811,8 +704,42 @@
       "map": "https://maps.google.com/?q=Online%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: We decode tech & market signals together, salon-style with a curated group - so you can operate, invest, & decide better. Past attendees have been founders, investors & operators who work in tech or tech-adjacent roles across industries Our Why AI can build a financial model, summarize an earnings call, or map a competitive landscape in seconds. What AI cannot do is connect the dots around what's happening right now - a technology, a trend, a business, an idea, a decision. Or what a moment like that actually signals. That takes human judgment, experience, & taste. The kind you only build by studying real examples, arguing them out loud, & testing your read against people who see it differently than you do. If you want a space to actually grow your thinking IRL & connect with people who match that energy, this is it. That's what Tech x Market Decoders is for. Every week, we pick one topic - a company or startup everyone's talking about, a technology reshaping an industry, or a shift in how things are being built or bought. Bring your laptop. Here's how it works: Check-in & Intros 15 minutes - decode solo. Quick research time. Dig into the news, the product, the tech, the data. 45 minutes - decode together. We open the floor. What did you find? Where do you disagree? What's convincing, what's overhyped, what would change your mind? This is where judgment actually gets built - not from reading alone, but from testing your read against someone else's. Last few minutes - wrap up You'll leave with a sharper read on the topic than you walked in with, & a few new perspectives you hadn't considered. That's the whole point. This week's topic: Personal AI agents - Muse, Instinct, & the fight for your inbox Meta's new agent Muse hit #1 on the App Store within 10 days of launch, passing ChatGPT - while a much smaller startup, Instinct, is quietly building a following by working entirely through text message, no app required. Both agents now book things, send emails, & make purchases on your behalf, & both have already run into real trust & privacy controversies. We're decoding: Are personal AI agents actually ready to be trusted with your accounts & money? Supporting questions: What's the real difference between \"an agent that acts for you\" & \"a chatbot that answers you\" - & does that difference justify the privacy trade-off? Does Meta's distribution advantage make Muse the inevitable winner, or does Instinct's leaner, invite-only approach have a real shot? What if Google, Apple & others launch personal AI Agents like Muse? Come as you are - operator, investor, builder, or just someone who reads too much tech or business news & wants to discuss with smart people. Prep not required but feel free to do some home research before you arrive if you'd like."
     },
+    "gary_2026_10_13_njit_center_for_student_entrepreneurship_pub_talks": {
+      "title": "NJIT Center For Student Entrepreneurship - Pub Talks",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-10-13",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Tue, 10/13 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "NJIT Highlander Pub, 150 Bleeker St, Newark",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/1g0o64z/NJIT-Center-For-Student-Entrepreneurship-Pub-Talks",
+      "map": "https://maps.google.com/?q=NJIT%20Highlander%20Pub%2C%20150%20Bleeker%20St%2C%20Newark",
+      "summary": "Gary's Guide: Join the NJIT Center for Student Entrepreneurship for a night out at the pub!Grab a drink & learn more about how to launch successful tech-focused ventures from NJITs Professor, Michael Ehrlich talking about \\"
+    },
+    "gary_2026_10_13_nautilus_demo_day": {
+      "title": "Nautilus Demo Day",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-10-13",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Tue, 10/13 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/qd3npbg/Nautilus-Demo-Day",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Meet 13 Korean startups building across AI, robotics, SaaS & deep tech."
+    },
     "gary_2026_10_13_ai_the_culture_irl_create_once_publish_everywhere": {
-      "title": "AI & The Culture IRL | Create Once. Publish Everywhere.",
+      "title": "AI & The Culture IRL - Create Once, Publish Everywhere",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Tue",
@@ -845,8 +772,8 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With founder/CEOs Benjamin Fabre (DataDome), Olivier Havette (Lenet), Jean-Louis Quguiner (Gladia), Valentine Bleicher (M&A, A&O Shearman)."
     },
-    "gary_2026_10_13_engineering_x_ai_leaders_happy_hour": {
-      "title": "Engineering x AI Leaders Happy Hour",
+    "gary_2026_10_13_engg_x_ai_leaders_happy_hour": {
+      "title": "Engg x AI Leaders Happy Hour",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Tue",
@@ -858,9 +785,9 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/b69asy7/Engineering-x-AI-Leaders-Happy-Hour",
+      "link": "https://www.garysguide.com/events/b69asy7/Engg-x-AI-Leaders-Happy-Hour",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Step away from the conference buzz for conversations with the people building & scaling AI in production. Join Reducto, Modal, Mintlify, & Browserbase for an AIE NYC happy hour at The Skylark Rooftop Bar Who you'll meet: Directors, VPs, & executives leading engineering, AI, & ML at enterprise companies, with a special focus on financial services, banks, hedge funds, & fintech. When: Tuesday, October 13, 2026 6-8 p.m. ET Where: The Skylark 200 W 39th St, New York What to expect: An open bar & an evening of relaxed conversation with fellow technical leaders. Space is limited & registration is subject to approval. Request your spot above, we'd love to see you there"
+      "summary": "Gary's Guide: With Reducto, Modal, Mintlify & Browserbase."
     },
     "gary_2026_10_13_slides_to_startups_what_comes_after_consulting": {
       "title": "Slides To Startups - What Comes After Consulting",
@@ -879,8 +806,8 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With EliseAI."
     },
-    "gary_2026_10_13_creative_showcase_vol_7": {
-      "title": "Creative Showcase Vol. 7",
+    "gary_2026_10_13_creative_showcase": {
+      "title": "Creative Showcase",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Tue",
@@ -892,26 +819,9 @@
       "free": false,
       "place": "Index Chinatown, 120 Walker St, 3rd Fl",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/fyftxw6/Creative-Showcase-Vol-7",
+      "link": "https://www.garysguide.com/events/fyftxw6/Creative-Showcase",
       "map": "https://maps.google.com/?q=Index%20Chinatown%2C%20120%20Walker%20St%2C%203rd%20Fl",
       "summary": "Gary's Guide: With Katie Ehrlich (Founder, StudioKat)."
-    },
-    "gary_2026_10_14_agents_in_the_am_enterprise_ready_agents_w_datarobot": {
-      "title": "Agents In The AM - Enterprise-Ready Agents w/ DataRobot & NVIDIA",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-10-14",
-      "time": "9:30 AM",
-      "sort": 9.5,
-      "when": "Wed, 10/14 · 9:30am",
-      "price": "Free",
-      "free": true,
-      "place": "Westin Times Sq, 270 W 43rd St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/pvguexb/Agents-In-The-AM-Enterprise-Ready-Agents-w-DataRobot-NVIDIA",
-      "map": "https://maps.google.com/?q=Westin%20Times%20Sq%2C%20270%20W%2043rd%20St",
-      "summary": "Gary's Guide: Exec briefing + hands-on workshop. CIOs on running agents in production, NVIDIA building blocks for agentic AI, then a hands-on lab building agents on DataRobot w/ NVIDIA (beginner & advanced tracks). Breakfast & lunch included. Registrations reviewed. With Jeff Wilmot (CRO, DataRobot), Jeff Goldberg (VP Americas, DataRobot), Sam Pastoriza (Solns Architect, NVIDIA), Marlon Fuentes (Lead Product Mktg Engr, DataRobot), Marc Amarillas (Dir. Customer Success Engg, DataRobot). Stay for the afternoon Build Club + happy hour at the same venue: luma.com/u9aqssho"
     },
     "gary_2026_10_14_code_coffee_hackathon": {
       "title": "Code & Coffee Hackathon",
@@ -981,25 +891,8 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: A weekly gathering where you can join fellow social impact entrepreneurs of all stripes & co-work over coffee & pastries at Anew Caf & Goods.We'll reserve space in the caf for the meeting, please order a drink or pastry. Looking forward to seeing you!Anew is a gathering space & discovery center for the social impact community."
     },
-    "gary_2026_10_14_nyc_ai_builders_agent_hack_happy_hour": {
-      "title": "NYC AI Builders - Agent Hack + Happy Hour",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-10-14",
-      "time": "2:30 PM",
-      "sort": 14.5,
-      "when": "Wed, 10/14 · 2:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Times Sq, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/coyleaq/NYC-AI-Builders-Agent-Hack-Happy-Hour",
-      "map": "https://maps.google.com/?q=Times%20Sq%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Casual afternoon of building agents alongside NYC devs. Bring a laptop & an idea, pair-debug, demo what you're working on & get real feedback. No talks, no pitches. DataRobot & AI credits for attendees (limited). Hosted by DataRobot. RSVP required."
-    },
     "gary_2026_10_14_ai_builders_agent_hack_happy_hour": {
-      "title": "AI Builders - Agent Hack + Happy Hour",
+      "title": "AI Builders - Agent Hack Happy Hour",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Wed",
@@ -1011,12 +904,12 @@
       "free": true,
       "place": "Times Sq, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/mz4p8bk/AI-Builders-Agent-Hack-Happy-Hour",
+      "link": "https://www.garysguide.com/events/coyleaq/AI-Builders-Agent-Hack-Happy-Hour",
       "map": "https://maps.google.com/?q=Times%20Sq%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Have an idea for a cool agent but no clue where to start? Built something you want to show off? Just want to meet other people building with AI in NYC? Come hang out. Build Club is a casual afternoon of co-working, building, & connecting with developers & AI enthusiasts exploring where AI powered development is headed. Bring your laptop, grab a slice & some caffeine, find a spot, & work on whatever you're excited about surrounded by people doing the same. Bring an idea & leave with a prototype. Demo what you've been working on & get real feedback. Or just listen in, ask questions, & meet the people behind NYC's AI scene. What to expect: Live building sessions & pair debugging Idea sharing & collaboration AI & DataRobot focused discussions Networking with NYC's AI community Good coffee, better conversations DataRobot & AI credits will be available for attendees. Limited quantity, first come first served. No presentations. No pitches. No pressure. Just builders building. New to DataRobot or agent development? Perfect. Show up anyway. Limited capacity. RSVP required."
+      "summary": "Gary's Guide: With DataRobot."
     },
-    "gary_2026_10_14_legal_engineers_nyc_what_do_clients_want_law_firm_ai": {
-      "title": "Legal Engineers NYC: What Do Clients Want? Law Firm AI Governance",
+    "gary_2026_10_14_legal_engineers_what_do_clients_want_law_firm_ai_gov": {
+      "title": "[Legal Engineers] What Do Clients Want - Law Firm AI Governance",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Wed",
@@ -1026,10 +919,10 @@
       "when": "Wed, 10/14 · 4:00pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, 40 Wall St, Meeting Room A, 28th Fl",
+      "place": "Venue, 40 Wall St, 28th Fl",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/kqrc1et/Legal-Engineers-NYC-What-Do-Clients-Want-Law-Firm-AI-Governance",
-      "map": "https://maps.google.com/?q=Venue%2C%2040%20Wall%20St%2C%20Meeting%20Room%20A%2C%2028th%20Fl",
+      "link": "https://www.garysguide.com/events/kqrc1et/-Legal-Engineers-What-Do-Clients-Want-Law-Firm-AI-Governance",
+      "map": "https://maps.google.com/?q=Venue%2C%2040%20Wall%20St%2C%2028th%20Fl",
       "summary": "Gary's Guide: What Do Clients Want? Law Firm AI Governance Clients are writing AI rules for their law firms: outside counsel guidelines that ban public AI tools, insurance carriers that require approval for each AI use or reserve the right to audit it, procurement questionnaires that ask how AI use is controlled. What does it take to meet those rules, & to prove you did? We will bring real, published client AI requirements. Pick one & build an approach to it: the policy, tools, workflow or checks a firm would need, & how it would show the client it complied. Or show a governance tool you use or have tried, from approved-tool lists & logging to governance platforms & things you built. Laptops open; no coding required; demos encouraged. ICME Labs will show how PreFlight lets firms prove to clients that their AI followed the rules, without disclosing client data. We finish with the group's map of what clients are asking for, the approaches that work, & the gaps nobody has solved yet. Our first session brought 47 legal engineers to Falcon Rappaport & Berkman to test which AI tools invent case law. This one turns to the rules clients are writing for the firms that use AI. Date: Wednesday, October 14, 4:00pm - 5:30pm Location: Meeting Room A, 40 Wall St, 28th Floor, New York. Legal Engineers NYC is a hands-on group for people who turn law, policy, & practice into the workflows, agents, evals, & controls that run legal work. We meet weekly on Thursdays in Manhattan, laptops open, & build something each time. Any platform counts, & no coding required. Legal Engineers NYC is organized by ICME Labs & led by cofounder Houman Shadab. Contact houman@icme.io to host or sponsor a session."
     },
     "gary_2026_10_14_ai_ml_lecture_mixer": {
@@ -1049,8 +942,8 @@
       "map": "https://maps.google.com/?q=Amazon%20JFK27%20Hank%2C%2012%20W%2039th%20St",
       "summary": "Gary's Guide: With Zayne Sprague (Courant Inst of Mathematical Sciences)."
     },
-    "gary_2026_10_14_off_the_record_by_pen_ventures": {
-      "title": "Off The Record By PEN Ventures",
+    "gary_2026_10_14_off_the_record_w_pen_ventures": {
+      "title": "Off The Record w/ PEN Ventures",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Wed",
@@ -1060,11 +953,11 @@
       "when": "Wed, 10/14 · 5:00pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, Registration Approval Required",
+      "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/b63qyc3/Off-The-Record-By-PEN-Ventures",
-      "map": "https://maps.google.com/?q=Venue%2C%20Registration%20Approval%20Required",
-      "summary": "Gary's Guide: OFF THE RECORD AI founders. New York. One room. Wednesday, October 14 5-7 PM New York City Hosted by PEN Ventures What happens when some of Korea's most ambitious AI founders meet the people building, investing, & buying AI in New York? Let's find out. Join PEN Ventures for a relaxed evening bringing together Korean AI founders, U.S. investors, tech leaders, operators, & friends of the NYC AI community. No panels. No pitch decks. No formal program. Just drinks, good people, & conversations that could turn into something real. Come meet the next wave of Korean AI. Whether you're: Building AI Investing in AI Buying AI Helping companies enter the U.S. Looking for your next partnership come grab a drink & see who's in the room. At check-in, pick a badge that tells people what you're looking for: CAPITAL CUSTOMERS PARTNERS U.S. MARKET TALENT JUST HERE TO MEET PEOPLE Then let the conversations happen. Who's coming? AI founders exploring the U.S. market U.S. investors looking for the next generation of AI companies AI operators & technology leaders building in New York Corporate & strategic partners looking for new solutions People who know the people you want to meet Come for a drink. Meet a founder. Find a connection. You never know what starts Off The Record. PEN Ventures Wednesday, October 14, 2026 5:00-7:00 PM New York City RSVP required Attendance subject to confirmation"
+      "link": "https://www.garysguide.com/events/b63qyc3/Off-The-Record-w-PEN-Ventures",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Meet next wave of Korean AI."
     },
     "gary_2026_10_14_creativity_is_dead_long_live_creativity_gen_ai_meani": {
       "title": "Creativity Is Dead, Long Live Creativity - Gen AI & Meaning Of Art",
@@ -1219,6 +1112,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join YC Alumni & friends for our recurring casual meetup. This gathering is designed to bring together ambitious, funded founders of fast-growing companies for an evening of high-level networking & community building. The NYC Founders Club was established by YC Alumni (Aakash Shah, Adam Alpert, & Mike Wang) to foster a tight-knit ecosystem for builders. Whether you're looking to share insights or connect with peers, we'd love to see you there. Our Partner Sponsored by Rho the all-in-one financial platform built for startups. From high-yield savings to integrated spend management, Rho helps high-growth teams stay lean & move fast. By registering, you consent to receiving communications from NYC Founders Club regarding this event & future opportunities. By participating in this Rho-sponsored event, you acknowledge that you may be photographed or recorded. You grant irrevocable consent to Rho & its partners to use your likeness in promotional materials without compensation. You consent to receive marketing communications & newsletters from Rho. You may unsubscribe at any time. Rho is a fintech company, not a bank. Checking & card services provided by Webster Bank, N.A., member FDIC; savings account services provided by American Deposit Management, & its partner banks."
     },
+    "gary_2026_10_14_fashion_beauty_media_storytellers_influencers": {
+      "title": "Fashion & Beauty Media - Storytellers & Influencers",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-10-14",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Wed, 10/14 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "SVA Theatre, 333 W 23rd St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/gloxgkk/Fashion-Beauty-Media-Storytellers-Influencers",
+      "map": "https://maps.google.com/?q=SVA%20Theatre%2C%20333%20W%2023rd%20St",
+      "summary": "Gary's Guide: With Syreeta Gates (Founder, Most Incredible Studio), Daise Bedolla (Editor, Into The Gloss), Caroline Palmer (Author, Workhorse), Vanessa Santana (Dir., Maesa), Emilia Petrarca (Shop Rat)."
+    },
     "gary_2026_10_14_build_w_stripe_community_embed_payments_into_your_pl": {
       "title": "Build w/ Stripe Community - Embed Payments Into Your Platform Or Marketplace",
       "type": "startup",
@@ -1253,23 +1163,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: ABOUT FOUNDERS BASKETBALL Founders Basketball is a growing community of startup founders & investors who love to connect over business & buckets. WHO ATTENDS? Attendees represent companies in various stages of growth, from pre-seed solo founders to Series B executives. We host founders from a variety of industries; including CPG, Venture, Entertainment, Retail, Tech & more. Please email hi@neweditionconsulting.com with any questions! WHAT TO EXPECT: 4-on-4 Half Court Tournament Half-court shot competition Prizes for the winners. ATTENDEES WILL GET TO SAMPLE AND DEMO FROM THE FOLLOWING BRAND PARTNERS Ample Hydration: Naturally refreshing maple water with clean taste, subtle sweetness, & nothing artificial. Goldie: Better-for-you lemonade with a full serving of manuka honey in every can. Use Code: GOLDIEVIP20 Gigantic Candy: Candy bars for grown-up taste buds: less sweetness, real flavor, all thrill. Use Code: Founders20 Drumroll: The healthier for you donut! Trelli: Reinvents the medicine cabinet with better-for-you solutions, naturally derived Highrise Food Co: Makes occasion-based protein bars for AM energy & PM recovery-protein designed around the way you live Good Time Brewing: Changing the beer, bar & beverage industry by offering the best-tasting non alcoholic beers for all to enjoy THIS EVENT IS POWERED BY: New Edition A Brooklyn-based creative agency helping emerging eCommerce, Retail & CPG brands create content. We serve as an extension of your in-house team, handling content deliverables & execution across video, social media, podcasts, & UGC-whatever moves the needle. We get it. Content is hard. Let us take it off your plate. Let's Chat! Stifel Bank Stifel Financial Corp. (NYSE: SF) is a global investment bank with $500B+ AUM. Stifel Bank, Member FDIC, offers fund banking, venture lending, capital call, tailored startup solutions. Hoopsklub At Hoops Klub, ball ain't just a game - it's life. It's in the walls, the floor, the air we breathe. This place was built for hoopers, by a hooper, to keep the culture alive. From real runs to skills sessions, this ain't just a gym - it's where passion, community, & good vibes come together. If you love the game, you're already family."
     },
-    "gary_2026_10_15_catalyst_accelerator_2027_info_session_ama": {
-      "title": "Catalyst Accelerator  2027 Info Session + AMA",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-10-15",
-      "time": "7 AM",
-      "sort": 7,
-      "when": "Thu, 10/15 · 7:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, Online",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/fu9xygo/Catalyst-Accelerator-2027-Info-Session-AMA",
-      "map": "https://maps.google.com/?q=Venue%2C%20Online",
-      "summary": "Gary's Guide: Catalyst is Robin Hood's accelerator for pre-seed startups & early-stage tech nonprofits using s/w, AI & data to improve lives of low-income people."
-    },
     "gary_2026_10_15_ai_regulation_essentials_how_to_develop_cohesive_glo": {
       "title": "AI Regulation Essentials - How To Develop Cohesive Global Strategy",
       "type": "tech",
@@ -1302,7 +1195,24 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/u4w7pu0/AI-Unbound-By-PEN-Ventures",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: AI // UNBOUND Where Korean AI Meets the U.S. AI moves fast. Borders shouldn't slow it down. AI // UNBOUNDbrings Korean AI founders into the room with investors, builders, researchers, corporate leaders, universities, & U.S. market partners. Pitch ideas. Meet investors. Find customers. Explore new markets. Build partnerships. Fromcapital & customers to talent & market access, we're bringing the right people together to help Korean AI companiesbuild, land, & scale in the U.S. In Collaboration With NYU Stern Berkley Center for Entrepreneurship Supermoon Broadfield Law QUAY Accelerator Boxsy Articblue AI NYCEDC Arizona Commerce Authority SelectFlorida Virginia Arlington Economic Development WHAT TO EXPECT Discover Korea's Next AI BreakoutsMeet a new generation of Korean AI startups building ambitious products for global markets. Live Startup PitchesHear directly from a curated group of Korean AI startups pitching their companies, technology, & vision for the U.S. market. Fundraising in the U.S.Join Elisabeth from Boxsy for a practical conversation on fundraising in the U.S.-from preparing your story & meeting investors to navigating the realities of raising capital in a new market. AI Leaders & Investor PerspectivesHear from investors, builders, & technology leaders about where AI is heading & what it takes to build & scale in today's market. Explore the U.S. MarketHear directly from leaders representing New York, Arizona, Virginia, & Florida about market access, resources, incentives, & opportunities for international companies. Meet the Next GenerationConnect with students, researchers, universities, & aspiring entrepreneurs exploring AI & building their own paths in technology. Find Your PeopleWhether you're looking for capital, customers, talent, a co-founder, a market entry partner, or simply your next big idea, this is a room built for making things happen. WHO'S IN THE ROOM Korean AI Startups Investors Entrepreneurs Students & Researchers Corporate Leaders Universities U.S. State & Economic Development Leaders Technology & Ecosystem Partners COME CURIOUS. LEAVE INSPIRED. Whether you're building an AI company, investing in one, exploring your first idea, or looking for your next opportunity, AI // UNBOUND is your invitation to step into the room. Meet the founders. Hear the pitches. Learn how to raise. Explore the possibilities. AI // UNBOUNDPEN Ventures Thursday, October 15, 2026 10:00 AM-3:00 PMNew York City RSVP required Attendance subject to confirmation"
+      "summary": "Gary's Guide: With NYU Stern Berkley Center for Entrepreneurship, QUAY Accelerator, Supermoon, NYCEDC."
+    },
+    "gary_2026_10_15_the_rise_circle_innovation_access_impact": {
+      "title": "The Rise Circle - Innovation, Access & Impact",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Thu, 10/15 · 11:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, 128 Washington St, Newark",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/41z8121/The-Rise-Circle-Innovation-Access-Impact",
+      "map": "https://maps.google.com/?q=Venue%2C%20128%20Washington%20St%2C%20Newark",
+      "summary": "Gary's Guide: With Idongesit Obeya (Founder, Altruistic Scribe)."
     },
     "gary_2026_10_15_nucleate_ny_activator_info_session_nyu_langone": {
       "title": "Nucleate NY Activator Info Session - NYU Langone",
@@ -1389,8 +1299,25 @@
       "map": "https://maps.google.com/?q=Equal%20Space%2C%20550%20Broad%20St%2C%20Newark",
       "summary": "Gary's Guide: With Tia Lacole Broadus (CEO, Fitness Compulsion), Aquila Leon-Soon (CEO, ATS+Partners), Dee Marshall (CEO, Diverse & Engaged), Vanessa King (Founder, Evara Private)."
     },
-    "gary_2026_10_15_building_a_100m_company_leveraging_relationships_as_": {
-      "title": "Building A $100M+ Company - Leveraging Relationships As Growth Capital | The Builder Series X SalesParrot",
+    "gary_2026_10_15_dessn_creative_machines": {
+      "title": "Dessn - Creative Machines",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 10/15 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Betaworks, 29 Little W 12th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/5zcf0a5/Dessn-Creative-Machines",
+      "map": "https://maps.google.com/?q=Betaworks%2C%2029%20Little%20W%2012th%20St",
+      "summary": "Gary's Guide: With founders Kasey Klimes (Primitive), Gabriella Hachem (Dessn), Maxim Leyzerovich (Designer, FLORA)."
+    },
+    "gary_2026_10_15_building_100m_company_leveraging_relationships_as_gr": {
+      "title": "Building $100M+ Company - Leveraging Relationships As Growth Capital",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Thu",
@@ -1402,77 +1329,26 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/pzk5oyf/Building-A-100M-Company-Leveraging-Relationships-As-Growth-Capital-The-Builder-Series-X-SalesParrot",
+      "link": "https://www.garysguide.com/events/pzk5oyf/Building-100M-Company-Leveraging-Relationships-As-Growth-Capital",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: The Builder Series: A 45,000+ member community redefining what networking looks like - curating founders, operators, investors & more into intentional rooms built for experiences people remember & relationships that last. It's a direct line to the most ambitious builders, with a community that actually shows up. We've hosted 95+ events, including: Rooftop mixer series: Our signature event, 18 editions Founder & investor-led panels, curated by sector Intimate lunch & dinner events for Seed-Series A+ founders & investors in our network Notable events: Cliqk Launch Party w/ Ilias Anwar & Rohan Gurram (2,000+ RSVPs) $1.5M Pitch Competition with FounderSquare August founder & investor lunch: 10 investors 20 founders $2.3B+ combined AUM $1M median cheque size $1.4M median raised per founder Find us here: Instagram LinkedIn TikTok Facebook X Website Community snapshot: 7,200+ RSVPs 5,000+ unique people 119 avg RSVPs per event 1,198 people have been to two or more Who's in the room: Founders ~52% Operators, engineers, creatives & senior professionals ~29% Investors & advisors ~19% Founder stage: ~16% idea/pre-product ~17% MVP/early product ~36% pre-seed ~20% seed ~7% Series A ~4% Series B+ Industries: 27% AI/Deep Tech 26% SaaS/B2B 16% Consumer 14% Fintech 13% Health 8% Media Investor cheque sizes: ~8% What you get when you sign up: Small bites served mid-way through event: Pictured below Photographer: Headshots, group photos, candid moments & shots at our branded backdrop Videographer: Recap footage + our founder interview Founder Spotlight (Series): Share who you are & what you're building for reuse on socials across all our socials Attendees will receive a NFC digital business card upon entry, thanks to SmartCard Concierge Check in: A member of our team greets you, fits your wristband, & walks you through the event 1-3 warm intros to people of value, through The Builder Series network & your own intro system Access to The Builder Series network & support from our network & our connections. A chance to be on a booked guest on The Builder Series podcast & talk about what you're building Events Partner SmartCard: A subscription-free digital business card made from aerospace-grade titanium that instantly shares your contact info & social media with just a tap while also capturing the contact details of the person you're speaking with. Schedule: 6:00 - 7:00 PM - Arrival + Concierge Check-In 7:00 PM - Food Served 7:15 - 7:30 PM - Group Photo + Announcements 7:30 - 8:30 PM - Founder Spotlights + Interviews 7:30 - 9:00 PM - Open Networking More Details Tickets required for all attendees (+1s included) Sponsorship inquiries: dylan@thebuilderseries.co, partnerships@thebuilderseries.co 917-242-2821 / Business WhatsApp Join The Builder Series network: Apply here or by email dylan@thebuilderseries.co The Builder Series: Event Disclaimer, Media Consent & Code of Conduct: Click to view By registering or attending The Builder Series event, you acknowledge that you have read, understood, & agree to abide by all policies, rules, & community standards set by The Builder Series. PLEASE NOTE Tickets are non-refundable unless the event is canceled & not rescheduled. Tickets are non-refundable unless the event is canceled. Refund & Transfer Policy Transfers. If you can no longer attend, you may transfer your ticket to someone else by providing the new attendee's name to the organizers. No refunds. Tickets are non-refundable. No monetary exchanges will be issued by the organizers. Event credit. If you miss an event, you may receive credit toward a future event. Credit expires 30 days after the missed event's date. Weather cancellations. If an event has to be rescheduled due to weather, you will be re-registered for the new date. Spotlight tickets. Spotlight tickets are fully non-refundable. If you can't attend, you may speak at a future event instead. Out-of-state purchases. The only refundable tickets are those purchased from outside New York - for example, from Toronto, California, or Austin. Connect with Me: Join 45,000+ people shaping the future Join the Newsletter Follow the Builder Series Find me here"
+      "summary": "Gary's Guide: With The Builder Series."
     },
-    "gary_2026_10_15_ugly_talk_hispanic_heritage_month": {
-      "title": "Ugly Talk - Hispanic Heritage Month",
+    "gary_2026_10_15_catalyst_2027_accelerator_info_session_ama": {
+      "title": "Catalyst 2027 Accelerator - Info Session & AMA",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Thu",
       "date": "2026-10-15",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Thu, 10/15 · 6:30pm",
-      "price": "$15",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/5rbgqy8/Ugly-Talk-Hispanic-Heritage-Month",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With founder/CEOs Christopher Saravia (Carebox), Christopher Martinez (Ziora Copilot)."
-    },
-    "gary_2026_10_15_founder_dinner": {
-      "title": "Founder Dinner",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-10-15",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Thu, 10/15 · 6:30pm",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 10/15 · 6:00pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "Venue, Online",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/6uk2ur4/Founder-Dinner",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Join us for an intimate evening with a highly curated group of Series A/B founders that are scaling at the most beautiful venue in NYC. Who Should Attend? Series A, B & above Why Attend? Honest conversations with the best founders at similar stages Tactical insights on fundraising, GTM, & scaling from peers who get it What Is Included? 4-course dinner with sommelier-paired wines Live pianist The builders behind some of the fastest-growing companies in the country Important Reminders: Dress Code: Business, smart casual Stay Connected: Follow us on Instagram or LinkedIn for updates on our community, events & opportunities. Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes. About the Hosts & Sponsors: Brderless brings together the most extraordinary founders through a carefully curated community. Stifel Financial Corp. (NYSE: SF) is a diversified global wealth management, investment bank, & commercial banking institution with $500B in AUM. Stifel Bank, Member FDIC, provides venture & fund banking solutions to venture capital-backed companies & their investors. Backed by the strength & legacy of Stifel, the Bank delivers tailored banking, treasury management, & lending solutions - working closely with Stifel's Investment Banking & Wealth Management teams to meet the diverse asset management needs of companies & individuals. To learn more, visit: https://stifelventurebanking.com/ Concord Visa is the immigration law firm built for fast-growing companies. Most firms were designed for a slower world: long email chains, unclear timelines, one country at a time. Concord was built differently. Our in-house attorneys cover every visa pathway into the US, UK, Australia, Canada & New Zealand, & our platform lets founders & their teams track every case in one place. We work with founders backed by a16z & YC, scaling companies & top global talent, helping them move & hire across borders without the drag. Don't let immigration be the bottleneck for your growth."
-    },
-    "gary_2026_10_15_next_frontier_of_ai_agents": {
-      "title": "Next Frontier Of AI Agents",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-10-15",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Thu, 10/15 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/cpq0kxo/Next-Frontier-Of-AI-Agents",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Most agents live in a terminal window. For one night, we are letting them out. We're keeping the venue spec mostly redacted. It's in Midtown, the field of view is wider than you're used to, & your monitor will feel small when you get home. Join fellow AI engineers for a night built around the next frontier of AI agents, capable of predictions. Bring what you're building & what you're stuck on. The rest you'll see when you get there. Free to attend. Space is limited. Talks by Prior Labs is building foundation models for structured data. Its flagship model, TabPFN, brings the foundation model approach to tabular data, enabling fast predictions without training a model from scratch. Mistral builds frontier AI models & products, with a focus on making powerful, efficient AI accessible to developers & enterprises."
-    },
-    "luma_2026_10_11_ai_engineer_new_york_hackathon": {
-      "title": "AI Engineer New York Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-10-11",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 10/11 · 1pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/AIEngineerNYHackathon",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Major League Hacking, Major League Hacking, AI Engineer, Ryan Swift, Mary Siebert"
+      "link": "https://www.garysguide.com/events/tuzq48r/Catalyst-2027-Accelerator-Info-Session-AMA",
+      "map": "https://maps.google.com/?q=Venue%2C%20Online",
+      "summary": "Gary's Guide: Catalyst is Robin Hood's accelerator for pre-seed startups & early-stage tech nonprofits using s/w, AI & data to improve lives of low-income people."
     },
     "luma_2026_10_12_beyond_vibe_coding_let_s_design_and_build_fun_micro_": {
       "title": "Beyond Vibe Coding: Let's Design and Build Fun Micro Animations",
@@ -1542,6 +1418,57 @@
       "map": "https://maps.google.com/?q=Elsie%20Rooftop%20NYC",
       "summary": "Luma NYC: Keycard, Keycard, Braintrust, Socket, Docker DevRel"
     },
+    "luma_2026_10_13_engineering_x_ai_leaders_happy_hour": {
+      "title": "Engineering x AI Leaders Happy Hour",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-10-13",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Tue, 10/13 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/reductoai-s3br",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Reducto Community Calendar, Palak Agarwal, Livia Han, Adel Wu, Lauren Volpi"
+    },
+    "luma_2026_10_13_fireworks_profound_code_cocktails_nyc": {
+      "title": "Fireworks & Profound: Code & Cocktails NYC",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-10-13",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Tue, 10/13 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/gydwrqt6",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Fireworks, Fireworks"
+    },
+    "luma_2026_10_14_ai_leaders_happy_hour_nyc_october_2026": {
+      "title": "AI Leaders Happy Hour - NYC, October 2026",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-10-14",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Wed, 10/14 · 9:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/ai-leaders-nyc",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Daytona, Daytona, Infinum, Ned Rudkins-Stow"
+    },
     "luma_2026_10_14_open_by_design_nyc_developer_meetup_together_ai_nvid": {
       "title": "Open by Design: NYC Developer Meetup | Together AI × NVIDIA × Reflection",
       "type": "tech",
@@ -1557,24 +1484,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/TAIxNvidiaxReflection",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Together AI Calendar, Together AI, NVIDIA"
-    },
-    "luma_2026_10_14_fintech_run_club_oktoberfest_version_ft_rain_monk_jp": {
-      "title": "Fintech Run Club Oktoberfest version ft. Rain + Monk + JP Morgan",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-10-14",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Wed, 10/14 · 10:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Marsha P. Johnson Memorial Fountain",
-      "source": "Luma NYC",
-      "link": "https://luma.com/fintech-tw0h",
-      "map": "https://maps.google.com/?q=Marsha%20P.%20Johnson%20Memorial%20Fountain%20NYC",
-      "summary": "Luma NYC: FinTech Run Club, FinTech Run Club, Pedro D'Avila, Kendall Warson, Connor Griffin, Rain Events"
+      "summary": "Luma NYC: Together AI Calendar, Together AI, NVIDIA, Reflection"
     },
     "nyu_tandon_2026_10_14_machine_learning_for_discovery_deciphering_rna_splic": {
       "title": "Machine Learning for Discovery: Deciphering RNA Splicing Logic",
@@ -1694,40 +1604,6 @@
       "link": "https://engineering.nyu.edu/events/2026/10/22/securing-unseen-identity-management-machine-identities-and-ai-threats",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_10004841_2026_10_11_rent_the_musical": {
-      "title": "RENT: The Musical",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sun",
-      "date": "2026-10-11",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sun, 10/11 · 2pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-11/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
-    },
-    "jc_culture_44068_2026_10_11_cryptid_mountain_live_2026": {
-      "title": "Cryptid Mountain Live 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-10-11",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sun, 10/11 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/cryptid-mountain-live-2026-2/",
-      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
     },
     "jc_culture_10003572_2026_10_14_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -2182,34 +2058,25 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_10_10_11_am": [
-      "skint_91943_0_51st_annual_flatbush_frolic_street_fair",
-      "skint_91943_4_electrix_vintage_pop_up_fill_a_bag_sale"
-    ],
-    "cluster_2026_10_10_12_pm": [
-      "skint_91943_1_thrift2death_jersey_city_thrift_market",
-      "skint_91943_2_junk_drawer_market",
-      "skint_91943_3_bronx_night_market"
-    ],
     "cluster_2026_10_11_10_am": [
-      "skint_91943_5_cozy_and_crafted_bazaar_at_grand_bazaar_nyc",
-      "skint_91943_10_11th_annual_indigenous_peoples_day"
-    ],
-    "cluster_2026_10_11_2_pm": [
-      "skint_91943_8_please_knock_presents_fourth_annual_erotic_art_fair",
-      "jc_culture_10004841_2026_10_11_rent_the_musical"
+      "skint_91943_0_cozy_and_crafted_bazaar_at_grand_bazaar_nyc",
+      "skint_91943_5_11th_annual_indigenous_peoples_day"
     ],
     "cluster_2026_10_12_10_pm": [
-      "skint_91943_13_14th_architecture_design_film_festival",
+      "skint_91943_8_14th_architecture_design_film_festival",
       "luma_2026_10_12_koom_opening_night"
     ],
     "cluster_2026_10_12_6_pm": [
       "gary_2026_10_12_ai_leaders_dinner_w_aws_arize",
       "gary_2026_10_12_b2b_ai_founders_investors_meetup"
     ],
+    "cluster_2026_10_13_5_pm": [
+      "gary_2026_10_13_njit_center_for_student_entrepreneurship_pub_talks",
+      "gary_2026_10_13_nautilus_demo_day"
+    ],
     "cluster_2026_10_13_6_pm": [
       "gary_2026_10_13_navigating_transatlantic_m_a_investments",
-      "gary_2026_10_13_engineering_x_ai_leaders_happy_hour",
+      "gary_2026_10_13_engg_x_ai_leaders_happy_hour",
       "luma_2026_10_13_snowflake_x_google_cloud_ai_agent_lab"
     ],
     "cluster_2026_10_14_11_am": [
@@ -2220,17 +2087,13 @@
       "gary_2026_10_14_unblocking_agi",
       "gary_2026_10_14_coworking_for_social_entrepreneurs"
     ],
-    "cluster_2026_10_14_2_30_pm": [
-      "gary_2026_10_14_nyc_ai_builders_agent_hack_happy_hour",
-      "gary_2026_10_14_ai_builders_agent_hack_happy_hour"
-    ],
     "cluster_2026_10_14_4_pm": [
-      "gary_2026_10_14_legal_engineers_nyc_what_do_clients_want_law_firm_ai",
+      "gary_2026_10_14_legal_engineers_what_do_clients_want_law_firm_ai_gov",
       "jc_culture_10003572_2026_10_14_hamilton_park_farmers_market_2026"
     ],
     "cluster_2026_10_14_5_pm": [
       "gary_2026_10_14_ai_ml_lecture_mixer",
-      "gary_2026_10_14_off_the_record_by_pen_ventures"
+      "gary_2026_10_14_off_the_record_w_pen_ventures"
     ],
     "cluster_2026_10_14_5_30_pm": [
       "gary_2026_10_14_creativity_is_dead_long_live_creativity_gen_ai_meani",
@@ -2245,7 +2108,8 @@
     ],
     "cluster_2026_10_14_6_30_pm": [
       "gary_2026_10_14_ai_future_of_education",
-      "gary_2026_10_14_yc_alumni_founder_friends"
+      "gary_2026_10_14_yc_alumni_founder_friends",
+      "gary_2026_10_14_fashion_beauty_media_storytellers_influencers"
     ],
     "cluster_2026_10_15_5_pm": [
       "gary_2026_10_15_the_quantified_self_what_ai_can_actually_tell_us_abo",
@@ -2254,12 +2118,13 @@
     "cluster_2026_10_15_6_pm": [
       "gary_2026_10_15_healthcare_expertise_scaled",
       "gary_2026_10_15_infinite_possibilities_for_techpreneurs",
-      "gary_2026_10_15_building_a_100m_company_leveraging_relationships_as_"
+      "gary_2026_10_15_dessn_creative_machines",
+      "gary_2026_10_15_building_100m_company_leveraging_relationships_as_gr",
+      "gary_2026_10_15_catalyst_2027_accelerator_info_session_ama"
     ],
-    "cluster_2026_10_15_6_30_pm": [
-      "gary_2026_10_15_ugly_talk_hispanic_heritage_month",
-      "gary_2026_10_15_founder_dinner",
-      "gary_2026_10_15_next_frontier_of_ai_agents"
+    "cluster_2026_10_13_10_pm": [
+      "luma_2026_10_13_engineering_x_ai_leaders_happy_hour",
+      "luma_2026_10_13_fireworks_profound_code_cocktails_nyc"
     ]
   }
 }
