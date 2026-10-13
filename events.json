@@ -1,47 +1,47 @@
 {
   "meta": {
-    "checked": "Oct 12, 2026, 4:03 PM EDT",
+    "checked": "Oct 12, 2026, 9:34 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
-        "iso": "2026-10-12",
+        "iso": "2026-10-13",
         "key": "Mon",
         "label": "Mon",
         "date": "Oct 12"
       },
       {
-        "iso": "2026-10-13",
+        "iso": "2026-10-14",
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 13"
       },
       {
-        "iso": "2026-10-14",
+        "iso": "2026-10-15",
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 14"
       },
       {
-        "iso": "2026-10-15",
+        "iso": "2026-10-16",
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 15"
       },
       {
-        "iso": "2026-10-16",
+        "iso": "2026-10-17",
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 16"
       },
       {
-        "iso": "2026-10-17",
+        "iso": "2026-10-18",
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 17"
       },
       {
-        "iso": "2026-10-18",
+        "iso": "2026-10-19",
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 18"
@@ -49,187 +49,187 @@
     ],
     "monthDays": [
       {
-        "iso": "2026-10-12",
+        "iso": "2026-10-13",
         "key": "Mon",
         "label": "Mon",
         "date": "Oct 12"
       },
       {
-        "iso": "2026-10-13",
+        "iso": "2026-10-14",
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 13"
       },
       {
-        "iso": "2026-10-14",
+        "iso": "2026-10-15",
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 14"
       },
       {
-        "iso": "2026-10-15",
+        "iso": "2026-10-16",
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 15"
       },
       {
-        "iso": "2026-10-16",
+        "iso": "2026-10-17",
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 16"
       },
       {
-        "iso": "2026-10-17",
+        "iso": "2026-10-18",
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 17"
       },
       {
-        "iso": "2026-10-18",
+        "iso": "2026-10-19",
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 18"
       },
       {
-        "iso": "2026-10-19",
+        "iso": "2026-10-20",
         "key": "Mon",
         "label": "Mon",
         "date": "Oct 19"
       },
       {
-        "iso": "2026-10-20",
+        "iso": "2026-10-21",
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 20"
       },
       {
-        "iso": "2026-10-21",
+        "iso": "2026-10-22",
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 21"
       },
       {
-        "iso": "2026-10-22",
+        "iso": "2026-10-23",
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 22"
       },
       {
-        "iso": "2026-10-23",
+        "iso": "2026-10-24",
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 23"
       },
       {
-        "iso": "2026-10-24",
+        "iso": "2026-10-25",
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 24"
       },
       {
-        "iso": "2026-10-25",
+        "iso": "2026-10-26",
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 25"
       },
       {
-        "iso": "2026-10-26",
+        "iso": "2026-10-27",
         "key": "Mon",
         "label": "Mon",
         "date": "Oct 26"
       },
       {
-        "iso": "2026-10-27",
+        "iso": "2026-10-28",
         "key": "Tue",
         "label": "Tue",
         "date": "Oct 27"
       },
       {
-        "iso": "2026-10-28",
+        "iso": "2026-10-29",
         "key": "Wed",
         "label": "Wed",
         "date": "Oct 28"
       },
       {
-        "iso": "2026-10-29",
+        "iso": "2026-10-30",
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 29"
       },
       {
-        "iso": "2026-10-30",
+        "iso": "2026-10-31",
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 30"
       },
       {
-        "iso": "2026-10-31",
+        "iso": "2026-11-01",
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 31"
       },
       {
-        "iso": "2026-11-01",
+        "iso": "2026-11-02",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 1"
       },
       {
-        "iso": "2026-11-02",
+        "iso": "2026-11-03",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 2"
       },
       {
-        "iso": "2026-11-03",
+        "iso": "2026-11-04",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 3"
       },
       {
-        "iso": "2026-11-04",
+        "iso": "2026-11-05",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 4"
       },
       {
-        "iso": "2026-11-05",
+        "iso": "2026-11-06",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 5"
       },
       {
-        "iso": "2026-11-06",
+        "iso": "2026-11-07",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 6"
       },
       {
-        "iso": "2026-11-07",
+        "iso": "2026-11-08",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 7"
       },
       {
-        "iso": "2026-11-08",
+        "iso": "2026-11-09",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 8"
       },
       {
-        "iso": "2026-11-09",
+        "iso": "2026-11-10",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 9"
       },
       {
-        "iso": "2026-11-10",
+        "iso": "2026-11-11",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 10"
       },
       {
-        "iso": "2026-11-11",
+        "iso": "2026-11-12",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 11"
@@ -258,6 +258,7 @@
       "8 PM",
       "9:30 PM",
       "10 PM",
+      "10:30 PM",
       "11 PM"
     ]
   },
@@ -449,109 +450,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_91943_0_cozy_and_crafted_bazaar_at_grand_bazaar_nyc": {
-      "title": "cozy and crafted bazaar at grand bazaar nyc",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-11",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 10/11 · 10am-5pm",
-      "price": "Free admission",
-      "free": true,
-      "place": "100 w 77th st at columbus ave (indoors + outdoors)",
-      "source": "The Skint",
-      "link": "https://grandbazaarnyc.org/events/cozy-and-crafted-bazaar/",
-      "map": "https://maps.google.com/?q=100%20w%2077th%20st%20at%20columbus%20ave%20(indoors%20%2B%20outdoors)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-5pm: cozy and crafted bazaar at grand bazaar nyc: 100 w 77th st at columbus ave (indoors + outdoors). free admission."
-    },
-    "skint_91943_1_the_new_york_mycological_society_s_4th_fungus_festiv": {
-      "title": "the new york mycological society’s 4th fungus festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-11",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 10/11 · 11am-4pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "the battery",
-      "source": "The Skint",
-      "link": "https://www.newyorkmyc.org/fungus-festival-2026-2/",
-      "map": "https://maps.google.com/?q=the%20battery%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-4pm: the new york mycological society’s 4th fungus festival: the battery."
-    },
-    "skint_91943_2_62nd_annual_hispanic_day_parade": {
-      "title": "62nd annual hispanic day parade",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-11",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 10/11 · 12-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "fifth ave from 44th st to 69th st",
-      "source": "The Skint",
-      "link": "https://latinoworldnews.com/hispanic-day-parade-2026-nyc-s-fifth-avenue-celebration-returns",
-      "map": "https://maps.google.com/?q=fifth%20ave%20from%2044th%20st%20to%2069th%20st%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm: 62nd annual hispanic day parade: fifth ave from 44th st to 69th st."
-    },
-    "skint_91943_3_please_knock_presents_fourth_annual_erotic_art_fair": {
-      "title": "please knock presents: fourth annual erotic art fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-11",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sun, 10/11 · 2-9pm",
-      "price": "$5 admission",
-      "free": false,
-      "place": "tv eye (ridgewood), $5 admission ($20 1pm early entry)",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/please-knock-presents-ny-erotic-art-fair-2026-tickets-1994950436458",
-      "map": "https://maps.google.com/?q=tv%20eye%20(ridgewood)%2C%20%245%20admission%20(%2420%201pm%20early%20entry)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 2-9pm: please knock presents: fourth annual erotic art fair: tv eye (ridgewood), $5 admission ($20 1pm early entry)."
-    },
-    "skint_91943_4_trans_art_bazaar": {
-      "title": "trans art bazaar",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-11",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Sun, 10/11 · 4-9pm",
-      "price": "$5 suggested",
-      "free": false,
-      "place": "brooklyn community pride center (crown heights), $5 suggested donation",
-      "source": "The Skint",
-      "link": "https://www.lgbtbrooklyn.org/event-details/trans-art-boozar-halloween-night-market",
-      "map": "https://maps.google.com/?q=brooklyn%20community%20pride%20center%20(crown%20heights)%2C%20%245%20suggested%20donation%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 4-9pm: trans art bazaar: brooklyn community pride center (crown heights), $5 suggested donation."
-    },
-    "skint_91943_5_11th_annual_indigenous_peoples_day": {
-      "title": "11th annual indigenous peoples day",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-11",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 10/11 · + mon (sun 10am to mon 12pm)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "randall’s island",
-      "source": "The Skint",
-      "link": "https://ipdnyc.squarespace.com/",
-      "map": "https://maps.google.com/?q=randall%E2%80%99s%20island%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun + mon (sun 10am to mon 12pm): 11th annual indigenous peoples day: randall’s island."
-    },
-    "skint_91943_6_82nd_annual_columbus_day_parade": {
+    "skint_91943_0_82nd_annual_columbus_day_parade": {
       "title": "82nd annual columbus day parade",
       "type": "market",
       "label": "Festival / Market",
@@ -568,24 +467,7 @@
       "map": "https://maps.google.com/?q=fifth%20ave%20from%2044th%20st%20to%2072nd%20st%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon 11-3pm: 82nd annual columbus day parade: fifth ave from 44th st to 72nd st."
     },
-    "skint_91943_7_women_in_animation": {
-      "title": "women in animation",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sun",
-      "date": "2026-10-11",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Sun, 10/11 · thru 10/15 women in animation",
-      "price": "$14",
-      "free": false,
-      "place": "anthology film archives (east village), $14 general, $10 seniors/students",
-      "source": "The Skint",
-      "link": "https://www.anthologyfilmarchives.org/film_screenings/series/62063",
-      "map": "https://maps.google.com/?q=anthology%20film%20archives%20(east%20village)%2C%20%2414%20general%2C%20%2410%20seniors%2Fstudents%20NYC",
-      "summary": "film fests/series. Pulled from The Skint's public article feed: sun thru 10/15 women in animation: anthology film archives (east village), $14 general, $10 seniors/students."
-    },
-    "skint_91943_8_14th_architecture_design_film_festival": {
+    "skint_91943_1_14th_architecture_design_film_festival": {
       "title": "14th architecture + design film festival",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -1350,40 +1232,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20Online",
       "summary": "Gary's Guide: Catalyst is Robin Hood's accelerator for pre-seed startups & early-stage tech nonprofits using s/w, AI & data to improve lives of low-income people."
     },
-    "luma_2026_10_12_beyond_vibe_coding_let_s_design_and_build_fun_micro_": {
-      "title": "Beyond Vibe Coding: Let's Design and Build Fun Micro Animations",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-10-12",
-      "time": "9:30 PM",
-      "sort": 21.5,
-      "when": "Mon, 10/12 · 9:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Fabrik DUMBO",
-      "source": "Luma NYC",
-      "link": "https://luma.com/csyr4b66",
-      "map": "https://maps.google.com/?q=Fabrik%20DUMBO%20NYC",
-      "summary": "Luma NYC: Product Builders Club, Jeff Buzulencia, Fabrik NYC"
-    },
-    "luma_2026_10_12_koom_opening_night": {
-      "title": "KOOM Opening Night",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-10-12",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Mon, 10/12 · 10pm",
-      "price": "$25",
-      "free": false,
-      "place": "Space Ping Pong Sports Bar & Lounge | Koreatown NYC",
-      "source": "Luma NYC",
-      "link": "https://luma.com/0258uquv",
-      "map": "https://maps.google.com/?q=Space%20Ping%20Pong%20Sports%20Bar%20%26%20Lounge%20%7C%20Koreatown%20NYC%20NYC",
-      "summary": "Luma NYC: KOOM Week 2026, United Korean Founders, mesh. io, Kihwan Kim"
-    },
     "luma_2026_10_13_snowflake_x_google_cloud_ai_agent_lab": {
       "title": "Snowflake x Google Cloud AI Agent Lab",
       "type": "tech",
@@ -1486,6 +1334,57 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Together AI Calendar, Together AI, NVIDIA, Reflection"
     },
+    "luma_2026_10_14_fintech_run_club_oktoberfest_version_ft_rain_monk_jp": {
+      "title": "Fintech Run Club Oktoberfest version ft. Rain + Monk + JP Morgan",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-10-14",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Wed, 10/14 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Marsha P. Johnson Memorial Fountain",
+      "source": "Luma NYC",
+      "link": "https://luma.com/fintech-tw0h",
+      "map": "https://maps.google.com/?q=Marsha%20P.%20Johnson%20Memorial%20Fountain%20NYC",
+      "summary": "Luma NYC: FinTech Run Club, FinTech Run Club, Pedro D'Avila, Kendall Warson, Connor Griffin, Rain Events"
+    },
+    "luma_2026_10_14_n_yc_alumni_founder_friends_monthly_22_by_rho_and_ny": {
+      "title": "(N)YC Alumni + Founder Friends Monthly #22 by Rho and NYC Founders Club",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-10-14",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Wed, 10/14 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/4ghynt1i",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: NYC Founders Club, Aakash Shah (NYC Founders Club), Jordan Deasy, Drew Parten, Pilar Pheffer"
+    },
+    "nyu_tandon_2026_10_13_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
+      "type": "tech",
+      "label": "Workshop / Training",
+      "day": "Tue",
+      "date": "2026-10-13",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Tue, 10/13 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/13/instructional-tech-drop-sessions",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Workshop / Training"
+    },
     "nyu_tandon_2026_10_14_machine_learning_for_discovery_deciphering_rna_splic": {
       "title": "Machine Learning for Discovery: Deciphering RNA Splicing Logic",
       "type": "tech",
@@ -1502,6 +1401,23 @@
       "link": "https://engineering.nyu.edu/events/2026/10/14/machine-learning-discovery-deciphering-rna-splicing-logic",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_10_14_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
+      "type": "tech",
+      "label": "Workshop / Training",
+      "day": "Wed",
+      "date": "2026-10-14",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Wed, 10/14 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/14/instructional-tech-drop-sessions",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Workshop / Training"
     },
     "nyu_tandon_2026_10_14_creativity_through_flexibility_book_talk_with_kelsey": {
       "title": "Creativity Through Flexibility | Book Talk with Kelsey Nanan (CUSP ’21)",
@@ -1536,6 +1452,23 @@
       "link": "https://engineering.nyu.edu/events/2026/10/15/urban-science-phd-colloquium-syed-barizuddin",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_10_15_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
+      "type": "tech",
+      "label": "Workshop / Training",
+      "day": "Thu",
+      "date": "2026-10-15",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Thu, 10/15 · 12:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/15/instructional-tech-drop-sessions",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Workshop / Training"
     },
     "nyu_tandon_2026_10_15_fre_special_seminar_luhao_zhang": {
       "title": "FRE Special Seminar: Luhao Zhang",
@@ -1585,23 +1518,6 @@
       "place": "NYU Tandon / Online",
       "source": "NYU Tandon",
       "link": "https://engineering.nyu.edu/events/2026/10/19/stem-cell-derived-human-corneal-organoid-model-advances-and-challenges-its-use",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_10_22_securing_the_unseen_identity_management_machine_iden": {
-      "title": "Securing the Unseen: Identity Management, Machine Identities, and AI Threats",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Thu",
-      "date": "2026-10-22",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Thu, 10/22 · 5:30 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/10/22/securing-unseen-identity-management-machine-identities-and-ai-threats",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
@@ -2046,6 +1962,40 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-11-11/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_43720_2026_11_13_cat_stick_easel_moon_exhibit_closing_reception_2026": {
+      "title": "Cat, Stick, Easel, Moon Exhibit Closing Reception 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-11-13",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Fri, 11/13 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-exhibit-closing-reception-2026/",
+      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
+    },
+    "jc_culture_43736_2026_11_13_cat_stick_easel_moon_closing_reception_2026_smush_ga": {
+      "title": "Cat, Stick, Easel, Moon Closing Reception 2026 Smush Gallery",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-11-13",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Fri, 11/13 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-closing-reception-2026-smush-gallery/",
+      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
     }
   },
   "clusters": {
@@ -2057,14 +2007,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_10_11_10_am": [
-      "skint_91943_0_cozy_and_crafted_bazaar_at_grand_bazaar_nyc",
-      "skint_91943_5_11th_annual_indigenous_peoples_day"
-    ],
-    "cluster_2026_10_12_10_pm": [
-      "skint_91943_8_14th_architecture_design_film_festival",
-      "luma_2026_10_12_koom_opening_night"
     ],
     "cluster_2026_10_12_6_pm": [
       "gary_2026_10_12_ai_leaders_dinner_w_aws_arize",
@@ -2081,7 +2023,8 @@
     ],
     "cluster_2026_10_14_11_am": [
       "gary_2026_10_14_made_in_korea_k_startup_biz_lunch_mixer",
-      "nyu_tandon_2026_10_14_machine_learning_for_discovery_deciphering_rna_splic"
+      "nyu_tandon_2026_10_14_machine_learning_for_discovery_deciphering_rna_splic",
+      "nyu_tandon_2026_10_14_instructional_tech_drop_in_sessions"
     ],
     "cluster_2026_10_14_2_pm": [
       "gary_2026_10_14_unblocking_agi",
@@ -2111,6 +2054,10 @@
       "gary_2026_10_14_yc_alumni_founder_friends",
       "gary_2026_10_14_fashion_beauty_media_storytellers_influencers"
     ],
+    "cluster_2026_10_15_12_pm": [
+      "gary_2026_10_15_nucleate_ny_activator_info_session_nyu_langone",
+      "nyu_tandon_2026_10_15_instructional_tech_drop_in_sessions"
+    ],
     "cluster_2026_10_15_5_pm": [
       "gary_2026_10_15_the_quantified_self_what_ai_can_actually_tell_us_abo",
       "nyu_tandon_2026_10_15_fre_special_seminar_luhao_zhang"
@@ -2125,6 +2072,14 @@
     "cluster_2026_10_13_10_pm": [
       "luma_2026_10_13_engineering_x_ai_leaders_happy_hour",
       "luma_2026_10_13_fireworks_profound_code_cocktails_nyc"
+    ],
+    "cluster_2026_10_14_10_30_pm": [
+      "luma_2026_10_14_fintech_run_club_oktoberfest_version_ft_rain_monk_jp",
+      "luma_2026_10_14_n_yc_alumni_founder_friends_monthly_22_by_rho_and_ny"
+    ],
+    "cluster_2026_11_13_6_pm": [
+      "jc_culture_43720_2026_11_13_cat_stick_easel_moon_exhibit_closing_reception_2026",
+      "jc_culture_43736_2026_11_13_cat_stick_easel_moon_closing_reception_2026_smush_ga"
     ]
   }
 }
