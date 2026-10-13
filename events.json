@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 13, 2026, 1:51 PM EDT",
+    "checked": "Oct 13, 2026, 7:23 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1233,23 +1233,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20Online",
       "summary": "Gary's Guide: Catalyst is Robin Hood's accelerator for pre-seed startups & early-stage tech nonprofits using s/w, AI & data to improve lives of low-income people."
     },
-    "luma_2026_10_13_snowflake_x_google_cloud_ai_agent_lab": {
-      "title": "Snowflake x Google Cloud AI Agent Lab",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-10-13",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 10/13 · 6pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/SnowflakexGoogle-Newyork",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Major League Hacking, Major League Hacking"
-    },
     "luma_2026_10_13_secure_software_factory_show_and_tell": {
       "title": "Secure Software Factory Show and Tell",
       "type": "tech",
@@ -1282,7 +1265,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/reductoai-s3br",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Reducto Community Calendar, Palak Agarwal, Livia Han, Adel Wu, Lauren Volpi"
+      "summary": "Luma NYC: Reducto Community Calendar, Palak Agarwal, Livia Han, Adel Wu, Lauren Volpi, Modal Events"
     },
     "luma_2026_10_13_fireworks_profound_code_cocktails_nyc": {
       "title": "Fireworks & Profound: Code & Cocktails NYC",
@@ -2053,8 +2036,7 @@
     ],
     "cluster_2026_10_13_6_pm": [
       "gary_2026_10_13_navigating_transatlantic_m_a_investments",
-      "gary_2026_10_13_engg_x_ai_leaders_happy_hour",
-      "luma_2026_10_13_snowflake_x_google_cloud_ai_agent_lab"
+      "gary_2026_10_13_engg_x_ai_leaders_happy_hour"
     ],
     "cluster_2026_10_14_11_am": [
       "gary_2026_10_14_made_in_korea_k_startup_biz_lunch_mixer",
