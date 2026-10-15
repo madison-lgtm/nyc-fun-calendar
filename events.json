@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 15, 2026, 11:24 AM EDT",
+    "checked": "Oct 15, 2026, 6:37 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -248,6 +248,7 @@
       "2 PM",
       "2:30 PM",
       "3 PM",
+      "3:30 PM",
       "4 PM",
       "5 PM",
       "5:30 PM",
@@ -1398,6 +1399,23 @@
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
     },
+    "jc_culture_44450_2026_10_17_japanese_food_festival_2026": {
+      "title": "Japanese Food Festival 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-10-17",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Sat, 10/17 · 10am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Exchange Place, MONTGOMERY ST BETWEEN HUDSON ST. AND GREEN ST.",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/japanese-food-festival-2026/",
+      "map": "https://maps.google.com/?q=Exchange%20Place%2C%20MONTGOMERY%20ST%20BETWEEN%20HUDSON%20ST.%20AND%20GREEN%20ST.",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Outdoor What's Coming Up?."
+    },
     "jc_culture_44370_2026_10_17_paper_architects_2026": {
       "title": "Paper Architects 2026",
       "type": "art",
@@ -1482,6 +1500,23 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-10-21/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_44467_2026_10_22_jcpd_west_district_trunk_or_treat_2026": {
+      "title": "JCPD West District Trunk or Treat 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Thu",
+      "date": "2026-10-22",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Thu, 10/22 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "JCPD WEST DISTRICT, 1 JACKSON SQUARE, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jcpd-west-district-trunk-or-treat-2026/",
+      "map": "https://maps.google.com/?q=JCPD%20WEST%20DISTRICT%2C%201%20JACKSON%20SQUARE%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Kids Activities Outdoor What's Coming Up?."
     },
     "jc_culture_43493_2026_10_23_ariel_rivka_dance_2026": {
       "title": "Ariel Rivka Dance 2026",
@@ -1619,6 +1654,40 @@
       "map": "https://maps.google.com/?q=NEWPORT%20CENTER%20GARAGE%203RD%20FLOOR%2C%2030%20MALL%20DRIVE%20WEST%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Screenshot"
     },
+    "jc_culture_44479_2026_10_29_jcpd_north_district_trunk_or_treat_2026": {
+      "title": "JCPD North District Trunk or Treat 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Thu",
+      "date": "2026-10-29",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 10/29 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "JCPD NORTH DISTRICT, JEFFERSON AVENUE BETWEEN CENTRAL AVENUE AND SUMMIT AVENUE",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jcpd-north-district-trunk-or-treat-2026/",
+      "map": "https://maps.google.com/?q=JCPD%20NORTH%20DISTRICT%2C%20JEFFERSON%20AVENUE%20BETWEEN%20CENTRAL%20AVENUE%20AND%20SUMMIT%20AVENUE",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor What's Coming Up?."
+    },
+    "jc_culture_44473_2026_10_30_jcpd_south_district_trunk_or_treat_2026": {
+      "title": "JCPD South District Trunk or Treat 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Fri",
+      "date": "2026-10-30",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Fri, 10/30 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "PS #41 MARTIN CENTER FOR THE ARTS, 59 WILKINSON AVENUE, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jcpd-south-district-trunk-or-treat-2026/",
+      "map": "https://maps.google.com/?q=PS%20%2341%20MARTIN%20CENTER%20FOR%20THE%20ARTS%2C%2059%20WILKINSON%20AVENUE%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor What's Coming Up?."
+    },
     "jc_culture_44421_2026_10_31_halloween_parade_2026": {
       "title": "Halloween Parade 2026",
       "type": "park",
@@ -1686,6 +1755,23 @@
       "link": "https://jerseycityculture.org/event/flame-the-experience-2026/",
       "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
       "summary": "Flame (The Experience) for a one night only event presented by Ruby Hawk Productions and Art House Productions in Jersey City, New Jersey. Based on Brown’s 2021 poetry collection Flame, which tells the story of a failed twin flame romance, Flame (The Experience) takes the poetry off the page and brings it to life through a sizzling, multi-sensory theatrical experience told through sight, sound, monologues, and movement."
+    },
+    "jc_culture_44445_2026_11_06_japan_flag_raising_2026": {
+      "title": "Japan Flag Raising 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-11-06",
+      "time": "3:30 PM",
+      "sort": 15.5,
+      "when": "Fri, 11/06 · 3:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/japan-flag-raising-2026/",
+      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
     },
     "jc_culture_44381_2026_11_07_paper_architects_2026": {
       "title": "Paper Architects 2026",
@@ -1856,6 +1942,23 @@
       "link": "https://jerseycityculture.org/event/paper-architects-2026-6/",
       "map": "https://maps.google.com/?q=MILLER%20BRANCH%20LIBRARY%2C%20489%20BERGEN%20AVENUE%2C%20JERSEY%20CITY%2C%2007304",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
+    },
+    "jc_culture_44460_2026_11_14_global_music_workshop_2026": {
+      "title": "Global Music Workshop 2026",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Sat, 11/14 · 11am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "PERSHING FIELD PARK, 201 CENTRAL AVE, JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/global-music-workshop-2026/",
+      "map": "https://maps.google.com/?q=PERSHING%20FIELD%20PARK%2C%20201%20CENTRAL%20AVE%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
     }
   },
   "clusters": {
@@ -1922,9 +2025,17 @@
       "gary_2026_10_15_an_unmuted_debate_peptides_vs_the_people",
       "gary_2026_10_15_peptide_freedom_vs_proof_first"
     ],
+    "cluster_2026_10_22_4_pm": [
+      "nyu_tandon_2026_10_22_fre_special_seminar_ana_s_despr_s_zhenjie_ren",
+      "jc_culture_44467_2026_10_22_jcpd_west_district_trunk_or_treat_2026"
+    ],
     "cluster_2026_11_13_6_pm": [
       "jc_culture_43720_2026_11_13_cat_stick_easel_moon_exhibit_closing_reception_2026",
       "jc_culture_43736_2026_11_13_cat_stick_easel_moon_closing_reception_2026_smush_ga"
+    ],
+    "cluster_2026_11_14_11_am": [
+      "jc_culture_44385_2026_11_14_paper_architects_2026",
+      "jc_culture_44460_2026_11_14_global_music_workshop_2026"
     ]
   }
 }
