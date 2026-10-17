@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Oct 16, 2026, 6:10 PM EDT",
+    "checked": "Oct 17, 2026, 9:59 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-10-16",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Oct 16"
-      },
       {
         "iso": "2026-10-17",
         "key": "Sat",
@@ -45,15 +39,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Oct 22"
+      },
+      {
+        "iso": "2026-10-23",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Oct 23"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-10-16",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Oct 16"
-      },
       {
         "iso": "2026-10-17",
         "key": "Sat",
@@ -233,9 +227,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 15"
+      },
+      {
+        "iso": "2026-11-16",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Nov 16"
       }
     ],
-    "todayKey": "Fri",
+    "todayKey": "Sat",
     "times": [
       "12 AM",
       "7 AM",
@@ -265,6 +265,7 @@
       "7 PM",
       "7:30 PM",
       "9 PM",
+      "9:15 PM",
       "10 PM"
     ]
   },
@@ -1493,22 +1494,22 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Pablo Peniche, Pablo Peniche, Champion Hill Ventures, Josh Manchester, Nick Allen"
     },
-    "nyu_tandon_2026_10_16_cell_signaling_by_design_mechanics_proteases_and_tra": {
-      "title": "Cell Signaling by Design: Mechanics, Proteases, and Translational Control",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Fri",
-      "date": "2026-10-16",
-      "time": "10:45 AM",
-      "sort": 10.75,
-      "when": "Fri, 10/16 · 10:45 AM",
-      "price": "Free / varies",
+    "luma_2026_10_19_claude_chill_for_founders_creators": {
+      "title": "Claude & Chill for Founders & Creators",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-10-19",
+      "time": "9:15 PM",
+      "sort": 21.25,
+      "when": "Mon, 10/19 · 9:15pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/10/16/cell-signaling-design-mechanics-proteases-and-translational-control",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/claude-and-chill-oct19",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Claude Community Events, Mika"
     },
     "nyu_tandon_2026_10_19_stem_cell_derived_human_corneal_organoid_model_advan": {
       "title": "Stem-cell derived human corneal organoid model - advances and challenges in its use as a corneal surrogate",
@@ -1646,39 +1647,22 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
-    "jc_culture_44165_2026_10_16_blindness_awareness_month_flag_raising_ceremony_2026": {
-      "title": "Blindness Awareness Month Flag Raising Ceremony 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-10-16",
-      "time": "11:30 AM",
-      "sort": 11.5,
-      "when": "Fri, 10/16 · 11:30am",
+    "nyu_tandon_2026_10_27_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
+      "type": "tech",
+      "label": "Workshop / Training",
+      "day": "Tue",
+      "date": "2026-10-27",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Tue, 10/27 · 11:00 AM",
       "price": "Free / varies",
       "free": true,
-      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/blindness-awareness-month-flag-raising-ceremony-2026/",
-      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
-    },
-    "jc_culture_10004843_2026_10_16_rent_the_musical": {
-      "title": "RENT: The Musical",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-10-16",
-      "time": "7:30 PM",
-      "sort": 19.5,
-      "when": "Fri, 10/16 · 7:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-16/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/27/instructional-tech-drop-sessions",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Workshop / Training"
     },
     "jc_culture_44450_2026_10_17_japanese_food_festival_2026": {
       "title": "Japanese Food Festival 2026",
