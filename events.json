@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 18, 2026, 10:12 AM EDT",
+    "checked": "Oct 18, 2026, 5:44 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -239,9 +239,9 @@
     "times": [
       "7 AM",
       "8 AM",
-      "8:30 AM",
       "8:45 AM",
       "9 AM",
+      "9:30 AM",
       "10 AM",
       "10:30 AM",
       "10:45 AM",
@@ -255,6 +255,7 @@
       "3 PM",
       "3:30 PM",
       "4 PM",
+      "4:30 PM",
       "5 PM",
       "5:30 PM",
       "6 PM",
@@ -262,6 +263,7 @@
       "7 PM",
       "7:30 PM",
       "8 PM",
+      "9 PM",
       "9:15 PM",
       "9:30 PM",
       "10 PM"
@@ -744,6 +746,57 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Divya Mathur (Chief Merchandising Officer, Revolve), Rachel Wong (Founder, Monday Girl)."
     },
+    "gary_2026_10_19_growth_gems_screw_ups": {
+      "title": "Growth Gems & Screw-Ups",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-10-19",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Mon, 10/19 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/hjlhat7/Growth-Gems-Screw-Ups",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Come join consumer app founders & growth practitioners on the opening night of New York App Week for tacos (Los Tacos no1), drinks, & the best growth insights.This goes beyond your typical mingling. We'll have two separate boards up:Board 1: GROWTH GEMS The best subscription app insight, tactic, or perspective you've got! Something that actually moved the needle or improved your strategy.You send your gem when you register. We print it, group it by theme, & put it on the wall with your name on it.Board 2: SCREW-UPS The most expensive mistake(s) you've made! Anonymous, you write it the day of.You'll get to vote for your favorites & we'll share the best ones on the mic before the end of the evening.Backed by RevenueCat as an official New York App Week event!---6:30 Drinks, food, & great convos. The Growth Gems board is already up, so you can start voting . Write your screw-up & pin it. 8:00 Voting closes. 8:15 10-15 minutes on the mic: the top gems & the top screw-ups.9:30 End---The event is free to attend but RSVP properly (with your Growth Gem): capacity is limited & it will fill up fast!Venue: NYC, announced here shortly. You'll get an email the moment it's locked.Hosted by Sylvain Gauchet (Growth Gems newsletter), funded by the amazing folks of RevenueCat as part of New York App Week."
+    },
+    "gary_2026_10_19_ai_app_founders_dinner": {
+      "title": "AI App Founders Dinner",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Mon",
+      "date": "2026-10-19",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Mon, 10/19 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/8oo0fkx/AI-App-Founders-Dinner",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Most of App Week is programming. This is dinner.We're bringing together founders building consumer AI apps for the opening night of the week great food, good wine, & a table small enough to actually talk. No speakers, & no agenda.Free to attend. Requests reviewed so the room stays founders building in this space.Hosted byKoah, the ad network built for AI apps. We run native ads inside chat & agent experiences for 300+ monetization partners like DeepAI, Liner, & Daimon, matched to user intent at inference time instead of to a profile.In partnership with RevenueCat, as part of New York App Week."
+    },
+    "gary_2026_10_19_spirits_night_growth_leaders_happy_hour": {
+      "title": "Spirits Night - Growth Leaders Happy Hour",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-10-19",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Mon, 10/19 · 7:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/g26myqq/Spirits-Night-Growth-Leaders-Happy-Hour",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Live jazz, snacks & open bar w/ Superwall & AppCap."
+    },
     "gary_2026_10_20_up_link_spacetech_business_summit": {
       "title": "Up/Link - SpaceTech Business Summit",
       "type": "startup",
@@ -761,6 +814,23 @@
       "map": "https://maps.google.com/?q=AWS%2C%2012%20W%2039th%20St",
       "summary": "Gary's Guide: With founder/CEOs Shishir Bankapur (Helogen), Jodi Bartin (CitiCourt), Tejpaul Bhatia (Nebex), Carol Craig (Sidus Space), Rob DeMillo (Sophia Space), Luke Fischer (SkyFi)."
     },
+    "gary_2026_10_20_deadly_good_growth_session": {
+      "title": "Deadly Good Growth Session",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-10-20",
+      "time": "9:30 AM",
+      "sort": 9.5,
+      "when": "Tue, 10/20 · 9:30am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/dyad480/Deadly-Good-Growth-Session",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Nick Godwin (Superwall), Dawson Gibbs & Hunter Jeffcoat (EVO), Tim Woitkun (Adjust), Vahe Bagdasaryan (Tangent)."
+    },
     "gary_2026_10_20_the_human_edge_founders_cacao_salon": {
       "title": "The Human Edge - Founders Cacao Salon",
       "type": "startup",
@@ -777,6 +847,23 @@
       "link": "https://www.garysguide.com/events/apkfxeu/The-Human-Edge-Founders-Cacao-Salon",
       "map": "https://maps.google.com/?q=Fabrik%2C%2012-16%20Vestry%20St%2C%204th%20Fl",
       "summary": "Gary's Guide: With Tanya Montman (StartLink Ventures), Geoff Scott (Creator, KindnessFlywheel), Sasha Sakhar (Founder, SugarHaus)."
+    },
+    "gary_2026_10_20_climb_the_paywall_w_app_founders": {
+      "title": "Climb The Paywall w/ App Founders",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-10-20",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Tue, 10/20 · 10:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/mmv44ll/Climb-The-Paywall-w-App-Founders",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Braavo Capital & RevenueCat."
     },
     "gary_2026_10_20_tech_x_market_decoders_reality_of_data_centers_in_sp": {
       "title": "Tech x Market Decoders - Reality Of Data Centers In Space",
@@ -811,6 +898,23 @@
       "link": "https://www.garysguide.com/events/6fbir0v/AI-Fraud-Death-Of-Resume-Restoring-Algorithmic-Trust",
       "map": "https://maps.google.com/?q=Venue%2C%205%20Penn%20Plaza",
       "summary": "Gary's Guide: With Rachel Levitch (Founder, Cognitive Institute)."
+    },
+    "gary_2026_10_20_app_founders_dinner": {
+      "title": "App Founders Dinner",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-10-20",
+      "time": "4:30 PM",
+      "sort": 16.5,
+      "when": "Tue, 10/20 · 4:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/1tclo8u/App-Founders-Dinner",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Once a year, the app industry's sharpest minds land in the same city. We're pulling a few of them away from the noise for dinner.We're gathering founders, CEOs, & growth leaders running subscription apps around one table to share some food, drinks, & stories from the trenches. We'll also be joined by a secret guest more details to come.Event details, including date & location, will be shared closer to the dinner."
     },
     "gary_2026_10_20_pitch_power_hour_founder_matchup": {
       "title": "Pitch Power Hour & Founder Matchup",
@@ -1118,6 +1222,23 @@
       "map": "https://maps.google.com/?q=Pace%2C%2015%20Beekman%20St%2C%203rd%20Fl",
       "summary": "Gary's Guide: With Efrat Segal (CEO, Boostability), Ajay Khorana (Dean, Lubin School of Business at Pace), Sara Asher (Dean, Yeshiva), Julie Zimmerman (HEAT Advisory), Karen Ferguson (Chief Strategy Officer, Education)."
     },
+    "gary_2026_10_22_software_sommelier": {
+      "title": "Software Sommelier",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-22",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Thu, 10/22 · 10:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/iufr014/Software-Sommelier",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Lickability."
+    },
     "gary_2026_10_22_agentic_ai_in_the_wild_open_source_agents_in_product": {
       "title": "Agentic AI In The Wild - Open Source Agents In Production",
       "type": "tech",
@@ -1220,6 +1341,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Connecting founders, operators & investors w/ experiences people remember & relationships that last"
     },
+    "gary_2026_10_22_cpg_dtc_ops_founder_dinner_ops_whats_cooking": {
+      "title": "CPG + DTC Ops & Founder Dinner - Ops, Whats Cooking?",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-22",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 10/22 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Downtown Manhattan, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/1ustmoi/CPG-DTC-Ops-Founder-Dinner-Ops-Whats-Cooking",
+      "map": "https://maps.google.com/?q=Downtown%20Manhattan%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Bring your build. We'll bring the dinner (and a pretty great room). Behind every great consumer brand is a slightly chaotic collection of spreadsheets, duct-taped systems, & someone who's figured out how to get products made, packed, shipped, & onto shelves. Lately, we've been seeing some pretty wild things founders & operators are building to make all of that happen, from AI experiments & supply chain hacks to homegrown tools that somehow keep an entire business running. So we're getting a handful of founders & operators from NYC's most interesting CPG & DTC brands around one table to swap stories, steal a few good ideas, & show off what they've been building. Built something clever? Bring it. Been vibe coding your way around an inventory nightmare? Even better. We'll take care of the food, wine, & good company. Hosted by Lotic October 22"
+    },
     "gary_2026_10_22_tech_table_talk_intersection_of_tech_media_ai": {
       "title": "Tech Table Talk - Intersection Of Tech, Media & AI",
       "type": "tech",
@@ -1287,159 +1425,6 @@
       "link": "https://www.garysguide.com/events/fb82745/Founder-Dinner",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join us for an intimate evening with a highly curated group of Series A+ founders that are scaling at the most beautiful venue in San Francisco. Who Should Attend? Founders who have raised Series A & beyond building in AI. Founders who have raised Seed with at least $2M ARR. Why Attend? Honest conversations with the best founders at similar stages Tactical insights on fundraising, GTM, & scaling from peers who get it What Is Included? 3-course dinner The builders behind some of the fastest-growing companies in the country Important Reminders: Dress Code: Business, smart casual Stay Connected: Follow us on Instagram or LinkedIn for updates on our community, events & opportunities. Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes. About the Hosts & Sponsors: Brderless brings together the most extraordinary founders through a carefully curated community. Keka is an HR software platform, a \"PeopleOS\" built to handle the core functions companies need to manage their workforce. It brings together payroll processing, attendance & leave tracking, performance management, hiring & onboarding, & employee engagement into one system, so HR teams don't have to juggle separate tools."
-    },
-    "gary_2026_10_22_the_ai_ndustrial_revolution": {
-      "title": "The AI-ndustrial Revolution?",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-10-22",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Thu, 10/22 · 6:30pm",
-      "price": "$30",
-      "free": false,
-      "place": "Puttery, 446 W 14th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/nu7sl3l/The-AI-ndustrial-Revolution",
-      "map": "https://maps.google.com/?q=Puttery%2C%20446%20W%2014th%20St",
-      "summary": "Gary's Guide: With Daniel Di Martino (Manhattan Institute), Cecilia Dones (Columbia)."
-    },
-    "gary_2026_10_22_retail_ai_council_pre_holiday_mixer": {
-      "title": "Retail AI Council Pre-Holiday Mixer",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-10-22",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Thu, 10/22 · 7:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Primrose, 127 W 26th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/65xerbv/Retail-AI-Council-Pre-Holiday-Mixer",
-      "map": "https://maps.google.com/?q=Primrose%2C%20127%20W%2026th%20St",
-      "summary": "Gary's Guide: The Retail AI Council Pre-Holiday Mixer is coming to NYC! It's be the perfect time to get together with your retail friends before the holiday season kicks into high gear. We don't need a conference to bring the community together - Retail AI Council's Mixers are the best opportunity to connect with like-minded leaders right in your city. Share your holiday strategies & gain new insights & ideas ahead of Q1. We'll be at a beautiful Manhattan restaurant with an abundance of delicious food, sophisticated cocktails, & brilliant conversations. Close out the year with strong connections that last. RSVPs from Adorama, Ashley Furniture, Avolta, Bayer, Beard Club, Bolden Company, Brooklinen, Brandon Blackwood, Burlington Stores, Celeres, Centric Brands, Chanel, Cole Haan, Colgate-Palmolive, CVS, Estee Lauder, Faherty Brand, FTG Company, Garan Inc, Khaite, London Jewelers, Macy's, Maissonette, MIZIZI International, New York & Company, No7 Beauty Company, PepsiCo, Rainbow Apparel Co, URBN, Vita Coco, Vitamin Shoppe, WHSmith, & many more coming soon! We'd love to see you there. This event is exclusively for leaders of established & scaled retailers & DTC brands. Invitation requests are subject to approval. To our industry partner friends, please contact Sigs Bohlig (sigs@retailaicouncil.com) to see how you can join the fun. By registering for this event, you agree to provide your name & email address to Retail AI Council, & consent to this information being shared with event sponsors for relevant communications."
-    },
-    "gary_2026_10_23_acceleratorcon": {
-      "title": "AcceleratorCON",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-10-23",
-      "time": "8:30 AM",
-      "sort": 8.5,
-      "when": "Fri, 10/23 · 8:30am",
-      "price": "$120",
-      "free": false,
-      "place": "The Masion Project, 229 W 28th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/phz8hke/AcceleratorCON",
-      "map": "https://maps.google.com/?q=The%20Masion%20Project%2C%20229%20W%2028th%20St",
-      "summary": "Gary's Guide: Only conference built for startups & accelerator programs to meet face-to-face. Top early-stage founders connect directly w/ investors, accelerator programs & ecosystem partners."
-    },
-    "gary_2026_10_23_founder_coffee_meet": {
-      "title": "Founder Coffee Meet",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-10-23",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Fri, 10/23 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/gwwwrf4/Founder-Coffee-Meet",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Building a startup is hard, doing it in isolation is 1000x harder! Run by founders, for founders. This is your chance to meet amazing people, who become friends. Share, brainstorm, problem-solve & give back - & let's make things a little easier as we create the next big thing. All events at lu.ma/theknowledgeshop"
-    },
-    "gary_2026_10_23_nyc_coffee_club_early_stage_b2b_founders_funders": {
-      "title": "NYC Coffee Club - Early-Stage B2B Founders & Funders",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-10-23",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 10/23 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/jwotv4n/NYC-Coffee-Club-Early-Stage-B2B-Founders-Funders",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Olivia O'Sullivan (Forum Ventures)."
-    },
-    "gary_2026_10_23_pitch_clinic_for_founders": {
-      "title": "Pitch Clinic For Founders",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-10-23",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 10/23 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Fabrik, 12-16 Vestry St, 4th Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/0a8xfxo/Pitch-Clinic-For-Founders",
-      "map": "https://maps.google.com/?q=Fabrik%2C%2012-16%20Vestry%20St%2C%204th%20Fl",
-      "summary": "Gary's Guide: With Dave Wolovsky (Founder, Effortwise)."
-    },
-    "gary_2026_10_23_ai_innovation_accelerator_demo_day": {
-      "title": "AI Innovation Accelerator Demo Day",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-10-23",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 10/23 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "NYU Stern, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/eh3eev4/AI-Innovation-Accelerator-Demo-Day",
-      "map": "https://maps.google.com/?q=NYU%20Stern%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Throughout the 15+ week program, each company has worked closely with a bespoke advisory team of Mentors, Consultants, MBA Fellows, & NYU Fellows matched to its sector, stage, & specific U.S. goals. Together, they have refined their U.S. positioning & pitches, built new relationships, deepened their understanding of the market, & pursued opportunities with prospective customers, partners, investors, & industry experts. Now, we are bringing all five companies together for the Fall 2026 AIIA Demo Day at NYU Stern."
-    },
-    "gary_2026_10_23_the_ai_era_what_it_means_to_be_human": {
-      "title": "The AI Era & What It Means To Be Human",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-10-23",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 10/23 · 6:00pm",
-      "price": "Varies",
-      "free": false,
-      "place": "Times Square Edition, 701 7th Ave",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/kx381vr/The-AI-Era-What-It-Means-To-Be-Human",
-      "map": "https://maps.google.com/?q=Times%20Square%20Edition%2C%20701%207th%20Ave",
-      "summary": "Gary's Guide: With AI Collective."
-    },
-    "gary_2026_10_23_spooky_civic_ai_hackathon_build_weekend": {
-      "title": "Spooky Civic AI Hackathon - Build Weekend",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-10-23",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 10/23 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/v5nudwh/Spooky-Civic-AI-Hackathon-Build-Weekend",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Demos are Sunday at Demo Day. RSVP for that separately: luma.com/3perce-pi2u Spooky Civic AI Hackathon: Build AI Tools for NYC Free. Open to everyone. No approval needed, just RSVP. Fri Oct 23 - Sat Oct 24, in person in NYC or on Zoom. Come solo & we'll help you find a team. Free food for in-person builders. Who can come? Anyone who wants to build something for New York City: engineers, product managers, designers, people who used to code, & people who never have. The best teams pair people who know a problem with people who can build the tech. Builders write the code & ship the tool. Problem-solvers (PMs, designers, policy & community folks) pick the problem, shape how people will use it, & lead the pitch. No team? No problem. Most people come solo. You can meet teammates at our Oct 14 & Oct 15 classes, or at Friday's kickoff. Pick a track The Existential Track: Climate & Sustainability. Heat, waste, food access, cleaner air. Urban Nightmares: Housing, Healthcare, Education & Justice. Tenant rights, benefits, school help, legal info in plain English. Ghost in the Machine: AI infrastructure & scaling. Build the parts under civic AI tools, like search, data, & agents that keep them running. Physical AI for Good: Build AI that moves, with robot arm kits on site. No robotics experience needed. You leave with a working prototype, a demo video, & a real project for your portfolio. Mentors will be on hand all weekend. Where: NYC venue announced soon. The Zoom link goes to everyone who RSVPs. Partners: Robot arm kits & on-site mentors from Viam. Food & builder API credits from Vonage. Costumes encouraged. In-person spots are limited, so RSVP now. Sponsorship inquiries: Partner with 3percentclub About Viam: Viam is a New York-based software platform for building, deploying, & managing robotics & AI in the physical world. Viam is supplying robot arm kits & on-site mentors for this hackathon. About Vonage: Vonage, part of Ericsson, builds communications APIs for voice, video, messaging, & verification that developers put into their apps. Vonage is providing food & builder API credits for this hackathon. About 3percentclub: 3percentclub is an NYC nonprofit that teaches free AI classes for underrepresented builders: engineers, career changers, product managers, designers, & people who have never coded. This event is open to everyone. Want to go deeper with AI? Apply to the free AI Architect Fellowship for weekly classes, mentorship, & a community to build with. The AI Collective is a global non-profit building the human layer for the AI era. We unite 1,000,000+ leaders, builders, & stakeholders across 300+ forums worldwide to democratize the frontier, build trust, & coordinate how society navigates the rapid acceleration of technological progress. All attendees & organizers at events affiliated with The AI Collective agree to our privacy policy & are subject to our code of conduct."
     },
     "luma_2026_10_19_claude_chill_for_founders_creators": {
       "title": "Claude & Chill for Founders & Creators",
@@ -1525,6 +1510,23 @@
       "link": "https://luma.com/genspark-build",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: AI After 5, Mina Abdulla, Samuel, Betaworks, Genspark.ai, Max Kuivenhoven"
+    },
+    "luma_2026_10_21_net_30_applied_ai_summit_on_the_future_of_finance": {
+      "title": "Net 30 - applied AI summit on the future of finance",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-10-21",
+      "time": "9 PM",
+      "sort": 21,
+      "when": "Wed, 10/21 · 9pm",
+      "price": "Free",
+      "free": true,
+      "place": "The Times Center",
+      "source": "Luma NYC",
+      "link": "https://luma.com/3tto5407",
+      "map": "https://maps.google.com/?q=The%20Times%20Center%20NYC",
+      "summary": "Luma NYC: Monk, Kendall Warson, George Kurdin, Joe Zhou, Brr, Sahar Mor (Bond AI), Robert"
     },
     "nyu_tandon_2026_10_19_stem_cell_derived_human_corneal_organoid_model_advan": {
       "title": "Stem-cell derived human corneal organoid model - advances and challenges in its use as a corneal surrogate",
@@ -2285,6 +2287,14 @@
       "skint_92208_11_the_annual_disability_pride_parade_and_block_party",
       "skint_92208_12_objects_of_times_past_pop_up_market"
     ],
+    "cluster_2026_10_19_6_30_pm": [
+      "gary_2026_10_19_growth_gems_screw_ups",
+      "gary_2026_10_19_ai_app_founders_dinner"
+    ],
+    "cluster_2026_10_20_10_am": [
+      "gary_2026_10_20_the_human_edge_founders_cacao_salon",
+      "gary_2026_10_20_climb_the_paywall_w_app_founders"
+    ],
     "cluster_2026_10_20_5_pm": [
       "gary_2026_10_20_pitch_power_hour_founder_matchup",
       "gary_2026_10_20_solution_smithing_how_to_raise_give_a_million_dollar",
@@ -2306,6 +2316,10 @@
       "gary_2026_10_21_agentic_loops_demo_day",
       "gary_2026_10_21_for_the_firsts_meetup"
     ],
+    "cluster_2026_10_22_10_am": [
+      "gary_2026_10_22_built_for_success_the_student_journey_w_ai",
+      "gary_2026_10_22_software_sommelier"
+    ],
     "cluster_2026_10_22_5_pm": [
       "gary_2026_10_22_agentic_ai_in_the_wild_open_source_agents_in_product",
       "gary_2026_10_22_female_founder_pitch_day"
@@ -2315,23 +2329,14 @@
       "gary_2026_10_22_the_capital_mixer_6_active_funds_meet_seed_to_series",
       "gary_2026_10_22_founder_vc_dinner",
       "gary_2026_10_22_the_builder_series_founder_investor_operator_nights",
+      "gary_2026_10_22_cpg_dtc_ops_founder_dinner_ops_whats_cooking",
       "gary_2026_10_22_tech_table_talk_intersection_of_tech_media_ai",
       "gary_2026_10_22_double_diamond",
       "jc_culture_44498_2026_10_22_join_mayor_james_solomon_s_lgbtq_task_force_communit"
     ],
     "cluster_2026_10_22_6_30_pm": [
       "gary_2026_10_22_transit_techies",
-      "gary_2026_10_22_founder_dinner",
-      "gary_2026_10_22_the_ai_ndustrial_revolution"
-    ],
-    "cluster_2026_10_23_10_am": [
-      "gary_2026_10_23_nyc_coffee_club_early_stage_b2b_founders_funders",
-      "gary_2026_10_23_pitch_clinic_for_founders",
-      "gary_2026_10_23_ai_innovation_accelerator_demo_day"
-    ],
-    "cluster_2026_10_23_6_pm": [
-      "gary_2026_10_23_the_ai_era_what_it_means_to_be_human",
-      "gary_2026_10_23_spooky_civic_ai_hackathon_build_weekend"
+      "gary_2026_10_22_founder_dinner"
     ],
     "cluster_2026_10_22_4_pm": [
       "nyu_tandon_2026_10_22_fre_special_seminar_ana_s_despr_s_zhenjie_ren",
