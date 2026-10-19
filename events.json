@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Oct 18, 2026, 5:44 PM EDT",
+    "checked": "Oct 19, 2026, 1:16 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-10-18",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Oct 18"
-      },
       {
         "iso": "2026-10-19",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 24"
+      },
+      {
+        "iso": "2026-10-25",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Oct 25"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-10-18",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Oct 18"
-      },
       {
         "iso": "2026-10-19",
         "key": "Mon",
@@ -233,9 +227,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 17"
+      },
+      {
+        "iso": "2026-11-18",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Nov 18"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
       "7 AM",
       "8 AM",
@@ -266,7 +266,8 @@
       "9 PM",
       "9:15 PM",
       "9:30 PM",
-      "10 PM"
+      "10 PM",
+      "10:45 PM"
     ]
   },
   "events": {
@@ -457,41 +458,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_92208_0_36th_annual_tompkins_square_halloween_dog_parade": {
-      "title": "36th annual tompkins square halloween dog parade",
-      "type": "weird",
-      "label": "Weird / Social",
-      "day": "Sat",
-      "date": "2026-10-17",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Sat, 10/17 · 10-4pm (pet check-in starts at 9am)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "‘dog parade festival block’ is on 6th st between avenues b and c; parade starts at 11am and runs along avenue b; note: registration to march is full, but no ticket is required to watch",
-      "source": "The Skint",
-      "link": "https://www.nydogparade.org/",
-      "map": "https://maps.google.com/?q=%E2%80%98dog%20parade%20festival%20block%E2%80%99%20is%20on%206th%20st%20between%20avenues%20b%20and%20c%3B%20parade%20starts%20at%2011am%20and%20runs%20along%20avenue%20b%3B%20note%3A%20registration%20to%20march%20is%20full%2C%20but%20no%20ticket%20is%20required%20to%20watch%20NYC",
-      "summary": " halloween dog parades and costume contests. Pulled from The Skint's public article feed: sat 10-4pm (pet check-in starts at 9am): 36th annual tompkins square halloween dog parade: ‘dog parade festival block’ is on 6th st between avenues b and c; parade starts at 11am and runs along avenue b; note: registration to march is full, but no ticket is required to watch."
-    },
-    "skint_92208_1_howl_o_ween_dog_parade": {
-      "title": "howl-o-ween dog parade",
-      "type": "weird",
-      "label": "Weird / Social",
-      "day": "Sat",
-      "date": "2026-10-17",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Sat, 10/17 · 3-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "smith st + union st (carroll gardens)",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/howl-o-ween-dog-parade-october-17th-carroll-gardens-brooklyn-tickets-2000968080393",
-      "map": "https://maps.google.com/?q=smith%20st%20%2B%20union%20st%20(carroll%20gardens)%20NYC",
-      "summary": " halloween dog parades and costume contests. Pulled from The Skint's public article feed: sat 3-5pm: howl-o-ween dog parade: smith st + union st (carroll gardens). note: this event is part of the smith street neighbors + makers fair listed below."
-    },
-    "skint_92208_2_carl_schurz_park_conservancy_s_annual_halloween_howl": {
+    "skint_92208_0_carl_schurz_park_conservancy_s_annual_halloween_howl": {
       "title": "carl schurz park conservancy’s annual halloween howl + healthy hound fair",
       "type": "weird",
       "label": "Weird / Social",
@@ -508,143 +475,7 @@
       "map": "https://maps.google.com/?q=basketball%2Fhockey%20court%20%2B%20john%20finley%20walk%20(yorkville)%20NYC",
       "summary": " halloween dog parades and costume contests. Pulled from The Skint's public article feed: sun 1-3pm: carl schurz park conservancy’s annual halloween howl + healthy hound fair: basketball/hockey court + john finley walk (yorkville)."
     },
-    "skint_92208_3_fifth_annual_national_indigenous_peoples_of_the_amer": {
-      "title": "fifth annual national indigenous peoples of the americas parade",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-17",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 10/17 · 10am-2pm (10am speakers, 12pm parade)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "madison ave + e 23rd st to broadway + 17th st (flatiron)",
-      "source": "The Skint",
-      "link": "https://calendar.powwows.com/events/the-annual-national-indigenous-peoples-of-the-americas-parade/",
-      "map": "https://maps.google.com/?q=madison%20ave%20%2B%20e%2023rd%20st%20to%20broadway%20%2B%2017th%20st%20(flatiron)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-2pm (10am speakers, 12pm parade): fifth annual national indigenous peoples of the americas parade: madison ave + e 23rd st to broadway + 17th st (flatiron)."
-    },
-    "skint_92208_4_hoboken_s_second_citywide_gate_sale": {
-      "title": "hoboken’s second citywide gate sale",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-17",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 10/17 · 10am-2pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "church square park and throughout hoboken, nj",
-      "source": "The Skint",
-      "link": "https://www.hobokennj.gov/news/fall-citywide-gate-sale",
-      "map": "https://maps.google.com/?q=church%20square%20park%20and%20throughout%20hoboken%2C%20nj%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-2pm: hoboken’s second citywide gate sale: church square park and throughout hoboken, nj."
-    },
-    "skint_92208_5_brownstone_boys_stoop_sale": {
-      "title": "brownstone boys stoop sale",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-17",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 10/17 · 10am-2pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "375 vanderbilt ave (clinton hill)",
-      "source": "The Skint",
-      "link": "https://thebrownstoneboys.substack.com/p/save-the-date-stoop-sale-is-coming",
-      "map": "https://maps.google.com/?q=375%20vanderbilt%20ave%20(clinton%20hill)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-2pm: brownstone boys stoop sale: 375 vanderbilt ave (clinton hill)."
-    },
-    "skint_92208_6_the_annual_muddy_paws_rescue_block_party": {
-      "title": "the annual muddy paws rescue block party",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-17",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 10/17 · 10am-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "w 54th street between 9th + 10th aves (hell’s kitchen)",
-      "source": "The Skint",
-      "link": "https://www.muddypawsrescue.org/block-party",
-      "map": "https://maps.google.com/?q=w%2054th%20street%20between%209th%20%2B%2010th%20aves%20(hell%E2%80%99s%20kitchen)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-5pm: the annual muddy paws rescue block party: w 54th street between 9th + 10th aves (hell’s kitchen)."
-    },
-    "skint_92208_7_brooklyn_pop_up_x_old_stone_house_fall_artisans_baza": {
-      "title": "brooklyn pop-up x old stone house fall artisans bazaar + traditional makers fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-17",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 10/17 · 10am-5pm (rescheduled from 9/26 due to weather)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "4th street cul-de-sac at washington park (park slope)",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/brooklyn-pop-up-osh-fall-artisans-bazaar-traditional-makers-fair-tickets-2002632772532",
-      "map": "https://maps.google.com/?q=4th%20street%20cul-de-sac%20at%20washington%20park%20(park%20slope)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-5pm (rescheduled from 9/26 due to weather): brooklyn pop-up x old stone house fall artisans bazaar + traditional makers fair: 4th street cul-de-sac at washington park (park slope)."
-    },
-    "skint_92208_8_smith_street_neighbors_makers_fair": {
-      "title": "smith street neighbors + makers fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-17",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 10/17 · 10am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "smith street between bergen + union (carroll gardens)",
-      "source": "The Skint",
-      "link": "https://mossbklyn.com/upcoming-events",
-      "map": "https://maps.google.com/?q=smith%20street%20between%20bergen%20%2B%20union%20(carroll%20gardens)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 10am-6pm: smith street neighbors + makers fair: smith street between bergen + union (carroll gardens)."
-    },
-    "skint_92208_9_good_neighbors_bake_sale_supporting_one_love_communi": {
-      "title": "good neighbors bake sale – supporting one love community fridge",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-17",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 10/17 · 12pm until sold out",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "index space (greenpoint)",
-      "source": "The Skint",
-      "link": "https://partiful.com/e/hzkehMZ3N0Y5E02wCK7O",
-      "map": "https://maps.google.com/?q=index%20space%20(greenpoint)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12pm until sold out: good neighbors bake sale – supporting one love community fridge: index space (greenpoint)."
-    },
-    "skint_92208_10_the_annual_smorgasburg_diwali_festival_of_bites": {
-      "title": "the annual smorgasburg diwali: festival of bites",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-17",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 10/17 · + sun (11am-6pm)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "marsha p",
-      "source": "The Skint",
-      "link": "https://smorgasburg.com/ny-events",
-      "map": "https://maps.google.com/?q=marsha%20p%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun (11am-6pm): the annual smorgasburg diwali: festival of bites: marsha p. johnson state park in williamsburg (sat), breeze hill in prospect park (sun)."
-    },
-    "skint_92208_11_the_annual_disability_pride_parade_and_block_party": {
+    "skint_92208_1_the_annual_disability_pride_parade_and_block_party": {
       "title": "the annual disability pride parade and block party",
       "type": "market",
       "label": "Festival / Market",
@@ -661,7 +492,7 @@
       "map": "https://maps.google.com/?q=parade%20(11am)%3A%20madison%20square%20park%20to%20union%20square%20park%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-3pm: the annual disability pride parade and block party: parade (11am): madison square park to union square park. block party (12-3pm): union square park."
     },
-    "skint_92208_12_objects_of_times_past_pop_up_market": {
+    "skint_92208_2_objects_of_times_past_pop_up_market": {
       "title": "objects of times past pop-up market",
       "type": "market",
       "label": "Festival / Market",
@@ -678,7 +509,7 @@
       "map": "https://maps.google.com/?q=432%20e%209th%20st%20(east%20village)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-7pm: objects of times past pop-up market: 432 e 9th st (east village)."
     },
-    "skint_92208_13_brooklyn_mac_and_takedown": {
+    "skint_92208_3_brooklyn_mac_and_takedown": {
       "title": "brooklyn mac and takedown",
       "type": "market",
       "label": "Festival / Market",
@@ -695,7 +526,7 @@
       "map": "https://maps.google.com/?q=royal%20palms%20shuffleboard%20(gowanus)%2C%20%2430%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-3pm: brooklyn mac and takedown: royal palms shuffleboard (gowanus), $30."
     },
-    "skint_92208_14_nyc_plant_market": {
+    "skint_92208_4_nyc_plant_market": {
       "title": "nyc plant market",
       "type": "market",
       "label": "Festival / Market",
@@ -711,23 +542,6 @@
       "link": "https://nycplantmarket.com",
       "map": "https://maps.google.com/?q=culture%20lab%20lic%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-7pm: nyc plant market: culture lab lic."
-    },
-    "gary_2026_10_18_the_deployment_room": {
-      "title": "The Deployment Room",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sun",
-      "date": "2026-10-18",
-      "time": "1:30 PM",
-      "sort": 13.5,
-      "when": "Sun, 10/18 · 1:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/q5czzzv/The-Deployment-Room",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With 6 active funds, funding founders (Seed to Series B)."
     },
     "gary_2026_10_19_fireside_chat_w_revolve": {
       "title": "Fireside Chat w/ Revolve",
@@ -961,10 +775,10 @@
       "when": "Tue, 10/20 · 5:30pm",
       "price": "Varies",
       "free": false,
-      "place": "Venue, To Be Announced",
+      "place": "Venue,, To Be Announced",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/6n41duf/Irish-Tech-Week-Investor-Preview",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Digital Irish x JP Morgan."
     },
     "gary_2026_10_20_build_ai_automations_you_can_rely_on": {
@@ -1034,6 +848,23 @@
       "link": "https://www.garysguide.com/events/13u3wmj/Founder-Dinner",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join us for an intimate evening with a highly curated group of Series A+ founders that are scaling at the most beautiful venue in San Francisco. Who Should Attend? Founders who have raised Series A & beyond building in AI. Founders who have raised Seed with at least $2M ARR. Why Attend? Honest conversations with the best founders at similar stages Tactical insights on fundraising, GTM, & scaling from peers who get it What Is Included? 3-course dinner The builders behind some of the fastest-growing companies in the country Important Reminders: Dress Code: Business, smart casual Stay Connected: Follow us on Instagram or LinkedIn for updates on our community, events & opportunities. Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes. About the Hosts & Sponsors: Brderless brings together the most extraordinary founders through a carefully curated community."
+    },
+    "gary_2026_10_21_zenity_ai_agent_security_summit": {
+      "title": "Zenity AI Agent Security Summit",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-10-21",
+      "time": "8 AM",
+      "sort": 8,
+      "when": "Wed, 10/21 · 8:00am",
+      "price": "Varies",
+      "free": false,
+      "place": "Venue, Pier Sixty",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/4aa19z7/Zenity-AI-Agent-Security-Summit",
+      "map": "https://maps.google.com/?q=Venue%2C%20Pier%20Sixty",
+      "summary": "Gary's Guide: With Matthew Dressman (Dir. Engg & Science, Microsoft AI), Rahul Jain (Dir., Enterprise AI, Gusto), Helen Oakley (OWASP GenAI Security), Sandeep Thuthike (Principal Enggr, Yahoo), Yotam Perkal (Security Research, Pluto)."
     },
     "gary_2026_10_21_fonzi_s_ai_oj_talent_leaders_breakfast": {
       "title": "Fonzi's AI & OJ - Talent Leaders Breakfast",
@@ -1426,6 +1257,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join us for an intimate evening with a highly curated group of Series A+ founders that are scaling at the most beautiful venue in San Francisco. Who Should Attend? Founders who have raised Series A & beyond building in AI. Founders who have raised Seed with at least $2M ARR. Why Attend? Honest conversations with the best founders at similar stages Tactical insights on fundraising, GTM, & scaling from peers who get it What Is Included? 3-course dinner The builders behind some of the fastest-growing companies in the country Important Reminders: Dress Code: Business, smart casual Stay Connected: Follow us on Instagram or LinkedIn for updates on our community, events & opportunities. Photography Notice: By attending, you consent to being photographed or recorded for promotional purposes. About the Hosts & Sponsors: Brderless brings together the most extraordinary founders through a carefully curated community. Keka is an HR software platform, a \"PeopleOS\" built to handle the core functions companies need to manage their workforce. It brings together payroll processing, attendance & leave tracking, performance management, hiring & onboarding, & employee engagement into one system, so HR teams don't have to juggle separate tools."
     },
+    "gary_2026_10_22_the_ai_ndustrial_revolution": {
+      "title": "The AI-ndustrial Revolution?",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-22",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 10/22 · 6:30pm",
+      "price": "$30",
+      "free": false,
+      "place": "Puttery, 446 W 14th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/nu7sl3l/The-AI-ndustrial-Revolution",
+      "map": "https://maps.google.com/?q=Puttery%2C%20446%20W%2014th%20St",
+      "summary": "Gary's Guide: With Daniel Di Martino (Manhattan Institute), Cecilia Dones (Columbia)."
+    },
     "luma_2026_10_19_claude_chill_for_founders_creators": {
       "title": "Claude & Chill for Founders & Creators",
       "type": "startup",
@@ -1527,6 +1375,40 @@
       "link": "https://luma.com/3tto5407",
       "map": "https://maps.google.com/?q=The%20Times%20Center%20NYC",
       "summary": "Luma NYC: Monk, Kendall Warson, George Kurdin, Joe Zhou, Brr, Sahar Mor (Bond AI), Robert"
+    },
+    "luma_2026_10_21_robots_that_care_summit": {
+      "title": "Robots That Care Summit",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-10-21",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Wed, 10/21 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "Brooklyn, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/8fobi9xw",
+      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
+      "summary": "Luma NYC: Jinsy, Jinsy, ALEXANDRE G WINTER, John Joshua, Ahmad Gaber, Newlab Brooklyn, Matthieu Masselin, New York Robotics"
+    },
+    "luma_2026_10_21_you_can_see_everything_private_screening_presented_b": {
+      "title": "You Can See Everything Private Screening - Presented by Concentrate AI × RRE Ventures",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-10-21",
+      "time": "10:45 PM",
+      "sort": 22.75,
+      "when": "Wed, 10/21 · 10:45pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/yshtx07x",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Concentrate AI, Zach Moskow, Matthew Vine"
     },
     "nyu_tandon_2026_10_19_stem_cell_derived_human_corneal_organoid_model_advan": {
       "title": "Stem-cell derived human corneal organoid model - advances and challenges in its use as a corneal surrogate",
@@ -1680,40 +1562,6 @@
       "link": "https://engineering.nyu.edu/events/2026/10/27/instructional-tech-drop-sessions",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
-    },
-    "jc_culture_10004845_2026_10_18_rent_the_musical": {
-      "title": "RENT: The Musical",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sun",
-      "date": "2026-10-18",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sun, 10/18 · 2pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/rent-the-musical/2026-10-18/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "Experience the groundbreaking Tony Award-winning musical and Pulitzer Prize-winning drama that defined a generation. Presented at Art House Productions during the 30th anniversary year of its original premiere, RENT follows a vibrant community of artists, musicians, and dreamers in New York City’s East Village as they pursue their passions, navigate love and loss, and strive to make a meaningful impact on the world around them. Set against the backdrop of the AIDS crisis, poverty, addiction, economic uncertainty, and a rapidly changing city, these artists discover the power of friendship, the importance of creative expression, and the enduring strength of community. Featuring iconic songs and an unforgettable rock score, RENT celebrates resilience, human connection, and the transformative role of the arts in times of hardship. This production is especially meaningful as part of Art House Productions’ 25th Anniversary Season. Founded in the wake of September 11, 2001, Art House was created to bring people together through the arts during a time of profound loss and uncertainty. Thirty years after its premiere, RENT remains as relevant, timeless, and inspiring as ever, reminding us all to measure our lives in love."
-    },
-    "jc_culture_43690_2026_10_18_smush_gallery_work_share_monthly_artist_feedback_ses": {
-      "title": "Smush Gallery Work / Share Monthly Artist Feedback Sessions 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-10-18",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sun, 10/18 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/smush-gallery-work-share-monthly-artist-feedback-sessions-2026-2/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community."
     },
     "jc_culture_10003573_2026_10_21_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
@@ -2271,21 +2119,13 @@
       "ted_rosenthal"
     ],
     "cluster_2026_10_18_1_pm": [
-      "skint_92208_2_carl_schurz_park_conservancy_s_annual_halloween_howl",
-      "skint_92208_13_brooklyn_mac_and_takedown",
-      "skint_92208_14_nyc_plant_market"
-    ],
-    "cluster_2026_10_17_10_am": [
-      "skint_92208_3_fifth_annual_national_indigenous_peoples_of_the_amer",
-      "skint_92208_4_hoboken_s_second_citywide_gate_sale",
-      "skint_92208_5_brownstone_boys_stoop_sale",
-      "skint_92208_6_the_annual_muddy_paws_rescue_block_party",
-      "skint_92208_7_brooklyn_pop_up_x_old_stone_house_fall_artisans_baza",
-      "skint_92208_8_smith_street_neighbors_makers_fair"
+      "skint_92208_0_carl_schurz_park_conservancy_s_annual_halloween_howl",
+      "skint_92208_3_brooklyn_mac_and_takedown",
+      "skint_92208_4_nyc_plant_market"
     ],
     "cluster_2026_10_18_11_am": [
-      "skint_92208_11_the_annual_disability_pride_parade_and_block_party",
-      "skint_92208_12_objects_of_times_past_pop_up_market"
+      "skint_92208_1_the_annual_disability_pride_parade_and_block_party",
+      "skint_92208_2_objects_of_times_past_pop_up_market"
     ],
     "cluster_2026_10_19_6_30_pm": [
       "gary_2026_10_19_growth_gems_screw_ups",
@@ -2336,7 +2176,8 @@
     ],
     "cluster_2026_10_22_6_30_pm": [
       "gary_2026_10_22_transit_techies",
-      "gary_2026_10_22_founder_dinner"
+      "gary_2026_10_22_founder_dinner",
+      "gary_2026_10_22_the_ai_ndustrial_revolution"
     ],
     "cluster_2026_10_22_4_pm": [
       "nyu_tandon_2026_10_22_fre_special_seminar_ana_s_despr_s_zhenjie_ren",
