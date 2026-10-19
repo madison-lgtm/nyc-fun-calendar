@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 19, 2026, 1:16 PM EDT",
+    "checked": "Oct 19, 2026, 7:01 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -266,8 +266,7 @@
       "9 PM",
       "9:15 PM",
       "9:30 PM",
-      "10 PM",
-      "10:45 PM"
+      "10 PM"
     ]
   },
   "events": {
@@ -1308,6 +1307,23 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: TikTok for Business, TikTok For Business"
     },
+    "luma_2026_10_20_climb_the_paywall_w_app_founders_by_an_nayal_revenue": {
+      "title": "🧗🏽‍♂️Climb the Paywall w/ App Founders (by An Nayal, RevenueCat and Braavo Capital)",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-10-20",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Tue, 10/20 · 2pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/mnc3hgpf",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: An Nayal, An Nayal"
+    },
     "luma_2026_10_20_claude_code_workshop_with_provectus_new_york_city": {
       "title": "Claude Code Workshop with Provectus - New York City",
       "type": "tech",
@@ -1375,40 +1391,6 @@
       "link": "https://luma.com/3tto5407",
       "map": "https://maps.google.com/?q=The%20Times%20Center%20NYC",
       "summary": "Luma NYC: Monk, Kendall Warson, George Kurdin, Joe Zhou, Brr, Sahar Mor (Bond AI), Robert"
-    },
-    "luma_2026_10_21_robots_that_care_summit": {
-      "title": "Robots That Care Summit",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-10-21",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Wed, 10/21 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "Brooklyn, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/8fobi9xw",
-      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
-      "summary": "Luma NYC: Jinsy, Jinsy, ALEXANDRE G WINTER, John Joshua, Ahmad Gaber, Newlab Brooklyn, Matthieu Masselin, New York Robotics"
-    },
-    "luma_2026_10_21_you_can_see_everything_private_screening_presented_b": {
-      "title": "You Can See Everything Private Screening - Presented by Concentrate AI × RRE Ventures",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-10-21",
-      "time": "10:45 PM",
-      "sort": 22.75,
-      "when": "Wed, 10/21 · 10:45pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/yshtx07x",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Concentrate AI, Zach Moskow, Matthew Vine"
     },
     "nyu_tandon_2026_10_19_stem_cell_derived_human_corneal_organoid_model_advan": {
       "title": "Stem-cell derived human corneal organoid model - advances and challenges in its use as a corneal surrogate",
