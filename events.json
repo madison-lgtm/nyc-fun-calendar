@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Oct 19, 2026, 7:01 PM EDT",
+    "checked": "Oct 20, 2026, 11:29 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-10-19",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Oct 19"
-      },
       {
         "iso": "2026-10-20",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Oct 25"
+      },
+      {
+        "iso": "2026-10-26",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Oct 26"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-10-19",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Oct 19"
-      },
       {
         "iso": "2026-10-20",
         "key": "Tue",
@@ -233,12 +227,19 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 18"
+      },
+      {
+        "iso": "2026-11-19",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Nov 19"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "7 AM",
       "8 AM",
+      "8:30 AM",
       "8:45 AM",
       "9 AM",
       "9:30 AM",
@@ -264,9 +265,9 @@
       "7:30 PM",
       "8 PM",
       "9 PM",
-      "9:15 PM",
       "9:30 PM",
-      "10 PM"
+      "10 PM",
+      "10:45 PM"
     ]
   },
   "events": {
@@ -456,159 +457,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "skint_92208_0_carl_schurz_park_conservancy_s_annual_halloween_howl": {
-      "title": "carl schurz park conservancy’s annual halloween howl + healthy hound fair",
-      "type": "weird",
-      "label": "Weird / Social",
-      "day": "Sun",
-      "date": "2026-10-18",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 10/18 · 1-3pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "basketball/hockey court + john finley walk (yorkville)",
-      "source": "The Skint",
-      "link": "https://www.carlschurzparknyc.org/events",
-      "map": "https://maps.google.com/?q=basketball%2Fhockey%20court%20%2B%20john%20finley%20walk%20(yorkville)%20NYC",
-      "summary": " halloween dog parades and costume contests. Pulled from The Skint's public article feed: sun 1-3pm: carl schurz park conservancy’s annual halloween howl + healthy hound fair: basketball/hockey court + john finley walk (yorkville)."
-    },
-    "skint_92208_1_the_annual_disability_pride_parade_and_block_party": {
-      "title": "the annual disability pride parade and block party",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-18",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 10/18 · 11am-3pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "parade (11am): madison square park to union square park",
-      "source": "The Skint",
-      "link": "https://www.nycdisabilitypride.org",
-      "map": "https://maps.google.com/?q=parade%20(11am)%3A%20madison%20square%20park%20to%20union%20square%20park%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-3pm: the annual disability pride parade and block party: parade (11am): madison square park to union square park. block party (12-3pm): union square park."
-    },
-    "skint_92208_2_objects_of_times_past_pop_up_market": {
-      "title": "objects of times past pop-up market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-18",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 10/18 · 11am-7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "432 e 9th st (east village)",
-      "source": "The Skint",
-      "link": "https://partiful.com/e/JeDj5aFfN784UvnV5SLC",
-      "map": "https://maps.google.com/?q=432%20e%209th%20st%20(east%20village)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-7pm: objects of times past pop-up market: 432 e 9th st (east village)."
-    },
-    "skint_92208_3_brooklyn_mac_and_takedown": {
-      "title": "brooklyn mac and takedown",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-18",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 10/18 · 1-3pm",
-      "price": "$30",
-      "free": false,
-      "place": "royal palms shuffleboard (gowanus), $30",
-      "source": "The Skint",
-      "link": "https://thetakedowns.com",
-      "map": "https://maps.google.com/?q=royal%20palms%20shuffleboard%20(gowanus)%2C%20%2430%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-3pm: brooklyn mac and takedown: royal palms shuffleboard (gowanus), $30."
-    },
-    "skint_92208_4_nyc_plant_market": {
-      "title": "nyc plant market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-18",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 10/18 · 1-7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "culture lab lic",
-      "source": "The Skint",
-      "link": "https://nycplantmarket.com",
-      "map": "https://maps.google.com/?q=culture%20lab%20lic%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 1-7pm: nyc plant market: culture lab lic."
-    },
-    "gary_2026_10_19_fireside_chat_w_revolve": {
-      "title": "Fireside Chat w/ Revolve",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-10-19",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 10/19 · 6:00pm",
-      "price": "$15",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/tbf5cgd/Fireside-Chat-w-Revolve",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Divya Mathur (Chief Merchandising Officer, Revolve), Rachel Wong (Founder, Monday Girl)."
-    },
-    "gary_2026_10_19_growth_gems_screw_ups": {
-      "title": "Growth Gems & Screw-Ups",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-10-19",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Mon, 10/19 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/hjlhat7/Growth-Gems-Screw-Ups",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Come join consumer app founders & growth practitioners on the opening night of New York App Week for tacos (Los Tacos no1), drinks, & the best growth insights.This goes beyond your typical mingling. We'll have two separate boards up:Board 1: GROWTH GEMS The best subscription app insight, tactic, or perspective you've got! Something that actually moved the needle or improved your strategy.You send your gem when you register. We print it, group it by theme, & put it on the wall with your name on it.Board 2: SCREW-UPS The most expensive mistake(s) you've made! Anonymous, you write it the day of.You'll get to vote for your favorites & we'll share the best ones on the mic before the end of the evening.Backed by RevenueCat as an official New York App Week event!---6:30 Drinks, food, & great convos. The Growth Gems board is already up, so you can start voting . Write your screw-up & pin it. 8:00 Voting closes. 8:15 10-15 minutes on the mic: the top gems & the top screw-ups.9:30 End---The event is free to attend but RSVP properly (with your Growth Gem): capacity is limited & it will fill up fast!Venue: NYC, announced here shortly. You'll get an email the moment it's locked.Hosted by Sylvain Gauchet (Growth Gems newsletter), funded by the amazing folks of RevenueCat as part of New York App Week."
-    },
-    "gary_2026_10_19_ai_app_founders_dinner": {
-      "title": "AI App Founders Dinner",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-10-19",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Mon, 10/19 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/8oo0fkx/AI-App-Founders-Dinner",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Most of App Week is programming. This is dinner.We're bringing together founders building consumer AI apps for the opening night of the week great food, good wine, & a table small enough to actually talk. No speakers, & no agenda.Free to attend. Requests reviewed so the room stays founders building in this space.Hosted byKoah, the ad network built for AI apps. We run native ads inside chat & agent experiences for 300+ monetization partners like DeepAI, Liner, & Daimon, matched to user intent at inference time instead of to a profile.In partnership with RevenueCat, as part of New York App Week."
-    },
-    "gary_2026_10_19_spirits_night_growth_leaders_happy_hour": {
-      "title": "Spirits Night - Growth Leaders Happy Hour",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-10-19",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Mon, 10/19 · 7:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/g26myqq/Spirits-Night-Growth-Leaders-Happy-Hour",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Live jazz, snacks & open bar w/ Superwall & AppCap."
     },
     "gary_2026_10_20_up_link_spacetech_business_summit": {
       "title": "Up/Link - SpaceTech Business Summit",
@@ -915,6 +763,23 @@
       "link": "https://www.garysguide.com/events/tb33pg9/Co-Working-For-Social-Entrepreneurs",
       "map": "https://maps.google.com/?q=Anew%20Cafe%20%26%20Goods%2C%20526%20Hudson%20St",
       "summary": "Gary's Guide: A weekly gathering where you can join fellow social impact entrepreneurs of all stripes & co-work over coffee & pastries at Anew Caf & Goods. We'll reserve space in the caf for the meeting, please order a drink or pastry. Looking forward to seeing you! Anew is a gathering space & discovery center for social transformation located in NYC. We host interactive events & workshops, an accelerator program for nonprofits, & a retail lab featuring ethically-sourced coffee & gifts. =="
+    },
+    "gary_2026_10_21_the_new_ai_age_in_china": {
+      "title": "The New AI Age In China",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-10-21",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Wed, 10/21 · 5:00pm",
+      "price": "$20",
+      "free": false,
+      "place": "Reed Smith, 599 Lexington Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/3jfxsjn/The-New-AI-Age-In-China",
+      "map": "https://maps.google.com/?q=Reed%20Smith%2C%20599%20Lexington%20Ave",
+      "summary": "Gary's Guide: A briefing on AI in China by Eric Schmidt's right-hand person & a presentation of a Traditional Chinese Medicine company infused with AI."
     },
     "gary_2026_10_21_startup_pitch_demo_showcase": {
       "title": "Startup Pitch - Demo Showcase",
@@ -1273,22 +1138,56 @@
       "map": "https://maps.google.com/?q=Puttery%2C%20446%20W%2014th%20St",
       "summary": "Gary's Guide: With Daniel Di Martino (Manhattan Institute), Cecilia Dones (Columbia)."
     },
-    "luma_2026_10_19_claude_chill_for_founders_creators": {
-      "title": "Claude & Chill for Founders & Creators",
+    "gary_2026_10_22_startup_scaries": {
+      "title": "Startup Scaries",
       "type": "startup",
       "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-10-19",
-      "time": "9:15 PM",
-      "sort": 21.25,
-      "when": "Mon, 10/19 · 9:15pm",
+      "day": "Thu",
+      "date": "2026-10-22",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Thu, 10/22 · 7:00pm",
       "price": "Free",
       "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/claude-and-chill-oct19",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Claude Community Events, Mika"
+      "place": "Fonzi HQ, 25 Kent Ave, Brooklyn",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/xzsxrnt/Startup-Scaries",
+      "map": "https://maps.google.com/?q=Fonzi%20HQ%2C%2025%20Kent%20Ave%2C%20Brooklyn",
+      "summary": "Gary's Guide: Your startup nightmares are coming to life. Join us for a Halloween takeover of Fonzi's Williamsburg office, bringing together engineers, tech founders, & friends from across NYC for a night of costumes, drinks, games, music, & plenty of startup-inspired scares. Come in costume, grab a drink, get your career fortune told, & stay for the party. Costumes encouraged. Drinks on us. Nightmares included. Oct 22 | 7-11 PM Williamsburg, Brooklyn Hosted by Fonzi"
+    },
+    "gary_2026_10_22_retail_ai_council_pre_holiday_mixer": {
+      "title": "Retail AI Council Pre-Holiday Mixer",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-22",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Thu, 10/22 · 7:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Primrose, 127 W 26th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/65xerbv/Retail-AI-Council-Pre-Holiday-Mixer",
+      "map": "https://maps.google.com/?q=Primrose%2C%20127%20W%2026th%20St",
+      "summary": "Gary's Guide: The Retail AI Council Pre-Holiday Mixer is coming to NYC! It's be the perfect time to get together with your retail friends before the holiday season kicks into high gear. We don't need a conference to bring the community together - Retail AI Council's Mixers are the best opportunity to connect with like-minded leaders right in your city. Share your holiday strategies & gain new insights & ideas ahead of Q1. We'll be at a beautiful Manhattan restaurant with an abundance of delicious food, sophisticated cocktails, & brilliant conversations. Close out the year with strong connections that last. RSVPs from Adorama, Ashley Furniture, Avolta, Bayer, Beard Club, Bolden Company, Brooklinen, Brandon Blackwood, Burlington Stores, Celeres, Centric Brands, Chanel, Cole Haan, Colgate-Palmolive, CVS, Estee Lauder, Faherty Brand, FTG Company, Garan Inc, Khaite, London Jewelers, Macy's, Maissonette, MIZIZI International, New York & Company, No7 Beauty Company, PepsiCo, Rainbow Apparel Co, URBN, Vita Coco, Vitamin Shoppe, WHSmith, & many more coming soon! We'd love to see you there. This event is exclusively for leaders of established & scaled retailers & DTC brands. Invitation requests are subject to approval. To our industry partner friends, please contact Sigs Bohlig (sigs@retailaicouncil.com) to see how you can join the fun. By registering for this event, you agree to provide your name & email address to Retail AI Council, & consent to this information being shared with event sponsors for relevant communications."
+    },
+    "gary_2026_10_23_acceleratorcon": {
+      "title": "AcceleratorCON",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-10-23",
+      "time": "8:30 AM",
+      "sort": 8.5,
+      "when": "Fri, 10/23 · 8:30am",
+      "price": "$120",
+      "free": false,
+      "place": "The Masion Project, 229 W 28th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/phz8hke/AcceleratorCON",
+      "map": "https://maps.google.com/?q=The%20Masion%20Project%2C%20229%20W%2028th%20St",
+      "summary": "Gary's Guide: Only conference built for startups & accelerator programs to meet face-to-face. Top early-stage founders connect directly w/ investors, accelerator programs & ecosystem partners."
     },
     "luma_2026_10_20_tiktok_level_up_apps_gaming_ads_workshop": {
       "title": "TikTok Level Up: Apps & Gaming Ads Workshop",
@@ -1305,7 +1204,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/ttappny",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: TikTok for Business, TikTok For Business"
+      "summary": "Luma NYC: TikTok for Business, TikTok For Business, 329events"
     },
     "luma_2026_10_20_climb_the_paywall_w_app_founders_by_an_nayal_revenue": {
       "title": "🧗🏽‍♂️Climb the Paywall w/ App Founders (by An Nayal, RevenueCat and Braavo Capital)",
@@ -1392,22 +1291,39 @@
       "map": "https://maps.google.com/?q=The%20Times%20Center%20NYC",
       "summary": "Luma NYC: Monk, Kendall Warson, George Kurdin, Joe Zhou, Brr, Sahar Mor (Bond AI), Robert"
     },
-    "nyu_tandon_2026_10_19_stem_cell_derived_human_corneal_organoid_model_advan": {
-      "title": "Stem-cell derived human corneal organoid model - advances and challenges in its use as a corneal surrogate",
+    "luma_2026_10_21_robots_that_care_summit": {
+      "title": "Robots That Care Summit",
       "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Mon",
-      "date": "2026-10-19",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Mon, 10/19 · 11:00 AM",
-      "price": "Free / varies",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-10-21",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Wed, 10/21 · 10pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/10/19/stem-cell-derived-human-corneal-organoid-model-advances-and-challenges-its-use",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
+      "place": "Brooklyn, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/8fobi9xw",
+      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
+      "summary": "Luma NYC: Jinsy, Jinsy, ALEXANDRE G WINTER, John Joshua, Ahmad Gaber, Newlab Brooklyn, Matthieu Masselin, New York Robotics"
+    },
+    "luma_2026_10_21_you_can_see_everything_private_screening_presented_b": {
+      "title": "You Can See Everything Private Screening - Presented by Concentrate AI × RRE Ventures",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-10-21",
+      "time": "10:45 PM",
+      "sort": 22.75,
+      "when": "Wed, 10/21 · 10:45pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/yshtx07x",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Concentrate AI, Zach Moskow, Matthew Vine"
     },
     "nyu_tandon_2026_10_20_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1542,6 +1458,23 @@
       "place": "NYU Tandon / Online",
       "source": "NYU Tandon",
       "link": "https://engineering.nyu.edu/events/2026/10/27/instructional-tech-drop-sessions",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Workshop / Training"
+    },
+    "nyu_tandon_2026_10_28_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
+      "type": "tech",
+      "label": "Workshop / Training",
+      "day": "Wed",
+      "date": "2026-10-28",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Wed, 10/28 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/10/28/instructional-tech-drop-sessions",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
@@ -2100,19 +2033,6 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_10_18_1_pm": [
-      "skint_92208_0_carl_schurz_park_conservancy_s_annual_halloween_howl",
-      "skint_92208_3_brooklyn_mac_and_takedown",
-      "skint_92208_4_nyc_plant_market"
-    ],
-    "cluster_2026_10_18_11_am": [
-      "skint_92208_1_the_annual_disability_pride_parade_and_block_party",
-      "skint_92208_2_objects_of_times_past_pop_up_market"
-    ],
-    "cluster_2026_10_19_6_30_pm": [
-      "gary_2026_10_19_growth_gems_screw_ups",
-      "gary_2026_10_19_ai_app_founders_dinner"
-    ],
     "cluster_2026_10_20_10_am": [
       "gary_2026_10_20_the_human_edge_founders_cacao_salon",
       "gary_2026_10_20_climb_the_paywall_w_app_founders"
@@ -2160,6 +2080,10 @@
       "gary_2026_10_22_transit_techies",
       "gary_2026_10_22_founder_dinner",
       "gary_2026_10_22_the_ai_ndustrial_revolution"
+    ],
+    "cluster_2026_10_22_7_pm": [
+      "gary_2026_10_22_startup_scaries",
+      "gary_2026_10_22_retail_ai_council_pre_holiday_mixer"
     ],
     "cluster_2026_10_22_4_pm": [
       "nyu_tandon_2026_10_22_fre_special_seminar_ana_s_despr_s_zhenjie_ren",
