@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 20, 2026, 11:29 AM EDT",
+    "checked": "Oct 20, 2026, 6:33 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -250,7 +250,6 @@
       "11:30 AM",
       "12 PM",
       "1 PM",
-      "1:30 PM",
       "2 PM",
       "2:30 PM",
       "3 PM",
@@ -1189,57 +1188,6 @@
       "map": "https://maps.google.com/?q=The%20Masion%20Project%2C%20229%20W%2028th%20St",
       "summary": "Gary's Guide: Only conference built for startups & accelerator programs to meet face-to-face. Top early-stage founders connect directly w/ investors, accelerator programs & ecosystem partners."
     },
-    "luma_2026_10_20_tiktok_level_up_apps_gaming_ads_workshop": {
-      "title": "TikTok Level Up: Apps & Gaming Ads Workshop",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-10-20",
-      "time": "1:30 PM",
-      "sort": 13.5,
-      "when": "Tue, 10/20 · 1:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/ttappny",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: TikTok for Business, TikTok For Business, 329events"
-    },
-    "luma_2026_10_20_climb_the_paywall_w_app_founders_by_an_nayal_revenue": {
-      "title": "🧗🏽‍♂️Climb the Paywall w/ App Founders (by An Nayal, RevenueCat and Braavo Capital)",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-10-20",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Tue, 10/20 · 2pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/mnc3hgpf",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: An Nayal, An Nayal"
-    },
-    "luma_2026_10_20_claude_code_workshop_with_provectus_new_york_city": {
-      "title": "Claude Code Workshop with Provectus - New York City",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-10-20",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Tue, 10/20 · 5pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/claude-code-workshop-nyc-oct-20",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Claude Workshops, Build with Claude, Provectus"
-    },
     "luma_2026_10_20_gtm_intelligence_ai_night_with_ramp_meritfirst": {
       "title": "GTM Intelligence: AI Night with Ramp + MeritFirst",
       "type": "tech",
@@ -1272,7 +1220,24 @@
       "source": "Luma NYC",
       "link": "https://luma.com/genspark-build",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: AI After 5, Mina Abdulla, Samuel, Betaworks, Genspark.ai, Max Kuivenhoven"
+      "summary": "Luma NYC: AI After 5, Mina Abdulla, Samuel, Genspark.ai, Max Kuivenhoven"
+    },
+    "luma_2026_10_20_figma_agent_builder_night_tuesday_october_20": {
+      "title": "Figma agent: Builder night (Tuesday, October 20)",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-10-20",
+      "time": "10 PM",
+      "sort": 22,
+      "when": "Tue, 10/20 · 10pm",
+      "price": "Free",
+      "free": true,
+      "place": "Figma NYC",
+      "source": "Luma NYC",
+      "link": "https://luma.com/uuo7sc2e",
+      "map": "https://maps.google.com/?q=Figma%20NYC%20NYC",
+      "summary": "Luma NYC: Figma for Education, Figma Team"
     },
     "luma_2026_10_21_net_30_applied_ai_summit_on_the_future_of_finance": {
       "title": "Net 30 - applied AI summit on the future of finance",
@@ -2039,8 +2004,7 @@
     ],
     "cluster_2026_10_20_5_pm": [
       "gary_2026_10_20_pitch_power_hour_founder_matchup",
-      "gary_2026_10_20_solution_smithing_how_to_raise_give_a_million_dollar",
-      "luma_2026_10_20_claude_code_workshop_with_provectus_new_york_city"
+      "gary_2026_10_20_solution_smithing_how_to_raise_give_a_million_dollar"
     ],
     "cluster_2026_10_20_6_pm": [
       "gary_2026_10_20_build_ai_automations_you_can_rely_on",
@@ -2084,6 +2048,10 @@
     "cluster_2026_10_22_7_pm": [
       "gary_2026_10_22_startup_scaries",
       "gary_2026_10_22_retail_ai_council_pre_holiday_mixer"
+    ],
+    "cluster_2026_10_20_10_pm": [
+      "luma_2026_10_20_ai_agents_build_day_with_genspark",
+      "luma_2026_10_20_figma_agent_builder_night_tuesday_october_20"
     ],
     "cluster_2026_10_22_4_pm": [
       "nyu_tandon_2026_10_22_fre_special_seminar_ana_s_despr_s_zhenjie_ren",
