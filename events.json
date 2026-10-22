@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 22, 2026, 11:44 AM EDT",
+    "checked": "Oct 22, 2026, 6:38 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1436,7 +1436,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/halloween-events-2026/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: community events."
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Kids Activities What's Coming Up?."
     },
     "jc_culture_44498_2026_10_22_join_mayor_james_solomon_s_lgbtq_task_force_communit": {
       "title": "Join Mayor James Solomon’s LGBTQ+ Task Force Community Meeting 2026",
@@ -1488,6 +1488,23 @@
       "link": "https://jerseycityculture.org/event/ariel-rivka-dance-2026/",
       "map": "https://maps.google.com/?q=Exchange%20Place%2C%20MONTGOMERY%20ST%20BETWEEN%20HUDSON%20ST.%20AND%20GREEN%20ST.",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor Visual & Performing Arts What's Coming Up?."
+    },
+    "jc_culture_44685_2026_10_23_the_mystery_of_macabbra_mansion_3_spencer_s_revenge_": {
+      "title": "The Mystery of MacAbbra Mansion 3 / Spencer’s Revenge 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-10-23",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Fri, 10/23 · 7pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/the-mystery-of-macabbra-mansion-3-spencers-revenge-2026/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community History Holiday Events Kids Activities Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_43683_2026_10_24_fall_2026_open_house_hudson_county_community_college": {
       "title": "Fall 2026 Open House Hudson County Community College",
@@ -1556,6 +1573,74 @@
       "link": "https://jerseycityculture.org/event/fall-festival-pershing-field-park-2026/",
       "map": "https://maps.google.com/?q=PERSHING%20FIELD%20PARK%2C%20201%20CENTRAL%20AVE%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor What's Coming Up?."
+    },
+    "jc_culture_44674_2026_10_24_halloween_events_2026": {
+      "title": "HALLOWEEN EVENTS 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-10-24",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Sat, 10/24 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Jersey City",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/halloween-events-2026-2/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Kids Activities What's Coming Up?."
+    },
+    "jc_culture_44690_2026_10_24_the_mystery_of_macabbra_mansion_3_spencer_s_revenge_": {
+      "title": "The Mystery of MacAbbra Mansion 3 / Spencer’s Revenge 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-10-24",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Sat, 10/24 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/the-mystery-of-macabbra-mansion-3-spencers-revenge-2026-2/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community History Holiday Events Kids Activities Visual & Performing Arts What's Coming Up?."
+    },
+    "jc_culture_44707_2026_10_24_the_rocky_horror_picture_show_2026": {
+      "title": "The Rocky Horror Picture Show 2026",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sat",
+      "date": "2026-10-24",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Sat, 10/24 · 6:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "LIBERTY SCIENCE CENTER, 222 JERSEY CIYT BOULEVARD, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/the-rocky-horror-picture-show-2026/",
+      "map": "https://maps.google.com/?q=LIBERTY%20SCIENCE%20CENTER%2C%20222%20JERSEY%20CIYT%20BOULEVARD%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Film Visual & Performing Arts What's Coming Up?."
+    },
+    "jc_culture_44676_2026_10_25_halloween_events_2026": {
+      "title": "HALLOWEEN EVENTS 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sun",
+      "date": "2026-10-25",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Sun, 10/25 · 1pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Jersey City",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/halloween-events-2026-3/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Kids Activities What's Coming Up?."
     },
     "jc_culture_43553_2026_10_25_creation_from_destruction_art_exhibition_2026": {
       "title": "Creation from Destruction Art Exhibition 2026",
@@ -1659,6 +1744,23 @@
       "map": "https://maps.google.com/?q=PS%20%2341%20MARTIN%20CENTER%20FOR%20THE%20ARTS%2C%2059%20WILKINSON%20AVENUE%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor What's Coming Up?."
     },
+    "jc_culture_44704_2026_10_31_haunted_jersey_city_halloween_5k_2026": {
+      "title": "Haunted Jersey City Halloween 5K 2026",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Sat",
+      "date": "2026-10-31",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Sat, 10/31 · 9am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "JC WATER FRONT",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/haunted-jersey-city-halloween-5k-2026/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Outdoor What's Coming Up?."
+    },
     "jc_culture_44421_2026_10_31_halloween_parade_2026": {
       "title": "Halloween Parade 2026",
       "type": "park",
@@ -1692,6 +1794,23 @@
       "link": "https://jerseycityculture.org/event/paper-architects-2026-4/",
       "map": "https://maps.google.com/?q=WEST%20BERGEN%20BRANCH%20LIBRARY%2C%20546%20WEST%20SIDE%20AVE%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
+    },
+    "jc_culture_44682_2026_10_31_the_annual_fall_festival_2026": {
+      "title": "The Annual Fall Festival 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-10-31",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Sat, 10/31 · 12pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Mary McLeod Bethune Park, 43 Martin Luther King Drive, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/the-annual-fall-festival-2026/",
+      "map": "https://maps.google.com/?q=Mary%20McLeod%20Bethune%20Park%2C%2043%20Martin%20Luther%20King%20Drive%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Holiday Events Kids Activities Outdoor What's Coming Up?."
     },
     "jc_culture_44502_2026_11_01_dia_de_los_muertos_annual_celebration_2026": {
       "title": "Dia De Los Muertos Annual Celebration 2026",
@@ -2026,6 +2145,10 @@
     "cluster_2026_10_23_6_pm": [
       "gary_2026_10_23_the_ai_era_what_it_means_to_be_human",
       "gary_2026_10_23_spooky_civic_ai_hackathon_build_weekend"
+    ],
+    "cluster_2026_10_23_7_pm": [
+      "gary_2026_10_23_ai_founders_operators_investors_mocktails_legal_ama",
+      "jc_culture_44685_2026_10_23_the_mystery_of_macabbra_mansion_3_spencer_s_revenge_"
     ],
     "cluster_2026_10_24_12_pm": [
       "gary_2026_10_24_walk_talk_w_women_founders",
