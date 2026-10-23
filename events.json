@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 23, 2026, 11:32 AM EDT",
+    "checked": "Oct 23, 2026, 6:31 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -774,6 +774,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Demos are Sunday at Demo Day. RSVP for that separately: luma.com/3perce-pi2u Spooky Civic AI Hackathon: Build AI Tools for NYC Free. Open to everyone. No approval needed, just RSVP. Fri Oct 23 - Sat Oct 24, in person in NYC or on Zoom. Come solo & we'll help you find a team. Free food for in-person builders. Who can come? Anyone who wants to build something for New York City: engineers, product managers, designers, people who used to code, & people who never have. The best teams pair people who know a problem with people who can build the tech. Builders write the code & ship the tool. Problem-solvers (PMs, designers, policy & community folks) pick the problem, shape how people will use it, & lead the pitch. No team? No problem. Most people come solo. You can meet teammates at our Oct 14 & Oct 15 classes, or at Friday's kickoff. Pick a track The Existential Track: Climate & Sustainability. Heat, waste, food access, cleaner air. Urban Nightmares: Housing, Healthcare, Education & Justice. Tenant rights, benefits, school help, legal info in plain English. Ghost in the Machine: AI infrastructure & scaling. Build the parts under civic AI tools, like search, data, & agents that keep them running. Physical AI for Good: Build AI that moves, with robot arm kits on site. No robotics experience needed. You leave with a working prototype, a demo video, & a real project for your portfolio. Mentors will be on hand all weekend. Where: NYC venue announced soon. The Zoom link goes to everyone who RSVPs. Partners: Robot arm kits & on-site mentors from Viam. Food & builder API credits from Vonage. Costumes encouraged. In-person spots are limited, so RSVP now. Sponsorship inquiries: Partner with 3percentclub About Viam: Viam is a New York-based software platform for building, deploying, & managing robotics & AI in the physical world. Viam is supplying robot arm kits & on-site mentors for this hackathon. About Vonage: Vonage, part of Ericsson, builds communications APIs for voice, video, messaging, & verification that developers put into their apps. Vonage is providing food & builder API credits for this hackathon. About 3percentclub: 3percentclub is an NYC nonprofit that teaches free AI classes for underrepresented builders: engineers, career changers, product managers, designers, & people who have never coded. This event is open to everyone. Want to go deeper with AI? Apply to the free AI Architect Fellowship for weekly classes, mentorship, & a community to build with. The AI Collective is a global non-profit building the human layer for the AI era. We unite 1,000,000+ leaders, builders, & stakeholders across 300+ forums worldwide to democratize the frontier, build trust, & coordinate how society navigates the rapid acceleration of technological progress. All attendees & organizers at events affiliated with The AI Collective agree to our privacy policy & are subject to our code of conduct."
     },
+    "gary_2026_10_23_ai_collective_suneet_bhatt_presents_making_sense_of_": {
+      "title": "AI Collective & Suneet Bhatt Presents: Making Sense Of Purpose",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-10-23",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Fri, 10/23 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/k2459ef/AI-Collective-Suneet-Bhatt-Presents-Making-Sense-Of-Purpose",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Suneet Bhatt (Author, Making Sense of Purpose)."
+    },
     "gary_2026_10_23_ai_founders_operators_investors_mocktails_legal_ama": {
       "title": "AI Founders, Operators & Investors - Mocktails & Legal AMA",
       "type": "tech",
@@ -1148,6 +1165,23 @@
       "map": "https://maps.google.com/?q=Index%20Chinatown%2C%20120%20Walker%20St%2C%203rd%20Fl",
       "summary": "Gary's Guide: With Bill Roberts (Legible Labs)."
     },
+    "gary_2026_10_27_early_operators_engineers_founders": {
+      "title": "Early Operators, Engineers, & Founders",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-10-27",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Tue, 10/27 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/mcxpws0/Early-Operators-Engineers-Founders",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: This is for people who will inevitably start something: Exceptional operators seriously considering the founder path Founders today seeking cofounders Engineers or operators who want to perhaps join an early stage startup An idea of our night volunteering for the kids: Mingle with builders who are seriously looking for a cofounder (technical, GTM, scientific, 1x, repeat, all welcome) Pack 200 Halloween gift bags with us for kids in LES in collaboration with social program, Henry Street Settlement Matching exercise that bring out your best self so the right people actually find each other. I'll have snacks & drinks for you to enjoy. Leave having made a kid's Halloween candy basket. Worst case, you did something genuinely good with your Tuesday night. Best case, you met the people you'll build the next decade+ with. About Antler Antler is an early-stage venture capital fund- a founder's first believer at the inception stage of their company, investing $600K as first institutional check. We have offices in NYC, SF, & ATX & in 20+ cities around the world. About Brex Brex is the financial stack that scales with you, from incorporation to IPO. Manage all your company spending & vendor payments from a single dashboard, including credit card, bill pay, & reimbursements, all while extending your runway with a high-yield business accounts & enjoy 20x higher credit limit, community events, & exclusive rewards that help your business grow."
+    },
     "gary_2026_10_27_yc_vc_pitch_roast": {
       "title": "YC VC Pitch & Roast",
       "type": "startup",
@@ -1368,40 +1402,6 @@
       "link": "https://www.garysguide.com/events/tp5kce2/Startup-Pitch",
       "map": "https://maps.google.com/?q=Lobby%20Bar%20%26%20Garden%2C%20518%20W%2027th%20St",
       "summary": "Gary's Guide: 5 founders pitch for 5 minutes each."
-    },
-    "gary_2026_10_28_backers_of_fintech_investor_happy_hour": {
-      "title": "Backers Of Fintech - Investor Happy Hour",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-10-28",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 10/28 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, 127 W 20th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/xv3l1kg/Backers-Of-Fintech-Investor-Happy-Hour",
-      "map": "https://maps.google.com/?q=Venue%2C%20127%20W%2020th%20St",
-      "summary": "Gary's Guide: An evening for the people who back fintech, hosted by VC Village & Inception House, the week everyone's back from Money20/20. A relaxed room for the relationships that matter between deals. The investors you may co-invest with, the LPs you want to know before the next raise, & founders worth knowing early. Drinks & a chance to pick up some of the conversations started in Vegas. In the room: Fintech VCs & angels Family offices & institutional LPs Corporate venture & innovation leaders A select group of fintech founders A curated room. Requests to attend are reviewed."
-    },
-    "gary_2026_10_28_trajectories_facts_fictions_futures_of_spacefaring_s": {
-      "title": "Trajectories - Facts, Fictions & Futures Of Spacefaring Societies",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-10-28",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 10/28 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Sugar Mouse, 47 3rd Ave",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/r2j2vfq/Trajectories-Facts-Fictions-Futures-Of-Spacefaring-Societies",
-      "map": "https://maps.google.com/?q=Sugar%20Mouse%2C%2047%203rd%20Ave",
-      "summary": "Gary's Guide: With Vince Lucich (Founder, Stealth Space Startup)."
     },
     "luma_2026_10_25_koah_soundsystem_consumer_founders_coffee_coworking": {
       "title": "koah soundsystem: consumer founders coffee & coworking",
@@ -2168,6 +2168,23 @@
       "map": "https://maps.google.com/?q=PERSHING%20FIELD%20PARK%2C%20201%20CENTRAL%20AVE%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
     },
+    "jc_culture_44728_2026_11_18_kingdom_of_morocco_flag_raising_ceremony_2026": {
+      "title": "Kingdom of Morocco Flag Raising Ceremony 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "time": "11:30 AM",
+      "sort": 11.5,
+      "when": "Wed, 11/18 · 11:30am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/kingdom-of-morocco-flag-raising-ceremony-2026/",
+      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
+    },
     "jc_culture_10003577_2026_11_18_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
       "type": "market",
@@ -2241,7 +2258,8 @@
     ],
     "cluster_2026_10_23_6_pm": [
       "gary_2026_10_23_the_ai_era_what_it_means_to_be_human",
-      "gary_2026_10_23_spooky_civic_ai_hackathon_build_weekend"
+      "gary_2026_10_23_spooky_civic_ai_hackathon_build_weekend",
+      "gary_2026_10_23_ai_collective_suneet_bhatt_presents_making_sense_of_"
     ],
     "cluster_2026_10_23_7_pm": [
       "gary_2026_10_23_ai_founders_operators_investors_mocktails_legal_ama",
@@ -2266,7 +2284,8 @@
     "cluster_2026_10_27_6_30_pm": [
       "gary_2026_10_27_unmuted_debate_ai_china",
       "gary_2026_10_27_ugly_talk_building_fandoms_in_2027",
-      "gary_2026_10_27_vibecoding_101"
+      "gary_2026_10_27_vibecoding_101",
+      "gary_2026_10_27_early_operators_engineers_founders"
     ],
     "cluster_2026_10_28_9_am": [
       "gary_2026_10_28_founder_breakfast",
@@ -2284,9 +2303,7 @@
       "gary_2026_10_28_ai_engineer_tech_talk",
       "gary_2026_10_28_ai_founders_supper_club",
       "gary_2026_10_28_startup_pitch_mixer",
-      "gary_2026_10_28_startup_pitch",
-      "gary_2026_10_28_backers_of_fintech_investor_happy_hour",
-      "gary_2026_10_28_trajectories_facts_fictions_futures_of_spacefaring_s"
+      "gary_2026_10_28_startup_pitch"
     ],
     "cluster_2026_11_14_11_am": [
       "jc_culture_44385_2026_11_14_paper_architects_2026",
