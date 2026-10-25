@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Oct 24, 2026, 5:47 PM EDT",
+    "checked": "Oct 25, 2026, 10:41 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-10-24",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Oct 24"
-      },
       {
         "iso": "2026-10-25",
         "key": "Sun",
@@ -45,15 +39,15 @@
         "key": "Fri",
         "label": "Fri",
         "date": "Oct 30"
+      },
+      {
+        "iso": "2026-10-31",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Oct 31"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-10-24",
-        "key": "Sat",
-        "label": "Sat",
-        "date": "Oct 24"
-      },
       {
         "iso": "2026-10-25",
         "key": "Sun",
@@ -233,9 +227,15 @@
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
+      },
+      {
+        "iso": "2026-11-24",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Nov 24"
       }
     ],
-    "todayKey": "Sat",
+    "todayKey": "Sun",
     "times": [
       "7 AM",
       "8 AM",
@@ -454,41 +454,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_92497_0_sixth_annual_cider_village_at_the_union_square_green": {
-      "title": "sixth annual cider village at the union square greenmarket",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Fri",
-      "date": "2026-10-23",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 10/23 · 10am-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "union square park, manhattan",
-      "source": "The Skint",
-      "link": "https://grownyc.org/events/cider-village/",
-      "map": "https://maps.google.com/?q=union%20square%20park%2C%20manhattan%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri 10am-5pm: sixth annual cider village at the union square greenmarket: union square park, manhattan."
-    },
-    "skint_92497_1_threadbare_vintage_clothing_antique_textiles_show": {
-      "title": "threadbare vintage clothing + antique textiles show",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Fri",
-      "date": "2026-10-23",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Fri, 10/23 · + sat (fri 1-7pm, sat 11am-6pm)",
-      "price": "$15 admission",
-      "free": false,
-      "place": "26 bridge street, brooklyn (dumbo)",
-      "source": "The Skint",
-      "link": "https://threadbareshow.com",
-      "map": "https://maps.google.com/?q=26%20bridge%20street%2C%20brooklyn%20(dumbo)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: fri + sat (fri 1-7pm, sat 11am-6pm): threadbare vintage clothing + antique textiles show: 26 bridge street, brooklyn (dumbo). $15 admission."
-    },
-    "skint_92497_2_fad_fashion_art_design_pop_up_market": {
+    "skint_92497_0_fad_fashion_art_design_pop_up_market": {
       "title": "fad (fashion art design) pop-up market",
       "type": "market",
       "label": "Festival / Market",
@@ -505,7 +471,7 @@
       "map": "https://maps.google.com/?q=st%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun (11am-6pm): fad (fashion art design) pop-up market: st. paul’s church (boerum hill/cobble hill)."
     },
-    "skint_92497_3_the_11th_annual_diwali_times_square": {
+    "skint_92497_1_the_11th_annual_diwali_times_square": {
       "title": "the 11th annual diwali times square",
       "type": "market",
       "label": "Festival / Market",
@@ -522,7 +488,7 @@
       "map": "https://maps.google.com/?q=broadway%20from%2046th%20st%20to%2048th%20st%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-9pm: the 11th annual diwali times square: broadway from 46th st to 48th st."
     },
-    "skint_92497_4_the_12th_diwali_on_hudson": {
+    "skint_92497_2_the_12th_diwali_on_hudson": {
       "title": "the 12th diwali on hudson",
       "type": "market",
       "label": "Festival / Market",
@@ -539,7 +505,7 @@
       "map": "https://maps.google.com/?q=exchange%20place%20in%20jersey%20city%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-6pm: the 12th diwali on hudson: exchange place in jersey city."
     },
-    "skint_92497_5_the_third_annual_offset_art_book_fair": {
+    "skint_92497_3_the_third_annual_offset_art_book_fair": {
       "title": "the third annual offset art book fair",
       "type": "market",
       "label": "Festival / Market",
@@ -556,7 +522,7 @@
       "map": "https://maps.google.com/?q=sheila%20c%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-4pm: the third annual offset art book fair: sheila c. johnson design center at parsons school of design (greenwich village). timed ticket required."
     },
-    "skint_92497_6_maum_market_asian_makers_market": {
+    "skint_92497_4_maum_market_asian_makers_market": {
       "title": "maum market: asian makers market",
       "type": "market",
       "label": "Festival / Market",
@@ -573,7 +539,7 @@
       "map": "https://maps.google.com/?q=industry%20city%20(brooklyn)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-4pm: maum market: asian makers market: industry city (brooklyn)."
     },
-    "skint_92497_7_five_boro_foto_fest_photographs_prints_zines_books_a": {
+    "skint_92497_5_five_boro_foto_fest_photographs_prints_zines_books_a": {
       "title": "five boro foto fest: photographs, prints, zines, books, and mixed media",
       "type": "market",
       "label": "Festival / Market",
@@ -589,108 +555,6 @@
       "link": "https://www.5borofotofest.com/",
       "map": "https://maps.google.com/?q=culture%20lab%20lic%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-6pm: five boro foto fest: photographs, prints, zines, books, and mixed media: culture lab lic."
-    },
-    "skint_92497_8_12th_nordic_international_film_festival": {
-      "title": "12th nordic international film festival",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-10-23",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 10/23 · + sat",
-      "price": "$13",
-      "free": false,
-      "place": "scandinavia house (ues), $13 general, 50% off for students with code ‘student’",
-      "source": "The Skint",
-      "link": "https://www.nordicfilmfest.org",
-      "map": "https://maps.google.com/?q=scandinavia%20house%20(ues)%2C%20%2413%20general%2C%2050%25%20off%20for%20students%20with%20code%20%E2%80%98student%E2%80%99%20NYC",
-      "summary": "film fests / series. Pulled from The Skint's public article feed: fri + sat: 12th nordic international film festival: scandinavia house (ues), $13 general, 50% off for students with code ‘student’"
-    },
-    "skint_92497_9_william_greaves_100": {
-      "title": "william greaves 100",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-10-23",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Fri, 10/23 · thru 10/29",
-      "price": "$18",
-      "free": false,
-      "place": "once upon a time in harlem, symbiopsychotaxiplasm: take one, nationtime, lost boundaries, and more",
-      "source": "The Skint",
-      "link": "https://filmforum.org/series/william-greaves-100",
-      "map": "https://maps.google.com/?q=once%20upon%20a%20time%20in%20harlem%2C%20symbiopsychotaxiplasm%3A%20take%20one%2C%20nationtime%2C%20lost%20boundaries%2C%20and%20more%20NYC",
-      "summary": "film fests / series. Pulled from The Skint's public article feed: fri thru 10/29: william greaves 100: once upon a time in harlem, symbiopsychotaxiplasm: take one, nationtime, lost boundaries, and more. film forum (south village), $18."
-    },
-    "skint_92497_10_area_coded_american_regionalism_in_film": {
-      "title": "area coded: american regionalism in film",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Fri",
-      "date": "2026-10-23",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Fri, 10/23 · thru 10/29",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "giant, grey gardens, move ya body: the birth of house, shakedown, the texas chain saw massacre, and more",
-      "source": "The Skint",
-      "link": "https://www.bam.org/film/2026/area-coded",
-      "map": "https://maps.google.com/?q=giant%2C%20grey%20gardens%2C%20move%20ya%20body%3A%20the%20birth%20of%20house%2C%20shakedown%2C%20the%20texas%20chain%20saw%20massacre%2C%20and%20more%20NYC",
-      "summary": "film fests / series. Pulled from The Skint's public article feed: fri thru 10/29: area coded: american regionalism in film: giant, grey gardens, move ya body: the birth of house, shakedown, the texas chain saw massacre, and more."
-    },
-    "gary_2026_10_24_zero_human_company_hackathon": {
-      "title": "Zero Human Company Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "8:30 AM",
-      "sort": 8.5,
-      "when": "Sat, 10/24 · 8:30am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/yfiile5/Zero-Human-Company-Hackathon",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Terac & Whop."
-    },
-    "gary_2026_10_24_deal_flow_nyc_s_first_vc_hackathon": {
-      "title": "Deal Flow - NYC's First VC Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sat, 10/24 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Betaworks, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/l2mm85l/Deal-Flow-NYC-s-First-VC-Hackathon",
-      "map": "https://maps.google.com/?q=Betaworks%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Bettina Sosa (Founder/CEO, Yaven), Abeera Saeed (Plug & Play Ventures ), Garrett Higgins (GTM , PointOne), Radhika Khandelwal (AI Product Lead, Wand AI), DJ Patel (VC)."
-    },
-    "gary_2026_10_24_walk_talk_w_women_founders": {
-      "title": "Walk & Talk w/ Women Founders",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 10/24 · 12:00pm",
-      "price": "$5",
-      "free": false,
-      "place": "Central Park West, Columbus Circle",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/jmsuo9x/Walk-Talk-w-Women-Founders",
-      "map": "https://maps.google.com/?q=Central%20Park%20West%2C%20Columbus%20Circle",
-      "summary": "Gary's Guide: Connect with fellow women founders on a relaxed walk through Central Park. Real conversations about business & life, no name tags. Meet at the Globe Sculpture at Columbus Circle. Hosted by New York Female Founders (NYFF). 12:00 PM to 1:30 PM."
     },
     "gary_2026_10_25_spooky_civic_ai_hackathon_demo_day": {
       "title": "Spooky Civic AI Hackathon Demo Day",
@@ -1406,6 +1270,57 @@
       "map": "https://maps.google.com/?q=The%20Glasshouse%2C%20660%2012th%20Ave",
       "summary": "Gary's Guide: With Scott Galloway (NYU Prof., Entrepreneur & Bestselling Author), Steve Huffman (Founder/CEO, Reddit), Isabella Rusher (Dir. Media, Liquid I.V.), Lucas Coyle (Dir. Brand & Omnichannel Mktg, MANSCAPED), Cody Plofker (Operator, Advisor & Growth Marketer), Oren John (The Internet's Creative Dir.), Rajiv Ragu (VP Growth, Thorne)."
     },
+    "gary_2026_10_29_ai_co_working_builder_demos_feedback": {
+      "title": "AI Co-Working - Builder Demos & Feedback",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-29",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Thu, 10/29 · 2:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Station3, 26 Broadway, 3rd Fl",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/3we23xi/AI-Co-Working-Builder-Demos-Feedback",
+      "map": "https://maps.google.com/?q=Station3%2C%2026%20Broadway%2C%203rd%20Fl",
+      "summary": "Gary's Guide: NYC AI Co-working is a small, curated gathering for NYC founders & builders who are actively shipping. Work alongside other builders, then show what you are building & get direct, practical feedback. Schedule 2:00-3:00 PM: Co-working & arrivals. 3:00-5:00 PM: Five builder demos. Each presenter gets five minutes to show one working product or workflow & five minutes for questions, with time for transitions. 5:30 PM onward: There are usually drinks, wine, & music for anyone who wants to stick around. Location Station3, 26 Broadway, 3rd floor, New York, NY 10004. Bring your laptop. RSVP if you are actively building, can offer useful feedback, or want to demo. Attendance is capped at 25 approved guests. If your plans change, update your RSVP promptly so another builder can join."
+    },
+    "gary_2026_10_29_horizons_new_york_ai_digital_innovation": {
+      "title": "Horizons New York AI + Digital Innovation",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-29",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Thu, 10/29 · 3:00pm",
+      "price": "$325",
+      "free": false,
+      "place": "BrainStation, 136 Crosby St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/n6qvpkd/Horizons-New-York-AI-Digital-Innovation",
+      "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St",
+      "summary": "Gary's Guide: With Hashim Syed (AI Leader, Google), Sebastian Misiurek (Product, NVIDIA), Christi Fisher (Global Head of Product & Process Transformation, BNY), Hakarl Bee (Creative Lead - AI Design, Citi), Michael Wagner (VP - Product Excellence, Mastercard), Dorothy Joseph (Dir., Head of Wealth Mgmt Digital Mktg Applications, Morgan Stanley), Jake Steadman (Global GM, Flourish), Radek Meljon (VP, BrainStation), Brett Wisner (- Enterprise, BrainStation)."
+    },
+    "gary_2026_10_29_ai_builders_speed_dating_hackathon": {
+      "title": "AI Builders Speed Dating Hackathon",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-29",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Thu, 10/29 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/2uaayoz/AI-Builders-Speed-Dating-Hackathon",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: AI Builders Speed Dating Jersey City is the new San Francisco Join us for an evening of building in Jersey City with some of the sharpest builders in the area. Here's how it works: we match you with a fellow builder you haven't met, & together you build something real on Lyzr. At the end of the night, the top 3 projects will be rated & walk away with prizes. Come ready to meet someone new, build fast & have fun with it. Food & drinks will be served throughout the evening. Run of show 4:00 PM: Registration 4:10 PM: Settle in & get matched 4:30 PM: Technical workshop 5:00 PM: Build time with your partner 6:30 PM: Networking 7:00 PM: Prizes & networking 7:30 PM: Wrap Prizes 1st place: Mac Mini Multiple 2nd place : 5 Airpods Pro Multiple 3rd place : Architect Credits + Cool Goodies Who should come: Senior developers, solutions architects & builders who like to ship. Spots are limited, so please request your place & our team will be in touch to confirm your registration."
+    },
     "luma_2026_10_25_koah_soundsystem_consumer_founders_coffee_coworking": {
       "title": "koah soundsystem: consumer founders coffee & coworking",
       "type": "startup",
@@ -1490,6 +1405,23 @@
       "link": "https://luma.com/9yreeb7u",
       "map": "https://maps.google.com/?q=Civic%20Hall%20NYC",
       "summary": "Luma NYC: Asian Founders Club, Shihua Wu, Irene Hwang, Jessica Shen, Tanny Kang (Vibranium Labs), Alison Arnold, Joella Huynh"
+    },
+    "luma_2026_10_27_decoding_coge_with_abundance_ny_citizens_union": {
+      "title": "Decoding COGE with Abundance NY & Citizens Union",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-10-27",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Tue, 10/27 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Caveat",
+      "source": "Luma NYC",
+      "link": "https://luma.com/14p62n8i",
+      "map": "https://maps.google.com/?q=Caveat%20NYC",
+      "summary": "Luma NYC: Abundance New York, Abundance New York, Citizens Union"
     },
     "nyu_tandon_2026_10_26_3d_printing_for_regenerative_medicine": {
       "title": "3D Printing for Regenerative Medicine",
@@ -1626,125 +1558,6 @@
       "link": "https://engineering.nyu.edu/events/2026/11/04/career-talk-avery-iorio-conversation-jurij-paraszczak",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Career Development,"
-    },
-    "jc_culture_43683_2026_10_24_fall_2026_open_house_hudson_county_community_college": {
-      "title": "Fall 2026 Open House Hudson County Community College",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 10/24 · 10am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "HUDSON COUNTY COMMUNITY COLLEGE JOURNAL SQUARE CAMPUS, 161 NEWKIRK STREET CULINARY CONFERENCE CENTER",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/fall-2026-open-house-hudson-county-community-college-2/",
-      "map": "https://maps.google.com/?q=HUDSON%20COUNTY%20COMMUNITY%20COLLEGE%20JOURNAL%20SQUARE%20CAMPUS%2C%20161%20NEWKIRK%20STREET%20CULINARY%20CONFERENCE%20CENTER",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
-    },
-    "jc_culture_44374_2026_10_24_paper_architects_2026": {
-      "title": "Paper Architects 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 10/24 · 11am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "EARL A. MORGAN BRANCH, 1841 JFK BLVD., JERSEY CITY, 07305",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/paper-architects-2026-3/",
-      "map": "https://maps.google.com/?q=EARL%20A.%20MORGAN%20BRANCH%2C%201841%20JFK%20BLVD.%2C%20JERSEY%20CITY%2C%2007305",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
-    },
-    "jc_culture_44345_2026_10_24_diwali_on_hudson_2026": {
-      "title": "Diwali on Hudson 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 10/24 · 12pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Exchange Place, MONTGOMERY ST BETWEEN HUDSON ST. AND GREEN ST.",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/diwali-on-hudson-2026/",
-      "map": "https://maps.google.com/?q=Exchange%20Place%2C%20MONTGOMERY%20ST%20BETWEEN%20HUDSON%20ST.%20AND%20GREEN%20ST.",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_44191_2026_10_24_fall_festival_pershing_field_park_2026": {
-      "title": "Fall Festival Pershing Field Park 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 10/24 · 1pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "PERSHING FIELD PARK, 201 CENTRAL AVE, JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/fall-festival-pershing-field-park-2026/",
-      "map": "https://maps.google.com/?q=PERSHING%20FIELD%20PARK%2C%20201%20CENTRAL%20AVE%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor What's Coming Up?."
-    },
-    "jc_culture_44674_2026_10_24_halloween_events_2026": {
-      "title": "HALLOWEEN EVENTS 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Sat, 10/24 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/halloween-events-2026-2/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Kids Activities What's Coming Up?."
-    },
-    "jc_culture_44690_2026_10_24_the_mystery_of_macabbra_mansion_3_spencer_s_revenge_": {
-      "title": "The Mystery of MacAbbra Mansion 3 / Spencer’s Revenge 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sat, 10/24 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/the-mystery-of-macabbra-mansion-3-spencers-revenge-2026-2/",
-      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community History Holiday Events Kids Activities Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_44707_2026_10_24_the_rocky_horror_picture_show_2026": {
-      "title": "The Rocky Horror Picture Show 2026",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Sat, 10/24 · 6:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "LIBERTY SCIENCE CENTER, 222 JERSEY CIYT BOULEVARD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/the-rocky-horror-picture-show-2026/",
-      "map": "https://maps.google.com/?q=LIBERTY%20SCIENCE%20CENTER%2C%20222%20JERSEY%20CIYT%20BOULEVARD%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Film Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_44676_2026_10_25_halloween_events_2026": {
       "title": "HALLOWEEN EVENTS 2026",
@@ -2238,6 +2051,23 @@
       "link": "https://jerseycityculture.org/event/jodeci-jersey-city/",
       "map": "https://maps.google.com/?q=Landmark%20Loews%20Theatre%2C%2054%20Journal%20Square%2C%20Jersey%20City%2C%20NJ",
       "summary": "Get ready to experience an unforgettable night as Jodeci takes the stage for their highly anticipated concert, “”Jodeci – Jersey City,”” at the iconic Landmark Loews Theatre. Nestled in the heart of Jersey City, this historic venue boasts a stunning atmosphere that perfectly complements the smooth R&B vibes of the legendary group. With its grand architecture and intimate setting, the Loews Theatre is the ideal backdrop for an evening filled with soulful melodies and nostalgic hits. Join fellow fans for a night of electrifying performances that will have you singing along and dancing in your seat. The energy will be palpable as Jodeci delivers their timeless classics and new favorites, making this a must-see event for R&B lovers. Don’t miss out on this chance to witness music history in the making—secure your spot now and be part of the magic at Jodeci – Jersey City!"
+    },
+    "jc_culture_10003578_2026_11_25_hamilton_park_farmers_market_2026": {
+      "title": "Hamilton Park Farmers Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-11-25",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 11/25 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-11-25/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     }
   },
   "clusters": {
@@ -2250,28 +2080,14 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_10_23_10_am": [
-      "skint_92497_0_sixth_annual_cider_village_at_the_union_square_green",
-      "skint_92497_8_12th_nordic_international_film_festival"
-    ],
     "cluster_2026_10_24_11_am": [
-      "skint_92497_2_fad_fashion_art_design_pop_up_market",
-      "skint_92497_3_the_11th_annual_diwali_times_square",
-      "skint_92497_5_the_third_annual_offset_art_book_fair",
-      "jc_culture_44374_2026_10_24_paper_architects_2026"
-    ],
-    "cluster_2026_10_24_12_pm": [
-      "skint_92497_4_the_12th_diwali_on_hudson",
-      "gary_2026_10_24_walk_talk_w_women_founders",
-      "jc_culture_44345_2026_10_24_diwali_on_hudson_2026"
+      "skint_92497_0_fad_fashion_art_design_pop_up_market",
+      "skint_92497_1_the_11th_annual_diwali_times_square",
+      "skint_92497_3_the_third_annual_offset_art_book_fair"
     ],
     "cluster_2026_10_25_11_am": [
-      "skint_92497_6_maum_market_asian_makers_market",
-      "skint_92497_7_five_boro_foto_fest_photographs_prints_zines_books_a"
-    ],
-    "cluster_2026_10_23_10_pm": [
-      "skint_92497_9_william_greaves_100",
-      "skint_92497_10_area_coded_american_regionalism_in_film"
+      "skint_92497_4_maum_market_asian_makers_market",
+      "skint_92497_5_five_boro_foto_fest_photographs_prints_zines_books_a"
     ],
     "cluster_2026_10_25_2_pm": [
       "gary_2026_10_25_spooky_civic_ai_hackathon_demo_day",
@@ -2318,6 +2134,14 @@
     "cluster_2026_10_28_6_30_pm": [
       "gary_2026_10_28_deployment_room_penthouse_edition_seed_series_b_foun",
       "gary_2026_10_28_ugly_talk_collecting_skills_to_be_an_operator"
+    ],
+    "cluster_2026_10_29_5_pm": [
+      "gary_2026_10_29_ai_builders_speed_dating_hackathon",
+      "nyu_tandon_2026_10_29_fre_special_seminar_jean_fran_ois_chassagneux"
+    ],
+    "cluster_2026_10_27_10_30_pm": [
+      "luma_2026_10_27_asian_founders_club_vibranium_labs_present_founders_",
+      "luma_2026_10_27_decoding_coge_with_abundance_ny_citizens_union"
     ],
     "cluster_2026_11_14_11_am": [
       "jc_culture_44385_2026_11_14_paper_architects_2026",
