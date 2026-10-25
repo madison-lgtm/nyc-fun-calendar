@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 25, 2026, 10:41 AM EDT",
+    "checked": "Oct 25, 2026, 5:59 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1185,23 +1185,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: You've never been to a mixer like this one. Stunning 365 degree rooftop views. Drinks & light bites included Venue pictures: Will be shown below Who this room is for To get into this room, you should to have raised at least $1M or be doing $1M+ in ARR. Our last edition averaged $3.8M+ ARR per founder. Raised your first round, onto your second, or bootstrapped to $1M or 15M ARR? You're in the right place. If you're an exited founder, LP/GP, dealmaker or capital raiser, you belong in this room too. Every investor in the room is from our network. We're curating this room deliberately, matching founders to the investors most likely to be a fit, & making the introduction ourselves. The goal: getting founders funded by our investor network. Who's backing this. Hanover House Hanover House is a house that is a home - a 314-residence luxury rental community that opened in 2024 in the heart of Downtown Brooklyn. Residences feature wide-plank flooring, in-home washer/dryers, 9' ceilings, & premium kitchen & bath finishes, complemented by 30,000 square feet of amenities for a refined, modern approach to Brooklyn living. The Builder Series The Builder Series: A 60,000+ member community redefining what networking looks like curating founders, investors into intentional rooms built for experiences people remember & relationships that last. It's a direct line to the most ambitious builders. Official Website: TheBuilderSeries.co Apply for membership: Membership Application About Ugly Talk Started in 2019, Ugly Talk has been transforming business setbacks into breakthrough \"aha!\" moments by hosting unfiltered, no-nonsense events where battle-tested entrepreneurs share their raw lessons & insights. With a growing presence in cities like New York, Chicago, San Francisco, & Miami, we've built a vibrant community of thousands of founders & industry leaders making a profound impact on the entrepreneurial landscape. Official Website: UglyTalk.com Important Notice for Ugly Talk Attendees Admission & Confirmation Attendance is by approval only. Approved guests will receive a confirmation email along with a calendar invite. Invitations are non-transferable. Additional event details will be shared as the event approaches. Code of Conduct By attending, you agree to: Maintain respect & professionalism, adhering to all venue rules, policies, & applicable laws. Refrain from harassment, discrimination, unwelcome sexual advances (verbal or physical), intimidation, or inappropriate photography/recording. Report any violations to the event hosts immediately. Violations may result in immediate removal from the event & exclusion from future invitations. Liability & Risk Participation is voluntary & at your own risk. The event organizers, hosts, sponsors, & venue are not liable for personal injury, lost or stolen belongings, or any other damages incurred during the event. Media Consent By attending, you grant the event organizers & affiliated entities the right to capture, use, & distribute photos, videos, & audio recordings of you for promotional, marketing, & other lawful purposes, including digital & print media, advertising, & social media. You waive any right to inspect or approve the final materials & release all claims related to their use. Communications By registering, you agree to receive marketing & promotional communications from Ugly Talk & its co-hosts, partners, & sponsors. You may unsubscribe at any time. Agreement If you do not agree to this Code of Conduct, please refrain from attending the event. Join us to stay updated on upcoming Ugly Talk events! Join the newsletter Follow us on IG Official website"
     },
-    "gary_2026_10_28_ugly_talk_collecting_skills_to_be_an_operator": {
-      "title": "Ugly Talk: Collecting Skills To Be An Operator",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-10-28",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Wed, 10/28 · 6:30pm",
-      "price": "$15",
-      "free": false,
-      "place": "Industrious, 126 Brookline Ave, 2nd Fl, Boston",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/nxrnn83/Ugly-Talk-Collecting-Skills-To-Be-An-Operator",
-      "map": "https://maps.google.com/?q=Industrious%2C%20126%20Brookline%20Ave%2C%202nd%20Fl%2C%20Boston",
-      "summary": "Gary's Guide: With Sarah Larson (Founder, People Magnets), Jeremy Chow (Founder/CEO, Tactus), Phil Slabine (Founder, Not Dorks Accounting & Finance)."
-    },
     "gary_2026_10_29_mma_cmo_ai_transformation_summit": {
       "title": "MMA CMO AI Transformation Summit",
       "type": "tech",
@@ -1321,6 +1304,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: AI Builders Speed Dating Jersey City is the new San Francisco Join us for an evening of building in Jersey City with some of the sharpest builders in the area. Here's how it works: we match you with a fellow builder you haven't met, & together you build something real on Lyzr. At the end of the night, the top 3 projects will be rated & walk away with prizes. Come ready to meet someone new, build fast & have fun with it. Food & drinks will be served throughout the evening. Run of show 4:00 PM: Registration 4:10 PM: Settle in & get matched 4:30 PM: Technical workshop 5:00 PM: Build time with your partner 6:30 PM: Networking 7:00 PM: Prizes & networking 7:30 PM: Wrap Prizes 1st place: Mac Mini Multiple 2nd place : 5 Airpods Pro Multiple 3rd place : Architect Credits + Cool Goodies Who should come: Senior developers, solutions architects & builders who like to ship. Spots are limited, so please request your place & our team will be in touch to confirm your registration."
     },
+    "gary_2026_10_29_consumer_founder_dinner": {
+      "title": "Consumer Founder Dinner",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-29",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 10/29 · 6:30pm",
+      "price": "Varies",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/4bjyg5m/Consumer-Founder-Dinner",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With VHS Ventures."
+    },
     "luma_2026_10_25_koah_soundsystem_consumer_founders_coffee_coworking": {
       "title": "koah soundsystem: consumer founders coffee & coworking",
       "type": "startup",
@@ -1353,7 +1353,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/8pqcqqu0",
       "map": "https://maps.google.com/?q=Village%20East%20by%20Angelika%20NYC",
-      "summary": "Luma NYC: Harvard XR, Yun Fan, HXR, Helen Huang, Sibyl Santiago, Richie Hosein, Giovanni A. Forester, Jia Chen"
+      "summary": "Luma NYC: Harvard XR, Yun Fan, HXR, Helen Huang, Sibyl Santiago, Richie Hosein, Giovanni A. Forester, Jia Chen, Jiaying Li"
     },
     "luma_2026_10_27_state_of_ai_2026_nyc_launch_event": {
       "title": "State of AI 2026 - NYC launch event",
@@ -2130,10 +2130,6 @@
       "gary_2026_10_28_backers_of_fintech_investor_happy_hour",
       "gary_2026_10_28_trajectories_facts_fictions_futures_of_spacefaring_s",
       "gary_2026_10_28_marketing_leaders_dinner_future_of_ai_video_intellig"
-    ],
-    "cluster_2026_10_28_6_30_pm": [
-      "gary_2026_10_28_deployment_room_penthouse_edition_seed_series_b_foun",
-      "gary_2026_10_28_ugly_talk_collecting_skills_to_be_an_operator"
     ],
     "cluster_2026_10_29_5_pm": [
       "gary_2026_10_29_ai_builders_speed_dating_hackathon",
