@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 26, 2026, 1:04 PM EDT",
+    "checked": "Oct 26, 2026, 7:15 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1337,23 +1337,6 @@
       "link": "https://luma.com/mx9dqfpr",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Red Sea Ventures, Scott Birnbaum"
-    },
-    "luma_2026_10_28_dev_ai_nyc": {
-      "title": "dev/ai/nyc",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-10-28",
-      "time": "9:30 PM",
-      "sort": 21.5,
-      "when": "Wed, 10/28 · 9:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/sjnwdzsw",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Automattic Events, Automattic Events"
     },
     "nyu_tandon_2026_10_26_3d_printing_for_regenerative_medicine": {
       "title": "3D Printing for Regenerative Medicine",
