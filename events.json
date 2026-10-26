@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Oct 25, 2026, 5:59 PM EDT",
+    "checked": "Oct 26, 2026, 1:04 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-10-25",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Oct 25"
-      },
       {
         "iso": "2026-10-26",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Oct 31"
+      },
+      {
+        "iso": "2026-11-01",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Nov 1"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-10-25",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Oct 25"
-      },
       {
         "iso": "2026-10-26",
         "key": "Mon",
@@ -233,9 +227,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
+      },
+      {
+        "iso": "2026-11-25",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Nov 25"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
       "7 AM",
       "8 AM",
@@ -454,75 +454,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_92497_0_fad_fashion_art_design_pop_up_market": {
-      "title": "fad (fashion art design) pop-up market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 10/24 · + sun (11am-6pm)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "st",
-      "source": "The Skint",
-      "link": "https://fadmarket.co",
-      "map": "https://maps.google.com/?q=st%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun (11am-6pm): fad (fashion art design) pop-up market: st. paul’s church (boerum hill/cobble hill)."
-    },
-    "skint_92497_1_the_11th_annual_diwali_times_square": {
-      "title": "the 11th annual diwali times square",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 10/24 · 11am-9pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "broadway from 46th st to 48th st",
-      "source": "The Skint",
-      "link": "https://diwalitimessquare.com/",
-      "map": "https://maps.google.com/?q=broadway%20from%2046th%20st%20to%2048th%20st%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-9pm: the 11th annual diwali times square: broadway from 46th st to 48th st."
-    },
-    "skint_92497_2_the_12th_diwali_on_hudson": {
-      "title": "the 12th diwali on hudson",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 10/24 · 12-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "exchange place in jersey city",
-      "source": "The Skint",
-      "link": "https://www.facebook.com/photo.php?fbid=1543401584487677&set=pb.100064535506329.-2207520000&type=3",
-      "map": "https://maps.google.com/?q=exchange%20place%20in%20jersey%20city%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-6pm: the 12th diwali on hudson: exchange place in jersey city."
-    },
-    "skint_92497_3_the_third_annual_offset_art_book_fair": {
-      "title": "the third annual offset art book fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-10-24",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 10/24 · 11am-4pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "sheila c",
-      "source": "The Skint",
-      "link": "https://event.newschool.edu/offsetartbookfair2026",
-      "map": "https://maps.google.com/?q=sheila%20c%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-4pm: the third annual offset art book fair: sheila c. johnson design center at parsons school of design (greenwich village). timed ticket required."
-    },
-    "skint_92497_4_maum_market_asian_makers_market": {
+    "skint_92497_0_maum_market_asian_makers_market": {
       "title": "maum market: asian makers market",
       "type": "market",
       "label": "Festival / Market",
@@ -539,7 +471,7 @@
       "map": "https://maps.google.com/?q=industry%20city%20(brooklyn)%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-4pm: maum market: asian makers market: industry city (brooklyn)."
     },
-    "skint_92497_5_five_boro_foto_fest_photographs_prints_zines_books_a": {
+    "skint_92497_1_five_boro_foto_fest_photographs_prints_zines_books_a": {
       "title": "five boro foto fest: photographs, prints, zines, books, and mixed media",
       "type": "market",
       "label": "Festival / Market",
@@ -555,23 +487,6 @@
       "link": "https://www.5borofotofest.com/",
       "map": "https://maps.google.com/?q=culture%20lab%20lic%20NYC",
       "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-6pm: five boro foto fest: photographs, prints, zines, books, and mixed media: culture lab lic."
-    },
-    "gary_2026_10_25_spooky_civic_ai_hackathon_demo_day": {
-      "title": "Spooky Civic AI Hackathon Demo Day",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-10-25",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sun, 10/25 · 2:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/c0ylw4p/Spooky-Civic-AI-Hackathon-Demo-Day",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Want to build? RSVP for the Build Weekend (Fri Oct 23 - Sat Oct 24): luma.com/onzzmytl Spooky Civic AI Hackathon: Demo Day Free. Open to everyone. No approval needed, just RSVP. Sun Oct 25, 2-5pm, in person in Midtown or on Zoom. You don't need to have built anything. Come watch, cheer, & meet people. What happens Teams show the AI tools they built in one weekend to help New York City, across 4 tracks: The Existential Track (climate), Urban Nightmares (housing, healthcare, education, justice), Ghost in the Machine (AI infrastructure), & Physical AI for Good (robots). Judges pick the winners, & we hand out prizes. Who should come? Anyone curious about AI or civic tech: friends of builders, people thinking about joining a future hackathon, nonprofit & city folks looking for new tools, & anyone who wants to see what's possible. Where: Midtown Manhattan. The exact address & the Zoom link go to everyone who RSVPs. Partners: Thank you to Viam & Vonage for making this weekend possible. Costumes encouraged. Sponsorship inquiries: Partner with 3percentclub About Viam: Viam is a New York-based software platform for building, deploying, & managing robotics & AI in the physical world. Viam is supplying robot arm kits & on-site mentors for this hackathon. About Vonage: Vonage, part of Ericsson, builds communications APIs for voice, video, messaging, & verification that developers put into their apps. Vonage is providing food & builder API credits for this hackathon. About 3percentclub: 3percentclub is an NYC nonprofit that teaches free AI classes for underrepresented builders: engineers, career changers, product managers, designers, & people who have never coded. This event is open to everyone. Want to go deeper with AI? Apply to the free AI Architect Fellowship for weekly classes, mentorship, & a community to build with. The AI Collective is a global non-profit building the human layer for the AI era. We unite 1,000,000+ leaders, builders, & stakeholders across 300+ forums worldwide to democratize the frontier, build trust, & coordinate how society navigates the rapid acceleration of technological progress. All attendees & organizers at events affiliated with The AI Collective agree to our privacy policy & are subject to our code of conduct."
     },
     "gary_2026_10_26_monday_founders_coworking_pod": {
       "title": "Monday Founders Coworking Pod",
@@ -589,6 +504,23 @@
       "link": "https://www.garysguide.com/events/q6js24n/Monday-Founders-Coworking-Pod",
       "map": "https://maps.google.com/?q=Moxy%20Chelsea%2C%20105%20W%2028th%20St",
       "summary": "Gary's Guide: If you're an early stage founder, building alone is hard. You lose momentum, get stuck with no one to ask, & there's no one checking if you actually did what you said you'd do this week. We're a small group of founders working together for the month - think study group, but for building. We help each other, check in, & keep each other on track. Now we're opening it up to more people, in pods of 3-5. Here's how it works: you tell your pod what you're trying to get done, & they hold you to it. Stuck on something? Someone in the pod probably knows the answer. Starting to slip? Someone notices. Same faces every week, so you're never starting over with strangers. This is an outgrowth of our Wednesday coworking events - just smaller. We're here to build the idea & building culture NYC deserves. We focus on that foundational layer of relationships & community that allows for ideas to spread & building to happen. Enough of the transactional networking. Product first, business second. Cohort is a community of founders, builders, creatives, & researchers in NYC, & the Monday pod is our small-group coworking ritual. Let's build. More from Cohort Keep building, exploring ideas, & meeting the community. Find your next gathering below. Explore & connect The Crawling Dead: Halloween Food Crawl Sat, Oct 31 A Halloween afternoon food walk through Brownstone Brooklyn, with local bites & spooky stoops. Build together Monday Founders Coworking Pods Small groups, shared goals, weekly accountability. Nov 2 Nov 9 Nov 16 Wednesday Coworking Work alongside founders, builders, creatives, & researchers. Oct 28 Nov 4 Nov 11 Check our full calendar for more events"
+    },
+    "gary_2026_10_26_meta_global_ai_developer_hackathon": {
+      "title": "Meta Global AI Developer Hackathon",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Mon",
+      "date": "2026-10-26",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Mon, 10/26 · 12:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, Online",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/sg26ble/Meta-Global-AI-Developer-Hackathon",
+      "map": "https://maps.google.com/?q=Venue%2C%20Online",
+      "summary": "Gary's Guide: Come & build future of superintelligence. $1M in prizes. 10 day hackathon (Oct 26 to Nov 04)."
     },
     "gary_2026_10_26_build_your_content_system_ai_personal_brand_workshop": {
       "title": "Build Your Content System - AI & Personal Brand Workshop",
@@ -879,6 +811,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20116%20W%2023rd%20St%2C%204th%20Fl",
       "summary": "Gary's Guide: With Aakash Shah (CEO, Wyndly), Ryan Laverty (Founder, Arist)."
     },
+    "gary_2026_10_27_nyc_startup_casino_night": {
+      "title": "NYC Startup Casino Night",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-10-27",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Tue, 10/27 · 7:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/1mbb4y3/NYC-Startup-Casino-Night",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Night of poker, drinks & casino games w/ ElevenLabs, Stripe, Comma Capital, MongoDB For Startups."
+    },
     "gary_2026_10_28_onug_ai_networking_summit": {
       "title": "ONUG AI Networking Summit",
       "type": "tech",
@@ -911,7 +860,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/elver7k/State-Of-Fintech",
       "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With First Citizens Innovation Banking (ex-ly SVB)."
+      "summary": "Gary's Guide: With First Citizens Innovation Banking (SVB)."
     },
     "gary_2026_10_28_founder_breakfast": {
       "title": "Founder Breakfast",
@@ -1230,11 +1179,11 @@
       "when": "Thu, 10/29 · 10:00am",
       "price": "$150",
       "free": false,
-      "place": "The Times Center, 242 W 41st St",
+      "place": "Times Center, 242 W 41st St",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/pmga12z/Responsible-Tech-Summit-Embedding-Accountability-AI-Era",
-      "map": "https://maps.google.com/?q=The%20Times%20Center%2C%20242%20W%2041st%20St",
-      "summary": "Gary's Guide: With Camille Franois (President, ROOST), Eli Pariser (Co-Dir., New_ Public), Cathy O'Neil (Founder, O'Neil Risk Consulting & Algorithmic Auditing), Rumman Chowdhury (CEO, Humane Intelligence PBC), Alex Bores (Assembly Member, New York City's 73rd District), Beth Goldberg (Founding Dir. Humanity AI), Sinead Bovell (Founder, WAYE), Alexis Wales (CISO, GitHub), Alison Lee (Chief R&D Officer, The Rithm Project), Amanda Craig (GM of Responsible AI Public Policy, Microsoft), Anya Schiffrin (Dir. - Media Program, Columbia (SIPA)), Carrie Varoquiers (Chief Impact Officer, Workday), Joshua Elder (SVP & Head of Grantmaking, Siegel Family Endowment)."
+      "map": "https://maps.google.com/?q=Times%20Center%2C%20242%20W%2041st%20St",
+      "summary": "Gary's Guide: With Alexis Wales (CISO, GitHub), Amanda Craig (GM Responsible AI, Microsoft), Carrie Varoquiers (Chief Impact Officer, Workday), Rumman Chowdhury (CEO, Humane Intelligence PBC), Beth Goldberg (Dir., Humanity AI), Sinead Bovell (Founder, WAYE)."
     },
     "gary_2026_10_29_forward_2026": {
       "title": "Forward 2026",
@@ -1247,11 +1196,11 @@
       "when": "Thu, 10/29 · 1:00pm",
       "price": "Varies",
       "free": false,
-      "place": "The Glasshouse, 660 12th Ave",
+      "place": "Glasshouse, 660 12th Ave",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/cqv5aze/Forward-2026",
-      "map": "https://maps.google.com/?q=The%20Glasshouse%2C%20660%2012th%20Ave",
-      "summary": "Gary's Guide: With Scott Galloway (NYU Prof., Entrepreneur & Bestselling Author), Steve Huffman (Founder/CEO, Reddit), Isabella Rusher (Dir. Media, Liquid I.V.), Lucas Coyle (Dir. Brand & Omnichannel Mktg, MANSCAPED), Cody Plofker (Operator, Advisor & Growth Marketer), Oren John (The Internet's Creative Dir.), Rajiv Ragu (VP Growth, Thorne)."
+      "map": "https://maps.google.com/?q=Glasshouse%2C%20660%2012th%20Ave",
+      "summary": "Gary's Guide: With Steve Huffman (Founder/CEO, Reddit), Scott Galloway (Author & Prof., NYU), Isabella Rusher (Dir. Media, Liquid IV), Lucas Coyle (Dir. Mktg, Manscaped), Oren John (The Internet's Creative Dir.), Rajiv Ragu (VP Growth, Thorne)."
     },
     "gary_2026_10_29_ai_co_working_builder_demos_feedback": {
       "title": "AI Co-Working - Builder Demos & Feedback",
@@ -1270,8 +1219,8 @@
       "map": "https://maps.google.com/?q=Station3%2C%2026%20Broadway%2C%203rd%20Fl",
       "summary": "Gary's Guide: NYC AI Co-working is a small, curated gathering for NYC founders & builders who are actively shipping. Work alongside other builders, then show what you are building & get direct, practical feedback. Schedule 2:00-3:00 PM: Co-working & arrivals. 3:00-5:00 PM: Five builder demos. Each presenter gets five minutes to show one working product or workflow & five minutes for questions, with time for transitions. 5:30 PM onward: There are usually drinks, wine, & music for anyone who wants to stick around. Location Station3, 26 Broadway, 3rd floor, New York, NY 10004. Bring your laptop. RSVP if you are actively building, can offer useful feedback, or want to demo. Attendance is capped at 25 approved guests. If your plans change, update your RSVP promptly so another builder can join."
     },
-    "gary_2026_10_29_horizons_new_york_ai_digital_innovation": {
-      "title": "Horizons New York AI + Digital Innovation",
+    "gary_2026_10_29_horizons_ai_digital_innovation": {
+      "title": "Horizons AI & Digital Innovation",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Thu",
@@ -1283,9 +1232,9 @@
       "free": false,
       "place": "BrainStation, 136 Crosby St",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/n6qvpkd/Horizons-New-York-AI-Digital-Innovation",
+      "link": "https://www.garysguide.com/events/n6qvpkd/Horizons-AI-Digital-Innovation",
       "map": "https://maps.google.com/?q=BrainStation%2C%20136%20Crosby%20St",
-      "summary": "Gary's Guide: With Hashim Syed (AI Leader, Google), Sebastian Misiurek (Product, NVIDIA), Christi Fisher (Global Head of Product & Process Transformation, BNY), Hakarl Bee (Creative Lead - AI Design, Citi), Michael Wagner (VP - Product Excellence, Mastercard), Dorothy Joseph (Dir., Head of Wealth Mgmt Digital Mktg Applications, Morgan Stanley), Jake Steadman (Global GM, Flourish), Radek Meljon (VP, BrainStation), Brett Wisner (- Enterprise, BrainStation)."
+      "summary": "Gary's Guide: With Hashim Syed (AI Leader, Google), Hakarl Bee (Creative Lead AI, Citi), Sebastian Misiurek (Product, Nvidia), Christi Fisher (Head of Product, BNY), Michael Wagner (VP, Mastercard), Dorothy Joseph (Dir., Morgan Stanley), Jake Steadman (GM, Flourish)."
     },
     "gary_2026_10_29_ai_builders_speed_dating_hackathon": {
       "title": "AI Builders Speed Dating Hackathon",
@@ -1303,57 +1252,6 @@
       "link": "https://www.garysguide.com/events/2uaayoz/AI-Builders-Speed-Dating-Hackathon",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: AI Builders Speed Dating Jersey City is the new San Francisco Join us for an evening of building in Jersey City with some of the sharpest builders in the area. Here's how it works: we match you with a fellow builder you haven't met, & together you build something real on Lyzr. At the end of the night, the top 3 projects will be rated & walk away with prizes. Come ready to meet someone new, build fast & have fun with it. Food & drinks will be served throughout the evening. Run of show 4:00 PM: Registration 4:10 PM: Settle in & get matched 4:30 PM: Technical workshop 5:00 PM: Build time with your partner 6:30 PM: Networking 7:00 PM: Prizes & networking 7:30 PM: Wrap Prizes 1st place: Mac Mini Multiple 2nd place : 5 Airpods Pro Multiple 3rd place : Architect Credits + Cool Goodies Who should come: Senior developers, solutions architects & builders who like to ship. Spots are limited, so please request your place & our team will be in touch to confirm your registration."
-    },
-    "gary_2026_10_29_consumer_founder_dinner": {
-      "title": "Consumer Founder Dinner",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-10-29",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Thu, 10/29 · 6:30pm",
-      "price": "Varies",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/4bjyg5m/Consumer-Founder-Dinner",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With VHS Ventures."
-    },
-    "luma_2026_10_25_koah_soundsystem_consumer_founders_coffee_coworking": {
-      "title": "koah soundsystem: consumer founders coffee & coworking",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sun",
-      "date": "2026-10-25",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sun, 10/25 · 2pm",
-      "price": "Free",
-      "free": true,
-      "place": "Silence Please",
-      "source": "Luma NYC",
-      "link": "https://luma.com/96ikhrfi",
-      "map": "https://maps.google.com/?q=Silence%20Please%20NYC",
-      "summary": "Luma NYC: Koah, Mike Choi, katie donham"
-    },
-    "luma_2026_10_25_future_reality_ai_film_festival_nyc_film_advertising": {
-      "title": "Future Reality AI Film Festival (NYC)-Film × Advertising × Creative Technology Screenings · Awards · Industry Leaders Networking",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-10-25",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Sun, 10/25 · 10pm",
-      "price": "$28",
-      "free": false,
-      "place": "Village East by Angelika",
-      "source": "Luma NYC",
-      "link": "https://luma.com/8pqcqqu0",
-      "map": "https://maps.google.com/?q=Village%20East%20by%20Angelika%20NYC",
-      "summary": "Luma NYC: Harvard XR, Yun Fan, HXR, Helen Huang, Sibyl Santiago, Richie Hosein, Giovanni A. Forester, Jia Chen, Jiaying Li"
     },
     "luma_2026_10_27_state_of_ai_2026_nyc_launch_event": {
       "title": "State of AI 2026 - NYC launch event",
@@ -1422,6 +1320,40 @@
       "link": "https://luma.com/14p62n8i",
       "map": "https://maps.google.com/?q=Caveat%20NYC",
       "summary": "Luma NYC: Abundance New York, Abundance New York, Citizens Union"
+    },
+    "luma_2026_10_28_the_red_sea_ventures_consumer_brand_summit": {
+      "title": "The Red Sea Ventures Consumer Brand Summit",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-10-28",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Wed, 10/28 · 5:30pm",
+      "price": "$200",
+      "free": false,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/mx9dqfpr",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Red Sea Ventures, Scott Birnbaum"
+    },
+    "luma_2026_10_28_dev_ai_nyc": {
+      "title": "dev/ai/nyc",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-10-28",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Wed, 10/28 · 9:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/sjnwdzsw",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Automattic Events, Automattic Events"
     },
     "nyu_tandon_2026_10_26_3d_printing_for_regenerative_medicine": {
       "title": "3D Printing for Regenerative Medicine",
@@ -1541,57 +1473,6 @@
       "link": "https://engineering.nyu.edu/events/2026/10/30/iaqf-industry-day",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Career Development,"
-    },
-    "nyu_tandon_2026_11_04_career_talk_avery_iorio_in_conversation_with_jurij_p": {
-      "title": "Career Talk: Avery Iorio in conversation with Jurij Paraszczak",
-      "type": "tech",
-      "label": "Career Development,",
-      "day": "Wed",
-      "date": "2026-11-04",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Wed, 11/04 · 11:00 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/04/career-talk-avery-iorio-conversation-jurij-paraszczak",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Career Development,"
-    },
-    "jc_culture_44676_2026_10_25_halloween_events_2026": {
-      "title": "HALLOWEEN EVENTS 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-10-25",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 10/25 · 1pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/halloween-events-2026-3/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Kids Activities What's Coming Up?."
-    },
-    "jc_culture_43553_2026_10_25_creation_from_destruction_art_exhibition_2026": {
-      "title": "Creation from Destruction Art Exhibition 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-10-25",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Sun, 10/25 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/creation-from-destruction-art-exhibition-2026-2/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "&nbsp; &nbsp; &nbsp; &nbsp;"
     },
     "jc_culture_44635_2026_10_28_employee_wellness_fair_2026": {
       "title": "Employee Wellness Fair 2026",
@@ -2080,18 +1961,9 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_10_24_11_am": [
-      "skint_92497_0_fad_fashion_art_design_pop_up_market",
-      "skint_92497_1_the_11th_annual_diwali_times_square",
-      "skint_92497_3_the_third_annual_offset_art_book_fair"
-    ],
     "cluster_2026_10_25_11_am": [
-      "skint_92497_4_maum_market_asian_makers_market",
-      "skint_92497_5_five_boro_foto_fest_photographs_prints_zines_books_a"
-    ],
-    "cluster_2026_10_25_2_pm": [
-      "gary_2026_10_25_spooky_civic_ai_hackathon_demo_day",
-      "luma_2026_10_25_koah_soundsystem_consumer_founders_coffee_coworking"
+      "skint_92497_0_maum_market_asian_makers_market",
+      "skint_92497_1_five_boro_foto_fest_photographs_prints_zines_books_a"
     ],
     "cluster_2026_10_26_6_pm": [
       "gary_2026_10_26_the_shortlist_founder_showcase",
@@ -2110,6 +1982,10 @@
       "gary_2026_10_27_vibecoding_101",
       "gary_2026_10_27_early_operators_engineers_founders"
     ],
+    "cluster_2026_10_27_7_pm": [
+      "gary_2026_10_27_yc_vc_pitch_roast",
+      "gary_2026_10_27_nyc_startup_casino_night"
+    ],
     "cluster_2026_10_28_9_am": [
       "gary_2026_10_28_founder_breakfast",
       "gary_2026_10_28_innovate_conversational_commerce_rise_of_ai_shopping"
@@ -2121,6 +1997,10 @@
     "cluster_2026_10_28_5_pm": [
       "gary_2026_10_28_founder_funder_or_just_finder",
       "gary_2026_10_28_hype_vs_reality_ai_debunk_night"
+    ],
+    "cluster_2026_10_28_5_30_pm": [
+      "gary_2026_10_28_daytona_ai_builders",
+      "luma_2026_10_28_the_red_sea_ventures_consumer_brand_summit"
     ],
     "cluster_2026_10_28_6_pm": [
       "gary_2026_10_28_ai_engineer_tech_talk",
