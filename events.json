@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 27, 2026, 12:06 PM EDT",
+    "checked": "Oct 27, 2026, 7:04 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -1296,7 +1296,7 @@
       "time": "5:30 PM",
       "sort": 17.5,
       "when": "Wed, 10/28 · 5:30pm",
-      "price": "$200",
+      "price": "$300",
       "free": false,
       "place": "New York, NY",
       "source": "Luma NYC",
@@ -1627,6 +1627,23 @@
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     },
+    "jc_culture_44803_2026_11_05_speranza_presents_petticoat_patriots_play_2026": {
+      "title": "Speranza Presents Petticoat Patriots Play 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-11-05",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Thu, 11/05 · 7pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/speranza-presents-petticoat-patriots-play-2026/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
+    },
     "jc_culture_43584_2026_11_05_flame_the_experience_2026": {
       "title": "Flame (The Experience) 2026",
       "type": "art",
@@ -1660,6 +1677,23 @@
       "link": "https://jerseycityculture.org/event/japan-flag-raising-2026/",
       "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
+    },
+    "jc_culture_44810_2026_11_06_speranza_presents_petticoat_patriots_play_2026": {
+      "title": "Speranza Presents Petticoat Patriots Play 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-11-06",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Fri, 11/06 · 7pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/speranza-presents-petticoat-patriots-play-2026-2/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_44381_2026_11_07_paper_architects_2026": {
       "title": "Paper Architects 2026",
@@ -1695,6 +1729,23 @@
       "map": "https://maps.google.com/?q=Exchange%20Place%2C%20MONTGOMERY%20ST%20BETWEEN%20HUDSON%20ST.%20AND%20GREEN%20ST.",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Festivals Holiday Events Outdoor What's Coming Up?."
     },
+    "jc_culture_44812_2026_11_07_speranza_presents_petticoat_patriots_play_2026": {
+      "title": "Speranza Presents Petticoat Patriots Play 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-11-07",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Sat, 11/07 · 7pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/speranza-presents-petticoat-patriots-play-2026-3/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
+    },
     "jc_culture_38245_2026_11_08_repair_cafe_2026": {
       "title": "Repair Cafe 2026",
       "type": "art",
@@ -1711,6 +1762,40 @@
       "link": "https://jerseycityculture.org/event/repair-cafe-2026-3/",
       "map": "https://maps.google.com/?q=Grace%20Church%20Van%20Vorst%2C%2039%20Erie%20Street%2C%20Jersey%20City",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
+    },
+    "jc_culture_44814_2026_11_08_speranza_presents_petticoat_patriots_play_2026": {
+      "title": "Speranza Presents Petticoat Patriots Play 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sun",
+      "date": "2026-11-08",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sun, 11/08 · 2pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/speranza-presents-petticoat-patriots-play-2026-4/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
+    },
+    "jc_culture_44816_2026_11_08_speranza_presents_petticoat_patriots_play_2026": {
+      "title": "Speranza Presents Petticoat Patriots Play 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sun",
+      "date": "2026-11-08",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Sun, 11/08 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/speranza-presents-petticoat-patriots-play-2026-5/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_43692_2026_11_08_smush_gallery_work_share_monthly_artist_feedback_ses": {
       "title": "Smush Gallery Work / Share Monthly Artist Feedback Sessions 2026",
