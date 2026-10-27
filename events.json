@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Oct 26, 2026, 7:15 PM EDT",
+    "checked": "Oct 27, 2026, 12:06 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-10-26",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Oct 26"
-      },
       {
         "iso": "2026-10-27",
         "key": "Tue",
@@ -45,15 +39,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 1"
+      },
+      {
+        "iso": "2026-11-02",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Nov 2"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-10-26",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Oct 26"
-      },
       {
         "iso": "2026-10-27",
         "key": "Tue",
@@ -233,9 +227,15 @@
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
+      },
+      {
+        "iso": "2026-11-26",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Nov 26"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "7 AM",
       "8 AM",
@@ -453,142 +453,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "skint_92497_0_maum_market_asian_makers_market": {
-      "title": "maum market: asian makers market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-25",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 10/25 · 11am-4pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "industry city (brooklyn)",
-      "source": "The Skint",
-      "link": "https://maum.market/nyc",
-      "map": "https://maps.google.com/?q=industry%20city%20(brooklyn)%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-4pm: maum market: asian makers market: industry city (brooklyn)."
-    },
-    "skint_92497_1_five_boro_foto_fest_photographs_prints_zines_books_a": {
-      "title": "five boro foto fest: photographs, prints, zines, books, and mixed media",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-10-25",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 10/25 · 11am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "culture lab lic",
-      "source": "The Skint",
-      "link": "https://www.5borofotofest.com/",
-      "map": "https://maps.google.com/?q=culture%20lab%20lic%20NYC",
-      "summary": "cultural fests / food events / markets / shopping events (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-6pm: five boro foto fest: photographs, prints, zines, books, and mixed media: culture lab lic."
-    },
-    "gary_2026_10_26_monday_founders_coworking_pod": {
-      "title": "Monday Founders Coworking Pod",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-10-26",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Mon, 10/26 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Moxy Chelsea, 105 W 28th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/q6js24n/Monday-Founders-Coworking-Pod",
-      "map": "https://maps.google.com/?q=Moxy%20Chelsea%2C%20105%20W%2028th%20St",
-      "summary": "Gary's Guide: If you're an early stage founder, building alone is hard. You lose momentum, get stuck with no one to ask, & there's no one checking if you actually did what you said you'd do this week. We're a small group of founders working together for the month - think study group, but for building. We help each other, check in, & keep each other on track. Now we're opening it up to more people, in pods of 3-5. Here's how it works: you tell your pod what you're trying to get done, & they hold you to it. Stuck on something? Someone in the pod probably knows the answer. Starting to slip? Someone notices. Same faces every week, so you're never starting over with strangers. This is an outgrowth of our Wednesday coworking events - just smaller. We're here to build the idea & building culture NYC deserves. We focus on that foundational layer of relationships & community that allows for ideas to spread & building to happen. Enough of the transactional networking. Product first, business second. Cohort is a community of founders, builders, creatives, & researchers in NYC, & the Monday pod is our small-group coworking ritual. Let's build. More from Cohort Keep building, exploring ideas, & meeting the community. Find your next gathering below. Explore & connect The Crawling Dead: Halloween Food Crawl Sat, Oct 31 A Halloween afternoon food walk through Brownstone Brooklyn, with local bites & spooky stoops. Build together Monday Founders Coworking Pods Small groups, shared goals, weekly accountability. Nov 2 Nov 9 Nov 16 Wednesday Coworking Work alongside founders, builders, creatives, & researchers. Oct 28 Nov 4 Nov 11 Check our full calendar for more events"
-    },
-    "gary_2026_10_26_meta_global_ai_developer_hackathon": {
-      "title": "Meta Global AI Developer Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-10-26",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Mon, 10/26 · 12:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, Online",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/sg26ble/Meta-Global-AI-Developer-Hackathon",
-      "map": "https://maps.google.com/?q=Venue%2C%20Online",
-      "summary": "Gary's Guide: Come & build future of superintelligence. $1M in prizes. 10 day hackathon (Oct 26 to Nov 04)."
-    },
-    "gary_2026_10_26_build_your_content_system_ai_personal_brand_workshop": {
-      "title": "Build Your Content System - AI & Personal Brand Workshop",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-10-26",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Mon, 10/26 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/fn98sxy/Build-Your-Content-System-AI-Personal-Brand-Workshop",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Ella Cook (Founder, Time Rich)."
-    },
-    "gary_2026_10_26_the_shortlist_founder_showcase": {
-      "title": "The Shortlist Founder Showcase",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-10-26",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 10/26 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/h8i88cp/The-Shortlist-Founder-Showcase",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: The Shortlist NYC - October Founder Showcase (#10) The Shortlist is back for our monthly Founder Showcase & the room keeps getting better. This is a monthly curated, application-only evening connecting early-stage founders with exceptional operators across New York. No panels. No pitches to VCs. Just six founders building breakout companies, a room full of people who've built things themselves, & the kind of candid conversation you don't get at most events. Each founder will share what they're building, why it matters, & the specific roles they're actively hiring for right now - followed by a mixer. What to expect: Founders presenting at the seed through Series B stage. Operators, builders, & executives who've seen what good looks like. An intentionally small room designed for real connection. Who this is for: Exceptional operators - whether you're actively exploring your next role, casually curious, or simply want to stay close to what's being built in NYC right now. Founders will be announced in the days leading up to the event. Attendance is intentionally limited. Apply to be considered. More information on The Shortlist can be found here. Founded by Andrew Yeung & Ivor Straford."
-    },
-    "gary_2026_10_26_agent_builder_mixer": {
-      "title": "Agent Builder Mixer",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-10-26",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 10/26 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/22b4ihg/Agent-Builder-Mixer",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Aaron Severs (CPO, Noom), Frank Aloia (Founding Enggr, Dust), Mariane Bekker (Dir. Dev Relations, 1Password)."
-    },
-    "gary_2026_10_26_business_funding_an_international_perspective": {
-      "title": "Business Funding - An International Perspective",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-10-26",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 10/26 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Transatlantic Innovation Hub, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/kd3p6s5/Business-Funding-An-International-Perspective",
-      "map": "https://maps.google.com/?q=Transatlantic%20Innovation%20Hub%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Dan Jaeck (Crane VC), Joel Goschalk (Dir., Dundon Advisers)."
     },
     "gary_2026_10_27_swell_2026": {
       "title": "Swell 2026",
@@ -822,10 +686,10 @@
       "when": "Tue, 10/27 · 7:00pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "Venue,, To Be Announced",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/1mbb4y3/NYC-Startup-Casino-Night",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Night of poker, drinks & casino games w/ ElevenLabs, Stripe, Comma Capital, MongoDB For Startups."
     },
     "gary_2026_10_28_onug_ai_networking_summit": {
@@ -1253,6 +1117,108 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: AI Builders Speed Dating Jersey City is the new San Francisco Join us for an evening of building in Jersey City with some of the sharpest builders in the area. Here's how it works: we match you with a fellow builder you haven't met, & together you build something real on Lyzr. At the end of the night, the top 3 projects will be rated & walk away with prizes. Come ready to meet someone new, build fast & have fun with it. Food & drinks will be served throughout the evening. Run of show 4:00 PM: Registration 4:10 PM: Settle in & get matched 4:30 PM: Technical workshop 5:00 PM: Build time with your partner 6:30 PM: Networking 7:00 PM: Prizes & networking 7:30 PM: Wrap Prizes 1st place: Mac Mini Multiple 2nd place : 5 Airpods Pro Multiple 3rd place : Architect Credits + Cool Goodies Who should come: Senior developers, solutions architects & builders who like to ship. Spots are limited, so please request your place & our team will be in touch to confirm your registration."
     },
+    "gary_2026_10_29_aethir_after_hours_ai_infra_night": {
+      "title": "Aethir After Hours - AI Infra Night",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-29",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Thu, 10/29 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Hudson Yards, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/pmeesfw/Aethir-After-Hours-AI-Infra-Night",
+      "map": "https://maps.google.com/?q=Hudson%20Yards%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Drinks for the people building, funding & running AI infrastructure in NYC. Hosted by Aethir. Free, RSVPs reviewed. 6:30 PM - 9:30 PM ET. Location: Chelsea (address shared with approved guests). Organizer: Aethir; contact Joe W, joe@aethir.com"
+    },
+    "gary_2026_10_29_consumer_founder_dinner": {
+      "title": "Consumer Founder Dinner",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-29",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 10/29 · 6:30pm",
+      "price": "Varies",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/4bjyg5m/Consumer-Founder-Dinner",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With VHS Ventures."
+    },
+    "gary_2026_10_29_data_by_design": {
+      "title": "Data By Design",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-29",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 10/29 · 6:30pm",
+      "price": "$40",
+      "free": false,
+      "place": "P&T Knitwear, 180 Orchard St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/irewakf/Data-By-Design",
+      "map": "https://maps.google.com/?q=P%26T%20Knitwear%2C%20180%20Orchard%20St",
+      "summary": "Gary's Guide: With Tanvi Sharma (Art Dir., Apple), Lauren Klein (Prof. Data & Decision Sciences, Emory), Shannon Mattern (Dir. Creative Research, Metropolitan NY Library Council), Silas Munro (Artist & Writer)."
+    },
+    "gary_2026_10_29_midterm_mania_panel_party": {
+      "title": "Midterm Mania Panel & Party",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-29",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 10/29 · 6:30pm",
+      "price": "$30",
+      "free": false,
+      "place": "Venue, 100 Sutton St, Brooklyn",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/p9lftr0/Midterm-Mania-Panel-Party",
+      "map": "https://maps.google.com/?q=Venue%2C%20100%20Sutton%20St%2C%20Brooklyn",
+      "summary": "Gary's Guide: With Kenneth Schlenker (Founder, Opal), Jack Brewster (Founder/CEO, Newsreel)."
+    },
+    "gary_2026_10_29_is_everything_predictable_ai_prediction_markets_phil": {
+      "title": "Is Everything Predictable - AI, Prediction Markets & Philosophy Of Foresight",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-29",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 10/29 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/wfqaaqj/Is-Everything-Predictable-AI-Prediction-Markets-Philosophy-Of-Foresight",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: In this six-week course, explore works from philosophy, cultural studies, & journalism to understand how technologies that predict the future also shape the present.The age of AI, prediction markets, & real-time data analysis brings predictive reasoning into all corners of human life. Once considered a niche academic interest area, the philosophy & politics of prediction is now relevant to everybody. Is Everything Predictable?: AI, Prediction Markets, & the Philosophy of Foresight presents scholarly material on forecasting technologies in a rigorous but highly accessible format.Drawing from a range of sources, we center scholarly texts & deeply-researched journalism that uncover the links between digital calculation, philosophical notions of time & free will, & the reality of living in an age where everything seems reducible to calculation.Guest speakers from academia & tech journalism will round out our seminar sessions, & for our final meeting, students have the option of presenting original research or creative work in an event open to the general public.SyllabusIn the early weeks of the course, we read texts from contemporary media studies & political theory that construe prediction & speculation as forms of governance. We also address probabilistic reasoning as a key feature of artificial intelligence & prediction market mechanisms, using frameworks suitable for participants without any background in STEM. As we will see, the similarities & differences between how probability works in AI versus prediction markets have much to tell us about these tools effects on everything from global warfare & the environment to creativity & personal relationships.After establishing a strong practical & theoretical foundation in AI & prediction markets, we turn to philosophical writing on the nature of freedom, self-expression, & power. These texts urge us to ask whether predictive technologies empower us with highly advanced forms of knowledge; if they inhibit us by constraining our imagination of whats possible; or if both of these outcomes might be true at once. We also read articles & listen to podcast interviews with our guest speakers in anticipation of their visits.Throughout our sessions, we examine case studies related to tech companies, specific applications, & major actors in the AI & prediction market space. The courses culminating event a salon open to the general public reflects our interest in connecting questions & concerns that seem highly academic to current events & everyday life. Students who choose to give presentations will participate in an additional workshop or one-on-one advising session to help them prepare. By the courses end, we will be able to navigate a world driven by predictive technologies with greater clarity, confidence, & wisdom, & to share our perspectives on them in a way that empowers those around us.Learning OutcomesConnect AI & prediction market functionalities to political & cultural affairsDevelop critical reading skills applicable to philosophy & journalismApply frameworks from the theoretical humanities to real-world developments in politics & technologyMake scholarly ideas accessible to a wide range of audiencesScholarshipsIndex scholarships are designed to benefit underrepresented groups, BIPOC members of our community, & those for whom the class price is not accessible. These need-based scholarships will go to the candidates who best demonstrate why they should be chosen for the free spot to our class. You can apply for a scholarship here.Instructor BioEmma Stamm is a writer & professor with a background in philosophy & the social study of science & technology (STS). She holds a PhD in Interdisciplinary Studies from Virginia Tech & has taught courses on the philosophy & social implications of technology at Villanova University, Virginia Tech, the Acid Horizon Research Commons, New York University, where she currently teaches for the Department of Media, Culture, & Communication. As a public-facing scholar, she has written for Vice Motherboard, Real Life Mag, & Communications of the Association for Computing Machinery, in addition to co-hosting the LEPHT HAND podcast. She is the co-founder & Executive Director of theLenox Institute for Advanced Study, which makes critical science & tech education accessible beyond academia.RefundsWe get that things come up, but we rely on headcounts to make our programs viable. If you request a refund...More than 4 weeks before the program begins 100% refundMore than 2 weeks before the program begins 50% refundFewer than 2 weeks before the program begins No refundThanks for understanding & for supporting our ability to provide cool offerings through your purchase.Media Release ClauseBy attending this event, you consent to being photographed, filmed, or recorded, & grant Index Space permission to use this content for promotional or informational purposes."
+    },
+    "gary_2026_10_29_founders_operators_investors_rooftop_social": {
+      "title": "Founders, Operators & Investors - Rooftop Social",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-10-29",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 10/29 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/2lsvvu9/Founders-Operators-Investors-Rooftop-Social",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Join us for a curated mixer bringing together local founders, operators & investors at one of New York's most iconic rooftops. Whether you're building your first product, scaling your team, or figuring out go-to-market, this is a room of people who get it. No panels. No pitches. Just great peer to peer conversation over drinks. With friends from: YC, SpaceX, a16z speedrun, ScaleAI, Mistral, Stripe, Meta, Whop, Normal Computing, & more Location: Premium Rooftop Bar, Lower East Side Vibe: Summer Spritz & Conversation Who this is for: Founders, operators & investors Impressions from last time: Subscribe to our community to follow future events Interested to partner or sponsor? Reach out at hello@foundersandoperators.nyc By attending this event, you will get access to our 2000+ member community, WhatsApp group chat, & exclusive member benefits. No Phone Policy: - The usage of cell phones is strongly discouraged. Exceptions: Getting someone's contact, looking up a project someone mentioned to you, or taking a photo. No Solicitation Policy: - Active selling, pitching, or solicitation is strongly discouraged. About the Organizers: - Founders & Operators is NYC's curated community for 2000+ founders, builders & senior operators. We convene talent across AI, fintech & emerging technology through intimate gatherings, practical programming & original content. - Stephan Rihs is the founder of Founders & Operators & RegLayer. He works with early-stage companies on strategy, go-to-market, partnerships & fundraising. His background includes Coinbase, BCG, & roles in Austria's Treasury & Chancellor's Office."
+    },
     "luma_2026_10_27_state_of_ai_2026_nyc_launch_event": {
       "title": "State of AI 2026 - NYC launch event",
       "type": "tech",
@@ -1338,22 +1304,22 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Red Sea Ventures, Scott Birnbaum"
     },
-    "nyu_tandon_2026_10_26_3d_printing_for_regenerative_medicine": {
-      "title": "3D Printing for Regenerative Medicine",
+    "luma_2026_10_28_dev_ai_nyc": {
+      "title": "dev/ai/nyc",
       "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Mon",
-      "date": "2026-10-26",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Mon, 10/26 · 11:00 AM",
-      "price": "Free / varies",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-10-28",
+      "time": "9:30 PM",
+      "sort": 21.5,
+      "when": "Wed, 10/28 · 9:30pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/10/26/3d-printing-regenerative-medicine",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/sjnwdzsw",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Automattic Events, Automattic Events"
     },
     "nyu_tandon_2026_10_27_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1456,6 +1422,23 @@
       "link": "https://engineering.nyu.edu/events/2026/10/30/iaqf-industry-day",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Career Development,"
+    },
+    "nyu_tandon_2026_11_03_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
+      "type": "tech",
+      "label": "Workshop / Training",
+      "day": "Tue",
+      "date": "2026-11-03",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Tue, 11/03 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/03/instructional-tech-drop-sessions",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Workshop / Training"
     },
     "jc_culture_44635_2026_10_28_employee_wellness_fair_2026": {
       "title": "Employee Wellness Fair 2026",
@@ -1944,15 +1927,6 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_10_25_11_am": [
-      "skint_92497_0_maum_market_asian_makers_market",
-      "skint_92497_1_five_boro_foto_fest_photographs_prints_zines_books_a"
-    ],
-    "cluster_2026_10_26_6_pm": [
-      "gary_2026_10_26_the_shortlist_founder_showcase",
-      "gary_2026_10_26_agent_builder_mixer",
-      "gary_2026_10_26_business_funding_an_international_perspective"
-    ],
     "cluster_2026_10_27_6_pm": [
       "gary_2026_10_27_future_of_ai_infrastructure",
       "gary_2026_10_27_founder_pitch_clinic",
@@ -1997,6 +1971,17 @@
     "cluster_2026_10_29_5_pm": [
       "gary_2026_10_29_ai_builders_speed_dating_hackathon",
       "nyu_tandon_2026_10_29_fre_special_seminar_jean_fran_ois_chassagneux"
+    ],
+    "cluster_2026_10_29_6_pm": [
+      "gary_2026_10_29_aethir_after_hours_ai_infra_night",
+      "jc_culture_44479_2026_10_29_jcpd_north_district_trunk_or_treat_2026"
+    ],
+    "cluster_2026_10_29_6_30_pm": [
+      "gary_2026_10_29_consumer_founder_dinner",
+      "gary_2026_10_29_data_by_design",
+      "gary_2026_10_29_midterm_mania_panel_party",
+      "gary_2026_10_29_is_everything_predictable_ai_prediction_markets_phil",
+      "gary_2026_10_29_founders_operators_investors_rooftop_social"
     ],
     "cluster_2026_10_27_10_30_pm": [
       "luma_2026_10_27_asian_founders_club_vibranium_labs_present_founders_",
