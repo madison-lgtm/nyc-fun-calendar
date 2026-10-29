@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 29, 2026, 1:12 PM EDT",
+    "checked": "Oct 29, 2026, 7:30 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -260,6 +260,7 @@
       "7 PM",
       "7:30 PM",
       "8 PM",
+      "9 PM",
       "10:30 PM"
     ]
   },
@@ -570,8 +571,8 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: AI Builders Speed Dating Jersey City is the new San Francisco Join us for an evening of building in Jersey City with some of the sharpest builders in the area. Here's how it works: we match you with a fellow builder you haven't met, & together you build something real on Lyzr. At the end of the night, the top 3 projects will be rated & walk away with prizes. Come ready to meet someone new, build fast & have fun with it. Food & drinks will be served throughout the evening. Run of show 4:00 PM: Registration 4:10 PM: Settle in & get matched 4:30 PM: Technical workshop 5:00 PM: Build time with your partner 6:30 PM: Networking 7:00 PM: Prizes & networking 7:30 PM: Wrap Prizes 1st place: Mac Mini Multiple 2nd place : 5 Airpods Pro Multiple 3rd place : Architect Credits + Cool Goodies Who should come: Senior developers, solutions architects & builders who like to ship. Spots are limited, so please request your place & our team will be in touch to confirm your registration."
     },
-    "gary_2026_10_29_ai_ml_lecture_networking_intuit": {
-      "title": "AI/ML Lecture & Networking @ Intuit",
+    "gary_2026_10_29_ai_ml_research_colloquium": {
+      "title": "AI/ML Research Colloquium",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Thu",
@@ -581,11 +582,11 @@
       "when": "Thu, 10/29 · 5:00pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "Intuit, 51 Astor Pl",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/1osd54v/AI-ML-Lecture-amp-Networking-Intuit",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: A monthly ML research colloquium by the New York Machine Learning Research Guild - this session in collaboration with our partner, Intuit. The Mathematical Theory of Deep Learning Arthur Jacot Assistant Professor, Courant Institute of Mathematical Sciences, NYU Topic: TBD This session is a close-quarters look at that theory, with plenty of room to push back & dig in. About Arthur Arthur Jacot is an Assistant Professor at NYU's Courant Institute of Mathematical Sciences. He builds mathematical theory for how deep neural networks learn, & is best known for introducing the Neural Tangent Kernel during a PhD at EPFL with Clment Hongler. Recent work explains how DNNs act as a computational Occam's razor, finding simple, low-dimensional representations when trained with weight decay: A proof that wide networks trained with weight decay exhibit neural collapse (ICLR 2025, oral) An account of how DNNs break the curse of dimensionality through compositionality & symmetry learning (ICLR 2025) A newer paper framing deep learning as a convex paradigm of computation that minimizes circuit size with ResNets Arthur's honors include the 2025 AMR Prize in Mathematics of Artificial Intelligence & the 2023 EPFL PhD Thesis Prize. Who this is for NY-MLR colloquia are small by design. The room is capped, & we keep it that way so the discussion stays substantive & everyone in it can contribute. We'd love to see you if you're: A practitioner working seriously on ML, in industry or in a lab A researcher or graduate student in ML, mathematics, or an adjacent field A highly motivated student or self-directed learner of any age or background, with real depth of interest Sincere interest is enough to belong - that's one of our core principles. What we ask is that you come ready to engage. More on the Guild & our ethos at nymlr.com. Schedule 5:00 - 5:30 PM Doors open, arrivals, mingling 5:30 - 6:30 PM Talk 6:30 - 7:00 PM Moderated Q&A 7:00 - 8:00 PM After hours, mingling, wind-down 8:00 PM Lights out Venue: Intuit NYC 51 Astor Pl, New York, NY 10003 Food & drinks Food & drinks are provided - another reason to claim your seat only if you can make it, & to release it if you can't. A note on no-shows Seats are strictly limited by room capacity, & every in-person RSVP takes one from someone else who wanted it. If you register to attend in person & your plans change, please amend your registration or cancel on Luma. It takes ten seconds & frees the seat. Registering in person & not showing up without updating your RSVP will forfeit your access to future NY-MLR events. Please mark your attendance mode accurately. A note on Unapproved Attendance Due to limited capacity & security reasons, we will not be able to accept & accommodate unapproved drop-ins to the event, so please do not drop by uninvited as you'll be turned away by security. We apologize for the inconvenience & inability to accommodate everyone for this particular session, but please feel free to join us on our next one. Thank you for your understanding."
+      "link": "https://www.garysguide.com/events/1osd54v/AI-ML-Research-Colloquium",
+      "map": "https://maps.google.com/?q=Intuit%2C%2051%20Astor%20Pl",
+      "summary": "Gary's Guide: With Arthur Jacot (Prof., NYU Courant Inst of Mathematical Sciences)."
     },
     "gary_2026_10_29_aethir_after_hours_ai_infra_night": {
       "title": "Aethir After Hours - AI Infra Night",
@@ -707,7 +708,7 @@
       "summary": "Gary's Guide: Cheat Codes Live: NYC EditionCheat Codes Live is a lecture-style session where Ilias Anwar breaks down the playbooks he uses to launch brands, grow communities, & land brand partnerships. It is built for founders, creators, marketers, & operators in New York who want tactics they can use the next morning.How it worksIlias teaches each topic live, then gives attendees access to the tools he uses. You will get hands-on help setting them up on the spot, so you leave with a working system instead of just notes.What we'll coverGo-to-market strategy: how to launch a product, find your first customers, & turn events & content into pipeline.AI tools & agents: the AI tools & agentic workflows that save founders & creators hours every week.Personal branding: how to build an audience on LinkedIn, Instagram, TikTok, & Substack that attracts investors, clients, & sponsors.New media & the creator economy: how brands, events, & creators are merging, & where the opportunities are right now.Open Q&A: bring your real questions & get direct answers.Who should attendThis is for startup founders, creators, marketers, growth & GTM leads, & anyone building a personal brand in NYC. It is a private event, & the host reviews every request to join. Tickets are $30 once your request is accepted.Why \\"
     },
     "gary_2026_10_29_fdes_in_ai_for_science": {
-      "title": "FDEs in AI for Science",
+      "title": "FDEs In AI For Science",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Thu",
@@ -719,9 +720,26 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/cfjz926/FDEs-in-AI-for-Science",
+      "link": "https://www.garysguide.com/events/cfjz926/FDEs-In-AI-For-Science",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Hosted by the Edison Scientific FDE team. Come hang out with other forward deployed engineers. We're taking over a bar for happy hour. We're inviting FDEs, deployment strategists, & applied AI engineers. Aside from a good time, you can expect: Drinks & happy hour specials Stories from the field Casual chats on running an FDE motion RSVP required for this small gathering of FDEs, builders, & people we'd love to work with. If that's you, come say hi. 21+ event. Address shared upon RSVP."
+    },
+    "gary_2026_10_29_neuronyc_from_ai_to_brain_repair_back": {
+      "title": "NeuroNYC - From AI To Brain Repair & Back",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-10-29",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Thu, 10/29 · 7:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced, Greenpoint",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/d8lxrmj/NeuroNYC-From-AI-To-Brain-Repair-Back",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced%2C%20Greenpoint",
+      "summary": "Gary's Guide: With Roy Maimon (Prof. Biomedical Engg, NYU Tandon)."
     },
     "gary_2026_10_30_european_founders_coffee_hour": {
       "title": "European Founders Coffee Hour",
@@ -734,11 +752,11 @@
       "when": "Fri, 10/30 · 8:30am",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "Buddy Buddy, 340 Bowery",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/4kvc2d8/European-Founders-Coffee-Hour",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Headline is bringing together European founders & operators building in New York for a morning of coffee and candid conversation.From pre-seed to scale-up, this is a chance to meet people who made the same leap across the Atlantic, trade notes on whats actually working, and finally settle the great espresso debate."
+      "map": "https://maps.google.com/?q=Buddy%20Buddy%2C%20340%20Bowery",
+      "summary": "Gary's Guide: Headline is bringing together European founders & operators building in New York for a morning of coffee & candid conversation. From pre-seed to scale-up, this is a chance to meet people who made the same leap across the Atlantic, trade notes on what's actually working, & finally settle the great espresso debate. Sponsored by Rho! Rho is the all-in-one banking platform for startups & the accountants supporting them. With banking setup in minutes, cashback cards, & tools for managing spend, paying bills, & closing the books, Rho helps high-growth startups move fast & stay focused, backed by support that goes to the end of the earth to help you win. Rho is a fintech company, not a bank. Checking services provided & cards issued by Webster Bank, a division of Santander Bank, N.A. Member FDIC & Lead Bank, Member FDIC"
     },
     "gary_2026_10_30_ai_digital_influence_in_elections": {
       "title": "AI & Digital Influence In Elections",
@@ -755,7 +773,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/f2w8mv5/AI-Digital-Influence-In-Elections",
       "map": "https://maps.google.com/?q=Pulitzer%20Hall%2C%202950%20Broadway",
-      "summary": "Gary's Guide: With Tow Center for Digital Journalism."
+      "summary": "Gary's Guide: With Emily Bell (Dir., Tow Center for Digital Journalism at Columbia), Rene DiResta (Author, Invisible Rulers), Julia Angwin (Dir., Harvard Kennedy School), CJ Robinson (The Upshot)."
     },
     "gary_2026_10_30_how_to_get_your_startups_finances_in_order": {
       "title": "How To Get Your Startups Finances In Order",
@@ -860,7 +878,7 @@
       "summary": "Gary's Guide: Mixer for founders, creators & investors."
     },
     "gary_2026_11_01_jersey_city_claude_code_workshop": {
-      "title": "Jersey City | Claude Code Workshop",
+      "title": "Jersey City - Claude Code Workshop",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Sun",
@@ -874,7 +892,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/2zcrjzm/Jersey-City-Claude-Code-Workshop",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Claude Code Community Weekend One mini challenge. One hour. Lets see what we can build!Join a vibe-coding night in Jersey City, organized by local Claude community leaders. No coding background neededdevelopers, designers, PMs, and curious first-timers are all welcome! The challengeWell form teams of 24 onsite, then reveal a mini challenge. Every team tackles the same problem with Claude Code, with one hour to bring their solution to life.Build a prototype or aim for a fully working productthen demo it live! The first 8 teams with verified demos get to present.Same challenge, different ideas. Come experiment, meet fellow builders, and cheer each other on. Registration & teamsEach attendee must register and be approved individually. Your approval doesnt guarantee a spot for your friends or teammates, so come ready to meet new people and form a team onsite! Come ready to buildBring your laptop, charger, and access to Claude Code ideally set up before you arrive. No pre-built project needed; well reveal the challenge together! LocationNear Grove Street, Jersey City. The exact location will be shared once your registration is approved. A possible plot twistIf a new Claude model launches within the two weeks leading up to the event, we may switch to a Build Day format to explore it together. Well notify approved attendees if the format changes!"
+      "summary": "Gary's Guide: Claude Code Community Weekend One mini challenge. One hour. Let's see what we can build! Join a vibe-coding night in Jersey City, organized by local Claude community leaders. No coding background needed-developers, designers, PMs, & curious first-timers are all welcome! The challenge We'll form teams of 2-4 onsite, then reveal a mini challenge. Every team tackles the same problem with Claude Code, with one hour to bring their solution to life. Build a prototype or aim for a fully working product-then demo it live! The first 8 teams with verified demos get to present. Same challenge, different ideas. Come experiment, meet fellow builders, & cheer each other on. Registration & teams Each attendee must register & be approved individually. Your approval doesn't guarantee a spot for your friends or teammates, so come ready to meet new people & form a team onsite! Come ready to build Bring your laptop, charger, & access to Claude Code - ideally set up before you arrive. No pre-built project needed; we'll reveal the challenge together! Location Near Grove Street, Jersey City. The exact location will be shared once your registration is approved. A possible plot twist If a new Claude model launches within the two weeks leading up to the event, we may switch to a Build Day format to explore it together. We'll notify approved attendees if the format changes!"
     },
     "gary_2026_11_02_ai_devcon": {
       "title": "AI DevCon",
@@ -944,8 +962,8 @@
       "map": "https://maps.google.com/?q=Mallory%20at%20Terminal%20Warehouse%2C%20261%2011th%20Ave",
       "summary": "Gary's Guide: With Anthony Pompliano (CEO, ProCap), Robert Mitchnick (Head of Digital Assets, BlackRock), Eric Balchunas (Analyst, Bloomberg Intelligence), Ankur Nagpal (USVC), Gavin Filmore (CEO, Tidal), Matt Cole (CEO, Strive)."
     },
-    "gary_2026_11_03_build_an_agent_factory_with_openais_agents_api_and_r": {
-      "title": "Build an Agent Factory with OpenAIs Agents API and Rasa Mantle",
+    "gary_2026_11_03_build_agent_factory_w_openai_agents_api_rasa_mantle": {
+      "title": "Build Agent Factory w/ OpenAI Agents API & Rasa Mantle",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Tue",
@@ -955,11 +973,11 @@
       "when": "Tue, 11/03 · 3:00pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "The Assembly, 2 Park Ave",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/0hvnak9/Build-an-Agent-Factory-with-OpenAIs-Agents-API-and-Rasa-Mantle",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Tell an AI agent what you want to build. Using your voice. Then put the agent it builds to work.Join us for a hands-on Rasa workshop where well connect Rasa Mantle and OpenAIs Agents API to build an agent that builds another agent with a conversation and a dashboard you can actually use.What are we building?Imagine asking:Im flying to New York. Check my flight, show me the weather when I land, and help me work out whether Ill make my meeting.The agent checks the information, displays it on a dashboard as you speak, and determines what else it needs to answer your question. You ask a follow-up, and the conversation and dashboard update together.But were also building the agent that creates that experience. Well go from describing what we want to having a coding agent build it, then check that the result actually works.A dark software factory. See what it takes to build one.What youll exploreUsing voice to describe the agent you want to build.Connecting Mantle and OpenAIs Agents API through MCP.Bringing flight information, weather, and interactive widgets into a conversation.Giving a coding agent a new capability to implement.Testing the resulting experience against what you asked it to do.Up to $5,000 in AI credits supportAI credits for support of up to $5,000 are available to qualifying participants. Those joining online can also qualify.Register to receive the participation details and information on how to qualify.Whos this for?Developers, AI engineers, technical founders, and anyone already building with coding agents who wants to take things further. If youve been using Claude Code or Codex and wondering what you could build next, join us.No previous Rasa experience needed. Bring your laptop!Build something with us!"
+      "link": "https://www.garysguide.com/events/0hvnak9/Build-Agent-Factory-w-OpenAI-Agents-API-Rasa-Mantle",
+      "map": "https://maps.google.com/?q=The%20Assembly%2C%202%20Park%20Ave",
+      "summary": "Gary's Guide: With Rasa Mantle (Orchestrator, Rasa Platform)."
     },
     "gary_2026_11_03_ai_builders_night": {
       "title": "AI Builders Night",
@@ -1029,6 +1047,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20Online",
       "summary": "Gary's Guide: With Jennifer Doudna (Nobel Prize-winner for CRISPR), David Kirtley (Founder, Helion), Mike Schroepfer (Gigascale Capital), Gregory Verdine (CEO, LifeMine), Michael Snyder (Dir., Center For Genomics & Personalized Medicine), Milo Werner (DCVC)."
     },
+    "gary_2026_11_04_age_of_trailblazers_conference": {
+      "title": "Age Of Trailblazers Conference",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-11-04",
+      "time": "11:30 AM",
+      "sort": 11.5,
+      "when": "Wed, 11/04 · 11:30am",
+      "price": "$219",
+      "free": false,
+      "place": "Midtown, 135 Madison Ave",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/v05ar9j/Age-Of-Trailblazers-Conference",
+      "map": "https://maps.google.com/?q=Midtown%2C%20135%20Madison%20Ave",
+      "summary": "Gary's Guide: With Ngoc Cindy Pham (Founder, Bridge AI Lab), Paul Cheung (President, Committee of 100), Sasha Stiles (Artist), Jeannette Wing (Prof. CS, Columbia)."
+    },
     "gary_2026_11_04_co_working_for_social_entrepreneurs": {
       "title": "Co-Working For Social Entrepreneurs",
       "type": "startup",
@@ -1062,6 +1097,23 @@
       "link": "https://www.garysguide.com/events/j1xfj5d/Supabase-Sodabase-BuilderBase-Hackathon",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Your code works. But is your data any good?Join Sodabase, Supabase & BuilderBase in Midtown NYC for an evening of pure building. Build your project on Supabase. Sodabase measures its data quality. One challenge, two platforms, no workshops or talks. Just building.The challengeBuild on Supabase: start a project & build your app on Supabase tables, cron jobs & edge functions.Connect Sodabase: sign in with Supabase & choose your project. Sodabase learns how your tables normally change.Get your score: a Sodabase Data Quality Score on what you ship, which counts toward judging.What you getAPI credits from the partners to build with on the nightA prize for the strongest build, judged on craft, execution & data qualityMentors & judges from Sodabase & Supabase in the roomSwag from Sodabase & SupabaseSeats are limited125 seats, in person only. Applications are reviewed, so apply early. The exact address & arrival instructions are emailed to confirmed participants.Hosted by Sodabase, Supabase & BuilderBase."
+    },
+    "gary_2026_11_04_make_it_in_brooklyn_sustainable_materials_pitch_cont": {
+      "title": "Make It In Brooklyn - Sustainable Materials Pitch Contest",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-11-04",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 11/04 · 6:00pm",
+      "price": "$5",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/7h3v6bn/Make-It-In-Brooklyn-Sustainable-Materials-Pitch-Contest",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: 5 early-stage startups compete for up to $10K in funding & commercialization support. Pitches by Valorize, NANOPLUME, Mori, Toga Studio, Next Season. With Downtown Brooklyn Partnership."
     },
     "gary_2026_11_04_startup_pitch_mixer": {
       "title": "Startup Pitch Mixer",
@@ -1115,7 +1167,7 @@
       "summary": "Gary's Guide: With Ella Cook (Founder, Time Rich)."
     },
     "gary_2026_11_04_pizza_build_mobile_app_hackathon": {
-      "title": "Pizza & Build: Mobile App Hackathon",
+      "title": "Pizza & Build - Mobile App Hackathon",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Wed",
@@ -1127,9 +1179,9 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/h626lw9/Pizza-amp-Build-Mobile-App-Hackathon",
+      "link": "https://www.garysguide.com/events/h626lw9/Pizza-Build-Mobile-App-Hackathon",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: What's happening?Bilt.me is teaming up with Time Rich Club and WisprFlow, and Koah the ad network built for AI apps, to host Mobile App Hackathon Night in New York: an evening for getting a real mobile app out of your head and onto your phone, with AI. A friendly hackathon where the only rule is to ship something by the end of the night.Most app ideas never leave the Notes app. Tonight yours does. No code needed.Bring a fresh idea or something you've already started. Describe what you want in plain language, keep refining it, and leave with an app running on your phone that you can show people.All you need is a laptop and the willingness to call something done.You'll be hacking alongside founders, designers, coders and people with too many ideas in their Notes app. Come solo or bring a friend, and we'll help you find teammates.Why come?Build your app with Bilt.me, then hear from Koah on how AI apps start making money from day one. Pizza on usFormatTeams of one or two. A quick kickoff, then three hours of heads-down hacking with a clear finish line: get it working on your phone. We wrap with demos, so everyone sees what got shipped.What to expectA short intro to building with Bilt.meA quick look from Koah at how AI apps make moneyTime to hack, test on your phone and ask questionsFriendly feedback from the roomDemos at the endGood conversations and new people to build withWho is it for?Anyone who wants to stop thinking about an app and start shipping one: aspiring founders, designers, creatives, AI-curious builders, and people who have never written code.What to bring?A laptop Your phone An idea, or the app you've already startedCo-hosted with Time Rich ClubElla Molony Cook is an Australian 4x founder with 1 exit and an investor in Anthropic. She runs a community of 63K+ subscribers on Substack and has hosted 250+ founder and investor experiences.Time Rich Club is for founders, leaders and investors who refuse to choose between ambition and a life they love. Think world-class mentorship to build a life of impact: become visible, build authority with your voice, and craft the delegation system that gives you your time back.Their ethos: real wealth goes beyond finances. It's a deeper relationship with yourself and your mission, and the freedom to spend your time how you choose. Being ambitious can be lonely, so they built the resources, community and a non-judgmental space for you to show up as you are.Our partnerTime Rich runs on voice, powered by Wispr Flow. Wispr Flow turns your voice into clean written text in any app. Speak your emails, notes and ideas instead of typing them, plus a notetaker integrated within your AI stack. The fastest hours you'll ever win back.Seats are limited and we read every application.About Bilt.meBilt turns a plain-language idea into a real native mobile app, with the frontend, database and login all built for you, ready to test on your phone and publish to the App Store and Google Play.---When: Wednesday 4 November 2026Time: 6pm to 9pmWhere: New York, venue to be announced. We'll share the location with approved guests.Entry: FreeBilt.me credits: included, sponsoredHosted by Bilt.me in collaboration with Koah (koahlabs.com)We take pictures during this event and will use those pictures for marketing. If you don't wish to be photographed, let us know in advance and we can accommodate. Link to Bilt privacy policy: bilt.me/privacy"
+      "summary": "Gary's Guide: With Ella Cook (Founder, Time Rich)."
     },
     "gary_2026_11_04_ai_future_of_community": {
       "title": "AI & Future Of Community",
@@ -1148,8 +1200,8 @@
       "map": "https://maps.google.com/?q=Warburg%20Lounge%2C%20Lexington%20Ave%20at%2092nd%20St",
       "summary": "Gary's Guide: With Jamie Metzl (Founder, One Shared World), Noah Feldman (Prof., Harvard), David Blei (Prof., Columbia), Rabbi Buchdahl (Central Synagogue)."
     },
-    "gary_2026_11_04_yale_x_afore_capital_founder_dinner": {
-      "title": "Yale x Afore Capital Founder Dinner",
+    "gary_2026_11_04_founder_dinner": {
+      "title": "Founder Dinner",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Wed",
@@ -1161,77 +1213,26 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/1ep7yup/Yale-x-Afore-Capital-Founder-Dinner",
+      "link": "https://www.garysguide.com/events/1ep7yup/Founder-Dinner",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Intimate Dinner with Afore CapitalJoin Nathan Yu (Principal Investor @ Afore Capital) and Rho for a small, off-the-record dinner with a handful of Yale's most ambitious builders (hand-picked).Afore is one of the largest dedicated pre-seed funds in the world, writing first checks of $500K to $2M+ to founders who are often pre-product and pre-traction, while Rho is the business banking platform built for startups.Seating is very limited and attendance is by invitation. If you were invited, Afore Capital specifically requested you were in attendance, so take advantage!Request a spot below and we'll confirm by email, but if you were invited you are in.Hosted by Filippo Fonseca '28, Afore Campus Scout and Head of Development @ YaleAI. Rho is the all-in-one banking platform for startups and the accountants supporting them. With banking setup in minutes, up to 2% cashback cards, and powerful tools for managing spend, paying bills, and closing the books, Rho helps high-growth startups move fast and stay focused, backed by support that goes to the end of the earth to help you win.Questions: filippo.fonseca@yale.edu"
+      "summary": "Gary's Guide: With Filippo Fonseca (Head of Development, YaleAI), Nathan Yu (Afore Capital)."
     },
-    "gary_2026_11_05_matcha_mornings_founder_investor_meetup": {
-      "title": "Matcha Mornings - Founder & Investor Meetup",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-11-05",
-      "time": "8:30 AM",
-      "sort": 8.5,
-      "when": "Thu, 11/05 · 8:30am",
-      "price": "Free",
-      "free": true,
-      "place": "Fenwick, 902 Broadway, 18th Fl",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/a6vval2/Matcha-Mornings-Founder-Investor-Meetup",
-      "map": "https://maps.google.com/?q=Fenwick%2C%20902%20Broadway%2C%2018th%20Fl",
-      "summary": "Gary's Guide: Join us for a relaxed Thursday morning with Isshiki Matcha, bringing together founders & investors across the New York tech ecosystem. It's a low-pressure chance to meet people, swap what you're working on, & make new connections over a delicious iced matcha. No agenda, just good conversation to start your day."
-    },
-    "gary_2026_11_05_the_outliers_summit": {
-      "title": "The Outliers Summit",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-11-05",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Thu, 11/05 · 9:00am",
-      "price": "$199",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/82g63bs/The-Outliers-Summit",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With founders Nadya Okamoto (August), Andy Dunn (Bonobos & Pie), Zach Sims (Codecademy), Sahil Lavingia (Gumroad), Ryan Hoover (Product Hunt & Weekend Fund), Sam Parr (My First Million), Carina Hong (Axiom)."
-    },
-    "gary_2026_11_05_cra_industry_convening_ai_for_science": {
-      "title": "CRA-Industry Convening - AI For Science",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-11-05",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Thu, 11/05 · 9:00am",
-      "price": "Varies",
-      "free": false,
-      "place": "Univ. of Washington, To Be Announced, Seattle",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/b3fnof8/CRA-Industry-Convening-AI-For-Science",
-      "map": "https://maps.google.com/?q=Univ.%20of%20Washington%2C%20To%20Be%20Announced%2C%20Seattle",
-      "summary": "Gary's Guide: Bringing people who build AI-powered computing systems into direct conversation w/ scientists using AI to accelerate discovery, surfacing shared challenges & new opptys for collaboration."
-    },
-    "luma_2026_10_29_responsible_tech_summit_2026_from_principles_to_powe": {
-      "title": "Responsible Tech Summit 2026. From Principles to Power: Embedding Accountability in the AI Era",
+    "luma_2026_10_29_ai_ml_lecture_networking_intuit": {
+      "title": "AI/ML Lecture & Networking @ Intuit",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Thu",
       "date": "2026-10-29",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Thu, 10/29 · 2pm",
+      "time": "9 PM",
+      "sort": 21,
+      "when": "Thu, 10/29 · 9pm",
       "price": "Free",
       "free": true,
-      "place": "The Times Center",
+      "place": "Intuit Inc",
       "source": "Luma NYC",
-      "link": "https://luma.com/05z8y8xs",
-      "map": "https://maps.google.com/?q=The%20Times%20Center%20NYC",
-      "summary": "Luma NYC: All Tech Is Human, All Tech Is Human, Rachael Holmes"
+      "link": "https://luma.com/812fof21",
+      "map": "https://maps.google.com/?q=Intuit%20Inc%20NYC",
+      "summary": "Luma NYC: AI/ML Lecture & Networking @ NYC, Keifer Lee"
     },
     "luma_2026_10_29_designers_demo_night": {
       "title": "Designers Demo Night",
@@ -1958,13 +1959,9 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_10_29_2_pm": [
-      "gary_2026_10_29_ai_co_working_builder_demos_feedback",
-      "luma_2026_10_29_responsible_tech_summit_2026_from_principles_to_powe"
-    ],
     "cluster_2026_10_29_5_pm": [
       "gary_2026_10_29_ai_builders_speed_dating_hackathon",
-      "gary_2026_10_29_ai_ml_lecture_networking_intuit",
+      "gary_2026_10_29_ai_ml_research_colloquium",
       "nyu_tandon_2026_10_29_fre_special_seminar_jean_fran_ois_chassagneux"
     ],
     "cluster_2026_10_29_6_pm": [
@@ -1980,7 +1977,8 @@
     ],
     "cluster_2026_10_29_7_pm": [
       "gary_2026_10_29_cheat_codes_live_gtm_ai_tools_personal_branding",
-      "gary_2026_10_29_fdes_in_ai_for_science"
+      "gary_2026_10_29_fdes_in_ai_for_science",
+      "gary_2026_10_29_neuronyc_from_ai_to_brain_repair_back"
     ],
     "cluster_2026_10_30_12_pm": [
       "gary_2026_10_30_how_to_get_your_startups_finances_in_order",
@@ -1995,6 +1993,7 @@
       "jc_culture_10003575_2026_11_04_hamilton_park_farmers_market_2026"
     ],
     "cluster_2026_11_04_6_pm": [
+      "gary_2026_11_04_make_it_in_brooklyn_sustainable_materials_pitch_cont",
       "gary_2026_11_04_startup_pitch_mixer",
       "gary_2026_11_04_growth_council_off_the_record_problem_solving_for_sc",
       "gary_2026_11_04_ai_content_system",
@@ -2002,11 +2001,7 @@
     ],
     "cluster_2026_11_04_7_pm": [
       "gary_2026_11_04_ai_future_of_community",
-      "gary_2026_11_04_yale_x_afore_capital_founder_dinner"
-    ],
-    "cluster_2026_11_05_9_am": [
-      "gary_2026_11_05_the_outliers_summit",
-      "gary_2026_11_05_cra_industry_convening_ai_for_science"
+      "gary_2026_11_04_founder_dinner"
     ],
     "cluster_2026_11_04_11_am": [
       "nyu_tandon_2026_11_04_career_talk_avery_iorio_in_conversation_with_jurij_p",
