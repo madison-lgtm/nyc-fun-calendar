@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Oct 30, 2026, 12:53 PM EDT",
+    "checked": "Oct 30, 2026, 7:07 PM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -249,7 +249,6 @@
       "12 PM",
       "12:30 PM",
       "1 PM",
-      "1:30 PM",
       "2 PM",
       "2:30 PM",
       "3 PM",
@@ -1216,23 +1215,6 @@
       "map": "https://maps.google.com/?q=The%20Refinery%20at%20Domino%2C%20300%20Kent%20Ave%2C%20Brooklyn",
       "summary": "Gary's Guide: Demos by Headway, Oscar, Evvy, Norbert Health, Cleo Health."
     },
-    "luma_2026_10_30_nyc_frontier_hackathon_build_your_autonomous_code_fa": {
-      "title": "NYC Frontier Hackathon: Build your Autonomous Code Factory",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-10-30",
-      "time": "1:30 PM",
-      "sort": 13.5,
-      "when": "Fri, 10/30 · 1:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/frontierNYC2",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Obvious Community Events, Obvious, Jon Bell"
-    },
     "luma_2026_11_03_claude_code_workshop_with_tenex_nyc": {
       "title": "Claude Code Workshop with Tenex - NYC",
       "type": "tech",
@@ -1487,6 +1469,23 @@
       "link": "https://jerseycityculture.org/event/paper-architects-2026-4/",
       "map": "https://maps.google.com/?q=WEST%20BERGEN%20BRANCH%20LIBRARY%2C%20546%20WEST%20SIDE%20AVE%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
+    },
+    "jc_culture_44893_2026_10_31_blms_13th_harvest_festival_2026": {
+      "title": "BLMS 13th Harvest Festival 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-10-31",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Sat, 10/31 · 11am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "MONTICELLO AVE BTW JEWETT AND FAIRVIEW, 200 MONTICELLO AVENUE, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/blms-13th-harvest-festival-2026/",
+      "map": "https://maps.google.com/?q=MONTICELLO%20AVE%20BTW%20JEWETT%20AND%20FAIRVIEW%2C%20200%20MONTICELLO%20AVENUE%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Kids Activities Literature & Education Outdoor What's Coming Up?."
     },
     "jc_culture_44682_2026_10_31_the_annual_fall_festival_2026": {
       "title": "The Annual Fall Festival 2026",
@@ -2133,23 +2132,6 @@
       "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-14/",
       "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
-    },
-    "jc_culture_44385_2026_11_14_paper_architects_2026": {
-      "title": "Paper Architects 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 11/14 · 11am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "MILLER BRANCH LIBRARY, 489 BERGEN AVENUE, JERSEY CITY, 07304",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/paper-architects-2026-6/",
-      "map": "https://maps.google.com/?q=MILLER%20BRANCH%20LIBRARY%2C%20489%20BERGEN%20AVENUE%2C%20JERSEY%20CITY%2C%2007304",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
     }
   },
   "clusters": {
@@ -2226,6 +2208,10 @@
     "cluster_2026_10_31_9_am": [
       "jc_culture_44704_2026_10_31_haunted_jersey_city_halloween_5k_2026",
       "jc_culture_10005077_2026_10_31_toy_drive_donations_2026"
+    ],
+    "cluster_2026_10_31_11_am": [
+      "jc_culture_44378_2026_10_31_paper_architects_2026",
+      "jc_culture_44893_2026_10_31_blms_13th_harvest_festival_2026"
     ]
   }
 }
