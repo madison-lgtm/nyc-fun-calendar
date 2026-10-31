@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Oct 30, 2026, 7:07 PM EDT",
+    "checked": "Oct 31, 2026, 11:54 AM EDT",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-10-30",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Oct 30"
-      },
       {
         "iso": "2026-10-31",
         "key": "Sat",
@@ -45,15 +39,15 @@
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 5"
+      },
+      {
+        "iso": "2026-11-06",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Nov 6"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-10-30",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Oct 30"
-      },
       {
         "iso": "2026-10-31",
         "key": "Sat",
@@ -233,9 +227,15 @@
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
+      },
+      {
+        "iso": "2026-11-30",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Nov 30"
       }
     ],
-    "todayKey": "Fri",
+    "todayKey": "Sat",
     "times": [
       "7 AM",
       "8 AM",
@@ -739,6 +739,23 @@
       "map": "https://maps.google.com/?q=Modal%20HQ%2C%20233%20Spring%20St",
       "summary": "Gary's Guide: Join us in New York at the Modal office for an evening dedicated to the builders behind modern AI. From real-world use cases to the infrastructure powering large-scale systems, AI Night brings together engineers, data practitioners, & founders shaping how AI is built & deployed today. Brought to you by ClickHouse & Modal! Current Agenda: 5:00 PM: Arrivals, Check-In & Networking 5:50 PM: Welcome & Introductions + Food & Drink 5:55 - 6:20PM: Speaker TBD 6:20 - 6:45 PM: Speaker TBD 6:45 - 7:10 PM: Speaker TBD 7:30 - 8:30 PM: Q&A, Networking 8:30 PM: Meetup Concludes"
     },
+    "gary_2026_11_03_stamford_ai_meetup_open_mic_night": {
+      "title": "Stamford AI Meetup - Open Mic Night",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-11-03",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Tue, 11/03 · 5:30pm",
+      "price": "$12",
+      "free": false,
+      "place": "Point Cafe, 2200 Atlantic St, Cafeteria, Stamford",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/qzcpdux/Stamford-AI-Meetup-Open-Mic-Night",
+      "map": "https://maps.google.com/?q=Point%20Cafe%2C%202200%20Atlantic%20St%2C%20Cafeteria%2C%20Stamford",
+      "summary": "Gary's Guide: Come & share what you've been working on. Or pose a question to the room & start a group conversation on a topic you're interested in learning more about. Open Mic Night is a chance for you to get up in front of the audience & show us what you're workin' with (or on). Bring your laptop, if you'd like, or just ask a question. We'll open the floor for answers. (No bogarting the mic - you'll have a max 5 minutes to express yourself.)"
+    },
     "gary_2026_11_03_ai_founder_funder_mixer": {
       "title": "AI Founder-Funder Mixer",
       "type": "tech",
@@ -1198,23 +1215,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Hardware petting zoo, 5 min lightning demos, rogue builder showcases."
     },
-    "gary_2026_11_05_nyc_ai_demos_health_tech": {
-      "title": "NYC AI Demos - Health Tech",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-11-05",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 11/05 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "The Refinery at Domino, 300 Kent Ave, Brooklyn",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/k1uwww2/NYC-AI-Demos-Health-Tech",
-      "map": "https://maps.google.com/?q=The%20Refinery%20at%20Domino%2C%20300%20Kent%20Ave%2C%20Brooklyn",
-      "summary": "Gary's Guide: Demos by Headway, Oscar, Evvy, Norbert Health, Cleo Health."
-    },
     "luma_2026_11_03_claude_code_workshop_with_tenex_nyc": {
       "title": "Claude Code Workshop with Tenex - NYC",
       "type": "tech",
@@ -1265,40 +1265,6 @@
       "link": "https://luma.com/agentics-bos4",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Agentics NYC, Nori Agentic, Jesse Vincent, Ethan Zou, MongoDB"
-    },
-    "nyu_tandon_2026_10_30_design_principle_oriented_enzyme_engineering_mutexa_": {
-      "title": "Design Principle-Oriented Enzyme Engineering: Mutexa Platform and Applications",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Fri",
-      "date": "2026-10-30",
-      "time": "10:45 AM",
-      "sort": 10.75,
-      "when": "Fri, 10/30 · 10:45 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/10/30/design-principle-oriented-enzyme-engineering-mutexa-platform-and-applications",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_10_30_iaqf_industry_day": {
-      "title": "IAQF Industry Day",
-      "type": "tech",
-      "label": "Career Development,",
-      "day": "Fri",
-      "date": "2026-10-30",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Fri, 10/30 · 12:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/10/30/iaqf-industry-day",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Career Development,"
     },
     "nyu_tandon_2026_11_03_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1368,39 +1334,56 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
-    "jc_culture_10005076_2026_10_30_toy_drive_donations_2026": {
-      "title": "Toy Drive Donations 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-10-30",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Fri, 10/30 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-10-30/",
-      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
-    },
-    "jc_culture_44473_2026_10_30_jcpd_south_district_trunk_or_treat_2026": {
-      "title": "JCPD South District Trunk or Treat 2026",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Fri",
-      "date": "2026-10-30",
+    "nyu_tandon_2026_11_05_generative_ai_and_diffusion_models_a_statistical_phy": {
+      "title": "Generative AI and Diffusion Models: A Statistical Physics Perspective with Giulio Biroli",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Thu",
+      "date": "2026-11-05",
       "time": "4 PM",
       "sort": 16,
-      "when": "Fri, 10/30 · 4pm",
+      "when": "Thu, 11/05 · 4:00 PM",
       "price": "Free / varies",
       "free": true,
-      "place": "PS #41 MARTIN CENTER FOR THE ARTS, 59 WILKINSON AVENUE, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/jcpd-south-district-trunk-or-treat-2026/",
-      "map": "https://maps.google.com/?q=PS%20%2341%20MARTIN%20CENTER%20FOR%20THE%20ARTS%2C%2059%20WILKINSON%20AVENUE%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Kids Activities Outdoor What's Coming Up?."
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/05/generative-ai-and-diffusion-models-statistical-physics-perspective-giulio-biroli",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_11_05_columbia_nyu_financial_engineering_colloquium": {
+      "title": "Columbia-NYU Financial Engineering Colloquium",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Thu",
+      "date": "2026-11-05",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Thu, 11/05 · 4:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/05/columbia-nyu-financial-engineering-colloquium",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_11_06_from_microstructure_to_micronutrients_x_ray_capabili": {
+      "title": "From Microstructure to Micronutrients: X-ray Capabilities and Opportunities at the Cornell High Energy Synchrotron Source",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Fri",
+      "date": "2026-11-06",
+      "time": "10:45 AM",
+      "sort": 10.75,
+      "when": "Fri, 11/06 · 10:45 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/06/microstructure-micronutrients-x-ray-capabilities-and-opportunities-cornell-high",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
     },
     "jc_culture_44704_2026_10_31_haunted_jersey_city_halloween_5k_2026": {
       "title": "Haunted Jersey City Halloween 5K 2026",
@@ -2132,6 +2115,40 @@
       "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-14/",
       "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
+    },
+    "jc_culture_44385_2026_11_14_paper_architects_2026": {
+      "title": "Paper Architects 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Sat, 11/14 · 11am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "MILLER BRANCH LIBRARY, 489 BERGEN AVENUE, JERSEY CITY, 07304",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/paper-architects-2026-6/",
+      "map": "https://maps.google.com/?q=MILLER%20BRANCH%20LIBRARY%2C%20489%20BERGEN%20AVENUE%2C%20JERSEY%20CITY%2C%2007304",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
+    },
+    "jc_culture_44460_2026_11_14_global_music_workshop_2026": {
+      "title": "Global Music Workshop 2026",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Sat, 11/14 · 11am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "PERSHING FIELD PARK, 201 CENTRAL AVE, JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/global-music-workshop-2026/",
+      "map": "https://maps.google.com/?q=PERSHING%20FIELD%20PARK%2C%20201%20CENTRAL%20AVE%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
     }
   },
   "clusters": {
@@ -2143,10 +2160,6 @@
     "cluster_2026_06_11_12_pm": [
       "juggling",
       "ted_rosenthal"
-    ],
-    "cluster_2026_10_30_12_pm": [
-      "gary_2026_10_30_how_to_get_your_startups_finances_in_order",
-      "nyu_tandon_2026_10_30_iaqf_industry_day"
     ],
     "cluster_2026_11_02_6_pm": [
       "gary_2026_11_02_ugly_talks_failure_is_key_to_success",
@@ -2198,12 +2211,15 @@
       "gary_2026_11_05_pitch_night_benefit_supporting_women_entrepreneurs",
       "gary_2026_11_05_the_builder_series_founder_investor_operator_nights",
       "gary_2026_11_05_ai_future_of_life_sciences",
-      "gary_2026_11_05_not_so_boring_ai_mixer",
-      "gary_2026_11_05_nyc_ai_demos_health_tech"
+      "gary_2026_11_05_not_so_boring_ai_mixer"
     ],
     "cluster_2026_11_04_11_am": [
       "nyu_tandon_2026_11_04_career_talk_avery_iorio_in_conversation_with_jurij_p",
       "nyu_tandon_2026_11_04_instructional_tech_drop_in_sessions"
+    ],
+    "cluster_2026_11_05_4_pm": [
+      "nyu_tandon_2026_11_05_generative_ai_and_diffusion_models_a_statistical_phy",
+      "nyu_tandon_2026_11_05_columbia_nyu_financial_engineering_colloquium"
     ],
     "cluster_2026_10_31_9_am": [
       "jc_culture_44704_2026_10_31_haunted_jersey_city_halloween_5k_2026",
@@ -2212,6 +2228,10 @@
     "cluster_2026_10_31_11_am": [
       "jc_culture_44378_2026_10_31_paper_architects_2026",
       "jc_culture_44893_2026_10_31_blms_13th_harvest_festival_2026"
+    ],
+    "cluster_2026_11_14_11_am": [
+      "jc_culture_44385_2026_11_14_paper_architects_2026",
+      "jc_culture_44460_2026_11_14_global_music_workshop_2026"
     ]
   }
 }
