@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Nov 1, 2026, 11:57 AM EST",
+    "checked": "Nov 1, 2026, 5:58 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -259,6 +259,7 @@
       "6:30 PM",
       "7 PM",
       "7:30 PM",
+      "9 PM",
       "11 PM"
     ]
   },
@@ -449,40 +450,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "gary_2026_10_31_stranger_builds_halloween_hackathon": {
-      "title": "Stranger Builds - Halloween Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Sat",
-      "date": "2026-10-31",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 10/31 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/m88xjgi/Stranger-Builds-Halloween-Hackathon",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: $10K in prizes."
-    },
-    "gary_2026_10_31_red_carpet_room_launch_party": {
-      "title": "Red Carpet Room Launch Party",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sat",
-      "date": "2026-10-31",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Sat, 10/31 · 7:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Cafe Studio, 195 Chrystie St, 102W",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/c9xz0ok/Red-Carpet-Room-Launch-Party",
-      "map": "https://maps.google.com/?q=Cafe%20Studio%2C%20195%20Chrystie%20St%2C%20102W",
-      "summary": "Gary's Guide: Mixer for founders, creators & investors."
     },
     "gary_2026_11_01_jersey_city_claude_code_workshop": {
       "title": "Jersey City - Claude Code Workshop",
@@ -1214,6 +1181,40 @@
       "link": "https://www.garysguide.com/events/8ia6vqa/Cloaked-Presents-Robot-vs-Human-The-NYC-Comedy-Battle",
       "map": "https://maps.google.com/?q=Greenwich%20Village%20Comedy%20Club%2C%2099%20Macdougal%20St",
       "summary": "Gary's Guide: With Sienna Hubert-Ross (Netflix's Almost Love), Sachin Shaan, Ali Mehedi, Erik B."
+    },
+    "gary_2026_11_05_founder_investor_happy_hour": {
+      "title": "Founder Investor Happy Hour",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-11-05",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Thu, 11/05 · 7:00pm",
+      "price": "Varies",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/w7686js/Founder-Investor-Happy-Hour",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Privy & Introductioncom."
+    },
+    "gary_2026_11_05_offline_no_phones_party": {
+      "title": "Offline - No-Phones Party",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-11-05",
+      "time": "9 PM",
+      "sort": 21,
+      "when": "Thu, 11/05 · 9:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, 130 E 57th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/skti3nr/Offline-No-Phones-Party",
+      "map": "https://maps.google.com/?q=Venue%2C%20130%20E%2057th%20St",
+      "summary": "Gary's Guide: With Andrew Yang (Founder, Noble Mobile & Forward Party)."
     },
     "luma_2026_11_03_claude_code_workshop_with_tenex_nyc": {
       "title": "Claude Code Workshop with Tenex - NYC",
@@ -2236,6 +2237,7 @@
       "gary_2026_11_05_borderless_office_identity_access_in_world_of_remote",
       "gary_2026_11_05_founder_poker_night",
       "gary_2026_11_05_cloaked_presents_robot_vs_human_the_nyc_comedy_battl",
+      "gary_2026_11_05_founder_investor_happy_hour",
       "jc_culture_44803_2026_11_05_speranza_presents_petticoat_patriots_play_2026"
     ],
     "cluster_2026_11_04_11_pm": [
