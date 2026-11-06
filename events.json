@@ -1,47 +1,47 @@
 {
   "meta": {
-    "checked": "Nov 5, 2026, 1:23 PM EST",
+    "checked": "Nov 5, 2026, 7:30 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
-        "iso": "2026-11-05",
+        "iso": "2026-11-06",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 5"
       },
       {
-        "iso": "2026-11-06",
+        "iso": "2026-11-07",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 6"
       },
       {
-        "iso": "2026-11-07",
+        "iso": "2026-11-08",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 7"
       },
       {
-        "iso": "2026-11-08",
+        "iso": "2026-11-09",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 8"
       },
       {
-        "iso": "2026-11-09",
+        "iso": "2026-11-10",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 9"
       },
       {
-        "iso": "2026-11-10",
+        "iso": "2026-11-11",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 10"
       },
       {
-        "iso": "2026-11-11",
+        "iso": "2026-11-12",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 11"
@@ -49,187 +49,187 @@
     ],
     "monthDays": [
       {
-        "iso": "2026-11-05",
+        "iso": "2026-11-06",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 5"
       },
       {
-        "iso": "2026-11-06",
+        "iso": "2026-11-07",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 6"
       },
       {
-        "iso": "2026-11-07",
+        "iso": "2026-11-08",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 7"
       },
       {
-        "iso": "2026-11-08",
+        "iso": "2026-11-09",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 8"
       },
       {
-        "iso": "2026-11-09",
+        "iso": "2026-11-10",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 9"
       },
       {
-        "iso": "2026-11-10",
+        "iso": "2026-11-11",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 10"
       },
       {
-        "iso": "2026-11-11",
+        "iso": "2026-11-12",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 11"
       },
       {
-        "iso": "2026-11-12",
+        "iso": "2026-11-13",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 12"
       },
       {
-        "iso": "2026-11-13",
+        "iso": "2026-11-14",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 13"
       },
       {
-        "iso": "2026-11-14",
+        "iso": "2026-11-15",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 14"
       },
       {
-        "iso": "2026-11-15",
+        "iso": "2026-11-16",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 15"
       },
       {
-        "iso": "2026-11-16",
+        "iso": "2026-11-17",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 16"
       },
       {
-        "iso": "2026-11-17",
+        "iso": "2026-11-18",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 17"
       },
       {
-        "iso": "2026-11-18",
+        "iso": "2026-11-19",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 18"
       },
       {
-        "iso": "2026-11-19",
+        "iso": "2026-11-20",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 19"
       },
       {
-        "iso": "2026-11-20",
+        "iso": "2026-11-21",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 20"
       },
       {
-        "iso": "2026-11-21",
+        "iso": "2026-11-22",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 21"
       },
       {
-        "iso": "2026-11-22",
+        "iso": "2026-11-23",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 22"
       },
       {
-        "iso": "2026-11-23",
+        "iso": "2026-11-24",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
       },
       {
-        "iso": "2026-11-24",
+        "iso": "2026-11-25",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-26",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-27",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-28",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-29",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-30",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-12-01",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-12-02",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-03",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-04",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-05",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-06",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
@@ -259,7 +259,6 @@
       "6 PM",
       "6:30 PM",
       "7 PM",
-      "7:30 PM",
       "8 PM",
       "9 PM",
       "11 PM",
@@ -1234,7 +1233,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/nyc12",
       "map": "https://maps.google.com/?q=The%20Refinery%20at%20Domino%20Offices%20NYC",
-      "summary": "Luma NYC: Pensar, Kyle Bhiro, Caroline McKechnie, Michaella Solar-March"
+      "summary": "Luma NYC: Pensar, Kyle Bhiro, Tech NYC, Two Trees"
     },
     "luma_2026_11_05_vibe_coding_for_designers": {
       "title": "Vibe Coding for Designers",
@@ -1405,57 +1404,6 @@
       "link": "https://engineering.nyu.edu/events/2026/11/12/multi-agent-dynamical-systems-asymmetric-information-and-elements-learning",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_10005043_2026_11_05_toy_drive_donations_2026": {
-      "title": "Toy Drive Donations 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Thu",
-      "date": "2026-11-05",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Thu, 11/05 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-05/",
-      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
-    },
-    "jc_culture_44803_2026_11_05_speranza_presents_petticoat_patriots_play_2026": {
-      "title": "Speranza Presents Petticoat Patriots Play 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Thu",
-      "date": "2026-11-05",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Thu, 11/05 · 7pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/speranza-presents-petticoat-patriots-play-2026/",
-      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_43584_2026_11_05_flame_the_experience_2026": {
-      "title": "Flame (The Experience) 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Thu",
-      "date": "2026-11-05",
-      "time": "7:30 PM",
-      "sort": 19.5,
-      "when": "Thu, 11/05 · 7:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "ART HOUSE, 345 MARIN BLVD, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/flame-the-experience-2026/",
-      "map": "https://maps.google.com/?q=ART%20HOUSE%2C%20345%20MARIN%20BLVD%2C%20JERSEY%20CITY",
-      "summary": "Flame (The Experience) for a one night only event presented by Ruby Hawk Productions and Art House Productions in Jersey City, New Jersey. Based on Brown’s 2021 poetry collection Flame, which tells the story of a failed twin flame romance, Flame (The Experience) takes the poetry off the page and brings it to life through a sizzling, multi-sensory theatrical experience told through sight, sound, monologues, and movement."
     },
     "jc_culture_10005044_2026_11_06_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -2170,6 +2118,57 @@
       "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-25/",
       "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
+    },
+    "jc_culture_10003578_2026_11_25_hamilton_park_farmers_market_2026": {
+      "title": "Hamilton Park Farmers Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-11-25",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 11/25 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026/2026-11-25/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_10005064_2026_11_26_toy_drive_donations_2026": {
+      "title": "Toy Drive Donations 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-11-26",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Thu, 11/26 · 9am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-26/",
+      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
+    },
+    "jc_culture_10005065_2026_11_27_toy_drive_donations_2026": {
+      "title": "Toy Drive Donations 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-11-27",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Fri, 11/27 · 9am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-27/",
+      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
     }
   },
   "clusters": {
@@ -2184,8 +2183,7 @@
     ],
     "cluster_2026_11_05_9_am": [
       "gary_2026_11_05_the_outliers_summit",
-      "gary_2026_11_05_cra_industry_convening_ai_for_science",
-      "jc_culture_10005043_2026_11_05_toy_drive_donations_2026"
+      "gary_2026_11_05_cra_industry_convening_ai_for_science"
     ],
     "cluster_2026_11_05_12_pm": [
       "gary_2026_11_05_awake_alive",
@@ -2219,8 +2217,7 @@
       "gary_2026_11_05_borderless_office_identity_access_in_world_of_remote",
       "gary_2026_11_05_founder_poker_night",
       "gary_2026_11_05_cloaked_presents_robot_vs_human_the_nyc_comedy_battl",
-      "gary_2026_11_05_founder_investor_happy_hour",
-      "jc_culture_44803_2026_11_05_speranza_presents_petticoat_patriots_play_2026"
+      "gary_2026_11_05_founder_investor_happy_hour"
     ],
     "cluster_2026_11_06_6_pm": [
       "gary_2026_11_06_how_ai_civics_can_build_public_power_over_tech_w_dat",
