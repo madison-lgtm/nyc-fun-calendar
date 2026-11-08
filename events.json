@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Nov 8, 2026, 11:52 AM EST",
+    "checked": "Nov 8, 2026, 6:02 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -259,6 +259,7 @@
       "6:30 PM",
       "7 PM",
       "8 PM",
+      "10:30 PM",
       "11 PM"
     ]
   },
@@ -1333,6 +1334,23 @@
       "link": "https://luma.com/juntodinnernov9",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Andrew's Yeung's Tech Events, Andrew Yeung"
+    },
+    "luma_2026_11_12_deep_tech_robotics_mixer_nyc": {
+      "title": "Deep Tech & Robotics Mixer (NYC)",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-11-12",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Thu, 11/12 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "One and One",
+      "source": "Luma NYC",
+      "link": "https://luma.com/fway383v",
+      "map": "https://maps.google.com/?q=One%20and%20One%20NYC",
+      "summary": "Luma NYC: The Circle, The Circle, Rebecca Dummit"
     },
     "nyu_tandon_2026_11_09_mapping_genetic_interactions_at_scale_with_active_pe": {
       "title": "Mapping Genetic Interactions at Scale with Active Perturb-seq",
