@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Nov 8, 2026, 6:02 PM EST",
+    "checked": "Nov 9, 2026, 4:12 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-11-08",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Nov 8"
-      },
       {
         "iso": "2026-11-09",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 14"
+      },
+      {
+        "iso": "2026-11-15",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Nov 15"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-11-08",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Nov 8"
-      },
       {
         "iso": "2026-11-09",
         "key": "Mon",
@@ -233,10 +227,17 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
+      },
+      {
+        "iso": "2026-12-09",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Dec 9"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
+      "6:30 AM",
       "7 AM",
       "8:30 AM",
       "9 AM",
@@ -451,41 +452,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_93075_0_the_second_annual_nyc_indie_horror_book_fair": {
-      "title": "the second annual nyc indie horror book fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-11-07",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 11/07 · 12-6pm",
-      "price": "$5",
-      "free": false,
-      "place": "gottscheer hall (ridgewood), $5",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/the-2nd-annual-nyc-indie-horror-book-fair-tickets-2001191927927",
-      "map": "https://maps.google.com/?q=gottscheer%20hall%20(ridgewood)%2C%20%245%20NYC",
-      "summary": "markets and pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-6pm: the second annual nyc indie horror book fair: gottscheer hall (ridgewood), $5."
-    },
-    "skint_93075_1_mindful_matter_market": {
-      "title": "mindful matter market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-11-07",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sat, 11/07 · + sun (1-7pm)",
-      "price": "$15",
-      "free": false,
-      "place": "327 w 36th st, 6th floor",
-      "source": "The Skint",
-      "link": "https://mindfulmattermarket.com/",
-      "map": "https://maps.google.com/?q=327%20w%2036th%20st%2C%206th%20floor%20NYC",
-      "summary": "markets and pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun (1-7pm): mindful matter market: 327 w 36th st, 6th floor. $15."
-    },
-    "skint_93075_2_grand_central_holiday_fair": {
+    "skint_93075_0_grand_central_holiday_fair": {
       "title": "grand central holiday fair",
       "type": "market",
       "label": "Festival / Market",
@@ -502,24 +469,7 @@
       "map": "https://maps.google.com/?q=grand%20central%20terminal%E2%80%99s%20vanderbilt%20hall%20(midtown%20east)%20NYC",
       "summary": "markets and pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: mon thru 12/24: grand central holiday fair: grand central terminal’s vanderbilt hall (midtown east)."
     },
-    "skint_93075_3_the_36th_new_italian_cinema_events_n_i_c_e_festival": {
-      "title": "the 36th new italian cinema events (n.i.c.e.) festival",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sat",
-      "date": "2026-11-07",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Sat, 11/07 · 4pm (+ 11/16 8pm)",
-      "price": "Free admission",
-      "free": true,
-      "place": "italian cultural institute (sat) and nyu’s cantor film center (11/16)",
-      "source": "The Skint",
-      "link": "https://www.nicefestival.org/en/nice-festival-usa/",
-      "map": "https://maps.google.com/?q=italian%20cultural%20institute%20(sat)%20and%20nyu%E2%80%99s%20cantor%20film%20center%20(11%2F16)%20NYC",
-      "summary": "film fests / series. Pulled from The Skint's public article feed: sat 4pm (+ 11/16 8pm): the 36th new italian cinema events (n.i.c.e.) festival: italian cultural institute (sat) and nyu’s cantor film center (11/16). free admission."
-    },
-    "skint_93075_4_the_brooklyn_silent_film_festival": {
+    "skint_93075_1_the_brooklyn_silent_film_festival": {
       "title": "the brooklyn silent film festival",
       "type": "entertainment",
       "label": "Music / Movies",
@@ -841,6 +791,23 @@
       "link": "https://www.garysguide.com/events/ohe8f5w/Diwali-South-Asian-Founders-VCs-Mixer",
       "map": "https://maps.google.com/?q=Venue%2C%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Oasis & Inception Capital."
+    },
+    "gary_2026_11_11_fintech_coffee_w_masschallenge": {
+      "title": "FinTech Coffee w/ MassChallenge",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-11-11",
+      "time": "8:30 AM",
+      "sort": 8.5,
+      "when": "Wed, 11/11 · 8:30am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/e33e8fa/FinTech-Coffee-w-MassChallenge",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Start your morning with the NYC fintech community.The NYC FinTech Community Coffee brings together founders, operators, investors & corporate innovators for an easy morning of conversation, new connections & a candid look at where fintech investment is heading.Come for the coffee & leave with a few new people in your network who are building, funding or partnering in fintech.What to expectNetworking: Meet early & growth-stage founders, investors, & innovation leaders from banks, insurers & financial services firms.Investor panel: A conversation with active fintech investors on what theyre funding now, what makes a founder stand out, & where they see the biggest opportunities over the next year.Audience Q&A: Ask your own questions to the panel.MassChallenge FinTech programs: Learn about the fintech accelerators MassChallenge is running, including the 2027 FinTech Challenge Program & the SMU Cox FinTech Accelerator in Dallas.Agenda8:30 AM: Coffee, breakfast & networking9:15 AM: Investor panel & Q&A10:00 AM: Open networking, plus an overview of MassChallenge FinTech programs10:30 AM: CloseWho should attendFintech founders raising now or planning to raiseStartups interested in corporate pilots & accelerator programsInvestors focused on fintech, insurtech & financial infrastructureCorporate innovation & partnership leaders in financial servicesOperators & builders in the NYC fintech ecosystemLocation: Chelsea. Well share the exact venue with registered guests before the event.Space is limited, & registration is required. Approved guests will get venue details by email.About MassChallenge FinTechMassChallenge is a global nonprofit that supports high-impact startups through zero-equity accelerator programs. MassChallenge FinTech connects fintech founders with corporate partners, investors & experts to help them grow."
     },
     "gary_2026_11_11_mental_health_tech_summit": {
       "title": "Mental Health Tech Summit",
@@ -1284,40 +1251,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Farzad Khosravi (Fractional COO/CPO)."
     },
-    "gary_2026_11_12_pmai_sell_me_this_ai_no_bs_sales_workshop": {
-      "title": "[PMAI] Sell Me This AI - No BS Sales Workshop",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-11-12",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 11/12 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/plh6p8d/-PMAI-Sell-Me-This-AI-No-BS-Sales-Workshop",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Farzad Khosravi (COO/CPO, Fractional)."
-    },
-    "luma_2026_11_08_sundays_storytelling_night_for_nyc_s_creatives_and_f": {
-      "title": "sundays: storytelling night for nyc's creatives and founders",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sun",
-      "date": "2026-11-08",
-      "time": "11 PM",
-      "sort": 23,
-      "when": "Sun, 11/08 · 11pm",
-      "price": "$10",
-      "free": false,
-      "place": "Verci Flatiron",
-      "source": "Luma NYC",
-      "link": "https://luma.com/j1x7hde4",
-      "map": "https://maps.google.com/?q=Verci%20Flatiron%20NYC",
-      "summary": "Luma NYC: Creative Coffee Club, Verci"
-    },
     "luma_2026_11_09_junto_founder_dinner_hosted_by_andrew_friends": {
       "title": "Junto Founder Dinner (Hosted by Andrew & Friends)",
       "type": "startup",
@@ -1351,6 +1284,23 @@
       "link": "https://luma.com/fway383v",
       "map": "https://maps.google.com/?q=One%20and%20One%20NYC",
       "summary": "Luma NYC: The Circle, The Circle, Rebecca Dummit"
+    },
+    "luma_2026_11_12_stacked_dinner_on_the_agentic_data_stack": {
+      "title": "Stacked: Dinner on the Agentic Data Stack",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-11-12",
+      "time": "11 PM",
+      "sort": 23,
+      "when": "Thu, 11/12 · 11pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/8mdpbcks",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: ClickHouse Events, ClickHouse Events"
     },
     "nyu_tandon_2026_11_09_mapping_genetic_interactions_at_scale_with_active_pe": {
       "title": "Mapping Genetic Interactions at Scale with Active Perturb-seq",
@@ -1386,6 +1336,23 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
+    "nyu_tandon_2026_11_10_vulnerability_and_resilience_of_traffic_networks_con": {
+      "title": "Vulnerability and Resilience of Traffic Networks: Concepts, Approaches, and Recent Developments",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Tue",
+      "date": "2026-11-10",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Tue, 11/10 · 1:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/10/vulnerability-and-resilience-traffic-networks-concepts-approaches-and-recent",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
     "nyu_tandon_2026_11_11_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
       "type": "tech",
@@ -1402,6 +1369,23 @@
       "link": "https://engineering.nyu.edu/events/2026/11/11/instructional-tech-drop-sessions",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
+    },
+    "nyu_tandon_2026_11_11_ai_in_financial_services_executive_panel_capgemini_x": {
+      "title": "AI in Financial Services Executive Panel: Capgemini x NYU Tandon",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Wed",
+      "date": "2026-11-11",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Wed, 11/11 · 5:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/11/ai-financial-services-executive-panel-capgemini-x-nyu-tandon",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
     },
     "nyu_tandon_2026_11_12_multi_agent_dynamical_systems_with_asymmetric_inform": {
       "title": "Multi-Agent Dynamical Systems with Asymmetric Information and with Elements of Learning",
@@ -1470,125 +1454,6 @@
       "link": "https://engineering.nyu.edu/events/2026/11/13/mechanism-quiescent-nanoplastic-formation-semicrystalline-polymers",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_11_13_wikipedia_for_academics": {
-      "title": "Wikipedia for Academics",
-      "type": "tech",
-      "label": "Workshop / Training",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Fri, 11/13 · 1:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/13/wikipedia-academics",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Workshop / Training"
-    },
-    "jc_culture_10005046_2026_11_08_toy_drive_donations_2026": {
-      "title": "Toy Drive Donations 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-11-08",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sun, 11/08 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-08/",
-      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
-    },
-    "jc_culture_44873_2026_11_08_smush_artist_workshops_2026": {
-      "title": "SMUSH Artist Workshops 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-11-08",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 11/08 · 12pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/smush-artist-workshops-2026/",
-      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Literature & Education What's Coming Up?."
-    },
-    "jc_culture_38245_2026_11_08_repair_cafe_2026": {
-      "title": "Repair Cafe 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-11-08",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Sun, 11/08 · 1pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Grace Church Van Vorst, 39 Erie Street, Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/repair-cafe-2026-3/",
-      "map": "https://maps.google.com/?q=Grace%20Church%20Van%20Vorst%2C%2039%20Erie%20Street%2C%20Jersey%20City",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
-    },
-    "jc_culture_44814_2026_11_08_speranza_presents_petticoat_patriots_play_2026": {
-      "title": "Speranza Presents Petticoat Patriots Play 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-11-08",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sun, 11/08 · 2pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/speranza-presents-petticoat-patriots-play-2026-4/",
-      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_44816_2026_11_08_speranza_presents_petticoat_patriots_play_2026": {
-      "title": "Speranza Presents Petticoat Patriots Play 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-11-08",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Sun, 11/08 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/speranza-presents-petticoat-patriots-play-2026-5/",
-      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_43692_2026_11_08_smush_gallery_work_share_monthly_artist_feedback_ses": {
-      "title": "Smush Gallery Work / Share Monthly Artist Feedback Sessions 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-11-08",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Sun, 11/08 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/smush-gallery-work-share-monthly-artist-feedback-sessions-2026-3/",
-      "map": "https://maps.google.com/?q=Jersey+City+events",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community."
     },
     "jc_culture_10005047_2026_11_09_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -1878,6 +1743,40 @@
       "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-17/",
       "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
+    },
+    "jc_culture_45047_2026_11_17_great_sports_stories_of_jersey_city_1889_1989": {
+      "title": "Great Sports Stories of Jersey City 1889-1989",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Tue",
+      "date": "2026-11-17",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 11/17 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/great-sports-stories-of-jersey-city-1889-1989/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community History What's Coming Up?."
+    },
+    "jc_culture_45049_2026_11_18_the_triangle_fire_2026": {
+      "title": "The Triangle Fire 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "time": "6:30 AM",
+      "sort": 6.5,
+      "when": "Wed, 11/18 · 6:30am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/the-triangle-fire-2026/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Literature & Education What's Coming Up?."
     },
     "jc_culture_10005056_2026_11_18_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -2252,6 +2151,74 @@
       "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-12-04/",
       "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
+    },
+    "jc_culture_10005073_2026_12_05_toy_drive_donations_2026": {
+      "title": "Toy Drive Donations 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-12-05",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Sat, 12/05 · 9am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-12-05/",
+      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
+    },
+    "jc_culture_44389_2026_12_05_paper_architects_2026": {
+      "title": "Paper Architects 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-12-05",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Sat, 12/05 · 11am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "JERSEY CITY PUBLIC LIBRARY LAFAYETTE BRANCH, 307 PACIFIC AVENUE, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/paper-architects-2026-7/",
+      "map": "https://maps.google.com/?q=JERSEY%20CITY%20PUBLIC%20LIBRARY%20LAFAYETTE%20BRANCH%2C%20307%20PACIFIC%20AVENUE%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
+    },
+    "jc_culture_44744_2026_12_05_happy_holiday_market_2026": {
+      "title": "Happy Holiday Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Sat",
+      "date": "2026-12-05",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Sat, 12/05 · 11am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Jersey City",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/happy-holiday-market-2026/",
+      "map": "https://maps.google.com/?q=Jersey+City+events",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Outdoor What's Coming Up?."
+    },
+    "jc_culture_10005074_2026_12_06_toy_drive_donations_2026": {
+      "title": "Toy Drive Donations 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sun",
+      "date": "2026-12-06",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Sun, 12/06 · 9am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-12-06/",
+      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
     }
   },
   "clusters": {
@@ -2297,7 +2264,8 @@
     ],
     "cluster_2026_11_11_5_pm": [
       "gary_2026_11_11_ai_build_lab_for_founders",
-      "gary_2026_11_11_female_founders_funders"
+      "gary_2026_11_11_female_founders_funders",
+      "nyu_tandon_2026_11_11_ai_in_financial_services_executive_panel_capgemini_x"
     ],
     "cluster_2026_11_11_6_pm": [
       "gary_2026_11_11_startup_founders_investors_talent_mixer",
@@ -2323,12 +2291,15 @@
     ],
     "cluster_2026_11_12_6_pm": [
       "gary_2026_11_12_gen_z_founder_creator_mixer",
-      "gary_2026_11_12_sell_me_this_ai_no_bs_sales_workshop",
-      "gary_2026_11_12_pmai_sell_me_this_ai_no_bs_sales_workshop"
+      "gary_2026_11_12_sell_me_this_ai_no_bs_sales_workshop"
     ],
     "cluster_2026_11_14_11_am": [
       "jc_culture_44385_2026_11_14_paper_architects_2026",
       "jc_culture_44460_2026_11_14_global_music_workshop_2026"
+    ],
+    "cluster_2026_12_05_11_am": [
+      "jc_culture_44389_2026_12_05_paper_architects_2026",
+      "jc_culture_44744_2026_12_05_happy_holiday_market_2026"
     ]
   }
 }
