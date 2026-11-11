@@ -1,241 +1,241 @@
 {
   "meta": {
-    "checked": "Nov 10, 2026, 7:12 PM EST",
+    "checked": "Nov 11, 2026, 1:13 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
         "iso": "2026-11-11",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Nov 10"
-      },
-      {
-        "iso": "2026-11-12",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 11"
       },
       {
-        "iso": "2026-11-13",
+        "iso": "2026-11-12",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 12"
       },
       {
-        "iso": "2026-11-14",
+        "iso": "2026-11-13",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 13"
       },
       {
-        "iso": "2026-11-15",
+        "iso": "2026-11-14",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 14"
       },
       {
-        "iso": "2026-11-16",
+        "iso": "2026-11-15",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 15"
       },
       {
-        "iso": "2026-11-17",
+        "iso": "2026-11-16",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 16"
+      },
+      {
+        "iso": "2026-11-17",
+        "key": "Tue",
+        "label": "Tue",
+        "date": "Nov 17"
       }
     ],
     "monthDays": [
       {
         "iso": "2026-11-11",
-        "key": "Tue",
-        "label": "Tue",
-        "date": "Nov 10"
-      },
-      {
-        "iso": "2026-11-12",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 11"
       },
       {
-        "iso": "2026-11-13",
+        "iso": "2026-11-12",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 12"
       },
       {
-        "iso": "2026-11-14",
+        "iso": "2026-11-13",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 13"
       },
       {
-        "iso": "2026-11-15",
+        "iso": "2026-11-14",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 14"
       },
       {
-        "iso": "2026-11-16",
+        "iso": "2026-11-15",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 15"
       },
       {
-        "iso": "2026-11-17",
+        "iso": "2026-11-16",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 16"
       },
       {
-        "iso": "2026-11-18",
+        "iso": "2026-11-17",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 17"
       },
       {
-        "iso": "2026-11-19",
+        "iso": "2026-11-18",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 18"
       },
       {
-        "iso": "2026-11-20",
+        "iso": "2026-11-19",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 19"
       },
       {
-        "iso": "2026-11-21",
+        "iso": "2026-11-20",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 20"
       },
       {
-        "iso": "2026-11-22",
+        "iso": "2026-11-21",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 21"
       },
       {
-        "iso": "2026-11-23",
+        "iso": "2026-11-22",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 22"
       },
       {
-        "iso": "2026-11-24",
+        "iso": "2026-11-23",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-24",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-25",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-26",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-27",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-28",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-11-29",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-11-30",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-01",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-02",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-03",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-04",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-06",
+        "iso": "2026-12-05",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
       },
       {
-        "iso": "2026-12-07",
+        "iso": "2026-12-06",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 6"
       },
       {
-        "iso": "2026-12-08",
+        "iso": "2026-12-07",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 7"
       },
       {
-        "iso": "2026-12-09",
+        "iso": "2026-12-08",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
       },
       {
-        "iso": "2026-12-10",
+        "iso": "2026-12-09",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 9"
       },
       {
-        "iso": "2026-12-11",
+        "iso": "2026-12-10",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 10"
+      },
+      {
+        "iso": "2026-12-11",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Dec 11"
       }
     ],
-    "todayKey": "Tue",
+    "todayKey": "Wed",
     "times": [
       "6:30 AM",
       "7 AM",
@@ -1251,6 +1251,23 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: ClickHouse Events, ClickHouse Events"
     },
+    "luma_2026_11_12_durable_ai_workflows_with_temporal_and_mongodb": {
+      "title": "Durable AI Workflows with Temporal and MongoDB",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-11-12",
+      "time": "11:30 PM",
+      "sort": 23.5,
+      "when": "Thu, 11/12 · 11:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "MongoDB",
+      "source": "Luma NYC",
+      "link": "https://luma.com/temporal-uvlr",
+      "map": "https://maps.google.com/?q=MongoDB%20NYC",
+      "summary": "Luma NYC: Temporal Community, Temporal Team, MongoDB, Cecil Phillip, Max Kuivenhoven"
+    },
     "luma_2026_11_12_fireside_chat_with_michael_baum": {
       "title": "Fireside Chat with Michael Baum",
       "type": "startup",
@@ -1267,57 +1284,6 @@
       "link": "https://luma.com/founders-mj1m",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Founders House, Damian Tenuta, Louisa Li, Maya Agnihotri"
-    },
-    "nyu_tandon_2026_11_10_instructional_tech_drop_in_sessions": {
-      "title": "Instructional Tech Drop-in Sessions",
-      "type": "tech",
-      "label": "Workshop / Training",
-      "day": "Tue",
-      "date": "2026-11-10",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Tue, 11/10 · 11:00 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/10/instructional-tech-drop-sessions",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Workshop / Training"
-    },
-    "nyu_tandon_2026_11_10_vulnerability_and_resilience_of_traffic_networks_con": {
-      "title": "Vulnerability and Resilience of Traffic Networks: Concepts, Approaches, and Recent Developments",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Tue",
-      "date": "2026-11-10",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Tue, 11/10 · 1:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/10/vulnerability-and-resilience-traffic-networks-concepts-approaches-and-recent",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_11_10_research_in_new_york_university_abu_dhabi_nyuad_cent": {
-      "title": "Research in New York University Abu Dhabi (NYUAD) Center for Artificial Intelligence and Robotics (CAIR)",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Tue",
-      "date": "2026-11-10",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Tue, 11/10 · 3:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/10/research-new-york-university-abu-dhabi-nyuad-center-artificial-intelligence-and",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
     },
     "nyu_tandon_2026_11_11_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1437,6 +1403,40 @@
       "link": "https://engineering.nyu.edu/events/2026/11/13/wikipedia-academics",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
+    },
+    "nyu_tandon_2026_11_13_machine_learning_for_optimization_under_hard_constra": {
+      "title": "Machine Learning for Optimization under Hard Constraints",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Fri",
+      "date": "2026-11-13",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Fri, 11/13 · 3:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/13/machine-learning-optimization-under-hard-constraints",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_11_16_neural_dynamics_of_feedforward_and_feedback_speech_p": {
+      "title": "Neural Dynamics of Feedforward and Feedback Speech Processing",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Mon",
+      "date": "2026-11-16",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Mon, 11/16 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/16/neural-dynamics-feedforward-and-feedback-speech-processing",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
     },
     "jc_culture_10005049_2026_11_11_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -2214,10 +2214,6 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_11_10_3_pm": [
-      "gary_2026_11_10_peec_ai_perspective",
-      "nyu_tandon_2026_11_10_research_in_new_york_university_abu_dhabi_nyuad_cent"
-    ],
     "cluster_2026_11_10_5_30_pm": [
       "gary_2026_11_10_ai_the_culture_irl_build_your_creative_os",
       "gary_2026_11_10_ai_founder_funder_mixer",
@@ -2271,6 +2267,10 @@
       "gary_2026_11_12_what_makes_a_good_life_discussion_on_ai",
       "gary_2026_11_12_blue_ridge_labs_founder_showcase",
       "nyu_tandon_2026_11_12_fre_special_seminar_series_goran_peskir"
+    ],
+    "cluster_2026_11_12_11_30_pm": [
+      "luma_2026_11_12_durable_ai_workflows_with_temporal_and_mongodb",
+      "luma_2026_11_12_fireside_chat_with_michael_baum"
     ],
     "cluster_2026_11_14_11_am": [
       "jc_culture_44385_2026_11_14_paper_architects_2026",
