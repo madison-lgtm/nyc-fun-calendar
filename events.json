@@ -1,244 +1,245 @@
 {
   "meta": {
-    "checked": "Nov 11, 2026, 8:37 PM EST",
+    "checked": "Nov 12, 2026, 1:39 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
         "iso": "2026-11-12",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Nov 11"
-      },
-      {
-        "iso": "2026-11-13",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 12"
       },
       {
-        "iso": "2026-11-14",
+        "iso": "2026-11-13",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 13"
       },
       {
-        "iso": "2026-11-15",
+        "iso": "2026-11-14",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 14"
       },
       {
-        "iso": "2026-11-16",
+        "iso": "2026-11-15",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 15"
       },
       {
-        "iso": "2026-11-17",
+        "iso": "2026-11-16",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 16"
       },
       {
-        "iso": "2026-11-18",
+        "iso": "2026-11-17",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 17"
+      },
+      {
+        "iso": "2026-11-18",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Nov 18"
       }
     ],
     "monthDays": [
       {
         "iso": "2026-11-12",
-        "key": "Wed",
-        "label": "Wed",
-        "date": "Nov 11"
-      },
-      {
-        "iso": "2026-11-13",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 12"
       },
       {
-        "iso": "2026-11-14",
+        "iso": "2026-11-13",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 13"
       },
       {
-        "iso": "2026-11-15",
+        "iso": "2026-11-14",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 14"
       },
       {
-        "iso": "2026-11-16",
+        "iso": "2026-11-15",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 15"
       },
       {
-        "iso": "2026-11-17",
+        "iso": "2026-11-16",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 16"
       },
       {
-        "iso": "2026-11-18",
+        "iso": "2026-11-17",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 17"
       },
       {
-        "iso": "2026-11-19",
+        "iso": "2026-11-18",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 18"
       },
       {
-        "iso": "2026-11-20",
+        "iso": "2026-11-19",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 19"
       },
       {
-        "iso": "2026-11-21",
+        "iso": "2026-11-20",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 20"
       },
       {
-        "iso": "2026-11-22",
+        "iso": "2026-11-21",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 21"
       },
       {
-        "iso": "2026-11-23",
+        "iso": "2026-11-22",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 22"
       },
       {
-        "iso": "2026-11-24",
+        "iso": "2026-11-23",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-24",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-25",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-26",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-27",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-28",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-11-29",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-11-30",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-01",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-02",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-03",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-04",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-06",
+        "iso": "2026-12-05",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
       },
       {
-        "iso": "2026-12-07",
+        "iso": "2026-12-06",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 6"
       },
       {
-        "iso": "2026-12-08",
+        "iso": "2026-12-07",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 7"
       },
       {
-        "iso": "2026-12-09",
+        "iso": "2026-12-08",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
       },
       {
-        "iso": "2026-12-10",
+        "iso": "2026-12-09",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 9"
       },
       {
-        "iso": "2026-12-11",
+        "iso": "2026-12-10",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 10"
       },
       {
-        "iso": "2026-12-12",
+        "iso": "2026-12-11",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 11"
+      },
+      {
+        "iso": "2026-12-12",
+        "key": "Sat",
+        "label": "Sat",
+        "date": "Dec 12"
       }
     ],
-    "todayKey": "Wed",
+    "todayKey": "Thu",
     "times": [
       "6:30 AM",
       "7 AM",
+      "7:15 AM",
       "8 AM",
       "8:30 AM",
       "9 AM",
@@ -251,6 +252,7 @@
       "12:30 PM",
       "1 PM",
       "1:30 PM",
+      "2 PM",
       "2:30 PM",
       "3 PM",
       "3:30 PM",
@@ -505,8 +507,8 @@
       "map": "https://maps.google.com/?q=Venue%2C%20526%20Hudson%20St",
       "summary": "Gary's Guide: Advanced AI is here, & it is up to all of us to take action toward a safe & thriving Artificial General Intelligence (AGI) future. In this interactive session, students, educators, & leaders from the education field spanning generations move through plausible AGI futures. We'll workshop through worst-case scenarios & best-case outcomes for the field of education in the United States-informed by previous expert roundtables & deep research from RAND, Anthropic, the Council on Foreign Relations, & more. We will then translate that insight into action-what education leaders & students can do to both prevent catastrophic outcomes & to design for the best of what AGI could enable: a future where humanity & technology evolve together toward greater human flourishing. Coffee & pastries will be provided. Plan A is mobilizing business & civil society leaders to shape a safe & thriving AI future. Plan A convenes society's leaders through immersive workshops to prepare for AI futures. They work on two fronts: future proofing (planning for the worst cases), & future building (imagining the best cases), by asking what we actually want our future to look like. This work serves public benefit & is philanthropically backed-giving gives them the independence to test different approaches to driving action, building toward impact rather than a predetermined structure. Anew is a gathering space & discovery center for social transformation located in NYC. We host interactive events & workshops, an accelerator program for nonprofits, & a retail lab featuring ethically-sourced coffee & gifts."
     },
-    "gary_2026_11_12_vibin_out_mornin_ai_collective_stamford_w_the_ai_col": {
-      "title": "Vibin' Out Mornin' | AI Collective - Stamford | w/ The AI Collective",
+    "gary_2026_11_12_vibin_out_mornin_w_ai_collective": {
+      "title": "Vibin' Out Mornin' w/ AI Collective",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Thu",
@@ -516,11 +518,11 @@
       "when": "Thu, 11/12 · 10:00am",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "Venue, To Be Announced, Stamford",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/kglg7b2/Vibin-Out-Mornin-AI-Collective-Stamford-w-The-AI-Collective",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: This isnt a workshop. Its not a demo. Vibin Out is a shared space for people who want to actually build with AIvibe coding, code agents, or even OpenClaw running quietly in the background.Join us every 2nd Thursday of the month for coffee, community and vibe coding.Bring a project. Join someone elses. Or sit, code, and maybe let OpenClaw do whatever the heck it wants to do, all while you stay in flow. No structure, no slidesjust builders vibing together in the real world.The AI Collective is a global non-profit building the human layer for the AI era. We unite 200,000+ leaders, builders, and stakeholders across 100+ forums worldwide to democratize the frontier, build trust, and coordinate how society navigates the rapid acceleration of technological progress.All attendees and organizers at events affiliated with The AI Collective agree to our privacy policy and are subject to our code of conduct."
+      "link": "https://www.garysguide.com/events/kglg7b2/Vibin-Out-Mornin-w-AI-Collective",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced%2C%20Stamford",
+      "summary": "Gary's Guide: This isnt a workshop. Its not a demo. Vibin Out is a shared space for people who want to actually build with AIvibe coding, code agents, or even OpenClaw running quietly in the background.Join us every 2nd Thursday of the month for coffee, community & vibe coding.Bring a project. Join someone elses. Or sit, code, & maybe let OpenClaw do whatever the heck it wants to do, all while you stay in flow. No structure, no slidesjust builders vibing together in the real world.The AI Collective is a global non-profit building the human layer for the AI era. We unite 200,000+ leaders, builders, & stakeholders across 100+ forums worldwide to democratize the frontier, build trust, & coordinate how society navigates the rapid acceleration of technological progress.All attendees & organizers at events affiliated with The AI Collective agree to our privacy policy & are subject to our code of conduct."
     },
     "gary_2026_11_12_keeping_pace_w_ai_skills_workflows_teams_need_now": {
       "title": "Keeping Pace w/ AI - Skills & Workflows Teams Need Now",
@@ -707,7 +709,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/coofws6/Can-AI-Help-Nonprofits-Fundraise",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Doors open at 6 p.m.; programming starts at 6:30 p.m.Giving season means a lot of work for nonprofit teams: writing appeals, reaching donors, processing gifts, and keeping track of it all. Where can AI helpand how do you use it without losing the personal connection that makes people want to give?Join Aboard for a conversation with Allison Fine of Every.org, Dr. John Brothers of Candid, and Jeffrey Klein of The Center about practical ways nonprofits can put AI to work during their busiest fundraising season. Well discuss where to start, what deserves a humans attention, and how to tell whether a new tool is actually helping. Along the way, well consider donor privacy, staff capacity, and how time saved on administrative work could become time spent building relationships.Aboards head of product, Chris Sassine, will introduce the discussion, which will be followed by an audience Q&A. Afterward, stay for food, drinks, and conversation with the speakers and fellow attendees.About the speakers:Allison Fine is president and CEO of Every.org, a nonprofit giving platform that accepts nearly all forms of cash and non-cash assets and is itself a nonprofit. An author and longtime leader at the intersection of technology and social good, she co-wrote The Networked Nonprofit and The Smart Nonprofit: Staying Human-Centered in an Automated World with Beth Kanter.Dr. John Brothers is interim president and CEO of Candid, a nonprofit that connects people working for social good with data, information, and resources. He previously led the T. Rowe Price Foundation and T. Rowe Price Charitable. His career spans community organizing, nonprofit leadership, philanthropy, and teaching management and social policy.Jeffrey Klein is chief operating officer of The Lesbian, Gay, Bisexual and Transgender Community Center in New York City. The Center provides recovery and wellness programs, youth support, advocacy, arts and cultural programming, and space for community organizing, connection, and celebration. Jeff brings the perspective of a community-serving nonprofit to a discussion about what it takes to introduce new tools while keeping an organizations people and mission at the center of its work."
+      "summary": "Gary's Guide: Doors open at 6 p.m.; programming starts at 6:30 p.m.Giving season means a lot of work for nonprofit teams: writing appeals, reaching donors, processing gifts, & keeping track of it all. Where can AI helpand how do you use it without losing the personal connection that makes people want to give?Join Aboard for a conversation with Allison Fine of Every.org, Dr. John Brothers of Candid, & Jeffrey Klein of The Center about practical ways nonprofits can put AI to work during their busiest fundraising season. Well discuss where to start, what deserves a humans attention, & how to tell whether a new tool is actually helping. Along the way, well consider donor privacy, staff capacity, & how time saved on administrative work could become time spent building relationships.Aboards head of product, Chris Sassine, will introduce the discussion, which will be followed by an audience Q&A. Afterward, stay for food, drinks, & conversation with the speakers & fellow attendees.About the speakers:Allison Fine is president & CEO of Every.org, a nonprofit giving platform that accepts nearly all forms of cash & non-cash assets & is itself a nonprofit. An author & longtime leader at the intersection of technology & social good, she co-wrote The Networked Nonprofit & The Smart Nonprofit: Staying Human-Centered in an Automated World with Beth Kanter.Dr. John Brothers is interim president & CEO of Candid, a nonprofit that connects people working for social good with data, information, & resources. He previously led the T. Rowe Price Foundation & T. Rowe Price Charitable. His career spans community organizing, nonprofit leadership, philanthropy, & teaching management & social policy.Jeffrey Klein is chief operating officer of The Lesbian, Gay, Bisexual & Transgender Community Center in New York City. The Center provides recovery & wellness programs, youth support, advocacy, arts & cultural programming, & space for community organizing, connection, & celebration. Jeff brings the perspective of a community-serving nonprofit to a discussion about what it takes to introduce new tools while keeping an organizations people & mission at the center of its work."
     },
     "gary_2026_11_12_growth_stage_finance_leaders_dinner": {
       "title": "Growth-Stage Finance Leaders Dinner",
@@ -742,6 +744,40 @@
       "link": "https://www.garysguide.com/events/oam7r1e/Durable-AI-Workflows",
       "map": "https://maps.google.com/?q=MongoDB%2C%201633%20Broadway%2C%2038th%20Fl",
       "summary": "Gary's Guide: With Temporal & MongoDB."
+    },
+    "gary_2026_11_12_fireside_chat": {
+      "title": "Fireside Chat",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-11-12",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 11/12 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/m3mn9zh/Fireside-Chat",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Michael Baum (Co-Founder @ Splunk & CEO @ Founder.org)."
+    },
+    "gary_2026_11_12_intelligent_brand_systems_how_creative_teams_of_the_": {
+      "title": "Intelligent Brand Systems: How Creative Teams Of The Future Operate",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-11-12",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Thu, 11/12 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/2dvvzjs/Intelligent-Brand-Systems-How-Creative-Teams-Of-The-Future-Operate",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With ​Paul Jun (Creative Director - Brand, Ramp), Shawn Farsai (Creative Director, Harvey), Emmett Shine (Founder, Little Plains)."
     },
     "gary_2026_11_12_founder_dinner": {
       "title": "Founder Dinner",
@@ -827,6 +863,23 @@
       "link": "https://www.garysguide.com/events/rl9f7za/Future-Of-Social-Health-Building-Technology-That-Brings-Us-Together",
       "map": "https://maps.google.com/?q=Fabrik%20Tribeca%2C%2012-16%20Vestry%20St",
       "summary": "Gary's Guide: With Hans Rocha IJzerman (CEO, Entrelecs), Jackie Ourman (Founder, Social Connection Collective), Odile Beniflah (Growth Strategist), Mikki Hoffman (Community Dir., Fabrik Dumbo)."
+    },
+    "gary_2026_11_13_claude_art_ai_go_to_market_g2m_meetup": {
+      "title": "Claude Art & AI: Go-to-Market (G2M) Meetup",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-11-13",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Fri, 11/13 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/c5dog92/Claude-Art-AI-Go-to-Market-G2M-Meetup",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Dr. Kelly Zou (NYC Claude Ambassador)."
     },
     "gary_2026_11_13_physical_ai_ml_computer_vision_meetup": {
       "title": "Physical AI, ML & Computer Vision Meetup",
@@ -947,6 +1000,23 @@
       "map": "https://maps.google.com/?q=Fordham%20Gabelli%20School%20of%20Business%2C%20140%20W%2062nd%20St",
       "summary": "Gary's Guide: Hack the Unreachable An AI research hackathon powered by Flashpoint.AI People say one thing & do another. Public narratives rarely match private sentiment. The most valuable signals sit with people no survey ever reaches. Spend a day building AI that closes that gap. Use Flashpoint.AI's research platform & Anthropic's models to build agents that uncover what people actually think & turn it into something useful. Tracks Governance: Agents that surface constituent preferences & find policies people can agree on Economic Signals: Hyperlocal sentiment & economic research Self-Improving AI: Models that identify what they don't know & go get it from the right people News & Reporting: Agents that research, verify, & report Investment Alpha: Find the gap between what's priced in & what key segments privately believe Prizes: $800 total 1st Place: $500 2nd Place: $200 3rd Place: $100 What you get Free Anthropic API access for the event Mentorship from the Flashpoint.AI team Judging by Flashpoint.AI, Pioneering Minds AI, & others Lunch provided Who should come Builders, researchers, PMs, designers, & anyone curious about AI. All backgrounds welcome. Come solo or bring a team of up to [4]. Submissions Teams submit a public GitHub repo & share their build on LinkedIn or X. Ship something real, show it off. Schedule 9:30 AM | Doors open 10:00 AM | Registration 10:30 AM | Introductions & team formation 11:00 AM | Hacking begins 1:00 PM | Lunch served (hacking continues) 3:30 PM | Presentations & judging 4:30 PM | Winners announced & prizes awarded 5:00 PM | Networking hour 6:00 PM | Event ends Networking Hour | 5:00 to 6:00 PM Not hacking? Come for the networking. Connect with founders, VCs, PMs, & AI practitioners from across NYC right after the hackathon wraps. Arrive by 3:30 PM to watch teams present live & see the winners crowned, then stay to network. Details Saturday, November 14 10:00 am - 6:00 pm Room 333, Gabelli School of Business, Fordham Lincoln Center Hosted by the Fordham AI Society & the Gabelli Product Management Club. Sponsored by Pioneering Minds AI. Spots are limited. Register now."
     },
+    "gary_2026_11_14_base44_sidequest_yale_jackpot_hackathon": {
+      "title": "Base44  SideQuest Yale Jackpot Hackathon",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Sat, 11/14 · 1:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/d7gus6v/Base44-SideQuest-Yale-Jackpot-Hackathon",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Pull the lever. Get a challenge. Build it. Hit the jackpot. Spend your Saturday turning an idea into a real, working app. Spin our slot machine (built on Base44, of course) for a surprise challenge, then build it with Base44 in just a few hours. No coding experience needed. We'll walk you through Base44 from zero, & Base44 credits will be provided so you can build for free. Lunch & caf drinks are on us, so you can stay fed & caffeinated all afternoon. Prizes for the top builds, voted live by the room. The plan 12:30 PM Doors open. Check in, grab a drink, meet fellow builders, & form teams (come early!) 1:00 PM Kickoff, Base44 intro, spin the slot machine 1:30 PM Build time (lunch served) 4:00 PM Live demos & voting 4:50 PM Prizes & wrap 5:00 PM End What to bring Your laptop, charger, & curiosity. Come solo or bring friends. Spots are very limited & registration is approval-based. Please only apply if you can stay for the full event. If your plans change, cancel your spot so someone on the waitlist can take it. Meet the organizers Aimee Jiang is an M.S. in Management of Technology student at NYU & an aspiring product manager. She loves building with AI & exploring the intersection of media & technology, & serves as a Base44 Campus Ambassador at NYU. Nishtha Bahal is the founder of SideQuest Yale, a builder community helping people turn ideas into solutions & discover their life's work. A dual master's student at Yale SOM & INSEAD, she has experience across AI products, go-to-market strategy, & climate tech. She's passionate about making technology more accessible & bringing creative people together to build things that matter. About our partners About Base44 Base44 is the AI platform for building software. Describe what you need in plain language, & Base44 builds it. From personal tools to full apps, it handles the backend, database, & hosting, so anyone can go from idea to a live app without writing code. About SideQuest Yale SideQuest Yale is a community built on the belief that by exploring, experimenting, & building enough, you eventually discover your passion & life's work. About Corgi Corgi is an AI-native insurance platform built for startups & tech companies. Corgi Caf is open 24/7 as a third space where founders, builders, & investors can work, meet, & hang out. Hosted by Base44. Organized by SideQuest Yale. Partnered with Corgi. Photos & video will be taken during the event & may be shared on the organizers' social channels. Let us know at check-in if you'd prefer to stay out of shots."
+    },
     "gary_2026_11_15_seed_to_series_b_founder_investor_townhouse_luncheon": {
       "title": "Seed To Series B Founder & Investor Townhouse Luncheon",
       "type": "startup",
@@ -963,6 +1033,23 @@
       "link": "https://www.garysguide.com/events/r6gkhhd/Seed-To-Series-B-Founder-Investor-Townhouse-Luncheon",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Gonzalo Quincot (Founder, Sinober), Shilpi Nayak (434 VC), Pranav Jajapur (ZERON Ventures), Francesca Poupel (F&G Capital), Triet Leminh (LMT Partners), Andrew Antar (AG VC)."
+    },
+    "gary_2026_11_16_fintech_run_club": {
+      "title": "Fintech Run Club",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-11-16",
+      "time": "7:15 AM",
+      "sort": 7.25,
+      "when": "Mon, 11/16 · 7:15am",
+      "price": "Free",
+      "free": true,
+      "place": "Columbus Circle, 848 Columbus Cir",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/95sgpwn/Fintech-Run-Club",
+      "map": "https://maps.google.com/?q=Columbus%20Circle%2C%20848%20Columbus%20Cir",
+      "summary": "Gary's Guide: Join First Citizens Innovation Banking for our monthly Fintech Run Club, bringing together founders, startup leaders, investors, & members of the fintech community in a relaxed, community-driven setting.For our November run, we'll meet at Columbus Circle for a casual 5K through Central Park, with plenty of opportunities to connect along the way. All paces are welcome. The goal isn't speed - it's building relationships & bringing the community together outside of the office. We'll wrap up with coffee, bagels, & conversation after the run.Whether you're looking to expand your network, reconnect with familiar faces, or simply start your morning with a run, we'd love to have you join us."
     },
     "gary_2026_11_16_ai_coding_summit": {
       "title": "AI Coding Summit",
@@ -1134,91 +1221,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Step into the Future of Ocean Renewables: An Electrifying Evening with the 2026 Offshore Wind Innovation Hub Innovator Cohort!The 4th annual Wind-Win Startup Showdown offers a pitch experience like no other, spotlighting cutting-edge technology breakthroughs to transform the future of ocean renewables. This is a special year for us: the program set a record high: 118 applications & the strongest competition reviewers have seen to date. In 2026, we also drew in a more diverse cohort than ever before by broadening this year's technology scope a 123% increase in application numbers compared to last year's, reflecting the parallel growth in industry demand for novel solutions needed in the market.Presented by the Offshore Wind Innovation Hub, this networking & pitch event brings together stakeholders across the climate landscapeinvestors, founders, academia, industry, & thought leadersfor an evening of connection, collaboration, & celebration.Come see it for yourself! Join us to engage with leading innovators tackling climates most complex challenges with bold, next-generation solutions.Refreshments & light hors d'oeuvres will be provided.AgendaDoors OpenKeynote + Welcome RemarksAlso on stage: Tone Sndergaard, Director, Offshore Wind Innovation Hub at NYU Tandon Urban Future LabInnovator Lightning Pitches by the 2026 CohortEach of our Offshore Wind Innovation Hub partners has sent their most experienced innovation experts to provide feedback for each of the selected cohort companies.Sam Jung, SVP, Green Economy, New York City Economic Development Corporation (NYC EDC)Lyndie Hice-Dunton, Executive Director, National Offshore Wind Research & Development Consortium (NOWRDC)Robert Fenton, Head of Americas Generation Procurement, rstedStephan Kremers, Senior Technical Project Manager, VestasFireside Chat on Dual-Use Technology AdaptationNetworking & RefreshmentsMeet our 2026 FinalistsBlue Ocean Transfers Group (BOT) (New York, US) - Multipurpose, hybrid electric support vessel enabling maritime decarbonization.Bubble Robotics (California, US) - Resident fleet of autonomous underwater robots monitoring offshore infrastructure.Clema (New York, US) - Thermoelectric cooling vest for workers in extreme heat.Fleet Robotics (Massachusetts, US) - Data insights powered by submersible, autonomous cleaning & inspection robots.Hefring Marine (Iceland) - Intelligence platform combining onboard hardware with software to optimize marine operations.HiFIT USA (New York, US) - Impact treatment welding to enable life extension & lighter structures.NeuralX (California, US) - Underwater video & computer vision for fisheries monitoring & ecological data.Sail GTX (New York, US) - Platform for smarter customs workflows for offshore wind components.TMA The Hazardous Goods Companion (Germany) - RFID & AIoT inventory visibility & predictive inventory management solution.Tree Composites (The Netherlands) - Composite joints for offshore support structure to realise material & manufacturing optimization.Vital Ocean (Oregon, US) - Intelligence platform combining ocean data, marine environment, & decision interface.Stay tuned in the next few weeks on our website & LinkedIn for updates on our selected cohort!Innovation in FocusOur 2026 cohort takes the stage to pitch ocean & maritimes most promising technologies. This year's lineup features innovations spanning ports, O&M, environmental monitoring & coexistence, workforce development, installation, construction, & commissioning, maritime applications, among others. The scope doesn't just stop there. The majority of this year's solutions are dual-use, carrying relevance across adjacent industries & global markets, a reflection of just how far the blue economy reaches.Marking the official launch of the 2026 Innovator program, this event offers a unique chance to connect directly with the founders behind these ready-to-scale solutions. Explore their real-world impact, uncover new business opportunities, & spark the kind of strategic partnerships that move ideas forward.The Offshore Wind Innovation Hub Innovator ProgramA world-class program open to global offshore wind innovators. Building on three successful cohorts, this eight-month intensive program provides unparalleled support for innovators looking to develop novel technology & advance commercialization in New York & beyond.The Offshore Wind Innovation Hub is an initiative led by Urban Future Lab at NYU Tandon School of Engineering & the National Offshore Wind R&D Consortium (NOWRDC) in collaboration with the New York State Research & Development Authority (NYSERDA) & New York City Economic Development Corporation (NYC EDC).The Innovator program is also supported by industry partners Equinor, rsted, & Vestas."
     },
-    "gary_2026_11_17_exec_dinner_why_isn_t_ai_helping_saas_teams_ship_fas": {
-      "title": "Exec Dinner - Why Isn't AI Helping SaaS Teams Ship Faster?",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-11-17",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Tue, 11/17 · 5:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/nh2vetb/Exec-Dinner-Why-Isn-t-AI-Helping-SaaS-Teams-Ship-Faster",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: A private dinner for PE investors & the SaaS leaders they back. Most PE-backed SaaS companies have already given their product & engineering teams AI tools, & boards expected faster results from the same spend. For most, the roadmap hasn't moved. Operators see the same release cadence as two years ago. Investors see AI spend that hasn't paid off. Same problem, two seats. Rahul Raina will open with what Celestial Systems has learned putting AI-native development into practice with client teams. That includes how his team shortened the cycle from customer request to production release from quarters to weeks, & scaled feature throughput 4x with the same headcount. The conversation will cover: - How a board can tell real progress from AI activity, starting with how fast a customer request reaches production - How to get the whole team working the way your best AI user does, not just the one or two who figured it out on their own - If AI is writing the code, who your builders are, & what product managers, designers & engineers actually do now Every guest leaves with an AI SDLC playbook & a recorded walkthrough of one use case moving through the full development cycle, from requirements to mockup to working code. Who should attend: PE operating partners & investment professionals backing SaaS portfolios, plus CEOs, CTOs, CPOs & heads of engineering at PE-backed SaaS companies."
-    },
-    "gary_2026_11_17_ai_founders_supper_club": {
-      "title": "AI Founders Supper Club",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-11-17",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 11/17 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/k5y53xg/AI-Founders-Supper-Club",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Hi fellow founders Angela & Hamza here from the AI Furnace. The AI Founders Supper Club is a private founders dinner club hosted by The AI Furnace (the largest community of AI startups in the world). Once a month, we host 15-20 early stage AI founders for a night of delicious food, discussions & connections with curated high quality founders in NYC. This is a referral based network, so feel free to apply here but the other way to get in is by being referred in by an existing founder member. What to expect: A 3-course meal, courtesy of our partners Meet dope founders building out of NYC Real conversations & place to vibe with other founders, solving similar problems ABOUT OUR HOSTS & SPONSORS The AI Furnace is NYC's largest & most active AI community. It was started by AI founders, Angela Mascarenas & Hamza Zaveri, who were based in NYC & London & started the org to support fellow AI founders & operators building in local cities outside of Cerebral Valley (San Francisco). It has since grown to a global community of 20,000 AI founders, operators & researchers & has since organized events in 4 countries & 7 cities including NYC, London, Paris, Dubai, Boston, DC, & Philly. Foley Hoag offers practical, forward-looking advice in the fast-changing world of artificial intelligence, including at the leading edge of generative & agentic technologies. We partner with the thought leaders driving innovation & the dreamers who are responsibly developing AI to transform our world for the better. Investors, entrepreneurs, inventors, enterprises of all sizes, & community players all seek the guidance that is informed by our deep understanding of AI's role in our future. Our work with AI-enabled technologies & businesses covers various industries & stages of growth, but follows a core guiding principle: At every turn, set the stage for AI innovation & then get out of the way. As a firm, we walk the talk. We have deployed best-in-class legal technology firm-wide. Our lawyers & professionals are dedicated to using AI tools to boost our efficiency, allowing us to prioritize client relationships. We're focused on AI's ability to give us more time to foster individual connections with our clients."
-    },
-    "gary_2026_11_17_b2b_fintech_founders_investors_meetup": {
-      "title": "B2B FinTech Founders & Investors Meetup",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-11-17",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 11/17 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/eg9n598/B2B-FinTech-Founders-Investors-Meetup",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: NYC B2B is the premier community for B2B Founders, Operators, & Investors in NYC. NYC B2B often hosts happy hour events for founders, builders, & investors based in NYC. This is an exclusive event for B2B AI founders & investors. Want to sponsor future events? Email: newyorkcityventures@gmail.com This meetup is hosted by NYC B2B. It's a great way to meet other founders, builders, & investors. Whether you're building a company, exploring a side project, or considering a new idea, we would love to have you here. NYC B2B has previously hosted events for thousands of B2B startup founders + operators in NYC across Vertical SaaS, AI, FinTech, Healthcare, DevTools, Infrastructure, & more. By signing up, you are confirming your interest in hearing about more events from NYC B2B in the future via email! NYC B2B also helps connect those who sign up with awesome partners. Note: This is a 21+ event. Please let our team know in advance if you'd like to bring a guest, as unregistered +1s will not be admitted. Attendees who disregard this policy may not be invited to future NYC B2B events. - Hiring or looking for jobs? startupjobs.nyc"
-    },
-    "gary_2026_11_17_building_100m_company_leveraging_relationships_as_gr": {
-      "title": "Building $100M+ Company - Leveraging Relationships As Growth Capital",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-11-17",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 11/17 · 6:00pm",
-      "price": "$25",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/es5thzb/Building-100M-Company-Leveraging-Relationships-As-Growth-Capital",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Akin Opaleye (Founder/CEO, SalesParrot)."
-    },
-    "gary_2026_11_17_startup_venture_legal_happy_hour": {
-      "title": "Startup & Venture Legal Happy Hour",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-11-17",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 11/17 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/zo293id/Startup-Venture-Legal-Happy-Hour",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Qapita."
-    },
     "luma_2026_11_12_deep_tech_robotics_mixer_nyc": {
       "title": "Deep Tech & Robotics Mixer (NYC)",
       "type": "tech",
@@ -1287,39 +1289,22 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Founders House, Damian Tenuta, Louisa Li, Maya Agnihotri"
     },
-    "nyu_tandon_2026_11_11_instructional_tech_drop_in_sessions": {
-      "title": "Instructional Tech Drop-in Sessions",
-      "type": "tech",
-      "label": "Workshop / Training",
-      "day": "Wed",
-      "date": "2026-11-11",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Wed, 11/11 · 11:00 AM",
-      "price": "Free / varies",
+    "luma_2026_11_13_next_gen_girls_summit_tech_edition": {
+      "title": "Next Gen Girls Summit:Tech Edition",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-11-13",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Fri, 11/13 · 6pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/11/instructional-tech-drop-sessions",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Workshop / Training"
-    },
-    "nyu_tandon_2026_11_11_ai_in_financial_services_executive_panel_capgemini_x": {
-      "title": "AI in Financial Services Executive Panel: Capgemini x NYU Tandon",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Wed",
-      "date": "2026-11-11",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Wed, 11/11 · 5:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/11/ai-financial-services-executive-panel-capgemini-x-nyu-tandon",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/genztea-quim",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: GenZtea, Natalie Neptune, Cooperman Business Center"
     },
     "nyu_tandon_2026_11_12_multi_agent_dynamical_systems_with_asymmetric_inform": {
       "title": "Multi-Agent Dynamical Systems with Asymmetric Information and with Elements of Learning",
@@ -1440,6 +1425,40 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Career Development"
     },
+    "nyu_tandon_2026_11_16_neural_dynamics_of_feedforward_and_feedback_speech_p": {
+      "title": "Neural Dynamics of Feedforward and Feedback Speech Processing",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Mon",
+      "date": "2026-11-16",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Mon, 11/16 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/16/neural-dynamics-feedforward-and-feedback-speech-processing",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_11_16_brian_a_smith_from_smart_cities_to_supportive_cities": {
+      "title": "Brian A. Smith: From Smart Cities to Supportive Cities",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Mon",
+      "date": "2026-11-16",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Mon, 11/16 · 1:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/16/brian-smith-smart-cities-supportive-cities",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
     "jc_culture_10005050_2026_11_12_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
       "type": "art",
@@ -1542,6 +1561,23 @@
       "map": "https://maps.google.com/?q=PERSHING%20FIELD%20PARK%2C%20201%20CENTRAL%20AVE%2C%20JERSEY%20CITY%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
     },
+    "jc_culture_45111_2026_11_14_speranza_presents_petticoat_patriots_2026": {
+      "title": "SPERANZA Presents Petticoat Patriots 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-11-14",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Sat, 11/14 · 7pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/speranza-presents-petticoat-patriots-2026/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community History Visual & Performing Arts What's Coming Up?."
+    },
     "jc_culture_10005053_2026_11_15_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
       "type": "art",
@@ -1575,6 +1611,23 @@
       "link": "https://jerseycityculture.org/event/smush-artist-workshops-2026-2/",
       "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Literature & Education What's Coming Up?."
+    },
+    "jc_culture_45116_2026_11_15_speranza_presents_petticoat_patriots_2026": {
+      "title": "SPERANZA Presents Petticoat Patriots 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sun",
+      "date": "2026-11-15",
+      "time": "2 PM",
+      "sort": 14,
+      "when": "Sun, 11/15 · 2pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/speranza-presents-petticoat-patriots-2026-2/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community History Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_10005054_2026_11_16_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -1865,6 +1918,40 @@
       "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
     },
+    "jc_culture_44917_2026_11_26_bayonne_turkey_trot_5k_and_1_mile_fun_run": {
+      "title": "Bayonne Turkey Trot 5K and 1 Mile Fun Run",
+      "type": "park",
+      "label": "Parks / Outdoor",
+      "day": "Thu",
+      "date": "2026-11-26",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Thu, 11/26 · 9am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Bayonne County Park, 930 John F. Kennedy Boulevard, Bayonne, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/bayonne-turkey-trot-5k-and-1-mile-fun-run/",
+      "map": "https://maps.google.com/?q=Bayonne%20County%20Park%2C%20930%20John%20F.%20Kennedy%20Boulevard%2C%20Bayonne%2C%20NJ",
+      "summary": "The Bayonne Turkey Trot returns to Bayonne County Park on Thanksgiving morning, Thursday, November 26. A family friendly 1 mile fun run starts at 9 AM and the 5K starts at 10 AM. Shirts are included and strollers are welcome. Full details and registration: https://shophudsoncounty.com/bayonne-turkey-trot/"
+    },
+    "jc_culture_45118_2026_11_26_monique_s_29th_annual_complimentary_thanksgiving_din": {
+      "title": "Monique’s 29th Annual Complimentary Thanksgiving Dinner 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-11-26",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Thu, 11/26 · 11am",
+      "price": "Free / varies",
+      "free": true,
+      "place": "MONIQUE’S TECHNIQUES, 124 STORMS AVENUE, JERSEY CITY, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/moniques-29th-annual-complimentary-thanksgiving-dinner-2026/",
+      "map": "https://maps.google.com/?q=MONIQUE%E2%80%99S%20TECHNIQUES%2C%20124%20STORMS%20AVENUE%2C%20JERSEY%20CITY%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events What's Coming Up?."
+    },
     "jc_culture_10005065_2026_11_27_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
       "type": "art",
@@ -2136,57 +2223,6 @@
       "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-12-07/",
       "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
-    },
-    "jc_culture_10003580_2026_12_09_hamilton_park_farmers_market_2026": {
-      "title": "Hamilton Park Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Wed",
-      "date": "2026-12-09",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Wed, 12/09 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026-2/2026-12-09/",
-      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
-    },
-    "jc_culture_44748_2026_12_12_happy_holiday_market_2026": {
-      "title": "Happy Holiday Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-12-12",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 12/12 · 11am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "The Ashford, 145 Newark Avenue, Jersey City, New Jersey",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/happy-holiday-market-2026-3/",
-      "map": "https://maps.google.com/?q=The%20Ashford%2C%20145%20Newark%20Avenue%2C%20Jersey%20City%2C%20New%20Jersey",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Outdoor What's Coming Up?."
-    },
-    "jc_culture_44750_2026_12_13_happy_holiday_market_2026": {
-      "title": "Happy Holiday Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-12-13",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 12/13 · 11am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "The Ashford, 145 Newark Avenue, Jersey City, New Jersey",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/happy-holiday-market-2026-4/",
-      "map": "https://maps.google.com/?q=The%20Ashford%2C%20145%20Newark%20Avenue%2C%20Jersey%20City%2C%20New%20Jersey",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Outdoor What's Coming Up?."
     }
   },
   "clusters": {
@@ -2216,7 +2252,9 @@
     ],
     "cluster_2026_11_12_6_30_pm": [
       "gary_2026_11_12_growth_stage_finance_leaders_dinner",
-      "gary_2026_11_12_durable_ai_workflows"
+      "gary_2026_11_12_durable_ai_workflows",
+      "gary_2026_11_12_fireside_chat",
+      "gary_2026_11_12_intelligent_brand_systems_how_creative_teams_of_the_"
     ],
     "cluster_2026_11_13_10_am": [
       "gary_2026_11_13_ai_briefing_who_owns_data_layer_behind_enterprise_ai",
@@ -2249,24 +2287,21 @@
       "gary_2026_11_17_vertical_ai_in_practice_deployment_lessons_from_key_",
       "gary_2026_11_17_the_next_wave_ai_future_of_ocean_conservation"
     ],
-    "cluster_2026_11_17_5_30_pm": [
-      "gary_2026_11_17_wind_win_startup_showdown",
-      "gary_2026_11_17_exec_dinner_why_isn_t_ai_helping_saas_teams_ship_fas"
-    ],
-    "cluster_2026_11_17_6_pm": [
-      "gary_2026_11_17_ai_founders_supper_club",
-      "gary_2026_11_17_b2b_fintech_founders_investors_meetup",
-      "gary_2026_11_17_building_100m_company_leveraging_relationships_as_gr",
-      "gary_2026_11_17_startup_venture_legal_happy_hour",
-      "jc_culture_45047_2026_11_17_great_sports_stories_of_jersey_city_1889_1989"
-    ],
     "cluster_2026_11_12_11_30_pm": [
       "luma_2026_11_12_durable_ai_workflows_with_temporal_and_mongodb",
       "luma_2026_11_12_fireside_chat_with_michael_baum"
     ],
+    "cluster_2026_11_13_6_pm": [
+      "luma_2026_11_13_next_gen_girls_summit_tech_edition",
+      "jc_culture_43736_2026_11_13_cat_stick_easel_moon_closing_reception_2026_smush_ga"
+    ],
     "cluster_2026_11_14_11_am": [
       "jc_culture_44385_2026_11_14_paper_architects_2026",
       "jc_culture_44460_2026_11_14_global_music_workshop_2026"
+    ],
+    "cluster_2026_11_26_9_am": [
+      "jc_culture_10005064_2026_11_26_toy_drive_donations_2026",
+      "jc_culture_44917_2026_11_26_bayonne_turkey_trot_5k_and_1_mile_fun_run"
     ],
     "cluster_2026_12_05_11_am": [
       "jc_culture_44389_2026_12_05_paper_architects_2026",
