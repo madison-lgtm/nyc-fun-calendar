@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Nov 14, 2026, 11:47 AM EST",
+    "checked": "Nov 14, 2026, 6:17 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -260,7 +260,9 @@
       "6 PM",
       "6:30 PM",
       "7 PM",
-      "8 PM"
+      "8 PM",
+      "10:30 PM",
+      "11:30 PM"
     ]
   },
   "events": {
@@ -1420,39 +1422,39 @@
       "map": "https://maps.google.com/?q=Caveat%2C%2021%20A%20Clinton%20St",
       "summary": "Gary's Guide: 4 founders, 3 comedians, 2 VC investors, 1 winner."
     },
-    "luma_2026_11_14_ventured_the_founding_walk": {
-      "title": "Ventured — The Founding Walk",
+    "luma_2026_11_16_luxury_business_taste_with_pauline_brown_former_chai": {
+      "title": "Luxury, Business, & Taste with Pauline Brown, Former Chairwoman of LVMH",
       "type": "startup",
       "label": "Startup / Business",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Sat, 11/14 · 4pm",
-      "price": "Free",
-      "free": true,
-      "place": "Prospect Park",
+      "day": "Mon",
+      "date": "2026-11-16",
+      "time": "11:30 PM",
+      "sort": 23.5,
+      "when": "Mon, 11/16 · 11:30pm",
+      "price": "$75",
+      "free": false,
+      "place": "New York, NY",
       "source": "Luma NYC",
-      "link": "https://luma.com/exvowesa",
-      "map": "https://maps.google.com/?q=Prospect%20Park%20NYC",
-      "summary": "Luma NYC: Ventured NYC, Ventured NYC"
+      "link": "https://luma.com/eidkxzuo",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Victoria Smith, Victoria Smith"
     },
-    "luma_2026_11_14_adventurex_lighthouse_rvc_zenith_capital_nyc_startup": {
-      "title": "AdventureX × LightHouse × RVC × Zenith Capital NYC Startup Social",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "time": "8 PM",
-      "sort": 20,
-      "when": "Sat, 11/14 · 8pm",
+    "luma_2026_11_17_agora_google_deepmind_gemini_voice_ai_workshop_nyc": {
+      "title": "Agora × Google DeepMind: Gemini Voice AI Workshop | NYC",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-11-17",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Tue, 11/17 · 10:30pm",
       "price": "Free",
       "free": true,
       "place": "New York, NY",
       "source": "Luma NYC",
-      "link": "https://luma.com/drh0kjbb",
+      "link": "https://luma.com/voiceai-workshop-nyc-nov17",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Rosetta Yu, Rosetta Yu, Light House, Joyce Li, Bernard Fan, Jack fan"
+      "summary": "Luma NYC: Agora, Agora, Hermes"
     },
     "nyu_tandon_2026_11_16_neural_dynamics_of_feedforward_and_feedback_speech_p": {
       "title": "Neural Dynamics of Feedforward and Feedback Speech Processing",
