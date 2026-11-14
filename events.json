@@ -1,47 +1,47 @@
 {
   "meta": {
-    "checked": "Nov 13, 2026, 1:17 PM EST",
+    "checked": "Nov 13, 2026, 7:25 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
-        "iso": "2026-11-13",
+        "iso": "2026-11-14",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 13"
       },
       {
-        "iso": "2026-11-14",
+        "iso": "2026-11-15",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 14"
       },
       {
-        "iso": "2026-11-15",
+        "iso": "2026-11-16",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 15"
       },
       {
-        "iso": "2026-11-16",
+        "iso": "2026-11-17",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 16"
       },
       {
-        "iso": "2026-11-17",
+        "iso": "2026-11-18",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 17"
       },
       {
-        "iso": "2026-11-18",
+        "iso": "2026-11-19",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 18"
       },
       {
-        "iso": "2026-11-19",
+        "iso": "2026-11-20",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 19"
@@ -49,187 +49,187 @@
     ],
     "monthDays": [
       {
-        "iso": "2026-11-13",
+        "iso": "2026-11-14",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 13"
       },
       {
-        "iso": "2026-11-14",
+        "iso": "2026-11-15",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 14"
       },
       {
-        "iso": "2026-11-15",
+        "iso": "2026-11-16",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 15"
       },
       {
-        "iso": "2026-11-16",
+        "iso": "2026-11-17",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 16"
       },
       {
-        "iso": "2026-11-17",
+        "iso": "2026-11-18",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 17"
       },
       {
-        "iso": "2026-11-18",
+        "iso": "2026-11-19",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 18"
       },
       {
-        "iso": "2026-11-19",
+        "iso": "2026-11-20",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 19"
       },
       {
-        "iso": "2026-11-20",
+        "iso": "2026-11-21",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 20"
       },
       {
-        "iso": "2026-11-21",
+        "iso": "2026-11-22",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 21"
       },
       {
-        "iso": "2026-11-22",
+        "iso": "2026-11-23",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 22"
       },
       {
-        "iso": "2026-11-23",
+        "iso": "2026-11-24",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
       },
       {
-        "iso": "2026-11-24",
+        "iso": "2026-11-25",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-26",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-27",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-28",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-29",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-30",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-12-01",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-12-02",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-03",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-04",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-05",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-06",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
       },
       {
-        "iso": "2026-12-06",
+        "iso": "2026-12-07",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 6"
       },
       {
-        "iso": "2026-12-07",
+        "iso": "2026-12-08",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 7"
       },
       {
-        "iso": "2026-12-08",
+        "iso": "2026-12-09",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
       },
       {
-        "iso": "2026-12-09",
+        "iso": "2026-12-10",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 9"
       },
       {
-        "iso": "2026-12-10",
+        "iso": "2026-12-11",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 10"
       },
       {
-        "iso": "2026-12-11",
+        "iso": "2026-12-12",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 11"
       },
       {
-        "iso": "2026-12-12",
+        "iso": "2026-12-13",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 12"
       },
       {
-        "iso": "2026-12-13",
+        "iso": "2026-12-14",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 13"
@@ -1201,8 +1201,8 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Ehud Hausman (Reinhold Cohn)."
     },
-    "gary_2026_11_17_agentic_ads_nyc_founders_dinner": {
-      "title": "Agentic Ads  NYC Founders Dinner",
+    "gary_2026_11_17_agentic_ads_founders_dinner": {
+      "title": "Agentic Ads Founders Dinner",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Tue",
@@ -1214,12 +1214,12 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/xz2ow5a/Agentic-Ads-NYC-Founders-Dinner",
+      "link": "https://www.garysguide.com/events/xz2ow5a/Agentic-Ads-Founders-Dinner",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: An intimate dinner in New York City for startup founders building AI agents for advertising & marketing. A handful of us around one table in Manhattan's East Village, sharing what we're building, swapping lessons, & enjoying delicious food. We'll compare notes on agentic advertising, adtech, AI creative tools, campaign automation, media buying, & performance marketing-and what's actually working. 8 seats. Founders only. Hosted by Zo. A small, curated founder gathering for thoughtful conversation & new connections. Please include your company, LinkedIn, & Twitter/X when requesting a seat. Every request is reviewed personally. Restaurant details are shared after your request is approved."
+      "summary": "Gary's Guide: With Zo."
     },
-    "gary_2026_11_17_nycfc_founders_dinner_with_rho": {
-      "title": "NYCFC Founders Dinner with Rho",
+    "gary_2026_11_17_nyc_founders_club_dinner_w_rho": {
+      "title": "NYC Founders Club Dinner w/ Rho",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Tue",
@@ -1227,12 +1227,12 @@
       "time": "7 PM",
       "sort": 19,
       "when": "Tue, 11/17 · 7:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "SAINT RESTAURANT BAR & SPEAKEASY, 136 2nd Ave",
+      "price": "Varies",
+      "free": false,
+      "place": "Saint Restaurant, 136 2nd Ave",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/iy4b276/NYCFC-Founders-Dinner-with-Rho",
-      "map": "https://maps.google.com/?q=SAINT%20RESTAURANT%20BAR%20%26%20SPEAKEASY%2C%20136%202nd%20Ave",
+      "link": "https://www.garysguide.com/events/iy4b276/NYC-Founders-Club-Dinner-w-Rho",
+      "map": "https://maps.google.com/?q=Saint%20Restaurant%2C%20136%202nd%20Ave",
       "summary": "Gary's Guide: 20 founders, one great table, & an evening shared with exceptional people. Join the NYC Founders Club for an intimate private dinner designed for effortless connection, brilliant conversation, & a world-class meal in the heart of the city. Spots are tight to keep the table lively-we'd love for you to join the table. Our Partner Sponsored by Rho Rho is the all-in-one banking platform for startups & the accountants supporting them. With banking setup in minutes, cashback cards, & tools for managing spend, paying bills, & closing the books, Rho helps high-growth startups move fast & stay focused, backed by support that goes to the end of the earth to help you win. Rho is a fintech company, not a bank. Checking services provided & cards issued by Webster Bank, a division of Santander Bank, N.A. Member FDIC & Lead Bank, Member FDIC. By registering, you consent to receiving communications from NYC Founders Club regarding this event & future opportunities. By participating in this Rho-sponsored event, you acknowledge that you may be photographed or recorded. You grant irrevocable consent to Rho & its partners to use your likeness in promotional materials without compensation. You consent to receive marketing communications & newsletters from Rho. You may unsubscribe at any time."
     },
     "gary_2026_11_18_pursuit_annual_bash": {
@@ -1303,6 +1303,23 @@
       "map": "https://maps.google.com/?q=Anew%20Cafe%20%26%20Goods%2C%20526%20Hudson%20St",
       "summary": "Gary's Guide: A weekly gathering where you can join fellow social impact entrepreneurs of all stripes & co-work over coffee & pastries at Anew Caf & Goods. We'll reserve space in the caf for the meeting, please order a drink or pastry. Looking forward to seeing you! Anew is a gathering space & discovery center for social transformation located in NYC. We host interactive events & workshops, an accelerator program for nonprofits, & a retail lab featuring ethically-sourced coffee & gifts."
     },
+    "gary_2026_11_18_legal_engineers": {
+      "title": "Legal Engineers",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 11/18 · 4:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/xpsdfab/Legal-Engineers",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Open or Closed? Choosing Models for Legal Work Law firms & in-house teams can now choose between closed models from the major labs & open-weights models they run themselves. Which fits which work? We take real law firm & in-house use cases, including privileged documents, clients that ban outside model providers, cross-border matters, cost, & accuracy, & decide open or closed for each, & why. Bring a task & the model you use & we will compare results in the room. Laptops open; no coding required; demos encouraged. We finish with the group's one-page decision guide: which work goes on which kind of model, & the questions nobody has settled yet. Date: Wednesday, November 18, 4:00pm - 5:30pm Location: Manhattan. The address is shared with approved guests. Legal Engineers NYC is a hands-on group for people who turn law, policy, & practice into the workflows, agents, evals, & controls that run legal work. We meet in Manhattan, laptops open, & build something each time. Any platform counts, & no coding required. Legal Engineers NYC is organized by ICME Labs & led by cofounder Houman Shadab. Contact houman@icme.io to host or sponsor a session."
+    },
     "gary_2026_11_18_ai_build_lab_for_founders_build": {
       "title": "AI Build Lab For Founders - Build",
       "type": "tech",
@@ -1319,6 +1336,23 @@
       "link": "https://www.garysguide.com/events/o63hhe9/AI-Build-Lab-For-Founders-Build",
       "map": "https://maps.google.com/?q=NYU%2C%2040%20W%204th%20St%2C%20Tisch%20Hall%204-60",
       "summary": "Gary's Guide: Take your idea from concept to launch in a series of interactive sessions. Leverage AI tools to build a live product, put it in front of users, & leave with honest feedback, concrete next steps, & the tools to keep going - no coding background required. Who it is for Current NYU students, Alumni, & Faculty People who code & people who don't. Anyone who wants to test an idea quickly & cheaply before committing time & money to it. Key highlights Hands-on from start to finish. Every session ends with something real in hand, not just notes. Real customers, not guesses. Founders talk to 5 to 10 potential users & put a working product in front of them. Two tracks. No-code founders build with tools like Lovable, Replit, v0 & Bolt. Founders who code use Claude Code or Cursor. Honest checks built in. Founders open & verify every source, set their success target before the results come in, & have a second tool test every build. A live product with a real ask. Each product goes live with a waitlist, pre-order or booking option. Demo day. The series ends with founders presenting to guest founders & investors. Tools they keep. Every founder leaves with the full Leverage kit & their own working setup. What founders walk away with A tested idea. Assumptions checked against real conversations & real data. A live product MVP. Reviewed, tested, & in front of first users, or a clear & cheap \"no.\" A decision & a plan. Continue, change, or stop, backed by evidence, with the next 14-day test written out. Their own working toolkit. Research, idea testing, building & review tools, set up & ready to use. The Leverage kit. Every prompt & tool used in the series. Good habits. Check the sources. Set the target first. Never let the builder grade its own work. A cohort. A group of founders who built alongside them. Session 2: Build Move from validation to a working product. Founders write a focused one-page plan based on customer interviews, building exclusively to test their biggest assumption. An AI verification tool tests the build against the plan before launch, followed by rapid 60-second live demos & peer critiques. PARTICIPANTS LEAVE WITH A live product at a link A real ask on it: waitlist, pre-order or booking A build reviewed & tested independently BETWEEN SESSIONS Founders share the link with everyone they interviewed & post it where their users gather. They track visits, signups, return use & payments."
+    },
+    "gary_2026_11_18_book_launch_digital_assets_crypto_for_investors": {
+      "title": "[Book Launch] Digital Assets & Crypto For Investors",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Wed, 11/18 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/0n5m38o/-Book-Launch-Digital-Assets-Crypto-For-Investors",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Vanessa Grellet (Author, Digital Assets & Crypto For Investors)."
     },
     "gary_2026_11_18_cpg_founders_what_worked_what_didn_t_2027_outlook": {
       "title": "CPG Founders - What Worked, What Didn't & 2027 Outlook",
@@ -1371,73 +1405,22 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: NYC B2B is the premier community for B2B Founders, Operators, & Investors in NYC. NYC B2B often hosts happy hour events for founders, builders, & investors based in NYC. This is an exclusive event for B2B AI founders, investors, & operators. Want to sponsor future events? Email: newyorkcityventures@gmail.com This meetup is hosted by NYC B2B. It's a great way to meet other founders, builders, & investors. Whether you're building a company, exploring a side project, or considering a new idea, we would love to have you here. NYC B2B has previously hosted events for thousands of B2B startup founders + operators in NYC across Vertical SaaS, AI, FinTech, Healthcare, DevTools, Infrastructure, & more. By signing up, you are confirming your interest in hearing about more events from NYC B2B in the future via email! NYC B2B also helps connect those who sign up with awesome partners. Note: This is a 21+ event. Please let our team know in advance if you'd like to bring a guest, as unregistered +1s will not be admitted. Attendees who disregard this policy may not be invited to future NYC B2B events. - Hiring or looking for jobs? startupjobs.nyc"
     },
-    "gary_2026_11_18_nexus_meetup_holiday_celebration": {
-      "title": "Nexus Meetup & Holiday Celebration",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-11-18",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 11/18 · 6:00pm",
-      "price": "$25",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/74gbt7z/Nexus-Meetup-Holiday-Celebration",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With founders, VCs, marketers, creators & others."
-    },
-    "gary_2026_11_18_exec_dinner_w_rootly_ai_x_anthropic": {
-      "title": "Exec Dinner w/ Rootly AI x Anthropic",
+    "gary_2026_11_18_dev_ai_nyc": {
+      "title": "Dev AI NYC",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Wed",
       "date": "2026-11-18",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 11/18 · 6:00pm",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Wed, 11/18 · 5:30pm",
       "price": "Free",
       "free": true,
-      "place": "Huso, 323A Greenwich St",
+      "place": "Automattic, 166 Crosby St, 11th Fl",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/9kh9kok/Exec-Dinner-w-Rootly-AI-x-Anthropic",
-      "map": "https://maps.google.com/?q=Huso%2C%20323A%20Greenwich%20St",
-      "summary": "Gary's Guide: Join Rootly & Anthropic for an intimate evening at Huso, a Michelin-starred culinary landmark in Tribeca. Led by two-time Top Chef winner Buddha Lo, Huso offers a sophisticated \"caviar speakeasy\" atmosphere, providing a private & prestigious setting for NYC's top tech leaders & innovators to connect. We will host a peer-to-peer discussion on incident management & the future of AI-driven reliability while experiencing a world-class tasting menu defined by Michelin-starred precision & innovation. The Experience Venue: Huso, a Michelin-starred destination celebrated for its intimate luxury & exclusive atmosphere. Cuisine: A curated, 12-course tasting menu featuring seasonal ingredients & rare delicacies, including Huso's signature legal Beluga caviar. Dialogue: High-value insights on scaling resilient engineering & AI infrastructure in a refined, private setting. Space is extremely limited to ensure a high-value, peer-to-peer experience. About Rootly AI Rootly is the AI-native on-call & incident management platform that provides proactive support to help Site Reliability Engineers resolve incidents faster, improve system resilience, & streamline on-call operations. It's your always-on SRE copilot that automates root cause analysis & identifies patterns that drive continuous improvement-trusted by hundreds of companies like LinkedIn, NVIDIA, Replit, Elastic, Canva, Clay, Tripadvisor, & Grammarly."
-    },
-    "gary_2026_11_18_startup_pitch_mixer": {
-      "title": "Startup Pitch Mixer",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Wed",
-      "date": "2026-11-18",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 11/18 · 6:00pm",
-      "price": "$22",
-      "free": false,
-      "place": "Whiskey Cellar, 77 E 7th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/64c3u1q/Startup-Pitch-Mixer",
-      "map": "https://maps.google.com/?q=Whiskey%20Cellar%2C%2077%20E%207th%20St",
-      "summary": "Gary's Guide: With Startup Valley."
-    },
-    "luma_2026_11_13_next_gen_girls_summit_tech_edition": {
-      "title": "Next Gen Girls Summit:Tech Edition",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 11/13 · 6pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/genztea-quim",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: GenZtea, Natalie Neptune, Cooperman Business Center"
+      "link": "https://www.garysguide.com/events/2a0iqvp/Dev-AI-NYC",
+      "map": "https://maps.google.com/?q=Automattic%2C%20166%20Crosby%20St%2C%2011th%20Fl",
+      "summary": "Gary's Guide: With Jane Pek (Author of The Verifiers & The Rivals), Chenda Ngak (Head of Comms, Automattic)."
     },
     "luma_2026_11_13_nyc_claude_art_ai_go_to_market_g2m_meetup": {
       "title": "NYC Claude Art & AI: Go-to-Market (G2M) Meetup",
@@ -1659,40 +1642,6 @@
       "link": "https://engineering.nyu.edu/events/2026/11/18/phd-dissertation-defense-estimating-pile-bearing-capacity-using-machine-learning",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_10005051_2026_11_13_toy_drive_donations_2026": {
-      "title": "Toy Drive Donations 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Fri, 11/13 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-13/",
-      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
-    },
-    "jc_culture_43736_2026_11_13_cat_stick_easel_moon_closing_reception_2026_smush_ga": {
-      "title": "Cat, Stick, Easel, Moon Closing Reception 2026 Smush Gallery",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Fri, 11/13 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/cat-stick-easel-moon-closing-reception-2026-smush-gallery/",
-      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts."
     },
     "jc_culture_10005052_2026_11_14_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -2272,6 +2221,23 @@
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     },
+    "jc_culture_45138_2026_12_02_jersey_city_holiday_concert_2026": {
+      "title": "Jersey City Holiday Concert 2026",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Wed",
+      "date": "2026-12-02",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Wed, 12/02 · 5:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Landmark Loews Theatre, 54 Journal Square, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/jersey-city-holiday-concert-2026/",
+      "map": "https://maps.google.com/?q=Landmark%20Loews%20Theatre%2C%2054%20Journal%20Square%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join Mayor James Solomon and the City of Jersey City for an unforgettable holiday concert featuring the New Jersey Symphony at the historic Loew’s Theatre! This special celebration is free for Jersey City residents, with priority access for seniors and JC students. Special thanks to our generous sponsors for helping make this inaugural holiday concert possible. We’d also like to encourage attendees to bring a new, unwrapped toy in support of the City’s Toy Drive. Seniors Please contact Joan Eccleston at 201 547 4992 Students Please CLICK HERE and enter JCSTUDENTS Residents Please CLICK HERE and fill out the required information"
+    },
     "jc_culture_10005071_2026_12_03_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
       "type": "art",
@@ -2424,6 +2390,23 @@
       "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-12-07/",
       "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
+    },
+    "jc_culture_10003580_2026_12_09_hamilton_park_farmers_market_2026": {
+      "title": "Hamilton Park Farmers Market 2026",
+      "type": "market",
+      "label": "Festival / Market",
+      "day": "Wed",
+      "date": "2026-12-09",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Wed, 12/09 · 4pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026-2/2026-12-09/",
+      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     }
   },
   "clusters": {
@@ -2502,22 +2485,22 @@
       "gary_2026_11_17_build_connect_learn_how_to_ship_software_w_ai"
     ],
     "cluster_2026_11_17_7_pm": [
-      "gary_2026_11_17_agentic_ads_nyc_founders_dinner",
-      "gary_2026_11_17_nycfc_founders_dinner_with_rho"
+      "gary_2026_11_17_agentic_ads_founders_dinner",
+      "gary_2026_11_17_nyc_founders_club_dinner_w_rho"
+    ],
+    "cluster_2026_11_18_4_pm": [
+      "gary_2026_11_18_legal_engineers",
+      "jc_culture_10003577_2026_11_18_hamilton_park_farmers_market_2026"
+    ],
+    "cluster_2026_11_18_5_pm": [
+      "gary_2026_11_18_ai_build_lab_for_founders_build",
+      "gary_2026_11_18_book_launch_digital_assets_crypto_for_investors"
     ],
     "cluster_2026_11_18_5_30_pm": [
       "gary_2026_11_18_cpg_founders_what_worked_what_didn_t_2027_outlook",
       "gary_2026_11_18_tech_social",
-      "gary_2026_11_18_b2b_womxn_in_ai_founders_investors_operators_meetup"
-    ],
-    "cluster_2026_11_18_6_pm": [
-      "gary_2026_11_18_nexus_meetup_holiday_celebration",
-      "gary_2026_11_18_exec_dinner_w_rootly_ai_x_anthropic",
-      "gary_2026_11_18_startup_pitch_mixer"
-    ],
-    "cluster_2026_11_13_6_pm": [
-      "luma_2026_11_13_next_gen_girls_summit_tech_edition",
-      "jc_culture_43736_2026_11_13_cat_stick_easel_moon_closing_reception_2026_smush_ga"
+      "gary_2026_11_18_b2b_womxn_in_ai_founders_investors_operators_meetup",
+      "gary_2026_11_18_dev_ai_nyc"
     ],
     "cluster_2026_11_18_11_am": [
       "nyu_tandon_2026_11_18_instructional_tech_drop_in_sessions",
