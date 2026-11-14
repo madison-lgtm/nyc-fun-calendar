@@ -1,241 +1,241 @@
 {
   "meta": {
-    "checked": "Nov 13, 2026, 7:25 PM EST",
+    "checked": "Nov 14, 2026, 11:47 AM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
         "iso": "2026-11-14",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Nov 13"
-      },
-      {
-        "iso": "2026-11-15",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 14"
       },
       {
-        "iso": "2026-11-16",
+        "iso": "2026-11-15",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 15"
       },
       {
-        "iso": "2026-11-17",
+        "iso": "2026-11-16",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 16"
       },
       {
-        "iso": "2026-11-18",
+        "iso": "2026-11-17",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 17"
       },
       {
-        "iso": "2026-11-19",
+        "iso": "2026-11-18",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 18"
       },
       {
-        "iso": "2026-11-20",
+        "iso": "2026-11-19",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 19"
+      },
+      {
+        "iso": "2026-11-20",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Nov 20"
       }
     ],
     "monthDays": [
       {
         "iso": "2026-11-14",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Nov 13"
-      },
-      {
-        "iso": "2026-11-15",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 14"
       },
       {
-        "iso": "2026-11-16",
+        "iso": "2026-11-15",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 15"
       },
       {
-        "iso": "2026-11-17",
+        "iso": "2026-11-16",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 16"
       },
       {
-        "iso": "2026-11-18",
+        "iso": "2026-11-17",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 17"
       },
       {
-        "iso": "2026-11-19",
+        "iso": "2026-11-18",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 18"
       },
       {
-        "iso": "2026-11-20",
+        "iso": "2026-11-19",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 19"
       },
       {
-        "iso": "2026-11-21",
+        "iso": "2026-11-20",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 20"
       },
       {
-        "iso": "2026-11-22",
+        "iso": "2026-11-21",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 21"
       },
       {
-        "iso": "2026-11-23",
+        "iso": "2026-11-22",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 22"
       },
       {
-        "iso": "2026-11-24",
+        "iso": "2026-11-23",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-24",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-25",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-26",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-27",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-28",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-11-29",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-11-30",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-01",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-02",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-03",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-04",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-06",
+        "iso": "2026-12-05",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
       },
       {
-        "iso": "2026-12-07",
+        "iso": "2026-12-06",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 6"
       },
       {
-        "iso": "2026-12-08",
+        "iso": "2026-12-07",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 7"
       },
       {
-        "iso": "2026-12-09",
+        "iso": "2026-12-08",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
       },
       {
-        "iso": "2026-12-10",
+        "iso": "2026-12-09",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 9"
       },
       {
-        "iso": "2026-12-11",
+        "iso": "2026-12-10",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 10"
       },
       {
-        "iso": "2026-12-12",
+        "iso": "2026-12-11",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 11"
       },
       {
-        "iso": "2026-12-13",
+        "iso": "2026-12-12",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 12"
       },
       {
-        "iso": "2026-12-14",
+        "iso": "2026-12-13",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 13"
+      },
+      {
+        "iso": "2026-12-14",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Dec 14"
       }
     ],
-    "todayKey": "Fri",
+    "todayKey": "Sat",
     "times": [
       "6:30 AM",
       "7:15 AM",
@@ -260,9 +260,7 @@
       "6 PM",
       "6:30 PM",
       "7 PM",
-      "8 PM",
-      "10 PM",
-      "10:30 PM"
+      "8 PM"
     ]
   },
   "events": {
@@ -656,125 +654,6 @@
       "link": "https://movingimage.org/series/the-minnellis/",
       "map": "https://maps.google.com/?q=a%20dual%20retrospective%20of%2028%20films%20celebrating%20vincente%20and%20liza%20minnelli%20NYC",
       "summary": "film fests / series. Pulled from The Skint's public article feed: fri thru 1/24/2027: the minnellis: a dual retrospective of 28 films celebrating vincente and liza minnelli. museum of the moving image (astoria), $17.50 general, $12 students, $12 seniors. >>”"
-    },
-    "gary_2026_11_13_ai_briefing_who_owns_data_layer_behind_enterprise_ai": {
-      "title": "AI Briefing - Who Owns Data Layer Behind Enterprise AI",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 11/13 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Civic Hall, 124 E 14th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/n1ky0lj/AI-Briefing-Who-Owns-Data-Layer-Behind-Enterprise-AI",
-      "map": "https://maps.google.com/?q=Civic%20Hall%2C%20124%20E%2014th%20St",
-      "summary": "Gary's Guide: With Startup Grind."
-    },
-    "gary_2026_11_13_columbia_business_school_founder_showcase": {
-      "title": "Columbia Business School Founder Showcase",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 11/13 · 10:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, Online",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/17gat5m/Columbia-Business-School-Founder-Showcase",
-      "map": "https://maps.google.com/?q=Venue%2C%20Online",
-      "summary": "Gary's Guide: Discover startups led by Columbia Business School students & alumni at the CBS Virtual Founder Showcase. Hear founders pitch their ventures across a range of industries & stages, learn what they're building, & connect with entrepreneurs emerging from the CBS ecosystem."
-    },
-    "gary_2026_11_13_nasa_space_apps_hackathon": {
-      "title": "NASA Space Apps Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Fri, 11/13 · 4:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "NYU Tandon, 6 MetroTech Center, Brooklyn",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/osc4fy8/NASA-Space-Apps-Hackathon",
-      "map": "https://maps.google.com/?q=NYU%20Tandon%2C%206%20MetroTech%20Center%2C%20Brooklyn",
-      "summary": "Gary's Guide: Global hackathon bringing together coders, scientists, designers, storytellers, makers, builders, technologists & curious problem-solvers to take on challenges using NASA's free &open data."
-    },
-    "gary_2026_11_13_future_of_social_health_building_technology_that_bri": {
-      "title": "Future Of Social Health - Building Technology That Brings Us Together",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Fri, 11/13 · 4:00pm",
-      "price": "$15",
-      "free": false,
-      "place": "Fabrik Tribeca, 12-16 Vestry St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/rl9f7za/Future-Of-Social-Health-Building-Technology-That-Brings-Us-Together",
-      "map": "https://maps.google.com/?q=Fabrik%20Tribeca%2C%2012-16%20Vestry%20St",
-      "summary": "Gary's Guide: With Hans Rocha IJzerman (CEO, Entrelecs), Jackie Ourman (Founder, Social Connection Collective), Odile Beniflah (Growth Strategist), Mikki Hoffman (Community Dir., Fabrik Dumbo)."
-    },
-    "gary_2026_11_13_claude_art_ai_g2m_meetup": {
-      "title": "Claude Art & AI - G2M Meetup",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Fri, 11/13 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/c5dog92/Claude-Art-AI-G2M-Meetup",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Kelly Zou (NYC Claude Ambassador)."
-    },
-    "gary_2026_11_13_physical_ai_ml_computer_vision_meetup": {
-      "title": "Physical AI, ML & Computer Vision Meetup",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "5:30 PM",
-      "sort": 17.5,
-      "when": "Fri, 11/13 · 5:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Fractal Tech, 111 Conselyea St, 2nd Fl, Brooklyn",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/i4i9p3v/Physical-AI-ML-Computer-Vision-Meetup",
-      "map": "https://maps.google.com/?q=Fractal%20Tech%2C%20111%20Conselyea%20St%2C%202nd%20Fl%2C%20Brooklyn",
-      "summary": "Gary's Guide: With Dan Gural (Head of Physical AI Partnerships, Voxel51), Yash Gugale (FDE Enggr, TwelveLabs), Irmak Guzey (NYU)."
-    },
-    "gary_2026_11_13_gen_juice_drinks_w_ai_creators_filmmakers_comedians": {
-      "title": "Gen&Juice - Drinks w/ AI Creators, Filmmakers & Comedians",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "6:30 PM",
-      "sort": 18.5,
-      "when": "Fri, 11/13 · 6:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/a311ner/Gen-Juice-Drinks-w-AI-Creators-Filmmakers-Comedians",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Filmmakers, comedians, AI artists, comedy writers-join Machine Cinema for a relaxed night of drinks, connections, & creative conversation. Whether you're making films, writing sketches, developing characters, or building creative tools, come meet people with different skills & a shared appetite for making something interesting. Swap ideas, talk shop, find collaborators, or finally meet the person behind that project you've been following. From cinematic experiments to animated comedy & wildly specific parody, there's plenty to connect over. AI experience welcome. AI curiosity equally welcome. Bring a friend, grab a drink, & see where the conversation goes."
     },
     "gary_2026_11_14_innodata_hackathon_build_at_frontier_of_ai": {
       "title": "Innodata Hackathon - Build At Frontier Of AI",
@@ -1422,39 +1301,124 @@
       "map": "https://maps.google.com/?q=Automattic%2C%20166%20Crosby%20St%2C%2011th%20Fl",
       "summary": "Gary's Guide: With Jane Pek (Author of The Verifiers & The Rivals), Chenda Ngak (Head of Comms, Automattic)."
     },
-    "luma_2026_11_13_nyc_claude_art_ai_go_to_market_g2m_meetup": {
-      "title": "NYC Claude Art & AI: Go-to-Market (G2M) Meetup",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "10 PM",
-      "sort": 22,
-      "when": "Fri, 11/13 · 10pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/claude-cgq5",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Claude Community Events, Kel-Kel"
+    "gary_2026_11_18_nexus_meetup_holiday_celebration": {
+      "title": "Nexus Meetup & Holiday Celebration",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 11/18 · 6:00pm",
+      "price": "$25",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/74gbt7z/Nexus-Meetup-Holiday-Celebration",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With founders, VCs, marketers, creators & others."
     },
-    "luma_2026_11_13_nyc_physical_ai_ml_and_computer_vision_meetup": {
-      "title": "NYC Physical AI, ML, and Computer Vision Meetup",
+    "gary_2026_11_18_exec_dinner_w_rootly_ai_x_anthropic": {
+      "title": "Exec Dinner w/ Rootly AI x Anthropic",
       "type": "tech",
       "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Fri, 11/13 · 10:30pm",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 11/18 · 6:00pm",
       "price": "Free",
       "free": true,
-      "place": "Fractal Tech",
-      "source": "Luma NYC",
-      "link": "https://luma.com/nyc-physical-ai-ml-and-computer-vision-meetup-nov",
-      "map": "https://maps.google.com/?q=Fractal%20Tech%20NYC",
-      "summary": "Luma NYC: Voxel51 Events, Voxel51, Fractal NYC"
+      "place": "Huso, 323A Greenwich St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/9kh9kok/Exec-Dinner-w-Rootly-AI-x-Anthropic",
+      "map": "https://maps.google.com/?q=Huso%2C%20323A%20Greenwich%20St",
+      "summary": "Gary's Guide: Join Rootly & Anthropic for an intimate evening at Huso, a Michelin-starred culinary landmark in Tribeca. Led by two-time Top Chef winner Buddha Lo, Huso offers a sophisticated \"caviar speakeasy\" atmosphere, providing a private & prestigious setting for NYC's top tech leaders & innovators to connect. We will host a peer-to-peer discussion on incident management & the future of AI-driven reliability while experiencing a world-class tasting menu defined by Michelin-starred precision & innovation. The Experience Venue: Huso, a Michelin-starred destination celebrated for its intimate luxury & exclusive atmosphere. Cuisine: A curated, 12-course tasting menu featuring seasonal ingredients & rare delicacies, including Huso's signature legal Beluga caviar. Dialogue: High-value insights on scaling resilient engineering & AI infrastructure in a refined, private setting. Space is extremely limited to ensure a high-value, peer-to-peer experience. About Rootly AI Rootly is the AI-native on-call & incident management platform that provides proactive support to help Site Reliability Engineers resolve incidents faster, improve system resilience, & streamline on-call operations. It's your always-on SRE copilot that automates root cause analysis & identifies patterns that drive continuous improvement-trusted by hundreds of companies like LinkedIn, NVIDIA, Replit, Elastic, Canva, Clay, Tripadvisor, & Grammarly."
+    },
+    "gary_2026_11_18_startup_pitch_mixer": {
+      "title": "Startup Pitch Mixer",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 11/18 · 6:00pm",
+      "price": "$22",
+      "free": false,
+      "place": "Whiskey Cellar, 77 E 7th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/64c3u1q/Startup-Pitch-Mixer",
+      "map": "https://maps.google.com/?q=Whiskey%20Cellar%2C%2077%20E%207th%20St",
+      "summary": "Gary's Guide: With Startup Valley."
+    },
+    "gary_2026_11_18_from_markets_to_venture_investing_across_healthcare_": {
+      "title": "From Markets To Venture - Investing Across Healthcare Landscape",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 11/18 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ud85jq7/From-Markets-To-Venture-Investing-Across-Healthcare-Landscape",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Nucleate, First Citizens Innovation Banking."
+    },
+    "gary_2026_11_18_infra_systems_meetup_w_workos": {
+      "title": "Infra Systems Meetup w/ WorkOS",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 11/18 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/vcilnja/Infra-Systems-Meetup-w-WorkOS",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Fedor Korotov (OpenAI), Bryan Russett (Co-Founder/CEO, Empathic), Will Porter (Security Enggr, WorkOS), Brendan O'Brien (Co-Founder/CEO, Number 0)."
+    },
+    "gary_2026_11_18_creative_ai_forum": {
+      "title": "Creative AI Forum",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 11/18 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/2rj0b35/Creative-AI-Forum",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Derrick Schultz (AI filmmaker), Jens Loeffle (Principal Product, Adobe), Dan Schapiro (Dir., Bria AI), James Barnes (Autobiographer, Etherea)."
+    },
+    "gary_2026_11_18_pitch_roast_live": {
+      "title": "Pitch Roast Live",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "time": "6:30 PM",
+      "sort": 18.5,
+      "when": "Wed, 11/18 · 6:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Caveat, 21 A Clinton St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/z5asmih/Pitch-Roast-Live",
+      "map": "https://maps.google.com/?q=Caveat%2C%2021%20A%20Clinton%20St",
+      "summary": "Gary's Guide: 4 founders, 3 comedians, 2 VC investors, 1 winner."
     },
     "luma_2026_11_14_ventured_the_founding_walk": {
       "title": "Ventured — The Founding Walk",
@@ -1489,74 +1453,6 @@
       "link": "https://luma.com/drh0kjbb",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Rosetta Yu, Rosetta Yu, Light House, Joyce Li, Bernard Fan, Jack fan"
-    },
-    "nyu_tandon_2026_11_13_mechanism_of_quiescent_nanoplastic_formation_from_se": {
-      "title": "Mechanism of Quiescent Nanoplastic Formation from Semicrystalline Polymers",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "10:45 AM",
-      "sort": 10.75,
-      "when": "Fri, 11/13 · 10:45 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/13/mechanism-quiescent-nanoplastic-formation-semicrystalline-polymers",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_11_13_wikipedia_for_academics": {
-      "title": "Wikipedia for Academics",
-      "type": "tech",
-      "label": "Workshop / Training",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Fri, 11/13 · 1:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/13/wikipedia-academics",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Workshop / Training"
-    },
-    "nyu_tandon_2026_11_13_machine_learning_for_optimization_under_hard_constra": {
-      "title": "Machine Learning for Optimization under Hard Constraints",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Fri, 11/13 · 3:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/13/machine-learning-optimization-under-hard-constraints",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_11_13_meet_the_industry_joe_frezzo_bayer_pharmaceuticals": {
-      "title": "Meet the Industry: Joe Frezzo, Bayer Pharmaceuticals",
-      "type": "tech",
-      "label": "Career Development",
-      "day": "Fri",
-      "date": "2026-11-13",
-      "time": "3:30 PM",
-      "sort": 15.5,
-      "when": "Fri, 11/13 · 3:30 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/13/meet-industry-joe-frezzo-bayer-pharmaceuticals",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Career Development"
     },
     "nyu_tandon_2026_11_16_neural_dynamics_of_feedforward_and_feedback_speech_p": {
       "title": "Neural Dynamics of Feedforward and Feedback Speech Processing",
@@ -1640,6 +1536,74 @@
       "place": "NYU Tandon / Online",
       "source": "NYU Tandon",
       "link": "https://engineering.nyu.edu/events/2026/11/18/phd-dissertation-defense-estimating-pile-bearing-capacity-using-machine-learning",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_11_19_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
+      "type": "tech",
+      "label": "Workshop / Training",
+      "day": "Thu",
+      "date": "2026-11-19",
+      "time": "12 PM",
+      "sort": 12,
+      "when": "Thu, 11/19 · 12:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/19/instructional-tech-drop-sessions",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Workshop / Training"
+    },
+    "nyu_tandon_2026_11_19_cue_department_thanksgiving_get_together": {
+      "title": "CUE Department Thanksgiving Get-Together",
+      "type": "tech",
+      "label": "Special",
+      "day": "Thu",
+      "date": "2026-11-19",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Thu, 11/19 · 3:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/19/cue-department-thanksgiving-get-together",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Special"
+    },
+    "nyu_tandon_2026_11_20_safe_and_resilient_multi_agent_cooperation_from_faul": {
+      "title": "Safe and Resilient Multi-Agent Cooperation: From Fault Detection to Safety Assurance",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Fri",
+      "date": "2026-11-20",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Fri, 11/20 · 10:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/20/safe-and-resilient-multi-agent-cooperation-fault-detection-safety-assurance",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_11_20_revealing_the_markers_of_metal_anode_stability_using": {
+      "title": "Revealing the Markers of Metal Anode Stability Using Substrate Physics and Statistical Learning",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Fri",
+      "date": "2026-11-20",
+      "time": "10:45 AM",
+      "sort": 10.75,
+      "when": "Fri, 11/20 · 10:45 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/20/revealing-markers-metal-anode-stability-using-substrate-physics-and-statistical",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
@@ -2438,17 +2402,7 @@
     ],
     "cluster_2026_11_13_10_am": [
       "skint_93374_9_the_16th_annual_video_art_and_experimental_film_fest",
-      "skint_93374_10_the_annual_baby_teeth_film_festival_celebrating_tran",
-      "gary_2026_11_13_ai_briefing_who_owns_data_layer_behind_enterprise_ai",
-      "gary_2026_11_13_columbia_business_school_founder_showcase"
-    ],
-    "cluster_2026_11_13_1_pm": [
-      "skint_93374_11_the_minnellis",
-      "nyu_tandon_2026_11_13_wikipedia_for_academics"
-    ],
-    "cluster_2026_11_13_4_pm": [
-      "gary_2026_11_13_nasa_space_apps_hackathon",
-      "gary_2026_11_13_future_of_social_health_building_technology_that_bri"
+      "skint_93374_10_the_annual_baby_teeth_film_festival_celebrating_tran"
     ],
     "cluster_2026_11_14_9_am": [
       "gary_2026_11_14_innodata_hackathon_build_at_frontier_of_ai",
@@ -2501,6 +2455,14 @@
       "gary_2026_11_18_tech_social",
       "gary_2026_11_18_b2b_womxn_in_ai_founders_investors_operators_meetup",
       "gary_2026_11_18_dev_ai_nyc"
+    ],
+    "cluster_2026_11_18_6_pm": [
+      "gary_2026_11_18_nexus_meetup_holiday_celebration",
+      "gary_2026_11_18_exec_dinner_w_rootly_ai_x_anthropic",
+      "gary_2026_11_18_startup_pitch_mixer",
+      "gary_2026_11_18_from_markets_to_venture_investing_across_healthcare_",
+      "gary_2026_11_18_infra_systems_meetup_w_workos",
+      "gary_2026_11_18_creative_ai_forum"
     ],
     "cluster_2026_11_18_11_am": [
       "nyu_tandon_2026_11_18_instructional_tech_drop_in_sessions",
