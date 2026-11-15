@@ -1,6 +1,6 @@
 {
   "meta": {
-    "checked": "Nov 15, 2026, 12:30 PM EST",
+    "checked": "Nov 15, 2026, 6:29 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
@@ -263,6 +263,7 @@
       "7 PM",
       "8 PM",
       "10:30 PM",
+      "11 PM",
       "11:30 PM"
     ]
   },
@@ -1372,6 +1373,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: NYC B2B is the premier community for B2B Founders, Operators, & Investors in NYC. NYC B2B often hosts happy hour events for founders, builders, & investors based in NYC. This is an exclusive event for B2B AI founders & investors. Want to sponsor future events? Email: newyorkcityventures@gmail.com This meetup is hosted by NYC B2B. It's a great way to meet other founders, builders, & investors. Whether you're building a company, exploring a side project, or considering a new idea, we would love to have you here. NYC B2B has previously hosted events for thousands of B2B startup founders + operators in NYC across Vertical SaaS, AI, FinTech, Healthcare, DevTools, Infrastructure, & more. By signing up, you are confirming your interest in hearing about more events from NYC B2B in the future via email! NYC B2B also helps connect those who sign up with awesome partners. Note: This is a 21+ event. Please let our team know in advance if you'd like to bring a guest, as unregistered +1s will not be admitted. Attendees who disregard this policy may not be invited to future NYC B2B events. - Hiring or looking for jobs? startupjobs.nyc"
     },
+    "luma_2026_11_16_nyc_b2b_x_asian_tech_week_founders_investors_meetup": {
+      "title": "NYC B2B x Asian Tech Week: Founders & Investors Meetup",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Mon",
+      "date": "2026-11-16",
+      "time": "11 PM",
+      "sort": 23,
+      "when": "Mon, 11/16 · 11pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/uptm8q9d",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Asian Tech Week - 2026, NYC B2B, Manikandan Ponperumal, Fordham Venture Capital Club, The Asian"
+    },
     "luma_2026_11_16_luxury_business_taste_with_pauline_brown_former_chai": {
       "title": "Luxury, Business, & Taste with Pauline Brown, Former Chairwoman of LVMH",
       "type": "startup",
@@ -1439,23 +1457,6 @@
       "link": "https://luma.com/fintech-sqre",
       "map": "https://maps.google.com/?q=Marsha%20P.%20Johnson%20Memorial%20Fountain%20NYC",
       "summary": "Luma NYC: FinTech Run Club, FinTech Run Club, Pedro D'Avila, Kendall Warson, Connor Griffin, Rain Events"
-    },
-    "luma_2026_11_18_ahead_of_anthropic_s_ipo_what_s_next_for_ai_startups": {
-      "title": "Ahead of Anthropic's IPO: What's Next for AI Startups?",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-11-18",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Wed, 11/18 · 10:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/omfr6c0z",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: EchoHer Events, EchoHer, Michelle Wang, Chris Doyle, Jin Zhi, Kaelah Ross"
     },
     "nyu_tandon_2026_11_16_neural_dynamics_of_feedforward_and_feedback_speech_p": {
       "title": "Neural Dynamics of Feedforward and Feedback Speech Processing",
@@ -1559,6 +1560,23 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
+    "nyu_tandon_2026_11_19_rimon_rafiah_economikr_new_challenges_in_uncertain_t": {
+      "title": "Rimon Rafiah (Economikr) — New Challenges in Uncertain Times: A Focus on Transportation Economics Evaluations",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Thu",
+      "date": "2026-11-19",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Thu, 11/19 · 1:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/19/rimon-rafiah-economikr-new-challenges-uncertain-times-focus-transportation",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
     "nyu_tandon_2026_11_19_cue_department_thanksgiving_get_together": {
       "title": "CUE Department Thanksgiving Get-Together",
       "type": "tech",
@@ -1607,23 +1625,6 @@
       "place": "NYU Tandon / Online",
       "source": "NYU Tandon",
       "link": "https://engineering.nyu.edu/events/2026/11/20/revealing-markers-metal-anode-stability-using-substrate-physics-and-statistical",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_11_20_youngseo_kim_ucla_closing_the_loop_human_choice_and_": {
-      "title": "Youngseo Kim (UCLA) — Closing the Loop: Human Choice and Optimization in Urban Transportation",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Fri",
-      "date": "2026-11-20",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Fri, 11/20 · 2:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/20/closing-loop-human-choice-and-optimization-urban-transportation",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
