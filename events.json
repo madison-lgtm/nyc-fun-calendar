@@ -1,15 +1,9 @@
 {
   "meta": {
-    "checked": "Nov 15, 2026, 6:29 PM EST",
+    "checked": "Nov 16, 2026, 3:44 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
-      {
-        "iso": "2026-11-15",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Nov 15"
-      },
       {
         "iso": "2026-11-16",
         "key": "Mon",
@@ -45,15 +39,15 @@
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 21"
+      },
+      {
+        "iso": "2026-11-22",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Nov 22"
       }
     ],
     "monthDays": [
-      {
-        "iso": "2026-11-15",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Nov 15"
-      },
       {
         "iso": "2026-11-16",
         "key": "Mon",
@@ -233,9 +227,15 @@
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 15"
+      },
+      {
+        "iso": "2026-12-16",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Dec 16"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
       "6:30 AM",
       "7:15 AM",
@@ -244,13 +244,11 @@
       "9 AM",
       "10 AM",
       "10:30 AM",
-      "10:45 AM",
       "11 AM",
       "11:30 AM",
       "12 PM",
       "12:30 PM",
       "1 PM",
-      "1:30 PM",
       "2 PM",
       "2:30 PM",
       "3 PM",
@@ -455,109 +453,7 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "skint_93374_0_the_annual_designing_women_market": {
-      "title": "the annual designing women market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 11/14 · 11am-5pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "the new york historical store (uws)",
-      "source": "The Skint",
-      "link": "https://www.nyhistory.org/programs/designing-women-market4?date=2026-11-14",
-      "map": "https://maps.google.com/?q=the%20new%20york%20historical%20store%20(uws)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-5pm: the annual designing women market: the new york historical store (uws)."
-    },
-    "skint_93374_1_morbid_anatomy_s_annual_krampus_holiday_market": {
-      "title": "morbid anatomy’s annual krampus holiday market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 11/14 · 11am-6pm",
-      "price": "$5 admission",
-      "free": false,
-      "place": "brooklynone’s tom kane theatre @ industry city",
-      "source": "The Skint",
-      "link": "https://www.morbidanatomy.org/events/2026/10/18/q9g5km0gnq2rjm465vn2i9mjg63rev-aw632-jtkjl",
-      "map": "https://maps.google.com/?q=brooklynone%E2%80%99s%20tom%20kane%20theatre%20%40%20industry%20city%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 11am-6pm: morbid anatomy’s annual krampus holiday market: brooklynone’s tom kane theatre @ industry city. $5 admission 11am-6pm, $20 early bird admission 10-11am."
-    },
-    "skint_93374_2_fall_holiday_market": {
-      "title": "fall holiday market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sat, 11/14 · 12-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "barrow’s intense tasting room (industry city)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/p/Dffvv7GPxHD/",
-      "map": "https://maps.google.com/?q=barrow%E2%80%99s%20intense%20tasting%20room%20(industry%20city)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat 12-6pm: fall holiday market: barrow’s intense tasting room (industry city)."
-    },
-    "skint_93374_3_a_current_affair_pop_up_vintage_marketplace": {
-      "title": "a current affair pop-up vintage marketplace",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sat, 11/14 · + sun (10am-5pm)",
-      "price": "$20 admission",
-      "free": false,
-      "place": "industry city, $20 admission",
-      "source": "The Skint",
-      "link": "https://itsacurrentaffair.com",
-      "map": "https://maps.google.com/?q=industry%20city%2C%20%2420%20admission%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun (10am-5pm): a current affair pop-up vintage marketplace: industry city, $20 admission."
-    },
-    "skint_93374_4_renegade_craft_fall_winter_fair": {
-      "title": "renegade craft: fall/winter fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 11/14 · + sun (11am-5pm)",
-      "price": "$5 suggested",
-      "free": false,
-      "place": "metropolitan pavilion (chelsea)",
-      "source": "The Skint",
-      "link": "https://www.renegadecraft.com/event/new-york-fall/",
-      "map": "https://maps.google.com/?q=metropolitan%20pavilion%20(chelsea)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun (11am-5pm): renegade craft: fall/winter fair: metropolitan pavilion (chelsea). $5 suggested donation."
-    },
-    "skint_93374_5_the_inaugural_brooklyn_expo_of_comics_bec": {
-      "title": "the inaugural brooklyn expo of comics (bec)",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sat",
-      "date": "2026-11-14",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sat, 11/14 · + sun (11am-7pm)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "our lady of mount carmel church (williamsburg)",
-      "source": "The Skint",
-      "link": "https://www.brooklynexpoofcomics.com/",
-      "map": "https://maps.google.com/?q=our%20lady%20of%20mount%20carmel%20church%20(williamsburg)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sat + sun (11am-7pm): the inaugural brooklyn expo of comics (bec): our lady of mount carmel church (williamsburg)."
-    },
-    "skint_93374_6_the_new_york_jewish_book_festival": {
+    "skint_93374_0_the_new_york_jewish_book_festival": {
       "title": "the new york jewish book festival",
       "type": "market",
       "label": "Festival / Market",
@@ -574,7 +470,7 @@
       "map": "https://maps.google.com/?q=the%20museum%20of%20jewish%20heritage%2C%20%2410%20suggested%20donation%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-5pm: the new york jewish book festival: the museum of jewish heritage, $10 suggested donation."
     },
-    "skint_93374_7_a_hellbound_holiday_market": {
+    "skint_93374_1_a_hellbound_holiday_market": {
       "title": "a hellbound holiday market",
       "type": "market",
       "label": "Festival / Market",
@@ -591,7 +487,7 @@
       "map": "https://maps.google.com/?q=lucky%2013%20saloon%20(gowanus)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 2-6pm: a hellbound holiday market: lucky 13 saloon (gowanus)."
     },
-    "skint_93374_8_tiny_arts_supply_holiday_market": {
+    "skint_93374_2_tiny_arts_supply_holiday_market": {
       "title": "tiny arts supply holiday market",
       "type": "market",
       "label": "Festival / Market",
@@ -607,23 +503,6 @@
       "link": "https://www.instagram.com/p/DfVcpHaIbwJ/",
       "map": "https://maps.google.com/?q=gottscheer%20hall%20(ridgewood)%20NYC",
       "summary": "cultural fests / street fairs / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm (+ 12/5, 12/19): tiny arts supply holiday market: gottscheer hall (ridgewood)."
-    },
-    "gary_2026_11_15_seed_to_series_b_founder_investor_townhouse_luncheon": {
-      "title": "Seed To Series B Founder & Investor Townhouse Luncheon",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "time": "1:30 PM",
-      "sort": 13.5,
-      "when": "Sun, 11/15 · 1:30pm",
-      "price": "$250",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/r6gkhhd/Seed-To-Series-B-Founder-Investor-Townhouse-Luncheon",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Gonzalo Quincot (Founder, Sinober), Shilpi Nayak (434 VC), Pranav Jajapur (ZERON Ventures), Francesca Poupel (F&G Capital), Triet Leminh (LMT Partners), Andrew Antar (AG VC)."
     },
     "gary_2026_11_16_fintech_run_club": {
       "title": "Fintech Run Club",
@@ -1373,6 +1252,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: NYC B2B is the premier community for B2B Founders, Operators, & Investors in NYC. NYC B2B often hosts happy hour events for founders, builders, & investors based in NYC. This is an exclusive event for B2B AI founders & investors. Want to sponsor future events? Email: newyorkcityventures@gmail.com This meetup is hosted by NYC B2B. It's a great way to meet other founders, builders, & investors. Whether you're building a company, exploring a side project, or considering a new idea, we would love to have you here. NYC B2B has previously hosted events for thousands of B2B startup founders + operators in NYC across Vertical SaaS, AI, FinTech, Healthcare, DevTools, Infrastructure, & more. By signing up, you are confirming your interest in hearing about more events from NYC B2B in the future via email! NYC B2B also helps connect those who sign up with awesome partners. Note: This is a 21+ event. Please let our team know in advance if you'd like to bring a guest, as unregistered +1s will not be admitted. Attendees who disregard this policy may not be invited to future NYC B2B events. - Hiring or looking for jobs? startupjobs.nyc"
     },
+    "gary_2026_11_19_founder_funder_or_just_finder": {
+      "title": "Founder, Funder, Or Just Finder",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-11-19",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Thu, 11/19 · 5:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Hotel Seville, 22 E 29th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/e0jgey6/Founder-Funder-Or-Just-Finder",
+      "map": "https://maps.google.com/?q=Hotel%20Seville%2C%2022%20E%2029th%20St",
+      "summary": "Gary's Guide: We're back at Hotel Seville for Pt 4 of the series! Whether you're building a company, backing one, or still figuring out which side of the table you're on, this room is for you.Pt 1 & Pt 2 at Hotel Seville each drew 170+ RSVPs, & Pt 3 at the W Union Square ran an hour over because nobody wanted to leave. Come meet NYC founders, investors, & operators over drinks. There are no panels & no pitches, just good conversations."
+    },
     "luma_2026_11_16_nyc_b2b_x_asian_tech_week_founders_investors_meetup": {
       "title": "NYC B2B x Asian Tech Week: Founders & Investors Meetup",
       "type": "startup",
@@ -1399,7 +1295,7 @@
       "time": "11:30 PM",
       "sort": 23.5,
       "when": "Mon, 11/16 · 11:30pm",
-      "price": "$100",
+      "price": "$125",
       "free": false,
       "place": "New York, NY",
       "source": "Luma NYC",
@@ -1422,7 +1318,7 @@
       "source": "Luma NYC",
       "link": "https://luma.com/voiceai-workshop-nyc-nov17",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Agora, Agora, Hermes"
+      "summary": "Luma NYC: Agora, Agora, Hermes, Thor Schaeff"
     },
     "luma_2026_11_17_durable_memory_for_ai_agents_build_lab_with_mongodb": {
       "title": "Durable Memory for AI Agents: Build Lab with MongoDB",
@@ -1458,6 +1354,23 @@
       "map": "https://maps.google.com/?q=Marsha%20P.%20Johnson%20Memorial%20Fountain%20NYC",
       "summary": "Luma NYC: FinTech Run Club, FinTech Run Club, Pedro D'Avila, Kendall Warson, Connor Griffin, Rain Events"
     },
+    "luma_2026_11_18_ahead_of_anthropic_s_ipo_what_s_next_for_ai_startups": {
+      "title": "Ahead of Anthropic's IPO: What's Next for AI Startups?",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "time": "10:30 PM",
+      "sort": 22.5,
+      "when": "Wed, 11/18 · 10:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/omfr6c0z",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: EchoHer Events, EchoHer, Michelle Wang, Chris Doyle, Jin Zhi, Kaelah Ross"
+    },
     "nyu_tandon_2026_11_16_neural_dynamics_of_feedforward_and_feedback_speech_p": {
       "title": "Neural Dynamics of Feedforward and Feedback Speech Processing",
       "type": "tech",
@@ -1491,6 +1404,23 @@
       "link": "https://engineering.nyu.edu/events/2026/11/16/brian-smith-smart-cities-supportive-cities",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_11_16_meet_the_industry_sivaraman_ramaswamy_director_of_ai": {
+      "title": "Meet the Industry: Sivaraman Ramaswamy, Director of AI Products at Johnson & Johnson",
+      "type": "tech",
+      "label": "Career Development",
+      "day": "Mon",
+      "date": "2026-11-16",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Mon, 11/16 · 5:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/16/meet-industry-sivaraman-ramaswamy-director-ai-products-johnson-johnson",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Career Development"
     },
     "nyu_tandon_2026_11_17_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1543,6 +1473,23 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
+    "nyu_tandon_2026_11_18_meet_the_industry_dustin_britton_regeneron": {
+      "title": "Meet the Industry: Dustin Britton, Regeneron",
+      "type": "tech",
+      "label": "Career Development",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "time": "5 PM",
+      "sort": 17,
+      "when": "Wed, 11/18 · 5:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/18/meet-industry-dustin-britton-regeneron",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Career Development"
+    },
     "nyu_tandon_2026_11_19_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
       "type": "tech",
@@ -1560,6 +1507,23 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
+    "nyu_tandon_2026_11_19_nyu_sampe_chapter_industry_talk_borys_schafran": {
+      "title": "NYU SAMPE Chapter Industry Talk: Borys Schafran",
+      "type": "tech",
+      "label": "Career Development",
+      "day": "Thu",
+      "date": "2026-11-19",
+      "time": "12:30 PM",
+      "sort": 12.5,
+      "when": "Thu, 11/19 · 12:30 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/19/nyu-sampe-chapter-industry-talk-borys-schafran",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Career Development"
+    },
     "nyu_tandon_2026_11_19_rimon_rafiah_economikr_new_challenges_in_uncertain_t": {
       "title": "Rimon Rafiah (Economikr) — New Challenges in Uncertain Times: A Focus on Transportation Economics Evaluations",
       "type": "tech",
@@ -1576,108 +1540,6 @@
       "link": "https://engineering.nyu.edu/events/2026/11/19/rimon-rafiah-economikr-new-challenges-uncertain-times-focus-transportation",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_11_19_cue_department_thanksgiving_get_together": {
-      "title": "CUE Department Thanksgiving Get-Together",
-      "type": "tech",
-      "label": "Special",
-      "day": "Thu",
-      "date": "2026-11-19",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Thu, 11/19 · 3:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/19/cue-department-thanksgiving-get-together",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Special"
-    },
-    "nyu_tandon_2026_11_20_safe_and_resilient_multi_agent_cooperation_from_faul": {
-      "title": "Safe and Resilient Multi-Agent Cooperation: From Fault Detection to Safety Assurance",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Fri",
-      "date": "2026-11-20",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 11/20 · 10:00 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/20/safe-and-resilient-multi-agent-cooperation-fault-detection-safety-assurance",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_11_20_revealing_the_markers_of_metal_anode_stability_using": {
-      "title": "Revealing the Markers of Metal Anode Stability Using Substrate Physics and Statistical Learning",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Fri",
-      "date": "2026-11-20",
-      "time": "10:45 AM",
-      "sort": 10.75,
-      "when": "Fri, 11/20 · 10:45 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/20/revealing-markers-metal-anode-stability-using-substrate-physics-and-statistical",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_10005053_2026_11_15_toy_drive_donations_2026": {
-      "title": "Toy Drive Donations 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sun, 11/15 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-15/",
-      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
-    },
-    "jc_culture_44877_2026_11_15_smush_artist_workshops_2026": {
-      "title": "SMUSH Artist Workshops 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "time": "12:30 PM",
-      "sort": 12.5,
-      "when": "Sun, 11/15 · 12:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/smush-artist-workshops-2026-2/",
-      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Literature & Education What's Coming Up?."
-    },
-    "jc_culture_45116_2026_11_15_speranza_presents_petticoat_patriots_2026": {
-      "title": "SPERANZA Presents Petticoat Patriots 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sun, 11/15 · 2pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/speranza-presents-petticoat-patriots-2026-2/",
-      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community History Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_10005054_2026_11_16_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -2153,7 +2015,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/jersey-city-holiday-concert-2026/",
       "map": "https://maps.google.com/?q=Landmark%20Loews%20Theatre%2C%2054%20Journal%20Square%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join Mayor James Solomon and the City of Jersey City for an unforgettable holiday concert featuring the New Jersey Symphony at the historic Loew’s Theatre! This special celebration is free for Jersey City residents, with priority access for seniors and JC students. Special thanks to our generous sponsors for helping make this inaugural holiday concert possible. We’d also like to encourage attendees to bring a new, unwrapped toy in support of the City’s Toy Drive. Seniors Please contact Joan Eccleston at 201 547 4992 Students Please CLICK HERE and enter JCSTUDENTS Residents Please CLICK HERE and fill out the required information"
+      "summary": "&nbsp; Join Mayor James Solomon and the City of Jersey City for an unforgettable holiday concert featuring the New Jersey Symphony at the historic Loew’s Theatre! This special celebration is free for Jersey City residents, with priority access for seniors and JC students. Special thanks to our generous sponsors for helping make this inaugural holiday concert possible. We’d also like to encourage attendees to bring a new, unwrapped toy in support of the City’s Toy Drive. For more information and to register please CLICK HERE"
     },
     "jc_culture_10005071_2026_12_03_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -2404,20 +2266,14 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_11_14_11_am": [
-      "skint_93374_0_the_annual_designing_women_market",
-      "skint_93374_1_morbid_anatomy_s_annual_krampus_holiday_market",
-      "skint_93374_4_renegade_craft_fall_winter_fair",
-      "skint_93374_5_the_inaugural_brooklyn_expo_of_comics_bec"
-    ],
-    "cluster_2026_11_15_2_pm": [
-      "skint_93374_7_a_hellbound_holiday_market",
-      "jc_culture_45116_2026_11_15_speranza_presents_petticoat_patriots_2026"
-    ],
     "cluster_2026_11_16_9_am": [
       "gary_2026_11_16_vc_founder_deep_tech_matchup",
       "gary_2026_11_16_asian_tech_week_nov_16_20",
       "jc_culture_10005054_2026_11_16_toy_drive_donations_2026"
+    ],
+    "cluster_2026_11_16_5_pm": [
+      "gary_2026_11_16_b2b_healthcare_founders_investors_meetup",
+      "nyu_tandon_2026_11_16_meet_the_industry_sivaraman_ramaswamy_director_of_ai"
     ],
     "cluster_2026_11_16_6_pm": [
       "gary_2026_11_16_founders_investors_connect",
@@ -2455,7 +2311,8 @@
     ],
     "cluster_2026_11_18_5_pm": [
       "gary_2026_11_18_ai_build_lab_for_founders_build",
-      "gary_2026_11_18_book_launch_digital_assets_crypto_for_investors"
+      "gary_2026_11_18_book_launch_digital_assets_crypto_for_investors",
+      "nyu_tandon_2026_11_18_meet_the_industry_dustin_britton_regeneron"
     ],
     "cluster_2026_11_18_5_30_pm": [
       "gary_2026_11_18_cpg_founders_what_worked_what_didn_t_2027_outlook",
@@ -2483,7 +2340,8 @@
     ],
     "cluster_2026_11_19_5_pm": [
       "gary_2026_11_19_agents_apis_developer_meetup",
-      "gary_2026_11_19_b2b_devtools_founders_investors_meetup"
+      "gary_2026_11_19_b2b_devtools_founders_investors_meetup",
+      "gary_2026_11_19_founder_funder_or_just_finder"
     ],
     "cluster_2026_11_17_10_30_pm": [
       "luma_2026_11_17_agora_google_deepmind_gemini_voice_ai_workshop_nyc",
