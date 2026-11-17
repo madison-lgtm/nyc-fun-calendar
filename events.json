@@ -1,47 +1,47 @@
 {
   "meta": {
-    "checked": "Nov 16, 2026, 3:44 PM EST",
+    "checked": "Nov 16, 2026, 9:33 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
-        "iso": "2026-11-16",
+        "iso": "2026-11-17",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 16"
       },
       {
-        "iso": "2026-11-17",
+        "iso": "2026-11-18",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 17"
       },
       {
-        "iso": "2026-11-18",
+        "iso": "2026-11-19",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 18"
       },
       {
-        "iso": "2026-11-19",
+        "iso": "2026-11-20",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 19"
       },
       {
-        "iso": "2026-11-20",
+        "iso": "2026-11-21",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 20"
       },
       {
-        "iso": "2026-11-21",
+        "iso": "2026-11-22",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 21"
       },
       {
-        "iso": "2026-11-22",
+        "iso": "2026-11-23",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 22"
@@ -49,187 +49,187 @@
     ],
     "monthDays": [
       {
-        "iso": "2026-11-16",
+        "iso": "2026-11-17",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 16"
       },
       {
-        "iso": "2026-11-17",
+        "iso": "2026-11-18",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 17"
       },
       {
-        "iso": "2026-11-18",
+        "iso": "2026-11-19",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 18"
       },
       {
-        "iso": "2026-11-19",
+        "iso": "2026-11-20",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 19"
       },
       {
-        "iso": "2026-11-20",
+        "iso": "2026-11-21",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 20"
       },
       {
-        "iso": "2026-11-21",
+        "iso": "2026-11-22",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 21"
       },
       {
-        "iso": "2026-11-22",
+        "iso": "2026-11-23",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 22"
       },
       {
-        "iso": "2026-11-23",
+        "iso": "2026-11-24",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
       },
       {
-        "iso": "2026-11-24",
+        "iso": "2026-11-25",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-26",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-27",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-28",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-29",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-30",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-12-01",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-12-02",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-03",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-04",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-05",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-06",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
       },
       {
-        "iso": "2026-12-06",
+        "iso": "2026-12-07",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 6"
       },
       {
-        "iso": "2026-12-07",
+        "iso": "2026-12-08",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 7"
       },
       {
-        "iso": "2026-12-08",
+        "iso": "2026-12-09",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
       },
       {
-        "iso": "2026-12-09",
+        "iso": "2026-12-10",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 9"
       },
       {
-        "iso": "2026-12-10",
+        "iso": "2026-12-11",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 10"
       },
       {
-        "iso": "2026-12-11",
+        "iso": "2026-12-12",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 11"
       },
       {
-        "iso": "2026-12-12",
+        "iso": "2026-12-13",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 12"
       },
       {
-        "iso": "2026-12-13",
+        "iso": "2026-12-14",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 13"
       },
       {
-        "iso": "2026-12-14",
+        "iso": "2026-12-15",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 14"
       },
       {
-        "iso": "2026-12-15",
+        "iso": "2026-12-16",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 15"
       },
       {
-        "iso": "2026-12-16",
+        "iso": "2026-12-17",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 16"
@@ -261,8 +261,7 @@
       "7 PM",
       "8 PM",
       "10:30 PM",
-      "11 PM",
-      "11:30 PM"
+      "11 PM"
     ]
   },
   "events": {
@@ -452,57 +451,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "skint_93374_0_the_new_york_jewish_book_festival": {
-      "title": "the new york jewish book festival",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Sun, 11/15 · 10am-5pm",
-      "price": "$10 suggested",
-      "free": false,
-      "place": "the museum of jewish heritage, $10 suggested donation",
-      "source": "The Skint",
-      "link": "https://mjhnyc.org/events/2026-new-york-jewish-book-festival/",
-      "map": "https://maps.google.com/?q=the%20museum%20of%20jewish%20heritage%2C%20%2410%20suggested%20donation%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 10am-5pm: the new york jewish book festival: the museum of jewish heritage, $10 suggested donation."
-    },
-    "skint_93374_1_a_hellbound_holiday_market": {
-      "title": "a hellbound holiday market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Sun, 11/15 · 2-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "lucky 13 saloon (gowanus)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/lucky13saloon/p/De6QT7jBUU2/",
-      "map": "https://maps.google.com/?q=lucky%2013%20saloon%20(gowanus)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 2-6pm: a hellbound holiday market: lucky 13 saloon (gowanus)."
-    },
-    "skint_93374_2_tiny_arts_supply_holiday_market": {
-      "title": "tiny arts supply holiday market",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-11-15",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 11/15 · 12-6pm (+ 12/5, 12/19)",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "gottscheer hall (ridgewood)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/p/DfVcpHaIbwJ/",
-      "map": "https://maps.google.com/?q=gottscheer%20hall%20(ridgewood)%20NYC",
-      "summary": "cultural fests / street fairs / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm (+ 12/5, 12/19): tiny arts supply holiday market: gottscheer hall (ridgewood)."
     },
     "gary_2026_11_16_fintech_run_club": {
       "title": "Fintech Run Club",
@@ -1269,40 +1217,6 @@
       "map": "https://maps.google.com/?q=Hotel%20Seville%2C%2022%20E%2029th%20St",
       "summary": "Gary's Guide: We're back at Hotel Seville for Pt 4 of the series! Whether you're building a company, backing one, or still figuring out which side of the table you're on, this room is for you.Pt 1 & Pt 2 at Hotel Seville each drew 170+ RSVPs, & Pt 3 at the W Union Square ran an hour over because nobody wanted to leave. Come meet NYC founders, investors, & operators over drinks. There are no panels & no pitches, just good conversations."
     },
-    "luma_2026_11_16_nyc_b2b_x_asian_tech_week_founders_investors_meetup": {
-      "title": "NYC B2B x Asian Tech Week: Founders & Investors Meetup",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-11-16",
-      "time": "11 PM",
-      "sort": 23,
-      "when": "Mon, 11/16 · 11pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/uptm8q9d",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Asian Tech Week - 2026, NYC B2B, Manikandan Ponperumal, Fordham Venture Capital Club, The Asian"
-    },
-    "luma_2026_11_16_luxury_business_taste_with_pauline_brown_former_chai": {
-      "title": "Luxury, Business, & Taste with Pauline Brown, Former Chairwoman of LVMH",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Mon",
-      "date": "2026-11-16",
-      "time": "11:30 PM",
-      "sort": 23.5,
-      "when": "Mon, 11/16 · 11:30pm",
-      "price": "$125",
-      "free": false,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/eidkxzuo",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Victoria Smith, Victoria Smith"
-    },
     "luma_2026_11_17_agora_google_deepmind_gemini_voice_ai_workshop_nyc": {
       "title": "Agora × Google DeepMind: Gemini Voice AI Workshop | NYC",
       "type": "tech",
@@ -1370,6 +1284,23 @@
       "link": "https://luma.com/omfr6c0z",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: EchoHer Events, EchoHer, Michelle Wang, Chris Doyle, Jin Zhi, Kaelah Ross"
+    },
+    "luma_2026_11_18_nyc_creative_ai_november_forum": {
+      "title": "NYC Creative AI November Forum",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-11-18",
+      "time": "11 PM",
+      "sort": 23,
+      "when": "Wed, 11/18 · 11pm",
+      "price": "Free",
+      "free": true,
+      "place": "Brooklyn, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/6hrc7f3o",
+      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
+      "summary": "Luma NYC: NYC Creative AI, Eric Tang, Sahar Mor (Bond AI), Xuelong Mu"
     },
     "nyu_tandon_2026_11_16_neural_dynamics_of_feedforward_and_feedback_speech_p": {
       "title": "Neural Dynamics of Feedforward and Feedback Speech Processing",
@@ -1540,23 +1471,6 @@
       "link": "https://engineering.nyu.edu/events/2026/11/19/rimon-rafiah-economikr-new-challenges-uncertain-times-focus-transportation",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_10005054_2026_11_16_toy_drive_donations_2026": {
-      "title": "Toy Drive Donations 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Mon",
-      "date": "2026-11-16",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Mon, 11/16 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-16/",
-      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
     },
     "jc_culture_10005055_2026_11_17_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -2268,8 +2182,7 @@
     ],
     "cluster_2026_11_16_9_am": [
       "gary_2026_11_16_vc_founder_deep_tech_matchup",
-      "gary_2026_11_16_asian_tech_week_nov_16_20",
-      "jc_culture_10005054_2026_11_16_toy_drive_donations_2026"
+      "gary_2026_11_16_asian_tech_week_nov_16_20"
     ],
     "cluster_2026_11_16_5_pm": [
       "gary_2026_11_16_b2b_healthcare_founders_investors_meetup",
