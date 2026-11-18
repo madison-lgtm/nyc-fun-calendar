@@ -1,47 +1,47 @@
 {
   "meta": {
-    "checked": "Nov 17, 2026, 2:29 PM EST",
+    "checked": "Nov 17, 2026, 8:48 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
-        "iso": "2026-11-17",
+        "iso": "2026-11-18",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 17"
       },
       {
-        "iso": "2026-11-18",
+        "iso": "2026-11-19",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 18"
       },
       {
-        "iso": "2026-11-19",
+        "iso": "2026-11-20",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 19"
       },
       {
-        "iso": "2026-11-20",
+        "iso": "2026-11-21",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 20"
       },
       {
-        "iso": "2026-11-21",
+        "iso": "2026-11-22",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 21"
       },
       {
-        "iso": "2026-11-22",
+        "iso": "2026-11-23",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 22"
       },
       {
-        "iso": "2026-11-23",
+        "iso": "2026-11-24",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
@@ -49,187 +49,187 @@
     ],
     "monthDays": [
       {
-        "iso": "2026-11-17",
+        "iso": "2026-11-18",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 17"
       },
       {
-        "iso": "2026-11-18",
+        "iso": "2026-11-19",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 18"
       },
       {
-        "iso": "2026-11-19",
+        "iso": "2026-11-20",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 19"
       },
       {
-        "iso": "2026-11-20",
+        "iso": "2026-11-21",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 20"
       },
       {
-        "iso": "2026-11-21",
+        "iso": "2026-11-22",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 21"
       },
       {
-        "iso": "2026-11-22",
+        "iso": "2026-11-23",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 22"
       },
       {
-        "iso": "2026-11-23",
+        "iso": "2026-11-24",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
       },
       {
-        "iso": "2026-11-24",
+        "iso": "2026-11-25",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-26",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-27",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-28",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-29",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-30",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-12-01",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-12-02",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-03",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-04",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-05",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-06",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
       },
       {
-        "iso": "2026-12-06",
+        "iso": "2026-12-07",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 6"
       },
       {
-        "iso": "2026-12-07",
+        "iso": "2026-12-08",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 7"
       },
       {
-        "iso": "2026-12-08",
+        "iso": "2026-12-09",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
       },
       {
-        "iso": "2026-12-09",
+        "iso": "2026-12-10",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 9"
       },
       {
-        "iso": "2026-12-10",
+        "iso": "2026-12-11",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 10"
       },
       {
-        "iso": "2026-12-11",
+        "iso": "2026-12-12",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 11"
       },
       {
-        "iso": "2026-12-12",
+        "iso": "2026-12-13",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 12"
       },
       {
-        "iso": "2026-12-13",
+        "iso": "2026-12-14",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 13"
       },
       {
-        "iso": "2026-12-14",
+        "iso": "2026-12-15",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 14"
       },
       {
-        "iso": "2026-12-15",
+        "iso": "2026-12-16",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 15"
       },
       {
-        "iso": "2026-12-16",
+        "iso": "2026-12-17",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 16"
       },
       {
-        "iso": "2026-12-17",
+        "iso": "2026-12-18",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 17"
@@ -605,8 +605,8 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Qapita."
     },
-    "gary_2026_11_17_nyc_ai_safety_primer_hugging_face_and_existential_ri": {
-      "title": "NYC AI Safety Primer: Hugging Face and Existential Risk.",
+    "gary_2026_11_17_nyc_ai_safety_primer_hugging_face_existential_risk": {
+      "title": "NYC AI Safety Primer: Hugging Face & Existential Risk",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Tue",
@@ -616,10 +616,10 @@
       "when": "Tue, 11/17 · 6:00pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "Venue, FiDi",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/qlptn4g/NYC-AI-Safety-Primer-Hugging-Face-and-Existential-Risk",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "link": "https://www.garysguide.com/events/qlptn4g/NYC-AI-Safety-Primer-Hugging-Face-Existential-Risk",
+      "map": "https://maps.google.com/?q=Venue%2C%20FiDi",
       "summary": "Gary's Guide: Since the Hugging Face incident & Jacob Coxon's resignation, a lot of people outside AI are asking the same questions. Is this real? How fast is it moving? Is it all sci-fi fear mongering? Should you be worried, & what could you even do? We'll take a data-driven look at how quickly AI is advancing, what happens between creatures of differing intelligence, & why nobody yet knows how to make a system smarter than us reliably do what we want. We will look at the actual data, going beyond the headlines to separate clickbait from reality. After a short talk we will have time for some Q&A & small-group discussion. Pizza & drinks provided. Who should come Anyone outside AI who is curious, worried or skeptical, from finance, law, medicine, design, policy or any other field. No technical background needed. If you work in AI safety, come & bring a friend from another field. Agenda 6:00 Doors, food & drinks 7:00 Welcome & quick poll + Talk 7:40 Small-group discussions 8:30 Share-back & ways to get involved 9:10 Close Meet your hosts Sam Donahue is an alignment researcher at AE Studio. Kevin Yang is a DevRel Engineer at Modal. Location FiDi. Exact address provided upon registration. This event is supported by BlueDot Impact. BlueDot is the leading talent accelerator for beneficial AI & societal resilience. We run online courses, fund talented people, & bring ambitious teams together through intensive in-person programs."
     },
     "gary_2026_11_17_unmuted_debate_primary_party_crashers": {
@@ -705,7 +705,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/swdnr2n/The-Talent-Mixer-with-Abaka-AI-New-York-Edition",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Abaka AI is back in New York! Join us for The Talent Mixer, a fun, relaxed evening in Manhattan for students & early-career builders who want to work on the data behind frontier AI. What to expect Meet the Abaka AI team & hear what we're building Great conversations & new friends Find out how you can get involved Who should come Any students or industry professionals who are interested entering the AI Data domain. We are open to all backgrounds. Come curious, come as you are. No AI experience required! Good to know Space is limited, so tap RSVP to save your spot. The exact location will be revealed to approved attendees. Meet Abaka AI: We are a full-lifecycle data partner for AI teams covering data collection, curation, annotation, & model evaluation across text, image, audio, video, 3D, & agent/RL data. We work with 1,000+ AI labs, partners, & research groups across autonomous driving, generative AI, & embodied AI. Follow us on LinkedIn & X. Meet Rex: Abaka's talent platform for data annotators & domain experts, connecting skilled people with flexible, meaningful AI work. This event is co-hosted with Tomorrow Lab."
+      "summary": "Gary's Guide: Demo Abaka AI."
     },
     "gary_2026_11_18_pursuit_annual_bash": {
       "title": "Pursuit Annual Bash",
@@ -1007,11 +1007,11 @@
       "when": "Wed, 11/18 · 6:00pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "Serendipity Labs - Stamford, 700 Canal St First Floor, Stamford",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/ucw0it6/Building-With-AI-ART-ificial-Intelligence-w-The-AI-Collective",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: ART-ificial Intelligence Hear from artists & how they use AI in the creative process. Arthur Augustin - Video Journalism Avant Mehta - Digital Signal Processing for Guitars Ren Soto - Body Paint As always, food & drink, engaging conversation, & incredible company will all be provided! Please be advised: Unfortunately, space is very limited at these community events & we can not always accept everyone we would like to. If you are not accepted to this event, please keep applying! We appreciate your application tremendously & we are looking forward to seeing you at a future event very soon! The AI Collective is a global non-profit building the human layer for the AI era. We unite 200,000+ leaders, builders, & stakeholders across 100+ forums worldwide to democratize the frontier, build trust, & coordinate how society navigates the rapid acceleration of technological progress. All attendees & organizers at events affiliated with The AI Collective agree to our privacy policy & are subject to our code of conduct."
+      "map": "https://maps.google.com/?q=Serendipity%20Labs%20-%20Stamford%2C%20700%20Canal%20St%20First%20Floor%2C%20Stamford",
+      "summary": "Gary's Guide: With Arthur Augustin (Video Journalism), Avant Mehta (Digital Signal Processing for Guitars)."
     },
     "gary_2026_11_18_pitch_roast_live": {
       "title": "Pitch Roast Live",
@@ -1228,10 +1228,10 @@
       "when": "Thu, 11/19 · 5:00pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
+      "place": "Upstairs, 145 E 50th St #149",
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/09robi4/Deceiving-AI-A-Tracebit-Gathering",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "map": "https://maps.google.com/?q=Upstairs%2C%20145%20E%2050th%20St%20%23149",
       "summary": "Gary's Guide: Join Tracebit in New York for an evening of drinks, food & conversation with fellow security leaders & engineers. The topic? AI attackers, & how deception can help catch them, waste their time & stop them reaching their goals. Whether you're already exploring this or just curious, come swap ideas, meet the Tracebit team & get to know others working on the same challenges. We'll have an open bar & food throughout the evening. Drop in when you can & stay for a chat. Thursday 19 November | 5-9pm New York City Venue TBC Register your interest below & we'll share the venue details soon."
     },
     "gary_2026_11_19_the_startup_pitch_demo_showcase": {
@@ -1250,40 +1250,6 @@
       "link": "https://www.garysguide.com/events/nszorua/The-Startup-Pitch-Demo-Showcase",
       "map": "https://maps.google.com/?q=The%20Yard%3A%20Herald%20Sq%2C%20106%20W%2032nd%20St",
       "summary": "Gary's Guide: With Startup Grind."
-    },
-    "luma_2026_11_17_agora_google_deepmind_gemini_voice_ai_workshop_nyc": {
-      "title": "Agora × Google DeepMind: Gemini Voice AI Workshop | NYC",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-11-17",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Tue, 11/17 · 10:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/voiceai-workshop-nyc-nov17",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: Agora, Agora, Hermes, Thor Schaeff"
-    },
-    "luma_2026_11_17_durable_memory_for_ai_agents_build_lab_with_mongodb": {
-      "title": "Durable Memory for AI Agents: Build Lab with MongoDB",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-11-17",
-      "time": "10:30 PM",
-      "sort": 22.5,
-      "when": "Tue, 11/17 · 10:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/build-lab-mongoDB",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: AI After 5, Mina Abdulla, Max Kuivenhoven, Samadnya Kalaskar, MongoDB"
     },
     "luma_2026_11_18_fintech_run_club_ft_rain_monk_jp_morgan": {
       "title": "Fintech Run Club ft. Rain + Monk + JP Morgan",
@@ -1505,40 +1471,6 @@
       "link": "https://engineering.nyu.edu/events/2026/11/19/cue-department-thanksgiving-get-together",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Special"
-    },
-    "jc_culture_10005055_2026_11_17_toy_drive_donations_2026": {
-      "title": "Toy Drive Donations 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Tue",
-      "date": "2026-11-17",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Tue, 11/17 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-17/",
-      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
-    },
-    "jc_culture_45047_2026_11_17_great_sports_stories_of_jersey_city_1889_1989": {
-      "title": "Great Sports Stories of Jersey City 1889-1989",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Tue",
-      "date": "2026-11-17",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 11/17 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/great-sports-stories-of-jersey-city-1889-1989/",
-      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community History What's Coming Up?."
     },
     "jc_culture_45049_2026_11_18_the_triangle_fire_2026": {
       "title": "The Triangle Fire 2026",
@@ -2287,8 +2219,7 @@
       "gary_2026_11_17_ai_founders_supper_club",
       "gary_2026_11_17_b2b_fintech_founders_investors_meetup",
       "gary_2026_11_17_startup_venture_legal_happy_hour",
-      "gary_2026_11_17_nyc_ai_safety_primer_hugging_face_and_existential_ri",
-      "jc_culture_45047_2026_11_17_great_sports_stories_of_jersey_city_1889_1989"
+      "gary_2026_11_17_nyc_ai_safety_primer_hugging_face_existential_risk"
     ],
     "cluster_2026_11_19_1_pm": [
       "skint_93523_1_winter_lantern_festival_illuminate_the_farm",
@@ -2356,10 +2287,6 @@
       "gary_2026_11_19_founder_funder_or_just_finder",
       "gary_2026_11_19_house_of_ideas_conference_built_around_your_business",
       "gary_2026_11_19_deceiving_ai_a_tracebit_gathering"
-    ],
-    "cluster_2026_11_17_10_30_pm": [
-      "luma_2026_11_17_agora_google_deepmind_gemini_voice_ai_workshop_nyc",
-      "luma_2026_11_17_durable_memory_for_ai_agents_build_lab_with_mongodb"
     ],
     "cluster_2026_11_18_11_am": [
       "nyu_tandon_2026_11_18_instructional_tech_drop_in_sessions",
