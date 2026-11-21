@@ -1,47 +1,47 @@
 {
   "meta": {
-    "checked": "Nov 20, 2026, 1:55 PM EST",
+    "checked": "Nov 20, 2026, 7:54 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
-        "iso": "2026-11-20",
+        "iso": "2026-11-21",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 20"
       },
       {
-        "iso": "2026-11-21",
+        "iso": "2026-11-22",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 21"
       },
       {
-        "iso": "2026-11-22",
+        "iso": "2026-11-23",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 22"
       },
       {
-        "iso": "2026-11-23",
+        "iso": "2026-11-24",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
       },
       {
-        "iso": "2026-11-24",
+        "iso": "2026-11-25",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-26",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-27",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
@@ -49,187 +49,187 @@
     ],
     "monthDays": [
       {
-        "iso": "2026-11-20",
+        "iso": "2026-11-21",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 20"
       },
       {
-        "iso": "2026-11-21",
+        "iso": "2026-11-22",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 21"
       },
       {
-        "iso": "2026-11-22",
+        "iso": "2026-11-23",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 22"
       },
       {
-        "iso": "2026-11-23",
+        "iso": "2026-11-24",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
       },
       {
-        "iso": "2026-11-24",
+        "iso": "2026-11-25",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-26",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-27",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-28",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-29",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-30",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-12-01",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-12-02",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-03",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-04",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-05",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-06",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
       },
       {
-        "iso": "2026-12-06",
+        "iso": "2026-12-07",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 6"
       },
       {
-        "iso": "2026-12-07",
+        "iso": "2026-12-08",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 7"
       },
       {
-        "iso": "2026-12-08",
+        "iso": "2026-12-09",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
       },
       {
-        "iso": "2026-12-09",
+        "iso": "2026-12-10",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 9"
       },
       {
-        "iso": "2026-12-10",
+        "iso": "2026-12-11",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 10"
       },
       {
-        "iso": "2026-12-11",
+        "iso": "2026-12-12",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 11"
       },
       {
-        "iso": "2026-12-12",
+        "iso": "2026-12-13",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 12"
       },
       {
-        "iso": "2026-12-13",
+        "iso": "2026-12-14",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 13"
       },
       {
-        "iso": "2026-12-14",
+        "iso": "2026-12-15",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 14"
       },
       {
-        "iso": "2026-12-15",
+        "iso": "2026-12-16",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 15"
       },
       {
-        "iso": "2026-12-16",
+        "iso": "2026-12-17",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 16"
       },
       {
-        "iso": "2026-12-17",
+        "iso": "2026-12-18",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 17"
       },
       {
-        "iso": "2026-12-18",
+        "iso": "2026-12-19",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 18"
       },
       {
-        "iso": "2026-12-19",
+        "iso": "2026-12-20",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 19"
       },
       {
-        "iso": "2026-12-20",
+        "iso": "2026-12-21",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 20"
@@ -771,23 +771,6 @@
       "link": "https://www.reelworks.org/film-festival",
       "map": "https://maps.google.com/?q=30%20short%20films%20across%20eight%20screening%20blocks%20NYC",
       "summary": "film fests / series. Pulled from The Skint's public article feed: sun 12-8pm: the fifth annual reel works film festival at sva theatre (chelsea): 30 short films across eight screening blocks. $20."
-    },
-    "skint_93523_0_winter_lantern_festival_illuminate_the_farm": {
-      "title": "winter lantern festival: illuminate the farm",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Thu",
-      "date": "2026-11-19",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Thu, 11/19 · thru 1/3/2027",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "queens county farm museum (floral park)",
-      "source": "The Skint",
-      "link": "https://winterlanternfestival.com/queens/",
-      "map": "https://maps.google.com/?q=queens%20county%20farm%20museum%20(floral%20park)%20NYC",
-      "summary": "holiday lights. Pulled from The Skint's public article feed: thurs thru 1/3/2027: winter lantern festival: illuminate the farm: queens county farm museum (floral park). $18-25."
     },
     "gary_2026_11_20_agent_evaluation_science": {
       "title": "Agent Evaluation Science",
@@ -1469,6 +1452,23 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With founders, operators, investors & others."
     },
+    "gary_2026_12_03_consumer_tech_day_pitch_show_growth_talk": {
+      "title": "Consumer Tech Day - Pitch Show & Growth Talk",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-12-03",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Thu, 12/03 · 3:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "The MetLife Building, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/92is20z/Consumer-Tech-Day-Pitch-Show-Growth-Talk",
+      "map": "https://maps.google.com/?q=The%20MetLife%20Building%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: On December 3, TRMNL4 is bringing its flagship Consumer Tech Day to New York together with Flyer One Ventures, Paddle, PvX Partners, Encore & MediaForGrowth. Join founders building consumer AI, apps, & hardware, product & growth operators who know what it takes to scale, & investors backing the category. Expect live pitches, a panel about growth, & plenty of time to get to know each other. Here's what's on: 1. Startup pitch competition Five selected pre-seed & seed startups building in consumer AI & hardware will pitch live to our investor jury. Come discover what they're building & hear the questions investors ask. If you'd like to pitch your startup, apply here. 2. Growth talk How do you find distribution channels that actually work & turn early traction into repeatable growth? We'll get into what worked, what didn't, & what you can try next. We're putting the speaker lineup together. Names coming soon. 3. Open networking Stay for drinks & light bites, catch up with familiar faces, & meet fellow founders, operators, & investors. Who's behind it: TRMNL4 - a consumer tech accelerator & founder community with 300+ alumni. We've built & run programs together with Meta & Snap. Flyer One Ventures - an early-stage VC backing ambitious CEE founders building global companies, with 39M invested in 95 startups. mediaforgrowth (MFG) - an international media for equity fund backing growth-stage CPG & consumer tech brands on their journey to becoming global household names. Paddle - the Merchant of Record trusted by 10,000+ digital product businesses, handling payments, tax, compliance, & billing across 300+ markets so software companies can sell globally & grow without the complexity. PvX Partners - a credit platform helping gaming & consumer app companies scale paid user acquisition through non-dilutive financing, with market intelligence from its proprietary database, Lambda. Paul Hastings - global law firm known for its high-level counsel to leading investment banks, corporations, & asset managers worldwide. See you in New York! New York | December 3 | 3:00-7:00 PM ET RSVP to join us"
+    },
     "gary_2026_12_03_startup_mixer": {
       "title": "Startup Mixer",
       "type": "startup",
@@ -1537,22 +1537,22 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Alex Atallah (Co-Founder/CEO, OpenRouter), Garrett Lord (Co-Founder/CEO, Handshake)."
     },
-    "gary_2026_12_03_longevity_holiday_party": {
-      "title": "Longevity Holiday Party",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-12-03",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Thu, 12/03 · 6:00pm",
+    "luma_2026_11_20_worn_hacks_smart_glasses_hackathon": {
+      "title": "Worn Hacks: Smart Glasses Hackathon",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-11-20",
+      "time": "11:30 PM",
+      "sort": 23.5,
+      "when": "Fri, 11/20 · 11:30pm",
       "price": "Free",
       "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ndam2eb/Longevity-Holiday-Party",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Adam Katz (Founder, Data Driven), Julia Klim (Founder, In Search Of), Hillary Lin (Physician), Mishal Reja (Longevity Salon)."
+      "place": "Brooklyn, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/smart-glass-hack-nyc",
+      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
+      "summary": "Luma NYC: localhost:nyc, Somya Gupta, Stephen Jin, Olivia Iarmak, Vishal Kharker, Celia Davis, Sahar Mor (Bond AI), Dominic Smith"
     },
     "luma_2026_11_22_nyc_non_slop_hackathon_pangram_x_nous_research_x_red": {
       "title": "NYC Non-Slop Hackathon | Pangram x Nous Research x Reducto x Modal",
@@ -1740,40 +1740,6 @@
       "link": "https://engineering.nyu.edu/events/2026/11/24/connected-vehicles-and-future-transportation-infrastructure-funding",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_45455_2026_11_20_all_the_holiday_s_one_night_only_2026": {
-      "title": "All the Holiday’s One Night Only! 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-11-20",
-      "time": "7 AM",
-      "sort": 7,
-      "when": "Fri, 11/20 · 7am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/all-the-holidays-one-night-only-2026/",
-      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Visual & Performing Arts What's Coming Up?."
-    },
-    "jc_culture_10005058_2026_11_20_toy_drive_donations_2026": {
-      "title": "Toy Drive Donations 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Fri",
-      "date": "2026-11-20",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Fri, 11/20 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-20/",
-      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
     },
     "jc_culture_10005059_2026_11_21_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -2115,8 +2081,8 @@
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     },
-    "jc_culture_45138_2026_12_02_jersey_city_holiday_concert_2026": {
-      "title": "Jersey City Holiday Concert 2026",
+    "jc_culture_45138_2026_12_02_jersey_city_holiday_concert_2026_registration_closed": {
+      "title": "Jersey City Holiday Concert 2026 / REGISTRATION CLOSED",
       "type": "entertainment",
       "label": "Music / Movies",
       "day": "Wed",
@@ -2130,7 +2096,7 @@
       "source": "Jersey City Cultural Affairs",
       "link": "https://jerseycityculture.org/event/jersey-city-holiday-concert-2026/",
       "map": "https://maps.google.com/?q=Landmark%20Loews%20Theatre%2C%2054%20Journal%20Square%2C%20Jersey%20City%2C%20NJ",
-      "summary": "&nbsp; Join Mayor James Solomon and the City of Jersey City for an unforgettable holiday concert featuring the New Jersey Symphony at the historic Loew’s Theatre! This special celebration is free for Jersey City residents, with priority access for seniors and JC students. Special thanks to our generous sponsors for helping make this inaugural holiday concert possible. We’d also like to encourage attendees to bring a new, unwrapped toy in support of the City’s Toy Drive. For more information and to register please CLICK HERE"
+      "summary": "Registration for the Jersey City Holiday Concert is now closed. However, we are creating a waiting list for those who were unable to register. Should any cancellations occur, individuals on the waiting list will be contacted in the order in which they registered. If you would like to be added to the list please email Tcastaldo@jcnj.org & Ecatanio@jcnj.org there is a two ticket limit per person. Join Mayor James Solomon and the City of Jersey City for an unforgettable holiday concert featuring the New Jersey Symphony at the historic Loew’s Theatre! This special celebration is free for Jersey City residents, with priority access for seniors and JC students. Special thanks to our generous sponsors for helping make this inaugural holiday concert possible. We’d also like to encourage attendees to bring a new, unwrapped toy in support of the City’s Toy Drive. For more information and to register please CLICK HERE"
     },
     "jc_culture_10005071_2026_12_03_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -2449,10 +2415,6 @@
     "cluster_2026_11_22_12_pm": [
       "skint_93670_12_footlight_presents_makers_market_movie_nite_addams_f",
       "skint_93670_18_the_fifth_annual_reel_works_film_festival_at_sva_the"
-    ],
-    "cluster_2026_11_20_9_am": [
-      "gary_2026_11_20_agent_evaluation_science",
-      "jc_culture_10005058_2026_11_20_toy_drive_donations_2026"
     ],
     "cluster_2026_11_20_5_pm": [
       "gary_2026_11_20_worn_smart_glasses_hackathon",
