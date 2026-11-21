@@ -1,241 +1,241 @@
 {
   "meta": {
-    "checked": "Nov 20, 2026, 7:54 PM EST",
+    "checked": "Nov 21, 2026, 12:49 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
         "iso": "2026-11-21",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Nov 20"
-      },
-      {
-        "iso": "2026-11-22",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 21"
       },
       {
-        "iso": "2026-11-23",
+        "iso": "2026-11-22",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 22"
       },
       {
-        "iso": "2026-11-24",
+        "iso": "2026-11-23",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-24",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-25",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-26",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
+      },
+      {
+        "iso": "2026-11-27",
+        "key": "Fri",
+        "label": "Fri",
+        "date": "Nov 27"
       }
     ],
     "monthDays": [
       {
         "iso": "2026-11-21",
-        "key": "Fri",
-        "label": "Fri",
-        "date": "Nov 20"
-      },
-      {
-        "iso": "2026-11-22",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 21"
       },
       {
-        "iso": "2026-11-23",
+        "iso": "2026-11-22",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 22"
       },
       {
-        "iso": "2026-11-24",
+        "iso": "2026-11-23",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-24",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-25",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-26",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-27",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-28",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-11-29",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-11-30",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-01",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-02",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-03",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-04",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-06",
+        "iso": "2026-12-05",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
       },
       {
-        "iso": "2026-12-07",
+        "iso": "2026-12-06",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 6"
       },
       {
-        "iso": "2026-12-08",
+        "iso": "2026-12-07",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 7"
       },
       {
-        "iso": "2026-12-09",
+        "iso": "2026-12-08",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
       },
       {
-        "iso": "2026-12-10",
+        "iso": "2026-12-09",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 9"
       },
       {
-        "iso": "2026-12-11",
+        "iso": "2026-12-10",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 10"
       },
       {
-        "iso": "2026-12-12",
+        "iso": "2026-12-11",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 11"
       },
       {
-        "iso": "2026-12-13",
+        "iso": "2026-12-12",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 12"
       },
       {
-        "iso": "2026-12-14",
+        "iso": "2026-12-13",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 13"
       },
       {
-        "iso": "2026-12-15",
+        "iso": "2026-12-14",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 14"
       },
       {
-        "iso": "2026-12-16",
+        "iso": "2026-12-15",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 15"
       },
       {
-        "iso": "2026-12-17",
+        "iso": "2026-12-16",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 16"
       },
       {
-        "iso": "2026-12-18",
+        "iso": "2026-12-17",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 17"
       },
       {
-        "iso": "2026-12-19",
+        "iso": "2026-12-18",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 18"
       },
       {
-        "iso": "2026-12-20",
+        "iso": "2026-12-19",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 19"
       },
       {
-        "iso": "2026-12-21",
+        "iso": "2026-12-20",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 20"
+      },
+      {
+        "iso": "2026-12-21",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Dec 21"
       }
     ],
-    "todayKey": "Fri",
+    "todayKey": "Sat",
     "times": [
       "7 AM",
       "8 AM",
@@ -1622,56 +1622,22 @@
       "map": "https://maps.google.com/?q=Spritzenhaus33%20NYC",
       "summary": "Luma NYC: New York Product Design, Brian Hui, Collin Hadley, José Arias"
     },
-    "nyu_tandon_2026_11_20_safe_and_resilient_multi_agent_cooperation_from_faul": {
-      "title": "Safe and Resilient Multi-Agent Cooperation: From Fault Detection to Safety Assurance",
+    "luma_2026_11_29_context_engineering_guild_of_new_york_city_november_": {
+      "title": "Context Engineering Guild of New York City: November Edition",
       "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Fri",
-      "date": "2026-11-20",
-      "time": "10 AM",
-      "sort": 10,
-      "when": "Fri, 11/20 · 10:00 AM",
-      "price": "Free / varies",
+      "label": "Tech / AI",
+      "day": "Sun",
+      "date": "2026-11-29",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Sun, 11/29 · 7pm",
+      "price": "Free",
       "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/20/safe-and-resilient-multi-agent-cooperation-fault-detection-safety-assurance",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_11_20_distributed_phased_arrays_coordination_of_wireless_s": {
-      "title": "Distributed Phased Arrays: Coordination of Wireless Systems at the Wavelength Level and Their Application to Communications and Sensing",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Fri",
-      "date": "2026-11-20",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Fri, 11/20 · 11:00 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/20/distributed-phased-arrays-coordination-wireless-systems-wavelength-level-and",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_11_20_youngseo_kim_ucla_closing_the_loop_human_choice_and_": {
-      "title": "Youngseo Kim (UCLA) — Closing the Loop: Human Choice and Optimization in Urban Transportation",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Fri",
-      "date": "2026-11-20",
-      "time": "2 PM",
-      "sort": 14,
-      "when": "Fri, 11/20 · 2:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/20/closing-loop-human-choice-and-optimization-urban-transportation",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
+      "place": "Brooklyn, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/gl8rycz0",
+      "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
+      "summary": "Luma NYC: Context Engineering Guild of New York City, Atin Woodard"
     },
     "nyu_tandon_2026_11_23_engineering_tissue_repair_from_biomaterials_to_the_m": {
       "title": "Engineering Tissue Repair: from Biomaterials to the Microbiome",
@@ -1738,6 +1704,40 @@
       "place": "NYU Tandon / Online",
       "source": "NYU Tandon",
       "link": "https://engineering.nyu.edu/events/2026/11/24/connected-vehicles-and-future-transportation-infrastructure-funding",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_11_30_using_programmable_signaling_to_tune_therapeutic_imm": {
+      "title": "Using programmable signaling to tune therapeutic immune cell state",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Mon",
+      "date": "2026-11-30",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Mon, 11/30 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/30/using-programmable-signaling-tune-therapeutic-immune-cell-state",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_11_30_research_seminar_marios_m_polycarpou_designing_feedb": {
+      "title": "Research Seminar | Marios M. Polycarpou: Designing Feedback Systems for Rare but Devastating Events",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Mon",
+      "date": "2026-11-30",
+      "time": "1 PM",
+      "sort": 13,
+      "when": "Mon, 11/30 · 1:00 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/30/research-seminar-marios-m-polycarpou-designing-feedback-systems-rare-devastating",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
@@ -2392,8 +2392,7 @@
       "skint_93670_2_julemarked_norwegian_christmas_fair",
       "skint_93670_16_new_beverly_cinema_1977_at_the_paris_theater_midtown",
       "gary_2026_11_20_nyc_coffee_club_early_stage_b2b_founders_funders",
-      "gary_2026_11_20_pms_unfiltered_where_ai_builders_talk_shop",
-      "nyu_tandon_2026_11_20_safe_and_resilient_multi_agent_cooperation_from_faul"
+      "gary_2026_11_20_pms_unfiltered_where_ai_builders_talk_shop"
     ],
     "cluster_2026_11_21_1_pm": [
       "skint_93670_5_fangsgiving_market",
