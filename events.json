@@ -1,241 +1,241 @@
 {
   "meta": {
-    "checked": "Nov 22, 2026, 7:25 PM EST",
+    "checked": "Nov 23, 2026, 5:18 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
         "iso": "2026-11-23",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Nov 22"
-      },
-      {
-        "iso": "2026-11-24",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-24",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-25",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-26",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-27",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-28",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
+      },
+      {
+        "iso": "2026-11-29",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Nov 29"
       }
     ],
     "monthDays": [
       {
         "iso": "2026-11-23",
-        "key": "Sun",
-        "label": "Sun",
-        "date": "Nov 22"
-      },
-      {
-        "iso": "2026-11-24",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-24",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-25",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-26",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-27",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-28",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-11-29",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-11-30",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-01",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-02",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-03",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-04",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-06",
+        "iso": "2026-12-05",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
       },
       {
-        "iso": "2026-12-07",
+        "iso": "2026-12-06",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 6"
       },
       {
-        "iso": "2026-12-08",
+        "iso": "2026-12-07",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 7"
       },
       {
-        "iso": "2026-12-09",
+        "iso": "2026-12-08",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
       },
       {
-        "iso": "2026-12-10",
+        "iso": "2026-12-09",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 9"
       },
       {
-        "iso": "2026-12-11",
+        "iso": "2026-12-10",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 10"
       },
       {
-        "iso": "2026-12-12",
+        "iso": "2026-12-11",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 11"
       },
       {
-        "iso": "2026-12-13",
+        "iso": "2026-12-12",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 12"
       },
       {
-        "iso": "2026-12-14",
+        "iso": "2026-12-13",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 13"
       },
       {
-        "iso": "2026-12-15",
+        "iso": "2026-12-14",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 14"
       },
       {
-        "iso": "2026-12-16",
+        "iso": "2026-12-15",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 15"
       },
       {
-        "iso": "2026-12-17",
+        "iso": "2026-12-16",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 16"
       },
       {
-        "iso": "2026-12-18",
+        "iso": "2026-12-17",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 17"
       },
       {
-        "iso": "2026-12-19",
+        "iso": "2026-12-18",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 18"
       },
       {
-        "iso": "2026-12-20",
+        "iso": "2026-12-19",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 19"
       },
       {
-        "iso": "2026-12-21",
+        "iso": "2026-12-20",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 20"
       },
       {
-        "iso": "2026-12-22",
+        "iso": "2026-12-21",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 21"
       },
       {
-        "iso": "2026-12-23",
+        "iso": "2026-12-22",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 22"
+      },
+      {
+        "iso": "2026-12-23",
+        "key": "Wed",
+        "label": "Wed",
+        "date": "Dec 23"
       }
     ],
-    "todayKey": "Sun",
+    "todayKey": "Mon",
     "times": [
       "7 AM",
       "8 AM",
@@ -244,6 +244,7 @@
       "11 AM",
       "11:30 AM",
       "12 PM",
+      "12:30 PM",
       "1 PM",
       "2 PM",
       "2:30 PM",
@@ -255,6 +256,7 @@
       "6 PM",
       "6:30 PM",
       "7 PM",
+      "7:30 PM",
       "8 PM",
       "11 PM",
       "11:30 PM"
@@ -550,22 +552,39 @@
       "map": "https://maps.google.com/?q=30%20short%20films%20across%20eight%20screening%20blocks%20NYC",
       "summary": "film fests / series. Pulled from The Skint's public article feed: sun 12-8pm: the fifth annual reel works film festival at sva theatre (chelsea): 30 short films across eight screening blocks. $20."
     },
-    "gary_2026_11_22_nyc_non_slop_hackathon": {
-      "title": "NYC Non-Slop Hackathon",
+    "gary_2026_11_23_beyond_vibe_coding_become_a_product_builder": {
+      "title": "Beyond Vibe Coding: Become A Product Builder",
       "type": "tech",
       "label": "Tech / AI",
-      "day": "Sun",
-      "date": "2026-11-22",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Sun, 11/22 · 9:00am",
+      "day": "Mon",
+      "date": "2026-11-23",
+      "time": "4 PM",
+      "sort": 16,
+      "when": "Mon, 11/23 · 4:00pm",
       "price": "Free",
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/xcdfk6t/NYC-Non-Slop-Hackathon",
+      "link": "https://www.garysguide.com/events/lzac061/Beyond-Vibe-Coding-Become-A-Product-Builder",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Leo Rodrigues (Slop Researcher & Enggr), Fanyi Pan (Product Designer & Architect), Siddharth Singh (Design Enggr), Livia Han (Marketer), Xinyi Fu (Product Designer)."
+      "summary": "Gary's Guide: What is this about? A small, exclusive workshop on making well-designed & usable apps. AI slop. From idea to design to building. Because for some of us, making good things that other people want to use is still a priority. Kinda like an anti-AI slop, AI building club. What will this go over? We'll design & build an app together. Everything live. All decisions made on the spot. From a blank page to a fully functional app. You'll get a behind the scenes look at how I build apps today. This isn't a 'learn to use Claude' workshop, it's a whole product building process in the age of AI. Because building apps is more than just prompting. It's still thinking, focusing, & synthesizing what needs to be built in the first place. But, what exactly will it cover? Defining a product idea. Mapping out key app capabilities in flow diagrams. Determining what to build first. Turning mood boards into design styles Designing the app with Claude Code & Paper Setting up your project in code & building the first version using Next.js (frontend app) & Convex (database, logins, & backend). Iterating & improving the app, feature by feature. Shipping & sharing the app via GitHub & Vercel Isn't that ambitious in 2 hours? Yeah, a little. But we'll get it all done, I promise. How technical do I need to be? You should have dabbled in vibe coding or no-code website builders, but no deep technical knowledge needed. This is beginner friendly & meant to give you the knowledge needed to build on your own with confidence. What all will I get by signing up? The live in-person, hands on workshop Time to ask questions & get yourself set up to build A downloadable PDF guide to follow along with your own idea Exclusive access to bi-weekly office hours at the Product Builders Club Who's running this? Hi, it's me, Jeff Buzulencia. I run a small creative studio, Blank Slate Labs, where I build new apps every week & teach folks how to make things with AI. I've spent the last decade at the intersection of AI & 0 to 1 product building. I've led product & design teams at AI startups, advised AI startups on product strategy, & taught thousands of folks how to build with AI. Please note: By signing up for this event you agree to receive email communication from the Product Builders Club, Blank Slate Labs, & Fabrik related to this gathering & future offerings. You can unsubscribe at any time."
+    },
+    "gary_2026_11_24_localhost_nyc_tavern_community_fintech_cohort": {
+      "title": "localhost:nyc: Tavern Community FinTech Cohort",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Tue",
+      "date": "2026-11-24",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Tue, 11/24 · 9:00am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/xrvqyw2/localhost-nyc-Tavern-Community-FinTech-Cohort",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Apply now for Tavern's December Cohort for FinTech founders & investors. FinTech founders are rebuilding the infrastructure behind how the world moves, lends, saves, & invests money. It's one of the biggest opportunities in tech, & one of the hardest to execute. Regulation, bank partnerships, compliance, fraud, & the challenge of earning customer trust mean the path from idea to scale is rarely straightforward. Founders who win usually have the right people around them. Tavern is launching a FinTech cohort for founders & investors to learn from each other, share hard-won playbooks, & build the companies that will define the future of finance, from conception to exit or IPO. Learn about achieving rapid growth from top-tier FinTech founders & investors. What is Tavern? Tavern is a membership community of 100+ founders, investors, & ecosystem builders divided into niche cohorts based on common interests. Members include VC-backed founders, bootstrapped founders, post-exit founders, angel investors, & high-profile VCs. We provide a caring & ambitious community, premium events including weekly VC office hours, & a variety of coworking & social spaces. This cohort launches December 1. Applications will be considered on a rolling basis until cohort launch. Application & interview are required prior to admission. This cohort is a paid program. Membership is $129/month. It includes all benefits of the Tavern Community membership, in addition to cohort-specific programming."
     },
     "gary_2026_11_24_building_the_new_energy_frontier": {
       "title": "Building The New Energy Frontier",
@@ -889,6 +908,40 @@
       "link": "https://www.garysguide.com/events/vm8v1ex/AI-Build-Lab-For-Founders-Launch-Read-The-Signal",
       "map": "https://maps.google.com/?q=NYU%2C%2044%20W%204th%20St%2C%20KMC%20M2-100",
       "summary": "Gary's Guide: AI Build Lab for Founders Series Take your idea from concept to launch in a series of interactive sessions. Leverage AI tools to build a live product, put it in front of users, & leave with honest feedback, concrete next steps, & the tools to keep going - no coding background required. Session 3: Launch Acquire users, analyze the data, & make the call. Compare your live user engagement against pre-set targets, locate your audience's online channels, & run live outreach during the session. Evaluate the evidence to decide whether to persevere, pivot, or pause, & map out your next test. Who it is for Current NYU students, Alumni, & Faculty Coders & non-coders are welcome. Anyone who wants to explore ideas, is curious about entrepreneurship, or has started building. Deliverables for Session 3: Launch Get to your first users, a plan to market, or a path to pivot An evidence scorecard for your product, or MVP A decision: continue, change, or stop A 14-day plan for the next test Full series highlights Hands-on from start to finish. Every session ends with something real in hand, not just notes. Real customers, not guesses. Founders talk to 5 to 10 potential users & put a working product in front of them. Two tracks. No-code founders build with tools like Lovable, Replit, v0, & Bolt. Founders who code use Claude Code or Cursor. Honest checks built in. Founders open & verify every source, set their success target before the results come in, & have a second tool test every build. A live product with a real ask. Each product goes live with a waitlist, pre-order, or booking option. Demo day. The series ends with founders presenting to guest founders & investors. Tools they keep. Every founder leaves with the full Leverage kit & their own working setup. What founders walk away with A tested idea. Assumptions checked against real conversations & real data. A live product MVP. Reviewed, tested, & in front of first users, or a clear & cheap \"no.\" A decision & a plan. Continue, change, or stop, backed by evidence, with the next 14-day test written out. Their own working toolkit. Research, idea testing, building & review tools, set up & ready to use. The Leverage kit. Every prompt & tool used in the series. Entrepreneurship mindset. Check the sources. Set the target first. Never let the builder grade its own work. A cohort. A group of founders who built alongside them."
+    },
+    "gary_2026_12_02_show_your_work_finance_leaders_on_ai": {
+      "title": "Show Your Work: Finance Leaders On AI",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-12-02",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Wed, 12/02 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/puyy2bx/Show-Your-Work-Finance-Leaders-On-AI",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Happy Hour hosted by ADP x Campfire x Cloudzero x Corgi x JPM x Solvimon One last gathering before the year closes, & you won't want to miss it! Every board wants to see finance's AI plan. Some teams already close the books with agents, & others are just starting their first pilot. For one festive evening, we're bringing both together to swap notes & toast to what's next. Show Your Work An interactive panel of finance leaders at every stage of AI adoption, from we run it in production to we just started. Bring the question you can't ask in other rooms. Who's in Leaders from ADP, Campfire, Cloudzero, Corgi, JPM & Solvimon, plus CFOs, VPs of Finance, controllers & finance directors already putting AI to work. Format 5:30 PM: Arrivals 6:00 PM: Panel 6:30 PM: Drinks, bites, networking & demos 8:30 PM: End Apply to Attend Space is limited & every registration is approved. If you're a finance leader in New York, apply below & end the year with us. About the Hosts ADP is a global leader in payroll, HR & workforce management. Its platform covers payroll, tax compliance, benefits, time tracking & talent management for companies of every size, from startups hiring their first employees to global enterprises. Campfire is the AI-native ERP for high-growth companies. It automates categorization, reconciliation & revenue recognition, so customers close up to 5x faster. CloudZero is the cloud & AI cost intelligence platform. It turns messy cloud & AI bills into a clear view of unit economics, such as cost per customer or cost per feature, so finance & engineering teams can scale responsibly. Corgi is an AI-native insurance carrier for startups, offering fast, flexible coverage from D&O to cyber & AI liability. JPM is one of the world's largest financial services firms. Its Innovation Economy team works with startups, high-growth companies, founders & venture investors, offering banking, treasury & advisory support at every stage of growth. Solvimon is a billing & monetization platform from former Adyen leaders, built for usage-based & hybrid pricing across currencies & entities."
+    },
+    "gary_2026_12_02_port_of_entry_a_mixer_for_cross_border_founders_land": {
+      "title": "Port Of Entry: A Mixer For Cross-Border Founders Landing",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-12-02",
+      "time": "5:30 PM",
+      "sort": 17.5,
+      "when": "Wed, 12/02 · 5:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/agxdt0r/Port-Of-Entry-A-Mixer-For-Cross-Border-Founders-Landing",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Andrés Cano (Founder, Colectivo)."
     },
     "gary_2026_12_02_startup_pitch_mixer": {
       "title": "Startup Pitch Mixer",
@@ -1264,57 +1317,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies. We'll have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart. Complimentary drinks & pizza are on us. High signal, low pressure. Come play poker, jump into games, & spend the night with some of NYC's top engineers, founders, & operators. Limited seats. Registration: require linkedin, company, job title, & include the following multiple choice (single select) How would you like to participate? Poker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in. *Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi, click Get Hired, & apply. Options: Poker ($100 buy-in, seat not guaranteed) Hang Out & Other Games Hiring? Want intros to startups? Location Williamsburg, NY"
     },
-    "gary_2026_12_03_nycfc_founders_dinner_w_rho": {
-      "title": "NYCFC Founders Dinner w/ Rho",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-12-03",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Thu, 12/03 · 7:00pm",
-      "price": "Varies",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/kkhptiq/NYCFC-Founders-Dinner-w-Rho",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: 20 founders, one great table, & an evening shared with exceptional people. Join the NYC Founders Club for an intimate private dinner designed for effortless connection, brilliant conversation, & a world-class meal in the heart of the city.Spots are tight to keep the table livelywed love for you to join the table.Our PartnerSponsored by Rho Rho is the all-in-one banking platform for startups & the accountants supporting them. With banking setup in minutes, cashback cards, & tools for managing spend, paying bills, & closing the books, Rho helps high-growth startups move fast & stay focused, backed by support that goes to the end of the earth to help you win.Rho is a fintech company, not a bank. Checking services provided & cards issued by Webster Bank, a division of Santander Bank, N.A. Member FDIC & Lead Bank, Member FDIC.By registering, you consent to receiving communications from NYC Founders Club regarding this event & future opportunities. By participating in this Rho-sponsored event, you acknowledge that you may be photographed or recorded. You grant irrevocable consent to Rho & its partners to use your likeness in promotional materials without compensation. You consent to receive marketing communications & newsletters from Rho. You may unsubscribe at any time."
-    },
-    "gary_2026_12_04_capital_for_good_conference": {
-      "title": "Capital For Good Conference",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-12-04",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Fri, 12/04 · 9:00am",
-      "price": "$150",
-      "free": false,
-      "place": "Columbia Biz School, 645 W 130th St, David Geffen Hall",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/4t21s5g/Capital-For-Good-Conference",
-      "map": "https://maps.google.com/?q=Columbia%20Biz%20School%2C%20645%20W%20130th%20St%2C%20David%20Geffen%20Hall",
-      "summary": "Gary's Guide: With Joel Rose (Founder/CEO, New Classrooms), Kathleen Wallace (Dir., World Bank), Keith Katz (Co-Founder, Execution Labs), Ravina Advani (MD, BNP Paribas), Jemina Bernard (President, Arena), Rich Nightingale (CEO, Westhab), Meredith Shields (Head of Citi Impact Fund)."
-    },
-    "gary_2026_12_04_health_frontier_hackathon": {
-      "title": "Health Frontier Hackathon",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Fri",
-      "date": "2026-12-04",
-      "time": "3 PM",
-      "sort": 15,
-      "when": "Fri, 12/04 · 3:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/3g89j17/Health-Frontier-Hackathon",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With General Catalyst, Percepta, Healthcare AI Guy Media."
-    },
     "luma_2026_11_24_computer_vision_vibe_coding_w_lovable": {
       "title": "Computer Vision Vibe Coding (w/ Lovable)",
       "type": "tech",
@@ -1366,8 +1368,8 @@
       "map": "https://maps.google.com/?q=Brooklyn%2C%20NY%20NYC",
       "summary": "Luma NYC: Context Engineering Guild of New York City, Atin Woodard"
     },
-    "luma_2026_12_02_your_ai_agents_organized_with_notion": {
-      "title": "Your AI Agents, Organized with Notion",
+    "luma_2026_12_02_health_ai_happy_hour_health_frontier_nyc": {
+      "title": "Health AI Happy Hour - Health Frontier NYC🗽",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Wed",
@@ -1379,9 +1381,9 @@
       "free": true,
       "place": "New York, NY",
       "source": "Luma NYC",
-      "link": "https://luma.com/aiafter5-notion",
+      "link": "https://luma.com/jp748c8d",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: AI After 5, Mina Abdulla, Nancy Chen"
+      "summary": "Luma NYC: Protege, Healthcare AI Guy Media, Next Gen Hospital, Caleb Lee"
     },
     "nyu_tandon_2026_11_23_engineering_tissue_repair_from_biomaterials_to_the_m": {
       "title": "Engineering Tissue Repair: from Biomaterials to the Microbiome",
@@ -1434,15 +1436,15 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
-    "nyu_tandon_2026_11_24_connected_vehicles_and_the_future_of_transportation_": {
-      "title": "Connected Vehicles and the Future of Transportation Infrastructure Funding",
+    "nyu_tandon_2026_11_24_daniel_vignon_nyu_tandon_should_inattentive_drivers_": {
+      "title": "Daniel Vignon (NYU Tandon) — Should Inattentive Drivers Be Monitored?",
       "type": "tech",
       "label": "Lecture / Panel",
       "day": "Tue",
       "date": "2026-11-24",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Tue, 11/24 · 12:00 PM",
+      "time": "12:30 PM",
+      "sort": 12.5,
+      "when": "Tue, 11/24 · 12:30 PM",
       "price": "Free / varies",
       "free": true,
       "place": "NYU Tandon / Online",
@@ -1603,6 +1605,23 @@
       "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026-2/2026-11-25/",
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
+    },
+    "jc_culture_45509_2026_11_25_thanksgiving_r_b": {
+      "title": "Thanksgiving R&B",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Wed",
+      "date": "2026-11-25",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 11/25 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "brightside tavern, 141 Bright Street, jersey city, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/thanksgiving-rb-jam/",
+      "map": "https://maps.google.com/?q=brightside%20tavern%2C%20141%20Bright%20Street%2C%20jersey%20city%2C%20NJ",
+      "summary": "THE R&B THANKSGIVING EVE JAM Celebrate Thanksgiving Eve with The R&B Thanksgiving Eve Jam — a night of classic R&B, great vibes, and unforgettable memories at The Bright Side Tavern in Jersey City! Take a musical journey through the ’80s, ’90s, and 2000s as a live R&B band brings your favorite hits to life. Enjoy special live performances, crowd-favorite sing-alongs, and DJs spinning the classic R&B jams that bring back the best memories. Gather your friends and family, enjoy delicious food and drinks, and get ready for a night filled with feel-good music, dancing, and community. From the timeless slow jams to the uptempo hits that keep you moving, this is your chance to sing along, reconnect, and celebrate the holiday season in style. Great music. Good people. Classic R&B. The perfect Thanksgiving Eve celebration! 📍 The Bright Side Tavern | Jersey City, NJ"
     },
     "jc_culture_10005064_2026_11_26_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -1791,8 +1810,8 @@
       "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
     },
-    "jc_culture_45138_2026_12_02_jersey_city_holiday_concert_2026_registration_closed": {
-      "title": "Jersey City Holiday Concert 2026 / REGISTRATION CLOSED",
+    "jc_culture_45138_2026_12_02_jersey_city_holiday_concert_2026": {
+      "title": "Jersey City Holiday Concert 2026",
       "type": "entertainment",
       "label": "Music / Movies",
       "day": "Wed",
@@ -1841,6 +1860,23 @@
       "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-12-04/",
       "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
+    },
+    "jc_culture_45541_2026_12_04_smush_gallery_december_dance_2026": {
+      "title": "SMUSH Gallery December Dance 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-12-04",
+      "time": "7:30 PM",
+      "sort": 19.5,
+      "when": "Fri, 12/04 · 7:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/smush-gallery-december-dance-2026/",
+      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_10005073_2026_12_05_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -1892,6 +1928,23 @@
       "link": "https://jerseycityculture.org/event/happy-holiday-market-2026/",
       "map": "https://maps.google.com/?q=Jersey+City+events",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Outdoor What's Coming Up?."
+    },
+    "jc_culture_45543_2026_12_05_smush_gallery_december_dance_2026": {
+      "title": "SMUSH Gallery December Dance 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-12-05",
+      "time": "7:30 PM",
+      "sort": 19.5,
+      "when": "Sat, 12/05 · 7:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/smush-gallery-december-dance-2026-2/",
+      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_10005074_2026_12_06_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -1978,6 +2031,23 @@
       "map": "https://maps.google.com/?q=Priscilla%20Gardner%20Main%20Library%2C%20472%20JERSEY%20AVE.%2C%20Jersey%20City%2C%20NJ",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Literature & Education What's Coming Up?."
     },
+    "jc_culture_45195_2026_12_07_happy_hour_with_death_conversations_about_what_matte": {
+      "title": "Happy Hour with Death: Conversations About What Matters Most",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Mon",
+      "date": "2026-12-07",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Mon, 12/07 · 6pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Porta Jersey City, 135 Newark Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/happy-hour-with-death-conversations-about-what-matters-most/",
+      "map": "https://maps.google.com/?q=Porta%20Jersey%20City%2C%20135%20Newark%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Join us to start the conversation you keep putting off: life, death, and what you want. Come curious, pair up, get honest. Dec 7 at Porta, Jersey City."
+    },
     "jc_culture_10003580_2026_12_09_hamilton_park_farmers_market_2026": {
       "title": "Hamilton Park Farmers Market 2026",
       "type": "market",
@@ -2012,6 +2082,23 @@
       "map": "https://maps.google.com/?q=Hudson%20House%2C%202%20CHAPEL%20AVE.%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
     },
+    "jc_culture_45545_2026_12_11_smush_gallery_december_dance_2026": {
+      "title": "SMUSH Gallery December Dance 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-12-11",
+      "time": "8 PM",
+      "sort": 20,
+      "when": "Fri, 12/11 · 8pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/smush-gallery-december-dance-2026-3/",
+      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
+    },
     "jc_culture_44748_2026_12_12_happy_holiday_market_2026": {
       "title": "Happy Holiday Market 2026",
       "type": "market",
@@ -2028,6 +2115,23 @@
       "link": "https://jerseycityculture.org/event/happy-holiday-market-2026-3/",
       "map": "https://maps.google.com/?q=The%20Ashford%2C%20145%20Newark%20Avenue%2C%20Jersey%20City%2C%20New%20Jersey",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events Outdoor What's Coming Up?."
+    },
+    "jc_culture_45547_2026_12_12_smush_gallery_december_dance_2026": {
+      "title": "SMUSH Gallery December Dance 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Sat",
+      "date": "2026-12-12",
+      "time": "8 PM",
+      "sort": 20,
+      "when": "Sat, 12/12 · 8pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Smush Gallery, 340 Summit Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/smush-gallery-december-dance-2026-4/",
+      "map": "https://maps.google.com/?q=Smush%20Gallery%2C%20340%20Summit%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Visual & Performing Arts What's Coming Up?."
     },
     "jc_culture_44750_2026_12_13_happy_holiday_market_2026": {
       "title": "Happy Holiday Market 2026",
@@ -2099,10 +2203,18 @@
       "skint_93670_1_footlight_presents_makers_market_movie_nite_addams_f",
       "skint_93670_5_the_fifth_annual_reel_works_film_festival_at_sva_the"
     ],
+    "cluster_2026_11_24_9_am": [
+      "gary_2026_11_24_localhost_nyc_tavern_community_fintech_cohort",
+      "jc_culture_10005062_2026_11_24_toy_drive_donations_2026"
+    ],
     "cluster_2026_11_24_6_pm": [
       "gary_2026_11_24_b2b_ai_founders_investors_meetup",
       "gary_2026_11_24_chip_in_mpr_fintech_poker_night",
       "gary_2026_11_24_computer_vision_vibe_coding"
+    ],
+    "cluster_2026_11_25_6_pm": [
+      "gary_2026_11_25_startup_founders_investors_talent_mixer",
+      "jc_culture_45509_2026_11_25_thanksgiving_r_b"
     ],
     "cluster_2026_12_01_5_pm": [
       "gary_2026_12_01_behind_the_brands",
@@ -2117,6 +2229,11 @@
     "cluster_2026_12_02_9_am": [
       "gary_2026_12_02_odsc_ai_for_work_summit",
       "jc_culture_10005070_2026_12_02_toy_drive_donations_2026"
+    ],
+    "cluster_2026_12_02_5_30_pm": [
+      "gary_2026_12_02_show_your_work_finance_leaders_on_ai",
+      "gary_2026_12_02_port_of_entry_a_mixer_for_cross_border_founders_land",
+      "jc_culture_45138_2026_12_02_jersey_city_holiday_concert_2026"
     ],
     "cluster_2026_12_02_6_pm": [
       "gary_2026_12_02_startup_pitch_mixer",
@@ -2143,18 +2260,6 @@
       "gary_2026_12_03_product_design_exec_leaders_dinner",
       "gary_2026_12_03_ugly_talk_how_to_raise_your_first_round_in_2027"
     ],
-    "cluster_2026_12_03_7_pm": [
-      "gary_2026_12_03_ai_engineers_poker_game_night",
-      "gary_2026_12_03_nycfc_founders_dinner_w_rho"
-    ],
-    "cluster_2026_12_04_9_am": [
-      "gary_2026_12_04_capital_for_good_conference",
-      "jc_culture_10005072_2026_12_04_toy_drive_donations_2026"
-    ],
-    "cluster_2026_11_24_12_pm": [
-      "nyu_tandon_2026_11_24_connected_vehicles_and_the_future_of_transportation_",
-      "jc_culture_45494_2026_11_24_senior_thanksgiving_luncheon_concert_2026"
-    ],
     "cluster_2026_11_26_9_am": [
       "jc_culture_10005064_2026_11_26_toy_drive_donations_2026",
       "jc_culture_44917_2026_11_26_bayonne_turkey_trot_5k_and_1_mile_fun_run"
@@ -2162,6 +2267,10 @@
     "cluster_2026_12_05_11_am": [
       "jc_culture_44389_2026_12_05_paper_architects_2026",
       "jc_culture_44744_2026_12_05_happy_holiday_market_2026"
+    ],
+    "cluster_2026_12_07_6_pm": [
+      "jc_culture_45464_2026_12_07_smush_workshop_make_a_zine_2026",
+      "jc_culture_45195_2026_12_07_happy_hour_with_death_conversations_about_what_matte"
     ]
   }
 }
