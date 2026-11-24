@@ -1,47 +1,47 @@
 {
   "meta": {
-    "checked": "Nov 23, 2026, 5:18 PM EST",
+    "checked": "Nov 23, 2026, 11:22 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
-        "iso": "2026-11-23",
+        "iso": "2026-11-24",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
       },
       {
-        "iso": "2026-11-24",
+        "iso": "2026-11-25",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-26",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-27",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-28",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-29",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-30",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
@@ -49,187 +49,187 @@
     ],
     "monthDays": [
       {
-        "iso": "2026-11-23",
+        "iso": "2026-11-24",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 23"
       },
       {
-        "iso": "2026-11-24",
+        "iso": "2026-11-25",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-26",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-27",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-28",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-29",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-30",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-12-01",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-12-02",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-03",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-04",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-05",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-06",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
       },
       {
-        "iso": "2026-12-06",
+        "iso": "2026-12-07",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 6"
       },
       {
-        "iso": "2026-12-07",
+        "iso": "2026-12-08",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 7"
       },
       {
-        "iso": "2026-12-08",
+        "iso": "2026-12-09",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
       },
       {
-        "iso": "2026-12-09",
+        "iso": "2026-12-10",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 9"
       },
       {
-        "iso": "2026-12-10",
+        "iso": "2026-12-11",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 10"
       },
       {
-        "iso": "2026-12-11",
+        "iso": "2026-12-12",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 11"
       },
       {
-        "iso": "2026-12-12",
+        "iso": "2026-12-13",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 12"
       },
       {
-        "iso": "2026-12-13",
+        "iso": "2026-12-14",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 13"
       },
       {
-        "iso": "2026-12-14",
+        "iso": "2026-12-15",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 14"
       },
       {
-        "iso": "2026-12-15",
+        "iso": "2026-12-16",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 15"
       },
       {
-        "iso": "2026-12-16",
+        "iso": "2026-12-17",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 16"
       },
       {
-        "iso": "2026-12-17",
+        "iso": "2026-12-18",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 17"
       },
       {
-        "iso": "2026-12-18",
+        "iso": "2026-12-19",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 18"
       },
       {
-        "iso": "2026-12-19",
+        "iso": "2026-12-20",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 19"
       },
       {
-        "iso": "2026-12-20",
+        "iso": "2026-12-21",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 20"
       },
       {
-        "iso": "2026-12-21",
+        "iso": "2026-12-22",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 21"
       },
       {
-        "iso": "2026-12-22",
+        "iso": "2026-12-23",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 22"
       },
       {
-        "iso": "2026-12-23",
+        "iso": "2026-12-24",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 23"
@@ -449,108 +449,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "skint_93670_0_momi_merch_meet": {
-      "title": "momi merch meet",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-11-22",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 11/22 · 11am-6pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "museum of the moving image (astoria)",
-      "source": "The Skint",
-      "link": "https://movingimage.org/merch-meet-vendors-2026/",
-      "map": "https://maps.google.com/?q=museum%20of%20the%20moving%20image%20(astoria)%20NYC",
-      "summary": "cultural fests / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-6pm: momi merch meet: museum of the moving image (astoria)."
-    },
-    "skint_93670_1_footlight_presents_makers_market_movie_nite_addams_f": {
-      "title": "footlight presents: makers market + movie nite (addams family values)",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sun",
-      "date": "2026-11-22",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 11/22 · 12-6pm, 7-9pm footlight presents",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "makers market + movie nite (addams family values): footlight underground at the windjammer (ridgewood)",
-      "source": "The Skint",
-      "link": "https://pools.events/event/MC5H04ql/footlight-presents-makers-market-movie-night/",
-      "map": "https://maps.google.com/?q=makers%20market%20%2B%20movie%20nite%20(addams%20family%20values)%3A%20footlight%20underground%20at%20the%20windjammer%20(ridgewood)%20NYC",
-      "summary": "cultural fests / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 12-6pm, 7-9pm footlight presents: makers market + movie nite (addams family values): footlight underground at the windjammer (ridgewood)."
-    },
-    "skint_93670_2_electrix_vintage_pop_up_fill_a_bag_sale": {
-      "title": "electrix vintage pop-up fill-a-bag sale",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-11-22",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Sun, 11/22 · 11am-7pm",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "308 west 38th st (midtown), $10/bag",
-      "source": "The Skint",
-      "link": "https://posh.vip/e/electrix-vintage-fillabag-sale-midtown-copy",
-      "map": "https://maps.google.com/?q=308%20west%2038th%20st%20(midtown)%2C%20%2410%2Fbag%20NYC",
-      "summary": "cultural fests / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 11am-7pm: electrix vintage pop-up fill-a-bag sale: 308 west 38th st (midtown), $10/bag."
-    },
-    "skint_93670_3_ghost_city_queers_x_they_themed_productions_present_": {
-      "title": "ghost city queers x they/themed productions present: sugar + neurospiced: a queer and neurodivergent holiday market + drag show",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-11-22",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Sun, 11/22 · 4-8pm, 9-11",
-      "price": "Free",
-      "free": true,
-      "place": "lovejoys (bushwick), free market admission, $20+ for the drag show",
-      "source": "The Skint",
-      "link": "https://www.eventbrite.com/e/sugar-neurospiced-a-holiday-market-show-tickets-2003980221789",
-      "map": "https://maps.google.com/?q=lovejoys%20(bushwick)%2C%20free%20market%20admission%2C%20%2420%2B%20for%20the%20drag%20show%20NYC",
-      "summary": "cultural fests / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 4-8pm, 9-11: ghost city queers x they/themed productions present: sugar + neurospiced: a queer and neurodivergent holiday market + drag show: lovejoys (bushwick), free market admission, $20+ for the drag show."
-    },
-    "skint_93670_4_village_works_zine_fair": {
-      "title": "village works zine fair",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Sun",
-      "date": "2026-11-22",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Sun, 11/22 · 5pm-midnight",
-      "price": "Free / cheap",
-      "free": true,
-      "place": "village works nyc (east village)",
-      "source": "The Skint",
-      "link": "https://www.instagram.com/p/DfquYaONpxZ/",
-      "map": "https://maps.google.com/?q=village%20works%20nyc%20(east%20village)%20NYC",
-      "summary": "cultural fests / food events / markets / pop-ups (free admission, unless noted otherwise). Pulled from The Skint's public article feed: sun 5pm-midnight: village works zine fair: village works nyc (east village)."
-    },
-    "skint_93670_5_the_fifth_annual_reel_works_film_festival_at_sva_the": {
-      "title": "the fifth annual reel works film festival at sva theatre (chelsea)",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Sun",
-      "date": "2026-11-22",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Sun, 11/22 · 12-8pm",
-      "price": "$20",
-      "free": false,
-      "place": "30 short films across eight screening blocks",
-      "source": "The Skint",
-      "link": "https://www.reelworks.org/film-festival",
-      "map": "https://maps.google.com/?q=30%20short%20films%20across%20eight%20screening%20blocks%20NYC",
-      "summary": "film fests / series. Pulled from The Skint's public article feed: sun 12-8pm: the fifth annual reel works film festival at sva theatre (chelsea): 30 short films across eight screening blocks. $20."
     },
     "gary_2026_11_23_beyond_vibe_coding_become_a_product_builder": {
       "title": "Beyond Vibe Coding: Become A Product Builder",
@@ -1385,6 +1283,23 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Protege, Healthcare AI Guy Media, Next Gen Hospital, Caleb Lee"
     },
+    "luma_2026_12_02_your_ai_agents_organized_with_notion": {
+      "title": "Your AI Agents, Organized with Notion",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-12-02",
+      "time": "11 PM",
+      "sort": 23,
+      "when": "Wed, 12/02 · 11pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/aiafter5-notion",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: AI After 5, Mina Abdulla, Nancy Chen"
+    },
     "nyu_tandon_2026_11_23_engineering_tissue_repair_from_biomaterials_to_the_m": {
       "title": "Engineering Tissue Repair: from Biomaterials to the Microbiome",
       "type": "tech",
@@ -1486,40 +1401,6 @@
       "link": "https://engineering.nyu.edu/events/2026/11/30/research-seminar-marios-m-polycarpou-designing-feedback-systems-rare-devastating",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_10005061_2026_11_23_toy_drive_donations_2026": {
-      "title": "Toy Drive Donations 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Mon",
-      "date": "2026-11-23",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Mon, 11/23 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-23/",
-      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
-    },
-    "jc_culture_45460_2026_11_23_smush_workshop_make_a_zine_2026": {
-      "title": "SMUSH WORKSHOP – Make a Zine! 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Mon",
-      "date": "2026-11-23",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Mon, 11/23 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Priscilla Gardner Main Library, 472 JERSEY AVE., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/smush-workshop-make-a-zine-2026-2/",
-      "map": "https://maps.google.com/?q=Priscilla%20Gardner%20Main%20Library%2C%20472%20JERSEY%20AVE.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Literature & Education What's Coming Up?."
     },
     "jc_culture_10005062_2026_11_24_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -2195,14 +2076,6 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_11_22_11_am": [
-      "skint_93670_0_momi_merch_meet",
-      "skint_93670_2_electrix_vintage_pop_up_fill_a_bag_sale"
-    ],
-    "cluster_2026_11_22_12_pm": [
-      "skint_93670_1_footlight_presents_makers_market_movie_nite_addams_f",
-      "skint_93670_5_the_fifth_annual_reel_works_film_festival_at_sva_the"
-    ],
     "cluster_2026_11_24_9_am": [
       "gary_2026_11_24_localhost_nyc_tavern_community_fintech_cohort",
       "jc_culture_10005062_2026_11_24_toy_drive_donations_2026"
@@ -2259,6 +2132,10 @@
       "gary_2026_12_03_encord_gtm_happy_hour",
       "gary_2026_12_03_product_design_exec_leaders_dinner",
       "gary_2026_12_03_ugly_talk_how_to_raise_your_first_round_in_2027"
+    ],
+    "cluster_2026_12_02_11_pm": [
+      "luma_2026_12_02_health_ai_happy_hour_health_frontier_nyc",
+      "luma_2026_12_02_your_ai_agents_organized_with_notion"
     ],
     "cluster_2026_11_26_9_am": [
       "jc_culture_10005064_2026_11_26_toy_drive_donations_2026",
