@@ -1,241 +1,241 @@
 {
   "meta": {
-    "checked": "Nov 23, 2026, 11:22 PM EST",
+    "checked": "Nov 24, 2026, 3:56 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
         "iso": "2026-11-24",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Nov 23"
-      },
-      {
-        "iso": "2026-11-25",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-25",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-26",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-27",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-28",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-11-29",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
+      },
+      {
+        "iso": "2026-11-30",
+        "key": "Mon",
+        "label": "Mon",
+        "date": "Nov 30"
       }
     ],
     "monthDays": [
       {
         "iso": "2026-11-24",
-        "key": "Mon",
-        "label": "Mon",
-        "date": "Nov 23"
-      },
-      {
-        "iso": "2026-11-25",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-25",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-26",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-27",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-28",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-11-29",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-11-30",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-01",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-02",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-03",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-04",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-06",
+        "iso": "2026-12-05",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
       },
       {
-        "iso": "2026-12-07",
+        "iso": "2026-12-06",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 6"
       },
       {
-        "iso": "2026-12-08",
+        "iso": "2026-12-07",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 7"
       },
       {
-        "iso": "2026-12-09",
+        "iso": "2026-12-08",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
       },
       {
-        "iso": "2026-12-10",
+        "iso": "2026-12-09",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 9"
       },
       {
-        "iso": "2026-12-11",
+        "iso": "2026-12-10",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 10"
       },
       {
-        "iso": "2026-12-12",
+        "iso": "2026-12-11",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 11"
       },
       {
-        "iso": "2026-12-13",
+        "iso": "2026-12-12",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 12"
       },
       {
-        "iso": "2026-12-14",
+        "iso": "2026-12-13",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 13"
       },
       {
-        "iso": "2026-12-15",
+        "iso": "2026-12-14",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 14"
       },
       {
-        "iso": "2026-12-16",
+        "iso": "2026-12-15",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 15"
       },
       {
-        "iso": "2026-12-17",
+        "iso": "2026-12-16",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 16"
       },
       {
-        "iso": "2026-12-18",
+        "iso": "2026-12-17",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 17"
       },
       {
-        "iso": "2026-12-19",
+        "iso": "2026-12-18",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 18"
       },
       {
-        "iso": "2026-12-20",
+        "iso": "2026-12-19",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 19"
       },
       {
-        "iso": "2026-12-21",
+        "iso": "2026-12-20",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 20"
       },
       {
-        "iso": "2026-12-22",
+        "iso": "2026-12-21",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 21"
       },
       {
-        "iso": "2026-12-23",
+        "iso": "2026-12-22",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 22"
       },
       {
-        "iso": "2026-12-24",
+        "iso": "2026-12-23",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 23"
+      },
+      {
+        "iso": "2026-12-24",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Dec 24"
       }
     ],
-    "todayKey": "Mon",
+    "todayKey": "Tue",
     "times": [
       "7 AM",
       "8 AM",
@@ -450,23 +450,6 @@
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
     },
-    "gary_2026_11_23_beyond_vibe_coding_become_a_product_builder": {
-      "title": "Beyond Vibe Coding: Become A Product Builder",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Mon",
-      "date": "2026-11-23",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Mon, 11/23 · 4:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/lzac061/Beyond-Vibe-Coding-Become-A-Product-Builder",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: What is this about? A small, exclusive workshop on making well-designed & usable apps. AI slop. From idea to design to building. Because for some of us, making good things that other people want to use is still a priority. Kinda like an anti-AI slop, AI building club. What will this go over? We'll design & build an app together. Everything live. All decisions made on the spot. From a blank page to a fully functional app. You'll get a behind the scenes look at how I build apps today. This isn't a 'learn to use Claude' workshop, it's a whole product building process in the age of AI. Because building apps is more than just prompting. It's still thinking, focusing, & synthesizing what needs to be built in the first place. But, what exactly will it cover? Defining a product idea. Mapping out key app capabilities in flow diagrams. Determining what to build first. Turning mood boards into design styles Designing the app with Claude Code & Paper Setting up your project in code & building the first version using Next.js (frontend app) & Convex (database, logins, & backend). Iterating & improving the app, feature by feature. Shipping & sharing the app via GitHub & Vercel Isn't that ambitious in 2 hours? Yeah, a little. But we'll get it all done, I promise. How technical do I need to be? You should have dabbled in vibe coding or no-code website builders, but no deep technical knowledge needed. This is beginner friendly & meant to give you the knowledge needed to build on your own with confidence. What all will I get by signing up? The live in-person, hands on workshop Time to ask questions & get yourself set up to build A downloadable PDF guide to follow along with your own idea Exclusive access to bi-weekly office hours at the Product Builders Club Who's running this? Hi, it's me, Jeff Buzulencia. I run a small creative studio, Blank Slate Labs, where I build new apps every week & teach folks how to make things with AI. I've spent the last decade at the intersection of AI & 0 to 1 product building. I've led product & design teams at AI startups, advised AI startups on product strategy, & taught thousands of folks how to build with AI. Please note: By signing up for this event you agree to receive email communication from the Product Builders Club, Blank Slate Labs, & Fabrik related to this gathering & future offerings. You can unsubscribe at any time."
-    },
     "gary_2026_11_24_localhost_nyc_tavern_community_fintech_cohort": {
       "title": "localhost:nyc: Tavern Community FinTech Cohort",
       "type": "startup",
@@ -551,6 +534,23 @@
       "link": "https://www.garysguide.com/events/ic58e22/Computer-Vision-Vibe-Coding",
       "map": "https://maps.google.com/?q=Vonage%20DUMBO%2C%2020%20Jay%20St%2C%202nd%20Fl%2C%20Brooklyn",
       "summary": "Gary's Guide: With Lovable."
+    },
+    "gary_2026_11_24_the_business_ai_exchange_practical_ai_for_business_g": {
+      "title": "The Business AI Exchange: Practical AI For Business Growth & Operations",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-11-24",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Tue, 11/24 · 7:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Soft Bar, 200 Banker St, Brooklyn",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/zhuo8h9/The-Business-AI-Exchange-Practical-AI-For-Business-Growth-Operations",
+      "map": "https://maps.google.com/?q=Soft%20Bar%2C%20200%20Banker%20St%2C%20Brooklyn",
+      "summary": "Gary's Guide: Join Manuports for a relaxed evening of conversations with NYC business owners, manufacturers, operations leaders, & technology enthusiasts. Share challenges, exchange ideas, learn from other businesses, & explore what AI can actually do for yours. Who's invited? Business owners & entrepreneurs looking to grow & learn from others. Manufacturers & operations leaders interested in reducing costs & improving efficiency. AI founders & technology partners looking to connect & collaborate. Students & young professionals curious about business, AI, & entrepreneurship. Anyone eager to learn & meet interesting people! No AI expertise needed. Just bring your curiosity, questions, & ideas. Event Details Date: Tuesday, November 24, 2026 Time: 7:00-9:00 PM EST Venue: Soft Bar, 200 Banker St, Brooklyn, NY 11222 Admission: Free, RSVP required Hosted by: Manuports RSVP through Luma to request your spot. Space is limited. Good conversations. New connections. Real opportunities."
     },
     "gary_2026_11_25_startup_founders_investors_talent_mixer": {
       "title": "Startup Founders, Investors & Talent Mixer",
@@ -839,7 +839,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/agxdt0r/Port-Of-Entry-A-Mixer-For-Cross-Border-Founders-Landing",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Andrés Cano (Founder, Colectivo)."
+      "summary": "Gary's Guide: With Andrs Cano (Founder, Colectivo)."
     },
     "gary_2026_12_02_startup_pitch_mixer": {
       "title": "Startup Pitch Mixer",
@@ -891,6 +891,23 @@
       "link": "https://www.garysguide.com/events/xz8ti2e/Startup-Founders-Investors-Talent-Mixer",
       "map": "https://maps.google.com/?q=The%20Lobby%20Bar%20%26%20Garden%2C%20518%20W%2027th%20St%2C%20Lower%20Level",
       "summary": "Gary's Guide: New York Startup Networking Event. Meet Founders, Investors, & Talent - Build or Scale Your Startup Bring a business question to the room Meet founders, entrepreneurs, builders, operators & investors at Ascent Valley's NYC mixer. Talk through business decisions & meet people you could work with. Locals & visitors are equally welcome. Bring a question about finding customers, building your team or growing your business. Share what you're working on & hear how others approach similar challenges. Join small-group discussions before the pitches, then hear company representatives present their businesses. There's time for open networking to get to know each other & explore where you could help one another. Who you'll meet Founders & entrepreneurs starting or growing a business, working through decisions you may be facing too. Builders turning ideas into products & services, including developers & designers. Operators with experience in product, growth, marketing, sales & running teams. Investors interested in understanding a business by meeting the people behind it. Why This Event Is Different Compare customer acquisition approaches with another entrepreneur, discuss a product decision with a builder or hear how an investor looks at a business. Smaller discussions give you time to ask follow-up questions & understand each other's work. When you find a reason to stay in touch, you can continue the conversation through Ascent Valley after the evening. What to Expect Product & growth: discuss finding customers, product decisions & growing a business. Talent & hiring: meet builders & operators, talk about team needs & explore working together. Fundraising: share what you've learned about preparing a pitch & raising capital. Company pitches: discover what other companies are building & ask their representatives questions. Want to Pitch? Present your company to the room & walk guests through your pitch deck, followed by a short Q&A. Our team reviews applications & confirms speaking slots in advance. Your application creates a public company profile in our Startup Directory. After the event, your company's details enter our private company database for investor matching. With your consent, your company can also be featured in our Weekly Founder Digest. Our team arranges introductions when both sides want to connect"
+    },
+    "gary_2026_12_02_fintech_crypto_holiday_party": {
+      "title": "Fintech & Crypto Holiday Party",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-12-02",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Wed, 12/02 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ccwpslp/Fintech-Crypto-Holiday-Party",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Valli Ventures x FCIB First Citizens Innovation Banking."
     },
     "gary_2026_12_02_a_chief_of_staff_mixer_on_wellness": {
       "title": "A Chief Of Staff Mixer On Wellness",
@@ -1198,23 +1215,6 @@
       "map": "https://maps.google.com/?q=Resident%20Company%20Club%2C%20115%20W%2018th%20St%2C%202nd%20Fl",
       "summary": "Gary's Guide: With Mitchell Bregman (Founder/CEO, Galaxy), Ishan Rakshit (Founder, Sortment)."
     },
-    "gary_2026_12_03_ai_engineers_poker_game_night": {
-      "title": "AI Engineers - Poker & Game Night",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Thu",
-      "date": "2026-12-03",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Thu, 12/03 · 7:00pm",
-      "price": "Varies",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ejkgidh/AI-Engineers-Poker-Game-Night",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies. We'll have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart. Complimentary drinks & pizza are on us. High signal, low pressure. Come play poker, jump into games, & spend the night with some of NYC's top engineers, founders, & operators. Limited seats. Registration: require linkedin, company, job title, & include the following multiple choice (single select) How would you like to participate? Poker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in. *Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi, click Get Hired, & apply. Options: Poker ($100 buy-in, seat not guaranteed) Hang Out & Other Games Hiring? Want intros to startups? Location Williamsburg, NY"
-    },
     "luma_2026_11_24_computer_vision_vibe_coding_w_lovable": {
       "title": "Computer Vision Vibe Coding (w/ Lovable)",
       "type": "tech",
@@ -1283,57 +1283,6 @@
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Protege, Healthcare AI Guy Media, Next Gen Hospital, Caleb Lee"
     },
-    "luma_2026_12_02_your_ai_agents_organized_with_notion": {
-      "title": "Your AI Agents, Organized with Notion",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Wed",
-      "date": "2026-12-02",
-      "time": "11 PM",
-      "sort": 23,
-      "when": "Wed, 12/02 · 11pm",
-      "price": "Free",
-      "free": true,
-      "place": "New York, NY",
-      "source": "Luma NYC",
-      "link": "https://luma.com/aiafter5-notion",
-      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
-      "summary": "Luma NYC: AI After 5, Mina Abdulla, Nancy Chen"
-    },
-    "nyu_tandon_2026_11_23_engineering_tissue_repair_from_biomaterials_to_the_m": {
-      "title": "Engineering Tissue Repair: from Biomaterials to the Microbiome",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Mon",
-      "date": "2026-11-23",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Mon, 11/23 · 11:00 AM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/23/engineering-tissue-repair-biomaterials-microbiome",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "nyu_tandon_2026_11_23_research_seminar_alessandro_rizzo": {
-      "title": "Research Seminar: Alessandro Rizzo",
-      "type": "tech",
-      "label": "Lecture / Panel",
-      "day": "Mon",
-      "date": "2026-11-23",
-      "time": "1 PM",
-      "sort": 13,
-      "when": "Mon, 11/23 · 1:00 PM",
-      "price": "Free / varies",
-      "free": true,
-      "place": "NYU Tandon / Online",
-      "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/23/research-seminar-alessandro-rizzo",
-      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
-      "summary": "NYU Tandon: Lecture / Panel"
-    },
     "nyu_tandon_2026_11_24_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
       "type": "tech",
@@ -1351,8 +1300,8 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
     },
-    "nyu_tandon_2026_11_24_daniel_vignon_nyu_tandon_should_inattentive_drivers_": {
-      "title": "Daniel Vignon (NYU Tandon) — Should Inattentive Drivers Be Monitored?",
+    "nyu_tandon_2026_11_24_should_inattentive_drivers_be_monitored": {
+      "title": "Should Inattentive Drivers Be Monitored?",
       "type": "tech",
       "label": "Lecture / Panel",
       "day": "Tue",
@@ -1385,8 +1334,25 @@
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
-    "nyu_tandon_2026_11_30_research_seminar_marios_m_polycarpou_designing_feedb": {
-      "title": "Research Seminar | Marios M. Polycarpou: Designing Feedback Systems for Rare but Devastating Events",
+    "nyu_tandon_2026_11_30_learning_to_control_quantum_devices_with_natalia_are": {
+      "title": "Learning to Control Quantum Devices with Natalia Ares",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Mon",
+      "date": "2026-11-30",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Mon, 11/30 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/30/learning-control-quantum-devices-natalia-ares",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_11_30_designing_feedback_systems_for_rare_but_devastating_": {
+      "title": "Designing Feedback Systems for Rare but Devastating Events",
       "type": "tech",
       "label": "Lecture / Panel",
       "day": "Mon",
@@ -1398,7 +1364,58 @@
       "free": true,
       "place": "NYU Tandon / Online",
       "source": "NYU Tandon",
-      "link": "https://engineering.nyu.edu/events/2026/11/30/research-seminar-marios-m-polycarpou-designing-feedback-systems-rare-devastating",
+      "link": "https://engineering.nyu.edu/events/2026/11/30/designing-feedback-systems-rare-devastating-events",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_11_30_ph_d_dissertation_defense_equitable_access_to_social": {
+      "title": "Ph.D. Dissertation Defense: Equitable Access to Social and Physical Infrastructure Systems",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Mon",
+      "date": "2026-11-30",
+      "time": "2:30 PM",
+      "sort": 14.5,
+      "when": "Mon, 11/30 · 2:30 PM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/11/30/phd-dissertation-defense-equitable-access-social-and-physical-infrastructure",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Lecture / Panel"
+    },
+    "nyu_tandon_2026_12_01_instructional_tech_drop_in_sessions": {
+      "title": "Instructional Tech Drop-in Sessions",
+      "type": "tech",
+      "label": "Workshop / Training",
+      "day": "Tue",
+      "date": "2026-12-01",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Tue, 12/01 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/12/01/instructional-tech-drop-sessions",
+      "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
+      "summary": "NYU Tandon: Workshop / Training"
+    },
+    "nyu_tandon_2026_12_01_from_particle_clustering_in_wind_tunnels_to_bubble_c": {
+      "title": "From Particle Clustering in Wind Tunnels to Bubble-Column Hydrodynamics",
+      "type": "tech",
+      "label": "Lecture / Panel",
+      "day": "Tue",
+      "date": "2026-12-01",
+      "time": "11 AM",
+      "sort": 11,
+      "when": "Tue, 12/01 · 11:00 AM",
+      "price": "Free / varies",
+      "free": true,
+      "place": "NYU Tandon / Online",
+      "source": "NYU Tandon",
+      "link": "https://engineering.nyu.edu/events/2026/12/01/particle-clustering-wind-tunnels-bubble-column-hydrodynamics",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
     },
@@ -1725,6 +1742,23 @@
       "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
     },
+    "jc_culture_45579_2026_12_03_mjch_presents_enduring_promise_2026": {
+      "title": "MJCH Presents Enduring Promise 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Thu",
+      "date": "2026-12-03",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Thu, 12/03 · 7pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Museum of Jersey City History, 298 Academy St., Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/mjch-presents-enduring-promise-2026/",
+      "map": "https://maps.google.com/?q=Museum%20of%20Jersey%20City%20History%2C%20298%20Academy%20St.%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: Apple Tree House Community Visual & Performing Arts What's Coming Up?."
+    },
     "jc_culture_10005072_2026_12_04_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
       "type": "art",
@@ -1741,6 +1775,23 @@
       "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-12-04/",
       "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
+    },
+    "jc_culture_45571_2026_12_04_romania_flag_raising_ceremony_2026": {
+      "title": "Romania Flag Raising Ceremony 2026",
+      "type": "art",
+      "label": "Art / Culture",
+      "day": "Fri",
+      "date": "2026-12-04",
+      "time": "3:30 PM",
+      "sort": 15.5,
+      "when": "Fri, 12/04 · 3:30pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/romania-flag-raising-ceremony-2026/",
+      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
     },
     "jc_culture_45541_2026_12_04_smush_gallery_december_dance_2026": {
       "title": "SMUSH Gallery December Dance 2026",
@@ -1895,6 +1946,23 @@
       "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
     },
+    "jc_culture_45550_2026_12_07_free_balance_fall_risk_screenings_in_jersey_city": {
+      "title": "Free Balance & Fall-Risk Screenings in Jersey City",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Mon",
+      "date": "2026-12-07",
+      "time": "10 AM",
+      "sort": 10,
+      "when": "Mon, 12/07 · 10am",
+      "price": "Free",
+      "free": true,
+      "place": "Holsman Physical Therapy, 961 Garfield Ave, Jersey City, NJ",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/free-balance-fall-risk-screenings-in-jersey-city/",
+      "map": "https://maps.google.com/?q=Holsman%20Physical%20Therapy%2C%20961%20Garfield%20Ave%2C%20Jersey%20City%2C%20NJ",
+      "summary": "Holsman Physical Therapy is offering free 20-minute balance and fall-risk screenings, by appointment, at its Jersey City clinic from Monday, December 7, through Friday, December 11. The screening uses the NO FALL PROTOCOL®, a set of standard tests physical therapists use to check balance and fall risk: the Berg Balance Scale, the Timed Up and Go (TUG) test, and the 4-Stage Balance Test. You leave with your results and simple next steps. According to the CDC, more than one in four adults 65 and older falls each year. No insurance or referral is needed for the screening. Call 201-932-2656 to book."
+    },
     "jc_culture_45464_2026_12_07_smush_workshop_make_a_zine_2026": {
       "title": "SMUSH WORKSHOP – Make a Zine! 2026",
       "type": "art",
@@ -1962,6 +2030,23 @@
       "link": "https://jerseycityculture.org/event/legends-gala-19-2026/",
       "map": "https://maps.google.com/?q=Hudson%20House%2C%202%20CHAPEL%20AVE.%2C%20JERSEY%20CITY",
       "summary": "Official Jersey City Cultural Affairs listing. Categories: Community What's Coming Up?."
+    },
+    "jc_culture_45561_2026_12_11_ugly_sweater_and_pj_dance_party": {
+      "title": "Ugly Sweater and PJ Dance Party",
+      "type": "entertainment",
+      "label": "Music / Movies",
+      "day": "Fri",
+      "date": "2026-12-11",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Fri, 12/11 · 7pm",
+      "price": "Free / varies",
+      "free": true,
+      "place": "Grace Church Van Vorst, 39 Erie Street, Jersey City",
+      "source": "Jersey City Cultural Affairs",
+      "link": "https://jerseycityculture.org/event/ugly-sweater-and-pj-dance-party/",
+      "map": "https://maps.google.com/?q=Grace%20Church%20Van%20Vorst%2C%2039%20Erie%20Street%2C%20Jersey%20City",
+      "summary": "Family Promise of Hudson County invites the community to celebrate the holiday season at its Ugly Sweater & PJ Dance Party, a festive fundraiser combining holiday entertainment with a meaningful cause. Guests are encouraged to wear their most outrageous holiday sweaters or coziest festive pajamas for an evening featuring music by DJ Smiley, dancing, an Ugly Sweater Showdown, exciting raffles, and food and beverages available for purchase. The event offers an opportunity for friends, neighbors, and community members to come together, make new connections, and enjoy a memorable evening while giving back. All proceeds from the event will support Family Promise of Hudson County’s efforts to provide families experiencing homelessness with the resources, guidance, and opportunities they need to create lasting change for themselves and their children."
     },
     "jc_culture_45545_2026_12_11_smush_gallery_december_dance_2026": {
       "title": "SMUSH Gallery December Dance 2026",
@@ -2111,7 +2196,8 @@
     "cluster_2026_12_02_6_pm": [
       "gary_2026_12_02_startup_pitch_mixer",
       "gary_2026_12_02_female_founder_s_holiday_party_collab_matchmaking",
-      "gary_2026_12_02_startup_founders_investors_talent_mixer"
+      "gary_2026_12_02_startup_founders_investors_talent_mixer",
+      "gary_2026_12_02_fintech_crypto_holiday_party"
     ],
     "cluster_2026_12_03_9_am": [
       "gary_2026_12_03_small_business_ai_builder",
@@ -2133,9 +2219,13 @@
       "gary_2026_12_03_product_design_exec_leaders_dinner",
       "gary_2026_12_03_ugly_talk_how_to_raise_your_first_round_in_2027"
     ],
-    "cluster_2026_12_02_11_pm": [
-      "luma_2026_12_02_health_ai_happy_hour_health_frontier_nyc",
-      "luma_2026_12_02_your_ai_agents_organized_with_notion"
+    "cluster_2026_11_30_11_am": [
+      "nyu_tandon_2026_11_30_using_programmable_signaling_to_tune_therapeutic_imm",
+      "nyu_tandon_2026_11_30_learning_to_control_quantum_devices_with_natalia_are"
+    ],
+    "cluster_2026_12_01_11_am": [
+      "nyu_tandon_2026_12_01_instructional_tech_drop_in_sessions",
+      "nyu_tandon_2026_12_01_from_particle_clustering_in_wind_tunnels_to_bubble_c"
     ],
     "cluster_2026_11_26_9_am": [
       "jc_culture_10005064_2026_11_26_toy_drive_donations_2026",
