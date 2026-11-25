@@ -1,47 +1,47 @@
 {
   "meta": {
-    "checked": "Nov 24, 2026, 3:56 PM EST",
+    "checked": "Nov 24, 2026, 10:07 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
-        "iso": "2026-11-24",
+        "iso": "2026-11-25",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-26",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-27",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-28",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-29",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-30",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-12-01",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
@@ -49,187 +49,187 @@
     ],
     "monthDays": [
       {
-        "iso": "2026-11-24",
+        "iso": "2026-11-25",
         "key": "Tue",
         "label": "Tue",
         "date": "Nov 24"
       },
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-26",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-27",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-28",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-29",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-30",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-12-01",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-12-02",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-03",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-04",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-05",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-06",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
       },
       {
-        "iso": "2026-12-06",
+        "iso": "2026-12-07",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 6"
       },
       {
-        "iso": "2026-12-07",
+        "iso": "2026-12-08",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 7"
       },
       {
-        "iso": "2026-12-08",
+        "iso": "2026-12-09",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
       },
       {
-        "iso": "2026-12-09",
+        "iso": "2026-12-10",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 9"
       },
       {
-        "iso": "2026-12-10",
+        "iso": "2026-12-11",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 10"
       },
       {
-        "iso": "2026-12-11",
+        "iso": "2026-12-12",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 11"
       },
       {
-        "iso": "2026-12-12",
+        "iso": "2026-12-13",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 12"
       },
       {
-        "iso": "2026-12-13",
+        "iso": "2026-12-14",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 13"
       },
       {
-        "iso": "2026-12-14",
+        "iso": "2026-12-15",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 14"
       },
       {
-        "iso": "2026-12-15",
+        "iso": "2026-12-16",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 15"
       },
       {
-        "iso": "2026-12-16",
+        "iso": "2026-12-17",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 16"
       },
       {
-        "iso": "2026-12-17",
+        "iso": "2026-12-18",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 17"
       },
       {
-        "iso": "2026-12-18",
+        "iso": "2026-12-19",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 18"
       },
       {
-        "iso": "2026-12-19",
+        "iso": "2026-12-20",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 19"
       },
       {
-        "iso": "2026-12-20",
+        "iso": "2026-12-21",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 20"
       },
       {
-        "iso": "2026-12-21",
+        "iso": "2026-12-22",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 21"
       },
       {
-        "iso": "2026-12-22",
+        "iso": "2026-12-23",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 22"
       },
       {
-        "iso": "2026-12-23",
+        "iso": "2026-12-24",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 23"
       },
       {
-        "iso": "2026-12-24",
+        "iso": "2026-12-25",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 24"
@@ -258,8 +258,7 @@
       "7 PM",
       "7:30 PM",
       "8 PM",
-      "11 PM",
-      "11:30 PM"
+      "11 PM"
     ]
   },
   "events": {
@@ -1215,40 +1214,6 @@
       "map": "https://maps.google.com/?q=Resident%20Company%20Club%2C%20115%20W%2018th%20St%2C%202nd%20Fl",
       "summary": "Gary's Guide: With Mitchell Bregman (Founder/CEO, Galaxy), Ishan Rakshit (Founder, Sortment)."
     },
-    "luma_2026_11_24_computer_vision_vibe_coding_w_lovable": {
-      "title": "Computer Vision Vibe Coding (w/ Lovable)",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "time": "11 PM",
-      "sort": 23,
-      "when": "Tue, 11/24 · 11pm",
-      "price": "Free",
-      "free": true,
-      "place": "20 Jay St floor 2",
-      "source": "Luma NYC",
-      "link": "https://luma.com/obsjxipa",
-      "map": "https://maps.google.com/?q=20%20Jay%20St%20floor%202%20NYC",
-      "summary": "Luma NYC: VCC Club, Dan Porder, Vibe Coding Collective, Vonage Developer, Fabrik NYC"
-    },
-    "luma_2026_11_24_nyc_design_happy_hour": {
-      "title": "NYC Design Happy Hour",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "time": "11:30 PM",
-      "sort": 23.5,
-      "when": "Tue, 11/24 · 11:30pm",
-      "price": "Free",
-      "free": true,
-      "place": "Spritzenhaus33",
-      "source": "Luma NYC",
-      "link": "https://luma.com/w5e19b1x",
-      "map": "https://maps.google.com/?q=Spritzenhaus33%20NYC",
-      "summary": "Luma NYC: New York Product Design, Brian Hui, Collin Hadley, José Arias"
-    },
     "luma_2026_11_29_context_engineering_guild_of_new_york_city_november_": {
       "title": "Context Engineering Guild of New York City: November Edition",
       "type": "tech",
@@ -1282,6 +1247,23 @@
       "link": "https://luma.com/jp748c8d",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: Protege, Healthcare AI Guy Media, Next Gen Hospital, Caleb Lee"
+    },
+    "luma_2026_12_02_your_ai_agents_organized_with_notion": {
+      "title": "Your AI Agents, Organized with Notion",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Wed",
+      "date": "2026-12-02",
+      "time": "11 PM",
+      "sort": 23,
+      "when": "Wed, 12/02 · 11pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/aiafter5-notion",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: AI After 5, Mina Abdulla, Nancy Chen"
     },
     "nyu_tandon_2026_11_24_instructional_tech_drop_in_sessions": {
       "title": "Instructional Tech Drop-in Sessions",
@@ -1418,57 +1400,6 @@
       "link": "https://engineering.nyu.edu/events/2026/12/01/particle-clustering-wind-tunnels-bubble-column-hydrodynamics",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Lecture / Panel"
-    },
-    "jc_culture_10005062_2026_11_24_toy_drive_donations_2026": {
-      "title": "Toy Drive Donations 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Tue, 11/24 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-24/",
-      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
-    },
-    "jc_culture_45494_2026_11_24_senior_thanksgiving_luncheon_concert_2026": {
-      "title": "Senior Thanksgiving Luncheon & Concert 2026",
-      "type": "entertainment",
-      "label": "Music / Movies",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "time": "12 PM",
-      "sort": 12,
-      "when": "Tue, 11/24 · 12pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Mary McLeod Bethune Life Center, 140 Martin Luther King Drive, Jersey City",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/senior-thanksgiving-luncheon-concert-2026/",
-      "map": "https://maps.google.com/?q=Mary%20McLeod%20Bethune%20Life%20Center%2C%20140%20Martin%20Luther%20King%20Drive%2C%20Jersey%20City",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events What's Coming Up?."
-    },
-    "jc_culture_45135_2026_11_24_suriname_flag_raising_ceremony_2026": {
-      "title": "Suriname Flag Raising Ceremony 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "time": "3:30 PM",
-      "sort": 15.5,
-      "when": "Tue, 11/24 · 3:30pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "City Hall Council Chambers, 280 Grove Street, 2nd Floor, Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/suriname-flag-raising-ceremony-2026/",
-      "map": "https://maps.google.com/?q=City%20Hall%20Council%20Chambers%2C%20280%20Grove%20Street%2C%202nd%20Floor%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community What's Coming Up?."
     },
     "jc_culture_10005063_2026_11_25_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -2161,10 +2092,6 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_11_24_9_am": [
-      "gary_2026_11_24_localhost_nyc_tavern_community_fintech_cohort",
-      "jc_culture_10005062_2026_11_24_toy_drive_donations_2026"
-    ],
     "cluster_2026_11_24_6_pm": [
       "gary_2026_11_24_b2b_ai_founders_investors_meetup",
       "gary_2026_11_24_chip_in_mpr_fintech_poker_night",
@@ -2218,6 +2145,10 @@
       "gary_2026_12_03_encord_gtm_happy_hour",
       "gary_2026_12_03_product_design_exec_leaders_dinner",
       "gary_2026_12_03_ugly_talk_how_to_raise_your_first_round_in_2027"
+    ],
+    "cluster_2026_12_02_11_pm": [
+      "luma_2026_12_02_health_ai_happy_hour_health_frontier_nyc",
+      "luma_2026_12_02_your_ai_agents_organized_with_notion"
     ],
     "cluster_2026_11_30_11_am": [
       "nyu_tandon_2026_11_30_using_programmable_signaling_to_tune_therapeutic_imm",
