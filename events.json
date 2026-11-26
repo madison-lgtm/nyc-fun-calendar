@@ -1,47 +1,47 @@
 {
   "meta": {
-    "checked": "Nov 25, 2026, 3:18 PM EST",
+    "checked": "Nov 25, 2026, 9:23 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-26",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-27",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-28",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-29",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-30",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-12-01",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-12-02",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
@@ -49,187 +49,187 @@
     ],
     "monthDays": [
       {
-        "iso": "2026-11-25",
+        "iso": "2026-11-26",
         "key": "Wed",
         "label": "Wed",
         "date": "Nov 25"
       },
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-27",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-28",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-29",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-30",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-12-01",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-12-02",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-03",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-04",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-05",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-06",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
       },
       {
-        "iso": "2026-12-06",
+        "iso": "2026-12-07",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 6"
       },
       {
-        "iso": "2026-12-07",
+        "iso": "2026-12-08",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 7"
       },
       {
-        "iso": "2026-12-08",
+        "iso": "2026-12-09",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
       },
       {
-        "iso": "2026-12-09",
+        "iso": "2026-12-10",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 9"
       },
       {
-        "iso": "2026-12-10",
+        "iso": "2026-12-11",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 10"
       },
       {
-        "iso": "2026-12-11",
+        "iso": "2026-12-12",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 11"
       },
       {
-        "iso": "2026-12-12",
+        "iso": "2026-12-13",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 12"
       },
       {
-        "iso": "2026-12-13",
+        "iso": "2026-12-14",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 13"
       },
       {
-        "iso": "2026-12-14",
+        "iso": "2026-12-15",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 14"
       },
       {
-        "iso": "2026-12-15",
+        "iso": "2026-12-16",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 15"
       },
       {
-        "iso": "2026-12-16",
+        "iso": "2026-12-17",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 16"
       },
       {
-        "iso": "2026-12-17",
+        "iso": "2026-12-18",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 17"
       },
       {
-        "iso": "2026-12-18",
+        "iso": "2026-12-19",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 18"
       },
       {
-        "iso": "2026-12-19",
+        "iso": "2026-12-20",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 19"
       },
       {
-        "iso": "2026-12-20",
+        "iso": "2026-12-21",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 20"
       },
       {
-        "iso": "2026-12-21",
+        "iso": "2026-12-22",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 21"
       },
       {
-        "iso": "2026-12-22",
+        "iso": "2026-12-23",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 22"
       },
       {
-        "iso": "2026-12-23",
+        "iso": "2026-12-24",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 23"
       },
       {
-        "iso": "2026-12-24",
+        "iso": "2026-12-25",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 24"
       },
       {
-        "iso": "2026-12-25",
+        "iso": "2026-12-26",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 25"
@@ -241,6 +241,7 @@
       "7 AM",
       "8 AM",
       "9 AM",
+      "9:30 AM",
       "10 AM",
       "11 AM",
       "11:30 AM",
@@ -448,108 +449,6 @@
       "map": "https://maps.google.com/?q=Bryant+Park+Lawn",
       "summary": "The Skint lists Bryant Park's Friday Picnic Performances program with WMI.",
       "date": "2026-06-12"
-    },
-    "gary_2026_11_24_localhost_nyc_tavern_community_fintech_cohort": {
-      "title": "localhost:nyc: Tavern Community FinTech Cohort",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Tue, 11/24 · 9:00am",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/xrvqyw2/localhost-nyc-Tavern-Community-FinTech-Cohort",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: Apply now for Tavern's December Cohort for FinTech founders & investors. FinTech founders are rebuilding the infrastructure behind how the world moves, lends, saves, & invests money. It's one of the biggest opportunities in tech, & one of the hardest to execute. Regulation, bank partnerships, compliance, fraud, & the challenge of earning customer trust mean the path from idea to scale is rarely straightforward. Founders who win usually have the right people around them. Tavern is launching a FinTech cohort for founders & investors to learn from each other, share hard-won playbooks, & build the companies that will define the future of finance, from conception to exit or IPO. Learn about achieving rapid growth from top-tier FinTech founders & investors. What is Tavern? Tavern is a membership community of 100+ founders, investors, & ecosystem builders divided into niche cohorts based on common interests. Members include VC-backed founders, bootstrapped founders, post-exit founders, angel investors, & high-profile VCs. We provide a caring & ambitious community, premium events including weekly VC office hours, & a variety of coworking & social spaces. This cohort launches December 1. Applications will be considered on a rolling basis until cohort launch. Application & interview are required prior to admission. This cohort is a paid program. Membership is $129/month. It includes all benefits of the Tavern Community membership, in addition to cohort-specific programming."
-    },
-    "gary_2026_11_24_building_the_new_energy_frontier": {
-      "title": "Building The New Energy Frontier",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "time": "5 PM",
-      "sort": 17,
-      "when": "Tue, 11/24 · 5:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "South Park Commons, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/flk07p7/Building-The-New-Energy-Frontier",
-      "map": "https://maps.google.com/?q=South%20Park%20Commons%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Keeley Erhardt (Founder/CEO, Strobe Power), Britt Reichborn-Kjennerud (Dir. Distribution Planning, ConEd)."
-    },
-    "gary_2026_11_24_b2b_ai_founders_investors_meetup": {
-      "title": "B2B AI Founders & Investors Meetup",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 11/24 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Ivory Peacock, 38 W 26th St",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/mw05mc5/B2B-AI-Founders-Investors-Meetup",
-      "map": "https://maps.google.com/?q=Ivory%20Peacock%2C%2038%20W%2026th%20St",
-      "summary": "Gary's Guide: NYC B2B is the premier community for B2B Founders, Operators, & Investors in NYC. NYC B2B often hosts happy hour events for founders, builders, & investors based in NYC. This is an exclusive event for B2B AI founders & investors. Want to sponsor future events? Email: newyorkcityventures@gmail.com This meetup is hosted by NYC B2B. It's a great way to meet other founders, builders, & investors. Whether you're building a company, exploring a side project, or considering a new idea, we would love to have you here. NYC B2B has previously hosted events for thousands of B2B startup founders + operators in NYC across Vertical SaaS, AI, FinTech, Healthcare, DevTools, Infrastructure, & more. By signing up, you are confirming your interest in hearing about more events from NYC B2B in the future via email! NYC B2B also helps connect those who sign up with awesome partners. Note: This is a 21+ event. Please let our team know in advance if you'd like to bring a guest, as unregistered +1s will not be admitted. Attendees who disregard this policy may not be invited to future NYC B2B events. - Hiring or looking for jobs? startupjobs.nyc"
-    },
-    "gary_2026_11_24_chip_in_mpr_fintech_poker_night": {
-      "title": "CHiP IN - MPR Fintech Poker Night",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 11/24 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/1yc39ss/CHiP-IN-MPR-Fintech-Poker-Night",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With SIQ & Parallel Worlds."
-    },
-    "gary_2026_11_24_computer_vision_vibe_coding": {
-      "title": "Computer Vision Vibe Coding",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Tue, 11/24 · 6:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Vonage DUMBO, 20 Jay St, 2nd Fl, Brooklyn",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/ic58e22/Computer-Vision-Vibe-Coding",
-      "map": "https://maps.google.com/?q=Vonage%20DUMBO%2C%2020%20Jay%20St%2C%202nd%20Fl%2C%20Brooklyn",
-      "summary": "Gary's Guide: With Lovable."
-    },
-    "gary_2026_11_24_the_business_ai_exchange_practical_ai_for_business_g": {
-      "title": "The Business AI Exchange: Practical AI For Business Growth & Operations",
-      "type": "tech",
-      "label": "Tech / AI",
-      "day": "Tue",
-      "date": "2026-11-24",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Tue, 11/24 · 7:00pm",
-      "price": "Free",
-      "free": true,
-      "place": "Soft Bar, 200 Banker St, Brooklyn",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/zhuo8h9/The-Business-AI-Exchange-Practical-AI-For-Business-Growth-Operations",
-      "map": "https://maps.google.com/?q=Soft%20Bar%2C%20200%20Banker%20St%2C%20Brooklyn",
-      "summary": "Gary's Guide: Join Manuports for a relaxed evening of conversations with NYC business owners, manufacturers, operations leaders, & technology enthusiasts. Share challenges, exchange ideas, learn from other businesses, & explore what AI can actually do for yours. Who's invited? Business owners & entrepreneurs looking to grow & learn from others. Manufacturers & operations leaders interested in reducing costs & improving efficiency. AI founders & technology partners looking to connect & collaborate. Students & young professionals curious about business, AI, & entrepreneurship. Anyone eager to learn & meet interesting people! No AI expertise needed. Just bring your curiosity, questions, & ideas. Event Details Date: Tuesday, November 24, 2026 Time: 7:00-9:00 PM EST Venue: Soft Bar, 200 Banker St, Brooklyn, NY 11222 Admission: Free, RSVP required Hosted by: Manuports RSVP through Luma to request your spot. Space is limited. Good conversations. New connections. Real opportunities."
     },
     "gary_2026_11_25_startup_founders_investors_talent_mixer": {
       "title": "Startup Founders, Investors & Talent Mixer",
@@ -1214,6 +1113,108 @@
       "map": "https://maps.google.com/?q=Resident%20Company%20Club%2C%20115%20W%2018th%20St%2C%202nd%20Fl",
       "summary": "Gary's Guide: With Mitchell Bregman (Founder/CEO, Galaxy), Ishan Rakshit (Founder, Sortment)."
     },
+    "gary_2026_12_03_ai_engineers_poker_game_night": {
+      "title": "AI Engineers - Poker & Game Night",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Thu",
+      "date": "2026-12-03",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Thu, 12/03 · 7:00pm",
+      "price": "Varies",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/ejkgidh/AI-Engineers-Poker-Game-Night",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies. We'll have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart. Complimentary drinks & pizza are on us. High signal, low pressure. Come play poker, jump into games, & spend the night with some of NYC's top engineers, founders, & operators. Limited seats. Registration: require linkedin, company, job title, & include the following multiple choice (single select) How would you like to participate? Poker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in. *Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi, click Get Hired, & apply. Options: Poker ($100 buy-in, seat not guaranteed) Hang Out & Other Games Hiring? Want intros to startups? Location Williamsburg, NY"
+    },
+    "gary_2026_12_03_nycfc_founders_dinner_w_rho": {
+      "title": "NYCFC Founders Dinner w/ Rho",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-12-03",
+      "time": "7 PM",
+      "sort": 19,
+      "when": "Thu, 12/03 · 7:00pm",
+      "price": "Varies",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/kkhptiq/NYCFC-Founders-Dinner-w-Rho",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: 20 founders, one great table, & an evening shared with exceptional people. Join the NYC Founders Club for an intimate private dinner designed for effortless connection, brilliant conversation, & a world-class meal in the heart of the city.Spots are tight to keep the table livelywed love for you to join the table.Our PartnerSponsored by Rho Rho is the all-in-one banking platform for startups & the accountants supporting them. With banking setup in minutes, cashback cards, & tools for managing spend, paying bills, & closing the books, Rho helps high-growth startups move fast & stay focused, backed by support that goes to the end of the earth to help you win.Rho is a fintech company, not a bank. Checking services provided & cards issued by Webster Bank, a division of Santander Bank, N.A. Member FDIC & Lead Bank, Member FDIC.By registering, you consent to receiving communications from NYC Founders Club regarding this event & future opportunities. By participating in this Rho-sponsored event, you acknowledge that you may be photographed or recorded. You grant irrevocable consent to Rho & its partners to use your likeness in promotional materials without compensation. You consent to receive marketing communications & newsletters from Rho. You may unsubscribe at any time."
+    },
+    "gary_2026_12_04_capital_for_good_conference": {
+      "title": "Capital For Good Conference",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Fri",
+      "date": "2026-12-04",
+      "time": "9 AM",
+      "sort": 9,
+      "when": "Fri, 12/04 · 9:00am",
+      "price": "$150",
+      "free": false,
+      "place": "Columbia Biz School, 645 W 130th St, David Geffen Hall",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/4t21s5g/Capital-For-Good-Conference",
+      "map": "https://maps.google.com/?q=Columbia%20Biz%20School%2C%20645%20W%20130th%20St%2C%20David%20Geffen%20Hall",
+      "summary": "Gary's Guide: With Joel Rose (Founder/CEO, New Classrooms), Kathleen Wallace (Dir., World Bank), Keith Katz (Co-Founder, Execution Labs), Ravina Advani (MD, BNP Paribas), Jemina Bernard (President, Arena), Rich Nightingale (CEO, Westhab), Meredith Shields (Head of Citi Impact Fund)."
+    },
+    "gary_2026_12_04_health_frontier_hackathon": {
+      "title": "Health Frontier Hackathon",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Fri",
+      "date": "2026-12-04",
+      "time": "3 PM",
+      "sort": 15,
+      "when": "Fri, 12/04 · 3:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/3g89j17/Health-Frontier-Hackathon",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With General Catalyst, Percepta, Healthcare AI Guy Media."
+    },
+    "gary_2026_12_05_agentic_finance_hack": {
+      "title": "Agentic Finance Hack",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Sat",
+      "date": "2026-12-05",
+      "time": "9:30 AM",
+      "sort": 9.5,
+      "when": "Sat, 12/05 · 9:30am",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/vhrfocr/Agentic-Finance-Hack",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Pradeep Dhananjaya (Tech Lead, Amazon AWS)."
+    },
+    "gary_2026_12_06_nyc_founder_reset": {
+      "title": "NYC Founder Reset",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Sun",
+      "date": "2026-12-06",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Sun, 12/06 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Othership Flatiron, 23 W 20th St",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/13v0adl/NYC-Founder-Reset",
+      "map": "https://maps.google.com/?q=Othership%20Flatiron%2C%2023%20W%2020th%20St",
+      "summary": "Gary's Guide: For Series A+ founders only."
+    },
     "luma_2026_11_29_context_engineering_guild_of_new_york_city_november_": {
       "title": "Context Engineering Guild of New York City: November Edition",
       "type": "tech",
@@ -1383,57 +1384,6 @@
       "link": "https://engineering.nyu.edu/events/2026/12/02/instructional-tech-drop-sessions",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
-    },
-    "jc_culture_10005063_2026_11_25_toy_drive_donations_2026": {
-      "title": "Toy Drive Donations 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Wed",
-      "date": "2026-11-25",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Wed, 11/25 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-25/",
-      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
-    },
-    "jc_culture_10003578_2026_11_25_hamilton_park_farmers_market_2026": {
-      "title": "Hamilton Park Farmers Market 2026",
-      "type": "market",
-      "label": "Festival / Market",
-      "day": "Wed",
-      "date": "2026-11-25",
-      "time": "4 PM",
-      "sort": 16,
-      "when": "Wed, 11/25 · 4pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Hamilton Park, 9 McWilliams Pl., Jersey City, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/hamilton-park-farmers-market-2026-2/2026-11-25/",
-      "map": "https://maps.google.com/?q=Hamilton%20Park%2C%209%20McWilliams%20Pl.%2C%20Jersey%20City%2C%20NJ",
-      "summary": "Join us at the Hamilton Park Farmers Market, your midweek destination for fresh, local, and thoughtfully crafted food and goods. Each week, we’re proud to feature farm-fresh produce from Stony Hill Farm alongside a curated selection of specialty vendors. Browse a variety of offerings including our long time vendor Pickles and Olives, fresh seafood from Scale Fish Market, and prepared foods perfect for dinner. You can also find baked goods, candles, personal care products, and more. You can even take advantage of convenient services like on-site knife sharpening while you shop. On the first and second Wednesdays of each month, enjoy live entertainment that adds to the vibrant, community atmosphere of the market. Whether you’re shopping for the week, grabbing a bite, or simply enjoying the park, the Hamilton Park Farmers Market is a welcoming space to connect with local vendors and neighbors."
-    },
-    "jc_culture_45509_2026_11_25_thanksgiving_r_b": {
-      "title": "Thanksgiving R&B",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Wed",
-      "date": "2026-11-25",
-      "time": "6 PM",
-      "sort": 18,
-      "when": "Wed, 11/25 · 6pm",
-      "price": "Free / varies",
-      "free": true,
-      "place": "brightside tavern, 141 Bright Street, jersey city, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/thanksgiving-rb-jam/",
-      "map": "https://maps.google.com/?q=brightside%20tavern%2C%20141%20Bright%20Street%2C%20jersey%20city%2C%20NJ",
-      "summary": "THE R&B THANKSGIVING EVE JAM Celebrate Thanksgiving Eve with The R&B Thanksgiving Eve Jam — a night of classic R&B, great vibes, and unforgettable memories at The Bright Side Tavern in Jersey City! Take a musical journey through the ’80s, ’90s, and 2000s as a live R&B band brings your favorite hits to life. Enjoy special live performances, crowd-favorite sing-alongs, and DJs spinning the classic R&B jams that bring back the best memories. Gather your friends and family, enjoy delicious food and drinks, and get ready for a night filled with feel-good music, dancing, and community. From the timeless slow jams to the uptempo hits that keep you moving, this is your chance to sing along, reconnect, and celebrate the holiday season in style. Great music. Good people. Classic R&B. The perfect Thanksgiving Eve celebration! 📍 The Bright Side Tavern | Jersey City, NJ"
     },
     "jc_culture_10005064_2026_11_26_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -2092,15 +2042,6 @@
       "juggling",
       "ted_rosenthal"
     ],
-    "cluster_2026_11_24_6_pm": [
-      "gary_2026_11_24_b2b_ai_founders_investors_meetup",
-      "gary_2026_11_24_chip_in_mpr_fintech_poker_night",
-      "gary_2026_11_24_computer_vision_vibe_coding"
-    ],
-    "cluster_2026_11_25_6_pm": [
-      "gary_2026_11_25_startup_founders_investors_talent_mixer",
-      "jc_culture_45509_2026_11_25_thanksgiving_r_b"
-    ],
     "cluster_2026_12_01_5_pm": [
       "gary_2026_12_01_behind_the_brands",
       "gary_2026_12_01_nachotuesday_founder_vc_holiday_happy_hour",
@@ -2145,6 +2086,19 @@
       "gary_2026_12_03_encord_gtm_happy_hour",
       "gary_2026_12_03_product_design_exec_leaders_dinner",
       "gary_2026_12_03_ugly_talk_how_to_raise_your_first_round_in_2027"
+    ],
+    "cluster_2026_12_03_7_pm": [
+      "gary_2026_12_03_ai_engineers_poker_game_night",
+      "gary_2026_12_03_nycfc_founders_dinner_w_rho",
+      "jc_culture_45579_2026_12_03_mjch_presents_enduring_promise_2026"
+    ],
+    "cluster_2026_12_04_9_am": [
+      "gary_2026_12_04_capital_for_good_conference",
+      "jc_culture_10005072_2026_12_04_toy_drive_donations_2026"
+    ],
+    "cluster_2026_12_06_6_pm": [
+      "gary_2026_12_06_nyc_founder_reset",
+      "jc_culture_43694_2026_12_06_smush_gallery_work_share_monthly_artist_feedback_ses"
     ],
     "cluster_2026_12_02_11_pm": [
       "luma_2026_12_02_health_ai_happy_hour_health_frontier_nyc",
