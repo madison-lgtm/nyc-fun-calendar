@@ -1,47 +1,47 @@
 {
   "meta": {
-    "checked": "Nov 26, 2026, 2:55 PM EST",
+    "checked": "Nov 26, 2026, 9:21 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-27",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-28",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-29",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-30",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-12-01",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-12-02",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-03",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
@@ -49,187 +49,187 @@
     ],
     "monthDays": [
       {
-        "iso": "2026-11-26",
+        "iso": "2026-11-27",
         "key": "Thu",
         "label": "Thu",
         "date": "Nov 26"
       },
       {
-        "iso": "2026-11-27",
+        "iso": "2026-11-28",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-28",
+        "iso": "2026-11-29",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-30",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-12-01",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-12-02",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-03",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-04",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-05",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-06",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
       },
       {
-        "iso": "2026-12-06",
+        "iso": "2026-12-07",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 6"
       },
       {
-        "iso": "2026-12-07",
+        "iso": "2026-12-08",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 7"
       },
       {
-        "iso": "2026-12-08",
+        "iso": "2026-12-09",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
       },
       {
-        "iso": "2026-12-09",
+        "iso": "2026-12-10",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 9"
       },
       {
-        "iso": "2026-12-10",
+        "iso": "2026-12-11",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 10"
       },
       {
-        "iso": "2026-12-11",
+        "iso": "2026-12-12",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 11"
       },
       {
-        "iso": "2026-12-12",
+        "iso": "2026-12-13",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 12"
       },
       {
-        "iso": "2026-12-13",
+        "iso": "2026-12-14",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 13"
       },
       {
-        "iso": "2026-12-14",
+        "iso": "2026-12-15",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 14"
       },
       {
-        "iso": "2026-12-15",
+        "iso": "2026-12-16",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 15"
       },
       {
-        "iso": "2026-12-16",
+        "iso": "2026-12-17",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 16"
       },
       {
-        "iso": "2026-12-17",
+        "iso": "2026-12-18",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 17"
       },
       {
-        "iso": "2026-12-18",
+        "iso": "2026-12-19",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 18"
       },
       {
-        "iso": "2026-12-19",
+        "iso": "2026-12-20",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 19"
       },
       {
-        "iso": "2026-12-20",
+        "iso": "2026-12-21",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 20"
       },
       {
-        "iso": "2026-12-21",
+        "iso": "2026-12-22",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 21"
       },
       {
-        "iso": "2026-12-22",
+        "iso": "2026-12-23",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 22"
       },
       {
-        "iso": "2026-12-23",
+        "iso": "2026-12-24",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 23"
       },
       {
-        "iso": "2026-12-24",
+        "iso": "2026-12-25",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 24"
       },
       {
-        "iso": "2026-12-25",
+        "iso": "2026-12-26",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 25"
       },
       {
-        "iso": "2026-12-26",
+        "iso": "2026-12-27",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 26"
@@ -258,7 +258,8 @@
       "7 PM",
       "7:30 PM",
       "8 PM",
-      "11 PM"
+      "11 PM",
+      "11:30 PM"
     ]
   },
   "events": {
@@ -600,7 +601,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/cb78rbo/2026-Deep-Tech-Founders-Investors-Summit",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Ajmal Thahseen (Founder, Doozy Robotics), Tyler Raciti (Founder, Volumes) and demos by Volumes, Doozy Robotics, The Builder Series, Breakline Society,"
+      "summary": "Gary's Guide: With Ajmal Thahseen (Founder, Doozy Robotics), Tyler Raciti (Founder, Volumes) & demos by Volumes, Doozy Robotics, The Builder Series, Breakline Society,"
     },
     "gary_2026_12_01_winning_the_customer_in_the_age_of_ai": {
       "title": "Winning the Customer In The Age Of AI",
@@ -618,6 +619,23 @@
       "link": "https://www.garysguide.com/events/bo03wko/Winning-the-Customer-In-The-Age-Of-AI",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Maya Prosor (Chief Business Officer, Lemonade), Emil Vainshel (Chairman, WeSure Global Tech), Dan Comyns (CEO, Sellence)."
+    },
+    "gary_2026_12_01_stamford_ai_meetup_w_the_ai_collective": {
+      "title": "Stamford AI Meetup | w/ The AI Collective",
+      "type": "tech",
+      "label": "Tech / AI",
+      "day": "Tue",
+      "date": "2026-12-01",
+      "time": "6 PM",
+      "sort": 18,
+      "when": "Tue, 12/01 · 6:00pm",
+      "price": "Free",
+      "free": true,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/4gveq1u/Stamford-AI-Meetup-w-The-AI-Collective",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: As always, food and drink, engaging conversation, and incredible company will all be provided!Please be advised: Unfortunately, space is very limited at these community events and we can not always accept everyone we would like to. If you are not accepted to this event, please keep applying! We appreciate your application tremendously and we are looking forward to seeing you at a future event very soon!The AI Collective is a global non-profit building the human layer for the AI era. We unite 200,000+ leaders, builders, and stakeholders across 100+ forums worldwide to democratize the frontier, build trust, and coordinate how society navigates the rapid acceleration of technological progress.All attendees and organizers at events affiliated with The AI Collective agree to our privacy policy and are subject to our code of conduct."
     },
     "gary_2026_12_01_counterfictional_futures_speculations_on_biological_": {
       "title": "Counterfictional Futures - Speculations On Biological Intelligence",
@@ -651,7 +669,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/g5kncc6/Looking-For-A-Job-In-The-AI-Era",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Orna Yochai (Business Analyst), Sharon Goren (Head of Marketing, Visit.org), Keren Milman (COO, Mesh Payments), Liat Moran (HR Leader), Hanna Tsyrlin (Global Talent Acquisition Partner, Snappy)."
+      "summary": "Gary's Guide: With Orna Yochai (Business Analyst), Sharon Goren (Head of Mktg, Visit.org), Keren Milman (COO, Mesh Payments), Liat Moran (HR Leader), Hanna Tsyrlin (Global Talent Acquisition Snappy)."
     },
     "gary_2026_12_02_growth_stage_finance_ops_leaders_happy_hour": {
       "title": "Growth Stage Finance & Ops Leaders Happy Hour",
@@ -739,7 +757,7 @@
       "summary": "Gary's Guide: AI Build Lab for Founders Series Take your idea from concept to launch in a series of interactive sessions. Leverage AI tools to build a live product, put it in front of users, & leave with honest feedback, concrete next steps, & the tools to keep going - no coding background required. Session 3: Launch Acquire users, analyze the data, & make the call. Compare your live user engagement against pre-set targets, locate your audience's online channels, & run live outreach during the session. Evaluate the evidence to decide whether to persevere, pivot, or pause, & map out your next test. Who it is for Current NYU students, Alumni, & Faculty Coders & non-coders are welcome. Anyone who wants to explore ideas, is curious about entrepreneurship, or has started building. Deliverables for Session 3: Launch Get to your first users, a plan to market, or a path to pivot An evidence scorecard for your product, or MVP A decision: continue, change, or stop A 14-day plan for the next test Full series highlights Hands-on from start to finish. Every session ends with something real in hand, not just notes. Real customers, not guesses. Founders talk to 5 to 10 potential users & put a working product in front of them. Two tracks. No-code founders build with tools like Lovable, Replit, v0, & Bolt. Founders who code use Claude Code or Cursor. Honest checks built in. Founders open & verify every source, set their success target before the results come in, & have a second tool test every build. A live product with a real ask. Each product goes live with a waitlist, pre-order, or booking option. Demo day. The series ends with founders presenting to guest founders & investors. Tools they keep. Every founder leaves with the full Leverage kit & their own working setup. What founders walk away with A tested idea. Assumptions checked against real conversations & real data. A live product MVP. Reviewed, tested, & in front of first users, or a clear & cheap \"no.\" A decision & a plan. Continue, change, or stop, backed by evidence, with the next 14-day test written out. Their own working toolkit. Research, idea testing, building & review tools, set up & ready to use. The Leverage kit. Every prompt & tool used in the series. Entrepreneurship mindset. Check the sources. Set the target first. Never let the builder grade its own work. A cohort. A group of founders who built alongside them."
     },
     "gary_2026_12_02_show_your_work_finance_leaders_on_ai": {
-      "title": "Show Your Work: Finance Leaders On AI",
+      "title": "Show Your Work - Finance Leaders On AI",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Wed",
@@ -907,6 +925,23 @@
       "link": "https://www.garysguide.com/events/nqbocki/CUNY-IT-Conference-AI-Disruption-Opptys",
       "map": "https://maps.google.com/?q=John%20Jay%20College%20of%20Criminal%20Justice%2C%20524%20W%2059th%20St",
       "summary": "Gary's Guide: The 2026 CUNY IT Conference focused theme is: AI Disruption & Opportunities. Artificial intelligence is reshaping higher education at extraordinary speed, altering how we teach, learn, conduct research, make decisions, design services, & imagine the future of our institutions. For many, AI represents disruption in its most immediate form-challenging long-standing assumptions about expertise, authorship, assessment, labor, privacy, & trust. Yet it also offers new opportunities to improve access, enhance student support, expand creativity, streamline operations, & open new possibilities for teaching & learning. AI is already changing the conditions under which higher education operates. The question is not whether institutions will respond, but how. This year's conference invites the CUNY community & its partners to share ideas, experiments, concerns, strategies, & discoveries that can help us navigate this moment with intelligence, imagination, & care. If you are exploring how AI is disrupting familiar practices-or creating meaningful new opportunities-we encourage you to join us for this year's CUNY IT Conference!"
+    },
+    "gary_2026_12_03_2026_forbes_sportsmoney": {
+      "title": "2026 Forbes SportsMoney",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Thu",
+      "date": "2026-12-03",
+      "time": "8 AM",
+      "sort": 8,
+      "when": "Thu, 12/03 · 8:00am",
+      "price": "Varies",
+      "free": false,
+      "place": "Venue, To Be Announced",
+      "source": "Gary's Guide",
+      "link": "https://www.garysguide.com/events/qmy7epb/2026-Forbes-SportsMoney",
+      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
+      "summary": "Gary's Guide: With Josh Harris (Founder, 26North), Maneet Ahuja (Editor-at-Large & Founder, Iconoclast, Forbes), Rich Paul, (Founder/CEO, KLUTCH Sports Group), Moira Forbes (President & Publisher, ForbesWomen), Brett Knight (Asst Managing Editor, SportsMoney)."
     },
     "gary_2026_12_03_small_business_ai_builder": {
       "title": "Small Business AI Builder",
@@ -1110,7 +1145,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/i8pnnxa/The-Real-Cost-Of-AI-Lessons-From-Teams-Running-It-At-Scale",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Yaron Gurovich (Senior Engineering Manager, Datadog), Lior Rapaport (VP - Software Engineering, Salesforce), Ori Stoliar (CTO, Directeam)."
+      "summary": "Gary's Guide: With Yaron Gurovich (Engg, Datadog), Lior Rapaport (VP - S/w Engg, Salesforce), Ori Stoliar (CTO, Directeam)."
     },
     "gary_2026_12_03_encord_gtm_happy_hour": {
       "title": "Encord GTM Happy Hour",
@@ -1180,40 +1215,6 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Join us for a private, invite-only Poker & Game Night for founders, engineers, & VCs building the next generation of AI companies. We'll have four poker tables running throughout the night, plus board games & video games including Smash Bros & Mario Kart. Complimentary drinks & pizza are on us. High signal, low pressure. Come play poker, jump into games, & spend the night with some of NYC's top engineers, founders, & operators. Limited seats. Registration: require linkedin, company, job title, & include the following multiple choice (single select) How would you like to participate? Poker has a $100 buy-in & limited seating. For guests who select poker, seats are first come, first served at check-in. *Guests accepted into Fonzi Match Day will be guaranteed a poker seat. To join Match Day, visit Fonzi, click Get Hired, & apply. Options: Poker ($100 buy-in, seat not guaranteed) Hang Out & Other Games Hiring? Want intros to startups? Location Williamsburg, NY"
     },
-    "gary_2026_12_03_nycfc_founders_dinner_w_rho": {
-      "title": "NYCFC Founders Dinner w/ Rho",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Thu",
-      "date": "2026-12-03",
-      "time": "7 PM",
-      "sort": 19,
-      "when": "Thu, 12/03 · 7:00pm",
-      "price": "Varies",
-      "free": false,
-      "place": "Venue, To Be Announced",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/kkhptiq/NYCFC-Founders-Dinner-w-Rho",
-      "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: 20 founders, one great table, & an evening shared with exceptional people. Join the NYC Founders Club for an intimate private dinner designed for effortless connection, brilliant conversation, & a world-class meal in the heart of the city.Spots are tight to keep the table livelywed love for you to join the table.Our PartnerSponsored by Rho Rho is the all-in-one banking platform for startups & the accountants supporting them. With banking setup in minutes, cashback cards, & tools for managing spend, paying bills, & closing the books, Rho helps high-growth startups move fast & stay focused, backed by support that goes to the end of the earth to help you win.Rho is a fintech company, not a bank. Checking services provided & cards issued by Webster Bank, a division of Santander Bank, N.A. Member FDIC & Lead Bank, Member FDIC.By registering, you consent to receiving communications from NYC Founders Club regarding this event & future opportunities. By participating in this Rho-sponsored event, you acknowledge that you may be photographed or recorded. You grant irrevocable consent to Rho & its partners to use your likeness in promotional materials without compensation. You consent to receive marketing communications & newsletters from Rho. You may unsubscribe at any time."
-    },
-    "gary_2026_12_04_capital_for_good_conference": {
-      "title": "Capital For Good Conference",
-      "type": "startup",
-      "label": "Startup / Business",
-      "day": "Fri",
-      "date": "2026-12-04",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Fri, 12/04 · 9:00am",
-      "price": "$150",
-      "free": false,
-      "place": "Columbia Biz School, 645 W 130th St, David Geffen Hall",
-      "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/4t21s5g/Capital-For-Good-Conference",
-      "map": "https://maps.google.com/?q=Columbia%20Biz%20School%2C%20645%20W%20130th%20St%2C%20David%20Geffen%20Hall",
-      "summary": "Gary's Guide: With Joel Rose (Founder/CEO, New Classrooms), Kathleen Wallace (Dir., World Bank), Keith Katz (Co-Founder, Execution Labs), Ravina Advani (MD, BNP Paribas), Jemina Bernard (President, Arena), Rich Nightingale (CEO, Westhab), Meredith Shields (Head of Citi Impact Fund)."
-    },
     "luma_2026_11_29_context_engineering_guild_of_new_york_city_november_": {
       "title": "Context Engineering Guild of New York City: November Edition",
       "type": "tech",
@@ -1264,6 +1265,23 @@
       "link": "https://luma.com/aiafter5-notion",
       "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
       "summary": "Luma NYC: AI After 5, Mina Abdulla, Nancy Chen"
+    },
+    "luma_2026_12_02_omnea_x_insight_partners_analyst_to_operator": {
+      "title": "Omnea X Insight Partners -Analyst to Operator",
+      "type": "startup",
+      "label": "Startup / Business",
+      "day": "Wed",
+      "date": "2026-12-02",
+      "time": "11:30 PM",
+      "sort": 23.5,
+      "when": "Wed, 12/02 · 11:30pm",
+      "price": "Free",
+      "free": true,
+      "place": "New York, NY",
+      "source": "Luma NYC",
+      "link": "https://luma.com/bwsfyou3",
+      "map": "https://maps.google.com/?q=New%20York%2C%20NY%20NYC",
+      "summary": "Luma NYC: Omnea, Omnea"
     },
     "nyu_tandon_2026_11_30_using_programmable_signaling_to_tune_therapeutic_imm": {
       "title": "Using programmable signaling to tune therapeutic immune cell state",
@@ -1383,57 +1401,6 @@
       "link": "https://engineering.nyu.edu/events/2026/12/02/instructional-tech-drop-sessions",
       "map": "https://maps.google.com/?q=NYU+Tandon+School+of+Engineering",
       "summary": "NYU Tandon: Workshop / Training"
-    },
-    "jc_culture_10005064_2026_11_26_toy_drive_donations_2026": {
-      "title": "Toy Drive Donations 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Thu",
-      "date": "2026-11-26",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Thu, 11/26 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "CITY OF JC CITY HALL, 280 GROVE ST, JERSEY CITY",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/toy-drive-donations-2026/2026-11-26/",
-      "map": "https://maps.google.com/?q=CITY%20OF%20JC%20CITY%20HALL%2C%20280%20GROVE%20ST%2C%20JERSEY%20CITY",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: City Hall Events Community Holiday Events Kids Activities What's Coming Up?."
-    },
-    "jc_culture_44917_2026_11_26_bayonne_turkey_trot_5k_and_1_mile_fun_run": {
-      "title": "Bayonne Turkey Trot 5K and 1 Mile Fun Run",
-      "type": "park",
-      "label": "Parks / Outdoor",
-      "day": "Thu",
-      "date": "2026-11-26",
-      "time": "9 AM",
-      "sort": 9,
-      "when": "Thu, 11/26 · 9am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "Bayonne County Park, 930 John F. Kennedy Boulevard, Bayonne, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/bayonne-turkey-trot-5k-and-1-mile-fun-run/",
-      "map": "https://maps.google.com/?q=Bayonne%20County%20Park%2C%20930%20John%20F.%20Kennedy%20Boulevard%2C%20Bayonne%2C%20NJ",
-      "summary": "The Bayonne Turkey Trot returns to Bayonne County Park on Thanksgiving morning, Thursday, November 26. A family friendly 1 mile fun run starts at 9 AM and the 5K starts at 10 AM. Shirts are included and strollers are welcome. Full details and registration: https://shophudsoncounty.com/bayonne-turkey-trot/"
-    },
-    "jc_culture_45118_2026_11_26_monique_s_29th_annual_complimentary_thanksgiving_din": {
-      "title": "Monique’s 29th Annual Complimentary Thanksgiving Dinner 2026",
-      "type": "art",
-      "label": "Art / Culture",
-      "day": "Thu",
-      "date": "2026-11-26",
-      "time": "11 AM",
-      "sort": 11,
-      "when": "Thu, 11/26 · 11am",
-      "price": "Free / varies",
-      "free": true,
-      "place": "MONIQUE’S TECHNIQUES, 124 STORMS AVENUE, JERSEY CITY, NJ",
-      "source": "Jersey City Cultural Affairs",
-      "link": "https://jerseycityculture.org/event/moniques-29th-annual-complimentary-thanksgiving-dinner-2026/",
-      "map": "https://maps.google.com/?q=MONIQUE%E2%80%99S%20TECHNIQUES%2C%20124%20STORMS%20AVENUE%2C%20JERSEY%20CITY%2C%20NJ",
-      "summary": "Official Jersey City Cultural Affairs listing. Categories: Community Holiday Events What's Coming Up?."
     },
     "jc_culture_10005065_2026_11_27_toy_drive_donations_2026": {
       "title": "Toy Drive Donations 2026",
@@ -2051,7 +2018,8 @@
       "gary_2026_12_01_entrepreneurs_roundtable",
       "gary_2026_12_01_pm_2_0_product_mgmt_in_age_of_ai",
       "gary_2026_12_01_2026_deep_tech_founders_investors_summit",
-      "gary_2026_12_01_winning_the_customer_in_the_age_of_ai"
+      "gary_2026_12_01_winning_the_customer_in_the_age_of_ai",
+      "gary_2026_12_01_stamford_ai_meetup_w_the_ai_collective"
     ],
     "cluster_2026_12_02_9_am": [
       "gary_2026_12_02_odsc_ai_for_work_summit",
@@ -2067,6 +2035,10 @@
       "gary_2026_12_02_female_founder_s_holiday_party_collab_matchmaking",
       "gary_2026_12_02_startup_founders_investors_talent_mixer",
       "gary_2026_12_02_fintech_crypto_holiday_party"
+    ],
+    "cluster_2026_12_03_8_am": [
+      "gary_2026_12_03_cuny_it_conference_ai_disruption_opptys",
+      "gary_2026_12_03_2026_forbes_sportsmoney"
     ],
     "cluster_2026_12_03_9_am": [
       "gary_2026_12_03_small_business_ai_builder",
@@ -2091,12 +2063,7 @@
     ],
     "cluster_2026_12_03_7_pm": [
       "gary_2026_12_03_ai_engineers_poker_game_night",
-      "gary_2026_12_03_nycfc_founders_dinner_w_rho",
       "jc_culture_45579_2026_12_03_mjch_presents_enduring_promise_2026"
-    ],
-    "cluster_2026_12_04_9_am": [
-      "gary_2026_12_04_capital_for_good_conference",
-      "jc_culture_10005072_2026_12_04_toy_drive_donations_2026"
     ],
     "cluster_2026_12_02_11_pm": [
       "luma_2026_12_02_health_ai_happy_hour_health_frontier_nyc",
@@ -2109,10 +2076,6 @@
     "cluster_2026_12_01_11_am": [
       "nyu_tandon_2026_12_01_instructional_tech_drop_in_sessions",
       "nyu_tandon_2026_12_01_from_particle_clustering_in_wind_tunnels_to_bubble_c"
-    ],
-    "cluster_2026_11_26_9_am": [
-      "jc_culture_10005064_2026_11_26_toy_drive_donations_2026",
-      "jc_culture_44917_2026_11_26_bayonne_turkey_trot_5k_and_1_mile_fun_run"
     ],
     "cluster_2026_12_05_11_am": [
       "jc_culture_44389_2026_12_05_paper_architects_2026",
