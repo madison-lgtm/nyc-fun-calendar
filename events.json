@@ -1,241 +1,241 @@
 {
   "meta": {
-    "checked": "Nov 26, 2026, 9:21 PM EST",
+    "checked": "Nov 27, 2026, 2:44 PM EST",
     "coverage": "Curated Bryant Park listings, latest non-sponsored The Skint digest posts, Nonsense NYC when publicly reachable, official Jersey City Cultural Affairs events, Gary's Guide, Luma NYC, and selected NYU Tandon talks/panels",
     "refresh": "Checks for updated events.json every 30 minutes while open.",
     "weekDays": [
       {
         "iso": "2026-11-27",
-        "key": "Thu",
-        "label": "Thu",
-        "date": "Nov 26"
-      },
-      {
-        "iso": "2026-11-28",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-28",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-11-29",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-11-30",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-01",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-02",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
+      },
+      {
+        "iso": "2026-12-03",
+        "key": "Thu",
+        "label": "Thu",
+        "date": "Dec 3"
       }
     ],
     "monthDays": [
       {
         "iso": "2026-11-27",
-        "key": "Thu",
-        "label": "Thu",
-        "date": "Nov 26"
-      },
-      {
-        "iso": "2026-11-28",
         "key": "Fri",
         "label": "Fri",
         "date": "Nov 27"
       },
       {
-        "iso": "2026-11-29",
+        "iso": "2026-11-28",
         "key": "Sat",
         "label": "Sat",
         "date": "Nov 28"
       },
       {
-        "iso": "2026-11-30",
+        "iso": "2026-11-29",
         "key": "Sun",
         "label": "Sun",
         "date": "Nov 29"
       },
       {
-        "iso": "2026-12-01",
+        "iso": "2026-11-30",
         "key": "Mon",
         "label": "Mon",
         "date": "Nov 30"
       },
       {
-        "iso": "2026-12-02",
+        "iso": "2026-12-01",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 1"
       },
       {
-        "iso": "2026-12-03",
+        "iso": "2026-12-02",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 2"
       },
       {
-        "iso": "2026-12-04",
+        "iso": "2026-12-03",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 3"
       },
       {
-        "iso": "2026-12-05",
+        "iso": "2026-12-04",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 4"
       },
       {
-        "iso": "2026-12-06",
+        "iso": "2026-12-05",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 5"
       },
       {
-        "iso": "2026-12-07",
+        "iso": "2026-12-06",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 6"
       },
       {
-        "iso": "2026-12-08",
+        "iso": "2026-12-07",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 7"
       },
       {
-        "iso": "2026-12-09",
+        "iso": "2026-12-08",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 8"
       },
       {
-        "iso": "2026-12-10",
+        "iso": "2026-12-09",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 9"
       },
       {
-        "iso": "2026-12-11",
+        "iso": "2026-12-10",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 10"
       },
       {
-        "iso": "2026-12-12",
+        "iso": "2026-12-11",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 11"
       },
       {
-        "iso": "2026-12-13",
+        "iso": "2026-12-12",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 12"
       },
       {
-        "iso": "2026-12-14",
+        "iso": "2026-12-13",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 13"
       },
       {
-        "iso": "2026-12-15",
+        "iso": "2026-12-14",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 14"
       },
       {
-        "iso": "2026-12-16",
+        "iso": "2026-12-15",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 15"
       },
       {
-        "iso": "2026-12-17",
+        "iso": "2026-12-16",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 16"
       },
       {
-        "iso": "2026-12-18",
+        "iso": "2026-12-17",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 17"
       },
       {
-        "iso": "2026-12-19",
+        "iso": "2026-12-18",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 18"
       },
       {
-        "iso": "2026-12-20",
+        "iso": "2026-12-19",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 19"
       },
       {
-        "iso": "2026-12-21",
+        "iso": "2026-12-20",
         "key": "Sun",
         "label": "Sun",
         "date": "Dec 20"
       },
       {
-        "iso": "2026-12-22",
+        "iso": "2026-12-21",
         "key": "Mon",
         "label": "Mon",
         "date": "Dec 21"
       },
       {
-        "iso": "2026-12-23",
+        "iso": "2026-12-22",
         "key": "Tue",
         "label": "Tue",
         "date": "Dec 22"
       },
       {
-        "iso": "2026-12-24",
+        "iso": "2026-12-23",
         "key": "Wed",
         "label": "Wed",
         "date": "Dec 23"
       },
       {
-        "iso": "2026-12-25",
+        "iso": "2026-12-24",
         "key": "Thu",
         "label": "Thu",
         "date": "Dec 24"
       },
       {
-        "iso": "2026-12-26",
+        "iso": "2026-12-25",
         "key": "Fri",
         "label": "Fri",
         "date": "Dec 25"
       },
       {
-        "iso": "2026-12-27",
+        "iso": "2026-12-26",
         "key": "Sat",
         "label": "Sat",
         "date": "Dec 26"
+      },
+      {
+        "iso": "2026-12-27",
+        "key": "Sun",
+        "label": "Sun",
+        "date": "Dec 27"
       }
     ],
-    "todayKey": "Thu",
+    "todayKey": "Fri",
     "times": [
       "12 AM",
       "7 AM",
@@ -586,8 +586,8 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Product Management in the Age of AIIf AI can write the PRD, summarize customer feedback, research competitors, & build prototypes what is the Product Managers job now?Join Pioneering Minds AI for an interactive workshop on how product management is changing in the age of AI, & what makes a great PM today.Well bring together both experienced old-school PMs & a new generation of AI-native PMs to compare how the role has evolved, which skills still matter, & what students should focus on if they want to work in product.What Well DiscussWhat great PMs looked like before AIWhich traditional PM skills still matterWhich parts of the job AI is already changingHow PMs can use AI for research, prototyping, prioritization, & product discoveryWhether PMs need to become more technicalWhy judgment, taste, communication, & problem selection may matter more than everWhat companies may look for in the next generation of PMsWell also discuss a bigger question:When AI makes execution easier, does the PMs real value shift from managing the process to deciding what should be built in the first place?No previous PM or technical experience is required. The session is designed primarily for students, aspiring PMs, & early-career professionals interested in product, startups, & AI.Hackathon PreviewThis workshop takes place the day before the Pioneering Minds AI Hackathon & will also serve as a warm-up for participants.Well share an early look at the hackathon tracks:Critical Thinking & LearningAI for Product Management WorkflowsLegal Tech WorkflowsFintech & Insurtech WorkflowsWell also provide guidance on choosing a strong problem, designing an AI-native workflow, & what judges will be looking for.If youre joining the hackathon, this is your chance to get a head start.About Pioneering Minds AIAt pioneeringminds.ai, we grow AI-native pioneers who build, deploy, & govern AI responsibly while keeping humans in the front seat."
     },
-    "gary_2026_12_01_2026_deep_tech_founders_investors_summit": {
-      "title": "2026 Deep Tech Founders & Investors Summit",
+    "gary_2026_12_01_deep_tech_founders_investors_summit": {
+      "title": "Deep Tech Founders & Investors Summit",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Tue",
@@ -599,12 +599,12 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/cb78rbo/2026-Deep-Tech-Founders-Investors-Summit",
+      "link": "https://www.garysguide.com/events/cb78rbo/Deep-Tech-Founders-Investors-Summit",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Ajmal Thahseen (Founder, Doozy Robotics), Tyler Raciti (Founder, Volumes) & demos by Volumes, Doozy Robotics, The Builder Series, Breakline Society,"
+      "summary": "Gary's Guide: With Ajmal Thahseen (Founder, Doozy Robotics), Tyler Raciti (Founder, Volumes), The Builder Series, Breakline Society."
     },
-    "gary_2026_12_01_winning_the_customer_in_the_age_of_ai": {
-      "title": "Winning the Customer In The Age Of AI",
+    "gary_2026_12_01_winning_the_customer_in_age_of_ai": {
+      "title": "Winning The Customer In Age Of AI",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Tue",
@@ -616,12 +616,12 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/bo03wko/Winning-the-Customer-In-The-Age-Of-AI",
+      "link": "https://www.garysguide.com/events/bo03wko/Winning-The-Customer-In-Age-Of-AI",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Maya Prosor (Chief Business Officer, Lemonade), Emil Vainshel (Chairman, WeSure Global Tech), Dan Comyns (CEO, Sellence)."
+      "summary": "Gary's Guide: With Emil Vainshel (Chairman, WeSure Global Tech), Dan Comyns (CEO, Sellence), Maya Prosor (Chief Business Officer, Lemonade)."
     },
-    "gary_2026_12_01_stamford_ai_meetup_w_the_ai_collective": {
-      "title": "Stamford AI Meetup | w/ The AI Collective",
+    "gary_2026_12_01_stamford_ai_meetup": {
+      "title": "Stamford AI Meetup",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Tue",
@@ -633,9 +633,9 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/4gveq1u/Stamford-AI-Meetup-w-The-AI-Collective",
+      "link": "https://www.garysguide.com/events/4gveq1u/Stamford-AI-Meetup",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: As always, food and drink, engaging conversation, and incredible company will all be provided!Please be advised: Unfortunately, space is very limited at these community events and we can not always accept everyone we would like to. If you are not accepted to this event, please keep applying! We appreciate your application tremendously and we are looking forward to seeing you at a future event very soon!The AI Collective is a global non-profit building the human layer for the AI era. We unite 200,000+ leaders, builders, and stakeholders across 100+ forums worldwide to democratize the frontier, build trust, and coordinate how society navigates the rapid acceleration of technological progress.All attendees and organizers at events affiliated with The AI Collective agree to our privacy policy and are subject to our code of conduct."
+      "summary": "Gary's Guide: With The AI Collective."
     },
     "gary_2026_12_01_counterfictional_futures_speculations_on_biological_": {
       "title": "Counterfictional Futures - Speculations On Biological Intelligence",
@@ -669,7 +669,7 @@
       "source": "Gary's Guide",
       "link": "https://www.garysguide.com/events/g5kncc6/Looking-For-A-Job-In-The-AI-Era",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Orna Yochai (Business Analyst), Sharon Goren (Head of Mktg, Visit.org), Keren Milman (COO, Mesh Payments), Liat Moran (HR Leader), Hanna Tsyrlin (Global Talent Acquisition Snappy)."
+      "summary": "Gary's Guide: With Keren Milman (COO, Mesh Payments),Sharon Goren (Head of Mktg, Visit.org), Hanna Tsyrlin (Talent Acquisition, Snappy), Liat Moran (HR Leader)."
     },
     "gary_2026_12_02_growth_stage_finance_ops_leaders_happy_hour": {
       "title": "Growth Stage Finance & Ops Leaders Happy Hour",
@@ -773,8 +773,8 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: Happy Hour hosted by ADP x Campfire x Cloudzero x Corgi x JPM x Solvimon One last gathering before the year closes, & you won't want to miss it! Every board wants to see finance's AI plan. Some teams already close the books with agents, & others are just starting their first pilot. For one festive evening, we're bringing both together to swap notes & toast to what's next. Show Your Work An interactive panel of finance leaders at every stage of AI adoption, from we run it in production to we just started. Bring the question you can't ask in other rooms. Who's in Leaders from ADP, Campfire, Cloudzero, Corgi, JPM & Solvimon, plus CFOs, VPs of Finance, controllers & finance directors already putting AI to work. Format 5:30 PM: Arrivals 6:00 PM: Panel 6:30 PM: Drinks, bites, networking & demos 8:30 PM: End Apply to Attend Space is limited & every registration is approved. If you're a finance leader in New York, apply below & end the year with us. About the Hosts ADP is a global leader in payroll, HR & workforce management. Its platform covers payroll, tax compliance, benefits, time tracking & talent management for companies of every size, from startups hiring their first employees to global enterprises. Campfire is the AI-native ERP for high-growth companies. It automates categorization, reconciliation & revenue recognition, so customers close up to 5x faster. CloudZero is the cloud & AI cost intelligence platform. It turns messy cloud & AI bills into a clear view of unit economics, such as cost per customer or cost per feature, so finance & engineering teams can scale responsibly. Corgi is an AI-native insurance carrier for startups, offering fast, flexible coverage from D&O to cyber & AI liability. JPM is one of the world's largest financial services firms. Its Innovation Economy team works with startups, high-growth companies, founders & venture investors, offering banking, treasury & advisory support at every stage of growth. Solvimon is a billing & monetization platform from former Adyen leaders, built for usage-based & hybrid pricing across currencies & entities."
     },
-    "gary_2026_12_02_port_of_entry_a_mixer_for_cross_border_founders_land": {
-      "title": "Port Of Entry: A Mixer For Cross-Border Founders Landing",
+    "gary_2026_12_02_port_of_entry_mixer_for_cross_border_founders_landin": {
+      "title": "Port Of Entry - Mixer For Cross-Border Founders Landing",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Wed",
@@ -786,9 +786,9 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/agxdt0r/Port-Of-Entry-A-Mixer-For-Cross-Border-Founders-Landing",
+      "link": "https://www.garysguide.com/events/agxdt0r/Port-Of-Entry-Mixer-For-Cross-Border-Founders-Landing",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Andrs Cano (Founder, Colectivo)."
+      "summary": "Gary's Guide: With Andres Cano (Founder, Colectivo)."
     },
     "gary_2026_12_02_startup_pitch_mixer": {
       "title": "Startup Pitch Mixer",
@@ -926,8 +926,8 @@
       "map": "https://maps.google.com/?q=John%20Jay%20College%20of%20Criminal%20Justice%2C%20524%20W%2059th%20St",
       "summary": "Gary's Guide: The 2026 CUNY IT Conference focused theme is: AI Disruption & Opportunities. Artificial intelligence is reshaping higher education at extraordinary speed, altering how we teach, learn, conduct research, make decisions, design services, & imagine the future of our institutions. For many, AI represents disruption in its most immediate form-challenging long-standing assumptions about expertise, authorship, assessment, labor, privacy, & trust. Yet it also offers new opportunities to improve access, enhance student support, expand creativity, streamline operations, & open new possibilities for teaching & learning. AI is already changing the conditions under which higher education operates. The question is not whether institutions will respond, but how. This year's conference invites the CUNY community & its partners to share ideas, experiments, concerns, strategies, & discoveries that can help us navigate this moment with intelligence, imagination, & care. If you are exploring how AI is disrupting familiar practices-or creating meaningful new opportunities-we encourage you to join us for this year's CUNY IT Conference!"
     },
-    "gary_2026_12_03_2026_forbes_sportsmoney": {
-      "title": "2026 Forbes SportsMoney",
+    "gary_2026_12_03_forbes_sportsmoney": {
+      "title": "Forbes SportsMoney",
       "type": "startup",
       "label": "Startup / Business",
       "day": "Thu",
@@ -939,9 +939,9 @@
       "free": false,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/qmy7epb/2026-Forbes-SportsMoney",
+      "link": "https://www.garysguide.com/events/qmy7epb/Forbes-SportsMoney",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Josh Harris (Founder, 26North), Maneet Ahuja (Editor-at-Large & Founder, Iconoclast, Forbes), Rich Paul, (Founder/CEO, KLUTCH Sports Group), Moira Forbes (President & Publisher, ForbesWomen), Brett Knight (Asst Managing Editor, SportsMoney)."
+      "summary": "Gary's Guide: With Josh Harris (Founder, 26North), Rich Paul, (Founder/CEO, KLUTCH Sports Group), Moira Forbes (President, ForbesWomen), Brett Knight (Editor, SportsMoney)."
     },
     "gary_2026_12_03_small_business_ai_builder": {
       "title": "Small Business AI Builder",
@@ -1130,8 +1130,8 @@
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
       "summary": "Gary's Guide: With Verci."
     },
-    "gary_2026_12_03_the_real_cost_of_ai_lessons_from_teams_running_it_at": {
-      "title": "The Real Cost Of AI: Lessons From Teams Running It At Scale",
+    "gary_2026_12_03_real_cost_of_ai_lessons_from_teams_running_it_at_sca": {
+      "title": "Real Cost Of AI - Lessons From Teams Running It At Scale",
       "type": "tech",
       "label": "Tech / AI",
       "day": "Thu",
@@ -1143,9 +1143,9 @@
       "free": true,
       "place": "Venue, To Be Announced",
       "source": "Gary's Guide",
-      "link": "https://www.garysguide.com/events/i8pnnxa/The-Real-Cost-Of-AI-Lessons-From-Teams-Running-It-At-Scale",
+      "link": "https://www.garysguide.com/events/i8pnnxa/Real-Cost-Of-AI-Lessons-From-Teams-Running-It-At-Scale",
       "map": "https://maps.google.com/?q=Venue%2C%20To%20Be%20Announced",
-      "summary": "Gary's Guide: With Yaron Gurovich (Engg, Datadog), Lior Rapaport (VP - S/w Engg, Salesforce), Ori Stoliar (CTO, Directeam)."
+      "summary": "Gary's Guide: With Ori Stoliar (CTO, Directeam), Yaron Gurovich (Engg, Datadog), Lior Rapaport (VP S/w Engg, Salesforce)."
     },
     "gary_2026_12_03_encord_gtm_happy_hour": {
       "title": "Encord GTM Happy Hour",
@@ -2017,9 +2017,9 @@
     "cluster_2026_12_01_6_pm": [
       "gary_2026_12_01_entrepreneurs_roundtable",
       "gary_2026_12_01_pm_2_0_product_mgmt_in_age_of_ai",
-      "gary_2026_12_01_2026_deep_tech_founders_investors_summit",
-      "gary_2026_12_01_winning_the_customer_in_the_age_of_ai",
-      "gary_2026_12_01_stamford_ai_meetup_w_the_ai_collective"
+      "gary_2026_12_01_deep_tech_founders_investors_summit",
+      "gary_2026_12_01_winning_the_customer_in_age_of_ai",
+      "gary_2026_12_01_stamford_ai_meetup"
     ],
     "cluster_2026_12_02_9_am": [
       "gary_2026_12_02_odsc_ai_for_work_summit",
@@ -2027,7 +2027,7 @@
     ],
     "cluster_2026_12_02_5_30_pm": [
       "gary_2026_12_02_show_your_work_finance_leaders_on_ai",
-      "gary_2026_12_02_port_of_entry_a_mixer_for_cross_border_founders_land",
+      "gary_2026_12_02_port_of_entry_mixer_for_cross_border_founders_landin",
       "jc_culture_45138_2026_12_02_jersey_city_holiday_concert_2026"
     ],
     "cluster_2026_12_02_6_pm": [
@@ -2038,7 +2038,7 @@
     ],
     "cluster_2026_12_03_8_am": [
       "gary_2026_12_03_cuny_it_conference_ai_disruption_opptys",
-      "gary_2026_12_03_2026_forbes_sportsmoney"
+      "gary_2026_12_03_forbes_sportsmoney"
     ],
     "cluster_2026_12_03_9_am": [
       "gary_2026_12_03_small_business_ai_builder",
@@ -2054,7 +2054,7 @@
       "gary_2026_12_03_self_funded_employer_healthcare_founders_funders_din",
       "gary_2026_12_03_nyc_ai_demos",
       "gary_2026_12_03_female_founder_perfume_workshop",
-      "gary_2026_12_03_the_real_cost_of_ai_lessons_from_teams_running_it_at"
+      "gary_2026_12_03_real_cost_of_ai_lessons_from_teams_running_it_at_sca"
     ],
     "cluster_2026_12_03_6_30_pm": [
       "gary_2026_12_03_encord_gtm_happy_hour",
